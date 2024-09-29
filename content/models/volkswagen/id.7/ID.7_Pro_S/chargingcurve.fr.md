@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Pro S courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Volkswagen ID.7 Pro S."
+description: "Ci-dessous se trouve la courbe de charge pour Volkswagen ID.7 Pro S, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				93,2 kW
+				91,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				90,9 kW
+				89,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				109,5 kW
+				107,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				124,2 kW
+				121,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Zone de chargement optimale
 			</td>
 			<td>
-				3% - 54%
+				3% - 53%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				126,2kW
+				124,2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				21m51s
+				21m47s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				 55 m 23 s
+				 56 m 34 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				 51 m 5 s
+				 52 m 11 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 29 m 4 s
+				 29 m 41 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				12,8 km (8,0 mi)
-			</td>
-			<td>
-				8,6 km (5,3 mi)
-			</td>
-			<td>
-				8,2 km (5,1 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Autonomie par minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				12,5 km (7,8 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,2 km (7,6 mi)
+			</td>
+			<td>
+				8,2 km (5,1 mi)
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Autonomie par minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				17,1 km (10,6 mi)
+				16,7 km (10,4 mi)
 			</td>
 			<td>
-				11,5 km (7,1 mi)
+				11,3 km (7,0 mi)
 			</td>
 			<td>
-				10,9 km (6,8 mi)
+				10,7 km (6,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				74 kW
 			</td>
 			<td>
-				 0 m 52 s
+				 0 m 53 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				99 kW
 			</td>
 			<td>
-				 1 m 30 s
+				 1 m 31 s
 			</td>
 			<td>
 				1,7 kWh
@@ -296,7 +296,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				123 kW
 			</td>
 			<td>
-				 1 m 59 s
+				 2 m 1 s
 			</td>
 			<td>
 				2,6 kWh
@@ -310,7 +310,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				148 kW
 			</td>
 			<td>
-				 2 m 23 s
+				 2 m 26 s
 			</td>
 			<td>
 				3,4 kWh
@@ -324,7 +324,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				172 kW
 			</td>
 			<td>
-				 2 m 43 s
+				 2 m 47 s
 			</td>
 			<td>
 				4,3 kWh
@@ -338,7 +338,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				173 kW
 			</td>
 			<td>
-				 3 m 2 s
+				 3 m 6 s
 			</td>
 			<td>
 				5,2 kWh
@@ -352,7 +352,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				173 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 25 s
 			</td>
 			<td>
 				6,0 kWh
@@ -366,7 +366,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				174 kW
 			</td>
 			<td>
-				 3 m 40 s
+				 3 m 45 s
 			</td>
 			<td>
 				6,9 kWh
@@ -380,7 +380,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				174 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 4 s
 			</td>
 			<td>
 				7,7 kWh
@@ -394,7 +394,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				175 kW
 			</td>
 			<td>
-				 4 m 17 s
+				 4 m 23 s
 			</td>
 			<td>
 				8,6 kWh
@@ -408,7 +408,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				185 kW
 			</td>
 			<td>
-				 4 m 35 s
+				 4 m 41 s
 			</td>
 			<td>
 				9,5 kWh
@@ -422,7 +422,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				186 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				10,3 kWh
@@ -436,7 +436,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				186 kW
 			</td>
 			<td>
-				 5 m 10 s
+				 5 m 17 s
 			</td>
 			<td>
 				11,2 kWh
@@ -450,7 +450,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				186 kW
 			</td>
 			<td>
-				 5 m 28 s
+				 5 m 35 s
 			</td>
 			<td>
 				12,0 kWh
@@ -464,7 +464,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				186 kW
 			</td>
 			<td>
-				 5 m 46 s
+				 5 m 53 s
 			</td>
 			<td>
 				12,9 kWh
@@ -478,7 +478,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				186 kW
 			</td>
 			<td>
-				 6 m 3 s
+				 6 m 11 s
 			</td>
 			<td>
 				13,8 kWh
@@ -492,7 +492,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				187 kW
 			</td>
 			<td>
-				 6 m 21 s
+				 6 m 29 s
 			</td>
 			<td>
 				14,6 kWh
@@ -506,7 +506,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				187 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				15,5 kWh
@@ -520,7 +520,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				188 kW
 			</td>
 			<td>
-				 6 m 55 s
+				 7 m 4 s
 			</td>
 			<td>
 				16,3 kWh
@@ -534,7 +534,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				188 kW
 			</td>
 			<td>
-				 7 m 13 s
+				 7 m 22 s
 			</td>
 			<td>
 				17,2 kWh
@@ -548,7 +548,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				189 kW
 			</td>
 			<td>
-				 7 m 30 s
+				 7 m 40 s
 			</td>
 			<td>
 				18,1 kWh
@@ -562,7 +562,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				189 kW
 			</td>
 			<td>
-				 7 m 47 s
+				 7 m 57 s
 			</td>
 			<td>
 				18,9 kWh
@@ -576,7 +576,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				189 kW
 			</td>
 			<td>
-				 8 m 4 s
+				 8 m 15 s
 			</td>
 			<td>
 				19,8 kWh
@@ -590,7 +590,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				190 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 32 s
 			</td>
 			<td>
 				20,6 kWh
@@ -604,7 +604,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				190 kW
 			</td>
 			<td>
-				 8 m 39 s
+				 8 m 50 s
 			</td>
 			<td>
 				21,5 kWh
@@ -618,7 +618,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				189 kW
 			</td>
 			<td>
-				 8 m 56 s
+				 9 m 8 s
 			</td>
 			<td>
 				22,4 kWh
@@ -632,7 +632,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				189 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 9 m 25 s
 			</td>
 			<td>
 				23,2 kWh
@@ -646,7 +646,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				190 kW
 			</td>
 			<td>
-				 9 m 30 s
+				 9 m 43 s
 			</td>
 			<td>
 				24,1 kWh
@@ -660,7 +660,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				191 kW
 			</td>
 			<td>
-				 9 m 48 s
+				 10 m 0 s
 			</td>
 			<td>
 				24,9 kWh
@@ -674,7 +674,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				190 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
 				25,8 kWh
@@ -688,7 +688,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				189 kW
 			</td>
 			<td>
-				 10 m 22 s
+				 10 m 35 s
 			</td>
 			<td>
 				26,7 kWh
@@ -702,7 +702,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				188 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 10 m 53 s
 			</td>
 			<td>
 				27,5 kWh
@@ -716,7 +716,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				187 kW
 			</td>
 			<td>
-				 10 m 56 s
+				 11 m 11 s
 			</td>
 			<td>
 				28,4 kWh
@@ -730,7 +730,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				186 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 11 m 28 s
 			</td>
 			<td>
 				29,2 kWh
@@ -744,7 +744,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				185 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 11 m 46 s
 			</td>
 			<td>
 				30,1 kWh
@@ -758,7 +758,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				185 kW
 			</td>
 			<td>
-				 11 m 49 s
+				 12 m 4 s
 			</td>
 			<td>
 				31,0 kWh
@@ -772,7 +772,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				185 kW
 			</td>
 			<td>
-				 12 m 7 s
+				 12 m 22 s
 			</td>
 			<td>
 				31,8 kWh
@@ -786,7 +786,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				183 kW
 			</td>
 			<td>
-				 12 m 24 s
+				 12 m 40 s
 			</td>
 			<td>
 				32,7 kWh
@@ -800,7 +800,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				181 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 59 s
 			</td>
 			<td>
 				33,5 kWh
@@ -814,7 +814,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				180 kW
 			</td>
 			<td>
-				 13 m 0 s
+				 13 m 17 s
 			</td>
 			<td>
 				34,4 kWh
@@ -828,7 +828,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				177 kW
 			</td>
 			<td>
-				 13 m 19 s
+				 13 m 36 s
 			</td>
 			<td>
 				35,3 kWh
@@ -842,7 +842,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				173 kW
 			</td>
 			<td>
-				 13 m 37 s
+				 13 m 55 s
 			</td>
 			<td>
 				36,1 kWh
@@ -856,7 +856,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				170 kW
 			</td>
 			<td>
-				 13 m 56 s
+				 14 m 14 s
 			</td>
 			<td>
 				37,0 kWh
@@ -870,7 +870,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				167 kW
 			</td>
 			<td>
-				 14 m 16 s
+				 14 m 34 s
 			</td>
 			<td>
 				37,8 kWh
@@ -884,7 +884,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				165 kW
 			</td>
 			<td>
-				 14 m 35 s
+				 14 m 54 s
 			</td>
 			<td>
 				38,7 kWh
@@ -898,7 +898,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				162 kW
 			</td>
 			<td>
-				 14 m 55 s
+				 15 m 14 s
 			</td>
 			<td>
 				39,6 kWh
@@ -912,7 +912,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				158 kW
 			</td>
 			<td>
-				 15 m 16 s
+				 15 m 35 s
 			</td>
 			<td>
 				40,4 kWh
@@ -926,7 +926,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				156 kW
 			</td>
 			<td>
-				 15 m 36 s
+				 15 m 57 s
 			</td>
 			<td>
 				41,3 kWh
@@ -940,7 +940,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				153 kW
 			</td>
 			<td>
-				 15 m 57 s
+				 16 m 18 s
 			</td>
 			<td>
 				42,1 kWh
@@ -954,7 +954,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				150 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 16 m 40 s
 			</td>
 			<td>
 				43,0 kWh
@@ -968,7 +968,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				148 kW
 			</td>
 			<td>
-				 16 m 41 s
+				 17 m 2 s
 			</td>
 			<td>
 				43,9 kWh
@@ -982,7 +982,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				146 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 25 s
 			</td>
 			<td>
 				44,7 kWh
@@ -996,7 +996,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				141 kW
 			</td>
 			<td>
-				 17 m 26 s
+				 17 m 48 s
 			</td>
 			<td>
 				45,6 kWh
@@ -1010,7 +1010,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				126 kW
 			</td>
 			<td>
-				 17 m 50 s
+				 18 m 13 s
 			</td>
 			<td>
 				46,4 kWh
@@ -1024,7 +1024,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				112 kW
 			</td>
 			<td>
-				 18 m 18 s
+				 18 m 41 s
 			</td>
 			<td>
 				47,3 kWh
@@ -1038,7 +1038,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				107 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 12 s
 			</td>
 			<td>
 				48,2 kWh
@@ -1052,7 +1052,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				105 kW
 			</td>
 			<td>
-				 19 m 18 s
+				 19 m 43 s
 			</td>
 			<td>
 				49,0 kWh
@@ -1066,7 +1066,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				100 kW
 			</td>
 			<td>
-				 19 m 50 s
+				 20 m 15 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1080,7 +1080,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				98 kW
 			</td>
 			<td>
-				 20 m 23 s
+				 20 m 49 s
 			</td>
 			<td>
 				50,7 kWh
@@ -1094,7 +1094,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				96 kW
 			</td>
 			<td>
-				 20 m 56 s
+				 21 m 23 s
 			</td>
 			<td>
 				51,6 kWh
@@ -1108,7 +1108,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				94 kW
 			</td>
 			<td>
-				 21 m 31 s
+				 21 m 58 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1122,7 +1122,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				94 kW
 			</td>
 			<td>
-				 22 m 5 s
+				 22 m 34 s
 			</td>
 			<td>
 				53,3 kWh
@@ -1136,7 +1136,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				99 kW
 			</td>
 			<td>
-				 22 m 39 s
+				 23 m 8 s
 			</td>
 			<td>
 				54,2 kWh
@@ -1150,7 +1150,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				99 kW
 			</td>
 			<td>
-				 23 m 12 s
+				 23 m 42 s
 			</td>
 			<td>
 				55,0 kWh
@@ -1164,7 +1164,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				98 kW
 			</td>
 			<td>
-				 23 m 45 s
+				 24 m 16 s
 			</td>
 			<td>
 				55,9 kWh
@@ -1178,7 +1178,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				94 kW
 			</td>
 			<td>
-				 24 m 19 s
+				 24 m 50 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1192,7 +1192,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				98 kW
 			</td>
 			<td>
-				 24 m 53 s
+				 25 m 25 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1206,7 +1206,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				95 kW
 			</td>
 			<td>
-				 25 m 27 s
+				 26 m 0 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1220,7 +1220,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				93 kW
 			</td>
 			<td>
-				 26 m 1 s
+				 26 m 35 s
 			</td>
 			<td>
 				59,3 kWh
@@ -1234,7 +1234,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				91 kW
 			</td>
 			<td>
-				 26 m 37 s
+				 27 m 11 s
 			</td>
 			<td>
 				60,2 kWh
@@ -1248,7 +1248,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				88 kW
 			</td>
 			<td>
-				 27 m 13 s
+				 27 m 48 s
 			</td>
 			<td>
 				61,1 kWh
@@ -1262,7 +1262,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				87 kW
 			</td>
 			<td>
-				 27 m 50 s
+				 28 m 26 s
 			</td>
 			<td>
 				61,9 kWh
@@ -1276,7 +1276,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				85 kW
 			</td>
 			<td>
-				 28 m 28 s
+				 29 m 5 s
 			</td>
 			<td>
 				62,8 kWh
@@ -1290,7 +1290,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				82 kW
 			</td>
 			<td>
-				 29 m 7 s
+				 29 m 45 s
 			</td>
 			<td>
 				63,6 kWh
@@ -1304,7 +1304,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				81 kW
 			</td>
 			<td>
-				 29 m 47 s
+				 30 m 26 s
 			</td>
 			<td>
 				64,5 kWh
@@ -1318,7 +1318,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				79 kW
 			</td>
 			<td>
-				 30 m 28 s
+				 31 m 7 s
 			</td>
 			<td>
 				65,4 kWh
@@ -1332,7 +1332,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				76 kW
 			</td>
 			<td>
-				 31 m 10 s
+				 31 m 50 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1346,7 +1346,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				75 kW
 			</td>
 			<td>
-				 31 m 53 s
+				 32 m 35 s
 			</td>
 			<td>
 				67,1 kWh
@@ -1360,7 +1360,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				74 kW
 			</td>
 			<td>
-				 32 m 37 s
+				 33 m 19 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1374,7 +1374,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				72 kW
 			</td>
 			<td>
-				 33 m 22 s
+				 34 m 5 s
 			</td>
 			<td>
 				68,8 kWh
@@ -1388,7 +1388,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				71 kW
 			</td>
 			<td>
-				 34 m 7 s
+				 34 m 51 s
 			</td>
 			<td>
 				69,7 kWh
@@ -1402,7 +1402,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				69 kW
 			</td>
 			<td>
-				 34 m 54 s
+				 35 m 39 s
 			</td>
 			<td>
 				70,5 kWh
@@ -1416,7 +1416,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				67 kW
 			</td>
 			<td>
-				 35 m 42 s
+				 36 m 28 s
 			</td>
 			<td>
 				71,4 kWh
@@ -1430,7 +1430,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				65 kW
 			</td>
 			<td>
-				 36 m 31 s
+				 37 m 18 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1444,7 +1444,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				63 kW
 			</td>
 			<td>
-				 37 m 22 s
+				 38 m 10 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1458,7 +1458,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				61 kW
 			</td>
 			<td>
-				 38 m 15 s
+				 39 m 4 s
 			</td>
 			<td>
 				74,0 kWh
@@ -1472,7 +1472,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				60 kW
 			</td>
 			<td>
-				 39 m 9 s
+				 39 m 59 s
 			</td>
 			<td>
 				74,8 kWh
@@ -1486,7 +1486,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				58 kW
 			</td>
 			<td>
-				 40 m 4 s
+				 40 m 55 s
 			</td>
 			<td>
 				75,7 kWh
@@ -1500,7 +1500,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				56 kW
 			</td>
 			<td>
-				 41 m 1 s
+				 41 m 54 s
 			</td>
 			<td>
 				76,5 kWh
@@ -1514,7 +1514,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				55 kW
 			</td>
 			<td>
-				 42 m 0 s
+				 42 m 54 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1528,7 +1528,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				53 kW
 			</td>
 			<td>
-				 43 m 0 s
+				 43 m 56 s
 			</td>
 			<td>
 				78,3 kWh
@@ -1542,7 +1542,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				52 kW
 			</td>
 			<td>
-				 44 m 2 s
+				 44 m 59 s
 			</td>
 			<td>
 				79,1 kWh
@@ -1556,7 +1556,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				50 kW
 			</td>
 			<td>
-				 45 m 6 s
+				 46 m 4 s
 			</td>
 			<td>
 				80,0 kWh
@@ -1570,7 +1570,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				47 kW
 			</td>
 			<td>
-				 46 m 13 s
+				 47 m 13 s
 			</td>
 			<td>
 				80,8 kWh
@@ -1584,7 +1584,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				44 kW
 			</td>
 			<td>
-				 47 m 25 s
+				 48 m 26 s
 			</td>
 			<td>
 				81,7 kWh
@@ -1598,7 +1598,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				41 kW
 			</td>
 			<td>
-				 48 m 41 s
+				 49 m 44 s
 			</td>
 			<td>
 				82,6 kWh
@@ -1612,7 +1612,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				35 kW
 			</td>
 			<td>
-				 50 m 7 s
+				 51 m 12 s
 			</td>
 			<td>
 				83,4 kWh
@@ -1626,7 +1626,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				33 kW
 			</td>
 			<td>
-				 51 m 43 s
+				 52 m 50 s
 			</td>
 			<td>
 				84,3 kWh
@@ -1640,7 +1640,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				30 kW
 			</td>
 			<td>
-				 53 m 27 s
+				 54 m 36 s
 			</td>
 			<td>
 				85,1 kWh
@@ -1654,7 +1654,7 @@ Volkswagen ID.7 Pro S dispose d'un chauffage de batterie, ce qui facilite la cha
 				26 kW
 			</td>
 			<td>
-				 55 m 23 s
+				 56 m 34 s
 			</td>
 			<td>
 				86,0 kWh

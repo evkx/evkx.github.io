@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya R Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Lotus Emeya R."
+description: "Unten ist die Ladekurve für Lotus Emeya R dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				148,0 kW
+				144,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				140,8 kW
+				137,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				221,0 kW
+				216,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				304,6 kW
+				298,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				231,5kW
+				228,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				18m53s
+				18m9s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				 40 m 33 s
+				 41 m 25 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				 38 m 20 s
+				 39 m 10 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 13 m 47 s
+				 14 m 5 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				13,2 km (8,2 mi)
+				12,9 km (8,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,1 km (5,7 mi)
+				8,9 km (5,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				12,6 km (7,8 mi)
+				12,3 km (7,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,5 km (5,3 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				27,2 km (16,9 mi)
+				26,6 km (16,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				18,8 km (11,7 mi)
+				18,4 km (11,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				186 kW
 			</td>
 			<td>
-				 0 m 22 s
+				 0 m 23 s
 			</td>
 			<td>
 				1 kWh
@@ -282,7 +282,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				221 kW
 			</td>
 			<td>
-				 0 m 41 s
+				 0 m 42 s
 			</td>
 			<td>
 				2 kWh
@@ -296,7 +296,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				257 kW
 			</td>
 			<td>
-				 0 m 57 s
+				 0 m 58 s
 			</td>
 			<td>
 				3 kWh
@@ -310,7 +310,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				293 kW
 			</td>
 			<td>
-				 1 m 10 s
+				 1 m 12 s
 			</td>
 			<td>
 				4 kWh
@@ -324,7 +324,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				329 kW
 			</td>
 			<td>
-				 1 m 23 s
+				 1 m 24 s
 			</td>
 			<td>
 				5 kWh
@@ -338,7 +338,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				364 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				6 kWh
@@ -352,7 +352,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 1 m 43 s
+				 1 m 46 s
 			</td>
 			<td>
 				7 kWh
@@ -366,7 +366,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 55 s
 			</td>
 			<td>
 				8 kWh
@@ -380,7 +380,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 2 s
+				 2 m 5 s
 			</td>
 			<td>
 				9 kWh
@@ -394,7 +394,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 15 s
 			</td>
 			<td>
 				10 kWh
@@ -408,7 +408,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 21 s
+				 2 m 24 s
 			</td>
 			<td>
 				11 kWh
@@ -422,7 +422,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				12 kWh
@@ -436,7 +436,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 40 s
+				 2 m 44 s
 			</td>
 			<td>
 				13 kWh
@@ -450,7 +450,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 2 m 53 s
 			</td>
 			<td>
 				14 kWh
@@ -464,7 +464,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 3 m 3 s
 			</td>
 			<td>
 				15 kWh
@@ -478,7 +478,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				400 kW
 			</td>
 			<td>
-				 3 m 9 s
+				 3 m 13 s
 			</td>
 			<td>
 				16 kWh
@@ -492,7 +492,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 3 m 22 s
 			</td>
 			<td>
 				17 kWh
@@ -506,7 +506,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 32 s
 			</td>
 			<td>
 				18 kWh
@@ -520,7 +520,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 3 m 37 s
+				 3 m 42 s
 			</td>
 			<td>
 				19 kWh
@@ -534,7 +534,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				20 kWh
@@ -548,7 +548,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 3 m 56 s
+				 4 m 1 s
 			</td>
 			<td>
 				21 kWh
@@ -562,7 +562,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 4 m 5 s
+				 4 m 11 s
 			</td>
 			<td>
 				22 kWh
@@ -576,7 +576,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 4 m 15 s
+				 4 m 20 s
 			</td>
 			<td>
 				23 kWh
@@ -590,7 +590,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 4 m 24 s
+				 4 m 30 s
 			</td>
 			<td>
 				24 kWh
@@ -604,7 +604,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 4 m 34 s
+				 4 m 40 s
 			</td>
 			<td>
 				25 kWh
@@ -618,7 +618,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				26 kWh
@@ -632,7 +632,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				401 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				27 kWh
@@ -646,7 +646,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				398 kW
 			</td>
 			<td>
-				 5 m 2 s
+				 5 m 9 s
 			</td>
 			<td>
 				28 kWh
@@ -660,7 +660,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				394 kW
 			</td>
 			<td>
-				 5 m 12 s
+				 5 m 18 s
 			</td>
 			<td>
 				29 kWh
@@ -674,7 +674,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				391 kW
 			</td>
 			<td>
-				 5 m 21 s
+				 5 m 28 s
 			</td>
 			<td>
 				30 kWh
@@ -688,7 +688,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				360 kW
 			</td>
 			<td>
-				 5 m 31 s
+				 5 m 39 s
 			</td>
 			<td>
 				31 kWh
@@ -702,7 +702,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				361 kW
 			</td>
 			<td>
-				 5 m 42 s
+				 5 m 49 s
 			</td>
 			<td>
 				32 kWh
@@ -716,7 +716,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				361 kW
 			</td>
 			<td>
-				 5 m 52 s
+				 6 m 0 s
 			</td>
 			<td>
 				33 kWh
@@ -730,7 +730,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				362 kW
 			</td>
 			<td>
-				 6 m 3 s
+				 6 m 11 s
 			</td>
 			<td>
 				34 kWh
@@ -744,7 +744,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				362 kW
 			</td>
 			<td>
-				 6 m 13 s
+				 6 m 21 s
 			</td>
 			<td>
 				35 kWh
@@ -758,7 +758,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				363 kW
 			</td>
 			<td>
-				 6 m 24 s
+				 6 m 32 s
 			</td>
 			<td>
 				36 kWh
@@ -772,7 +772,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				363 kW
 			</td>
 			<td>
-				 6 m 34 s
+				 6 m 43 s
 			</td>
 			<td>
 				37 kWh
@@ -786,7 +786,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				364 kW
 			</td>
 			<td>
-				 6 m 45 s
+				 6 m 53 s
 			</td>
 			<td>
 				38 kWh
@@ -800,7 +800,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				364 kW
 			</td>
 			<td>
-				 6 m 55 s
+				 7 m 4 s
 			</td>
 			<td>
 				39 kWh
@@ -814,7 +814,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				365 kW
 			</td>
 			<td>
-				 7 m 5 s
+				 7 m 15 s
 			</td>
 			<td>
 				40 kWh
@@ -828,7 +828,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				365 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 7 m 25 s
 			</td>
 			<td>
 				41 kWh
@@ -842,7 +842,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				366 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 36 s
 			</td>
 			<td>
 				42 kWh
@@ -856,7 +856,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				350 kW
 			</td>
 			<td>
-				 7 m 37 s
+				 7 m 47 s
 			</td>
 			<td>
 				43 kWh
@@ -870,7 +870,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				351 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 7 m 58 s
 			</td>
 			<td>
 				44 kWh
@@ -884,7 +884,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				352 kW
 			</td>
 			<td>
-				 7 m 58 s
+				 8 m 9 s
 			</td>
 			<td>
 				45 kWh
@@ -898,7 +898,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				353 kW
 			</td>
 			<td>
-				 8 m 9 s
+				 8 m 20 s
 			</td>
 			<td>
 				46 kWh
@@ -912,7 +912,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				354 kW
 			</td>
 			<td>
-				 8 m 20 s
+				 8 m 31 s
 			</td>
 			<td>
 				47 kWh
@@ -926,7 +926,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				355 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				48 kWh
@@ -940,7 +940,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				322 kW
 			</td>
 			<td>
-				 8 m 42 s
+				 8 m 53 s
 			</td>
 			<td>
 				49 kWh
@@ -954,7 +954,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				323 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 5 s
 			</td>
 			<td>
 				50 kWh
@@ -968,7 +968,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				324 kW
 			</td>
 			<td>
-				 9 m 5 s
+				 9 m 17 s
 			</td>
 			<td>
 				51 kWh
@@ -982,7 +982,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				324 kW
 			</td>
 			<td>
-				 9 m 17 s
+				 9 m 29 s
 			</td>
 			<td>
 				52 kWh
@@ -996,7 +996,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				325 kW
 			</td>
 			<td>
-				 9 m 29 s
+				 9 m 41 s
 			</td>
 			<td>
 				53 kWh
@@ -1010,7 +1010,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				326 kW
 			</td>
 			<td>
-				 9 m 40 s
+				 9 m 53 s
 			</td>
 			<td>
 				54 kWh
@@ -1024,7 +1024,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				297 kW
 			</td>
 			<td>
-				 9 m 52 s
+				 10 m 5 s
 			</td>
 			<td>
 				55 kWh
@@ -1038,7 +1038,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				298 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
 				56 kWh
@@ -1052,7 +1052,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				300 kW
 			</td>
 			<td>
-				 10 m 18 s
+				 10 m 31 s
 			</td>
 			<td>
 				57 kWh
@@ -1066,7 +1066,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				301 kW
 			</td>
 			<td>
-				 10 m 30 s
+				 10 m 44 s
 			</td>
 			<td>
 				58 kWh
@@ -1080,7 +1080,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				302 kW
 			</td>
 			<td>
-				 10 m 43 s
+				 10 m 57 s
 			</td>
 			<td>
 				59 kWh
@@ -1094,7 +1094,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				277 kW
 			</td>
 			<td>
-				 10 m 56 s
+				 11 m 10 s
 			</td>
 			<td>
 				60 kWh
@@ -1108,7 +1108,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				274 kW
 			</td>
 			<td>
-				 11 m 10 s
+				 11 m 24 s
 			</td>
 			<td>
 				61 kWh
@@ -1122,7 +1122,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				270 kW
 			</td>
 			<td>
-				 11 m 24 s
+				 11 m 39 s
 			</td>
 			<td>
 				62 kWh
@@ -1136,7 +1136,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				271 kW
 			</td>
 			<td>
-				 11 m 38 s
+				 11 m 53 s
 			</td>
 			<td>
 				63 kWh
@@ -1150,7 +1150,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				272 kW
 			</td>
 			<td>
-				 11 m 52 s
+				 12 m 7 s
 			</td>
 			<td>
 				64 kWh
@@ -1164,7 +1164,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				273 kW
 			</td>
 			<td>
-				 12 m 6 s
+				 12 m 21 s
 			</td>
 			<td>
 				65 kWh
@@ -1178,7 +1178,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				260 kW
 			</td>
 			<td>
-				 12 m 20 s
+				 12 m 36 s
 			</td>
 			<td>
 				66 kWh
@@ -1192,7 +1192,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				255 kW
 			</td>
 			<td>
-				 12 m 35 s
+				 12 m 51 s
 			</td>
 			<td>
 				67 kWh
@@ -1206,7 +1206,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				256 kW
 			</td>
 			<td>
-				 12 m 49 s
+				 13 m 6 s
 			</td>
 			<td>
 				68 kWh
@@ -1220,7 +1220,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				256 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 21 s
 			</td>
 			<td>
 				69 kWh
@@ -1234,7 +1234,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				257 kW
 			</td>
 			<td>
-				 13 m 19 s
+				 13 m 36 s
 			</td>
 			<td>
 				70 kWh
@@ -1248,7 +1248,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				250 kW
 			</td>
 			<td>
-				 13 m 34 s
+				 13 m 52 s
 			</td>
 			<td>
 				71 kWh
@@ -1262,7 +1262,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				242 kW
 			</td>
 			<td>
-				 13 m 49 s
+				 14 m 7 s
 			</td>
 			<td>
 				72 kWh
@@ -1276,7 +1276,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				235 kW
 			</td>
 			<td>
-				 14 m 5 s
+				 14 m 23 s
 			</td>
 			<td>
 				73 kWh
@@ -1290,7 +1290,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				236 kW
 			</td>
 			<td>
-				 14 m 21 s
+				 14 m 40 s
 			</td>
 			<td>
 				74 kWh
@@ -1304,7 +1304,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				237 kW
 			</td>
 			<td>
-				 14 m 37 s
+				 14 m 56 s
 			</td>
 			<td>
 				75 kWh
@@ -1318,7 +1318,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				238 kW
 			</td>
 			<td>
-				 14 m 53 s
+				 15 m 13 s
 			</td>
 			<td>
 				76 kWh
@@ -1332,7 +1332,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				234 kW
 			</td>
 			<td>
-				 15 m 9 s
+				 15 m 29 s
 			</td>
 			<td>
 				77 kWh
@@ -1346,7 +1346,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				231 kW
 			</td>
 			<td>
-				 15 m 26 s
+				 15 m 46 s
 			</td>
 			<td>
 				78 kWh
@@ -1360,7 +1360,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				227 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 3 s
 			</td>
 			<td>
 				79 kWh
@@ -1374,7 +1374,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				223 kW
 			</td>
 			<td>
-				 15 m 59 s
+				 16 m 20 s
 			</td>
 			<td>
 				80 kWh
@@ -1388,7 +1388,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				150 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 16 m 41 s
 			</td>
 			<td>
 				81 kWh
@@ -1402,7 +1402,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				150 kW
 			</td>
 			<td>
-				 16 m 45 s
+				 17 m 6 s
 			</td>
 			<td>
 				82 kWh
@@ -1416,7 +1416,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				150 kW
 			</td>
 			<td>
-				 17 m 10 s
+				 17 m 32 s
 			</td>
 			<td>
 				83 kWh
@@ -1430,7 +1430,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				151 kW
 			</td>
 			<td>
-				 17 m 35 s
+				 17 m 58 s
 			</td>
 			<td>
 				84 kWh
@@ -1444,7 +1444,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				56 kW
 			</td>
 			<td>
-				 18 m 12 s
+				 18 m 35 s
 			</td>
 			<td>
 				85 kWh
@@ -1458,7 +1458,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				55 kW
 			</td>
 			<td>
-				 19 m 20 s
+				 19 m 45 s
 			</td>
 			<td>
 				86 kWh
@@ -1472,7 +1472,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				55 kW
 			</td>
 			<td>
-				 20 m 29 s
+				 20 m 55 s
 			</td>
 			<td>
 				87 kWh
@@ -1486,7 +1486,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				55 kW
 			</td>
 			<td>
-				 21 m 38 s
+				 22 m 6 s
 			</td>
 			<td>
 				88 kWh
@@ -1500,7 +1500,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				55 kW
 			</td>
 			<td>
-				 22 m 47 s
+				 23 m 16 s
 			</td>
 			<td>
 				89 kWh
@@ -1514,7 +1514,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				56 kW
 			</td>
 			<td>
-				 23 m 55 s
+				 24 m 26 s
 			</td>
 			<td>
 				90 kWh
@@ -1528,7 +1528,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				56 kW
 			</td>
 			<td>
-				 25 m 3 s
+				 25 m 35 s
 			</td>
 			<td>
 				91 kWh
@@ -1542,7 +1542,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				49 kW
 			</td>
 			<td>
-				 26 m 15 s
+				 26 m 49 s
 			</td>
 			<td>
 				92 kWh
@@ -1556,7 +1556,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				49 kW
 			</td>
 			<td>
-				 27 m 32 s
+				 28 m 8 s
 			</td>
 			<td>
 				93 kWh
@@ -1570,7 +1570,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				49 kW
 			</td>
 			<td>
-				 28 m 50 s
+				 29 m 27 s
 			</td>
 			<td>
 				94 kWh
@@ -1584,7 +1584,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				49 kW
 			</td>
 			<td>
-				 30 m 7 s
+				 30 m 46 s
 			</td>
 			<td>
 				95 kWh
@@ -1598,7 +1598,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				46 kW
 			</td>
 			<td>
-				 31 m 27 s
+				 32 m 7 s
 			</td>
 			<td>
 				96 kWh
@@ -1612,7 +1612,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				27 kW
 			</td>
 			<td>
-				 33 m 10 s
+				 33 m 53 s
 			</td>
 			<td>
 				97 kWh
@@ -1626,7 +1626,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				28 kW
 			</td>
 			<td>
-				 35 m 28 s
+				 36 m 14 s
 			</td>
 			<td>
 				98 kWh
@@ -1640,7 +1640,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				25 kW
 			</td>
 			<td>
-				 37 m 51 s
+				 38 m 40 s
 			</td>
 			<td>
 				99 kWh
@@ -1654,7 +1654,7 @@ Lotus Emeya R verfügt über eine Batterieheizung, die das Laden bei optimaler B
 				22 kW
 			</td>
 			<td>
-				 40 m 33 s
+				 41 m 25 s
 			</td>
 			<td>
 				100 kWh

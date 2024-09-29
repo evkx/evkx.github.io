@@ -1,7 +1,7 @@
 ---
 title: Renault 5 E-Tech 52kWh 150hp courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Renault 5 E-Tech 52kWh 150hp."
+description: "Ci-dessous se trouve la courbe de charge pour Renault 5 E-Tech 52kWh 150hp, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				45,6 kW
+				44,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				44,5 kW
+				43,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				60,7 kW
+				59,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				75,2 kW
+				73,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Zone de chargement optimale
 			</td>
 			<td>
-				5% - 58%
+				5% - 57%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				68,8kW
+				67,6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				24m2s
+				24m59s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				1 h 8 m 23 s
+				1 h 9 m 52 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				1 h 3 m 10 s
+				1 h 4 m 31 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 29 m 2 s
+				 29 m 39 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,8 km (3,6 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				3,8 km (2,4 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Autonomie par minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				5,7 km (3,5 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,6 km (2,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Autonomie par minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,2 km (3,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				40 kW
 			</td>
 			<td>
-				 0 m 56 s
+				 0 m 57 s
 			</td>
 			<td>
 				0,5 kWh
@@ -282,7 +282,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				50 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 42 s
 			</td>
 			<td>
 				1,0 kWh
@@ -296,7 +296,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				60 kW
 			</td>
 			<td>
-				 2 m 15 s
+				 2 m 18 s
 			</td>
 			<td>
 				1,6 kWh
@@ -310,7 +310,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				67 kW
 			</td>
 			<td>
-				 2 m 47 s
+				 2 m 50 s
 			</td>
 			<td>
 				2,1 kWh
@@ -324,7 +324,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				73 kW
 			</td>
 			<td>
-				 3 m 15 s
+				 3 m 19 s
 			</td>
 			<td>
 				2,6 kWh
@@ -338,7 +338,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				80 kW
 			</td>
 			<td>
-				 3 m 40 s
+				 3 m 45 s
 			</td>
 			<td>
 				3,1 kWh
@@ -352,7 +352,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				83 kW
 			</td>
 			<td>
-				 4 m 5 s
+				 4 m 10 s
 			</td>
 			<td>
 				3,6 kWh
@@ -366,7 +366,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				85 kW
 			</td>
 			<td>
-				 4 m 28 s
+				 4 m 34 s
 			</td>
 			<td>
 				4,2 kWh
@@ -380,7 +380,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				88 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 57 s
 			</td>
 			<td>
 				4,7 kWh
@@ -394,7 +394,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				90 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 5 m 20 s
 			</td>
 			<td>
 				5,2 kWh
@@ -408,7 +408,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				92 kW
 			</td>
 			<td>
-				 5 m 35 s
+				 5 m 42 s
 			</td>
 			<td>
 				5,7 kWh
@@ -422,7 +422,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				94 kW
 			</td>
 			<td>
-				 5 m 56 s
+				 6 m 4 s
 			</td>
 			<td>
 				6,2 kWh
@@ -436,7 +436,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				96 kW
 			</td>
 			<td>
-				 6 m 17 s
+				 6 m 25 s
 			</td>
 			<td>
 				6,8 kWh
@@ -450,7 +450,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				98 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 6 m 46 s
 			</td>
 			<td>
 				7,3 kWh
@@ -464,7 +464,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 6 m 57 s
+				 7 m 6 s
 			</td>
 			<td>
 				7,8 kWh
@@ -478,7 +478,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 7 m 17 s
+				 7 m 26 s
 			</td>
 			<td>
 				8,3 kWh
@@ -492,7 +492,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				8,8 kWh
@@ -506,7 +506,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 7 m 56 s
+				 8 m 6 s
 			</td>
 			<td>
 				9,4 kWh
@@ -520,7 +520,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 8 m 16 s
+				 8 m 27 s
 			</td>
 			<td>
 				9,9 kWh
@@ -534,7 +534,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 8 m 36 s
+				 8 m 47 s
 			</td>
 			<td>
 				10,4 kWh
@@ -548,7 +548,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 7 s
 			</td>
 			<td>
 				10,9 kWh
@@ -562,7 +562,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 9 m 15 s
+				 9 m 27 s
 			</td>
 			<td>
 				11,4 kWh
@@ -576,7 +576,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 9 m 35 s
+				 9 m 47 s
 			</td>
 			<td>
 				12,0 kWh
@@ -590,7 +590,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 9 m 54 s
+				 10 m 7 s
 			</td>
 			<td>
 				12,5 kWh
@@ -604,7 +604,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 10 m 14 s
+				 10 m 27 s
 			</td>
 			<td>
 				13,0 kWh
@@ -618,7 +618,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 10 m 47 s
 			</td>
 			<td>
 				13,5 kWh
@@ -632,7 +632,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 10 m 53 s
+				 11 m 8 s
 			</td>
 			<td>
 				14,0 kWh
@@ -646,7 +646,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 11 m 13 s
+				 11 m 28 s
 			</td>
 			<td>
 				14,6 kWh
@@ -660,7 +660,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 48 s
 			</td>
 			<td>
 				15,1 kWh
@@ -674,7 +674,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 11 m 53 s
+				 12 m 8 s
 			</td>
 			<td>
 				15,6 kWh
@@ -688,7 +688,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 12 m 12 s
+				 12 m 28 s
 			</td>
 			<td>
 				16,1 kWh
@@ -702,7 +702,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 12 m 32 s
+				 12 m 48 s
 			</td>
 			<td>
 				16,6 kWh
@@ -716,7 +716,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 12 m 52 s
+				 13 m 8 s
 			</td>
 			<td>
 				17,2 kWh
@@ -730,7 +730,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 13 m 28 s
 			</td>
 			<td>
 				17,7 kWh
@@ -744,7 +744,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 13 m 31 s
+				 13 m 49 s
 			</td>
 			<td>
 				18,2 kWh
@@ -758,7 +758,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 13 m 51 s
+				 14 m 9 s
 			</td>
 			<td>
 				18,7 kWh
@@ -772,7 +772,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 14 m 11 s
+				 14 m 29 s
 			</td>
 			<td>
 				19,2 kWh
@@ -786,7 +786,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 14 m 49 s
 			</td>
 			<td>
 				19,8 kWh
@@ -800,7 +800,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 14 m 50 s
+				 15 m 9 s
 			</td>
 			<td>
 				20,3 kWh
@@ -814,7 +814,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 15 m 29 s
 			</td>
 			<td>
 				20,8 kWh
@@ -828,7 +828,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				98 kW
 			</td>
 			<td>
-				 15 m 30 s
+				 15 m 50 s
 			</td>
 			<td>
 				21,3 kWh
@@ -842,7 +842,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				96 kW
 			</td>
 			<td>
-				 15 m 50 s
+				 16 m 10 s
 			</td>
 			<td>
 				21,8 kWh
@@ -856,7 +856,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				94 kW
 			</td>
 			<td>
-				 16 m 11 s
+				 16 m 31 s
 			</td>
 			<td>
 				22,4 kWh
@@ -870,7 +870,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				92 kW
 			</td>
 			<td>
-				 16 m 32 s
+				 16 m 53 s
 			</td>
 			<td>
 				22,9 kWh
@@ -884,7 +884,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				90 kW
 			</td>
 			<td>
-				 16 m 53 s
+				 17 m 15 s
 			</td>
 			<td>
 				23,4 kWh
@@ -898,7 +898,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				88 kW
 			</td>
 			<td>
-				 17 m 16 s
+				 17 m 38 s
 			</td>
 			<td>
 				23,9 kWh
@@ -912,7 +912,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				86 kW
 			</td>
 			<td>
-				 17 m 38 s
+				 18 m 1 s
 			</td>
 			<td>
 				24,4 kWh
@@ -926,7 +926,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				84 kW
 			</td>
 			<td>
-				 18 m 1 s
+				 18 m 25 s
 			</td>
 			<td>
 				25,0 kWh
@@ -940,7 +940,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				82 kW
 			</td>
 			<td>
-				 18 m 25 s
+				 18 m 49 s
 			</td>
 			<td>
 				25,5 kWh
@@ -954,7 +954,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				80 kW
 			</td>
 			<td>
-				 18 m 49 s
+				 19 m 14 s
 			</td>
 			<td>
 				26,0 kWh
@@ -968,7 +968,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				79 kW
 			</td>
 			<td>
-				 19 m 14 s
+				 19 m 39 s
 			</td>
 			<td>
 				26,5 kWh
@@ -982,7 +982,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				78 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 5 s
 			</td>
 			<td>
 				27,0 kWh
@@ -996,7 +996,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				77 kW
 			</td>
 			<td>
-				 20 m 5 s
+				 20 m 31 s
 			</td>
 			<td>
 				27,6 kWh
@@ -1010,7 +1010,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				76 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 20 m 57 s
 			</td>
 			<td>
 				28,1 kWh
@@ -1024,7 +1024,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				75 kW
 			</td>
 			<td>
-				 20 m 57 s
+				 21 m 24 s
 			</td>
 			<td>
 				28,6 kWh
@@ -1038,7 +1038,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				74 kW
 			</td>
 			<td>
-				 21 m 23 s
+				 21 m 51 s
 			</td>
 			<td>
 				29,1 kWh
@@ -1052,7 +1052,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				73 kW
 			</td>
 			<td>
-				 21 m 50 s
+				 22 m 18 s
 			</td>
 			<td>
 				29,6 kWh
@@ -1066,7 +1066,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				72 kW
 			</td>
 			<td>
-				 22 m 17 s
+				 22 m 46 s
 			</td>
 			<td>
 				30,2 kWh
@@ -1080,7 +1080,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				71 kW
 			</td>
 			<td>
-				 22 m 45 s
+				 23 m 14 s
 			</td>
 			<td>
 				30,7 kWh
@@ -1094,7 +1094,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				70 kW
 			</td>
 			<td>
-				 23 m 13 s
+				 23 m 43 s
 			</td>
 			<td>
 				31,2 kWh
@@ -1108,7 +1108,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				69 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 24 m 12 s
 			</td>
 			<td>
 				31,7 kWh
@@ -1122,7 +1122,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				68 kW
 			</td>
 			<td>
-				 24 m 10 s
+				 24 m 41 s
 			</td>
 			<td>
 				32,2 kWh
@@ -1136,7 +1136,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				67 kW
 			</td>
 			<td>
-				 24 m 39 s
+				 25 m 11 s
 			</td>
 			<td>
 				32,8 kWh
@@ -1150,7 +1150,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				66 kW
 			</td>
 			<td>
-				 25 m 9 s
+				 25 m 41 s
 			</td>
 			<td>
 				33,3 kWh
@@ -1164,7 +1164,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				65 kW
 			</td>
 			<td>
-				 25 m 39 s
+				 26 m 12 s
 			</td>
 			<td>
 				33,8 kWh
@@ -1178,7 +1178,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				64 kW
 			</td>
 			<td>
-				 26 m 9 s
+				 26 m 43 s
 			</td>
 			<td>
 				34,3 kWh
@@ -1192,7 +1192,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				63 kW
 			</td>
 			<td>
-				 26 m 40 s
+				 27 m 15 s
 			</td>
 			<td>
 				34,8 kWh
@@ -1206,7 +1206,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				62 kW
 			</td>
 			<td>
-				 27 m 12 s
+				 27 m 47 s
 			</td>
 			<td>
 				35,4 kWh
@@ -1220,7 +1220,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				61 kW
 			</td>
 			<td>
-				 27 m 44 s
+				 28 m 20 s
 			</td>
 			<td>
 				35,9 kWh
@@ -1234,7 +1234,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				60 kW
 			</td>
 			<td>
-				 28 m 16 s
+				 28 m 53 s
 			</td>
 			<td>
 				36,4 kWh
@@ -1248,7 +1248,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				59 kW
 			</td>
 			<td>
-				 28 m 49 s
+				 29 m 27 s
 			</td>
 			<td>
 				36,9 kWh
@@ -1262,7 +1262,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				58 kW
 			</td>
 			<td>
-				 29 m 23 s
+				 30 m 1 s
 			</td>
 			<td>
 				37,4 kWh
@@ -1276,7 +1276,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				57 kW
 			</td>
 			<td>
-				 29 m 57 s
+				 30 m 36 s
 			</td>
 			<td>
 				38,0 kWh
@@ -1290,7 +1290,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				56 kW
 			</td>
 			<td>
-				 30 m 32 s
+				 31 m 12 s
 			</td>
 			<td>
 				38,5 kWh
@@ -1304,7 +1304,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				55 kW
 			</td>
 			<td>
-				 31 m 8 s
+				 31 m 48 s
 			</td>
 			<td>
 				39,0 kWh
@@ -1318,7 +1318,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				54 kW
 			</td>
 			<td>
-				 31 m 44 s
+				 32 m 25 s
 			</td>
 			<td>
 				39,5 kWh
@@ -1332,7 +1332,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				53 kW
 			</td>
 			<td>
-				 32 m 21 s
+				 33 m 3 s
 			</td>
 			<td>
 				40,0 kWh
@@ -1346,7 +1346,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				52 kW
 			</td>
 			<td>
-				 32 m 58 s
+				 33 m 41 s
 			</td>
 			<td>
 				40,6 kWh
@@ -1360,7 +1360,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				51 kW
 			</td>
 			<td>
-				 33 m 37 s
+				 34 m 20 s
 			</td>
 			<td>
 				41,1 kWh
@@ -1374,7 +1374,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				50 kW
 			</td>
 			<td>
-				 34 m 16 s
+				 35 m 0 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1388,7 +1388,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				40 kW
 			</td>
 			<td>
-				 34 m 59 s
+				 35 m 45 s
 			</td>
 			<td>
 				42,1 kWh
@@ -1402,7 +1402,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				30 kW
 			</td>
 			<td>
-				 35 m 56 s
+				 36 m 42 s
 			</td>
 			<td>
 				42,6 kWh
@@ -1416,7 +1416,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				29 kW
 			</td>
 			<td>
-				 37 m 3 s
+				 37 m 50 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1430,7 +1430,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				28 kW
 			</td>
 			<td>
-				 38 m 12 s
+				 39 m 1 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1444,7 +1444,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				27 kW
 			</td>
 			<td>
-				 39 m 25 s
+				 40 m 15 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1458,7 +1458,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				26 kW
 			</td>
 			<td>
-				 40 m 40 s
+				 41 m 33 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1472,7 +1472,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				24 kW
 			</td>
 			<td>
-				 41 m 59 s
+				 42 m 53 s
 			</td>
 			<td>
 				45,2 kWh
@@ -1486,7 +1486,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				23 kW
 			</td>
 			<td>
-				 43 m 21 s
+				 44 m 17 s
 			</td>
 			<td>
 				45,8 kWh
@@ -1500,7 +1500,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				22 kW
 			</td>
 			<td>
-				 44 m 48 s
+				 45 m 46 s
 			</td>
 			<td>
 				46,3 kWh
@@ -1514,7 +1514,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				21 kW
 			</td>
 			<td>
-				 46 m 19 s
+				 47 m 19 s
 			</td>
 			<td>
 				46,8 kWh
@@ -1528,7 +1528,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				20 kW
 			</td>
 			<td>
-				 47 m 55 s
+				 48 m 57 s
 			</td>
 			<td>
 				47,3 kWh
@@ -1542,7 +1542,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				19 kW
 			</td>
 			<td>
-				 49 m 36 s
+				 50 m 40 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1556,7 +1556,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				18 kW
 			</td>
 			<td>
-				 51 m 24 s
+				 52 m 30 s
 			</td>
 			<td>
 				48,4 kWh
@@ -1570,7 +1570,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				17 kW
 			</td>
 			<td>
-				 53 m 18 s
+				 54 m 27 s
 			</td>
 			<td>
 				48,9 kWh
@@ -1584,7 +1584,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				16 kW
 			</td>
 			<td>
-				 55 m 20 s
+				 56 m 32 s
 			</td>
 			<td>
 				49,4 kWh
@@ -1598,7 +1598,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				14 kW
 			</td>
 			<td>
-				 57 m 32 s
+				 58 m 46 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1612,7 +1612,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				13 kW
 			</td>
 			<td>
-				 59 m 53 s
+				1 h 1 m 11 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1626,7 +1626,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				12 kW
 			</td>
 			<td>
-				1 h 2 m 28 s
+				1 h 3 m 48 s
 			</td>
 			<td>
 				51,0 kWh
@@ -1640,7 +1640,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				11 kW
 			</td>
 			<td>
-				1 h 5 m 17 s
+				1 h 6 m 41 s
 			</td>
 			<td>
 				51,5 kWh
@@ -1654,7 +1654,7 @@ Renault 5 E-Tech 52kWh 150hp dispose d'un chauffage de batterie, ce qui facilite
 				10 kW
 			</td>
 			<td>
-				1 h 8 m 23 s
+				1 h 9 m 52 s
 			</td>
 			<td>
 				52,0 kWh

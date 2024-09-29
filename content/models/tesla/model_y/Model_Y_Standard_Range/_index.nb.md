@@ -38,9 +38,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 60,0 kWh og en netto brukbar
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 52 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 17 minutter og 30 sekunder.
+Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 53 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 87kW. Hver ladeøkt vil ta 18 minutter og 46 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 55 minutter. Denne reisen ville kreve to ladestopp fra 0% til 51%, med en total ladetid på 95 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 56 minutter. Denne reisen ville kreve to ladestopp fra 0% til 51%, med en total ladetid på 97 minutter.
 
 ### BYD LFP Europa/China market
 
@@ -48,9 +48,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 60,0 kWh og en netto brukbar
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 37 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 113kW. Hver ladeøkt vil ta 18 minutter og 28 sekunder.
+Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 111kW. Hver ladeøkt vil ta 19 minutter og 46 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 35 minutter. Denne reisen ville kreve to ladestopp fra 0% til 64%, med en total ladetid på 75 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 36 minutter. Denne reisen ville kreve to ladestopp fra 0% til 64%, med en total ladetid på 76 minutter.
 
 ### NMC 4850 US Market
 
@@ -58,9 +58,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 70,0 kWh og en netto brukbar
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 36%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 82kW. Hver ladeøkt vil ta 18 minutter og 60 sekunder.
+Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 86 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 35%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 81kW. Hver ladeøkt vil ta 18 minutter og 46 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 52 minutter. Denne reisen ville kreve to ladestopp fra 0% til 37%, med en total ladetid på 93 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 53 minutter. Denne reisen ville kreve to ladestopp fra 0% til 37%, med en total ladetid på 94 minutter.
 
 ### NMC 21700 US Market Software locked
 
@@ -68,9 +68,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 70,0 kWh og en netto brukbar
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 40 minutter, mens et mer vanlig scenario på 10-80 % vil ta 23 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 111kW. Hver ladeøkt vil ta 22 minutter og 49 sekunder.
+Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 41 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 109kW. Hver ladeøkt vil ta 22 minutter og 11 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 28 minutter. Denne reisen ville kreve to ladestopp fra 0% til 62%, med en total ladetid på 69 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 30 minutter. Denne reisen ville kreve to ladestopp fra 0% til 62%, med en total ladetid på 70 minutter.
 
 ### Ombordlader
 

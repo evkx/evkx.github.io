@@ -1,7 +1,7 @@
 ---
 title: Kia EV9 Long Range RWD charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Kia EV9 Long Range RWD."
+description: "Below is the charging curve for Kia EV9 Long Range RWD, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				87.7 kW
+				85.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				83.4 kW
+				81.6 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				122.3 kW
+				119.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				169.5 kW
+				165.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				149.9kW
+				147.3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				28m51s
+				28m21s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 7 m 0 s
+				1 h 8 m 27 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 3 m 28 s
+				1 h 4 m 50 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 24 m 17 s
+				 24 m 48 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				7,3 km (4,5 mi)
+				7,2 km (4,5 mi)
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				8,2 km (5,1 mi)
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				5,8 km (3,6 mi)
+				5,7 km (3,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Range per minute 10-100%
 			</td>
 			<td>
-				6,9 km (4,3 mi)
+				6,8 km (4,2 mi)
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,8 km (4,8 mi)
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,4 km (3,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Range per minute 10-80%
 			</td>
 			<td>
-				14,1 km (8,8 mi)
+				13,8 km (8,6 mi)
 			</td>
 			<td>
-				16,2 km (10,1 mi)
+				15,9 km (9,9 mi)
 			</td>
 			<td>
-				12,3 km (7,6 mi)
+				12,0 km (7,5 mi)
 			</td>
 			<td>
-				11,3 km (7,0 mi)
+				11,1 km (6,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +282,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				182 kW
 			</td>
 			<td>
-				 0 m 52 s
+				 0 m 53 s
 			</td>
 			<td>
 				2.0 kWh
@@ -296,7 +296,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				184 kW
 			</td>
 			<td>
-				 1 m 13 s
+				 1 m 14 s
 			</td>
 			<td>
 				2.9 kWh
@@ -310,7 +310,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				185 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				3.9 kWh
@@ -324,7 +324,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 55 s
 			</td>
 			<td>
 				4.9 kWh
@@ -338,7 +338,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 2 m 13 s
+				 2 m 15 s
 			</td>
 			<td>
 				5.9 kWh
@@ -352,7 +352,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 2 m 32 s
+				 2 m 36 s
 			</td>
 			<td>
 				6.9 kWh
@@ -366,7 +366,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 2 m 52 s
+				 2 m 56 s
 			</td>
 			<td>
 				7.8 kWh
@@ -380,7 +380,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 3 m 12 s
+				 3 m 16 s
 			</td>
 			<td>
 				8.8 kWh
@@ -394,7 +394,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 3 m 32 s
+				 3 m 37 s
 			</td>
 			<td>
 				9.8 kWh
@@ -408,7 +408,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 3 m 52 s
+				 3 m 57 s
 			</td>
 			<td>
 				10.8 kWh
@@ -422,7 +422,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				187 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 4 m 17 s
 			</td>
 			<td>
 				11.8 kWh
@@ -436,7 +436,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				190 kW
 			</td>
 			<td>
-				 4 m 31 s
+				 4 m 37 s
 			</td>
 			<td>
 				12.7 kWh
@@ -450,7 +450,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				190 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 57 s
 			</td>
 			<td>
 				13.7 kWh
@@ -464,7 +464,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				191 kW
 			</td>
 			<td>
-				 5 m 11 s
+				 5 m 17 s
 			</td>
 			<td>
 				14.7 kWh
@@ -478,7 +478,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				192 kW
 			</td>
 			<td>
-				 5 m 30 s
+				 5 m 37 s
 			</td>
 			<td>
 				15.7 kWh
@@ -492,7 +492,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				192 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 57 s
 			</td>
 			<td>
 				16.7 kWh
@@ -506,7 +506,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				194 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 6 m 16 s
 			</td>
 			<td>
 				17.6 kWh
@@ -520,7 +520,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				194 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 36 s
 			</td>
 			<td>
 				18.6 kWh
@@ -534,7 +534,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				194 kW
 			</td>
 			<td>
-				 6 m 47 s
+				 6 m 56 s
 			</td>
 			<td>
 				19.6 kWh
@@ -548,7 +548,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				194 kW
 			</td>
 			<td>
-				 7 m 6 s
+				 7 m 15 s
 			</td>
 			<td>
 				20.6 kWh
@@ -562,7 +562,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				195 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 35 s
 			</td>
 			<td>
 				21.6 kWh
@@ -576,7 +576,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				195 kW
 			</td>
 			<td>
-				 7 m 44 s
+				 7 m 54 s
 			</td>
 			<td>
 				22.5 kWh
@@ -590,7 +590,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				197 kW
 			</td>
 			<td>
-				 8 m 3 s
+				 8 m 13 s
 			</td>
 			<td>
 				23.5 kWh
@@ -604,7 +604,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				197 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 33 s
 			</td>
 			<td>
 				24.5 kWh
@@ -618,7 +618,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				196 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				25.5 kWh
@@ -632,7 +632,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				196 kW
 			</td>
 			<td>
-				 9 m 0 s
+				 9 m 11 s
 			</td>
 			<td>
 				26.5 kWh
@@ -646,7 +646,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				195 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 31 s
 			</td>
 			<td>
 				27.4 kWh
@@ -660,7 +660,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				197 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 9 m 50 s
 			</td>
 			<td>
 				28.4 kWh
@@ -674,7 +674,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				197 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 9 s
 			</td>
 			<td>
 				29.4 kWh
@@ -688,7 +688,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				196 kW
 			</td>
 			<td>
-				 10 m 15 s
+				 10 m 29 s
 			</td>
 			<td>
 				30.4 kWh
@@ -702,7 +702,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				197 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 10 m 48 s
 			</td>
 			<td>
 				31.4 kWh
@@ -716,7 +716,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				197 kW
 			</td>
 			<td>
-				 10 m 53 s
+				 11 m 7 s
 			</td>
 			<td>
 				32.3 kWh
@@ -730,7 +730,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				198 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 26 s
 			</td>
 			<td>
 				33.3 kWh
@@ -744,7 +744,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				199 kW
 			</td>
 			<td>
-				 11 m 31 s
+				 11 m 46 s
 			</td>
 			<td>
 				34.3 kWh
@@ -758,7 +758,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				200 kW
 			</td>
 			<td>
-				 11 m 49 s
+				 12 m 5 s
 			</td>
 			<td>
 				35.3 kWh
@@ -772,7 +772,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				198 kW
 			</td>
 			<td>
-				 12 m 8 s
+				 12 m 24 s
 			</td>
 			<td>
 				36.3 kWh
@@ -786,7 +786,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				199 kW
 			</td>
 			<td>
-				 12 m 27 s
+				 12 m 43 s
 			</td>
 			<td>
 				37.2 kWh
@@ -800,7 +800,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				200 kW
 			</td>
 			<td>
-				 12 m 45 s
+				 13 m 2 s
 			</td>
 			<td>
 				38.2 kWh
@@ -814,7 +814,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				201 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 21 s
 			</td>
 			<td>
 				39.2 kWh
@@ -828,7 +828,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				201 kW
 			</td>
 			<td>
-				 13 m 22 s
+				 13 m 40 s
 			</td>
 			<td>
 				40.2 kWh
@@ -842,7 +842,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				203 kW
 			</td>
 			<td>
-				 13 m 41 s
+				 13 m 58 s
 			</td>
 			<td>
 				41.2 kWh
@@ -856,7 +856,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				201 kW
 			</td>
 			<td>
-				 13 m 59 s
+				 14 m 17 s
 			</td>
 			<td>
 				42.1 kWh
@@ -870,7 +870,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				203 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 36 s
 			</td>
 			<td>
 				43.1 kWh
@@ -884,7 +884,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				201 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				44.1 kWh
@@ -898,7 +898,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				203 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 15 m 13 s
 			</td>
 			<td>
 				45.1 kWh
@@ -912,7 +912,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				204 kW
 			</td>
 			<td>
-				 15 m 12 s
+				 15 m 32 s
 			</td>
 			<td>
 				46.1 kWh
@@ -926,7 +926,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				203 kW
 			</td>
 			<td>
-				 15 m 31 s
+				 15 m 51 s
 			</td>
 			<td>
 				47.0 kWh
@@ -940,7 +940,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				203 kW
 			</td>
 			<td>
-				 15 m 49 s
+				 16 m 9 s
 			</td>
 			<td>
 				48.0 kWh
@@ -954,7 +954,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				205 kW
 			</td>
 			<td>
-				 16 m 7 s
+				 16 m 28 s
 			</td>
 			<td>
 				49.0 kWh
@@ -968,7 +968,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				204 kW
 			</td>
 			<td>
-				 16 m 25 s
+				 16 m 47 s
 			</td>
 			<td>
 				50.0 kWh
@@ -982,7 +982,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				205 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 5 s
 			</td>
 			<td>
 				51.0 kWh
@@ -996,7 +996,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				206 kW
 			</td>
 			<td>
-				 17 m 2 s
+				 17 m 24 s
 			</td>
 			<td>
 				51.9 kWh
@@ -1010,7 +1010,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				206 kW
 			</td>
 			<td>
-				 17 m 20 s
+				 17 m 42 s
 			</td>
 			<td>
 				52.9 kWh
@@ -1024,7 +1024,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				208 kW
 			</td>
 			<td>
-				 17 m 38 s
+				 18 m 0 s
 			</td>
 			<td>
 				53.9 kWh
@@ -1038,7 +1038,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				193 kW
 			</td>
 			<td>
-				 17 m 56 s
+				 18 m 19 s
 			</td>
 			<td>
 				54.9 kWh
@@ -1052,7 +1052,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				193 kW
 			</td>
 			<td>
-				 18 m 15 s
+				 18 m 39 s
 			</td>
 			<td>
 				55.9 kWh
@@ -1066,7 +1066,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				193 kW
 			</td>
 			<td>
-				 18 m 35 s
+				 18 m 59 s
 			</td>
 			<td>
 				56.8 kWh
@@ -1080,7 +1080,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				194 kW
 			</td>
 			<td>
-				 18 m 54 s
+				 19 m 18 s
 			</td>
 			<td>
 				57.8 kWh
@@ -1094,7 +1094,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				193 kW
 			</td>
 			<td>
-				 19 m 13 s
+				 19 m 38 s
 			</td>
 			<td>
 				58.8 kWh
@@ -1108,7 +1108,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				195 kW
 			</td>
 			<td>
-				 19 m 32 s
+				 19 m 57 s
 			</td>
 			<td>
 				59.8 kWh
@@ -1122,7 +1122,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				184 kW
 			</td>
 			<td>
-				 19 m 52 s
+				 20 m 17 s
 			</td>
 			<td>
 				60.8 kWh
@@ -1136,7 +1136,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				182 kW
 			</td>
 			<td>
-				 20 m 12 s
+				 20 m 38 s
 			</td>
 			<td>
 				61.7 kWh
@@ -1150,7 +1150,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				183 kW
 			</td>
 			<td>
-				 20 m 32 s
+				 20 m 59 s
 			</td>
 			<td>
 				62.7 kWh
@@ -1164,7 +1164,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				182 kW
 			</td>
 			<td>
-				 20 m 53 s
+				 21 m 20 s
 			</td>
 			<td>
 				63.7 kWh
@@ -1178,7 +1178,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				184 kW
 			</td>
 			<td>
-				 21 m 13 s
+				 21 m 40 s
 			</td>
 			<td>
 				64.7 kWh
@@ -1192,7 +1192,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				173 kW
 			</td>
 			<td>
-				 21 m 34 s
+				 22 m 2 s
 			</td>
 			<td>
 				65.7 kWh
@@ -1206,7 +1206,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				174 kW
 			</td>
 			<td>
-				 21 m 55 s
+				 22 m 23 s
 			</td>
 			<td>
 				66.6 kWh
@@ -1220,7 +1220,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				174 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				67.6 kWh
@@ -1234,7 +1234,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				165 kW
 			</td>
 			<td>
-				 22 m 38 s
+				 23 m 8 s
 			</td>
 			<td>
 				68.6 kWh
@@ -1248,7 +1248,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				166 kW
 			</td>
 			<td>
-				 23 m 1 s
+				 23 m 31 s
 			</td>
 			<td>
 				69.6 kWh
@@ -1262,7 +1262,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				166 kW
 			</td>
 			<td>
-				 23 m 23 s
+				 23 m 53 s
 			</td>
 			<td>
 				70.6 kWh
@@ -1276,7 +1276,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				130 kW
 			</td>
 			<td>
-				 23 m 48 s
+				 24 m 19 s
 			</td>
 			<td>
 				71.5 kWh
@@ -1290,7 +1290,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				130 kW
 			</td>
 			<td>
-				 24 m 17 s
+				 24 m 48 s
 			</td>
 			<td>
 				72.5 kWh
@@ -1304,7 +1304,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				130 kW
 			</td>
 			<td>
-				 24 m 45 s
+				 25 m 17 s
 			</td>
 			<td>
 				73.5 kWh
@@ -1318,7 +1318,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				127 kW
 			</td>
 			<td>
-				 25 m 14 s
+				 25 m 47 s
 			</td>
 			<td>
 				74.5 kWh
@@ -1332,7 +1332,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				109 kW
 			</td>
 			<td>
-				 25 m 46 s
+				 26 m 19 s
 			</td>
 			<td>
 				75.5 kWh
@@ -1346,7 +1346,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				99 kW
 			</td>
 			<td>
-				 26 m 22 s
+				 26 m 56 s
 			</td>
 			<td>
 				76.4 kWh
@@ -1360,7 +1360,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				84 kW
 			</td>
 			<td>
-				 27 m 2 s
+				 27 m 37 s
 			</td>
 			<td>
 				77.4 kWh
@@ -1374,7 +1374,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				74 kW
 			</td>
 			<td>
-				 27 m 49 s
+				 28 m 25 s
 			</td>
 			<td>
 				78.4 kWh
@@ -1388,7 +1388,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				65 kW
 			</td>
 			<td>
-				 28 m 43 s
+				 29 m 20 s
 			</td>
 			<td>
 				79.4 kWh
@@ -1402,7 +1402,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				56 kW
 			</td>
 			<td>
-				 29 m 44 s
+				 30 m 22 s
 			</td>
 			<td>
 				80.4 kWh
@@ -1416,7 +1416,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				49 kW
 			</td>
 			<td>
-				 30 m 55 s
+				 31 m 35 s
 			</td>
 			<td>
 				81.3 kWh
@@ -1430,7 +1430,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				42 kW
 			</td>
 			<td>
-				 32 m 16 s
+				 32 m 58 s
 			</td>
 			<td>
 				82.3 kWh
@@ -1444,7 +1444,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 33 m 49 s
+				 34 m 33 s
 			</td>
 			<td>
 				83.3 kWh
@@ -1458,7 +1458,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 35 m 27 s
+				 36 m 13 s
 			</td>
 			<td>
 				84.3 kWh
@@ -1472,7 +1472,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 37 m 5 s
+				 37 m 52 s
 			</td>
 			<td>
 				85.3 kWh
@@ -1486,7 +1486,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				37 kW
 			</td>
 			<td>
-				 38 m 44 s
+				 39 m 34 s
 			</td>
 			<td>
 				86.2 kWh
@@ -1500,7 +1500,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 40 m 23 s
+				 41 m 15 s
 			</td>
 			<td>
 				87.2 kWh
@@ -1514,7 +1514,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 42 m 0 s
+				 42 m 55 s
 			</td>
 			<td>
 				88.2 kWh
@@ -1528,7 +1528,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 43 m 38 s
+				 44 m 34 s
 			</td>
 			<td>
 				89.2 kWh
@@ -1542,7 +1542,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 45 m 16 s
+				 46 m 14 s
 			</td>
 			<td>
 				90.2 kWh
@@ -1556,7 +1556,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 46 m 54 s
+				 47 m 54 s
 			</td>
 			<td>
 				91.1 kWh
@@ -1570,7 +1570,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				38 kW
 			</td>
 			<td>
-				 48 m 31 s
+				 49 m 34 s
 			</td>
 			<td>
 				92.1 kWh
@@ -1584,7 +1584,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				35 kW
 			</td>
 			<td>
-				 50 m 13 s
+				 51 m 18 s
 			</td>
 			<td>
 				93.1 kWh
@@ -1598,7 +1598,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				29 kW
 			</td>
 			<td>
-				 52 m 9 s
+				 53 m 16 s
 			</td>
 			<td>
 				94.1 kWh
@@ -1612,7 +1612,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				21 kW
 			</td>
 			<td>
-				 54 m 38 s
+				 55 m 48 s
 			</td>
 			<td>
 				95.1 kWh
@@ -1626,7 +1626,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				14 kW
 			</td>
 			<td>
-				 58 m 10 s
+				 59 m 25 s
 			</td>
 			<td>
 				96.0 kWh
@@ -1640,7 +1640,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				14 kW
 			</td>
 			<td>
-				1 h 2 m 35 s
+				1 h 3 m 56 s
 			</td>
 			<td>
 				97.0 kWh
@@ -1654,7 +1654,7 @@ Kia EV9 Long Range RWD have battery heating, making charging at an optimum batte
 				14 kW
 			</td>
 			<td>
-				1 h 7 m 0 s
+				1 h 8 m 27 s
 			</td>
 			<td>
 				98.0 kWh

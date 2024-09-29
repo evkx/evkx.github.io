@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S Cross Turismo (GEN1) Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Porsche Taycan Turbo S Cross Turismo (GEN1)."
+description: "Unten ist die Ladekurve für Porsche Taycan Turbo S Cross Turismo (GEN1) dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				99,6 kW
+				97,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				95,2 kW
+				93,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				139,6 kW
+				136,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				195,5 kW
+				191,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimales Ladegebiet
 			</td>
 			<td>
-				3% - 65%
+				3% - 64%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				164,9kW
+				162,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				19m53s
+				19m52s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				 50 m 24 s
+				 51 m 29 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				 47 m 29 s
+				 48 m 30 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 17 m 58 s
+				 18 m 21 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,5 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				7,8 km (4,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,2 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				16,3 km (10,1 mi)
+				16,0 km (9,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				14,8 km (9,2 mi)
+				14,5 km (9,0 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				87 kW
 			</td>
 			<td>
-				 0 m 36 s
+				 0 m 37 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				158 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 3 s
 			</td>
 			<td>
 				1,7 kWh
@@ -296,7 +296,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				169 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 23 s
 			</td>
 			<td>
 				2,5 kWh
@@ -310,7 +310,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				221 kW
 			</td>
 			<td>
-				 1 m 38 s
+				 1 m 40 s
 			</td>
 			<td>
 				3,3 kWh
@@ -324,7 +324,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				254 kW
 			</td>
 			<td>
-				 1 m 51 s
+				 1 m 53 s
 			</td>
 			<td>
 				4,2 kWh
@@ -338,7 +338,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 2 m 6 s
 			</td>
 			<td>
 				5,0 kWh
@@ -352,7 +352,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 2 m 17 s
+				 2 m 20 s
 			</td>
 			<td>
 				5,9 kWh
@@ -366,7 +366,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 2 m 29 s
+				 2 m 33 s
 			</td>
 			<td>
 				6,7 kWh
@@ -380,7 +380,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 2 m 42 s
+				 2 m 46 s
 			</td>
 			<td>
 				7,5 kWh
@@ -394,7 +394,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				243 kW
 			</td>
 			<td>
-				 2 m 55 s
+				 2 m 59 s
 			</td>
 			<td>
 				8,4 kWh
@@ -408,7 +408,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				243 kW
 			</td>
 			<td>
-				 3 m 8 s
+				 3 m 12 s
 			</td>
 			<td>
 				9,2 kWh
@@ -422,7 +422,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				251 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 25 s
 			</td>
 			<td>
 				10,0 kWh
@@ -436,7 +436,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				253 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				10,9 kWh
@@ -450,7 +450,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				253 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				11,7 kWh
@@ -464,7 +464,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				254 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 4 s
 			</td>
 			<td>
 				12,6 kWh
@@ -478,7 +478,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				255 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 17 s
 			</td>
 			<td>
 				13,4 kWh
@@ -492,7 +492,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				256 kW
 			</td>
 			<td>
-				 4 m 24 s
+				 4 m 29 s
 			</td>
 			<td>
 				14,2 kWh
@@ -506,7 +506,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				256 kW
 			</td>
 			<td>
-				 4 m 36 s
+				 4 m 42 s
 			</td>
 			<td>
 				15,1 kWh
@@ -520,7 +520,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				256 kW
 			</td>
 			<td>
-				 4 m 48 s
+				 4 m 55 s
 			</td>
 			<td>
 				15,9 kWh
@@ -534,7 +534,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				258 kW
 			</td>
 			<td>
-				 5 m 1 s
+				 5 m 7 s
 			</td>
 			<td>
 				16,7 kWh
@@ -548,7 +548,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				259 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 5 m 20 s
 			</td>
 			<td>
 				17,6 kWh
@@ -562,7 +562,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				258 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				18,4 kWh
@@ -576,7 +576,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				260 kW
 			</td>
 			<td>
-				 5 m 38 s
+				 5 m 45 s
 			</td>
 			<td>
 				19,3 kWh
@@ -590,7 +590,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				260 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 5 m 57 s
 			</td>
 			<td>
 				20,1 kWh
@@ -604,7 +604,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				261 kW
 			</td>
 			<td>
-				 6 m 2 s
+				 6 m 10 s
 			</td>
 			<td>
 				20,9 kWh
@@ -618,7 +618,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				261 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				21,8 kWh
@@ -632,7 +632,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				262 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 34 s
 			</td>
 			<td>
 				22,6 kWh
@@ -646,7 +646,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				262 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 47 s
 			</td>
 			<td>
 				23,4 kWh
@@ -660,7 +660,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				262 kW
 			</td>
 			<td>
-				 6 m 50 s
+				 6 m 59 s
 			</td>
 			<td>
 				24,3 kWh
@@ -674,7 +674,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				265 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 12 s
 			</td>
 			<td>
 				25,1 kWh
@@ -688,7 +688,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				265 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 24 s
 			</td>
 			<td>
 				25,9 kWh
@@ -702,7 +702,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				261 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 36 s
 			</td>
 			<td>
 				26,8 kWh
@@ -716,7 +716,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				261 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 48 s
 			</td>
 			<td>
 				27,6 kWh
@@ -730,7 +730,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				261 kW
 			</td>
 			<td>
-				 7 m 51 s
+				 8 m 1 s
 			</td>
 			<td>
 				28,5 kWh
@@ -744,7 +744,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				264 kW
 			</td>
 			<td>
-				 8 m 3 s
+				 8 m 13 s
 			</td>
 			<td>
 				29,3 kWh
@@ -758,7 +758,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				244 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				30,1 kWh
@@ -772,7 +772,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				245 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 8 m 39 s
 			</td>
 			<td>
 				31,0 kWh
@@ -786,7 +786,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				245 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				31,8 kWh
@@ -800,7 +800,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				245 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 6 s
 			</td>
 			<td>
 				32,6 kWh
@@ -814,7 +814,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				245 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 19 s
 			</td>
 			<td>
 				33,5 kWh
@@ -828,7 +828,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				246 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 9 m 32 s
 			</td>
 			<td>
 				34,3 kWh
@@ -842,7 +842,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				246 kW
 			</td>
 			<td>
-				 9 m 33 s
+				 9 m 45 s
 			</td>
 			<td>
 				35,2 kWh
@@ -856,7 +856,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				246 kW
 			</td>
 			<td>
-				 9 m 46 s
+				 9 m 58 s
 			</td>
 			<td>
 				36,0 kWh
@@ -870,7 +870,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				246 kW
 			</td>
 			<td>
-				 9 m 59 s
+				 10 m 12 s
 			</td>
 			<td>
 				36,8 kWh
@@ -884,7 +884,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				246 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 10 m 25 s
 			</td>
 			<td>
 				37,7 kWh
@@ -898,7 +898,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 10 m 38 s
 			</td>
 			<td>
 				38,5 kWh
@@ -912,7 +912,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 10 m 37 s
+				 10 m 51 s
 			</td>
 			<td>
 				39,3 kWh
@@ -926,7 +926,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				247 kW
 			</td>
 			<td>
-				 10 m 50 s
+				 11 m 4 s
 			</td>
 			<td>
 				40,2 kWh
@@ -940,7 +940,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				248 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 17 s
 			</td>
 			<td>
 				41,0 kWh
@@ -954,7 +954,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				249 kW
 			</td>
 			<td>
-				 11 m 16 s
+				 11 m 30 s
 			</td>
 			<td>
 				41,8 kWh
@@ -968,7 +968,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				228 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 11 m 44 s
 			</td>
 			<td>
 				42,7 kWh
@@ -982,7 +982,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				229 kW
 			</td>
 			<td>
-				 11 m 43 s
+				 11 m 58 s
 			</td>
 			<td>
 				43,5 kWh
@@ -996,7 +996,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				228 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 12 m 12 s
 			</td>
 			<td>
 				44,4 kWh
@@ -1010,7 +1010,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				208 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 27 s
 			</td>
 			<td>
 				45,2 kWh
@@ -1024,7 +1024,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				208 kW
 			</td>
 			<td>
-				 12 m 27 s
+				 12 m 43 s
 			</td>
 			<td>
 				46,0 kWh
@@ -1038,7 +1038,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				209 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 58 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1052,7 +1052,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				209 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 13 m 14 s
 			</td>
 			<td>
 				47,7 kWh
@@ -1066,7 +1066,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				190 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 30 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1080,7 +1080,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				191 kW
 			</td>
 			<td>
-				 13 m 30 s
+				 13 m 47 s
 			</td>
 			<td>
 				49,4 kWh
@@ -1094,7 +1094,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				190 kW
 			</td>
 			<td>
-				 13 m 46 s
+				 14 m 4 s
 			</td>
 			<td>
 				50,2 kWh
@@ -1108,7 +1108,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				180 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 14 m 22 s
 			</td>
 			<td>
 				51,1 kWh
@@ -1122,7 +1122,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				180 kW
 			</td>
 			<td>
-				 14 m 21 s
+				 14 m 40 s
 			</td>
 			<td>
 				51,9 kWh
@@ -1136,7 +1136,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				181 kW
 			</td>
 			<td>
-				 14 m 39 s
+				 14 m 57 s
 			</td>
 			<td>
 				52,7 kWh
@@ -1150,7 +1150,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				176 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 16 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1164,7 +1164,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				172 kW
 			</td>
 			<td>
-				 15 m 15 s
+				 15 m 34 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1178,7 +1178,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				172 kW
 			</td>
 			<td>
-				 15 m 33 s
+				 15 m 53 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1192,7 +1192,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				173 kW
 			</td>
 			<td>
-				 15 m 51 s
+				 16 m 12 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1206,7 +1206,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				161 kW
 			</td>
 			<td>
-				 16 m 10 s
+				 16 m 31 s
 			</td>
 			<td>
 				56,9 kWh
@@ -1220,7 +1220,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				163 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 16 m 51 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1234,7 +1234,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				163 kW
 			</td>
 			<td>
-				 16 m 49 s
+				 17 m 11 s
 			</td>
 			<td>
 				58,6 kWh
@@ -1248,7 +1248,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				153 kW
 			</td>
 			<td>
-				 17 m 9 s
+				 17 m 32 s
 			</td>
 			<td>
 				59,4 kWh
@@ -1262,7 +1262,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				154 kW
 			</td>
 			<td>
-				 17 m 30 s
+				 17 m 53 s
 			</td>
 			<td>
 				60,3 kWh
@@ -1276,7 +1276,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				154 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 18 m 14 s
 			</td>
 			<td>
 				61,1 kWh
@@ -1290,7 +1290,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				120 kW
 			</td>
 			<td>
-				 18 m 14 s
+				 18 m 37 s
 			</td>
 			<td>
 				61,9 kWh
@@ -1304,7 +1304,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				121 kW
 			</td>
 			<td>
-				 18 m 40 s
+				 19 m 4 s
 			</td>
 			<td>
 				62,8 kWh
@@ -1318,7 +1318,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				122 kW
 			</td>
 			<td>
-				 19 m 6 s
+				 19 m 31 s
 			</td>
 			<td>
 				63,6 kWh
@@ -1332,7 +1332,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				122 kW
 			</td>
 			<td>
-				 19 m 32 s
+				 19 m 58 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1346,7 +1346,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				122 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 20 m 24 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1360,7 +1360,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				123 kW
 			</td>
 			<td>
-				 20 m 24 s
+				 20 m 51 s
 			</td>
 			<td>
 				66,1 kWh
@@ -1374,7 +1374,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				90 kW
 			</td>
 			<td>
-				 20 m 54 s
+				 21 m 21 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1388,7 +1388,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				84 kW
 			</td>
 			<td>
-				 21 m 30 s
+				 21 m 58 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1402,7 +1402,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				73 kW
 			</td>
 			<td>
-				 22 m 11 s
+				 22 m 39 s
 			</td>
 			<td>
 				68,6 kWh
@@ -1416,7 +1416,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				62 kW
 			</td>
 			<td>
-				 22 m 58 s
+				 23 m 27 s
 			</td>
 			<td>
 				69,5 kWh
@@ -1430,7 +1430,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				53 kW
 			</td>
 			<td>
-				 23 m 53 s
+				 24 m 24 s
 			</td>
 			<td>
 				70,3 kWh
@@ -1444,7 +1444,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				44 kW
 			</td>
 			<td>
-				 24 m 58 s
+				 25 m 31 s
 			</td>
 			<td>
 				71,1 kWh
@@ -1458,7 +1458,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				38 kW
 			</td>
 			<td>
-				 26 m 16 s
+				 26 m 50 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1472,7 +1472,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				36 kW
 			</td>
 			<td>
-				 27 m 41 s
+				 28 m 17 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1486,7 +1486,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				33 kW
 			</td>
 			<td>
-				 29 m 13 s
+				 29 m 51 s
 			</td>
 			<td>
 				73,7 kWh
@@ -1500,7 +1500,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				43 kW
 			</td>
 			<td>
-				 30 m 37 s
+				 31 m 16 s
 			</td>
 			<td>
 				74,5 kWh
@@ -1514,7 +1514,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				54 kW
 			</td>
 			<td>
-				 31 m 42 s
+				 32 m 23 s
 			</td>
 			<td>
 				75,3 kWh
@@ -1528,7 +1528,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				66 kW
 			</td>
 			<td>
-				 32 m 35 s
+				 33 m 17 s
 			</td>
 			<td>
 				76,2 kWh
@@ -1542,7 +1542,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				45 kW
 			</td>
 			<td>
-				 33 m 32 s
+				 34 m 16 s
 			</td>
 			<td>
 				77,0 kWh
@@ -1556,7 +1556,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				35 kW
 			</td>
 			<td>
-				 34 m 52 s
+				 35 m 37 s
 			</td>
 			<td>
 				77,8 kWh
@@ -1570,7 +1570,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				33 kW
 			</td>
 			<td>
-				 36 m 25 s
+				 37 m 12 s
 			</td>
 			<td>
 				78,7 kWh
@@ -1584,7 +1584,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				25 kW
 			</td>
 			<td>
-				 38 m 14 s
+				 39 m 4 s
 			</td>
 			<td>
 				79,5 kWh
@@ -1598,7 +1598,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				33 kW
 			</td>
 			<td>
-				 40 m 4 s
+				 40 m 55 s
 			</td>
 			<td>
 				80,4 kWh
@@ -1612,7 +1612,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				30 kW
 			</td>
 			<td>
-				 41 m 44 s
+				 42 m 38 s
 			</td>
 			<td>
 				81,2 kWh
@@ -1626,7 +1626,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				24 kW
 			</td>
 			<td>
-				 43 m 42 s
+				 44 m 38 s
 			</td>
 			<td>
 				82,0 kWh
@@ -1640,7 +1640,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				16 kW
 			</td>
 			<td>
-				 46 m 20 s
+				 47 m 20 s
 			</td>
 			<td>
 				82,9 kWh
@@ -1654,7 +1654,7 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) verfügt über eine Batterieheizung,
 				10 kW
 			</td>
 			<td>
-				 50 m 24 s
+				 51 m 29 s
 			</td>
 			<td>
 				83,7 kWh

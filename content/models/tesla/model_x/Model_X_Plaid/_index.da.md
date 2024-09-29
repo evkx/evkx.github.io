@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 100,0 kWh og en nettoanvend
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 543 og 528 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 17,7 kWh/100 km for basismodellen og 18,2 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 80 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 143kW. Hver opladningssession ville tage 16 minutter og 9 sekunder.
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 81 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 141kW. Hver opladningssession ville tage 16 minutter og 23 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,0 kWh/100 km, ville turen tage cirka 9 timer og 21 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 46%, med en samlet opladningstid på 61 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,0 kWh/100 km, ville turen tage cirka 9 timer og 22 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 46%, med en samlet opladningstid på 62 minutter
 
 ### Ombordlader
 

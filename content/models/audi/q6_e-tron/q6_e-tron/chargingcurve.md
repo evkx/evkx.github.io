@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Audi Q6 e-tron."
+description: "Below is the charging curve for Audi Q6 e-tron, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				80.1 kW
+				78.4 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				75.3 kW
+				73.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				126.6 kW
+				123.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				162.0 kW
+				158.6 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				140.6kW
+				138.3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				21m42s
+				21m3s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				 56 m 46 s
+				 57 m 59 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				 54 m 21 s
+				 55 m 31 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 19 m 38 s
+				 20 m 4 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				9,1 km (5,7 mi)
+				8,9 km (5,5 mi)
 			</td>
 			<td>
-				9,4 km (5,8 mi)
+				9,2 km (5,7 mi)
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				6,7 km (4,2 mi)
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Range per minute 10-100%
 			</td>
 			<td>
-				8,5 km (5,3 mi)
+				8,4 km (5,2 mi)
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,3 km (3,9 mi)
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,5 km (3,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Range per minute 10-80%
 			</td>
 			<td>
-				18,4 km (11,4 mi)
+				18,0 km (11,2 mi)
 			</td>
 			<td>
-				19,0 km (11,8 mi)
+				18,6 km (11,6 mi)
 			</td>
 			<td>
-				13,8 km (8,6 mi)
+				13,6 km (8,5 mi)
 			</td>
 			<td>
-				12,0 km (7,5 mi)
+				11,8 km (7,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				194 kW
 			</td>
 			<td>
-				 0 m 20 s
+				 0 m 21 s
 			</td>
 			<td>
 				0.8 kWh
@@ -282,7 +282,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				194 kW
 			</td>
 			<td>
-				 0 m 35 s
+				 0 m 36 s
 			</td>
 			<td>
 				1.5 kWh
@@ -296,7 +296,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				195 kW
 			</td>
 			<td>
-				 0 m 50 s
+				 0 m 51 s
 			</td>
 			<td>
 				2.3 kWh
@@ -310,7 +310,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				195 kW
 			</td>
 			<td>
-				 1 m 5 s
+				 1 m 6 s
 			</td>
 			<td>
 				3.0 kWh
@@ -324,7 +324,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				206 kW
 			</td>
 			<td>
-				 1 m 19 s
+				 1 m 21 s
 			</td>
 			<td>
 				3.8 kWh
@@ -338,7 +338,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				206 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				4.5 kWh
@@ -352,7 +352,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				215 kW
 			</td>
 			<td>
-				 1 m 46 s
+				 1 m 49 s
 			</td>
 			<td>
 				5.3 kWh
@@ -366,7 +366,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				226 kW
 			</td>
 			<td>
-				 1 m 59 s
+				 2 m 2 s
 			</td>
 			<td>
 				6.1 kWh
@@ -380,7 +380,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				230 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 15 s
 			</td>
 			<td>
 				6.8 kWh
@@ -394,7 +394,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				230 kW
 			</td>
 			<td>
-				 2 m 25 s
+				 2 m 28 s
 			</td>
 			<td>
 				7.6 kWh
@@ -408,7 +408,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				232 kW
 			</td>
 			<td>
-				 2 m 37 s
+				 2 m 40 s
 			</td>
 			<td>
 				8.3 kWh
@@ -422,7 +422,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				232 kW
 			</td>
 			<td>
-				 2 m 49 s
+				 2 m 53 s
 			</td>
 			<td>
 				9.1 kWh
@@ -436,7 +436,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				232 kW
 			</td>
 			<td>
-				 3 m 2 s
+				 3 m 6 s
 			</td>
 			<td>
 				9.9 kWh
@@ -450,7 +450,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				232 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 18 s
 			</td>
 			<td>
 				10.6 kWh
@@ -464,7 +464,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				233 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 31 s
 			</td>
 			<td>
 				11.4 kWh
@@ -478,7 +478,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				233 kW
 			</td>
 			<td>
-				 3 m 39 s
+				 3 m 44 s
 			</td>
 			<td>
 				12.1 kWh
@@ -492,7 +492,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				233 kW
 			</td>
 			<td>
-				 3 m 51 s
+				 3 m 56 s
 			</td>
 			<td>
 				12.9 kWh
@@ -506,7 +506,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				233 kW
 			</td>
 			<td>
-				 4 m 3 s
+				 4 m 9 s
 			</td>
 			<td>
 				13.6 kWh
@@ -520,7 +520,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				233 kW
 			</td>
 			<td>
-				 4 m 16 s
+				 4 m 21 s
 			</td>
 			<td>
 				14.4 kWh
@@ -534,7 +534,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				233 kW
 			</td>
 			<td>
-				 4 m 28 s
+				 4 m 34 s
 			</td>
 			<td>
 				15.2 kWh
@@ -548,7 +548,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 4 m 40 s
+				 4 m 46 s
 			</td>
 			<td>
 				15.9 kWh
@@ -562,7 +562,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				16.7 kWh
@@ -576,7 +576,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 12 s
 			</td>
 			<td>
 				17.4 kWh
@@ -590,7 +590,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 5 m 17 s
+				 5 m 24 s
 			</td>
 			<td>
 				18.2 kWh
@@ -604,7 +604,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 5 m 30 s
+				 5 m 37 s
 			</td>
 			<td>
 				19.0 kWh
@@ -618,7 +618,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 5 m 42 s
+				 5 m 49 s
 			</td>
 			<td>
 				19.7 kWh
@@ -632,7 +632,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 6 m 2 s
 			</td>
 			<td>
 				20.5 kWh
@@ -646,7 +646,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 6 m 6 s
+				 6 m 14 s
 			</td>
 			<td>
 				21.2 kWh
@@ -660,7 +660,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				235 kW
 			</td>
 			<td>
-				 6 m 19 s
+				 6 m 27 s
 			</td>
 			<td>
 				22.0 kWh
@@ -674,7 +674,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				235 kW
 			</td>
 			<td>
-				 6 m 31 s
+				 6 m 39 s
 			</td>
 			<td>
 				22.7 kWh
@@ -688,7 +688,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 6 m 52 s
 			</td>
 			<td>
 				23.5 kWh
@@ -702,7 +702,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				234 kW
 			</td>
 			<td>
-				 6 m 55 s
+				 7 m 4 s
 			</td>
 			<td>
 				24.3 kWh
@@ -716,7 +716,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				235 kW
 			</td>
 			<td>
-				 7 m 8 s
+				 7 m 17 s
 			</td>
 			<td>
 				25.0 kWh
@@ -730,7 +730,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				235 kW
 			</td>
 			<td>
-				 7 m 20 s
+				 7 m 29 s
 			</td>
 			<td>
 				25.8 kWh
@@ -744,7 +744,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				232 kW
 			</td>
 			<td>
-				 7 m 32 s
+				 7 m 42 s
 			</td>
 			<td>
 				26.5 kWh
@@ -758,7 +758,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				208 kW
 			</td>
 			<td>
-				 7 m 45 s
+				 7 m 55 s
 			</td>
 			<td>
 				27.3 kWh
@@ -772,7 +772,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				191 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 8 m 10 s
 			</td>
 			<td>
 				28.0 kWh
@@ -786,7 +786,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				181 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				28.8 kWh
@@ -800,7 +800,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				175 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				29.6 kWh
@@ -814,7 +814,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				189 kW
 			</td>
 			<td>
-				 8 m 47 s
+				 8 m 58 s
 			</td>
 			<td>
 				30.3 kWh
@@ -828,7 +828,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				190 kW
 			</td>
 			<td>
-				 9 m 2 s
+				 9 m 14 s
 			</td>
 			<td>
 				31.1 kWh
@@ -842,7 +842,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				182 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 9 m 30 s
 			</td>
 			<td>
 				31.8 kWh
@@ -856,7 +856,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				182 kW
 			</td>
 			<td>
-				 9 m 33 s
+				 9 m 46 s
 			</td>
 			<td>
 				32.6 kWh
@@ -870,7 +870,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				178 kW
 			</td>
 			<td>
-				 9 m 49 s
+				 10 m 2 s
 			</td>
 			<td>
 				33.4 kWh
@@ -884,7 +884,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				172 kW
 			</td>
 			<td>
-				 10 m 6 s
+				 10 m 19 s
 			</td>
 			<td>
 				34.1 kWh
@@ -898,7 +898,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				173 kW
 			</td>
 			<td>
-				 10 m 22 s
+				 10 m 36 s
 			</td>
 			<td>
 				34.9 kWh
@@ -912,7 +912,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				174 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 10 m 53 s
 			</td>
 			<td>
 				35.6 kWh
@@ -926,7 +926,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				175 kW
 			</td>
 			<td>
-				 10 m 55 s
+				 11 m 9 s
 			</td>
 			<td>
 				36.4 kWh
@@ -940,7 +940,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				170 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 27 s
 			</td>
 			<td>
 				37.1 kWh
@@ -954,7 +954,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				171 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 11 m 44 s
 			</td>
 			<td>
 				37.9 kWh
@@ -968,7 +968,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				166 kW
 			</td>
 			<td>
-				 11 m 46 s
+				 12 m 1 s
 			</td>
 			<td>
 				38.7 kWh
@@ -982,7 +982,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				165 kW
 			</td>
 			<td>
-				 12 m 3 s
+				 12 m 19 s
 			</td>
 			<td>
 				39.4 kWh
@@ -996,7 +996,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				166 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				40.2 kWh
@@ -1010,7 +1010,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				167 kW
 			</td>
 			<td>
-				 12 m 38 s
+				 12 m 54 s
 			</td>
 			<td>
 				40.9 kWh
@@ -1024,7 +1024,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				161 kW
 			</td>
 			<td>
-				 12 m 55 s
+				 13 m 12 s
 			</td>
 			<td>
 				41.7 kWh
@@ -1038,7 +1038,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				162 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 30 s
 			</td>
 			<td>
 				42.4 kWh
@@ -1052,7 +1052,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				159 kW
 			</td>
 			<td>
-				 13 m 31 s
+				 13 m 49 s
 			</td>
 			<td>
 				43.2 kWh
@@ -1066,7 +1066,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				158 kW
 			</td>
 			<td>
-				 13 m 49 s
+				 14 m 7 s
 			</td>
 			<td>
 				44.0 kWh
@@ -1080,7 +1080,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				150 kW
 			</td>
 			<td>
-				 14 m 8 s
+				 14 m 26 s
 			</td>
 			<td>
 				44.7 kWh
@@ -1094,7 +1094,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				151 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 46 s
 			</td>
 			<td>
 				45.5 kWh
@@ -1108,7 +1108,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				150 kW
 			</td>
 			<td>
-				 14 m 46 s
+				 15 m 5 s
 			</td>
 			<td>
 				46.2 kWh
@@ -1122,7 +1122,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				151 kW
 			</td>
 			<td>
-				 15 m 5 s
+				 15 m 25 s
 			</td>
 			<td>
 				47.0 kWh
@@ -1136,7 +1136,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				149 kW
 			</td>
 			<td>
-				 15 m 24 s
+				 15 m 44 s
 			</td>
 			<td>
 				47.8 kWh
@@ -1150,7 +1150,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				151 kW
 			</td>
 			<td>
-				 15 m 43 s
+				 16 m 4 s
 			</td>
 			<td>
 				48.5 kWh
@@ -1164,7 +1164,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				148 kW
 			</td>
 			<td>
-				 16 m 3 s
+				 16 m 23 s
 			</td>
 			<td>
 				49.3 kWh
@@ -1178,7 +1178,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				144 kW
 			</td>
 			<td>
-				 16 m 22 s
+				 16 m 43 s
 			</td>
 			<td>
 				50.0 kWh
@@ -1192,7 +1192,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				141 kW
 			</td>
 			<td>
-				 16 m 42 s
+				 17 m 4 s
 			</td>
 			<td>
 				50.8 kWh
@@ -1206,7 +1206,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				137 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 25 s
 			</td>
 			<td>
 				51.5 kWh
@@ -1220,7 +1220,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				133 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 17 m 47 s
 			</td>
 			<td>
 				52.3 kWh
@@ -1234,7 +1234,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				128 kW
 			</td>
 			<td>
-				 17 m 46 s
+				 18 m 9 s
 			</td>
 			<td>
 				53.1 kWh
@@ -1248,7 +1248,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				123 kW
 			</td>
 			<td>
-				 18 m 9 s
+				 18 m 33 s
 			</td>
 			<td>
 				53.8 kWh
@@ -1262,7 +1262,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				121 kW
 			</td>
 			<td>
-				 18 m 33 s
+				 18 m 57 s
 			</td>
 			<td>
 				54.6 kWh
@@ -1276,7 +1276,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				118 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 19 m 21 s
 			</td>
 			<td>
 				55.3 kWh
@@ -1290,7 +1290,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				115 kW
 			</td>
 			<td>
-				 19 m 22 s
+				 19 m 47 s
 			</td>
 			<td>
 				56.1 kWh
@@ -1304,7 +1304,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				111 kW
 			</td>
 			<td>
-				 19 m 47 s
+				 20 m 13 s
 			</td>
 			<td>
 				56.8 kWh
@@ -1318,7 +1318,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				109 kW
 			</td>
 			<td>
-				 20 m 13 s
+				 20 m 39 s
 			</td>
 			<td>
 				57.6 kWh
@@ -1332,7 +1332,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				106 kW
 			</td>
 			<td>
-				 20 m 40 s
+				 21 m 6 s
 			</td>
 			<td>
 				58.4 kWh
@@ -1346,7 +1346,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				105 kW
 			</td>
 			<td>
-				 21 m 7 s
+				 21 m 34 s
 			</td>
 			<td>
 				59.1 kWh
@@ -1360,7 +1360,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				102 kW
 			</td>
 			<td>
-				 21 m 35 s
+				 22 m 3 s
 			</td>
 			<td>
 				59.9 kWh
@@ -1374,7 +1374,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				99 kW
 			</td>
 			<td>
-				 22 m 3 s
+				 22 m 32 s
 			</td>
 			<td>
 				60.6 kWh
@@ -1388,7 +1388,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				97 kW
 			</td>
 			<td>
-				 22 m 33 s
+				 23 m 2 s
 			</td>
 			<td>
 				61.4 kWh
@@ -1402,7 +1402,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				82 kW
 			</td>
 			<td>
-				 23 m 5 s
+				 23 m 35 s
 			</td>
 			<td>
 				62.2 kWh
@@ -1416,7 +1416,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				75 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 24 m 12 s
 			</td>
 			<td>
 				62.9 kWh
@@ -1430,7 +1430,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				64 kW
 			</td>
 			<td>
-				 24 m 23 s
+				 24 m 54 s
 			</td>
 			<td>
 				63.7 kWh
@@ -1444,7 +1444,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				54 kW
 			</td>
 			<td>
-				 25 m 11 s
+				 25 m 44 s
 			</td>
 			<td>
 				64.4 kWh
@@ -1458,7 +1458,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				42 kW
 			</td>
 			<td>
-				 26 m 11 s
+				 26 m 45 s
 			</td>
 			<td>
 				65.2 kWh
@@ -1472,7 +1472,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				41 kW
 			</td>
 			<td>
-				 27 m 20 s
+				 27 m 56 s
 			</td>
 			<td>
 				65.9 kWh
@@ -1486,7 +1486,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				39 kW
 			</td>
 			<td>
-				 28 m 32 s
+				 29 m 9 s
 			</td>
 			<td>
 				66.7 kWh
@@ -1500,7 +1500,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				37 kW
 			</td>
 			<td>
-				 29 m 48 s
+				 30 m 26 s
 			</td>
 			<td>
 				67.5 kWh
@@ -1514,7 +1514,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				34 kW
 			</td>
 			<td>
-				 31 m 9 s
+				 31 m 49 s
 			</td>
 			<td>
 				68.2 kWh
@@ -1528,7 +1528,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				30 kW
 			</td>
 			<td>
-				 32 m 39 s
+				 33 m 21 s
 			</td>
 			<td>
 				69.0 kWh
@@ -1542,7 +1542,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				27 kW
 			</td>
 			<td>
-				 34 m 19 s
+				 35 m 4 s
 			</td>
 			<td>
 				69.7 kWh
@@ -1556,7 +1556,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				26 kW
 			</td>
 			<td>
-				 36 m 8 s
+				 36 m 54 s
 			</td>
 			<td>
 				70.5 kWh
@@ -1570,7 +1570,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				23 kW
 			</td>
 			<td>
-				 38 m 5 s
+				 38 m 54 s
 			</td>
 			<td>
 				71.3 kWh
@@ -1584,7 +1584,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				22 kW
 			</td>
 			<td>
-				 40 m 13 s
+				 41 m 4 s
 			</td>
 			<td>
 				72.0 kWh
@@ -1598,7 +1598,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				19 kW
 			</td>
 			<td>
-				 42 m 33 s
+				 43 m 28 s
 			</td>
 			<td>
 				72.8 kWh
@@ -1612,7 +1612,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				17 kW
 			</td>
 			<td>
-				 45 m 12 s
+				 46 m 11 s
 			</td>
 			<td>
 				73.5 kWh
@@ -1626,7 +1626,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				14 kW
 			</td>
 			<td>
-				 48 m 18 s
+				 49 m 20 s
 			</td>
 			<td>
 				74.3 kWh
@@ -1640,7 +1640,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				12 kW
 			</td>
 			<td>
-				 51 m 59 s
+				 53 m 6 s
 			</td>
 			<td>
 				75.0 kWh
@@ -1654,7 +1654,7 @@ Audi Q6 e-tron have battery heating, making charging at an optimum battery tempe
 				8 kW
 			</td>
 			<td>
-				 56 m 46 s
+				 57 m 59 s
 			</td>
 			<td>
 				75.8 kWh

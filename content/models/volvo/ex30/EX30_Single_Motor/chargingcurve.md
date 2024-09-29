@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Single Motor charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Volvo EX30 Single Motor."
+description: "Below is the charging curve for Volvo EX30 Single Motor, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				46.7 kW
+				45.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				44.4 kW
+				43.5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				62.8 kW
+				61.5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				87.0 kW
+				85.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				83.8kW
+				82.5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				18m15s
+				19m32s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 2 m 59 s
+				1 h 4 m 20 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				 59 m 32 s
+				1 h 0 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 23 m 38 s
+				 24 m 9 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				6,6 km (4,1 mi)
 			</td>
 			<td>
-				5,5 km (3,4 mi)
+				5,3 km (3,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				2,8 km (1,7 mi)
+				2,7 km (1,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,10 +186,10 @@ navicon: bi-battery-charging
 				Range per minute 10-100%
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,3 km (3,9 mi)
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				5,1 km (3,2 mi)
 			</td>
 			<td>
 				?
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Range per minute 10-80%
 			</td>
 			<td>
-				12,6 km (7,8 mi)
+				12,3 km (7,6 mi)
 			</td>
 			<td>
-				10,2 km (6,3 mi)
+				10,0 km (6,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				5,1 km (3,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -265,7 +265,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				60 kW
 			</td>
 			<td>
-				 0 m 33 s
+				 0 m 34 s
 			</td>
 			<td>
 				0.5 kWh
@@ -279,7 +279,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				69 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 4 s
 			</td>
 			<td>
 				1.0 kWh
@@ -293,7 +293,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				79 kW
 			</td>
 			<td>
-				 1 m 27 s
+				 1 m 29 s
 			</td>
 			<td>
 				1.5 kWh
@@ -307,7 +307,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				88 kW
 			</td>
 			<td>
-				 1 m 50 s
+				 1 m 52 s
 			</td>
 			<td>
 				2.0 kWh
@@ -321,7 +321,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				98 kW
 			</td>
 			<td>
-				 2 m 9 s
+				 2 m 12 s
 			</td>
 			<td>
 				2.4 kWh
@@ -335,7 +335,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				108 kW
 			</td>
 			<td>
-				 2 m 28 s
+				 2 m 31 s
 			</td>
 			<td>
 				2.9 kWh
@@ -349,7 +349,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				117 kW
 			</td>
 			<td>
-				 2 m 44 s
+				 2 m 48 s
 			</td>
 			<td>
 				3.4 kWh
@@ -363,7 +363,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				127 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 3 m 3 s
 			</td>
 			<td>
 				3.9 kWh
@@ -377,7 +377,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				136 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 18 s
 			</td>
 			<td>
 				4.4 kWh
@@ -391,7 +391,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				146 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 31 s
 			</td>
 			<td>
 				4.9 kWh
@@ -405,7 +405,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				147 kW
 			</td>
 			<td>
-				 3 m 39 s
+				 3 m 44 s
 			</td>
 			<td>
 				5.4 kWh
@@ -419,7 +419,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				148 kW
 			</td>
 			<td>
-				 3 m 52 s
+				 3 m 57 s
 			</td>
 			<td>
 				5.9 kWh
@@ -433,7 +433,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				147 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 10 s
 			</td>
 			<td>
 				6.4 kWh
@@ -447,7 +447,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				148 kW
 			</td>
 			<td>
-				 4 m 17 s
+				 4 m 22 s
 			</td>
 			<td>
 				6.9 kWh
@@ -461,7 +461,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				148 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 4 m 35 s
 			</td>
 			<td>
 				7.4 kWh
@@ -475,7 +475,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				148 kW
 			</td>
 			<td>
-				 4 m 42 s
+				 4 m 48 s
 			</td>
 			<td>
 				7.8 kWh
@@ -489,7 +489,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				149 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 1 s
 			</td>
 			<td>
 				8.3 kWh
@@ -503,7 +503,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				149 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 5 m 14 s
 			</td>
 			<td>
 				8.8 kWh
@@ -517,7 +517,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				150 kW
 			</td>
 			<td>
-				 5 m 19 s
+				 5 m 26 s
 			</td>
 			<td>
 				9.3 kWh
@@ -531,7 +531,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				145 kW
 			</td>
 			<td>
-				 5 m 32 s
+				 5 m 39 s
 			</td>
 			<td>
 				9.8 kWh
@@ -545,7 +545,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				147 kW
 			</td>
 			<td>
-				 5 m 45 s
+				 5 m 52 s
 			</td>
 			<td>
 				10.3 kWh
@@ -559,7 +559,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				146 kW
 			</td>
 			<td>
-				 5 m 57 s
+				 6 m 5 s
 			</td>
 			<td>
 				10.8 kWh
@@ -573,7 +573,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				144 kW
 			</td>
 			<td>
-				 6 m 10 s
+				 6 m 18 s
 			</td>
 			<td>
 				11.3 kWh
@@ -587,7 +587,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				145 kW
 			</td>
 			<td>
-				 6 m 23 s
+				 6 m 31 s
 			</td>
 			<td>
 				11.8 kWh
@@ -601,7 +601,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				138 kW
 			</td>
 			<td>
-				 6 m 36 s
+				 6 m 45 s
 			</td>
 			<td>
 				12.2 kWh
@@ -615,7 +615,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				141 kW
 			</td>
 			<td>
-				 6 m 49 s
+				 6 m 58 s
 			</td>
 			<td>
 				12.7 kWh
@@ -629,7 +629,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				140 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 12 s
 			</td>
 			<td>
 				13.2 kWh
@@ -643,7 +643,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				141 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 7 m 25 s
 			</td>
 			<td>
 				13.7 kWh
@@ -657,7 +657,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				132 kW
 			</td>
 			<td>
-				 7 m 30 s
+				 7 m 39 s
 			</td>
 			<td>
 				14.2 kWh
@@ -671,7 +671,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				135 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 7 m 53 s
 			</td>
 			<td>
 				14.7 kWh
@@ -685,7 +685,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				136 kW
 			</td>
 			<td>
-				 7 m 57 s
+				 8 m 7 s
 			</td>
 			<td>
 				15.2 kWh
@@ -699,7 +699,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				136 kW
 			</td>
 			<td>
-				 8 m 11 s
+				 8 m 21 s
 			</td>
 			<td>
 				15.7 kWh
@@ -713,7 +713,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				133 kW
 			</td>
 			<td>
-				 8 m 25 s
+				 8 m 35 s
 			</td>
 			<td>
 				16.2 kWh
@@ -727,7 +727,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				133 kW
 			</td>
 			<td>
-				 8 m 39 s
+				 8 m 50 s
 			</td>
 			<td>
 				16.7 kWh
@@ -741,7 +741,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				128 kW
 			</td>
 			<td>
-				 8 m 53 s
+				 9 m 4 s
 			</td>
 			<td>
 				17.2 kWh
@@ -755,7 +755,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				118 kW
 			</td>
 			<td>
-				 9 m 8 s
+				 9 m 20 s
 			</td>
 			<td>
 				17.6 kWh
@@ -769,7 +769,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				121 kW
 			</td>
 			<td>
-				 9 m 23 s
+				 9 m 36 s
 			</td>
 			<td>
 				18.1 kWh
@@ -783,7 +783,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				122 kW
 			</td>
 			<td>
-				 9 m 39 s
+				 9 m 51 s
 			</td>
 			<td>
 				18.6 kWh
@@ -797,7 +797,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				116 kW
 			</td>
 			<td>
-				 9 m 54 s
+				 10 m 7 s
 			</td>
 			<td>
 				19.1 kWh
@@ -811,7 +811,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				118 kW
 			</td>
 			<td>
-				 10 m 10 s
+				 10 m 23 s
 			</td>
 			<td>
 				19.6 kWh
@@ -825,7 +825,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				113 kW
 			</td>
 			<td>
-				 10 m 26 s
+				 10 m 40 s
 			</td>
 			<td>
 				20.1 kWh
@@ -839,7 +839,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				110 kW
 			</td>
 			<td>
-				 10 m 43 s
+				 10 m 57 s
 			</td>
 			<td>
 				20.6 kWh
@@ -853,7 +853,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				109 kW
 			</td>
 			<td>
-				 11 m 0 s
+				 11 m 14 s
 			</td>
 			<td>
 				21.1 kWh
@@ -867,7 +867,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				101 kW
 			</td>
 			<td>
-				 11 m 18 s
+				 11 m 32 s
 			</td>
 			<td>
 				21.6 kWh
@@ -881,7 +881,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				104 kW
 			</td>
 			<td>
-				 11 m 36 s
+				 11 m 51 s
 			</td>
 			<td>
 				22.0 kWh
@@ -895,7 +895,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				105 kW
 			</td>
 			<td>
-				 11 m 53 s
+				 12 m 9 s
 			</td>
 			<td>
 				22.5 kWh
@@ -909,7 +909,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				102 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 27 s
 			</td>
 			<td>
 				23.0 kWh
@@ -923,7 +923,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				97 kW
 			</td>
 			<td>
-				 12 m 30 s
+				 12 m 46 s
 			</td>
 			<td>
 				23.5 kWh
@@ -937,7 +937,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				100 kW
 			</td>
 			<td>
-				 12 m 49 s
+				 13 m 5 s
 			</td>
 			<td>
 				24.0 kWh
@@ -951,7 +951,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				102 kW
 			</td>
 			<td>
-				 13 m 7 s
+				 13 m 24 s
 			</td>
 			<td>
 				24.5 kWh
@@ -965,7 +965,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				97 kW
 			</td>
 			<td>
-				 13 m 26 s
+				 13 m 43 s
 			</td>
 			<td>
 				25.0 kWh
@@ -979,7 +979,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				99 kW
 			</td>
 			<td>
-				 13 m 45 s
+				 14 m 3 s
 			</td>
 			<td>
 				25.5 kWh
@@ -993,7 +993,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				97 kW
 			</td>
 			<td>
-				 14 m 4 s
+				 14 m 22 s
 			</td>
 			<td>
 				26.0 kWh
@@ -1007,7 +1007,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				94 kW
 			</td>
 			<td>
-				 14 m 23 s
+				 14 m 42 s
 			</td>
 			<td>
 				26.5 kWh
@@ -1021,7 +1021,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				91 kW
 			</td>
 			<td>
-				 14 m 43 s
+				 15 m 2 s
 			</td>
 			<td>
 				27.0 kWh
@@ -1035,7 +1035,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				87 kW
 			</td>
 			<td>
-				 15 m 4 s
+				 15 m 24 s
 			</td>
 			<td>
 				27.4 kWh
@@ -1049,7 +1049,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				85 kW
 			</td>
 			<td>
-				 15 m 26 s
+				 15 m 46 s
 			</td>
 			<td>
 				27.9 kWh
@@ -1063,7 +1063,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				82 kW
 			</td>
 			<td>
-				 15 m 48 s
+				 16 m 8 s
 			</td>
 			<td>
 				28.4 kWh
@@ -1077,7 +1077,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				83 kW
 			</td>
 			<td>
-				 16 m 11 s
+				 16 m 31 s
 			</td>
 			<td>
 				28.9 kWh
@@ -1091,7 +1091,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				80 kW
 			</td>
 			<td>
-				 16 m 33 s
+				 16 m 55 s
 			</td>
 			<td>
 				29.4 kWh
@@ -1105,7 +1105,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				78 kW
 			</td>
 			<td>
-				 16 m 57 s
+				 17 m 19 s
 			</td>
 			<td>
 				29.9 kWh
@@ -1119,7 +1119,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				77 kW
 			</td>
 			<td>
-				 17 m 21 s
+				 17 m 43 s
 			</td>
 			<td>
 				30.4 kWh
@@ -1133,7 +1133,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				70 kW
 			</td>
 			<td>
-				 17 m 46 s
+				 18 m 9 s
 			</td>
 			<td>
 				30.9 kWh
@@ -1147,7 +1147,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				71 kW
 			</td>
 			<td>
-				 18 m 12 s
+				 18 m 36 s
 			</td>
 			<td>
 				31.4 kWh
@@ -1161,7 +1161,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				72 kW
 			</td>
 			<td>
-				 18 m 38 s
+				 19 m 2 s
 			</td>
 			<td>
 				31.8 kWh
@@ -1175,7 +1175,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				71 kW
 			</td>
 			<td>
-				 19 m 4 s
+				 19 m 29 s
 			</td>
 			<td>
 				32.3 kWh
@@ -1189,7 +1189,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				71 kW
 			</td>
 			<td>
-				 19 m 30 s
+				 19 m 56 s
 			</td>
 			<td>
 				32.8 kWh
@@ -1203,7 +1203,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				65 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 20 m 24 s
 			</td>
 			<td>
 				33.3 kWh
@@ -1217,7 +1217,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				67 kW
 			</td>
 			<td>
-				 20 m 26 s
+				 20 m 52 s
 			</td>
 			<td>
 				33.8 kWh
@@ -1231,7 +1231,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				63 kW
 			</td>
 			<td>
-				 20 m 54 s
+				 21 m 21 s
 			</td>
 			<td>
 				34.3 kWh
@@ -1245,7 +1245,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				63 kW
 			</td>
 			<td>
-				 21 m 24 s
+				 21 m 52 s
 			</td>
 			<td>
 				34.8 kWh
@@ -1259,7 +1259,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				60 kW
 			</td>
 			<td>
-				 21 m 54 s
+				 22 m 22 s
 			</td>
 			<td>
 				35.3 kWh
@@ -1273,7 +1273,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				61 kW
 			</td>
 			<td>
-				 22 m 25 s
+				 22 m 54 s
 			</td>
 			<td>
 				35.8 kWh
@@ -1287,7 +1287,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				52 kW
 			</td>
 			<td>
-				 22 m 58 s
+				 23 m 27 s
 			</td>
 			<td>
 				36.3 kWh
@@ -1301,7 +1301,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				54 kW
 			</td>
 			<td>
-				 23 m 33 s
+				 24 m 3 s
 			</td>
 			<td>
 				36.8 kWh
@@ -1315,7 +1315,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				49 kW
 			</td>
 			<td>
-				 24 m 9 s
+				 24 m 40 s
 			</td>
 			<td>
 				37.2 kWh
@@ -1329,7 +1329,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				47 kW
 			</td>
 			<td>
-				 24 m 47 s
+				 25 m 19 s
 			</td>
 			<td>
 				37.7 kWh
@@ -1343,7 +1343,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				42 kW
 			</td>
 			<td>
-				 25 m 29 s
+				 26 m 2 s
 			</td>
 			<td>
 				38.2 kWh
@@ -1357,7 +1357,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				38 kW
 			</td>
 			<td>
-				 26 m 16 s
+				 26 m 50 s
 			</td>
 			<td>
 				38.7 kWh
@@ -1371,7 +1371,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				37 kW
 			</td>
 			<td>
-				 27 m 5 s
+				 27 m 40 s
 			</td>
 			<td>
 				39.2 kWh
@@ -1385,7 +1385,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				35 kW
 			</td>
 			<td>
-				 27 m 57 s
+				 28 m 33 s
 			</td>
 			<td>
 				39.7 kWh
@@ -1399,7 +1399,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				34 kW
 			</td>
 			<td>
-				 28 m 51 s
+				 29 m 28 s
 			</td>
 			<td>
 				40.2 kWh
@@ -1413,7 +1413,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				30 kW
 			</td>
 			<td>
-				 29 m 49 s
+				 30 m 27 s
 			</td>
 			<td>
 				40.7 kWh
@@ -1427,7 +1427,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				31 kW
 			</td>
 			<td>
-				 30 m 49 s
+				 31 m 29 s
 			</td>
 			<td>
 				41.2 kWh
@@ -1441,7 +1441,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				31 kW
 			</td>
 			<td>
-				 31 m 49 s
+				 32 m 30 s
 			</td>
 			<td>
 				41.6 kWh
@@ -1455,7 +1455,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				30 kW
 			</td>
 			<td>
-				 32 m 50 s
+				 33 m 33 s
 			</td>
 			<td>
 				42.1 kWh
@@ -1469,7 +1469,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 34 m 15 s
+				 34 m 59 s
 			</td>
 			<td>
 				42.6 kWh
@@ -1483,7 +1483,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 36 m 27 s
+				 37 m 14 s
 			</td>
 			<td>
 				43.1 kWh
@@ -1497,7 +1497,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 38 m 40 s
+				 39 m 30 s
 			</td>
 			<td>
 				43.6 kWh
@@ -1511,7 +1511,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 40 m 53 s
+				 41 m 45 s
 			</td>
 			<td>
 				44.1 kWh
@@ -1525,7 +1525,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 43 m 5 s
+				 44 m 1 s
 			</td>
 			<td>
 				44.6 kWh
@@ -1539,7 +1539,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 45 m 18 s
+				 46 m 16 s
 			</td>
 			<td>
 				45.1 kWh
@@ -1553,7 +1553,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 47 m 30 s
+				 48 m 32 s
 			</td>
 			<td>
 				45.6 kWh
@@ -1567,7 +1567,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 49 m 43 s
+				 50 m 47 s
 			</td>
 			<td>
 				46.1 kWh
@@ -1581,7 +1581,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 51 m 56 s
+				 53 m 3 s
 			</td>
 			<td>
 				46.6 kWh
@@ -1595,7 +1595,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 54 m 8 s
+				 55 m 18 s
 			</td>
 			<td>
 				47.0 kWh
@@ -1609,7 +1609,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 56 m 21 s
+				 57 m 34 s
 			</td>
 			<td>
 				47.5 kWh
@@ -1623,7 +1623,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				 58 m 34 s
+				 59 m 49 s
 			</td>
 			<td>
 				48.0 kWh
@@ -1637,7 +1637,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				1 h 0 m 46 s
+				1 h 2 m 5 s
 			</td>
 			<td>
 				48.5 kWh
@@ -1651,7 +1651,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 				14 kW
 			</td>
 			<td>
-				1 h 2 m 59 s
+				1 h 4 m 20 s
 			</td>
 			<td>
 				49.0 kWh

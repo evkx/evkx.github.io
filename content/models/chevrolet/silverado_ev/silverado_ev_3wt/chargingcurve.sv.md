@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV 3WT laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
-description: "Här hittar du laddningskurvan för Chevrolet Silverado EV 3WT."
+description: "Nedan visas laddningskurvan för Chevrolet Silverado EV 3WT, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				92,3 kW
+				90,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				85,6 kW
+				83,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				120,1 kW
+				117,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				185,5 kW
+				181,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				239,5kW
+				235,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				29m2s
+				30m33s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				2 h 3 m 32 s
+				2 h 6 m 12 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				1 h 59 m 53 s
+				2 h 2 m 28 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 43 m 0 s
+				 43 m 56 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 0-100%
 			</td>
 			<td>
-				5,1 km (3,2 mi)
+				5,0 km (3,1 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,0 km (3,1 mi)
+				4,9 km (3,0 mi)
 			</td>
 			<td>
-				4,4 km (2,7 mi)
+				4,3 km (2,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-100%
 			</td>
 			<td>
-				4,7 km (2,9 mi)
+				4,6 km (2,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,6 km (2,9 mi)
+				4,5 km (2,8 mi)
 			</td>
 			<td>
-				4,1 km (2,5 mi)
+				4,0 km (2,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-80%
 			</td>
 			<td>
-				10,3 km (6,4 mi)
+				10,1 km (6,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				10,1 km (6,3 mi)
+				9,9 km (6,2 mi)
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				335 kW
 			</td>
 			<td>
-				 0 m 29 s
+				 0 m 30 s
 			</td>
 			<td>
 				1,9 kWh
@@ -282,7 +282,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				338 kW
 			</td>
 			<td>
-				 0 m 51 s
+				 0 m 52 s
 			</td>
 			<td>
 				3,8 kWh
@@ -296,7 +296,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				345 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 1 m 13 s
 			</td>
 			<td>
 				5,7 kWh
@@ -310,7 +310,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				341 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				7,6 kWh
@@ -324,7 +324,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				344 kW
 			</td>
 			<td>
-				 1 m 54 s
+				 1 m 56 s
 			</td>
 			<td>
 				9,5 kWh
@@ -338,7 +338,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				342 kW
 			</td>
 			<td>
-				 2 m 15 s
+				 2 m 18 s
 			</td>
 			<td>
 				11,4 kWh
@@ -352,7 +352,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				343 kW
 			</td>
 			<td>
-				 2 m 36 s
+				 2 m 39 s
 			</td>
 			<td>
 				13,3 kWh
@@ -366,7 +366,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				345 kW
 			</td>
 			<td>
-				 2 m 57 s
+				 3 m 0 s
 			</td>
 			<td>
 				15,2 kWh
@@ -380,7 +380,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				341 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 3 m 22 s
 			</td>
 			<td>
 				17,1 kWh
@@ -394,7 +394,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				338 kW
 			</td>
 			<td>
-				 3 m 39 s
+				 3 m 44 s
 			</td>
 			<td>
 				19,0 kWh
@@ -408,7 +408,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				338 kW
 			</td>
 			<td>
-				 4 m 0 s
+				 4 m 5 s
 			</td>
 			<td>
 				20,9 kWh
@@ -422,7 +422,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				338 kW
 			</td>
 			<td>
-				 4 m 21 s
+				 4 m 27 s
 			</td>
 			<td>
 				22,8 kWh
@@ -436,7 +436,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				338 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				24,7 kWh
@@ -450,7 +450,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				340 kW
 			</td>
 			<td>
-				 5 m 4 s
+				 5 m 11 s
 			</td>
 			<td>
 				26,6 kWh
@@ -464,7 +464,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				340 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				28,5 kWh
@@ -478,7 +478,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				343 kW
 			</td>
 			<td>
-				 5 m 46 s
+				 5 m 54 s
 			</td>
 			<td>
 				30,4 kWh
@@ -492,7 +492,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				342 kW
 			</td>
 			<td>
-				 6 m 7 s
+				 6 m 15 s
 			</td>
 			<td>
 				32,3 kWh
@@ -506,7 +506,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				342 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 37 s
 			</td>
 			<td>
 				34,2 kWh
@@ -520,7 +520,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				342 kW
 			</td>
 			<td>
-				 6 m 49 s
+				 6 m 58 s
 			</td>
 			<td>
 				36,1 kWh
@@ -534,7 +534,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				342 kW
 			</td>
 			<td>
-				 7 m 10 s
+				 7 m 20 s
 			</td>
 			<td>
 				38,0 kWh
@@ -548,7 +548,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				343 kW
 			</td>
 			<td>
-				 7 m 31 s
+				 7 m 41 s
 			</td>
 			<td>
 				39,9 kWh
@@ -562,7 +562,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				343 kW
 			</td>
 			<td>
-				 7 m 52 s
+				 8 m 3 s
 			</td>
 			<td>
 				41,8 kWh
@@ -576,7 +576,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				345 kW
 			</td>
 			<td>
-				 8 m 13 s
+				 8 m 24 s
 			</td>
 			<td>
 				43,7 kWh
@@ -590,7 +590,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				345 kW
 			</td>
 			<td>
-				 8 m 34 s
+				 8 m 45 s
 			</td>
 			<td>
 				45,6 kWh
@@ -604,7 +604,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				341 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 7 s
 			</td>
 			<td>
 				47,5 kWh
@@ -618,7 +618,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				337 kW
 			</td>
 			<td>
-				 9 m 16 s
+				 9 m 28 s
 			</td>
 			<td>
 				49,4 kWh
@@ -632,7 +632,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				337 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 9 m 50 s
 			</td>
 			<td>
 				51,3 kWh
@@ -646,7 +646,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				339 kW
 			</td>
 			<td>
-				 9 m 59 s
+				 10 m 12 s
 			</td>
 			<td>
 				53,2 kWh
@@ -660,7 +660,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				337 kW
 			</td>
 			<td>
-				 10 m 20 s
+				 10 m 34 s
 			</td>
 			<td>
 				55,1 kWh
@@ -674,7 +674,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				338 kW
 			</td>
 			<td>
-				 10 m 42 s
+				 10 m 56 s
 			</td>
 			<td>
 				57,0 kWh
@@ -688,7 +688,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				339 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 17 s
 			</td>
 			<td>
 				58,9 kWh
@@ -702,7 +702,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				340 kW
 			</td>
 			<td>
-				 11 m 24 s
+				 11 m 39 s
 			</td>
 			<td>
 				60,8 kWh
@@ -716,7 +716,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				340 kW
 			</td>
 			<td>
-				 11 m 45 s
+				 12 m 1 s
 			</td>
 			<td>
 				62,7 kWh
@@ -730,7 +730,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				340 kW
 			</td>
 			<td>
-				 12 m 7 s
+				 12 m 22 s
 			</td>
 			<td>
 				64,6 kWh
@@ -744,7 +744,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				327 kW
 			</td>
 			<td>
-				 12 m 28 s
+				 12 m 44 s
 			</td>
 			<td>
 				66,5 kWh
@@ -758,7 +758,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				306 kW
 			</td>
 			<td>
-				 12 m 51 s
+				 13 m 8 s
 			</td>
 			<td>
 				68,4 kWh
@@ -772,7 +772,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				291 kW
 			</td>
 			<td>
-				 13 m 15 s
+				 13 m 32 s
 			</td>
 			<td>
 				70,3 kWh
@@ -786,7 +786,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				291 kW
 			</td>
 			<td>
-				 13 m 40 s
+				 13 m 57 s
 			</td>
 			<td>
 				72,2 kWh
@@ -800,7 +800,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				292 kW
 			</td>
 			<td>
-				 14 m 4 s
+				 14 m 23 s
 			</td>
 			<td>
 				74,1 kWh
@@ -814,7 +814,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				294 kW
 			</td>
 			<td>
-				 14 m 29 s
+				 14 m 48 s
 			</td>
 			<td>
 				76,0 kWh
@@ -828,7 +828,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				291 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 15 m 13 s
 			</td>
 			<td>
 				77,9 kWh
@@ -842,7 +842,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				288 kW
 			</td>
 			<td>
-				 15 m 19 s
+				 15 m 38 s
 			</td>
 			<td>
 				79,8 kWh
@@ -856,7 +856,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				280 kW
 			</td>
 			<td>
-				 15 m 44 s
+				 16 m 4 s
 			</td>
 			<td>
 				81,7 kWh
@@ -870,7 +870,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				281 kW
 			</td>
 			<td>
-				 16 m 10 s
+				 16 m 30 s
 			</td>
 			<td>
 				83,6 kWh
@@ -884,7 +884,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				275 kW
 			</td>
 			<td>
-				 16 m 35 s
+				 16 m 57 s
 			</td>
 			<td>
 				85,5 kWh
@@ -898,7 +898,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				274 kW
 			</td>
 			<td>
-				 17 m 2 s
+				 17 m 24 s
 			</td>
 			<td>
 				87,4 kWh
@@ -912,7 +912,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				261 kW
 			</td>
 			<td>
-				 17 m 29 s
+				 17 m 51 s
 			</td>
 			<td>
 				89,3 kWh
@@ -926,7 +926,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				258 kW
 			</td>
 			<td>
-				 17 m 56 s
+				 18 m 20 s
 			</td>
 			<td>
 				91,2 kWh
@@ -940,7 +940,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				258 kW
 			</td>
 			<td>
-				 18 m 24 s
+				 18 m 48 s
 			</td>
 			<td>
 				93,1 kWh
@@ -954,7 +954,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				257 kW
 			</td>
 			<td>
-				 18 m 52 s
+				 19 m 17 s
 			</td>
 			<td>
 				95,0 kWh
@@ -968,7 +968,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				259 kW
 			</td>
 			<td>
-				 19 m 20 s
+				 19 m 45 s
 			</td>
 			<td>
 				96,9 kWh
@@ -982,7 +982,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				258 kW
 			</td>
 			<td>
-				 19 m 48 s
+				 20 m 14 s
 			</td>
 			<td>
 				98,8 kWh
@@ -996,7 +996,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				255 kW
 			</td>
 			<td>
-				 20 m 16 s
+				 20 m 42 s
 			</td>
 			<td>
 				100,7 kWh
@@ -1010,7 +1010,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				253 kW
 			</td>
 			<td>
-				 20 m 44 s
+				 21 m 11 s
 			</td>
 			<td>
 				102,6 kWh
@@ -1024,7 +1024,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				252 kW
 			</td>
 			<td>
-				 21 m 13 s
+				 21 m 40 s
 			</td>
 			<td>
 				104,5 kWh
@@ -1038,7 +1038,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				253 kW
 			</td>
 			<td>
-				 21 m 41 s
+				 22 m 9 s
 			</td>
 			<td>
 				106,4 kWh
@@ -1052,7 +1052,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				254 kW
 			</td>
 			<td>
-				 22 m 10 s
+				 22 m 38 s
 			</td>
 			<td>
 				108,3 kWh
@@ -1066,7 +1066,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				254 kW
 			</td>
 			<td>
-				 22 m 38 s
+				 23 m 7 s
 			</td>
 			<td>
 				110,2 kWh
@@ -1080,7 +1080,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				255 kW
 			</td>
 			<td>
-				 23 m 6 s
+				 23 m 36 s
 			</td>
 			<td>
 				112,1 kWh
@@ -1094,7 +1094,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				255 kW
 			</td>
 			<td>
-				 23 m 35 s
+				 24 m 5 s
 			</td>
 			<td>
 				114,0 kWh
@@ -1108,7 +1108,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				256 kW
 			</td>
 			<td>
-				 24 m 3 s
+				 24 m 34 s
 			</td>
 			<td>
 				115,9 kWh
@@ -1122,7 +1122,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				253 kW
 			</td>
 			<td>
-				 24 m 31 s
+				 25 m 3 s
 			</td>
 			<td>
 				117,8 kWh
@@ -1136,7 +1136,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				229 kW
 			</td>
 			<td>
-				 25 m 1 s
+				 25 m 33 s
 			</td>
 			<td>
 				119,7 kWh
@@ -1150,7 +1150,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				228 kW
 			</td>
 			<td>
-				 25 m 33 s
+				 26 m 6 s
 			</td>
 			<td>
 				121,6 kWh
@@ -1164,7 +1164,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				223 kW
 			</td>
 			<td>
-				 26 m 4 s
+				 26 m 38 s
 			</td>
 			<td>
 				123,5 kWh
@@ -1178,7 +1178,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				169 kW
 			</td>
 			<td>
-				 26 m 41 s
+				 27 m 16 s
 			</td>
 			<td>
 				125,4 kWh
@@ -1192,7 +1192,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				145 kW
 			</td>
 			<td>
-				 27 m 27 s
+				 28 m 3 s
 			</td>
 			<td>
 				127,3 kWh
@@ -1206,7 +1206,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				125 kW
 			</td>
 			<td>
-				 28 m 20 s
+				 28 m 57 s
 			</td>
 			<td>
 				129,2 kWh
@@ -1220,7 +1220,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				115 kW
 			</td>
 			<td>
-				 29 m 20 s
+				 29 m 58 s
 			</td>
 			<td>
 				131,1 kWh
@@ -1234,7 +1234,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				115 kW
 			</td>
 			<td>
-				 30 m 23 s
+				 31 m 2 s
 			</td>
 			<td>
 				133,0 kWh
@@ -1248,7 +1248,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				104 kW
 			</td>
 			<td>
-				 31 m 29 s
+				 32 m 9 s
 			</td>
 			<td>
 				134,9 kWh
@@ -1262,7 +1262,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				99 kW
 			</td>
 			<td>
-				 32 m 40 s
+				 33 m 22 s
 			</td>
 			<td>
 				136,8 kWh
@@ -1276,7 +1276,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				98 kW
 			</td>
 			<td>
-				 33 m 53 s
+				 34 m 37 s
 			</td>
 			<td>
 				138,7 kWh
@@ -1290,7 +1290,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				93 kW
 			</td>
 			<td>
-				 35 m 8 s
+				 35 m 54 s
 			</td>
 			<td>
 				140,6 kWh
@@ -1304,7 +1304,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				74 kW
 			</td>
 			<td>
-				 36 m 34 s
+				 37 m 22 s
 			</td>
 			<td>
 				142,5 kWh
@@ -1318,7 +1318,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				61 kW
 			</td>
 			<td>
-				 38 m 21 s
+				 39 m 11 s
 			</td>
 			<td>
 				144,4 kWh
@@ -1332,7 +1332,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				64 kW
 			</td>
 			<td>
-				 40 m 16 s
+				 41 m 8 s
 			</td>
 			<td>
 				146,3 kWh
@@ -1346,7 +1346,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				65 kW
 			</td>
 			<td>
-				 42 m 8 s
+				 43 m 2 s
 			</td>
 			<td>
 				148,2 kWh
@@ -1360,7 +1360,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				52 kW
 			</td>
 			<td>
-				 44 m 11 s
+				 45 m 8 s
 			</td>
 			<td>
 				150,1 kWh
@@ -1374,7 +1374,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				45 kW
 			</td>
 			<td>
-				 46 m 39 s
+				 47 m 40 s
 			</td>
 			<td>
 				152,0 kWh
@@ -1388,7 +1388,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				34 kW
 			</td>
 			<td>
-				 49 m 42 s
+				 50 m 46 s
 			</td>
 			<td>
 				153,9 kWh
@@ -1402,7 +1402,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				27 kW
 			</td>
 			<td>
-				 53 m 38 s
+				 54 m 47 s
 			</td>
 			<td>
 				155,8 kWh
@@ -1416,7 +1416,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				17 kW
 			</td>
 			<td>
-				 59 m 5 s
+				1 h 0 m 21 s
 			</td>
 			<td>
 				157,7 kWh
@@ -1430,7 +1430,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				19 kW
 			</td>
 			<td>
-				1 h 5 m 45 s
+				1 h 7 m 10 s
 			</td>
 			<td>
 				159,6 kWh
@@ -1444,7 +1444,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				50 kW
 			</td>
 			<td>
-				1 h 9 m 14 s
+				1 h 10 m 43 s
 			</td>
 			<td>
 				161,5 kWh
@@ -1458,7 +1458,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				77 kW
 			</td>
 			<td>
-				1 h 11 m 7 s
+				1 h 12 m 39 s
 			</td>
 			<td>
 				163,4 kWh
@@ -1472,7 +1472,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				55 kW
 			</td>
 			<td>
-				1 h 12 m 56 s
+				1 h 14 m 30 s
 			</td>
 			<td>
 				165,3 kWh
@@ -1486,7 +1486,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				55 kW
 			</td>
 			<td>
-				1 h 15 m 7 s
+				1 h 16 m 44 s
 			</td>
 			<td>
 				167,2 kWh
@@ -1500,7 +1500,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				55 kW
 			</td>
 			<td>
-				1 h 17 m 18 s
+				1 h 18 m 58 s
 			</td>
 			<td>
 				169,1 kWh
@@ -1514,7 +1514,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				51 kW
 			</td>
 			<td>
-				1 h 19 m 34 s
+				1 h 21 m 17 s
 			</td>
 			<td>
 				171,0 kWh
@@ -1528,7 +1528,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				46 kW
 			</td>
 			<td>
-				1 h 22 m 2 s
+				1 h 23 m 48 s
 			</td>
 			<td>
 				172,9 kWh
@@ -1542,7 +1542,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				43 kW
 			</td>
 			<td>
-				1 h 24 m 44 s
+				1 h 26 m 34 s
 			</td>
 			<td>
 				174,8 kWh
@@ -1556,7 +1556,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				39 kW
 			</td>
 			<td>
-				1 h 27 m 40 s
+				1 h 29 m 33 s
 			</td>
 			<td>
 				176,7 kWh
@@ -1570,7 +1570,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				35 kW
 			</td>
 			<td>
-				1 h 30 m 54 s
+				1 h 32 m 52 s
 			</td>
 			<td>
 				178,6 kWh
@@ -1584,7 +1584,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				31 kW
 			</td>
 			<td>
-				1 h 34 m 33 s
+				1 h 36 m 35 s
 			</td>
 			<td>
 				180,5 kWh
@@ -1598,7 +1598,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				28 kW
 			</td>
 			<td>
-				1 h 38 m 37 s
+				1 h 40 m 44 s
 			</td>
 			<td>
 				182,4 kWh
@@ -1612,7 +1612,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				24 kW
 			</td>
 			<td>
-				1 h 43 m 14 s
+				1 h 45 m 27 s
 			</td>
 			<td>
 				184,3 kWh
@@ -1626,7 +1626,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				20 kW
 			</td>
 			<td>
-				1 h 48 m 41 s
+				1 h 51 m 1 s
 			</td>
 			<td>
 				186,2 kWh
@@ -1640,7 +1640,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				15 kW
 			</td>
 			<td>
-				1 h 55 m 32 s
+				1 h 58 m 1 s
 			</td>
 			<td>
 				188,1 kWh
@@ -1654,7 +1654,7 @@ Chevrolet Silverado EV 3WT har batteriuppvärmning, vilket underlättar laddning
 				15 kW
 			</td>
 			<td>
-				2 h 3 m 32 s
+				2 h 6 m 12 s
 			</td>
 			<td>
 				190,0 kWh

@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Standard Range AWD Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Ford Mustang Mach-E Standard Range AWD."
+description: "Unten ist die Ladekurve für Ford Mustang Mach-E Standard Range AWD dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				35,9 kW
+				35,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				33,8 kW
+				33,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				46,2 kW
+				45,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				85,9 kW
+				84,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				80,0kW
+				78,7kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				22m3s
+				22m25s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 56 m 56 s
+				1 h 59 m 27 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				1 h 51 m 40 s
+				1 h 54 m 4 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 34 m 13 s
+				 34 m 57 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,4 km (2,1 mi)
+				3,3 km (2,1 mi)
 			</td>
 			<td>
-				3,0 km (1,9 mi)
+				2,9 km (1,8 mi)
 			</td>
 			<td>
-				2,5 km (1,6 mi)
+				2,4 km (1,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -192,10 +192,10 @@ navicon: bi-battery-charging
 				3,2 km (2,0 mi)
 			</td>
 			<td>
-				2,8 km (1,7 mi)
+				2,7 km (1,7 mi)
 			</td>
 			<td>
-				2,4 km (1,5 mi)
+				2,3 km (1,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				8,0 km (5,0 mi)
 			</td>
 			<td>
-				7,1 km (4,4 mi)
+				7,0 km (4,4 mi)
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				58 kW
 			</td>
 			<td>
-				 0 m 49 s
+				 0 m 50 s
 			</td>
 			<td>
 				0,7 kWh
@@ -282,7 +282,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				66 kW
 			</td>
 			<td>
-				 1 m 31 s
+				 1 m 33 s
 			</td>
 			<td>
 				1,4 kWh
@@ -296,7 +296,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				74 kW
 			</td>
 			<td>
-				 2 m 9 s
+				 2 m 12 s
 			</td>
 			<td>
 				2,1 kWh
@@ -310,7 +310,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				82 kW
 			</td>
 			<td>
-				 2 m 43 s
+				 2 m 47 s
 			</td>
 			<td>
 				2,8 kWh
@@ -324,7 +324,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				90 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 18 s
 			</td>
 			<td>
 				3,5 kWh
@@ -338,7 +338,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				98 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 47 s
 			</td>
 			<td>
 				4,2 kWh
@@ -352,7 +352,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				106 kW
 			</td>
 			<td>
-				 4 m 8 s
+				 4 m 14 s
 			</td>
 			<td>
 				4,9 kWh
@@ -366,7 +366,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				114 kW
 			</td>
 			<td>
-				 4 m 32 s
+				 4 m 38 s
 			</td>
 			<td>
 				5,6 kWh
@@ -380,7 +380,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				122 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 1 s
 			</td>
 			<td>
 				6,3 kWh
@@ -394,7 +394,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				130 kW
 			</td>
 			<td>
-				 5 m 16 s
+				 5 m 23 s
 			</td>
 			<td>
 				7,0 kWh
@@ -408,7 +408,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				131 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 44 s
 			</td>
 			<td>
 				7,7 kWh
@@ -422,7 +422,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				132 kW
 			</td>
 			<td>
-				 5 m 57 s
+				 6 m 4 s
 			</td>
 			<td>
 				8,4 kWh
@@ -436,7 +436,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				133 kW
 			</td>
 			<td>
-				 6 m 17 s
+				 6 m 25 s
 			</td>
 			<td>
 				9,1 kWh
@@ -450,7 +450,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				136 kW
 			</td>
 			<td>
-				 6 m 36 s
+				 6 m 45 s
 			</td>
 			<td>
 				9,8 kWh
@@ -464,7 +464,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				139 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				10,5 kWh
@@ -478,7 +478,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				143 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 24 s
 			</td>
 			<td>
 				11,2 kWh
@@ -492,7 +492,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				118 kW
 			</td>
 			<td>
-				 7 m 35 s
+				 7 m 44 s
 			</td>
 			<td>
 				11,9 kWh
@@ -506,7 +506,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				111 kW
 			</td>
 			<td>
-				 7 m 58 s
+				 8 m 8 s
 			</td>
 			<td>
 				12,6 kWh
@@ -520,7 +520,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				111 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 33 s
 			</td>
 			<td>
 				13,3 kWh
@@ -534,7 +534,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 8 m 46 s
+				 8 m 57 s
 			</td>
 			<td>
 				14,0 kWh
@@ -548,7 +548,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 9 m 9 s
+				 9 m 21 s
 			</td>
 			<td>
 				14,7 kWh
@@ -562,7 +562,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				111 kW
 			</td>
 			<td>
-				 9 m 33 s
+				 9 m 45 s
 			</td>
 			<td>
 				15,4 kWh
@@ -576,7 +576,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				111 kW
 			</td>
 			<td>
-				 9 m 57 s
+				 10 m 10 s
 			</td>
 			<td>
 				16,1 kWh
@@ -590,7 +590,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 10 m 21 s
+				 10 m 34 s
 			</td>
 			<td>
 				16,8 kWh
@@ -604,7 +604,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 10 m 44 s
+				 10 m 58 s
 			</td>
 			<td>
 				17,5 kWh
@@ -618,7 +618,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 11 m 8 s
+				 11 m 22 s
 			</td>
 			<td>
 				18,2 kWh
@@ -632,7 +632,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 11 m 47 s
 			</td>
 			<td>
 				18,9 kWh
@@ -646,7 +646,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 11 m 55 s
+				 12 m 11 s
 			</td>
 			<td>
 				19,6 kWh
@@ -660,7 +660,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 12 m 19 s
+				 12 m 35 s
 			</td>
 			<td>
 				20,3 kWh
@@ -674,7 +674,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 12 m 43 s
+				 12 m 59 s
 			</td>
 			<td>
 				21,0 kWh
@@ -688,7 +688,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				113 kW
 			</td>
 			<td>
-				 13 m 6 s
+				 13 m 23 s
 			</td>
 			<td>
 				21,7 kWh
@@ -702,7 +702,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				112 kW
 			</td>
 			<td>
-				 13 m 30 s
+				 13 m 47 s
 			</td>
 			<td>
 				22,4 kWh
@@ -716,7 +716,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				107 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 12 s
 			</td>
 			<td>
 				23,1 kWh
@@ -730,7 +730,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				105 kW
 			</td>
 			<td>
-				 14 m 19 s
+				 14 m 38 s
 			</td>
 			<td>
 				23,8 kWh
@@ -744,7 +744,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				103 kW
 			</td>
 			<td>
-				 14 m 45 s
+				 15 m 4 s
 			</td>
 			<td>
 				24,5 kWh
@@ -758,7 +758,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				103 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 15 m 30 s
 			</td>
 			<td>
 				25,2 kWh
@@ -772,7 +772,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				103 kW
 			</td>
 			<td>
-				 15 m 36 s
+				 15 m 56 s
 			</td>
 			<td>
 				25,9 kWh
@@ -786,7 +786,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				102 kW
 			</td>
 			<td>
-				 16 m 2 s
+				 16 m 23 s
 			</td>
 			<td>
 				26,6 kWh
@@ -800,7 +800,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				97 kW
 			</td>
 			<td>
-				 16 m 29 s
+				 16 m 50 s
 			</td>
 			<td>
 				27,3 kWh
@@ -814,7 +814,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				96 kW
 			</td>
 			<td>
-				 16 m 56 s
+				 17 m 18 s
 			</td>
 			<td>
 				28,0 kWh
@@ -828,7 +828,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				95 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 17 m 47 s
 			</td>
 			<td>
 				28,7 kWh
@@ -842,7 +842,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				96 kW
 			</td>
 			<td>
-				 17 m 52 s
+				 18 m 15 s
 			</td>
 			<td>
 				29,4 kWh
@@ -856,7 +856,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				96 kW
 			</td>
 			<td>
-				 18 m 19 s
+				 18 m 43 s
 			</td>
 			<td>
 				30,1 kWh
@@ -870,7 +870,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				96 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 11 s
 			</td>
 			<td>
 				30,8 kWh
@@ -884,7 +884,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				90 kW
 			</td>
 			<td>
-				 19 m 16 s
+				 19 m 40 s
 			</td>
 			<td>
 				31,5 kWh
@@ -898,7 +898,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				85 kW
 			</td>
 			<td>
-				 19 m 46 s
+				 20 m 11 s
 			</td>
 			<td>
 				32,2 kWh
@@ -912,7 +912,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				81 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 20 m 44 s
 			</td>
 			<td>
 				32,9 kWh
@@ -926,7 +926,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				79 kW
 			</td>
 			<td>
-				 20 m 51 s
+				 21 m 18 s
 			</td>
 			<td>
 				33,6 kWh
@@ -940,7 +940,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 21 m 25 s
+				 21 m 52 s
 			</td>
 			<td>
 				34,3 kWh
@@ -954,7 +954,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 21 m 59 s
+				 22 m 27 s
 			</td>
 			<td>
 				35,0 kWh
@@ -968,7 +968,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 22 m 34 s
+				 23 m 3 s
 			</td>
 			<td>
 				35,7 kWh
@@ -982,7 +982,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 23 m 8 s
+				 23 m 38 s
 			</td>
 			<td>
 				36,4 kWh
@@ -996,7 +996,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 23 m 42 s
+				 24 m 13 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1010,7 +1010,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				76 kW
 			</td>
 			<td>
-				 24 m 17 s
+				 24 m 48 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1024,7 +1024,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 24 m 52 s
+				 25 m 24 s
 			</td>
 			<td>
 				38,5 kWh
@@ -1038,7 +1038,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 25 m 26 s
+				 25 m 59 s
 			</td>
 			<td>
 				39,2 kWh
@@ -1052,7 +1052,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 26 m 1 s
+				 26 m 34 s
 			</td>
 			<td>
 				39,9 kWh
@@ -1066,7 +1066,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 26 m 35 s
+				 27 m 9 s
 			</td>
 			<td>
 				40,6 kWh
@@ -1080,7 +1080,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 27 m 9 s
+				 27 m 44 s
 			</td>
 			<td>
 				41,3 kWh
@@ -1094,7 +1094,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 27 m 43 s
+				 28 m 19 s
 			</td>
 			<td>
 				42,0 kWh
@@ -1108,7 +1108,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 28 m 17 s
+				 28 m 54 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1122,7 +1122,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 28 m 51 s
+				 29 m 29 s
 			</td>
 			<td>
 				43,4 kWh
@@ -1136,7 +1136,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 29 m 25 s
+				 30 m 3 s
 			</td>
 			<td>
 				44,1 kWh
@@ -1150,7 +1150,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 29 m 59 s
+				 30 m 38 s
 			</td>
 			<td>
 				44,8 kWh
@@ -1164,7 +1164,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 30 m 33 s
+				 31 m 13 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1178,7 +1178,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				79 kW
 			</td>
 			<td>
-				 31 m 7 s
+				 31 m 47 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1192,7 +1192,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				79 kW
 			</td>
 			<td>
-				 31 m 41 s
+				 32 m 22 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1206,7 +1206,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 32 m 15 s
+				 32 m 56 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1220,7 +1220,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 32 m 49 s
+				 33 m 32 s
 			</td>
 			<td>
 				48,3 kWh
@@ -1234,7 +1234,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 33 m 24 s
+				 34 m 7 s
 			</td>
 			<td>
 				49,0 kWh
@@ -1248,7 +1248,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 33 m 58 s
+				 34 m 42 s
 			</td>
 			<td>
 				49,7 kWh
@@ -1262,7 +1262,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 34 m 32 s
+				 35 m 17 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1276,7 +1276,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 35 m 6 s
+				 35 m 52 s
 			</td>
 			<td>
 				51,1 kWh
@@ -1290,7 +1290,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 35 m 40 s
+				 36 m 26 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1304,7 +1304,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 36 m 14 s
+				 37 m 1 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1318,7 +1318,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				78 kW
 			</td>
 			<td>
-				 36 m 48 s
+				 37 m 36 s
 			</td>
 			<td>
 				53,2 kWh
@@ -1332,7 +1332,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				79 kW
 			</td>
 			<td>
-				 37 m 22 s
+				 38 m 10 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1346,7 +1346,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				79 kW
 			</td>
 			<td>
-				 37 m 56 s
+				 38 m 45 s
 			</td>
 			<td>
 				54,6 kWh
@@ -1360,7 +1360,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				77 kW
 			</td>
 			<td>
-				 38 m 30 s
+				 39 m 19 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1374,7 +1374,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				 39 m 29 s
+				 40 m 20 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1388,7 +1388,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				 43 m 20 s
+				 44 m 16 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1402,7 +1402,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				 47 m 21 s
+				 48 m 22 s
 			</td>
 			<td>
 				57,4 kWh
@@ -1416,7 +1416,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				 51 m 22 s
+				 52 m 29 s
 			</td>
 			<td>
 				58,1 kWh
@@ -1430,7 +1430,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				 55 m 23 s
+				 56 m 35 s
 			</td>
 			<td>
 				58,8 kWh
@@ -1444,7 +1444,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				 59 m 14 s
+				1 h 0 m 31 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1458,7 +1458,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 2 m 56 s
+				1 h 4 m 17 s
 			</td>
 			<td>
 				60,2 kWh
@@ -1472,7 +1472,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 6 m 39 s
+				1 h 8 m 5 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1486,7 +1486,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 10 m 23 s
+				1 h 11 m 54 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1500,7 +1500,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 14 m 8 s
+				1 h 15 m 44 s
 			</td>
 			<td>
 				62,3 kWh
@@ -1514,7 +1514,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 17 m 55 s
+				1 h 19 m 36 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1528,7 +1528,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 21 m 43 s
+				1 h 23 m 29 s
 			</td>
 			<td>
 				63,7 kWh
@@ -1542,7 +1542,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				12 kW
 			</td>
 			<td>
-				1 h 25 m 32 s
+				1 h 27 m 23 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1556,7 +1556,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 29 m 23 s
+				1 h 31 m 18 s
 			</td>
 			<td>
 				65,1 kWh
@@ -1570,7 +1570,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 33 m 15 s
+				1 h 35 m 15 s
 			</td>
 			<td>
 				65,8 kWh
@@ -1584,7 +1584,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 37 m 8 s
+				1 h 39 m 14 s
 			</td>
 			<td>
 				66,5 kWh
@@ -1598,7 +1598,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 41 m 3 s
+				1 h 43 m 14 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1612,7 +1612,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 44 m 59 s
+				1 h 47 m 15 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1626,7 +1626,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 48 m 57 s
+				1 h 51 m 17 s
 			</td>
 			<td>
 				68,6 kWh
@@ -1640,7 +1640,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 52 m 56 s
+				1 h 55 m 22 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1654,7 +1654,7 @@ Ford Mustang Mach-E Standard Range AWD verfügt über eine Batterieheizung, die 
 				11 kW
 			</td>
 			<td>
-				1 h 56 m 56 s
+				1 h 59 m 27 s
 			</td>
 			<td>
 				70,0 kWh

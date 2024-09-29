@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Porsche Taycan Sport Turismo."
+description: "Ci-dessous se trouve la courbe de charge pour Porsche Taycan Sport Turismo, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -33,7 +33,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				126,3 kW
+				123,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -41,7 +41,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				119,4 kW
+				116,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -49,7 +49,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				207,7 kW
+				203,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				265,1 kW
+				259,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -89,7 +89,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				212,5kW
+				209,3kW
 			</td>
 		</tr>
 		<tr>
@@ -97,7 +97,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				18m32s
+				18m48s
 			</td>
 		</tr>
 	</tbody>
@@ -122,7 +122,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Temps de charge 0-100%
 			</td>
 			<td>
-				 46 m 5 s
+				 47 m 4 s
 			</td>
 		</tr>
 		<tr>
@@ -130,7 +130,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Temps de charge 10-100%
 			</td>
 			<td>
-				 43 m 52 s
+				 44 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 41 s
 			</td>
 		</tr>
 	</tbody>
@@ -176,13 +176,13 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				?
 			</td>
 			<td>
-				14,7 km (9,1 mi)
+				14,4 km (8,9 mi)
 			</td>
 			<td>
-				11,7 km (7,3 mi)
+				11,4 km (7,1 mi)
 			</td>
 			<td>
-				10,0 km (6,2 mi)
+				9,8 km (6,1 mi)
 			</td>
 		</tr>
 		<tr>
@@ -193,13 +193,13 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				?
 			</td>
 			<td>
-				13,9 km (8,6 mi)
+				13,6 km (8,5 mi)
 			</td>
 			<td>
-				11,1 km (6,9 mi)
+				10,8 km (6,7 mi)
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				9,3 km (5,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -210,13 +210,13 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				?
 			</td>
 			<td>
-				30,9 km (19,2 mi)
+				30,2 km (18,8 mi)
 			</td>
 			<td>
-				24,5 km (15,2 mi)
+				24,0 km (14,9 mi)
 			</td>
 			<td>
-				21,0 km (13,1 mi)
+				20,6 km (12,8 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -286,7 +286,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				295 kW
 			</td>
 			<td>
-				 0 m 35 s
+				 0 m 36 s
 			</td>
 			<td>
 				1,9 kWh
@@ -300,7 +300,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				298 kW
 			</td>
 			<td>
-				 0 m 47 s
+				 0 m 48 s
 			</td>
 			<td>
 				2,9 kWh
@@ -314,7 +314,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				302 kW
 			</td>
 			<td>
-				 1 m 0 s
+				 1 m 1 s
 			</td>
 			<td>
 				3,9 kWh
@@ -328,7 +328,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				303 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 1 m 13 s
 			</td>
 			<td>
 				4,8 kWh
@@ -342,7 +342,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				304 kW
 			</td>
 			<td>
-				 1 m 24 s
+				 1 m 26 s
 			</td>
 			<td>
 				5,8 kWh
@@ -356,7 +356,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				305 kW
 			</td>
 			<td>
-				 1 m 36 s
+				 1 m 38 s
 			</td>
 			<td>
 				6,8 kWh
@@ -370,7 +370,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				307 kW
 			</td>
 			<td>
-				 1 m 48 s
+				 1 m 50 s
 			</td>
 			<td>
 				7,8 kWh
@@ -384,7 +384,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				307 kW
 			</td>
 			<td>
-				 2 m 0 s
+				 2 m 3 s
 			</td>
 			<td>
 				8,7 kWh
@@ -398,7 +398,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				304 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 15 s
 			</td>
 			<td>
 				9,7 kWh
@@ -412,7 +412,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				311 kW
 			</td>
 			<td>
-				 2 m 24 s
+				 2 m 27 s
 			</td>
 			<td>
 				10,7 kWh
@@ -426,7 +426,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				311 kW
 			</td>
 			<td>
-				 2 m 36 s
+				 2 m 39 s
 			</td>
 			<td>
 				11,6 kWh
@@ -440,7 +440,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				311 kW
 			</td>
 			<td>
-				 2 m 48 s
+				 2 m 51 s
 			</td>
 			<td>
 				12,6 kWh
@@ -454,7 +454,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				313 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 3 m 3 s
 			</td>
 			<td>
 				13,6 kWh
@@ -468,7 +468,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				312 kW
 			</td>
 			<td>
-				 3 m 11 s
+				 3 m 15 s
 			</td>
 			<td>
 				14,6 kWh
@@ -482,7 +482,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				310 kW
 			</td>
 			<td>
-				 3 m 23 s
+				 3 m 27 s
 			</td>
 			<td>
 				15,5 kWh
@@ -496,7 +496,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				314 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 39 s
 			</td>
 			<td>
 				16,5 kWh
@@ -510,7 +510,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				314 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 3 m 51 s
 			</td>
 			<td>
 				17,5 kWh
@@ -524,7 +524,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				315 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 3 s
 			</td>
 			<td>
 				18,4 kWh
@@ -538,7 +538,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				312 kW
 			</td>
 			<td>
-				 4 m 10 s
+				 4 m 15 s
 			</td>
 			<td>
 				19,4 kWh
@@ -552,7 +552,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				312 kW
 			</td>
 			<td>
-				 4 m 22 s
+				 4 m 27 s
 			</td>
 			<td>
 				20,4 kWh
@@ -566,7 +566,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				317 kW
 			</td>
 			<td>
-				 4 m 33 s
+				 4 m 39 s
 			</td>
 			<td>
 				21,3 kWh
@@ -580,7 +580,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				317 kW
 			</td>
 			<td>
-				 4 m 45 s
+				 4 m 51 s
 			</td>
 			<td>
 				22,3 kWh
@@ -594,7 +594,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				317 kW
 			</td>
 			<td>
-				 4 m 57 s
+				 5 m 3 s
 			</td>
 			<td>
 				23,3 kWh
@@ -608,7 +608,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				321 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 15 s
 			</td>
 			<td>
 				24,2 kWh
@@ -622,7 +622,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				321 kW
 			</td>
 			<td>
-				 5 m 20 s
+				 5 m 26 s
 			</td>
 			<td>
 				25,2 kWh
@@ -636,7 +636,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				322 kW
 			</td>
 			<td>
-				 5 m 31 s
+				 5 m 38 s
 			</td>
 			<td>
 				26,2 kWh
@@ -650,7 +650,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				322 kW
 			</td>
 			<td>
-				 5 m 42 s
+				 5 m 50 s
 			</td>
 			<td>
 				27,2 kWh
@@ -664,7 +664,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				325 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 6 m 1 s
 			</td>
 			<td>
 				28,1 kWh
@@ -678,7 +678,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				326 kW
 			</td>
 			<td>
-				 6 m 5 s
+				 6 m 13 s
 			</td>
 			<td>
 				29,1 kWh
@@ -692,7 +692,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				320 kW
 			</td>
 			<td>
-				 6 m 16 s
+				 6 m 25 s
 			</td>
 			<td>
 				30,1 kWh
@@ -706,7 +706,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				321 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 36 s
 			</td>
 			<td>
 				31,0 kWh
@@ -720,7 +720,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				320 kW
 			</td>
 			<td>
-				 6 m 39 s
+				 6 m 48 s
 			</td>
 			<td>
 				32,0 kWh
@@ -734,7 +734,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				320 kW
 			</td>
 			<td>
-				 6 m 51 s
+				 7 m 0 s
 			</td>
 			<td>
 				33,0 kWh
@@ -748,7 +748,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				322 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				34,0 kWh
@@ -762,7 +762,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				329 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 23 s
 			</td>
 			<td>
 				34,9 kWh
@@ -776,7 +776,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				326 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 34 s
 			</td>
 			<td>
 				35,9 kWh
@@ -790,7 +790,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				319 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				36,9 kWh
@@ -804,7 +804,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				332 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 7 m 58 s
 			</td>
 			<td>
 				37,8 kWh
@@ -818,7 +818,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				330 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 8 m 9 s
 			</td>
 			<td>
 				38,8 kWh
@@ -832,7 +832,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				324 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 8 m 20 s
 			</td>
 			<td>
 				39,8 kWh
@@ -846,7 +846,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				322 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 32 s
 			</td>
 			<td>
 				40,7 kWh
@@ -860,7 +860,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				329 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 8 m 44 s
 			</td>
 			<td>
 				41,7 kWh
@@ -874,7 +874,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				326 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 8 m 55 s
 			</td>
 			<td>
 				42,7 kWh
@@ -888,7 +888,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				321 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 7 s
 			</td>
 			<td>
 				43,6 kWh
@@ -902,7 +902,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				318 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 18 s
 			</td>
 			<td>
 				44,6 kWh
@@ -916,7 +916,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				317 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 9 m 30 s
 			</td>
 			<td>
 				45,6 kWh
@@ -930,7 +930,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				318 kW
 			</td>
 			<td>
-				 9 m 30 s
+				 9 m 42 s
 			</td>
 			<td>
 				46,6 kWh
@@ -944,7 +944,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				319 kW
 			</td>
 			<td>
-				 9 m 41 s
+				 9 m 54 s
 			</td>
 			<td>
 				47,5 kWh
@@ -958,7 +958,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				320 kW
 			</td>
 			<td>
-				 9 m 53 s
+				 10 m 6 s
 			</td>
 			<td>
 				48,5 kWh
@@ -972,7 +972,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				319 kW
 			</td>
 			<td>
-				 10 m 4 s
+				 10 m 17 s
 			</td>
 			<td>
 				49,5 kWh
@@ -986,7 +986,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				318 kW
 			</td>
 			<td>
-				 10 m 16 s
+				 10 m 29 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1000,7 +1000,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				318 kW
 			</td>
 			<td>
-				 10 m 27 s
+				 10 m 41 s
 			</td>
 			<td>
 				51,4 kWh
@@ -1014,7 +1014,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				315 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 10 m 53 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1028,7 +1028,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				323 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 5 s
 			</td>
 			<td>
 				53,4 kWh
@@ -1042,7 +1042,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				320 kW
 			</td>
 			<td>
-				 11 m 2 s
+				 11 m 16 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1056,7 +1056,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				318 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 11 m 28 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1070,7 +1070,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				310 kW
 			</td>
 			<td>
-				 11 m 25 s
+				 11 m 40 s
 			</td>
 			<td>
 				56,3 kWh
@@ -1084,7 +1084,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				309 kW
 			</td>
 			<td>
-				 11 m 37 s
+				 11 m 52 s
 			</td>
 			<td>
 				57,2 kWh
@@ -1098,7 +1098,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				304 kW
 			</td>
 			<td>
-				 11 m 49 s
+				 12 m 4 s
 			</td>
 			<td>
 				58,2 kWh
@@ -1112,7 +1112,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				306 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 12 m 17 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1126,7 +1126,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				305 kW
 			</td>
 			<td>
-				 12 m 13 s
+				 12 m 29 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1140,7 +1140,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				304 kW
 			</td>
 			<td>
-				 12 m 25 s
+				 12 m 41 s
 			</td>
 			<td>
 				61,1 kWh
@@ -1154,7 +1154,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				303 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 12 m 54 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1168,7 +1168,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				215 kW
 			</td>
 			<td>
-				 12 m 52 s
+				 13 m 8 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1182,7 +1182,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				211 kW
 			</td>
 			<td>
-				 13 m 9 s
+				 13 m 26 s
 			</td>
 			<td>
 				64,0 kWh
@@ -1196,7 +1196,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				215 kW
 			</td>
 			<td>
-				 13 m 26 s
+				 13 m 43 s
 			</td>
 			<td>
 				65,0 kWh
@@ -1210,7 +1210,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				215 kW
 			</td>
 			<td>
-				 13 m 43 s
+				 14 m 1 s
 			</td>
 			<td>
 				66,0 kWh
@@ -1224,7 +1224,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				215 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 14 m 18 s
 			</td>
 			<td>
 				66,9 kWh
@@ -1238,7 +1238,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				217 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 36 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1252,7 +1252,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				216 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 53 s
 			</td>
 			<td>
 				68,9 kWh
@@ -1266,7 +1266,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				216 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 10 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1280,7 +1280,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				220 kW
 			</td>
 			<td>
-				 15 m 8 s
+				 15 m 28 s
 			</td>
 			<td>
 				70,8 kWh
@@ -1294,7 +1294,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				218 kW
 			</td>
 			<td>
-				 15 m 25 s
+				 15 m 45 s
 			</td>
 			<td>
 				71,8 kWh
@@ -1308,7 +1308,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				208 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 2 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1322,7 +1322,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				189 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 16 m 21 s
 			</td>
 			<td>
 				73,7 kWh
@@ -1336,7 +1336,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				173 kW
 			</td>
 			<td>
-				 16 m 21 s
+				 16 m 42 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1350,7 +1350,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				169 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 4 s
 			</td>
 			<td>
 				75,7 kWh
@@ -1364,7 +1364,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				150 kW
 			</td>
 			<td>
-				 17 m 6 s
+				 17 m 28 s
 			</td>
 			<td>
 				76,6 kWh
@@ -1378,7 +1378,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				107 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 17 m 57 s
 			</td>
 			<td>
 				77,6 kWh
@@ -1392,7 +1392,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				100 kW
 			</td>
 			<td>
-				 18 m 10 s
+				 18 m 33 s
 			</td>
 			<td>
 				78,6 kWh
@@ -1406,7 +1406,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				96 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 11 s
 			</td>
 			<td>
 				79,5 kWh
@@ -1420,7 +1420,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				94 kW
 			</td>
 			<td>
-				 19 m 26 s
+				 19 m 51 s
 			</td>
 			<td>
 				80,5 kWh
@@ -1434,7 +1434,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				91 kW
 			</td>
 			<td>
-				 20 m 6 s
+				 20 m 32 s
 			</td>
 			<td>
 				81,5 kWh
@@ -1448,7 +1448,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				88 kW
 			</td>
 			<td>
-				 20 m 47 s
+				 21 m 14 s
 			</td>
 			<td>
 				82,4 kWh
@@ -1462,7 +1462,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				84 kW
 			</td>
 			<td>
-				 21 m 29 s
+				 21 m 57 s
 			</td>
 			<td>
 				83,4 kWh
@@ -1476,7 +1476,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				80 kW
 			</td>
 			<td>
-				 22 m 14 s
+				 22 m 43 s
 			</td>
 			<td>
 				84,4 kWh
@@ -1490,7 +1490,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				82 kW
 			</td>
 			<td>
-				 23 m 0 s
+				 23 m 29 s
 			</td>
 			<td>
 				85,4 kWh
@@ -1504,7 +1504,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				75 kW
 			</td>
 			<td>
-				 23 m 46 s
+				 24 m 17 s
 			</td>
 			<td>
 				86,3 kWh
@@ -1518,7 +1518,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				71 kW
 			</td>
 			<td>
-				 24 m 37 s
+				 25 m 9 s
 			</td>
 			<td>
 				87,3 kWh
@@ -1532,7 +1532,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				62 kW
 			</td>
 			<td>
-				 25 m 32 s
+				 26 m 5 s
 			</td>
 			<td>
 				88,3 kWh
@@ -1546,7 +1546,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				51 kW
 			</td>
 			<td>
-				 26 m 37 s
+				 27 m 12 s
 			</td>
 			<td>
 				89,2 kWh
@@ -1560,7 +1560,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				52 kW
 			</td>
 			<td>
-				 27 m 49 s
+				 28 m 24 s
 			</td>
 			<td>
 				90,2 kWh
@@ -1574,7 +1574,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				47 kW
 			</td>
 			<td>
-				 29 m 3 s
+				 29 m 40 s
 			</td>
 			<td>
 				91,2 kWh
@@ -1588,7 +1588,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				44 kW
 			</td>
 			<td>
-				 30 m 24 s
+				 31 m 3 s
 			</td>
 			<td>
 				92,2 kWh
@@ -1602,7 +1602,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				37 kW
 			</td>
 			<td>
-				 31 m 54 s
+				 32 m 36 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1616,7 +1616,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				33 kW
 			</td>
 			<td>
-				 33 m 39 s
+				 34 m 23 s
 			</td>
 			<td>
 				94,1 kWh
@@ -1630,7 +1630,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				26 kW
 			</td>
 			<td>
-				 35 m 44 s
+				 36 m 30 s
 			</td>
 			<td>
 				95,1 kWh
@@ -1644,7 +1644,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				13 kW
 			</td>
 			<td>
-				 38 m 52 s
+				 39 m 43 s
 			</td>
 			<td>
 				96,0 kWh
@@ -1658,7 +1658,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				4 kW
 			</td>
 			<td>
-				 46 m 5 s
+				 47 m 4 s
 			</td>
 			<td>
 				97,0 kWh
@@ -1691,7 +1691,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				99,6 kW
+				97,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -1699,7 +1699,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				95,2 kW
+				93,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -1707,7 +1707,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				139,6 kW
+				136,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -1715,7 +1715,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				195,5 kW
+				191,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -1739,7 +1739,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Zone de chargement optimale
 			</td>
 			<td>
-				3% - 65%
+				3% - 64%
 			</td>
 		</tr>
 		<tr>
@@ -1747,7 +1747,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				164,8kW
+				162,3kW
 			</td>
 		</tr>
 		<tr>
@@ -1755,7 +1755,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				19m52s
+				19m51s
 			</td>
 		</tr>
 	</tbody>
@@ -1780,7 +1780,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Temps de charge 0-100%
 			</td>
 			<td>
-				 50 m 21 s
+				 51 m 26 s
 			</td>
 		</tr>
 		<tr>
@@ -1788,7 +1788,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Temps de charge 10-100%
 			</td>
 			<td>
-				 47 m 25 s
+				 48 m 26 s
 			</td>
 		</tr>
 		<tr>
@@ -1796,7 +1796,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 17 m 57 s
+				 18 m 20 s
 			</td>
 		</tr>
 	</tbody>
@@ -1834,13 +1834,13 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				?
 			</td>
 			<td>
-				11,6 km (7,2 mi)
+				11,4 km (7,1 mi)
 			</td>
 			<td>
-				9,2 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				7,7 km (4,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1851,13 +1851,13 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				?
 			</td>
 			<td>
-				11,1 km (6,9 mi)
+				10,9 km (6,8 mi)
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1868,13 +1868,13 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				?
 			</td>
 			<td>
-				22,8 km (14,2 mi)
+				22,3 km (13,9 mi)
 			</td>
 			<td>
-				18,1 km (11,2 mi)
+				17,7 km (11,0 mi)
 			</td>
 			<td>
-				15,5 km (9,6 mi)
+				15,2 km (9,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1930,7 +1930,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				87 kW
 			</td>
 			<td>
-				 0 m 36 s
+				 0 m 37 s
 			</td>
 			<td>
 				0,8 kWh
@@ -1944,7 +1944,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				158 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 3 s
 			</td>
 			<td>
 				1,7 kWh
@@ -1958,7 +1958,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				169 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 23 s
 			</td>
 			<td>
 				2,5 kWh
@@ -1972,7 +1972,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				221 kW
 			</td>
 			<td>
-				 1 m 38 s
+				 1 m 40 s
 			</td>
 			<td>
 				3,3 kWh
@@ -1986,7 +1986,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				254 kW
 			</td>
 			<td>
-				 1 m 51 s
+				 1 m 53 s
 			</td>
 			<td>
 				4,2 kWh
@@ -2000,7 +2000,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 2 m 6 s
 			</td>
 			<td>
 				5,0 kWh
@@ -2014,7 +2014,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 2 m 16 s
+				 2 m 19 s
 			</td>
 			<td>
 				5,9 kWh
@@ -2028,7 +2028,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 2 m 29 s
+				 2 m 32 s
 			</td>
 			<td>
 				6,7 kWh
@@ -2042,7 +2042,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 2 m 42 s
+				 2 m 46 s
 			</td>
 			<td>
 				7,5 kWh
@@ -2056,7 +2056,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				243 kW
 			</td>
 			<td>
-				 2 m 55 s
+				 2 m 59 s
 			</td>
 			<td>
 				8,4 kWh
@@ -2070,7 +2070,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				243 kW
 			</td>
 			<td>
-				 3 m 8 s
+				 3 m 12 s
 			</td>
 			<td>
 				9,2 kWh
@@ -2084,7 +2084,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				251 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 25 s
 			</td>
 			<td>
 				10,0 kWh
@@ -2098,7 +2098,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				253 kW
 			</td>
 			<td>
-				 3 m 33 s
+				 3 m 38 s
 			</td>
 			<td>
 				10,9 kWh
@@ -2112,7 +2112,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				253 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				11,7 kWh
@@ -2126,7 +2126,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				254 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 4 s
 			</td>
 			<td>
 				12,5 kWh
@@ -2140,7 +2140,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				255 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 16 s
 			</td>
 			<td>
 				13,4 kWh
@@ -2154,7 +2154,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				256 kW
 			</td>
 			<td>
-				 4 m 23 s
+				 4 m 29 s
 			</td>
 			<td>
 				14,2 kWh
@@ -2168,7 +2168,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				256 kW
 			</td>
 			<td>
-				 4 m 36 s
+				 4 m 42 s
 			</td>
 			<td>
 				15,0 kWh
@@ -2182,7 +2182,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				256 kW
 			</td>
 			<td>
-				 4 m 48 s
+				 4 m 54 s
 			</td>
 			<td>
 				15,9 kWh
@@ -2196,7 +2196,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				258 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 7 s
 			</td>
 			<td>
 				16,7 kWh
@@ -2210,7 +2210,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				259 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 5 m 19 s
 			</td>
 			<td>
 				17,6 kWh
@@ -2224,7 +2224,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				258 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				18,4 kWh
@@ -2238,7 +2238,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				260 kW
 			</td>
 			<td>
-				 5 m 37 s
+				 5 m 44 s
 			</td>
 			<td>
 				19,2 kWh
@@ -2252,7 +2252,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				260 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 57 s
 			</td>
 			<td>
 				20,1 kWh
@@ -2266,7 +2266,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				261 kW
 			</td>
 			<td>
-				 6 m 1 s
+				 6 m 9 s
 			</td>
 			<td>
 				20,9 kWh
@@ -2280,7 +2280,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				261 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				21,7 kWh
@@ -2294,7 +2294,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				262 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 34 s
 			</td>
 			<td>
 				22,6 kWh
@@ -2308,7 +2308,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				262 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				23,4 kWh
@@ -2322,7 +2322,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				262 kW
 			</td>
 			<td>
-				 6 m 50 s
+				 6 m 59 s
 			</td>
 			<td>
 				24,2 kWh
@@ -2336,7 +2336,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				265 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				25,1 kWh
@@ -2350,7 +2350,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				265 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 23 s
 			</td>
 			<td>
 				25,9 kWh
@@ -2364,7 +2364,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				261 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 36 s
 			</td>
 			<td>
 				26,8 kWh
@@ -2378,7 +2378,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				261 kW
 			</td>
 			<td>
-				 7 m 38 s
+				 7 m 48 s
 			</td>
 			<td>
 				27,6 kWh
@@ -2392,7 +2392,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				261 kW
 			</td>
 			<td>
-				 7 m 50 s
+				 8 m 0 s
 			</td>
 			<td>
 				28,4 kWh
@@ -2406,7 +2406,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				264 kW
 			</td>
 			<td>
-				 8 m 2 s
+				 8 m 13 s
 			</td>
 			<td>
 				29,3 kWh
@@ -2420,7 +2420,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				244 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 25 s
 			</td>
 			<td>
 				30,1 kWh
@@ -2434,7 +2434,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				245 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 8 m 39 s
 			</td>
 			<td>
 				30,9 kWh
@@ -2448,7 +2448,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				245 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				31,8 kWh
@@ -2462,7 +2462,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				245 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 5 s
 			</td>
 			<td>
 				32,6 kWh
@@ -2476,7 +2476,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				245 kW
 			</td>
 			<td>
-				 9 m 6 s
+				 9 m 18 s
 			</td>
 			<td>
 				33,4 kWh
@@ -2490,7 +2490,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				246 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 31 s
 			</td>
 			<td>
 				34,3 kWh
@@ -2504,7 +2504,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				246 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 9 m 45 s
 			</td>
 			<td>
 				35,1 kWh
@@ -2518,7 +2518,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				246 kW
 			</td>
 			<td>
-				 9 m 45 s
+				 9 m 58 s
 			</td>
 			<td>
 				35,9 kWh
@@ -2532,7 +2532,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				246 kW
 			</td>
 			<td>
-				 9 m 58 s
+				 10 m 11 s
 			</td>
 			<td>
 				36,8 kWh
@@ -2546,7 +2546,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				246 kW
 			</td>
 			<td>
-				 10 m 11 s
+				 10 m 24 s
 			</td>
 			<td>
 				37,6 kWh
@@ -2560,7 +2560,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 10 m 37 s
 			</td>
 			<td>
 				38,5 kWh
@@ -2574,7 +2574,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 10 m 37 s
+				 10 m 50 s
 			</td>
 			<td>
 				39,3 kWh
@@ -2588,7 +2588,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				247 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 11 m 3 s
 			</td>
 			<td>
 				40,1 kWh
@@ -2602,7 +2602,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				248 kW
 			</td>
 			<td>
-				 11 m 2 s
+				 11 m 16 s
 			</td>
 			<td>
 				41,0 kWh
@@ -2616,7 +2616,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				249 kW
 			</td>
 			<td>
-				 11 m 15 s
+				 11 m 29 s
 			</td>
 			<td>
 				41,8 kWh
@@ -2630,7 +2630,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				228 kW
 			</td>
 			<td>
-				 11 m 28 s
+				 11 m 43 s
 			</td>
 			<td>
 				42,6 kWh
@@ -2644,7 +2644,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				229 kW
 			</td>
 			<td>
-				 11 m 42 s
+				 11 m 57 s
 			</td>
 			<td>
 				43,5 kWh
@@ -2658,7 +2658,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				228 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 12 m 11 s
 			</td>
 			<td>
 				44,3 kWh
@@ -2672,7 +2672,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				208 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 26 s
 			</td>
 			<td>
 				45,1 kWh
@@ -2686,7 +2686,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				208 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 12 m 42 s
 			</td>
 			<td>
 				46,0 kWh
@@ -2700,7 +2700,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				209 kW
 			</td>
 			<td>
-				 12 m 41 s
+				 12 m 57 s
 			</td>
 			<td>
 				46,8 kWh
@@ -2714,7 +2714,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				209 kW
 			</td>
 			<td>
-				 12 m 56 s
+				 13 m 13 s
 			</td>
 			<td>
 				47,7 kWh
@@ -2728,7 +2728,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				190 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				48,5 kWh
@@ -2742,7 +2742,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				191 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 13 m 46 s
 			</td>
 			<td>
 				49,3 kWh
@@ -2756,7 +2756,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				190 kW
 			</td>
 			<td>
-				 13 m 45 s
+				 14 m 3 s
 			</td>
 			<td>
 				50,2 kWh
@@ -2770,7 +2770,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				180 kW
 			</td>
 			<td>
-				 14 m 2 s
+				 14 m 20 s
 			</td>
 			<td>
 				51,0 kWh
@@ -2784,7 +2784,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				180 kW
 			</td>
 			<td>
-				 14 m 20 s
+				 14 m 38 s
 			</td>
 			<td>
 				51,8 kWh
@@ -2798,7 +2798,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				181 kW
 			</td>
 			<td>
-				 14 m 38 s
+				 14 m 56 s
 			</td>
 			<td>
 				52,7 kWh
@@ -2812,7 +2812,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				176 kW
 			</td>
 			<td>
-				 14 m 55 s
+				 15 m 15 s
 			</td>
 			<td>
 				53,5 kWh
@@ -2826,7 +2826,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				172 kW
 			</td>
 			<td>
-				 15 m 13 s
+				 15 m 33 s
 			</td>
 			<td>
 				54,3 kWh
@@ -2840,7 +2840,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				172 kW
 			</td>
 			<td>
-				 15 m 32 s
+				 15 m 52 s
 			</td>
 			<td>
 				55,2 kWh
@@ -2854,7 +2854,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				173 kW
 			</td>
 			<td>
-				 15 m 50 s
+				 16 m 11 s
 			</td>
 			<td>
 				56,0 kWh
@@ -2868,7 +2868,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				161 kW
 			</td>
 			<td>
-				 16 m 9 s
+				 16 m 30 s
 			</td>
 			<td>
 				56,8 kWh
@@ -2882,7 +2882,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				163 kW
 			</td>
 			<td>
-				 16 m 29 s
+				 16 m 50 s
 			</td>
 			<td>
 				57,7 kWh
@@ -2896,7 +2896,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				163 kW
 			</td>
 			<td>
-				 16 m 48 s
+				 17 m 10 s
 			</td>
 			<td>
 				58,5 kWh
@@ -2910,7 +2910,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				153 kW
 			</td>
 			<td>
-				 17 m 8 s
+				 17 m 30 s
 			</td>
 			<td>
 				59,4 kWh
@@ -2924,7 +2924,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				154 kW
 			</td>
 			<td>
-				 17 m 29 s
+				 17 m 51 s
 			</td>
 			<td>
 				60,2 kWh
@@ -2938,7 +2938,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				154 kW
 			</td>
 			<td>
-				 17 m 49 s
+				 18 m 12 s
 			</td>
 			<td>
 				61,0 kWh
@@ -2952,7 +2952,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				120 kW
 			</td>
 			<td>
-				 18 m 13 s
+				 18 m 36 s
 			</td>
 			<td>
 				61,9 kWh
@@ -2966,7 +2966,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				121 kW
 			</td>
 			<td>
-				 18 m 39 s
+				 19 m 3 s
 			</td>
 			<td>
 				62,7 kWh
@@ -2980,7 +2980,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				122 kW
 			</td>
 			<td>
-				 19 m 5 s
+				 19 m 30 s
 			</td>
 			<td>
 				63,5 kWh
@@ -2994,7 +2994,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				122 kW
 			</td>
 			<td>
-				 19 m 31 s
+				 19 m 56 s
 			</td>
 			<td>
 				64,4 kWh
@@ -3008,7 +3008,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				122 kW
 			</td>
 			<td>
-				 19 m 57 s
+				 20 m 23 s
 			</td>
 			<td>
 				65,2 kWh
@@ -3022,7 +3022,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				123 kW
 			</td>
 			<td>
-				 20 m 23 s
+				 20 m 49 s
 			</td>
 			<td>
 				66,0 kWh
@@ -3036,7 +3036,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				90 kW
 			</td>
 			<td>
-				 20 m 52 s
+				 21 m 19 s
 			</td>
 			<td>
 				66,9 kWh
@@ -3050,7 +3050,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				84 kW
 			</td>
 			<td>
-				 21 m 29 s
+				 21 m 57 s
 			</td>
 			<td>
 				67,7 kWh
@@ -3064,7 +3064,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				73 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 38 s
 			</td>
 			<td>
 				68,6 kWh
@@ -3078,7 +3078,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				62 kW
 			</td>
 			<td>
-				 22 m 56 s
+				 23 m 26 s
 			</td>
 			<td>
 				69,4 kWh
@@ -3092,7 +3092,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				53 kW
 			</td>
 			<td>
-				 23 m 51 s
+				 24 m 22 s
 			</td>
 			<td>
 				70,2 kWh
@@ -3106,7 +3106,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				44 kW
 			</td>
 			<td>
-				 24 m 57 s
+				 25 m 29 s
 			</td>
 			<td>
 				71,1 kWh
@@ -3120,7 +3120,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				38 kW
 			</td>
 			<td>
-				 26 m 14 s
+				 26 m 48 s
 			</td>
 			<td>
 				71,9 kWh
@@ -3134,7 +3134,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				36 kW
 			</td>
 			<td>
-				 27 m 40 s
+				 28 m 15 s
 			</td>
 			<td>
 				72,7 kWh
@@ -3148,7 +3148,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				33 kW
 			</td>
 			<td>
-				 29 m 11 s
+				 29 m 49 s
 			</td>
 			<td>
 				73,6 kWh
@@ -3162,7 +3162,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				43 kW
 			</td>
 			<td>
-				 30 m 35 s
+				 31 m 14 s
 			</td>
 			<td>
 				74,4 kWh
@@ -3176,7 +3176,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				54 kW
 			</td>
 			<td>
-				 31 m 40 s
+				 32 m 21 s
 			</td>
 			<td>
 				75,2 kWh
@@ -3190,7 +3190,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				66 kW
 			</td>
 			<td>
-				 32 m 33 s
+				 33 m 15 s
 			</td>
 			<td>
 				76,1 kWh
@@ -3204,7 +3204,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				45 kW
 			</td>
 			<td>
-				 33 m 30 s
+				 34 m 13 s
 			</td>
 			<td>
 				76,9 kWh
@@ -3218,7 +3218,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				35 kW
 			</td>
 			<td>
-				 34 m 49 s
+				 35 m 34 s
 			</td>
 			<td>
 				77,7 kWh
@@ -3232,7 +3232,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				33 kW
 			</td>
 			<td>
-				 36 m 22 s
+				 37 m 9 s
 			</td>
 			<td>
 				78,6 kWh
@@ -3246,7 +3246,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				25 kW
 			</td>
 			<td>
-				 38 m 12 s
+				 39 m 1 s
 			</td>
 			<td>
 				79,4 kWh
@@ -3260,7 +3260,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				33 kW
 			</td>
 			<td>
-				 40 m 1 s
+				 40 m 52 s
 			</td>
 			<td>
 				80,3 kWh
@@ -3274,7 +3274,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				30 kW
 			</td>
 			<td>
-				 41 m 41 s
+				 42 m 35 s
 			</td>
 			<td>
 				81,1 kWh
@@ -3288,7 +3288,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				24 kW
 			</td>
 			<td>
-				 43 m 39 s
+				 44 m 35 s
 			</td>
 			<td>
 				81,9 kWh
@@ -3302,7 +3302,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				16 kW
 			</td>
 			<td>
-				 46 m 17 s
+				 47 m 17 s
 			</td>
 			<td>
 				82,8 kWh
@@ -3316,7 +3316,7 @@ Porsche Taycan Sport Turismo dispose d'un chauffage de batterie, ce qui facilite
 				10 kW
 			</td>
 			<td>
-				 50 m 21 s
+				 51 m 26 s
 			</td>
 			<td>
 				83,6 kWh

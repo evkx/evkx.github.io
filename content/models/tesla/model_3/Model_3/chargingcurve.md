@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Tesla Model 3."
+description: "Below is the charging curve for Tesla Model 3, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				50.9 kW
+				49.8 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				48.4 kW
+				47.4 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				68.5 kW
+				67.1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				78.1 kW
+				76.4 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				83.4kW
+				82.1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				20m31s
+				20m50s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 9 m 36 s
+				1 h 11 m 6 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 5 m 47 s
+				1 h 7 m 12 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 31 m 44 s
+				 32 m 25 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 			<td>
-				7,4 km (4,6 mi)
+				7,2 km (4,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,5 km (3,4 mi)
+				5,4 km (3,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Range per minute 10-100%
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
-				7,0 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				5,1 km (3,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Range per minute 10-80%
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 			<td>
-				11,3 km (7,0 mi)
+				11,1 km (6,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				8,3 km (5,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				62 kW
 			</td>
 			<td>
-				 0 m 39 s
+				 0 m 40 s
 			</td>
 			<td>
 				0.6 kWh
@@ -282,7 +282,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				74 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 1 m 14 s
 			</td>
 			<td>
 				1.2 kWh
@@ -296,7 +296,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				86 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 43 s
 			</td>
 			<td>
 				1.8 kWh
@@ -310,7 +310,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				98 kW
 			</td>
 			<td>
-				 2 m 5 s
+				 2 m 8 s
 			</td>
 			<td>
 				2.4 kWh
@@ -324,7 +324,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				110 kW
 			</td>
 			<td>
-				 2 m 26 s
+				 2 m 30 s
 			</td>
 			<td>
 				3.0 kWh
@@ -338,7 +338,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				121 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 49 s
 			</td>
 			<td>
 				3.5 kWh
@@ -352,7 +352,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				133 kW
 			</td>
 			<td>
-				 3 m 3 s
+				 3 m 7 s
 			</td>
 			<td>
 				4.1 kWh
@@ -366,7 +366,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				145 kW
 			</td>
 			<td>
-				 3 m 19 s
+				 3 m 24 s
 			</td>
 			<td>
 				4.7 kWh
@@ -380,7 +380,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				157 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 39 s
 			</td>
 			<td>
 				5.3 kWh
@@ -394,7 +394,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				169 kW
 			</td>
 			<td>
-				 3 m 48 s
+				 3 m 53 s
 			</td>
 			<td>
 				5.9 kWh
@@ -408,7 +408,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				168 kW
 			</td>
 			<td>
-				 4 m 1 s
+				 4 m 6 s
 			</td>
 			<td>
 				6.5 kWh
@@ -422,7 +422,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				160 kW
 			</td>
 			<td>
-				 4 m 15 s
+				 4 m 20 s
 			</td>
 			<td>
 				7.1 kWh
@@ -436,7 +436,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				151 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 4 m 35 s
 			</td>
 			<td>
 				7.7 kWh
@@ -450,7 +450,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				146 kW
 			</td>
 			<td>
-				 4 m 44 s
+				 4 m 50 s
 			</td>
 			<td>
 				8.3 kWh
@@ -464,7 +464,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				141 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 6 s
 			</td>
 			<td>
 				8.8 kWh
@@ -478,7 +478,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				138 kW
 			</td>
 			<td>
-				 5 m 16 s
+				 5 m 23 s
 			</td>
 			<td>
 				9.4 kWh
@@ -492,7 +492,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				135 kW
 			</td>
 			<td>
-				 5 m 32 s
+				 5 m 39 s
 			</td>
 			<td>
 				10.0 kWh
@@ -506,7 +506,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				133 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 56 s
 			</td>
 			<td>
 				10.6 kWh
@@ -520,7 +520,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				130 kW
 			</td>
 			<td>
-				 6 m 6 s
+				 6 m 14 s
 			</td>
 			<td>
 				11.2 kWh
@@ -534,7 +534,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				129 kW
 			</td>
 			<td>
-				 6 m 23 s
+				 6 m 31 s
 			</td>
 			<td>
 				11.8 kWh
@@ -548,7 +548,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				128 kW
 			</td>
 			<td>
-				 6 m 41 s
+				 6 m 49 s
 			</td>
 			<td>
 				12.4 kWh
@@ -562,7 +562,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				127 kW
 			</td>
 			<td>
-				 6 m 58 s
+				 7 m 7 s
 			</td>
 			<td>
 				13.0 kWh
@@ -576,7 +576,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				126 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 7 m 25 s
 			</td>
 			<td>
 				13.6 kWh
@@ -590,7 +590,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				125 kW
 			</td>
 			<td>
-				 7 m 34 s
+				 7 m 43 s
 			</td>
 			<td>
 				14.2 kWh
@@ -604,7 +604,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				124 kW
 			</td>
 			<td>
-				 7 m 52 s
+				 8 m 2 s
 			</td>
 			<td>
 				14.8 kWh
@@ -618,7 +618,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				124 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 8 m 20 s
 			</td>
 			<td>
 				15.3 kWh
@@ -632,7 +632,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				123 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 8 m 39 s
 			</td>
 			<td>
 				15.9 kWh
@@ -646,7 +646,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				122 kW
 			</td>
 			<td>
-				 8 m 46 s
+				 8 m 57 s
 			</td>
 			<td>
 				16.5 kWh
@@ -660,7 +660,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				121 kW
 			</td>
 			<td>
-				 9 m 4 s
+				 9 m 16 s
 			</td>
 			<td>
 				17.1 kWh
@@ -674,7 +674,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				120 kW
 			</td>
 			<td>
-				 9 m 23 s
+				 9 m 35 s
 			</td>
 			<td>
 				17.7 kWh
@@ -688,7 +688,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				119 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 54 s
 			</td>
 			<td>
 				18.3 kWh
@@ -702,7 +702,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				116 kW
 			</td>
 			<td>
-				 10 m 1 s
+				 10 m 14 s
 			</td>
 			<td>
 				18.9 kWh
@@ -716,7 +716,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				115 kW
 			</td>
 			<td>
-				 10 m 20 s
+				 10 m 33 s
 			</td>
 			<td>
 				19.5 kWh
@@ -730,7 +730,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				114 kW
 			</td>
 			<td>
-				 10 m 40 s
+				 10 m 53 s
 			</td>
 			<td>
 				20.1 kWh
@@ -744,7 +744,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				112 kW
 			</td>
 			<td>
-				 10 m 59 s
+				 11 m 14 s
 			</td>
 			<td>
 				20.6 kWh
@@ -758,7 +758,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				110 kW
 			</td>
 			<td>
-				 11 m 19 s
+				 11 m 34 s
 			</td>
 			<td>
 				21.2 kWh
@@ -772,7 +772,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				109 kW
 			</td>
 			<td>
-				 11 m 40 s
+				 11 m 55 s
 			</td>
 			<td>
 				21.8 kWh
@@ -786,7 +786,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				108 kW
 			</td>
 			<td>
-				 12 m 0 s
+				 12 m 16 s
 			</td>
 			<td>
 				22.4 kWh
@@ -800,7 +800,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				106 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				23.0 kWh
@@ -814,7 +814,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				104 kW
 			</td>
 			<td>
-				 12 m 43 s
+				 12 m 59 s
 			</td>
 			<td>
 				23.6 kWh
@@ -828,7 +828,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				103 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 21 s
 			</td>
 			<td>
 				24.2 kWh
@@ -842,7 +842,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				101 kW
 			</td>
 			<td>
-				 13 m 26 s
+				 13 m 44 s
 			</td>
 			<td>
 				24.8 kWh
@@ -856,7 +856,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				100 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 14 m 6 s
 			</td>
 			<td>
 				25.4 kWh
@@ -870,7 +870,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				97 kW
 			</td>
 			<td>
-				 14 m 11 s
+				 14 m 29 s
 			</td>
 			<td>
 				26.0 kWh
@@ -884,7 +884,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				95 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 53 s
 			</td>
 			<td>
 				26.6 kWh
@@ -898,7 +898,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				94 kW
 			</td>
 			<td>
-				 14 m 58 s
+				 15 m 17 s
 			</td>
 			<td>
 				27.1 kWh
@@ -912,7 +912,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				92 kW
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 42 s
 			</td>
 			<td>
 				27.7 kWh
@@ -926,7 +926,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				90 kW
 			</td>
 			<td>
-				 15 m 47 s
+				 16 m 7 s
 			</td>
 			<td>
 				28.3 kWh
@@ -940,7 +940,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				88 kW
 			</td>
 			<td>
-				 16 m 12 s
+				 16 m 33 s
 			</td>
 			<td>
 				28.9 kWh
@@ -954,7 +954,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				86 kW
 			</td>
 			<td>
-				 16 m 38 s
+				 16 m 59 s
 			</td>
 			<td>
 				29.5 kWh
@@ -968,7 +968,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				84 kW
 			</td>
 			<td>
-				 17 m 4 s
+				 17 m 26 s
 			</td>
 			<td>
 				30.1 kWh
@@ -982,7 +982,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				82 kW
 			</td>
 			<td>
-				 17 m 31 s
+				 17 m 53 s
 			</td>
 			<td>
 				30.7 kWh
@@ -996,7 +996,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				80 kW
 			</td>
 			<td>
-				 17 m 58 s
+				 18 m 22 s
 			</td>
 			<td>
 				31.3 kWh
@@ -1010,7 +1010,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				79 kW
 			</td>
 			<td>
-				 18 m 26 s
+				 18 m 50 s
 			</td>
 			<td>
 				31.9 kWh
@@ -1024,7 +1024,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				77 kW
 			</td>
 			<td>
-				 18 m 55 s
+				 19 m 20 s
 			</td>
 			<td>
 				32.4 kWh
@@ -1038,7 +1038,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				75 kW
 			</td>
 			<td>
-				 19 m 25 s
+				 19 m 50 s
 			</td>
 			<td>
 				33.0 kWh
@@ -1052,7 +1052,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				73 kW
 			</td>
 			<td>
-				 19 m 55 s
+				 20 m 20 s
 			</td>
 			<td>
 				33.6 kWh
@@ -1066,7 +1066,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				71 kW
 			</td>
 			<td>
-				 20 m 26 s
+				 20 m 52 s
 			</td>
 			<td>
 				34.2 kWh
@@ -1080,7 +1080,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				70 kW
 			</td>
 			<td>
-				 20 m 58 s
+				 21 m 25 s
 			</td>
 			<td>
 				34.8 kWh
@@ -1094,7 +1094,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				68 kW
 			</td>
 			<td>
-				 21 m 30 s
+				 21 m 58 s
 			</td>
 			<td>
 				35.4 kWh
@@ -1108,7 +1108,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				66 kW
 			</td>
 			<td>
-				 22 m 3 s
+				 22 m 32 s
 			</td>
 			<td>
 				36.0 kWh
@@ -1122,7 +1122,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				65 kW
 			</td>
 			<td>
-				 22 m 37 s
+				 23 m 7 s
 			</td>
 			<td>
 				36.6 kWh
@@ -1136,7 +1136,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				64 kW
 			</td>
 			<td>
-				 23 m 12 s
+				 23 m 42 s
 			</td>
 			<td>
 				37.2 kWh
@@ -1150,7 +1150,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				62 kW
 			</td>
 			<td>
-				 23 m 48 s
+				 24 m 18 s
 			</td>
 			<td>
 				37.8 kWh
@@ -1164,7 +1164,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				60 kW
 			</td>
 			<td>
-				 24 m 24 s
+				 24 m 56 s
 			</td>
 			<td>
 				38.4 kWh
@@ -1178,7 +1178,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				58 kW
 			</td>
 			<td>
-				 25 m 2 s
+				 25 m 34 s
 			</td>
 			<td>
 				38.9 kWh
@@ -1192,7 +1192,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				57 kW
 			</td>
 			<td>
-				 25 m 41 s
+				 26 m 14 s
 			</td>
 			<td>
 				39.5 kWh
@@ -1206,7 +1206,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				56 kW
 			</td>
 			<td>
-				 26 m 21 s
+				 26 m 55 s
 			</td>
 			<td>
 				40.1 kWh
@@ -1220,7 +1220,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				55 kW
 			</td>
 			<td>
-				 27 m 1 s
+				 27 m 36 s
 			</td>
 			<td>
 				40.7 kWh
@@ -1234,7 +1234,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				53 kW
 			</td>
 			<td>
-				 27 m 42 s
+				 28 m 18 s
 			</td>
 			<td>
 				41.3 kWh
@@ -1248,7 +1248,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				52 kW
 			</td>
 			<td>
-				 28 m 25 s
+				 29 m 2 s
 			</td>
 			<td>
 				41.9 kWh
@@ -1262,7 +1262,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				51 kW
 			</td>
 			<td>
-				 29 m 8 s
+				 29 m 46 s
 			</td>
 			<td>
 				42.5 kWh
@@ -1276,7 +1276,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				50 kW
 			</td>
 			<td>
-				 29 m 53 s
+				 30 m 31 s
 			</td>
 			<td>
 				43.1 kWh
@@ -1290,7 +1290,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				48 kW
 			</td>
 			<td>
-				 30 m 38 s
+				 31 m 18 s
 			</td>
 			<td>
 				43.7 kWh
@@ -1304,7 +1304,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				47 kW
 			</td>
 			<td>
-				 31 m 25 s
+				 32 m 6 s
 			</td>
 			<td>
 				44.2 kWh
@@ -1318,7 +1318,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				46 kW
 			</td>
 			<td>
-				 32 m 13 s
+				 32 m 55 s
 			</td>
 			<td>
 				44.8 kWh
@@ -1332,7 +1332,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				46 kW
 			</td>
 			<td>
-				 33 m 2 s
+				 33 m 45 s
 			</td>
 			<td>
 				45.4 kWh
@@ -1346,7 +1346,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				45 kW
 			</td>
 			<td>
-				 33 m 51 s
+				 34 m 35 s
 			</td>
 			<td>
 				46.0 kWh
@@ -1360,7 +1360,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				44 kW
 			</td>
 			<td>
-				 34 m 41 s
+				 35 m 26 s
 			</td>
 			<td>
 				46.6 kWh
@@ -1374,7 +1374,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				43 kW
 			</td>
 			<td>
-				 35 m 33 s
+				 36 m 19 s
 			</td>
 			<td>
 				47.2 kWh
@@ -1388,7 +1388,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				43 kW
 			</td>
 			<td>
-				 36 m 25 s
+				 37 m 12 s
 			</td>
 			<td>
 				47.8 kWh
@@ -1402,7 +1402,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				42 kW
 			</td>
 			<td>
-				 37 m 17 s
+				 38 m 5 s
 			</td>
 			<td>
 				48.4 kWh
@@ -1416,7 +1416,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				41 kW
 			</td>
 			<td>
-				 38 m 11 s
+				 39 m 0 s
 			</td>
 			<td>
 				49.0 kWh
@@ -1430,7 +1430,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				40 kW
 			</td>
 			<td>
-				 39 m 6 s
+				 39 m 57 s
 			</td>
 			<td>
 				49.6 kWh
@@ -1444,7 +1444,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				39 kW
 			</td>
 			<td>
-				 40 m 3 s
+				 40 m 55 s
 			</td>
 			<td>
 				50.2 kWh
@@ -1458,7 +1458,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				38 kW
 			</td>
 			<td>
-				 41 m 1 s
+				 41 m 54 s
 			</td>
 			<td>
 				50.7 kWh
@@ -1472,7 +1472,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				37 kW
 			</td>
 			<td>
-				 42 m 1 s
+				 42 m 55 s
 			</td>
 			<td>
 				51.3 kWh
@@ -1486,7 +1486,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				37 kW
 			</td>
 			<td>
-				 43 m 1 s
+				 43 m 57 s
 			</td>
 			<td>
 				51.9 kWh
@@ -1500,7 +1500,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				35 kW
 			</td>
 			<td>
-				 44 m 3 s
+				 45 m 0 s
 			</td>
 			<td>
 				52.5 kWh
@@ -1514,7 +1514,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				34 kW
 			</td>
 			<td>
-				 45 m 8 s
+				 46 m 6 s
 			</td>
 			<td>
 				53.1 kWh
@@ -1528,7 +1528,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				31 kW
 			</td>
 			<td>
-				 46 m 17 s
+				 47 m 16 s
 			</td>
 			<td>
 				53.7 kWh
@@ -1542,7 +1542,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				28 kW
 			</td>
 			<td>
-				 47 m 32 s
+				 48 m 33 s
 			</td>
 			<td>
 				54.3 kWh
@@ -1556,7 +1556,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				25 kW
 			</td>
 			<td>
-				 48 m 56 s
+				 49 m 59 s
 			</td>
 			<td>
 				54.9 kWh
@@ -1570,7 +1570,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				22 kW
 			</td>
 			<td>
-				 50 m 29 s
+				 51 m 35 s
 			</td>
 			<td>
 				55.5 kWh
@@ -1584,7 +1584,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				20 kW
 			</td>
 			<td>
-				 52 m 16 s
+				 53 m 24 s
 			</td>
 			<td>
 				56.0 kWh
@@ -1598,7 +1598,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				17 kW
 			</td>
 			<td>
-				 54 m 20 s
+				 55 m 30 s
 			</td>
 			<td>
 				56.6 kWh
@@ -1612,7 +1612,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				14 kW
 			</td>
 			<td>
-				 56 m 48 s
+				 58 m 1 s
 			</td>
 			<td>
 				57.2 kWh
@@ -1626,7 +1626,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				11 kW
 			</td>
 			<td>
-				 59 m 50 s
+				1 h 1 m 7 s
 			</td>
 			<td>
 				57.8 kWh
@@ -1640,7 +1640,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				8 kW
 			</td>
 			<td>
-				1 h 3 m 49 s
+				1 h 5 m 12 s
 			</td>
 			<td>
 				58.4 kWh
@@ -1654,7 +1654,7 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 				5 kW
 			</td>
 			<td>
-				1 h 9 m 36 s
+				1 h 11 m 6 s
 			</td>
 			<td>
 				59.0 kWh

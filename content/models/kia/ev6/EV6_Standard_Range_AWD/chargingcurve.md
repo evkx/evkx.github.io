@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range AWD charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Kia EV6 Standard Range AWD."
+description: "Below is the charging curve for Kia EV6 Standard Range AWD, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				76.8 kW
+				75.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				75.6 kW
+				74.0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				111.5 kW
+				109.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				132.2 kW
+				129.4 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				108.9kW
+				107.2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				19m45s
+				19m2s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				 42 m 9 s
+				 43 m 4 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				 38 m 33 s
+				 39 m 23 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 17 m 9 s
+				 17 m 31 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,24 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,8 km (5,5 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				6,1 km (3,8 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Range per minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				8,7 km (5,4 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
 				?
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,5 km (5,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,9 km (3,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Range per minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				15,1 km (9,4 mi)
+				14,8 km (9,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				10,5 km (6,5 mi)
+				10,3 km (6,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				49 kW
 			</td>
 			<td>
-				 0 m 51 s
+				 0 m 52 s
 			</td>
 			<td>
 				0.5 kWh
@@ -282,7 +282,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				69 kW
 			</td>
 			<td>
-				 1 m 26 s
+				 1 m 28 s
 			</td>
 			<td>
 				1.1 kWh
@@ -296,7 +296,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				88 kW
 			</td>
 			<td>
-				 1 m 52 s
+				 1 m 54 s
 			</td>
 			<td>
 				1.6 kWh
@@ -310,7 +310,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				107 kW
 			</td>
 			<td>
-				 2 m 13 s
+				 2 m 16 s
 			</td>
 			<td>
 				2.2 kWh
@@ -324,7 +324,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				126 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				2.7 kWh
@@ -338,7 +338,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				146 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 49 s
 			</td>
 			<td>
 				3.2 kWh
@@ -352,7 +352,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				165 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 3 m 3 s
 			</td>
 			<td>
 				3.8 kWh
@@ -366,7 +366,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				166 kW
 			</td>
 			<td>
-				 3 m 11 s
+				 3 m 15 s
 			</td>
 			<td>
 				4.3 kWh
@@ -380,7 +380,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				166 kW
 			</td>
 			<td>
-				 3 m 23 s
+				 3 m 28 s
 			</td>
 			<td>
 				4.9 kWh
@@ -394,7 +394,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				167 kW
 			</td>
 			<td>
-				 3 m 36 s
+				 3 m 40 s
 			</td>
 			<td>
 				5.4 kWh
@@ -408,7 +408,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				168 kW
 			</td>
 			<td>
-				 3 m 48 s
+				 3 m 53 s
 			</td>
 			<td>
 				5.9 kWh
@@ -422,7 +422,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				168 kW
 			</td>
 			<td>
-				 4 m 0 s
+				 4 m 5 s
 			</td>
 			<td>
 				6.5 kWh
@@ -436,7 +436,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				169 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 4 m 18 s
 			</td>
 			<td>
 				7.0 kWh
@@ -450,7 +450,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				170 kW
 			</td>
 			<td>
-				 4 m 24 s
+				 4 m 30 s
 			</td>
 			<td>
 				7.6 kWh
@@ -464,7 +464,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				170 kW
 			</td>
 			<td>
-				 4 m 36 s
+				 4 m 42 s
 			</td>
 			<td>
 				8.1 kWh
@@ -478,7 +478,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				171 kW
 			</td>
 			<td>
-				 4 m 48 s
+				 4 m 55 s
 			</td>
 			<td>
 				8.6 kWh
@@ -492,7 +492,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				172 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 7 s
 			</td>
 			<td>
 				9.2 kWh
@@ -506,7 +506,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				172 kW
 			</td>
 			<td>
-				 5 m 12 s
+				 5 m 19 s
 			</td>
 			<td>
 				9.7 kWh
@@ -520,7 +520,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				173 kW
 			</td>
 			<td>
-				 5 m 24 s
+				 5 m 31 s
 			</td>
 			<td>
 				10.3 kWh
@@ -534,7 +534,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				174 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 43 s
 			</td>
 			<td>
 				10.8 kWh
@@ -548,7 +548,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				174 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 55 s
 			</td>
 			<td>
 				11.3 kWh
@@ -562,7 +562,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 5 m 59 s
+				 6 m 7 s
 			</td>
 			<td>
 				11.9 kWh
@@ -576,7 +576,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 6 m 11 s
+				 6 m 19 s
 			</td>
 			<td>
 				12.4 kWh
@@ -590,7 +590,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 6 m 23 s
+				 6 m 31 s
 			</td>
 			<td>
 				13.0 kWh
@@ -604,7 +604,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 6 m 34 s
+				 6 m 43 s
 			</td>
 			<td>
 				13.5 kWh
@@ -618,7 +618,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 6 m 46 s
+				 6 m 55 s
 			</td>
 			<td>
 				14.0 kWh
@@ -632,7 +632,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 6 m 58 s
+				 7 m 7 s
 			</td>
 			<td>
 				14.6 kWh
@@ -646,7 +646,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 7 m 9 s
+				 7 m 19 s
 			</td>
 			<td>
 				15.1 kWh
@@ -660,7 +660,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 7 m 21 s
+				 7 m 31 s
 			</td>
 			<td>
 				15.7 kWh
@@ -674,7 +674,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 7 m 33 s
+				 7 m 43 s
 			</td>
 			<td>
 				16.2 kWh
@@ -688,7 +688,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 7 m 45 s
+				 7 m 55 s
 			</td>
 			<td>
 				16.7 kWh
@@ -702,7 +702,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 7 m 56 s
+				 8 m 7 s
 			</td>
 			<td>
 				17.3 kWh
@@ -716,7 +716,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 8 m 8 s
+				 8 m 18 s
 			</td>
 			<td>
 				17.8 kWh
@@ -730,7 +730,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 8 m 20 s
+				 8 m 30 s
 			</td>
 			<td>
 				18.4 kWh
@@ -744,7 +744,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				18.9 kWh
@@ -758,7 +758,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 8 m 54 s
 			</td>
 			<td>
 				19.4 kWh
@@ -772,7 +772,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 6 s
 			</td>
 			<td>
 				20.0 kWh
@@ -786,7 +786,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 9 m 6 s
+				 9 m 18 s
 			</td>
 			<td>
 				20.5 kWh
@@ -800,7 +800,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 9 m 30 s
 			</td>
 			<td>
 				21.1 kWh
@@ -814,7 +814,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 9 m 30 s
+				 9 m 42 s
 			</td>
 			<td>
 				21.6 kWh
@@ -828,7 +828,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 54 s
 			</td>
 			<td>
 				22.1 kWh
@@ -842,7 +842,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				175 kW
 			</td>
 			<td>
-				 9 m 53 s
+				 10 m 6 s
 			</td>
 			<td>
 				22.7 kWh
@@ -856,7 +856,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				167 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
 				23.2 kWh
@@ -870,7 +870,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				158 kW
 			</td>
 			<td>
-				 10 m 18 s
+				 10 m 31 s
 			</td>
 			<td>
 				23.8 kWh
@@ -884,7 +884,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				150 kW
 			</td>
 			<td>
-				 10 m 31 s
+				 10 m 45 s
 			</td>
 			<td>
 				24.3 kWh
@@ -898,7 +898,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				149 kW
 			</td>
 			<td>
-				 10 m 45 s
+				 10 m 59 s
 			</td>
 			<td>
 				24.8 kWh
@@ -912,7 +912,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				149 kW
 			</td>
 			<td>
-				 10 m 58 s
+				 11 m 13 s
 			</td>
 			<td>
 				25.4 kWh
@@ -926,7 +926,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				148 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 27 s
 			</td>
 			<td>
 				25.9 kWh
@@ -940,7 +940,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				147 kW
 			</td>
 			<td>
-				 11 m 26 s
+				 11 m 41 s
 			</td>
 			<td>
 				26.5 kWh
@@ -954,7 +954,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				146 kW
 			</td>
 			<td>
-				 11 m 40 s
+				 11 m 55 s
 			</td>
 			<td>
 				27.0 kWh
@@ -968,7 +968,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				146 kW
 			</td>
 			<td>
-				 11 m 54 s
+				 12 m 9 s
 			</td>
 			<td>
 				27.5 kWh
@@ -982,7 +982,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				145 kW
 			</td>
 			<td>
-				 12 m 8 s
+				 12 m 24 s
 			</td>
 			<td>
 				28.1 kWh
@@ -996,7 +996,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				144 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 38 s
 			</td>
 			<td>
 				28.6 kWh
@@ -1010,7 +1010,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				144 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 12 m 53 s
 			</td>
 			<td>
 				29.2 kWh
@@ -1024,7 +1024,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				143 kW
 			</td>
 			<td>
-				 12 m 51 s
+				 13 m 7 s
 			</td>
 			<td>
 				29.7 kWh
@@ -1038,7 +1038,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				142 kW
 			</td>
 			<td>
-				 13 m 5 s
+				 13 m 22 s
 			</td>
 			<td>
 				30.2 kWh
@@ -1052,7 +1052,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				141 kW
 			</td>
 			<td>
-				 13 m 20 s
+				 13 m 37 s
 			</td>
 			<td>
 				30.8 kWh
@@ -1066,7 +1066,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				141 kW
 			</td>
 			<td>
-				 13 m 34 s
+				 13 m 52 s
 			</td>
 			<td>
 				31.3 kWh
@@ -1080,7 +1080,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				140 kW
 			</td>
 			<td>
-				 13 m 49 s
+				 14 m 7 s
 			</td>
 			<td>
 				31.9 kWh
@@ -1094,7 +1094,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				137 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 14 m 22 s
 			</td>
 			<td>
 				32.4 kWh
@@ -1108,7 +1108,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				134 kW
 			</td>
 			<td>
-				 14 m 19 s
+				 14 m 37 s
 			</td>
 			<td>
 				32.9 kWh
@@ -1122,7 +1122,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				130 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 53 s
 			</td>
 			<td>
 				33.5 kWh
@@ -1136,7 +1136,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				127 kW
 			</td>
 			<td>
-				 14 m 50 s
+				 15 m 9 s
 			</td>
 			<td>
 				34.0 kWh
@@ -1150,7 +1150,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				124 kW
 			</td>
 			<td>
-				 15 m 6 s
+				 15 m 26 s
 			</td>
 			<td>
 				34.6 kWh
@@ -1164,7 +1164,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				121 kW
 			</td>
 			<td>
-				 15 m 23 s
+				 15 m 43 s
 			</td>
 			<td>
 				35.1 kWh
@@ -1178,7 +1178,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				118 kW
 			</td>
 			<td>
-				 15 m 40 s
+				 16 m 0 s
 			</td>
 			<td>
 				35.6 kWh
@@ -1192,7 +1192,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				115 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 18 s
 			</td>
 			<td>
 				36.2 kWh
@@ -1206,7 +1206,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				111 kW
 			</td>
 			<td>
-				 16 m 16 s
+				 16 m 37 s
 			</td>
 			<td>
 				36.7 kWh
@@ -1220,7 +1220,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				108 kW
 			</td>
 			<td>
-				 16 m 34 s
+				 16 m 56 s
 			</td>
 			<td>
 				37.3 kWh
@@ -1234,7 +1234,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				105 kW
 			</td>
 			<td>
-				 16 m 54 s
+				 17 m 15 s
 			</td>
 			<td>
 				37.8 kWh
@@ -1248,7 +1248,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				102 kW
 			</td>
 			<td>
-				 17 m 13 s
+				 17 m 36 s
 			</td>
 			<td>
 				38.3 kWh
@@ -1262,7 +1262,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				99 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 17 m 56 s
 			</td>
 			<td>
 				38.9 kWh
@@ -1276,7 +1276,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				96 kW
 			</td>
 			<td>
-				 17 m 55 s
+				 18 m 18 s
 			</td>
 			<td>
 				39.4 kWh
@@ -1290,7 +1290,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				92 kW
 			</td>
 			<td>
-				 18 m 17 s
+				 18 m 40 s
 			</td>
 			<td>
 				40.0 kWh
@@ -1304,7 +1304,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				89 kW
 			</td>
 			<td>
-				 18 m 39 s
+				 19 m 3 s
 			</td>
 			<td>
 				40.5 kWh
@@ -1318,7 +1318,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				86 kW
 			</td>
 			<td>
-				 19 m 2 s
+				 19 m 27 s
 			</td>
 			<td>
 				41.0 kWh
@@ -1332,7 +1332,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				83 kW
 			</td>
 			<td>
-				 19 m 27 s
+				 19 m 52 s
 			</td>
 			<td>
 				41.6 kWh
@@ -1346,7 +1346,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				80 kW
 			</td>
 			<td>
-				 19 m 52 s
+				 20 m 17 s
 			</td>
 			<td>
 				42.1 kWh
@@ -1360,7 +1360,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				77 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 20 m 44 s
 			</td>
 			<td>
 				42.7 kWh
@@ -1374,7 +1374,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				73 kW
 			</td>
 			<td>
-				 20 m 45 s
+				 21 m 12 s
 			</td>
 			<td>
 				43.2 kWh
@@ -1388,7 +1388,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				70 kW
 			</td>
 			<td>
-				 21 m 14 s
+				 21 m 41 s
 			</td>
 			<td>
 				43.7 kWh
@@ -1402,7 +1402,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				67 kW
 			</td>
 			<td>
-				 21 m 44 s
+				 22 m 12 s
 			</td>
 			<td>
 				44.3 kWh
@@ -1416,7 +1416,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				64 kW
 			</td>
 			<td>
-				 22 m 15 s
+				 22 m 44 s
 			</td>
 			<td>
 				44.8 kWh
@@ -1430,7 +1430,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				61 kW
 			</td>
 			<td>
-				 22 m 48 s
+				 23 m 17 s
 			</td>
 			<td>
 				45.4 kWh
@@ -1444,7 +1444,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				58 kW
 			</td>
 			<td>
-				 23 m 22 s
+				 23 m 52 s
 			</td>
 			<td>
 				45.9 kWh
@@ -1458,7 +1458,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				54 kW
 			</td>
 			<td>
-				 23 m 59 s
+				 24 m 30 s
 			</td>
 			<td>
 				46.4 kWh
@@ -1472,7 +1472,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				51 kW
 			</td>
 			<td>
-				 24 m 38 s
+				 25 m 9 s
 			</td>
 			<td>
 				47.0 kWh
@@ -1486,7 +1486,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				48 kW
 			</td>
 			<td>
-				 25 m 19 s
+				 25 m 51 s
 			</td>
 			<td>
 				47.5 kWh
@@ -1500,7 +1500,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				45 kW
 			</td>
 			<td>
-				 26 m 3 s
+				 26 m 36 s
 			</td>
 			<td>
 				48.1 kWh
@@ -1514,7 +1514,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				42 kW
 			</td>
 			<td>
-				 26 m 50 s
+				 27 m 25 s
 			</td>
 			<td>
 				48.6 kWh
@@ -1528,7 +1528,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				39 kW
 			</td>
 			<td>
-				 27 m 41 s
+				 28 m 17 s
 			</td>
 			<td>
 				49.1 kWh
@@ -1542,7 +1542,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				35 kW
 			</td>
 			<td>
-				 28 m 36 s
+				 29 m 13 s
 			</td>
 			<td>
 				49.7 kWh
@@ -1556,7 +1556,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				32 kW
 			</td>
 			<td>
-				 29 m 37 s
+				 30 m 15 s
 			</td>
 			<td>
 				50.2 kWh
@@ -1570,7 +1570,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				29 kW
 			</td>
 			<td>
-				 30 m 44 s
+				 31 m 24 s
 			</td>
 			<td>
 				50.8 kWh
@@ -1584,7 +1584,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				26 kW
 			</td>
 			<td>
-				 31 m 58 s
+				 32 m 40 s
 			</td>
 			<td>
 				51.3 kWh
@@ -1598,7 +1598,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				23 kW
 			</td>
 			<td>
-				 33 m 23 s
+				 34 m 6 s
 			</td>
 			<td>
 				51.8 kWh
@@ -1612,7 +1612,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				20 kW
 			</td>
 			<td>
-				 35 m 0 s
+				 35 m 45 s
 			</td>
 			<td>
 				52.4 kWh
@@ -1626,7 +1626,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				16 kW
 			</td>
 			<td>
-				 36 m 54 s
+				 37 m 42 s
 			</td>
 			<td>
 				52.9 kWh
@@ -1640,7 +1640,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				13 kW
 			</td>
 			<td>
-				 39 m 13 s
+				 40 m 3 s
 			</td>
 			<td>
 				53.5 kWh
@@ -1654,7 +1654,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 				10 kW
 			</td>
 			<td>
-				 42 m 9 s
+				 43 m 4 s
 			</td>
 			<td>
 				54.0 kWh

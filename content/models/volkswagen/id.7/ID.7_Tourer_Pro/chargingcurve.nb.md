@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Volkswagen ID.7 Tourer Pro."
+description: "Nedenfor er ladekurven for Volkswagen ID.7 Tourer Pro, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				93,2 kW
+				91,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				90,9 kW
+				89,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				109,5 kW
+				107,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				124,2 kW
+				121,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				122,8kW
+				120,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				19m12s
+				20m30s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				 49 m 35 s
+				 50 m 39 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				 45 m 44 s
+				 46 m 43 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 26 m 1 s
+				 26 m 35 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				12,1 km (7,5 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				8,4 km (5,2 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rekkevidde per minutt 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				11,8 km (7,3 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,6 km (7,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rekkevidde per minutt 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				16,1 km (10,0 mi)
+				15,8 km (9,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				11,2 km (7,0 mi)
+				11,0 km (6,8 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				74 kW
 			</td>
 			<td>
-				 0 m 46 s
+				 0 m 47 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				99 kW
 			</td>
 			<td>
-				 1 m 20 s
+				 1 m 22 s
 			</td>
 			<td>
 				1,5 kWh
@@ -296,7 +296,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				123 kW
 			</td>
 			<td>
-				 1 m 46 s
+				 1 m 49 s
 			</td>
 			<td>
 				2,3 kWh
@@ -310,7 +310,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				148 kW
 			</td>
 			<td>
-				 2 m 8 s
+				 2 m 11 s
 			</td>
 			<td>
 				3,1 kWh
@@ -324,7 +324,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				172 kW
 			</td>
 			<td>
-				 2 m 26 s
+				 2 m 29 s
 			</td>
 			<td>
 				3,8 kWh
@@ -338,7 +338,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				173 kW
 			</td>
 			<td>
-				 2 m 43 s
+				 2 m 47 s
 			</td>
 			<td>
 				4,6 kWh
@@ -352,7 +352,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				173 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 4 s
 			</td>
 			<td>
 				5,4 kWh
@@ -366,7 +366,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				174 kW
 			</td>
 			<td>
-				 3 m 17 s
+				 3 m 21 s
 			</td>
 			<td>
 				6,2 kWh
@@ -380,7 +380,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				174 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				6,9 kWh
@@ -394,7 +394,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				175 kW
 			</td>
 			<td>
-				 3 m 50 s
+				 3 m 55 s
 			</td>
 			<td>
 				7,7 kWh
@@ -408,7 +408,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				185 kW
 			</td>
 			<td>
-				 4 m 7 s
+				 4 m 12 s
 			</td>
 			<td>
 				8,5 kWh
@@ -422,7 +422,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				186 kW
 			</td>
 			<td>
-				 4 m 22 s
+				 4 m 28 s
 			</td>
 			<td>
 				9,2 kWh
@@ -436,7 +436,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				186 kW
 			</td>
 			<td>
-				 4 m 38 s
+				 4 m 44 s
 			</td>
 			<td>
 				10,0 kWh
@@ -450,7 +450,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				186 kW
 			</td>
 			<td>
-				 4 m 54 s
+				 5 m 0 s
 			</td>
 			<td>
 				10,8 kWh
@@ -464,7 +464,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				186 kW
 			</td>
 			<td>
-				 5 m 9 s
+				 5 m 16 s
 			</td>
 			<td>
 				11,6 kWh
@@ -478,7 +478,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				186 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				12,3 kWh
@@ -492,7 +492,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				187 kW
 			</td>
 			<td>
-				 5 m 41 s
+				 5 m 48 s
 			</td>
 			<td>
 				13,1 kWh
@@ -506,7 +506,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				187 kW
 			</td>
 			<td>
-				 5 m 56 s
+				 6 m 4 s
 			</td>
 			<td>
 				13,9 kWh
@@ -520,7 +520,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				188 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 20 s
 			</td>
 			<td>
 				14,6 kWh
@@ -534,7 +534,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				188 kW
 			</td>
 			<td>
-				 6 m 27 s
+				 6 m 36 s
 			</td>
 			<td>
 				15,4 kWh
@@ -548,7 +548,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				189 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 6 m 51 s
 			</td>
 			<td>
 				16,2 kWh
@@ -562,7 +562,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				189 kW
 			</td>
 			<td>
-				 6 m 58 s
+				 7 m 7 s
 			</td>
 			<td>
 				16,9 kWh
@@ -576,7 +576,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				189 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 23 s
 			</td>
 			<td>
 				17,7 kWh
@@ -590,7 +590,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				190 kW
 			</td>
 			<td>
-				 7 m 29 s
+				 7 m 39 s
 			</td>
 			<td>
 				18,5 kWh
@@ -604,7 +604,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				190 kW
 			</td>
 			<td>
-				 7 m 44 s
+				 7 m 54 s
 			</td>
 			<td>
 				19,2 kWh
@@ -618,7 +618,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				189 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 8 m 10 s
 			</td>
 			<td>
 				20,0 kWh
@@ -632,7 +632,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				189 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				20,8 kWh
@@ -646,7 +646,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				190 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				21,6 kWh
@@ -660,7 +660,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				191 kW
 			</td>
 			<td>
-				 8 m 46 s
+				 8 m 57 s
 			</td>
 			<td>
 				22,3 kWh
@@ -674,7 +674,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				190 kW
 			</td>
 			<td>
-				 9 m 1 s
+				 9 m 13 s
 			</td>
 			<td>
 				23,1 kWh
@@ -688,7 +688,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				189 kW
 			</td>
 			<td>
-				 9 m 17 s
+				 9 m 29 s
 			</td>
 			<td>
 				23,9 kWh
@@ -702,7 +702,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				188 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 9 m 44 s
 			</td>
 			<td>
 				24,6 kWh
@@ -716,7 +716,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				187 kW
 			</td>
 			<td>
-				 9 m 48 s
+				 10 m 0 s
 			</td>
 			<td>
 				25,4 kWh
@@ -730,7 +730,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				186 kW
 			</td>
 			<td>
-				 10 m 3 s
+				 10 m 16 s
 			</td>
 			<td>
 				26,2 kWh
@@ -744,7 +744,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				185 kW
 			</td>
 			<td>
-				 10 m 19 s
+				 10 m 32 s
 			</td>
 			<td>
 				27,0 kWh
@@ -758,7 +758,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				185 kW
 			</td>
 			<td>
-				 10 m 35 s
+				 10 m 49 s
 			</td>
 			<td>
 				27,7 kWh
@@ -772,7 +772,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				185 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 5 s
 			</td>
 			<td>
 				28,5 kWh
@@ -786,7 +786,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				183 kW
 			</td>
 			<td>
-				 11 m 7 s
+				 11 m 21 s
 			</td>
 			<td>
 				29,3 kWh
@@ -800,7 +800,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				181 kW
 			</td>
 			<td>
-				 11 m 23 s
+				 11 m 37 s
 			</td>
 			<td>
 				30,0 kWh
@@ -814,7 +814,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				180 kW
 			</td>
 			<td>
-				 11 m 39 s
+				 11 m 54 s
 			</td>
 			<td>
 				30,8 kWh
@@ -828,7 +828,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				177 kW
 			</td>
 			<td>
-				 11 m 55 s
+				 12 m 10 s
 			</td>
 			<td>
 				31,6 kWh
@@ -842,7 +842,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				173 kW
 			</td>
 			<td>
-				 12 m 12 s
+				 12 m 27 s
 			</td>
 			<td>
 				32,3 kWh
@@ -856,7 +856,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				170 kW
 			</td>
 			<td>
-				 12 m 29 s
+				 12 m 45 s
 			</td>
 			<td>
 				33,1 kWh
@@ -870,7 +870,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				167 kW
 			</td>
 			<td>
-				 12 m 46 s
+				 13 m 3 s
 			</td>
 			<td>
 				33,9 kWh
@@ -884,7 +884,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				165 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 21 s
 			</td>
 			<td>
 				34,6 kWh
@@ -898,7 +898,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				162 kW
 			</td>
 			<td>
-				 13 m 21 s
+				 13 m 39 s
 			</td>
 			<td>
 				35,4 kWh
@@ -912,7 +912,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				158 kW
 			</td>
 			<td>
-				 13 m 40 s
+				 13 m 57 s
 			</td>
 			<td>
 				36,2 kWh
@@ -926,7 +926,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				156 kW
 			</td>
 			<td>
-				 13 m 58 s
+				 14 m 16 s
 			</td>
 			<td>
 				37,0 kWh
@@ -940,7 +940,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				153 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 36 s
 			</td>
 			<td>
 				37,7 kWh
@@ -954,7 +954,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				150 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				38,5 kWh
@@ -968,7 +968,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				148 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 15 s
 			</td>
 			<td>
 				39,3 kWh
@@ -982,7 +982,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				146 kW
 			</td>
 			<td>
-				 15 m 16 s
+				 15 m 36 s
 			</td>
 			<td>
 				40,0 kWh
@@ -996,7 +996,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				141 kW
 			</td>
 			<td>
-				 15 m 36 s
+				 15 m 56 s
 			</td>
 			<td>
 				40,8 kWh
@@ -1010,7 +1010,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				126 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 19 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1024,7 +1024,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				112 kW
 			</td>
 			<td>
-				 16 m 23 s
+				 16 m 44 s
 			</td>
 			<td>
 				42,4 kWh
@@ -1038,7 +1038,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				107 kW
 			</td>
 			<td>
-				 16 m 49 s
+				 17 m 11 s
 			</td>
 			<td>
 				43,1 kWh
@@ -1052,7 +1052,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				105 kW
 			</td>
 			<td>
-				 17 m 17 s
+				 17 m 39 s
 			</td>
 			<td>
 				43,9 kWh
@@ -1066,7 +1066,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				100 kW
 			</td>
 			<td>
-				 17 m 45 s
+				 18 m 8 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1080,7 +1080,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				98 kW
 			</td>
 			<td>
-				 18 m 15 s
+				 18 m 38 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1094,7 +1094,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				96 kW
 			</td>
 			<td>
-				 18 m 45 s
+				 19 m 9 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1108,7 +1108,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				94 kW
 			</td>
 			<td>
-				 19 m 16 s
+				 19 m 40 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1122,7 +1122,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				94 kW
 			</td>
 			<td>
-				 19 m 47 s
+				 20 m 12 s
 			</td>
 			<td>
 				47,7 kWh
@@ -1136,7 +1136,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				99 kW
 			</td>
 			<td>
-				 20 m 17 s
+				 20 m 43 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1150,7 +1150,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				99 kW
 			</td>
 			<td>
-				 20 m 46 s
+				 21 m 13 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1164,7 +1164,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				98 kW
 			</td>
 			<td>
-				 21 m 16 s
+				 21 m 43 s
 			</td>
 			<td>
 				50,0 kWh
@@ -1178,7 +1178,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				94 kW
 			</td>
 			<td>
-				 21 m 46 s
+				 22 m 14 s
 			</td>
 			<td>
 				50,8 kWh
@@ -1192,7 +1192,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				98 kW
 			</td>
 			<td>
-				 22 m 17 s
+				 22 m 45 s
 			</td>
 			<td>
 				51,6 kWh
@@ -1206,7 +1206,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				95 kW
 			</td>
 			<td>
-				 22 m 47 s
+				 23 m 16 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1220,7 +1220,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				93 kW
 			</td>
 			<td>
-				 23 m 18 s
+				 23 m 48 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1234,7 +1234,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				91 kW
 			</td>
 			<td>
-				 23 m 50 s
+				 24 m 20 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1248,7 +1248,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				88 kW
 			</td>
 			<td>
-				 24 m 22 s
+				 24 m 54 s
 			</td>
 			<td>
 				54,7 kWh
@@ -1262,7 +1262,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				87 kW
 			</td>
 			<td>
-				 24 m 56 s
+				 25 m 28 s
 			</td>
 			<td>
 				55,4 kWh
@@ -1276,7 +1276,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				85 kW
 			</td>
 			<td>
-				 25 m 30 s
+				 26 m 2 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1290,7 +1290,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				82 kW
 			</td>
 			<td>
-				 26 m 4 s
+				 26 m 38 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1304,7 +1304,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				81 kW
 			</td>
 			<td>
-				 26 m 40 s
+				 27 m 15 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1318,7 +1318,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				79 kW
 			</td>
 			<td>
-				 27 m 17 s
+				 27 m 52 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1332,7 +1332,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				76 kW
 			</td>
 			<td>
-				 27 m 54 s
+				 28 m 30 s
 			</td>
 			<td>
 				59,3 kWh
@@ -1346,7 +1346,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				75 kW
 			</td>
 			<td>
-				 28 m 33 s
+				 29 m 10 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1360,7 +1360,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				74 kW
 			</td>
 			<td>
-				 29 m 12 s
+				 29 m 50 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1374,7 +1374,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				72 kW
 			</td>
 			<td>
-				 29 m 52 s
+				 30 m 31 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1388,7 +1388,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				71 kW
 			</td>
 			<td>
-				 30 m 33 s
+				 31 m 12 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1402,7 +1402,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				69 kW
 			</td>
 			<td>
-				 31 m 15 s
+				 31 m 55 s
 			</td>
 			<td>
 				63,1 kWh
@@ -1416,7 +1416,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				67 kW
 			</td>
 			<td>
-				 31 m 58 s
+				 32 m 39 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1430,7 +1430,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				65 kW
 			</td>
 			<td>
-				 32 m 42 s
+				 33 m 24 s
 			</td>
 			<td>
 				64,7 kWh
@@ -1444,7 +1444,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				63 kW
 			</td>
 			<td>
-				 33 m 27 s
+				 34 m 11 s
 			</td>
 			<td>
 				65,4 kWh
@@ -1458,7 +1458,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				61 kW
 			</td>
 			<td>
-				 34 m 14 s
+				 34 m 59 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1472,7 +1472,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				60 kW
 			</td>
 			<td>
-				 35 m 3 s
+				 35 m 48 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1486,7 +1486,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				58 kW
 			</td>
 			<td>
-				 35 m 52 s
+				 36 m 38 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1500,7 +1500,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				56 kW
 			</td>
 			<td>
-				 36 m 43 s
+				 37 m 31 s
 			</td>
 			<td>
 				68,5 kWh
@@ -1514,7 +1514,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				55 kW
 			</td>
 			<td>
-				 37 m 36 s
+				 38 m 24 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1528,7 +1528,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				53 kW
 			</td>
 			<td>
-				 38 m 30 s
+				 39 m 20 s
 			</td>
 			<td>
 				70,1 kWh
@@ -1542,7 +1542,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				52 kW
 			</td>
 			<td>
-				 39 m 26 s
+				 40 m 16 s
 			</td>
 			<td>
 				70,8 kWh
@@ -1556,7 +1556,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				50 kW
 			</td>
 			<td>
-				 40 m 23 s
+				 41 m 15 s
 			</td>
 			<td>
 				71,6 kWh
@@ -1570,7 +1570,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				47 kW
 			</td>
 			<td>
-				 41 m 23 s
+				 42 m 16 s
 			</td>
 			<td>
 				72,4 kWh
@@ -1584,7 +1584,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				44 kW
 			</td>
 			<td>
-				 42 m 27 s
+				 43 m 22 s
 			</td>
 			<td>
 				73,2 kWh
@@ -1598,7 +1598,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				41 kW
 			</td>
 			<td>
-				 43 m 36 s
+				 44 m 32 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1612,7 +1612,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				35 kW
 			</td>
 			<td>
-				 44 m 52 s
+				 45 m 50 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1626,7 +1626,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				33 kW
 			</td>
 			<td>
-				 46 m 18 s
+				 47 m 18 s
 			</td>
 			<td>
 				75,5 kWh
@@ -1640,7 +1640,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				30 kW
 			</td>
 			<td>
-				 47 m 51 s
+				 48 m 53 s
 			</td>
 			<td>
 				76,2 kWh
@@ -1654,7 +1654,7 @@ Volkswagen ID.7 Tourer Pro har batterioppvarming, noe som gjør lading ved en op
 				26 kW
 			</td>
 			<td>
-				 49 m 35 s
+				 50 m 39 s
 			</td>
 			<td>
 				77,0 kWh

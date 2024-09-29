@@ -38,7 +38,7 @@ La batería de alta capacidad tiene una capacidad bruta de 85,0 kWh y una capaci
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 730 km (454 millas). El consumo es de 12,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 37 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 77%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 156kW. Cada sesión de carga tardaría 26 minutos y 17 segundos. Esta capacidad de carga eficiente hace que el Onvo L60 RWD sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 38 minutos, mientras que un escenario más común del 10 al 80 % tardaría 21 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 77%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 153kW. Cada sesión de carga tardaría 27 minutos y 44 segundos. Esta capacidad de carga eficiente hace que el Onvo L60 RWD sea una opción conveniente para viajes de larga distancia.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ La batería de alta capacidad tiene una capacidad bruta de 60,6 kWh y una capaci
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 555 km (345 millas). El consumo es de 12,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 47 minutos, mientras que un escenario más común del 10 al 80 % tardaría 25 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 84kW. Cada sesión de carga tardaría 29 minutos y 22 segundos.
+La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 48 minutos, mientras que un escenario más común del 10 al 80 % tardaría 25 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 83kW. Cada sesión de carga tardaría 30 minutos y 53 segundos.
 
 ### Cargador a bordo
 

@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 AWD Performance Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für XPENG G9 AWD Performance."
+description: "Unten ist die Ladekurve für XPENG G9 AWD Performance dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				113,2 kW
+				110,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				122,5 kW
+				119,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				176,3 kW
+				172,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				206,7 kW
+				202,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				169,0kW
+				166,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				18m36s
+				18m53s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				 49 m 36 s
+				 50 m 40 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				 41 m 15 s
+				 42 m 9 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 19 m 1 s
+				 19 m 25 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,5 km (6,5 mi)
+				10,3 km (6,4 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,3 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				11,3 km (7,0 mi)
+				11,1 km (6,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				7,7 km (4,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				19,1 km (11,9 mi)
+				18,7 km (11,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				13,2 km (8,2 mi)
+				13,0 km (8,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				30 kW
 			</td>
 			<td>
-				 1 m 57 s
+				 2 m 0 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				31 kW
 			</td>
 			<td>
-				 3 m 53 s
+				 3 m 58 s
 			</td>
 			<td>
 				1,9 kWh
@@ -296,7 +296,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				31 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 56 s
 			</td>
 			<td>
 				2,8 kWh
@@ -310,7 +310,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				147 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 37 s
 			</td>
 			<td>
 				3,7 kWh
@@ -324,7 +324,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				148 kW
 			</td>
 			<td>
-				 6 m 52 s
+				 7 m 1 s
 			</td>
 			<td>
 				4,7 kWh
@@ -338,7 +338,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				149 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 7 m 26 s
 			</td>
 			<td>
 				5,6 kWh
@@ -352,7 +352,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				151 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 7 m 50 s
 			</td>
 			<td>
 				6,6 kWh
@@ -366,7 +366,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				270 kW
 			</td>
 			<td>
-				 7 m 57 s
+				 8 m 7 s
 			</td>
 			<td>
 				7,5 kWh
@@ -380,7 +380,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				300 kW
 			</td>
 			<td>
-				 8 m 9 s
+				 8 m 20 s
 			</td>
 			<td>
 				8,4 kWh
@@ -394,7 +394,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				315 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 31 s
 			</td>
 			<td>
 				9,4 kWh
@@ -408,7 +408,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				315 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				10,3 kWh
@@ -422,7 +422,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				316 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 8 m 54 s
 			</td>
 			<td>
 				11,2 kWh
@@ -436,7 +436,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				316 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 6 s
 			</td>
 			<td>
 				12,2 kWh
@@ -450,7 +450,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				316 kW
 			</td>
 			<td>
-				 9 m 6 s
+				 9 m 17 s
 			</td>
 			<td>
 				13,1 kWh
@@ -464,7 +464,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				317 kW
 			</td>
 			<td>
-				 9 m 17 s
+				 9 m 29 s
 			</td>
 			<td>
 				14,0 kWh
@@ -478,7 +478,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				317 kW
 			</td>
 			<td>
-				 9 m 28 s
+				 9 m 40 s
 			</td>
 			<td>
 				15,0 kWh
@@ -492,7 +492,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				317 kW
 			</td>
 			<td>
-				 9 m 39 s
+				 9 m 52 s
 			</td>
 			<td>
 				15,9 kWh
@@ -506,7 +506,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				317 kW
 			</td>
 			<td>
-				 9 m 50 s
+				 10 m 3 s
 			</td>
 			<td>
 				16,8 kWh
@@ -520,7 +520,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				318 kW
 			</td>
 			<td>
-				 10 m 2 s
+				 10 m 15 s
 			</td>
 			<td>
 				17,8 kWh
@@ -534,7 +534,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				318 kW
 			</td>
 			<td>
-				 10 m 13 s
+				 10 m 26 s
 			</td>
 			<td>
 				18,7 kWh
@@ -548,7 +548,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				318 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 10 m 37 s
 			</td>
 			<td>
 				19,7 kWh
@@ -562,7 +562,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				268 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 50 s
 			</td>
 			<td>
 				20,6 kWh
@@ -576,7 +576,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				268 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 11 m 3 s
 			</td>
 			<td>
 				21,5 kWh
@@ -590,7 +590,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				268 kW
 			</td>
 			<td>
-				 11 m 2 s
+				 11 m 17 s
 			</td>
 			<td>
 				22,5 kWh
@@ -604,7 +604,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				268 kW
 			</td>
 			<td>
-				 11 m 16 s
+				 11 m 30 s
 			</td>
 			<td>
 				23,4 kWh
@@ -618,7 +618,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				269 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 11 m 44 s
 			</td>
 			<td>
 				24,3 kWh
@@ -632,7 +632,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				269 kW
 			</td>
 			<td>
-				 11 m 42 s
+				 11 m 57 s
 			</td>
 			<td>
 				25,3 kWh
@@ -646,7 +646,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				269 kW
 			</td>
 			<td>
-				 11 m 55 s
+				 12 m 11 s
 			</td>
 			<td>
 				26,2 kWh
@@ -660,7 +660,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				269 kW
 			</td>
 			<td>
-				 12 m 8 s
+				 12 m 24 s
 			</td>
 			<td>
 				27,1 kWh
@@ -674,7 +674,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				269 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 38 s
 			</td>
 			<td>
 				28,1 kWh
@@ -688,7 +688,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				269 kW
 			</td>
 			<td>
-				 12 m 35 s
+				 12 m 51 s
 			</td>
 			<td>
 				29,0 kWh
@@ -702,7 +702,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				270 kW
 			</td>
 			<td>
-				 12 m 48 s
+				 13 m 5 s
 			</td>
 			<td>
 				30,0 kWh
@@ -716,7 +716,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				270 kW
 			</td>
 			<td>
-				 13 m 1 s
+				 13 m 18 s
 			</td>
 			<td>
 				30,9 kWh
@@ -730,7 +730,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				270 kW
 			</td>
 			<td>
-				 13 m 14 s
+				 13 m 31 s
 			</td>
 			<td>
 				31,8 kWh
@@ -744,7 +744,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				271 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 13 m 45 s
 			</td>
 			<td>
 				32,8 kWh
@@ -758,7 +758,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				271 kW
 			</td>
 			<td>
-				 13 m 40 s
+				 13 m 58 s
 			</td>
 			<td>
 				33,7 kWh
@@ -772,7 +772,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				271 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 11 s
 			</td>
 			<td>
 				34,6 kWh
@@ -786,7 +786,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				272 kW
 			</td>
 			<td>
-				 14 m 7 s
+				 14 m 25 s
 			</td>
 			<td>
 				35,6 kWh
@@ -800,7 +800,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				272 kW
 			</td>
 			<td>
-				 14 m 20 s
+				 14 m 38 s
 			</td>
 			<td>
 				36,5 kWh
@@ -814,7 +814,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				211 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 53 s
 			</td>
 			<td>
 				37,4 kWh
@@ -828,7 +828,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				212 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 10 s
 			</td>
 			<td>
 				38,4 kWh
@@ -842,7 +842,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				212 kW
 			</td>
 			<td>
-				 15 m 8 s
+				 15 m 27 s
 			</td>
 			<td>
 				39,3 kWh
@@ -856,7 +856,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				212 kW
 			</td>
 			<td>
-				 15 m 25 s
+				 15 m 44 s
 			</td>
 			<td>
 				40,2 kWh
@@ -870,7 +870,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				213 kW
 			</td>
 			<td>
-				 15 m 41 s
+				 16 m 2 s
 			</td>
 			<td>
 				41,2 kWh
@@ -884,7 +884,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				214 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 18 s
 			</td>
 			<td>
 				42,1 kWh
@@ -898,7 +898,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				213 kW
 			</td>
 			<td>
-				 16 m 14 s
+				 16 m 35 s
 			</td>
 			<td>
 				43,1 kWh
@@ -912,7 +912,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				214 kW
 			</td>
 			<td>
-				 16 m 31 s
+				 16 m 52 s
 			</td>
 			<td>
 				44,0 kWh
@@ -926,7 +926,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				214 kW
 			</td>
 			<td>
-				 16 m 48 s
+				 17 m 9 s
 			</td>
 			<td>
 				44,9 kWh
@@ -940,7 +940,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				214 kW
 			</td>
 			<td>
-				 17 m 4 s
+				 17 m 26 s
 			</td>
 			<td>
 				45,9 kWh
@@ -954,7 +954,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				215 kW
 			</td>
 			<td>
-				 17 m 21 s
+				 17 m 43 s
 			</td>
 			<td>
 				46,8 kWh
@@ -968,7 +968,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				215 kW
 			</td>
 			<td>
-				 17 m 37 s
+				 18 m 0 s
 			</td>
 			<td>
 				47,7 kWh
@@ -982,7 +982,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				213 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 18 m 17 s
 			</td>
 			<td>
 				48,7 kWh
@@ -996,7 +996,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				209 kW
 			</td>
 			<td>
-				 18 m 11 s
+				 18 m 34 s
 			</td>
 			<td>
 				49,6 kWh
@@ -1010,7 +1010,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				205 kW
 			</td>
 			<td>
-				 18 m 28 s
+				 18 m 52 s
 			</td>
 			<td>
 				50,5 kWh
@@ -1024,7 +1024,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				202 kW
 			</td>
 			<td>
-				 18 m 45 s
+				 19 m 9 s
 			</td>
 			<td>
 				51,5 kWh
@@ -1038,7 +1038,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				200 kW
 			</td>
 			<td>
-				 19 m 3 s
+				 19 m 27 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1052,7 +1052,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				198 kW
 			</td>
 			<td>
-				 19 m 21 s
+				 19 m 46 s
 			</td>
 			<td>
 				53,4 kWh
@@ -1066,7 +1066,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				196 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 4 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1080,7 +1080,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				194 kW
 			</td>
 			<td>
-				 19 m 57 s
+				 20 m 23 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1094,7 +1094,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				172 kW
 			</td>
 			<td>
-				 20 m 16 s
+				 20 m 42 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1108,7 +1108,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				171 kW
 			</td>
 			<td>
-				 20 m 37 s
+				 21 m 4 s
 			</td>
 			<td>
 				57,1 kWh
@@ -1122,7 +1122,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				172 kW
 			</td>
 			<td>
-				 20 m 58 s
+				 21 m 25 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1136,7 +1136,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				172 kW
 			</td>
 			<td>
-				 21 m 18 s
+				 21 m 46 s
 			</td>
 			<td>
 				59,0 kWh
@@ -1150,7 +1150,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				173 kW
 			</td>
 			<td>
-				 21 m 39 s
+				 22 m 7 s
 			</td>
 			<td>
 				59,9 kWh
@@ -1164,7 +1164,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				173 kW
 			</td>
 			<td>
-				 21 m 59 s
+				 22 m 28 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1178,7 +1178,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				173 kW
 			</td>
 			<td>
-				 22 m 20 s
+				 22 m 49 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1192,7 +1192,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				173 kW
 			</td>
 			<td>
-				 22 m 40 s
+				 23 m 10 s
 			</td>
 			<td>
 				62,7 kWh
@@ -1206,7 +1206,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				173 kW
 			</td>
 			<td>
-				 23 m 1 s
+				 23 m 31 s
 			</td>
 			<td>
 				63,6 kWh
@@ -1220,7 +1220,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				174 kW
 			</td>
 			<td>
-				 23 m 21 s
+				 23 m 51 s
 			</td>
 			<td>
 				64,6 kWh
@@ -1234,7 +1234,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				175 kW
 			</td>
 			<td>
-				 23 m 42 s
+				 24 m 12 s
 			</td>
 			<td>
 				65,5 kWh
@@ -1248,7 +1248,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				175 kW
 			</td>
 			<td>
-				 24 m 2 s
+				 24 m 33 s
 			</td>
 			<td>
 				66,5 kWh
@@ -1262,7 +1262,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				157 kW
 			</td>
 			<td>
-				 24 m 23 s
+				 24 m 55 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1276,7 +1276,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				158 kW
 			</td>
 			<td>
-				 24 m 46 s
+				 25 m 18 s
 			</td>
 			<td>
 				68,3 kWh
@@ -1290,7 +1290,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				158 kW
 			</td>
 			<td>
-				 25 m 8 s
+				 25 m 41 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1304,7 +1304,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				158 kW
 			</td>
 			<td>
-				 25 m 31 s
+				 26 m 4 s
 			</td>
 			<td>
 				70,2 kWh
@@ -1318,7 +1318,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				159 kW
 			</td>
 			<td>
-				 25 m 53 s
+				 26 m 26 s
 			</td>
 			<td>
 				71,1 kWh
@@ -1332,7 +1332,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				159 kW
 			</td>
 			<td>
-				 26 m 15 s
+				 26 m 49 s
 			</td>
 			<td>
 				72,1 kWh
@@ -1346,7 +1346,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				159 kW
 			</td>
 			<td>
-				 26 m 38 s
+				 27 m 12 s
 			</td>
 			<td>
 				73,0 kWh
@@ -1360,7 +1360,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				160 kW
 			</td>
 			<td>
-				 27 m 0 s
+				 27 m 35 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1374,7 +1374,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				160 kW
 			</td>
 			<td>
-				 27 m 22 s
+				 27 m 57 s
 			</td>
 			<td>
 				74,9 kWh
@@ -1388,7 +1388,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				160 kW
 			</td>
 			<td>
-				 27 m 44 s
+				 28 m 20 s
 			</td>
 			<td>
 				75,8 kWh
@@ -1402,7 +1402,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				97 kW
 			</td>
 			<td>
-				 28 m 12 s
+				 28 m 48 s
 			</td>
 			<td>
 				76,8 kWh
@@ -1416,7 +1416,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				97 kW
 			</td>
 			<td>
-				 28 m 48 s
+				 29 m 26 s
 			</td>
 			<td>
 				77,7 kWh
@@ -1430,7 +1430,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				97 kW
 			</td>
 			<td>
-				 29 m 25 s
+				 30 m 3 s
 			</td>
 			<td>
 				78,6 kWh
@@ -1444,7 +1444,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				98 kW
 			</td>
 			<td>
-				 30 m 1 s
+				 30 m 40 s
 			</td>
 			<td>
 				79,6 kWh
@@ -1458,7 +1458,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				98 kW
 			</td>
 			<td>
-				 30 m 38 s
+				 31 m 17 s
 			</td>
 			<td>
 				80,5 kWh
@@ -1472,7 +1472,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				71 kW
 			</td>
 			<td>
-				 31 m 20 s
+				 32 m 0 s
 			</td>
 			<td>
 				81,4 kWh
@@ -1486,7 +1486,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				71 kW
 			</td>
 			<td>
-				 32 m 9 s
+				 32 m 51 s
 			</td>
 			<td>
 				82,4 kWh
@@ -1500,7 +1500,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				71 kW
 			</td>
 			<td>
-				 32 m 59 s
+				 33 m 42 s
 			</td>
 			<td>
 				83,3 kWh
@@ -1514,7 +1514,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				71 kW
 			</td>
 			<td>
-				 33 m 49 s
+				 34 m 33 s
 			</td>
 			<td>
 				84,2 kWh
@@ -1528,7 +1528,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				71 kW
 			</td>
 			<td>
-				 34 m 39 s
+				 35 m 24 s
 			</td>
 			<td>
 				85,2 kWh
@@ -1542,7 +1542,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				48 kW
 			</td>
 			<td>
-				 35 m 39 s
+				 36 m 25 s
 			</td>
 			<td>
 				86,1 kWh
@@ -1556,7 +1556,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				48 kW
 			</td>
 			<td>
-				 36 m 53 s
+				 37 m 40 s
 			</td>
 			<td>
 				87,0 kWh
@@ -1570,7 +1570,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				48 kW
 			</td>
 			<td>
-				 38 m 7 s
+				 38 m 56 s
 			</td>
 			<td>
 				88,0 kWh
@@ -1584,7 +1584,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				48 kW
 			</td>
 			<td>
-				 39 m 21 s
+				 40 m 11 s
 			</td>
 			<td>
 				88,9 kWh
@@ -1598,7 +1598,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				48 kW
 			</td>
 			<td>
-				 40 m 35 s
+				 41 m 27 s
 			</td>
 			<td>
 				89,9 kWh
@@ -1612,7 +1612,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				24 kW
 			</td>
 			<td>
-				 42 m 13 s
+				 43 m 8 s
 			</td>
 			<td>
 				90,8 kWh
@@ -1626,7 +1626,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				24 kW
 			</td>
 			<td>
-				 44 m 41 s
+				 45 m 39 s
 			</td>
 			<td>
 				91,7 kWh
@@ -1640,7 +1640,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				24 kW
 			</td>
 			<td>
-				 47 m 9 s
+				 48 m 9 s
 			</td>
 			<td>
 				92,7 kWh
@@ -1654,7 +1654,7 @@ XPENG G9 AWD Performance verfügt über eine Batterieheizung, die das Laden bei 
 				24 kW
 			</td>
 			<td>
-				 49 m 36 s
+				 50 m 40 s
 			</td>
 			<td>
 				93,6 kWh

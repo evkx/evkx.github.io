@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 94.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 471 km (293 miles), with an energy consumption rate of 18.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 105 minutes, while a more typical scenario from 10% to 80% takes 44 minutes with an average charging speed of 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 11% to 70%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 40 minutes and 4 seconds.
+The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 107 minutes, while a more typical scenario from 10% to 80% takes 45 minutes with an average charging speed of 83 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 11% to 70%. This results in an effective charging speed, including time lost, of 76 kW, with each charging session taking about 41 minutes and 49 seconds.
 
 ### Onboard Charger
 

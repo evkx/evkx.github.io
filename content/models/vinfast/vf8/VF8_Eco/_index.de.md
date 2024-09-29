@@ -34,7 +34,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 94,0 kWh und eine nutz
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 471 km (293 Meilen) mit einem Energieverbrauch von 18,6 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 110 kW. Das Laden von 0% auf 100% dauert etwa 105 Minuten, während ein typischer Ladevorgang von 10% auf 80% 44 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 85 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 11% und 70%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 77 kW, wobei jede Ladesitzung etwa 40 Minuten und 4 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 110 kW. Das Laden von 0% auf 100% dauert etwa 107 Minuten, während ein typischer Ladevorgang von 10% auf 80% 45 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 83 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 11% und 70%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 76 kW, wobei jede Ladesitzung etwa 41 Minuten und 49 Sekunden dauert.
 
 ### Bordladegerät
 

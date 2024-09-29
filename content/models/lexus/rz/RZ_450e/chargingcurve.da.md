@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ 450e opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Lexus RZ 450e."
+description: "Nedan är laddningskurvan för Lexus RZ 450e, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				27,2 kW
+				26,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				25,1 kW
+				24,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				38,7 kW
+				37,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				78,0 kW
+				76,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				88,2kW
+				86,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				19m9s
+				19m28s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				2 h 21 m 25 s
+				2 h 24 m 28 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				2 h 17 m 26 s
+				2 h 20 m 23 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 34 m 28 s
+				 35 m 13 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,10 +172,10 @@ navicon: bi-battery-charging
 				2,2 km (1,4 mi)
 			</td>
 			<td>
-				3,1 km (1,9 mi)
+				3,0 km (1,9 mi)
 			</td>
 			<td>
-				2,0 km (1,2 mi)
+				1,9 km (1,2 mi)
 			</td>
 			<td>
 				1,8 km (1,1 mi)
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-100%
 			</td>
 			<td>
-				2,1 km (1,3 mi)
+				2,0 km (1,2 mi)
 			</td>
 			<td>
-				2,9 km (1,8 mi)
+				2,8 km (1,7 mi)
 			</td>
 			<td>
 				1,8 km (1,1 mi)
 			</td>
 			<td>
-				1,7 km (1,1 mi)
+				1,6 km (1,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-80%
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,3 km (3,9 mi)
 			</td>
 			<td>
-				8,9 km (5,5 mi)
+				8,7 km (5,4 mi)
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,5 km (3,4 mi)
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				5,1 km (3,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Lexus RZ 450e har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -282,7 +282,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				88 kW
 			</td>
 			<td>
-				 1 m 5 s
+				 1 m 7 s
 			</td>
 			<td>
 				1,3 kWh
@@ -296,7 +296,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				94 kW
 			</td>
 			<td>
-				 1 m 32 s
+				 1 m 34 s
 			</td>
 			<td>
 				1,9 kWh
@@ -310,7 +310,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				101 kW
 			</td>
 			<td>
-				 1 m 57 s
+				 1 m 59 s
 			</td>
 			<td>
 				2,6 kWh
@@ -324,7 +324,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				107 kW
 			</td>
 			<td>
-				 2 m 20 s
+				 2 m 23 s
 			</td>
 			<td>
 				3,2 kWh
@@ -338,7 +338,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				114 kW
 			</td>
 			<td>
-				 2 m 42 s
+				 2 m 46 s
 			</td>
 			<td>
 				3,8 kWh
@@ -352,7 +352,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				120 kW
 			</td>
 			<td>
-				 3 m 3 s
+				 3 m 7 s
 			</td>
 			<td>
 				4,5 kWh
@@ -366,7 +366,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				127 kW
 			</td>
 			<td>
-				 3 m 23 s
+				 3 m 27 s
 			</td>
 			<td>
 				5,1 kWh
@@ -380,7 +380,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				133 kW
 			</td>
 			<td>
-				 3 m 41 s
+				 3 m 46 s
 			</td>
 			<td>
 				5,8 kWh
@@ -394,7 +394,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 4 s
 			</td>
 			<td>
 				6,4 kWh
@@ -408,7 +408,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 4 m 16 s
+				 4 m 22 s
 			</td>
 			<td>
 				7,0 kWh
@@ -422,7 +422,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 4 m 34 s
+				 4 m 39 s
 			</td>
 			<td>
 				7,7 kWh
@@ -436,7 +436,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 57 s
 			</td>
 			<td>
 				8,3 kWh
@@ -450,7 +450,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 15 s
 			</td>
 			<td>
 				9,0 kWh
@@ -464,7 +464,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 5 m 26 s
+				 5 m 33 s
 			</td>
 			<td>
 				9,6 kWh
@@ -478,7 +478,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 5 m 43 s
+				 5 m 50 s
 			</td>
 			<td>
 				10,2 kWh
@@ -492,7 +492,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 6 m 8 s
 			</td>
 			<td>
 				10,9 kWh
@@ -506,7 +506,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 6 m 17 s
+				 6 m 26 s
 			</td>
 			<td>
 				11,5 kWh
@@ -520,7 +520,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 6 m 35 s
+				 6 m 43 s
 			</td>
 			<td>
 				12,2 kWh
@@ -534,7 +534,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				140 kW
 			</td>
 			<td>
-				 6 m 52 s
+				 7 m 1 s
 			</td>
 			<td>
 				12,8 kWh
@@ -548,7 +548,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				141 kW
 			</td>
 			<td>
-				 7 m 9 s
+				 7 m 19 s
 			</td>
 			<td>
 				13,4 kWh
@@ -562,7 +562,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				142 kW
 			</td>
 			<td>
-				 7 m 27 s
+				 7 m 36 s
 			</td>
 			<td>
 				14,1 kWh
@@ -576,7 +576,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				143 kW
 			</td>
 			<td>
-				 7 m 44 s
+				 7 m 54 s
 			</td>
 			<td>
 				14,7 kWh
@@ -590,7 +590,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				144 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 8 m 11 s
 			</td>
 			<td>
 				15,4 kWh
@@ -604,7 +604,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				145 kW
 			</td>
 			<td>
-				 8 m 17 s
+				 8 m 28 s
 			</td>
 			<td>
 				16,0 kWh
@@ -618,7 +618,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				143 kW
 			</td>
 			<td>
-				 8 m 34 s
+				 8 m 45 s
 			</td>
 			<td>
 				16,6 kWh
@@ -632,7 +632,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				141 kW
 			</td>
 			<td>
-				 8 m 51 s
+				 9 m 3 s
 			</td>
 			<td>
 				17,3 kWh
@@ -646,7 +646,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				139 kW
 			</td>
 			<td>
-				 9 m 8 s
+				 9 m 20 s
 			</td>
 			<td>
 				17,9 kWh
@@ -660,7 +660,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				137 kW
 			</td>
 			<td>
-				 9 m 26 s
+				 9 m 38 s
 			</td>
 			<td>
 				18,6 kWh
@@ -674,7 +674,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				135 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 9 m 56 s
 			</td>
 			<td>
 				19,2 kWh
@@ -688,7 +688,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				133 kW
 			</td>
 			<td>
-				 10 m 2 s
+				 10 m 15 s
 			</td>
 			<td>
 				19,8 kWh
@@ -702,7 +702,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				131 kW
 			</td>
 			<td>
-				 10 m 20 s
+				 10 m 34 s
 			</td>
 			<td>
 				20,5 kWh
@@ -716,7 +716,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				129 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 10 m 53 s
 			</td>
 			<td>
 				21,1 kWh
@@ -730,7 +730,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				127 kW
 			</td>
 			<td>
-				 10 m 58 s
+				 11 m 12 s
 			</td>
 			<td>
 				21,8 kWh
@@ -744,7 +744,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				125 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 11 m 32 s
 			</td>
 			<td>
 				22,4 kWh
@@ -758,7 +758,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				123 kW
 			</td>
 			<td>
-				 11 m 37 s
+				 11 m 52 s
 			</td>
 			<td>
 				23,0 kWh
@@ -772,7 +772,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				121 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 12 m 12 s
 			</td>
 			<td>
 				23,7 kWh
@@ -786,7 +786,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				119 kW
 			</td>
 			<td>
-				 12 m 17 s
+				 12 m 33 s
 			</td>
 			<td>
 				24,3 kWh
@@ -800,7 +800,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				117 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 12 m 54 s
 			</td>
 			<td>
 				25,0 kWh
@@ -814,7 +814,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				115 kW
 			</td>
 			<td>
-				 12 m 58 s
+				 13 m 15 s
 			</td>
 			<td>
 				25,6 kWh
@@ -828,7 +828,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				112 kW
 			</td>
 			<td>
-				 13 m 20 s
+				 13 m 37 s
 			</td>
 			<td>
 				26,2 kWh
@@ -842,7 +842,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				109 kW
 			</td>
 			<td>
-				 13 m 42 s
+				 13 m 59 s
 			</td>
 			<td>
 				26,9 kWh
@@ -856,7 +856,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				106 kW
 			</td>
 			<td>
-				 14 m 4 s
+				 14 m 22 s
 			</td>
 			<td>
 				27,5 kWh
@@ -870,7 +870,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				103 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 46 s
 			</td>
 			<td>
 				28,2 kWh
@@ -884,7 +884,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				100 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 10 s
 			</td>
 			<td>
 				28,8 kWh
@@ -898,7 +898,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				97 kW
 			</td>
 			<td>
-				 15 m 16 s
+				 15 m 36 s
 			</td>
 			<td>
 				29,4 kWh
@@ -912,7 +912,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				94 kW
 			</td>
 			<td>
-				 15 m 41 s
+				 16 m 2 s
 			</td>
 			<td>
 				30,1 kWh
@@ -926,7 +926,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				91 kW
 			</td>
 			<td>
-				 16 m 8 s
+				 16 m 28 s
 			</td>
 			<td>
 				30,7 kWh
@@ -940,7 +940,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				88 kW
 			</td>
 			<td>
-				 16 m 35 s
+				 16 m 56 s
 			</td>
 			<td>
 				31,4 kWh
@@ -954,7 +954,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				85 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 25 s
 			</td>
 			<td>
 				32,0 kWh
@@ -968,7 +968,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				83 kW
 			</td>
 			<td>
-				 17 m 31 s
+				 17 m 54 s
 			</td>
 			<td>
 				32,6 kWh
@@ -982,7 +982,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				82 kW
 			</td>
 			<td>
-				 18 m 1 s
+				 18 m 24 s
 			</td>
 			<td>
 				33,3 kWh
@@ -996,7 +996,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				80 kW
 			</td>
 			<td>
-				 18 m 31 s
+				 18 m 55 s
 			</td>
 			<td>
 				33,9 kWh
@@ -1010,7 +1010,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				78 kW
 			</td>
 			<td>
-				 19 m 2 s
+				 19 m 26 s
 			</td>
 			<td>
 				34,6 kWh
@@ -1024,7 +1024,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				77 kW
 			</td>
 			<td>
-				 19 m 33 s
+				 19 m 58 s
 			</td>
 			<td>
 				35,2 kWh
@@ -1038,7 +1038,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				75 kW
 			</td>
 			<td>
-				 20 m 5 s
+				 20 m 31 s
 			</td>
 			<td>
 				35,8 kWh
@@ -1052,7 +1052,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				73 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 21 m 4 s
 			</td>
 			<td>
 				36,5 kWh
@@ -1066,7 +1066,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				71 kW
 			</td>
 			<td>
-				 21 m 11 s
+				 21 m 39 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1080,7 +1080,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				70 kW
 			</td>
 			<td>
-				 21 m 46 s
+				 22 m 14 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1094,7 +1094,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				68 kW
 			</td>
 			<td>
-				 22 m 21 s
+				 22 m 50 s
 			</td>
 			<td>
 				38,4 kWh
@@ -1108,7 +1108,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				67 kW
 			</td>
 			<td>
-				 22 m 57 s
+				 23 m 27 s
 			</td>
 			<td>
 				39,0 kWh
@@ -1122,7 +1122,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				65 kW
 			</td>
 			<td>
-				 23 m 34 s
+				 24 m 4 s
 			</td>
 			<td>
 				39,7 kWh
@@ -1136,7 +1136,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				64 kW
 			</td>
 			<td>
-				 24 m 11 s
+				 24 m 42 s
 			</td>
 			<td>
 				40,3 kWh
@@ -1150,7 +1150,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				63 kW
 			</td>
 			<td>
-				 24 m 49 s
+				 25 m 21 s
 			</td>
 			<td>
 				41,0 kWh
@@ -1164,7 +1164,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				62 kW
 			</td>
 			<td>
-				 25 m 28 s
+				 26 m 1 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1178,7 +1178,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				60 kW
 			</td>
 			<td>
-				 26 m 8 s
+				 26 m 42 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1192,7 +1192,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				59 kW
 			</td>
 			<td>
-				 26 m 49 s
+				 27 m 24 s
 			</td>
 			<td>
 				42,9 kWh
@@ -1206,7 +1206,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				58 kW
 			</td>
 			<td>
-				 27 m 31 s
+				 28 m 6 s
 			</td>
 			<td>
 				43,5 kWh
@@ -1220,7 +1220,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				56 kW
 			</td>
 			<td>
-				 28 m 13 s
+				 28 m 50 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1234,7 +1234,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				55 kW
 			</td>
 			<td>
-				 28 m 57 s
+				 29 m 34 s
 			</td>
 			<td>
 				44,8 kWh
@@ -1248,7 +1248,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				53 kW
 			</td>
 			<td>
-				 29 m 42 s
+				 30 m 20 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1262,7 +1262,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				50 kW
 			</td>
 			<td>
-				 30 m 29 s
+				 31 m 8 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1276,7 +1276,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				48 kW
 			</td>
 			<td>
-				 31 m 18 s
+				 31 m 59 s
 			</td>
 			<td>
 				46,7 kWh
@@ -1290,7 +1290,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				46 kW
 			</td>
 			<td>
-				 32 m 10 s
+				 32 m 51 s
 			</td>
 			<td>
 				47,4 kWh
@@ -1304,7 +1304,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				44 kW
 			</td>
 			<td>
-				 33 m 4 s
+				 33 m 47 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1318,7 +1318,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				41 kW
 			</td>
 			<td>
-				 34 m 1 s
+				 34 m 45 s
 			</td>
 			<td>
 				48,6 kWh
@@ -1332,7 +1332,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				39 kW
 			</td>
 			<td>
-				 35 m 2 s
+				 35 m 47 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1346,7 +1346,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				37 kW
 			</td>
 			<td>
-				 36 m 6 s
+				 36 m 53 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1360,7 +1360,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				34 kW
 			</td>
 			<td>
-				 37 m 15 s
+				 38 m 3 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1374,7 +1374,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				32 kW
 			</td>
 			<td>
-				 38 m 28 s
+				 39 m 17 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1388,7 +1388,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				9 kW
 			</td>
 			<td>
-				 40 m 26 s
+				 41 m 18 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1402,7 +1402,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				9 kW
 			</td>
 			<td>
-				 44 m 57 s
+				 45 m 55 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1416,7 +1416,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				9 kW
 			</td>
 			<td>
-				 49 m 32 s
+				 50 m 36 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1430,7 +1430,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				9 kW
 			</td>
 			<td>
-				 54 m 10 s
+				 55 m 20 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1444,7 +1444,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				9 kW
 			</td>
 			<td>
-				 58 m 51 s
+				1 h 0 m 7 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1458,7 +1458,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 3 m 37 s
+				1 h 4 m 59 s
 			</td>
 			<td>
 				55,0 kWh
@@ -1472,7 +1472,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 8 m 26 s
+				1 h 9 m 54 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1486,7 +1486,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 13 m 19 s
+				1 h 14 m 53 s
 			</td>
 			<td>
 				56,3 kWh
@@ -1500,7 +1500,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 18 m 16 s
+				1 h 19 m 57 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1514,7 +1514,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 23 m 17 s
+				1 h 25 m 4 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1528,7 +1528,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 28 m 24 s
+				1 h 30 m 18 s
 			</td>
 			<td>
 				58,2 kWh
@@ -1542,7 +1542,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				8 kW
 			</td>
 			<td>
-				1 h 33 m 39 s
+				1 h 35 m 40 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1556,7 +1556,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				7 kW
 			</td>
 			<td>
-				1 h 39 m 2 s
+				1 h 41 m 10 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1570,7 +1570,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				7 kW
 			</td>
 			<td>
-				1 h 44 m 34 s
+				1 h 46 m 49 s
 			</td>
 			<td>
 				60,2 kWh
@@ -1584,7 +1584,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				7 kW
 			</td>
 			<td>
-				1 h 50 m 16 s
+				1 h 52 m 38 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1598,7 +1598,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				7 kW
 			</td>
 			<td>
-				1 h 56 m 8 s
+				1 h 58 m 37 s
 			</td>
 			<td>
 				61,4 kWh
@@ -1612,7 +1612,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				7 kW
 			</td>
 			<td>
-				2 h 2 m 10 s
+				2 h 4 m 47 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1626,7 +1626,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				6 kW
 			</td>
 			<td>
-				2 h 8 m 23 s
+				2 h 11 m 8 s
 			</td>
 			<td>
 				62,7 kWh
@@ -1640,7 +1640,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				6 kW
 			</td>
 			<td>
-				2 h 14 m 48 s
+				2 h 17 m 42 s
 			</td>
 			<td>
 				63,4 kWh
@@ -1654,7 +1654,7 @@ Lexus RZ 450e har batteriopvarmning, hvilket gør opladning ved en optimal batte
 				6 kW
 			</td>
 			<td>
-				2 h 21 m 25 s
+				2 h 24 m 28 s
 			</td>
 			<td>
 				64,0 kWh

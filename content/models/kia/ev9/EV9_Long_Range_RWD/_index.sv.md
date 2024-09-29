@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 99,8 kWh och en nettoanvändb
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 563 km (199 miles), med en energiförbrukningshastighet på 17,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 72%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 150kW. Varje laddningssession tar 28 minuter och 51 sekunder. Denna effektiva laddningskapacitet gör Kia EV9 Long Range RWD till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 72%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 147kW. Varje laddningssession tar 28 minuter och 21 sekunder. Denna effektiva laddningskapacitet gör Kia EV9 Long Range RWD till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 22 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 78%, med en total laddningstid på 63 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 23 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 78%, med en total laddningstid på 64 minuter.
 
 ### Ombordladdare
 

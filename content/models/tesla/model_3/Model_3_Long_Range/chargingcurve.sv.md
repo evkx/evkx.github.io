@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
-description: "Här hittar du laddningskurvan för Tesla Model 3 Long Range."
+description: "Nedan visas laddningskurvan för Tesla Model 3 Long Range, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				66,1 kW
+				64,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				62,5 kW
+				61,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				79,6 kW
+				78,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				97,0 kW
+				95,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				118,9kW
+				117,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				14m23s
+				15m35s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				1 h 8 m 5 s
+				1 h 9 m 33 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				1 h 4 m 47 s
+				1 h 6 m 10 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 32 m 28 s
+				 33 m 10 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 0-100%
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,9 km (4,9 mi)
 			</td>
 			<td>
-				9,2 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,2 km (3,9 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-100%
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-80%
 			</td>
 			<td>
-				11,8 km (7,3 mi)
+				11,6 km (7,2 mi)
 			</td>
 			<td>
-				13,6 km (8,5 mi)
+				13,3 km (8,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,3 km (5,8 mi)
+				9,1 km (5,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +282,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				108 kW
 			</td>
 			<td>
-				 0 m 54 s
+				 0 m 56 s
 			</td>
 			<td>
 				1,5 kWh
@@ -296,7 +296,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				108 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 23 s
 			</td>
 			<td>
 				2,2 kWh
@@ -310,7 +310,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				108 kW
 			</td>
 			<td>
-				 1 m 47 s
+				 1 m 49 s
 			</td>
 			<td>
 				3,0 kWh
@@ -324,7 +324,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				108 kW
 			</td>
 			<td>
-				 2 m 13 s
+				 2 m 16 s
 			</td>
 			<td>
 				3,8 kWh
@@ -338,7 +338,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				230 kW
 			</td>
 			<td>
-				 2 m 30 s
+				 2 m 33 s
 			</td>
 			<td>
 				4,5 kWh
@@ -352,7 +352,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				235 kW
 			</td>
 			<td>
-				 2 m 42 s
+				 2 m 46 s
 			</td>
 			<td>
 				5,2 kWh
@@ -366,7 +366,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				240 kW
 			</td>
 			<td>
-				 2 m 54 s
+				 2 m 58 s
 			</td>
 			<td>
 				6,0 kWh
@@ -380,7 +380,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				245 kW
 			</td>
 			<td>
-				 3 m 6 s
+				 3 m 10 s
 			</td>
 			<td>
 				6,8 kWh
@@ -394,7 +394,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				249 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 3 m 22 s
 			</td>
 			<td>
 				7,5 kWh
@@ -408,7 +408,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				249 kW
 			</td>
 			<td>
-				 3 m 29 s
+				 3 m 34 s
 			</td>
 			<td>
 				8,2 kWh
@@ -422,7 +422,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				249 kW
 			</td>
 			<td>
-				 3 m 40 s
+				 3 m 45 s
 			</td>
 			<td>
 				9,0 kWh
@@ -436,7 +436,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				249 kW
 			</td>
 			<td>
-				 3 m 52 s
+				 3 m 57 s
 			</td>
 			<td>
 				9,8 kWh
@@ -450,7 +450,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				249 kW
 			</td>
 			<td>
-				 4 m 3 s
+				 4 m 9 s
 			</td>
 			<td>
 				10,5 kWh
@@ -464,7 +464,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				249 kW
 			</td>
 			<td>
-				 4 m 15 s
+				 4 m 20 s
 			</td>
 			<td>
 				11,2 kWh
@@ -478,7 +478,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				241 kW
 			</td>
 			<td>
-				 4 m 26 s
+				 4 m 32 s
 			</td>
 			<td>
 				12,0 kWh
@@ -492,7 +492,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				238 kW
 			</td>
 			<td>
-				 4 m 38 s
+				 4 m 44 s
 			</td>
 			<td>
 				12,8 kWh
@@ -506,7 +506,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				234 kW
 			</td>
 			<td>
-				 4 m 50 s
+				 4 m 56 s
 			</td>
 			<td>
 				13,5 kWh
@@ -520,7 +520,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				231 kW
 			</td>
 			<td>
-				 5 m 2 s
+				 5 m 9 s
 			</td>
 			<td>
 				14,2 kWh
@@ -534,7 +534,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				228 kW
 			</td>
 			<td>
-				 5 m 15 s
+				 5 m 22 s
 			</td>
 			<td>
 				15,0 kWh
@@ -548,7 +548,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				224 kW
 			</td>
 			<td>
-				 5 m 27 s
+				 5 m 34 s
 			</td>
 			<td>
 				15,8 kWh
@@ -562,7 +562,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				219 kW
 			</td>
 			<td>
-				 5 m 40 s
+				 5 m 48 s
 			</td>
 			<td>
 				16,5 kWh
@@ -576,7 +576,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				215 kW
 			</td>
 			<td>
-				 5 m 53 s
+				 6 m 1 s
 			</td>
 			<td>
 				17,2 kWh
@@ -590,7 +590,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				208 kW
 			</td>
 			<td>
-				 6 m 7 s
+				 6 m 15 s
 			</td>
 			<td>
 				18,0 kWh
@@ -604,7 +604,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				207 kW
 			</td>
 			<td>
-				 6 m 20 s
+				 6 m 29 s
 			</td>
 			<td>
 				18,8 kWh
@@ -618,7 +618,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				202 kW
 			</td>
 			<td>
-				 6 m 34 s
+				 6 m 43 s
 			</td>
 			<td>
 				19,5 kWh
@@ -632,7 +632,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				196 kW
 			</td>
 			<td>
-				 6 m 49 s
+				 6 m 57 s
 			</td>
 			<td>
 				20,2 kWh
@@ -646,7 +646,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				191 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 12 s
 			</td>
 			<td>
 				21,0 kWh
@@ -660,7 +660,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				186 kW
 			</td>
 			<td>
-				 7 m 18 s
+				 7 m 28 s
 			</td>
 			<td>
 				21,8 kWh
@@ -674,7 +674,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				184 kW
 			</td>
 			<td>
-				 7 m 34 s
+				 7 m 44 s
 			</td>
 			<td>
 				22,5 kWh
@@ -688,7 +688,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				179 kW
 			</td>
 			<td>
-				 7 m 49 s
+				 8 m 0 s
 			</td>
 			<td>
 				23,2 kWh
@@ -702,7 +702,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				175 kW
 			</td>
 			<td>
-				 8 m 5 s
+				 8 m 16 s
 			</td>
 			<td>
 				24,0 kWh
@@ -716,7 +716,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				169 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 33 s
 			</td>
 			<td>
 				24,8 kWh
@@ -730,7 +730,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				165 kW
 			</td>
 			<td>
-				 8 m 39 s
+				 8 m 50 s
 			</td>
 			<td>
 				25,5 kWh
@@ -744,7 +744,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				159 kW
 			</td>
 			<td>
-				 8 m 57 s
+				 9 m 8 s
 			</td>
 			<td>
 				26,2 kWh
@@ -758,7 +758,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				156 kW
 			</td>
 			<td>
-				 9 m 15 s
+				 9 m 27 s
 			</td>
 			<td>
 				27,0 kWh
@@ -772,7 +772,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				152 kW
 			</td>
 			<td>
-				 9 m 33 s
+				 9 m 45 s
 			</td>
 			<td>
 				27,8 kWh
@@ -786,7 +786,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				147 kW
 			</td>
 			<td>
-				 9 m 52 s
+				 10 m 5 s
 			</td>
 			<td>
 				28,5 kWh
@@ -800,7 +800,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				143 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 10 m 25 s
 			</td>
 			<td>
 				29,2 kWh
@@ -814,7 +814,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				140 kW
 			</td>
 			<td>
-				 10 m 32 s
+				 10 m 45 s
 			</td>
 			<td>
 				30,0 kWh
@@ -828,7 +828,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				135 kW
 			</td>
 			<td>
-				 10 m 52 s
+				 11 m 6 s
 			</td>
 			<td>
 				30,8 kWh
@@ -842,7 +842,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				130 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 11 m 28 s
 			</td>
 			<td>
 				31,5 kWh
@@ -856,7 +856,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				125 kW
 			</td>
 			<td>
-				 11 m 36 s
+				 11 m 51 s
 			</td>
 			<td>
 				32,2 kWh
@@ -870,7 +870,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				121 kW
 			</td>
 			<td>
-				 11 m 59 s
+				 12 m 15 s
 			</td>
 			<td>
 				33,0 kWh
@@ -884,7 +884,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				116 kW
 			</td>
 			<td>
-				 12 m 23 s
+				 12 m 39 s
 			</td>
 			<td>
 				33,8 kWh
@@ -898,7 +898,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				112 kW
 			</td>
 			<td>
-				 12 m 48 s
+				 13 m 5 s
 			</td>
 			<td>
 				34,5 kWh
@@ -912,7 +912,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				108 kW
 			</td>
 			<td>
-				 13 m 14 s
+				 13 m 31 s
 			</td>
 			<td>
 				35,2 kWh
@@ -926,7 +926,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				104 kW
 			</td>
 			<td>
-				 13 m 41 s
+				 13 m 59 s
 			</td>
 			<td>
 				36,0 kWh
@@ -940,7 +940,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				100 kW
 			</td>
 			<td>
-				 14 m 9 s
+				 14 m 27 s
 			</td>
 			<td>
 				36,8 kWh
@@ -954,7 +954,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				96 kW
 			</td>
 			<td>
-				 14 m 38 s
+				 14 m 57 s
 			</td>
 			<td>
 				37,5 kWh
@@ -968,7 +968,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				92 kW
 			</td>
 			<td>
-				 15 m 8 s
+				 15 m 27 s
 			</td>
 			<td>
 				38,2 kWh
@@ -982,7 +982,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				89 kW
 			</td>
 			<td>
-				 15 m 39 s
+				 16 m 0 s
 			</td>
 			<td>
 				39,0 kWh
@@ -996,7 +996,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				87 kW
 			</td>
 			<td>
-				 16 m 12 s
+				 16 m 33 s
 			</td>
 			<td>
 				39,8 kWh
@@ -1010,7 +1010,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				85 kW
 			</td>
 			<td>
-				 16 m 45 s
+				 17 m 6 s
 			</td>
 			<td>
 				40,5 kWh
@@ -1024,7 +1024,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				84 kW
 			</td>
 			<td>
-				 17 m 18 s
+				 17 m 41 s
 			</td>
 			<td>
 				41,2 kWh
@@ -1038,7 +1038,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				82 kW
 			</td>
 			<td>
-				 17 m 53 s
+				 18 m 16 s
 			</td>
 			<td>
 				42,0 kWh
@@ -1052,7 +1052,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				80 kW
 			</td>
 			<td>
-				 18 m 28 s
+				 18 m 51 s
 			</td>
 			<td>
 				42,8 kWh
@@ -1066,7 +1066,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				80 kW
 			</td>
 			<td>
-				 19 m 3 s
+				 19 m 28 s
 			</td>
 			<td>
 				43,5 kWh
@@ -1080,7 +1080,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				79 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 4 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1094,7 +1094,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				78 kW
 			</td>
 			<td>
-				 20 m 15 s
+				 20 m 41 s
 			</td>
 			<td>
 				45,0 kWh
@@ -1108,7 +1108,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				77 kW
 			</td>
 			<td>
-				 20 m 52 s
+				 21 m 19 s
 			</td>
 			<td>
 				45,8 kWh
@@ -1122,7 +1122,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				75 kW
 			</td>
 			<td>
-				 21 m 29 s
+				 21 m 57 s
 			</td>
 			<td>
 				46,5 kWh
@@ -1136,7 +1136,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				74 kW
 			</td>
 			<td>
-				 22 m 7 s
+				 22 m 36 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1150,7 +1150,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				73 kW
 			</td>
 			<td>
-				 22 m 46 s
+				 23 m 15 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1164,7 +1164,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				71 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 23 m 56 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1178,7 +1178,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				69 kW
 			</td>
 			<td>
-				 24 m 6 s
+				 24 m 37 s
 			</td>
 			<td>
 				49,5 kWh
@@ -1192,7 +1192,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				67 kW
 			</td>
 			<td>
-				 24 m 48 s
+				 25 m 20 s
 			</td>
 			<td>
 				50,2 kWh
@@ -1206,7 +1206,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				64 kW
 			</td>
 			<td>
-				 25 m 31 s
+				 26 m 4 s
 			</td>
 			<td>
 				51,0 kWh
@@ -1220,7 +1220,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				64 kW
 			</td>
 			<td>
-				 26 m 16 s
+				 26 m 50 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1234,7 +1234,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				62 kW
 			</td>
 			<td>
-				 27 m 1 s
+				 27 m 36 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1248,7 +1248,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				61 kW
 			</td>
 			<td>
-				 27 m 47 s
+				 28 m 23 s
 			</td>
 			<td>
 				53,2 kWh
@@ -1262,7 +1262,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				59 kW
 			</td>
 			<td>
-				 28 m 34 s
+				 29 m 11 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1276,7 +1276,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				58 kW
 			</td>
 			<td>
-				 29 m 23 s
+				 30 m 1 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1290,7 +1290,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				57 kW
 			</td>
 			<td>
-				 30 m 12 s
+				 30 m 51 s
 			</td>
 			<td>
 				55,5 kWh
@@ -1304,7 +1304,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				55 kW
 			</td>
 			<td>
-				 31 m 3 s
+				 31 m 43 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1318,7 +1318,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				54 kW
 			</td>
 			<td>
-				 31 m 55 s
+				 32 m 36 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1332,7 +1332,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				52 kW
 			</td>
 			<td>
-				 32 m 49 s
+				 33 m 31 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1346,7 +1346,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				49 kW
 			</td>
 			<td>
-				 33 m 45 s
+				 34 m 29 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1360,7 +1360,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				47 kW
 			</td>
 			<td>
-				 34 m 44 s
+				 35 m 29 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1374,7 +1374,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				45 kW
 			</td>
 			<td>
-				 35 m 46 s
+				 36 m 32 s
 			</td>
 			<td>
 				60,0 kWh
@@ -1388,7 +1388,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				43 kW
 			</td>
 			<td>
-				 36 m 51 s
+				 37 m 38 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1402,7 +1402,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				42 kW
 			</td>
 			<td>
-				 37 m 58 s
+				 38 m 47 s
 			</td>
 			<td>
 				61,5 kWh
@@ -1416,7 +1416,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				40 kW
 			</td>
 			<td>
-				 39 m 7 s
+				 39 m 57 s
 			</td>
 			<td>
 				62,2 kWh
@@ -1430,7 +1430,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				39 kW
 			</td>
 			<td>
-				 40 m 19 s
+				 41 m 11 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1444,7 +1444,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				37 kW
 			</td>
 			<td>
-				 41 m 34 s
+				 42 m 27 s
 			</td>
 			<td>
 				63,8 kWh
@@ -1458,7 +1458,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				37 kW
 			</td>
 			<td>
-				 42 m 51 s
+				 43 m 46 s
 			</td>
 			<td>
 				64,5 kWh
@@ -1472,7 +1472,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				35 kW
 			</td>
 			<td>
-				 44 m 9 s
+				 45 m 6 s
 			</td>
 			<td>
 				65,2 kWh
@@ -1486,7 +1486,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				34 kW
 			</td>
 			<td>
-				 45 m 32 s
+				 46 m 31 s
 			</td>
 			<td>
 				66,0 kWh
@@ -1500,7 +1500,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				32 kW
 			</td>
 			<td>
-				 46 m 58 s
+				 47 m 59 s
 			</td>
 			<td>
 				66,8 kWh
@@ -1514,7 +1514,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				30 kW
 			</td>
 			<td>
-				 48 m 30 s
+				 49 m 32 s
 			</td>
 			<td>
 				67,5 kWh
@@ -1528,7 +1528,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				29 kW
 			</td>
 			<td>
-				 50 m 6 s
+				 51 m 11 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1542,7 +1542,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				28 kW
 			</td>
 			<td>
-				 51 m 46 s
+				 52 m 53 s
 			</td>
 			<td>
 				69,0 kWh
@@ -1556,7 +1556,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				28 kW
 			</td>
 			<td>
-				 53 m 27 s
+				 54 m 36 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1570,7 +1570,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				27 kW
 			</td>
 			<td>
-				 55 m 11 s
+				 56 m 22 s
 			</td>
 			<td>
 				70,5 kWh
@@ -1584,7 +1584,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				26 kW
 			</td>
 			<td>
-				 56 m 58 s
+				 58 m 11 s
 			</td>
 			<td>
 				71,2 kWh
@@ -1598,7 +1598,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				26 kW
 			</td>
 			<td>
-				 58 m 47 s
+				1 h 0 m 3 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1612,7 +1612,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				25 kW
 			</td>
 			<td>
-				1 h 0 m 39 s
+				1 h 1 m 57 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1626,7 +1626,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				22 kW
 			</td>
 			<td>
-				1 h 2 m 40 s
+				1 h 4 m 0 s
 			</td>
 			<td>
 				73,5 kWh
@@ -1640,7 +1640,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				18 kW
 			</td>
 			<td>
-				1 h 5 m 2 s
+				1 h 6 m 26 s
 			</td>
 			<td>
 				74,2 kWh
@@ -1654,7 +1654,7 @@ Tesla Model 3 Long Range har batteriuppvärmning, vilket underlättar laddning v
 				13 kW
 			</td>
 			<td>
-				1 h 8 m 5 s
+				1 h 9 m 33 s
 			</td>
 			<td>
 				75,0 kWh

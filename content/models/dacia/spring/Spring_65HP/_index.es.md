@@ -34,7 +34,7 @@ La batería de alta capacidad tiene una capacidad bruta de 26,8 kWh y una capaci
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 220 km, con una tasa de consumo de energía de 11,4 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 30kW. Una carga completa del 0 al 100 % tardaría 80 minutos, mientras que un escenario más común del 10 al 80 % tardaría 40 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 67%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 25kW. Cada sesión de carga tardaría 39 minutos y 30 segundos.
+La velocidad máxima de carga de CC es 30kW. Una carga completa del 0 al 100 % tardaría 81 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 67%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 24kW. Cada sesión de carga tardaría 39 minutos y 13 segundos.
 
 ### Cargador a bordo
 

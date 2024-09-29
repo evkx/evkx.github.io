@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvänd
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 543 och 528 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,8 kWh/100 km för basmodellen och 14,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 132kW. Varje laddningssession tar 15 minuter och 20 sekunder.
+Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 130kW. Varje laddningssession tar 16 minuter och 33 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,0 kWh/100 km, skulle resan ta ungefär 9 timmar och 34 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 49%, med en total laddningstid på 75 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,0 kWh/100 km, skulle resan ta ungefär 9 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 49%, med en total laddningstid på 76 minuter.
 
 ### Ombordladdare
 

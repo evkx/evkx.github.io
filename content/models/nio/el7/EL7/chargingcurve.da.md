@@ -1,7 +1,7 @@
 ---
 title: Nio EL7 opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Nio EL7."
+description: "Nedan är laddningskurvan för Nio EL7, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -33,7 +33,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				71,7 kW
+				70,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -41,7 +41,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				69,3 kW
+				67,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -49,7 +49,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				87,0 kW
+				85,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				91,2 kW
+				89,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -81,7 +81,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Optimalt ladeområde
 			</td>
 			<td>
-				1% - 44%
+				1% - 43%
 			</td>
 		</tr>
 		<tr>
@@ -89,7 +89,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				85,9kW
+				84,4kW
 			</td>
 		</tr>
 		<tr>
@@ -97,7 +97,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				27m2s
+				27m52s
 			</td>
 		</tr>
 	</tbody>
@@ -122,7 +122,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				1 h 15 m 20 s
+				1 h 16 m 57 s
 			</td>
 		</tr>
 		<tr>
@@ -130,7 +130,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Opladningstid 10-100%
 			</td>
 			<td>
-				1 h 10 m 10 s
+				1 h 11 m 41 s
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 41 m 27 s
+				 42 m 20 s
 			</td>
 		</tr>
 	</tbody>
@@ -176,13 +176,13 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				?
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				6,7 km (4,2 mi)
 			</td>
 			<td>
-				5,0 km (3,1 mi)
+				4,9 km (3,0 mi)
 			</td>
 			<td>
-				4,7 km (2,9 mi)
+				4,6 km (2,9 mi)
 			</td>
 		</tr>
 		<tr>
@@ -193,13 +193,13 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				?
 			</td>
 			<td>
-				6,6 km (4,1 mi)
+				6,4 km (4,0 mi)
 			</td>
 			<td>
-				4,8 km (3,0 mi)
+				4,7 km (2,9 mi)
 			</td>
 			<td>
-				4,5 km (2,8 mi)
+				4,4 km (2,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -210,13 +210,13 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 				?
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,5 km (5,3 mi)
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -227,7 +227,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Nio EL7 har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -272,7 +272,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				100 kW
 			</td>
 			<td>
-				 0 m 45 s
+				 0 m 46 s
 			</td>
 			<td>
 				0,9 kWh
@@ -286,7 +286,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				105 kW
 			</td>
 			<td>
-				 1 m 18 s
+				 1 m 20 s
 			</td>
 			<td>
 				1,8 kWh
@@ -300,7 +300,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				110 kW
 			</td>
 			<td>
-				 1 m 50 s
+				 1 m 52 s
 			</td>
 			<td>
 				2,7 kWh
@@ -314,7 +314,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				115 kW
 			</td>
 			<td>
-				 2 m 20 s
+				 2 m 23 s
 			</td>
 			<td>
 				3,6 kWh
@@ -328,7 +328,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				120 kW
 			</td>
 			<td>
-				 2 m 49 s
+				 2 m 53 s
 			</td>
 			<td>
 				4,5 kWh
@@ -342,7 +342,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				121 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 3 m 22 s
 			</td>
 			<td>
 				5,4 kWh
@@ -356,7 +356,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				121 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				6,3 kWh
@@ -370,7 +370,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				122 kW
 			</td>
 			<td>
-				 4 m 14 s
+				 4 m 19 s
 			</td>
 			<td>
 				7,2 kWh
@@ -384,7 +384,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				122 kW
 			</td>
 			<td>
-				 4 m 42 s
+				 4 m 48 s
 			</td>
 			<td>
 				8,1 kWh
@@ -398,7 +398,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				123 kW
 			</td>
 			<td>
-				 5 m 10 s
+				 5 m 16 s
 			</td>
 			<td>
 				9,0 kWh
@@ -412,7 +412,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				123 kW
 			</td>
 			<td>
-				 5 m 37 s
+				 5 m 45 s
 			</td>
 			<td>
 				9,9 kWh
@@ -426,7 +426,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				125 kW
 			</td>
 			<td>
-				 6 m 5 s
+				 6 m 13 s
 			</td>
 			<td>
 				10,8 kWh
@@ -440,7 +440,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				125 kW
 			</td>
 			<td>
-				 6 m 32 s
+				 6 m 41 s
 			</td>
 			<td>
 				11,7 kWh
@@ -454,7 +454,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				125 kW
 			</td>
 			<td>
-				 6 m 59 s
+				 7 m 9 s
 			</td>
 			<td>
 				12,6 kWh
@@ -468,7 +468,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				126 kW
 			</td>
 			<td>
-				 7 m 27 s
+				 7 m 36 s
 			</td>
 			<td>
 				13,5 kWh
@@ -482,7 +482,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				126 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 8 m 4 s
 			</td>
 			<td>
 				14,4 kWh
@@ -496,7 +496,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				126 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 32 s
 			</td>
 			<td>
 				15,3 kWh
@@ -510,7 +510,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				127 kW
 			</td>
 			<td>
-				 8 m 48 s
+				 8 m 59 s
 			</td>
 			<td>
 				16,2 kWh
@@ -524,7 +524,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				126 kW
 			</td>
 			<td>
-				 9 m 15 s
+				 9 m 27 s
 			</td>
 			<td>
 				17,1 kWh
@@ -538,7 +538,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				125 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 54 s
 			</td>
 			<td>
 				18,0 kWh
@@ -552,7 +552,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				122 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 23 s
 			</td>
 			<td>
 				18,9 kWh
@@ -566,7 +566,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				120 kW
 			</td>
 			<td>
-				 10 m 38 s
+				 10 m 51 s
 			</td>
 			<td>
 				19,8 kWh
@@ -580,7 +580,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				117 kW
 			</td>
 			<td>
-				 11 m 6 s
+				 11 m 21 s
 			</td>
 			<td>
 				20,7 kWh
@@ -594,7 +594,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				116 kW
 			</td>
 			<td>
-				 11 m 36 s
+				 11 m 51 s
 			</td>
 			<td>
 				21,6 kWh
@@ -608,7 +608,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				115 kW
 			</td>
 			<td>
-				 12 m 5 s
+				 12 m 21 s
 			</td>
 			<td>
 				22,5 kWh
@@ -622,7 +622,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				114 kW
 			</td>
 			<td>
-				 12 m 35 s
+				 12 m 51 s
 			</td>
 			<td>
 				23,4 kWh
@@ -636,7 +636,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				112 kW
 			</td>
 			<td>
-				 13 m 5 s
+				 13 m 22 s
 			</td>
 			<td>
 				24,3 kWh
@@ -650,7 +650,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				110 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 54 s
 			</td>
 			<td>
 				25,2 kWh
@@ -664,7 +664,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				109 kW
 			</td>
 			<td>
-				 14 m 7 s
+				 14 m 25 s
 			</td>
 			<td>
 				26,1 kWh
@@ -678,7 +678,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 14 m 39 s
+				 14 m 57 s
 			</td>
 			<td>
 				27,0 kWh
@@ -692,7 +692,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				107 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 15 m 30 s
 			</td>
 			<td>
 				27,9 kWh
@@ -706,7 +706,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				105 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 3 s
 			</td>
 			<td>
 				28,8 kWh
@@ -720,7 +720,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				104 kW
 			</td>
 			<td>
-				 16 m 15 s
+				 16 m 36 s
 			</td>
 			<td>
 				29,7 kWh
@@ -734,7 +734,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				102 kW
 			</td>
 			<td>
-				 16 m 48 s
+				 17 m 10 s
 			</td>
 			<td>
 				30,6 kWh
@@ -748,7 +748,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				101 kW
 			</td>
 			<td>
-				 17 m 22 s
+				 17 m 44 s
 			</td>
 			<td>
 				31,5 kWh
@@ -762,7 +762,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				99 kW
 			</td>
 			<td>
-				 17 m 56 s
+				 18 m 19 s
 			</td>
 			<td>
 				32,4 kWh
@@ -776,7 +776,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				97 kW
 			</td>
 			<td>
-				 18 m 31 s
+				 18 m 55 s
 			</td>
 			<td>
 				33,3 kWh
@@ -790,7 +790,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				96 kW
 			</td>
 			<td>
-				 19 m 6 s
+				 19 m 31 s
 			</td>
 			<td>
 				34,2 kWh
@@ -804,7 +804,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				95 kW
 			</td>
 			<td>
-				 19 m 42 s
+				 20 m 7 s
 			</td>
 			<td>
 				35,1 kWh
@@ -818,7 +818,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				94 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 20 m 44 s
 			</td>
 			<td>
 				36,0 kWh
@@ -832,7 +832,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				92 kW
 			</td>
 			<td>
-				 20 m 55 s
+				 21 m 22 s
 			</td>
 			<td>
 				36,9 kWh
@@ -846,7 +846,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				91 kW
 			</td>
 			<td>
-				 21 m 32 s
+				 22 m 0 s
 			</td>
 			<td>
 				37,8 kWh
@@ -860,7 +860,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				91 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 38 s
 			</td>
 			<td>
 				38,7 kWh
@@ -874,7 +874,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 22 m 47 s
+				 23 m 16 s
 			</td>
 			<td>
 				39,6 kWh
@@ -888,7 +888,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				89 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 23 m 55 s
 			</td>
 			<td>
 				40,5 kWh
@@ -902,7 +902,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 24 m 4 s
+				 24 m 35 s
 			</td>
 			<td>
 				41,4 kWh
@@ -916,7 +916,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 24 m 43 s
+				 25 m 14 s
 			</td>
 			<td>
 				42,3 kWh
@@ -930,7 +930,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 25 m 22 s
+				 25 m 55 s
 			</td>
 			<td>
 				43,2 kWh
@@ -944,7 +944,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 26 m 1 s
+				 26 m 35 s
 			</td>
 			<td>
 				44,1 kWh
@@ -958,7 +958,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 26 m 41 s
+				 27 m 15 s
 			</td>
 			<td>
 				45,0 kWh
@@ -972,7 +972,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 27 m 20 s
+				 27 m 56 s
 			</td>
 			<td>
 				45,9 kWh
@@ -986,7 +986,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 27 m 59 s
+				 28 m 36 s
 			</td>
 			<td>
 				46,8 kWh
@@ -1000,7 +1000,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 28 m 39 s
+				 29 m 16 s
 			</td>
 			<td>
 				47,7 kWh
@@ -1014,7 +1014,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 29 m 18 s
+				 29 m 56 s
 			</td>
 			<td>
 				48,6 kWh
@@ -1028,7 +1028,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 29 m 57 s
+				 30 m 36 s
 			</td>
 			<td>
 				49,5 kWh
@@ -1042,7 +1042,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 30 m 36 s
+				 31 m 15 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1056,7 +1056,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 31 m 14 s
+				 31 m 55 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1070,7 +1070,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 31 m 53 s
+				 32 m 34 s
 			</td>
 			<td>
 				52,2 kWh
@@ -1084,7 +1084,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 32 m 32 s
+				 33 m 14 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1098,7 +1098,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 33 m 11 s
+				 33 m 53 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1112,7 +1112,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 33 m 49 s
+				 34 m 33 s
 			</td>
 			<td>
 				54,9 kWh
@@ -1126,7 +1126,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 34 m 28 s
+				 35 m 13 s
 			</td>
 			<td>
 				55,8 kWh
@@ -1140,7 +1140,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 35 m 7 s
+				 35 m 52 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1154,7 +1154,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 35 m 46 s
+				 36 m 33 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1168,7 +1168,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 36 m 26 s
+				 37 m 13 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1182,7 +1182,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 37 m 5 s
+				 37 m 53 s
 			</td>
 			<td>
 				59,4 kWh
@@ -1196,7 +1196,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 37 m 44 s
+				 38 m 33 s
 			</td>
 			<td>
 				60,3 kWh
@@ -1210,7 +1210,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 38 m 23 s
+				 39 m 13 s
 			</td>
 			<td>
 				61,2 kWh
@@ -1224,7 +1224,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 39 m 3 s
+				 39 m 53 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1238,7 +1238,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 39 m 42 s
+				 40 m 34 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1252,7 +1252,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 40 m 22 s
+				 41 m 14 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1266,7 +1266,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 41 m 2 s
+				 41 m 54 s
 			</td>
 			<td>
 				64,8 kWh
@@ -1280,7 +1280,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				85 kW
 			</td>
 			<td>
-				 41 m 41 s
+				 42 m 35 s
 			</td>
 			<td>
 				65,7 kWh
@@ -1294,7 +1294,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				84 kW
 			</td>
 			<td>
-				 42 m 22 s
+				 43 m 16 s
 			</td>
 			<td>
 				66,6 kWh
@@ -1308,7 +1308,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				83 kW
 			</td>
 			<td>
-				 43 m 3 s
+				 43 m 58 s
 			</td>
 			<td>
 				67,5 kWh
@@ -1322,7 +1322,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				82 kW
 			</td>
 			<td>
-				 43 m 44 s
+				 44 m 40 s
 			</td>
 			<td>
 				68,4 kWh
@@ -1336,7 +1336,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				80 kW
 			</td>
 			<td>
-				 44 m 26 s
+				 45 m 23 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1350,7 +1350,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				78 kW
 			</td>
 			<td>
-				 45 m 9 s
+				 46 m 8 s
 			</td>
 			<td>
 				70,2 kWh
@@ -1364,7 +1364,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				78 kW
 			</td>
 			<td>
-				 45 m 53 s
+				 46 m 52 s
 			</td>
 			<td>
 				71,1 kWh
@@ -1378,7 +1378,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				77 kW
 			</td>
 			<td>
-				 46 m 37 s
+				 47 m 37 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1392,7 +1392,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				75 kW
 			</td>
 			<td>
-				 47 m 22 s
+				 48 m 23 s
 			</td>
 			<td>
 				72,9 kWh
@@ -1406,7 +1406,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				74 kW
 			</td>
 			<td>
-				 48 m 8 s
+				 49 m 10 s
 			</td>
 			<td>
 				73,8 kWh
@@ -1420,7 +1420,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				73 kW
 			</td>
 			<td>
-				 48 m 54 s
+				 49 m 57 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1434,7 +1434,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				71 kW
 			</td>
 			<td>
-				 49 m 41 s
+				 50 m 46 s
 			</td>
 			<td>
 				75,6 kWh
@@ -1448,7 +1448,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				70 kW
 			</td>
 			<td>
-				 50 m 30 s
+				 51 m 35 s
 			</td>
 			<td>
 				76,5 kWh
@@ -1462,7 +1462,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				69 kW
 			</td>
 			<td>
-				 51 m 19 s
+				 52 m 25 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1476,7 +1476,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				68 kW
 			</td>
 			<td>
-				 52 m 9 s
+				 53 m 16 s
 			</td>
 			<td>
 				78,3 kWh
@@ -1490,7 +1490,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				66 kW
 			</td>
 			<td>
-				 53 m 0 s
+				 54 m 8 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1504,7 +1504,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				64 kW
 			</td>
 			<td>
-				 53 m 52 s
+				 55 m 2 s
 			</td>
 			<td>
 				80,1 kWh
@@ -1518,7 +1518,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				59 kW
 			</td>
 			<td>
-				 54 m 47 s
+				 55 m 58 s
 			</td>
 			<td>
 				81,0 kWh
@@ -1532,7 +1532,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				54 kW
 			</td>
 			<td>
-				 55 m 48 s
+				 57 m 0 s
 			</td>
 			<td>
 				81,9 kWh
@@ -1546,7 +1546,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				49 kW
 			</td>
 			<td>
-				 56 m 55 s
+				 58 m 8 s
 			</td>
 			<td>
 				82,8 kWh
@@ -1560,7 +1560,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				43 kW
 			</td>
 			<td>
-				 58 m 9 s
+				 59 m 24 s
 			</td>
 			<td>
 				83,7 kWh
@@ -1574,7 +1574,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				38 kW
 			</td>
 			<td>
-				 59 m 33 s
+				1 h 0 m 50 s
 			</td>
 			<td>
 				84,6 kWh
@@ -1588,7 +1588,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				33 kW
 			</td>
 			<td>
-				1 h 1 m 9 s
+				1 h 2 m 28 s
 			</td>
 			<td>
 				85,5 kWh
@@ -1602,7 +1602,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				28 kW
 			</td>
 			<td>
-				1 h 3 m 3 s
+				1 h 4 m 24 s
 			</td>
 			<td>
 				86,4 kWh
@@ -1616,7 +1616,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				22 kW
 			</td>
 			<td>
-				1 h 5 m 20 s
+				1 h 6 m 44 s
 			</td>
 			<td>
 				87,3 kWh
@@ -1630,7 +1630,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				17 kW
 			</td>
 			<td>
-				1 h 8 m 13 s
+				1 h 9 m 42 s
 			</td>
 			<td>
 				88,2 kWh
@@ -1644,7 +1644,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				16 kW
 			</td>
 			<td>
-				1 h 11 m 40 s
+				1 h 13 m 13 s
 			</td>
 			<td>
 				89,1 kWh
@@ -1658,7 +1658,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				15 kW
 			</td>
 			<td>
-				1 h 15 m 20 s
+				1 h 16 m 57 s
 			</td>
 			<td>
 				90,0 kWh
@@ -1691,7 +1691,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				65,3 kW
+				64,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -1699,7 +1699,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				66,5 kW
+				65,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -1707,7 +1707,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				83,0 kW
+				81,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -1715,7 +1715,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				87,1 kW
+				85,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -1747,7 +1747,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				76,7kW
+				75,3kW
 			</td>
 		</tr>
 		<tr>
@@ -1755,7 +1755,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				37m57s
+				38m39s
 			</td>
 		</tr>
 	</tbody>
@@ -1780,7 +1780,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				1 h 4 m 44 s
+				1 h 6 m 7 s
 			</td>
 		</tr>
 		<tr>
@@ -1788,7 +1788,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 57 m 13 s
+				 58 m 27 s
 			</td>
 		</tr>
 		<tr>
@@ -1796,7 +1796,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 34 m 0 s
+				 34 m 43 s
 			</td>
 		</tr>
 	</tbody>
@@ -1834,13 +1834,13 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				?
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 			<td>
-				4,5 km (2,8 mi)
+				4,4 km (2,7 mi)
 			</td>
 			<td>
-				4,3 km (2,7 mi)
+				4,2 km (2,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1851,10 +1851,10 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				?
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				4,6 km (2,9 mi)
+				4,5 km (2,8 mi)
 			</td>
 			<td>
 				4,3 km (2,7 mi)
@@ -1868,13 +1868,13 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
-				5,7 km (3,5 mi)
+				5,6 km (3,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1885,7 +1885,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Nio EL7 har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1930,7 +1930,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				37 kW
 			</td>
 			<td>
-				 1 m 19 s
+				 1 m 21 s
 			</td>
 			<td>
 				0,7 kWh
@@ -1944,7 +1944,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				45 kW
 			</td>
 			<td>
-				 2 m 24 s
+				 2 m 27 s
 			</td>
 			<td>
 				1,4 kWh
@@ -1958,7 +1958,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				52 kW
 			</td>
 			<td>
-				 3 m 20 s
+				 3 m 24 s
 			</td>
 			<td>
 				2,1 kWh
@@ -1972,7 +1972,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				59 kW
 			</td>
 			<td>
-				 4 m 8 s
+				 4 m 13 s
 			</td>
 			<td>
 				2,8 kWh
@@ -1986,7 +1986,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				67 kW
 			</td>
 			<td>
-				 4 m 50 s
+				 4 m 56 s
 			</td>
 			<td>
 				3,5 kWh
@@ -2000,7 +2000,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				74 kW
 			</td>
 			<td>
-				 5 m 28 s
+				 5 m 35 s
 			</td>
 			<td>
 				4,2 kWh
@@ -2014,7 +2014,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				81 kW
 			</td>
 			<td>
-				 6 m 3 s
+				 6 m 10 s
 			</td>
 			<td>
 				4,9 kWh
@@ -2028,7 +2028,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 6 m 34 s
+				 6 m 43 s
 			</td>
 			<td>
 				5,6 kWh
@@ -2042,7 +2042,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				96 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 12 s
 			</td>
 			<td>
 				6,3 kWh
@@ -2056,7 +2056,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				103 kW
 			</td>
 			<td>
-				 7 m 30 s
+				 7 m 40 s
 			</td>
 			<td>
 				7,0 kWh
@@ -2070,7 +2070,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				103 kW
 			</td>
 			<td>
-				 7 m 56 s
+				 8 m 6 s
 			</td>
 			<td>
 				7,8 kWh
@@ -2084,7 +2084,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				105 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 33 s
 			</td>
 			<td>
 				8,5 kWh
@@ -2098,7 +2098,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				105 kW
 			</td>
 			<td>
-				 8 m 47 s
+				 8 m 59 s
 			</td>
 			<td>
 				9,2 kWh
@@ -2112,7 +2112,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				106 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 9 m 24 s
 			</td>
 			<td>
 				9,9 kWh
@@ -2126,7 +2126,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				106 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 9 m 50 s
 			</td>
 			<td>
 				10,6 kWh
@@ -2140,7 +2140,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 10 m 3 s
+				 10 m 16 s
 			</td>
 			<td>
 				11,3 kWh
@@ -2154,7 +2154,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 10 m 27 s
+				 10 m 41 s
 			</td>
 			<td>
 				12,0 kWh
@@ -2168,7 +2168,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 10 m 52 s
+				 11 m 6 s
 			</td>
 			<td>
 				12,7 kWh
@@ -2182,7 +2182,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 11 m 31 s
 			</td>
 			<td>
 				13,4 kWh
@@ -2196,7 +2196,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 11 m 42 s
+				 11 m 57 s
 			</td>
 			<td>
 				14,1 kWh
@@ -2210,7 +2210,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 12 m 6 s
+				 12 m 22 s
 			</td>
 			<td>
 				14,8 kWh
@@ -2224,7 +2224,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				108 kW
 			</td>
 			<td>
-				 12 m 31 s
+				 12 m 47 s
 			</td>
 			<td>
 				15,5 kWh
@@ -2238,7 +2238,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				109 kW
 			</td>
 			<td>
-				 12 m 56 s
+				 13 m 12 s
 			</td>
 			<td>
 				16,2 kWh
@@ -2252,7 +2252,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				109 kW
 			</td>
 			<td>
-				 13 m 20 s
+				 13 m 37 s
 			</td>
 			<td>
 				16,9 kWh
@@ -2266,7 +2266,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				109 kW
 			</td>
 			<td>
-				 13 m 45 s
+				 14 m 2 s
 			</td>
 			<td>
 				17,6 kWh
@@ -2280,7 +2280,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				109 kW
 			</td>
 			<td>
-				 14 m 9 s
+				 14 m 28 s
 			</td>
 			<td>
 				18,3 kWh
@@ -2294,7 +2294,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				109 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 53 s
 			</td>
 			<td>
 				19,0 kWh
@@ -2308,7 +2308,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 15 m 1 s
+				 15 m 20 s
 			</td>
 			<td>
 				19,7 kWh
@@ -2322,7 +2322,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 15 m 30 s
+				 15 m 50 s
 			</td>
 			<td>
 				20,4 kWh
@@ -2336,7 +2336,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 16 m 0 s
+				 16 m 21 s
 			</td>
 			<td>
 				21,2 kWh
@@ -2350,7 +2350,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 16 m 51 s
 			</td>
 			<td>
 				21,9 kWh
@@ -2364,7 +2364,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 16 m 59 s
+				 17 m 21 s
 			</td>
 			<td>
 				22,6 kWh
@@ -2378,7 +2378,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 17 m 29 s
+				 17 m 52 s
 			</td>
 			<td>
 				23,3 kWh
@@ -2392,7 +2392,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 17 m 59 s
+				 18 m 22 s
 			</td>
 			<td>
 				24,0 kWh
@@ -2406,7 +2406,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 18 m 28 s
+				 18 m 52 s
 			</td>
 			<td>
 				24,7 kWh
@@ -2420,7 +2420,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 18 m 58 s
+				 19 m 23 s
 			</td>
 			<td>
 				25,4 kWh
@@ -2434,7 +2434,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 19 m 28 s
+				 19 m 53 s
 			</td>
 			<td>
 				26,1 kWh
@@ -2448,7 +2448,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 19 m 57 s
+				 20 m 23 s
 			</td>
 			<td>
 				26,8 kWh
@@ -2462,7 +2462,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 20 m 27 s
+				 20 m 54 s
 			</td>
 			<td>
 				27,5 kWh
@@ -2476,7 +2476,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 20 m 57 s
+				 21 m 24 s
 			</td>
 			<td>
 				28,2 kWh
@@ -2490,7 +2490,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 21 m 27 s
+				 21 m 54 s
 			</td>
 			<td>
 				28,9 kWh
@@ -2504,7 +2504,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 21 m 56 s
+				 22 m 25 s
 			</td>
 			<td>
 				29,6 kWh
@@ -2518,7 +2518,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 22 m 26 s
+				 22 m 55 s
 			</td>
 			<td>
 				30,3 kWh
@@ -2532,7 +2532,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 22 m 56 s
+				 23 m 25 s
 			</td>
 			<td>
 				31,0 kWh
@@ -2546,7 +2546,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 23 m 55 s
 			</td>
 			<td>
 				31,7 kWh
@@ -2560,7 +2560,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 23 m 55 s
+				 24 m 26 s
 			</td>
 			<td>
 				32,4 kWh
@@ -2574,7 +2574,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 24 m 25 s
+				 24 m 56 s
 			</td>
 			<td>
 				33,1 kWh
@@ -2588,7 +2588,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 24 m 54 s
+				 25 m 26 s
 			</td>
 			<td>
 				33,8 kWh
@@ -2602,7 +2602,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 25 m 24 s
+				 25 m 57 s
 			</td>
 			<td>
 				34,5 kWh
@@ -2616,7 +2616,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 25 m 54 s
+				 26 m 27 s
 			</td>
 			<td>
 				35,2 kWh
@@ -2630,7 +2630,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 26 m 23 s
+				 26 m 57 s
 			</td>
 			<td>
 				36,0 kWh
@@ -2644,7 +2644,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 26 m 53 s
+				 27 m 28 s
 			</td>
 			<td>
 				36,7 kWh
@@ -2658,7 +2658,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 27 m 23 s
+				 27 m 58 s
 			</td>
 			<td>
 				37,4 kWh
@@ -2672,7 +2672,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 27 m 52 s
+				 28 m 28 s
 			</td>
 			<td>
 				38,1 kWh
@@ -2686,7 +2686,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 28 m 22 s
+				 28 m 59 s
 			</td>
 			<td>
 				38,8 kWh
@@ -2700,7 +2700,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 28 m 52 s
+				 29 m 29 s
 			</td>
 			<td>
 				39,5 kWh
@@ -2714,7 +2714,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 29 m 21 s
+				 29 m 59 s
 			</td>
 			<td>
 				40,2 kWh
@@ -2728,7 +2728,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				94 kW
 			</td>
 			<td>
-				 29 m 50 s
+				 30 m 29 s
 			</td>
 			<td>
 				40,9 kWh
@@ -2742,7 +2742,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				93 kW
 			</td>
 			<td>
-				 30 m 19 s
+				 30 m 58 s
 			</td>
 			<td>
 				41,6 kWh
@@ -2756,7 +2756,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				92 kW
 			</td>
 			<td>
-				 30 m 48 s
+				 31 m 28 s
 			</td>
 			<td>
 				42,3 kWh
@@ -2770,7 +2770,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				91 kW
 			</td>
 			<td>
-				 31 m 17 s
+				 31 m 58 s
 			</td>
 			<td>
 				43,0 kWh
@@ -2784,7 +2784,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				91 kW
 			</td>
 			<td>
-				 31 m 47 s
+				 32 m 28 s
 			</td>
 			<td>
 				43,7 kWh
@@ -2798,7 +2798,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				90 kW
 			</td>
 			<td>
-				 32 m 16 s
+				 32 m 58 s
 			</td>
 			<td>
 				44,4 kWh
@@ -2812,7 +2812,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				89 kW
 			</td>
 			<td>
-				 32 m 46 s
+				 33 m 28 s
 			</td>
 			<td>
 				45,1 kWh
@@ -2826,7 +2826,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				88 kW
 			</td>
 			<td>
-				 33 m 16 s
+				 33 m 59 s
 			</td>
 			<td>
 				45,8 kWh
@@ -2840,7 +2840,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 33 m 47 s
+				 34 m 30 s
 			</td>
 			<td>
 				46,5 kWh
@@ -2854,7 +2854,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				87 kW
 			</td>
 			<td>
-				 34 m 17 s
+				 35 m 2 s
 			</td>
 			<td>
 				47,2 kWh
@@ -2868,7 +2868,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				86 kW
 			</td>
 			<td>
-				 34 m 48 s
+				 35 m 33 s
 			</td>
 			<td>
 				47,9 kWh
@@ -2882,7 +2882,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				85 kW
 			</td>
 			<td>
-				 35 m 19 s
+				 36 m 5 s
 			</td>
 			<td>
 				48,6 kWh
@@ -2896,7 +2896,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				84 kW
 			</td>
 			<td>
-				 35 m 51 s
+				 36 m 37 s
 			</td>
 			<td>
 				49,4 kWh
@@ -2910,7 +2910,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				84 kW
 			</td>
 			<td>
-				 36 m 23 s
+				 37 m 10 s
 			</td>
 			<td>
 				50,1 kWh
@@ -2924,7 +2924,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				83 kW
 			</td>
 			<td>
-				 36 m 55 s
+				 37 m 42 s
 			</td>
 			<td>
 				50,8 kWh
@@ -2938,7 +2938,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				82 kW
 			</td>
 			<td>
-				 37 m 27 s
+				 38 m 16 s
 			</td>
 			<td>
 				51,5 kWh
@@ -2952,7 +2952,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				81 kW
 			</td>
 			<td>
-				 38 m 0 s
+				 38 m 49 s
 			</td>
 			<td>
 				52,2 kWh
@@ -2966,7 +2966,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				79 kW
 			</td>
 			<td>
-				 38 m 33 s
+				 39 m 23 s
 			</td>
 			<td>
 				52,9 kWh
@@ -2980,7 +2980,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				76 kW
 			</td>
 			<td>
-				 39 m 8 s
+				 39 m 58 s
 			</td>
 			<td>
 				53,6 kWh
@@ -2994,7 +2994,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				77 kW
 			</td>
 			<td>
-				 39 m 43 s
+				 40 m 34 s
 			</td>
 			<td>
 				54,3 kWh
@@ -3008,7 +3008,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				75 kW
 			</td>
 			<td>
-				 40 m 18 s
+				 41 m 10 s
 			</td>
 			<td>
 				55,0 kWh
@@ -3022,7 +3022,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				74 kW
 			</td>
 			<td>
-				 40 m 54 s
+				 41 m 47 s
 			</td>
 			<td>
 				55,7 kWh
@@ -3036,7 +3036,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				73 kW
 			</td>
 			<td>
-				 41 m 30 s
+				 42 m 24 s
 			</td>
 			<td>
 				56,4 kWh
@@ -3050,7 +3050,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				72 kW
 			</td>
 			<td>
-				 42 m 7 s
+				 43 m 1 s
 			</td>
 			<td>
 				57,1 kWh
@@ -3064,7 +3064,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				70 kW
 			</td>
 			<td>
-				 42 m 45 s
+				 43 m 40 s
 			</td>
 			<td>
 				57,8 kWh
@@ -3078,7 +3078,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				69 kW
 			</td>
 			<td>
-				 43 m 23 s
+				 44 m 19 s
 			</td>
 			<td>
 				58,5 kWh
@@ -3092,7 +3092,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				67 kW
 			</td>
 			<td>
-				 44 m 2 s
+				 44 m 59 s
 			</td>
 			<td>
 				59,2 kWh
@@ -3106,7 +3106,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				66 kW
 			</td>
 			<td>
-				 44 m 43 s
+				 45 m 40 s
 			</td>
 			<td>
 				59,9 kWh
@@ -3120,7 +3120,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				65 kW
 			</td>
 			<td>
-				 45 m 23 s
+				 46 m 22 s
 			</td>
 			<td>
 				60,6 kWh
@@ -3134,7 +3134,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				63 kW
 			</td>
 			<td>
-				 46 m 5 s
+				 47 m 5 s
 			</td>
 			<td>
 				61,3 kWh
@@ -3148,7 +3148,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				62 kW
 			</td>
 			<td>
-				 46 m 48 s
+				 47 m 48 s
 			</td>
 			<td>
 				62,0 kWh
@@ -3162,7 +3162,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				60 kW
 			</td>
 			<td>
-				 47 m 32 s
+				 48 m 33 s
 			</td>
 			<td>
 				62,7 kWh
@@ -3176,7 +3176,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				56 kW
 			</td>
 			<td>
-				 48 m 18 s
+				 49 m 20 s
 			</td>
 			<td>
 				63,4 kWh
@@ -3190,7 +3190,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				51 kW
 			</td>
 			<td>
-				 49 m 8 s
+				 50 m 11 s
 			</td>
 			<td>
 				64,2 kWh
@@ -3204,7 +3204,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				46 kW
 			</td>
 			<td>
-				 50 m 2 s
+				 51 m 7 s
 			</td>
 			<td>
 				64,9 kWh
@@ -3218,7 +3218,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				41 kW
 			</td>
 			<td>
-				 51 m 3 s
+				 52 m 9 s
 			</td>
 			<td>
 				65,6 kWh
@@ -3232,7 +3232,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				37 kW
 			</td>
 			<td>
-				 52 m 12 s
+				 53 m 19 s
 			</td>
 			<td>
 				66,3 kWh
@@ -3246,7 +3246,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				32 kW
 			</td>
 			<td>
-				 53 m 30 s
+				 54 m 40 s
 			</td>
 			<td>
 				67,0 kWh
@@ -3260,7 +3260,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				27 kW
 			</td>
 			<td>
-				 55 m 2 s
+				 56 m 13 s
 			</td>
 			<td>
 				67,7 kWh
@@ -3274,7 +3274,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				22 kW
 			</td>
 			<td>
-				 56 m 52 s
+				 58 m 5 s
 			</td>
 			<td>
 				68,4 kWh
@@ -3288,7 +3288,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				17 kW
 			</td>
 			<td>
-				 59 m 9 s
+				1 h 0 m 26 s
 			</td>
 			<td>
 				69,1 kWh
@@ -3302,7 +3302,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				16 kW
 			</td>
 			<td>
-				1 h 1 m 51 s
+				1 h 3 m 11 s
 			</td>
 			<td>
 				69,8 kWh
@@ -3316,7 +3316,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 				15 kW
 			</td>
 			<td>
-				1 h 4 m 44 s
+				1 h 6 m 7 s
 			</td>
 			<td>
 				70,5 kWh

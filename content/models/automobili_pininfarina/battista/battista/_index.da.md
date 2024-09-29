@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 120,0 kWh og en nettoanvend
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 490 km, med et energiforbrugsrate på 21,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 34 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 222kW. Hver opladningssession ville tage 20 minutter og 54 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Automobili Pininfarina Battista til en af de mest effektive og bekvemme elbiler til langdistancerejser.
+Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 35 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 17 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 219kW. Hver opladningssession ville tage 20 minutter og 13 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Automobili Pininfarina Battista til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 8 timer og 56 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 66%, med en samlet opladningstid på 37 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 8 timer og 57 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 66%, med en samlet opladningstid på 37 minutter
 
 ### Ombordlader
 

@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C4 X laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
-description: "Här hittar du laddningskurvan för Citroën ë-C4 X."
+description: "Nedan visas laddningskurvan för Citroën ë-C4 X, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				57,2 kW
+				56,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				55,7 kW
+				54,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				66,5 kW
+				65,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				74,9 kW
+				73,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt laddningsområde
 			</td>
 			<td>
-				2% - 61%
+				2% - 60%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				68,7kW
+				67,6kW
 			</td>
 		</tr>
 		<tr>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				 53 m 17 s
+				 54 m 26 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				 49 m 15 s
+				 50 m 18 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 28 m 29 s
+				 29 m 6 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,24 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,5 km (4,7 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				5,0 km (3,1 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Räckvidd per minut 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				7,3 km (4,5 mi)
+				7,4 km (4,6 mi)
 			</td>
 			<td>
 				?
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,8 km (3,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Räckvidd per minut 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,9 km (6,2 mi)
+				9,7 km (6,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,6 km (4,1 mi)
+				6,4 km (4,0 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -279,7 +279,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				70 kW
 			</td>
 			<td>
-				 1 m 4 s
+				 1 m 6 s
 			</td>
 			<td>
 				1,0 kWh
@@ -293,7 +293,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				80 kW
 			</td>
 			<td>
-				 1 m 30 s
+				 1 m 32 s
 			</td>
 			<td>
 				1,5 kWh
@@ -307,7 +307,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				82 kW
 			</td>
 			<td>
-				 1 m 54 s
+				 1 m 56 s
 			</td>
 			<td>
 				2,0 kWh
@@ -321,7 +321,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				83 kW
 			</td>
 			<td>
-				 2 m 17 s
+				 2 m 20 s
 			</td>
 			<td>
 				2,5 kWh
@@ -335,7 +335,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 2 m 40 s
+				 2 m 43 s
 			</td>
 			<td>
 				3,0 kWh
@@ -349,7 +349,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				89 kW
 			</td>
 			<td>
-				 3 m 2 s
+				 3 m 6 s
 			</td>
 			<td>
 				3,6 kWh
@@ -363,7 +363,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				94 kW
 			</td>
 			<td>
-				 3 m 23 s
+				 3 m 27 s
 			</td>
 			<td>
 				4,1 kWh
@@ -377,7 +377,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				98 kW
 			</td>
 			<td>
-				 3 m 43 s
+				 3 m 48 s
 			</td>
 			<td>
 				4,6 kWh
@@ -391,7 +391,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				102 kW
 			</td>
 			<td>
-				 4 m 2 s
+				 4 m 8 s
 			</td>
 			<td>
 				5,1 kWh
@@ -405,7 +405,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				103 kW
 			</td>
 			<td>
-				 4 m 21 s
+				 4 m 27 s
 			</td>
 			<td>
 				5,6 kWh
@@ -419,7 +419,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				104 kW
 			</td>
 			<td>
-				 4 m 40 s
+				 4 m 46 s
 			</td>
 			<td>
 				6,1 kWh
@@ -433,7 +433,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				105 kW
 			</td>
 			<td>
-				 4 m 58 s
+				 5 m 5 s
 			</td>
 			<td>
 				6,6 kWh
@@ -447,7 +447,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				105 kW
 			</td>
 			<td>
-				 5 m 17 s
+				 5 m 23 s
 			</td>
 			<td>
 				7,1 kWh
@@ -461,7 +461,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				106 kW
 			</td>
 			<td>
-				 5 m 35 s
+				 5 m 42 s
 			</td>
 			<td>
 				7,6 kWh
@@ -475,7 +475,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				106 kW
 			</td>
 			<td>
-				 5 m 53 s
+				 6 m 1 s
 			</td>
 			<td>
 				8,1 kWh
@@ -489,7 +489,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				106 kW
 			</td>
 			<td>
-				 6 m 11 s
+				 6 m 19 s
 			</td>
 			<td>
 				8,6 kWh
@@ -503,7 +503,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				106 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 6 m 38 s
 			</td>
 			<td>
 				9,1 kWh
@@ -517,7 +517,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				106 kW
 			</td>
 			<td>
-				 6 m 47 s
+				 6 m 56 s
 			</td>
 			<td>
 				9,7 kWh
@@ -531,7 +531,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				107 kW
 			</td>
 			<td>
-				 7 m 5 s
+				 7 m 15 s
 			</td>
 			<td>
 				10,2 kWh
@@ -545,7 +545,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				107 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 33 s
 			</td>
 			<td>
 				10,7 kWh
@@ -559,7 +559,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				95 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 7 m 52 s
 			</td>
 			<td>
 				11,2 kWh
@@ -573,7 +573,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				96 kW
 			</td>
 			<td>
-				 8 m 3 s
+				 8 m 13 s
 			</td>
 			<td>
 				11,7 kWh
@@ -587,7 +587,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				95 kW
 			</td>
 			<td>
-				 8 m 23 s
+				 8 m 34 s
 			</td>
 			<td>
 				12,2 kWh
@@ -601,7 +601,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				96 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 8 m 54 s
 			</td>
 			<td>
 				12,7 kWh
@@ -615,7 +615,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				96 kW
 			</td>
 			<td>
-				 9 m 3 s
+				 9 m 15 s
 			</td>
 			<td>
 				13,2 kWh
@@ -629,7 +629,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				96 kW
 			</td>
 			<td>
-				 9 m 23 s
+				 9 m 35 s
 			</td>
 			<td>
 				13,7 kWh
@@ -643,7 +643,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				96 kW
 			</td>
 			<td>
-				 9 m 43 s
+				 9 m 56 s
 			</td>
 			<td>
 				14,2 kWh
@@ -657,7 +657,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 10 m 4 s
+				 10 m 17 s
 			</td>
 			<td>
 				14,7 kWh
@@ -671,7 +671,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				84 kW
 			</td>
 			<td>
-				 10 m 27 s
+				 10 m 41 s
 			</td>
 			<td>
 				15,2 kWh
@@ -685,7 +685,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 10 m 50 s
+				 11 m 4 s
 			</td>
 			<td>
 				15,7 kWh
@@ -699,7 +699,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 11 m 13 s
+				 11 m 27 s
 			</td>
 			<td>
 				16,3 kWh
@@ -713,7 +713,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 11 m 35 s
+				 11 m 50 s
 			</td>
 			<td>
 				16,8 kWh
@@ -727,7 +727,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 11 m 58 s
+				 12 m 13 s
 			</td>
 			<td>
 				17,3 kWh
@@ -741,7 +741,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				17,8 kWh
@@ -755,7 +755,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 12 m 43 s
+				 13 m 0 s
 			</td>
 			<td>
 				18,3 kWh
@@ -769,7 +769,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 13 m 5 s
+				 13 m 22 s
 			</td>
 			<td>
 				18,8 kWh
@@ -783,7 +783,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 13 m 28 s
+				 13 m 45 s
 			</td>
 			<td>
 				19,3 kWh
@@ -797,7 +797,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 13 m 50 s
+				 14 m 8 s
 			</td>
 			<td>
 				19,8 kWh
@@ -811,7 +811,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 14 m 13 s
+				 14 m 31 s
 			</td>
 			<td>
 				20,3 kWh
@@ -825,7 +825,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 14 m 35 s
+				 14 m 54 s
 			</td>
 			<td>
 				20,8 kWh
@@ -839,7 +839,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 14 m 57 s
+				 15 m 17 s
 			</td>
 			<td>
 				21,3 kWh
@@ -853,7 +853,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 15 m 19 s
+				 15 m 39 s
 			</td>
 			<td>
 				21,8 kWh
@@ -867,7 +867,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 2 s
 			</td>
 			<td>
 				22,4 kWh
@@ -881,7 +881,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 16 m 4 s
+				 16 m 24 s
 			</td>
 			<td>
 				22,9 kWh
@@ -895,7 +895,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				88 kW
 			</td>
 			<td>
-				 16 m 26 s
+				 16 m 47 s
 			</td>
 			<td>
 				23,4 kWh
@@ -909,7 +909,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 16 m 48 s
+				 17 m 9 s
 			</td>
 			<td>
 				23,9 kWh
@@ -923,7 +923,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 17 m 10 s
+				 17 m 32 s
 			</td>
 			<td>
 				24,4 kWh
@@ -937,7 +937,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 17 m 32 s
+				 17 m 55 s
 			</td>
 			<td>
 				24,9 kWh
@@ -951,7 +951,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 18 m 17 s
 			</td>
 			<td>
 				25,4 kWh
@@ -965,7 +965,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				85 kW
 			</td>
 			<td>
-				 18 m 17 s
+				 18 m 41 s
 			</td>
 			<td>
 				25,9 kWh
@@ -979,7 +979,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 18 m 39 s
+				 19 m 4 s
 			</td>
 			<td>
 				26,4 kWh
@@ -993,7 +993,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				86 kW
 			</td>
 			<td>
-				 19 m 2 s
+				 19 m 26 s
 			</td>
 			<td>
 				26,9 kWh
@@ -1007,7 +1007,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 19 m 24 s
+				 19 m 49 s
 			</td>
 			<td>
 				27,4 kWh
@@ -1021,7 +1021,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				87 kW
 			</td>
 			<td>
-				 19 m 46 s
+				 20 m 12 s
 			</td>
 			<td>
 				27,9 kWh
@@ -1035,7 +1035,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				88 kW
 			</td>
 			<td>
-				 20 m 8 s
+				 20 m 34 s
 			</td>
 			<td>
 				28,4 kWh
@@ -1049,7 +1049,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				83 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 20 m 57 s
 			</td>
 			<td>
 				29,0 kWh
@@ -1063,7 +1063,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				74 kW
 			</td>
 			<td>
-				 20 m 55 s
+				 21 m 22 s
 			</td>
 			<td>
 				29,5 kWh
@@ -1077,7 +1077,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				74 kW
 			</td>
 			<td>
-				 21 m 21 s
+				 21 m 49 s
 			</td>
 			<td>
 				30,0 kWh
@@ -1091,7 +1091,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				74 kW
 			</td>
 			<td>
-				 21 m 47 s
+				 22 m 15 s
 			</td>
 			<td>
 				30,5 kWh
@@ -1105,7 +1105,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				71 kW
 			</td>
 			<td>
-				 22 m 14 s
+				 22 m 43 s
 			</td>
 			<td>
 				31,0 kWh
@@ -1119,7 +1119,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				71 kW
 			</td>
 			<td>
-				 22 m 41 s
+				 23 m 10 s
 			</td>
 			<td>
 				31,5 kWh
@@ -1133,7 +1133,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				71 kW
 			</td>
 			<td>
-				 23 m 8 s
+				 23 m 38 s
 			</td>
 			<td>
 				32,0 kWh
@@ -1147,7 +1147,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				71 kW
 			</td>
 			<td>
-				 23 m 35 s
+				 24 m 6 s
 			</td>
 			<td>
 				32,5 kWh
@@ -1161,7 +1161,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				71 kW
 			</td>
 			<td>
-				 24 m 2 s
+				 24 m 33 s
 			</td>
 			<td>
 				33,0 kWh
@@ -1175,7 +1175,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				72 kW
 			</td>
 			<td>
-				 24 m 29 s
+				 25 m 1 s
 			</td>
 			<td>
 				33,5 kWh
@@ -1189,7 +1189,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				64 kW
 			</td>
 			<td>
-				 24 m 58 s
+				 25 m 30 s
 			</td>
 			<td>
 				34,0 kWh
@@ -1203,7 +1203,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				64 kW
 			</td>
 			<td>
-				 25 m 28 s
+				 26 m 0 s
 			</td>
 			<td>
 				34,5 kWh
@@ -1217,7 +1217,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				64 kW
 			</td>
 			<td>
-				 25 m 58 s
+				 26 m 31 s
 			</td>
 			<td>
 				35,1 kWh
@@ -1231,7 +1231,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				50 kW
 			</td>
 			<td>
-				 26 m 31 s
+				 27 m 6 s
 			</td>
 			<td>
 				35,6 kWh
@@ -1245,7 +1245,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				50 kW
 			</td>
 			<td>
-				 27 m 10 s
+				 27 m 45 s
 			</td>
 			<td>
 				36,1 kWh
@@ -1259,7 +1259,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				50 kW
 			</td>
 			<td>
-				 27 m 48 s
+				 28 m 24 s
 			</td>
 			<td>
 				36,6 kWh
@@ -1273,7 +1273,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				50 kW
 			</td>
 			<td>
-				 28 m 27 s
+				 29 m 4 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1287,7 +1287,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				50 kW
 			</td>
 			<td>
-				 29 m 5 s
+				 29 m 43 s
 			</td>
 			<td>
 				37,6 kWh
@@ -1301,7 +1301,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				57 kW
 			</td>
 			<td>
-				 29 m 41 s
+				 30 m 20 s
 			</td>
 			<td>
 				38,1 kWh
@@ -1315,7 +1315,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				56 kW
 			</td>
 			<td>
-				 30 m 16 s
+				 30 m 55 s
 			</td>
 			<td>
 				38,6 kWh
@@ -1329,7 +1329,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				57 kW
 			</td>
 			<td>
-				 30 m 50 s
+				 31 m 29 s
 			</td>
 			<td>
 				39,1 kWh
@@ -1343,7 +1343,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				56 kW
 			</td>
 			<td>
-				 31 m 24 s
+				 32 m 4 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1357,7 +1357,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				56 kW
 			</td>
 			<td>
-				 31 m 58 s
+				 32 m 39 s
 			</td>
 			<td>
 				40,1 kWh
@@ -1371,7 +1371,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				57 kW
 			</td>
 			<td>
-				 32 m 32 s
+				 33 m 14 s
 			</td>
 			<td>
 				40,6 kWh
@@ -1385,7 +1385,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				47 kW
 			</td>
 			<td>
-				 33 m 9 s
+				 33 m 52 s
 			</td>
 			<td>
 				41,1 kWh
@@ -1399,7 +1399,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				47 kW
 			</td>
 			<td>
-				 33 m 50 s
+				 34 m 34 s
 			</td>
 			<td>
 				41,7 kWh
@@ -1413,7 +1413,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				47 kW
 			</td>
 			<td>
-				 34 m 31 s
+				 35 m 16 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1427,7 +1427,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				46 kW
 			</td>
 			<td>
-				 35 m 12 s
+				 35 m 58 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1441,7 +1441,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				45 kW
 			</td>
 			<td>
-				 35 m 55 s
+				 36 m 41 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1455,7 +1455,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				32 kW
 			</td>
 			<td>
-				 36 m 45 s
+				 37 m 32 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1469,7 +1469,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				32 kW
 			</td>
 			<td>
-				 37 m 45 s
+				 38 m 34 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1483,7 +1483,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				32 kW
 			</td>
 			<td>
-				 38 m 45 s
+				 39 m 35 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1497,7 +1497,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				33 kW
 			</td>
 			<td>
-				 39 m 44 s
+				 40 m 36 s
 			</td>
 			<td>
 				45,2 kWh
@@ -1511,7 +1511,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				32 kW
 			</td>
 			<td>
-				 40 m 44 s
+				 41 m 36 s
 			</td>
 			<td>
 				45,7 kWh
@@ -1525,7 +1525,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				31 kW
 			</td>
 			<td>
-				 41 m 45 s
+				 42 m 39 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1539,7 +1539,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				30 kW
 			</td>
 			<td>
-				 42 m 49 s
+				 43 m 44 s
 			</td>
 			<td>
 				46,7 kWh
@@ -1553,7 +1553,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				28 kW
 			</td>
 			<td>
-				 43 m 55 s
+				 44 m 52 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1567,7 +1567,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				27 kW
 			</td>
 			<td>
-				 45 m 4 s
+				 46 m 2 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1581,7 +1581,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				26 kW
 			</td>
 			<td>
-				 46 m 17 s
+				 47 m 16 s
 			</td>
 			<td>
 				48,3 kWh
@@ -1595,7 +1595,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				25 kW
 			</td>
 			<td>
-				 47 m 32 s
+				 48 m 34 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1609,7 +1609,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				24 kW
 			</td>
 			<td>
-				 48 m 52 s
+				 49 m 55 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1623,7 +1623,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				22 kW
 			</td>
 			<td>
-				 50 m 16 s
+				 51 m 20 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1637,7 +1637,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				21 kW
 			</td>
 			<td>
-				 51 m 44 s
+				 52 m 51 s
 			</td>
 			<td>
 				50,3 kWh
@@ -1651,7 +1651,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				20 kW
 			</td>
 			<td>
-				 53 m 17 s
+				 54 m 26 s
 			</td>
 			<td>
 				50,8 kWh

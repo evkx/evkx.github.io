@@ -1,7 +1,7 @@
 ---
 title: VOYAH FREE curva de carga y rendimiento
 linktitle: "Curva de carga"
-description: "Aquí encontrarás la curva de carga para VOYAH FREE."
+description: "A continuación se muestra la curva de carga para VOYAH FREE, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				64,2 kW
+				62,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				63,1 kW
+				61,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				76,7 kW
+				75,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				84,8 kW
+				83,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				77,5kW
+				76,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				54m10s
+				55m13s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				1 h 33 m 28 s
+				1 h 35 m 29 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				1 h 25 m 38 s
+				1 h 27 m 28 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 49 m 32 s
+				 50 m 36 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,24 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,3 km (3,3 mi)
-			</td>
-			<td>
-				4,7 km (2,9 mi)
-			</td>
-			<td>
-				4,3 km (2,7 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango por minuto 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				5,3 km (3,3 mi)
+				5,2 km (3,2 mi)
 			</td>
 			<td>
 				4,6 km (2,9 mi)
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,1 km (3,2 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+			<td>
+				4,1 km (2,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango por minuto 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,1 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 			<td>
-				6,1 km (3,8 mi)
+				6,0 km (3,7 mi)
 			</td>
 			<td>
-				5,7 km (3,5 mi)
+				5,5 km (3,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				79 kW
 			</td>
 			<td>
-				 0 m 58 s
+				 1 m 0 s
 			</td>
 			<td>
 				1 kWh
@@ -282,7 +282,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				80 kW
 			</td>
 			<td>
-				 1 m 46 s
+				 1 m 48 s
 			</td>
 			<td>
 				2 kWh
@@ -296,7 +296,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				81 kW
 			</td>
 			<td>
-				 2 m 33 s
+				 2 m 36 s
 			</td>
 			<td>
 				3 kWh
@@ -310,7 +310,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				82 kW
 			</td>
 			<td>
-				 3 m 20 s
+				 3 m 24 s
 			</td>
 			<td>
 				4 kWh
@@ -324,7 +324,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				83 kW
 			</td>
 			<td>
-				 4 m 6 s
+				 4 m 11 s
 			</td>
 			<td>
 				5 kWh
@@ -338,7 +338,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				83 kW
 			</td>
 			<td>
-				 4 m 52 s
+				 4 m 58 s
 			</td>
 			<td>
 				6 kWh
@@ -352,7 +352,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				84 kW
 			</td>
 			<td>
-				 5 m 37 s
+				 5 m 44 s
 			</td>
 			<td>
 				7 kWh
@@ -366,7 +366,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				85 kW
 			</td>
 			<td>
-				 6 m 22 s
+				 6 m 30 s
 			</td>
 			<td>
 				8 kWh
@@ -380,7 +380,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				86 kW
 			</td>
 			<td>
-				 7 m 6 s
+				 7 m 15 s
 			</td>
 			<td>
 				9 kWh
@@ -394,7 +394,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				87 kW
 			</td>
 			<td>
-				 7 m 50 s
+				 8 m 0 s
 			</td>
 			<td>
 				10 kWh
@@ -408,7 +408,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				87 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 8 m 44 s
 			</td>
 			<td>
 				11 kWh
@@ -422,7 +422,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				87 kW
 			</td>
 			<td>
-				 9 m 17 s
+				 9 m 29 s
 			</td>
 			<td>
 				12 kWh
@@ -436,7 +436,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				88 kW
 			</td>
 			<td>
-				 10 m 0 s
+				 10 m 13 s
 			</td>
 			<td>
 				13 kWh
@@ -450,7 +450,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				88 kW
 			</td>
 			<td>
-				 10 m 43 s
+				 10 m 57 s
 			</td>
 			<td>
 				14 kWh
@@ -464,7 +464,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				88 kW
 			</td>
 			<td>
-				 11 m 26 s
+				 11 m 41 s
 			</td>
 			<td>
 				15 kWh
@@ -478,7 +478,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				88 kW
 			</td>
 			<td>
-				 12 m 9 s
+				 12 m 25 s
 			</td>
 			<td>
 				16 kWh
@@ -492,7 +492,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				88 kW
 			</td>
 			<td>
-				 12 m 52 s
+				 13 m 9 s
 			</td>
 			<td>
 				17 kWh
@@ -506,7 +506,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 13 m 35 s
+				 13 m 53 s
 			</td>
 			<td>
 				18 kWh
@@ -520,7 +520,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 14 m 18 s
+				 14 m 36 s
 			</td>
 			<td>
 				19 kWh
@@ -534,7 +534,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 15 m 0 s
+				 15 m 20 s
 			</td>
 			<td>
 				20 kWh
@@ -548,7 +548,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 15 m 43 s
+				 16 m 3 s
 			</td>
 			<td>
 				21 kWh
@@ -562,7 +562,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 16 m 26 s
+				 16 m 47 s
 			</td>
 			<td>
 				22 kWh
@@ -576,7 +576,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 17 m 8 s
+				 17 m 30 s
 			</td>
 			<td>
 				23 kWh
@@ -590,7 +590,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 18 m 14 s
 			</td>
 			<td>
 				24 kWh
@@ -604,7 +604,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 18 m 33 s
+				 18 m 57 s
 			</td>
 			<td>
 				25 kWh
@@ -618,7 +618,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 19 m 16 s
+				 19 m 41 s
 			</td>
 			<td>
 				26 kWh
@@ -632,7 +632,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				89 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 20 m 24 s
 			</td>
 			<td>
 				27 kWh
@@ -646,7 +646,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 20 m 41 s
+				 21 m 7 s
 			</td>
 			<td>
 				28 kWh
@@ -660,7 +660,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 21 m 23 s
+				 21 m 50 s
 			</td>
 			<td>
 				29 kWh
@@ -674,7 +674,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 22 m 5 s
+				 22 m 33 s
 			</td>
 			<td>
 				30 kWh
@@ -688,7 +688,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 22 m 47 s
+				 23 m 16 s
 			</td>
 			<td>
 				31 kWh
@@ -702,7 +702,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 23 m 29 s
+				 24 m 0 s
 			</td>
 			<td>
 				32 kWh
@@ -716,7 +716,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 24 m 11 s
+				 24 m 43 s
 			</td>
 			<td>
 				33 kWh
@@ -730,7 +730,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 24 m 53 s
+				 25 m 26 s
 			</td>
 			<td>
 				34 kWh
@@ -744,7 +744,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 25 m 36 s
+				 26 m 9 s
 			</td>
 			<td>
 				35 kWh
@@ -758,7 +758,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 26 m 18 s
+				 26 m 52 s
 			</td>
 			<td>
 				36 kWh
@@ -772,7 +772,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				90 kW
 			</td>
 			<td>
-				 27 m 0 s
+				 27 m 34 s
 			</td>
 			<td>
 				37 kWh
@@ -786,7 +786,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 27 m 41 s
+				 28 m 17 s
 			</td>
 			<td>
 				38 kWh
@@ -800,7 +800,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 28 m 23 s
+				 29 m 0 s
 			</td>
 			<td>
 				39 kWh
@@ -814,7 +814,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 29 m 5 s
+				 29 m 42 s
 			</td>
 			<td>
 				40 kWh
@@ -828,7 +828,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 29 m 47 s
+				 30 m 25 s
 			</td>
 			<td>
 				41 kWh
@@ -842,7 +842,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 30 m 28 s
+				 31 m 7 s
 			</td>
 			<td>
 				42 kWh
@@ -856,7 +856,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 31 m 10 s
+				 31 m 50 s
 			</td>
 			<td>
 				43 kWh
@@ -870,7 +870,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 31 m 51 s
+				 32 m 33 s
 			</td>
 			<td>
 				44 kWh
@@ -884,7 +884,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 32 m 33 s
+				 33 m 15 s
 			</td>
 			<td>
 				45 kWh
@@ -898,7 +898,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 33 m 15 s
+				 33 m 58 s
 			</td>
 			<td>
 				46 kWh
@@ -912,7 +912,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 33 m 56 s
+				 34 m 40 s
 			</td>
 			<td>
 				47 kWh
@@ -926,7 +926,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 34 m 38 s
+				 35 m 23 s
 			</td>
 			<td>
 				48 kWh
@@ -940,7 +940,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 35 m 20 s
+				 36 m 5 s
 			</td>
 			<td>
 				49 kWh
@@ -954,7 +954,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 36 m 1 s
+				 36 m 48 s
 			</td>
 			<td>
 				50 kWh
@@ -968,7 +968,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 36 m 43 s
+				 37 m 30 s
 			</td>
 			<td>
 				51 kWh
@@ -982,7 +982,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				92 kW
 			</td>
 			<td>
-				 37 m 24 s
+				 38 m 12 s
 			</td>
 			<td>
 				52 kWh
@@ -996,7 +996,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				92 kW
 			</td>
 			<td>
-				 38 m 5 s
+				 38 m 55 s
 			</td>
 			<td>
 				53 kWh
@@ -1010,7 +1010,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 38 m 46 s
+				 39 m 36 s
 			</td>
 			<td>
 				54 kWh
@@ -1024,7 +1024,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 39 m 27 s
+				 40 m 18 s
 			</td>
 			<td>
 				55 kWh
@@ -1038,7 +1038,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 40 m 8 s
+				 41 m 0 s
 			</td>
 			<td>
 				56 kWh
@@ -1052,7 +1052,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 40 m 49 s
+				 41 m 41 s
 			</td>
 			<td>
 				57 kWh
@@ -1066,7 +1066,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 41 m 29 s
+				 42 m 23 s
 			</td>
 			<td>
 				58 kWh
@@ -1080,7 +1080,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 42 m 10 s
+				 43 m 4 s
 			</td>
 			<td>
 				59 kWh
@@ -1094,7 +1094,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 42 m 50 s
+				 43 m 45 s
 			</td>
 			<td>
 				60 kWh
@@ -1108,7 +1108,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 43 m 30 s
+				 44 m 26 s
 			</td>
 			<td>
 				61 kWh
@@ -1122,7 +1122,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 44 m 11 s
+				 45 m 8 s
 			</td>
 			<td>
 				62 kWh
@@ -1136,7 +1136,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 44 m 51 s
+				 45 m 49 s
 			</td>
 			<td>
 				63 kWh
@@ -1150,7 +1150,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 45 m 32 s
+				 46 m 31 s
 			</td>
 			<td>
 				64 kWh
@@ -1164,7 +1164,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 46 m 13 s
+				 47 m 12 s
 			</td>
 			<td>
 				65 kWh
@@ -1178,7 +1178,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 46 m 53 s
+				 47 m 54 s
 			</td>
 			<td>
 				66 kWh
@@ -1192,7 +1192,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				93 kW
 			</td>
 			<td>
-				 47 m 34 s
+				 48 m 35 s
 			</td>
 			<td>
 				67 kWh
@@ -1206,7 +1206,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 48 m 14 s
+				 49 m 17 s
 			</td>
 			<td>
 				68 kWh
@@ -1220,7 +1220,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 48 m 55 s
+				 49 m 58 s
 			</td>
 			<td>
 				69 kWh
@@ -1234,7 +1234,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				94 kW
 			</td>
 			<td>
-				 49 m 35 s
+				 50 m 39 s
 			</td>
 			<td>
 				70 kWh
@@ -1248,7 +1248,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				91 kW
 			</td>
 			<td>
-				 50 m 16 s
+				 51 m 21 s
 			</td>
 			<td>
 				71 kWh
@@ -1262,7 +1262,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				87 kW
 			</td>
 			<td>
-				 50 m 59 s
+				 52 m 5 s
 			</td>
 			<td>
 				72 kWh
@@ -1276,7 +1276,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				84 kW
 			</td>
 			<td>
-				 51 m 43 s
+				 52 m 50 s
 			</td>
 			<td>
 				73 kWh
@@ -1290,7 +1290,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				80 kW
 			</td>
 			<td>
-				 52 m 29 s
+				 53 m 37 s
 			</td>
 			<td>
 				74 kWh
@@ -1304,7 +1304,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				77 kW
 			</td>
 			<td>
-				 53 m 18 s
+				 54 m 26 s
 			</td>
 			<td>
 				75 kWh
@@ -1318,7 +1318,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				77 kW
 			</td>
 			<td>
-				 54 m 7 s
+				 55 m 16 s
 			</td>
 			<td>
 				76 kWh
@@ -1332,7 +1332,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				77 kW
 			</td>
 			<td>
-				 54 m 56 s
+				 56 m 7 s
 			</td>
 			<td>
 				77 kWh
@@ -1346,7 +1346,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				78 kW
 			</td>
 			<td>
-				 55 m 45 s
+				 56 m 57 s
 			</td>
 			<td>
 				78 kWh
@@ -1360,7 +1360,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				78 kW
 			</td>
 			<td>
-				 56 m 33 s
+				 57 m 46 s
 			</td>
 			<td>
 				79 kWh
@@ -1374,7 +1374,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				78 kW
 			</td>
 			<td>
-				 57 m 22 s
+				 58 m 36 s
 			</td>
 			<td>
 				80 kWh
@@ -1388,7 +1388,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				72 kW
 			</td>
 			<td>
-				 58 m 12 s
+				 59 m 28 s
 			</td>
 			<td>
 				81 kWh
@@ -1402,7 +1402,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				67 kW
 			</td>
 			<td>
-				 59 m 7 s
+				1 h 0 m 23 s
 			</td>
 			<td>
 				82 kWh
@@ -1416,7 +1416,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				61 kW
 			</td>
 			<td>
-				1 h 0 m 6 s
+				1 h 1 m 24 s
 			</td>
 			<td>
 				83 kWh
@@ -1430,7 +1430,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				56 kW
 			</td>
 			<td>
-				1 h 1 m 11 s
+				1 h 2 m 30 s
 			</td>
 			<td>
 				84 kWh
@@ -1444,7 +1444,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				50 kW
 			</td>
 			<td>
-				1 h 2 m 23 s
+				1 h 3 m 43 s
 			</td>
 			<td>
 				85 kWh
@@ -1458,7 +1458,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				46 kW
 			</td>
 			<td>
-				1 h 3 m 42 s
+				1 h 5 m 4 s
 			</td>
 			<td>
 				86 kWh
@@ -1472,7 +1472,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				42 kW
 			</td>
 			<td>
-				1 h 5 m 8 s
+				1 h 6 m 32 s
 			</td>
 			<td>
 				87 kWh
@@ -1486,7 +1486,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				38 kW
 			</td>
 			<td>
-				1 h 6 m 43 s
+				1 h 8 m 9 s
 			</td>
 			<td>
 				88 kWh
@@ -1500,7 +1500,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				34 kW
 			</td>
 			<td>
-				1 h 8 m 28 s
+				1 h 9 m 56 s
 			</td>
 			<td>
 				89 kWh
@@ -1514,7 +1514,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				30 kW
 			</td>
 			<td>
-				1 h 10 m 26 s
+				1 h 11 m 57 s
 			</td>
 			<td>
 				90 kWh
@@ -1528,7 +1528,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				30 kW
 			</td>
 			<td>
-				1 h 12 m 34 s
+				1 h 14 m 7 s
 			</td>
 			<td>
 				91 kWh
@@ -1542,7 +1542,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				29 kW
 			</td>
 			<td>
-				1 h 14 m 43 s
+				1 h 16 m 20 s
 			</td>
 			<td>
 				92 kWh
@@ -1556,7 +1556,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				29 kW
 			</td>
 			<td>
-				1 h 16 m 55 s
+				1 h 18 m 34 s
 			</td>
 			<td>
 				93 kWh
@@ -1570,7 +1570,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				28 kW
 			</td>
 			<td>
-				1 h 19 m 9 s
+				1 h 20 m 51 s
 			</td>
 			<td>
 				94 kWh
@@ -1584,7 +1584,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				28 kW
 			</td>
 			<td>
-				1 h 21 m 26 s
+				1 h 23 m 11 s
 			</td>
 			<td>
 				95 kWh
@@ -1598,7 +1598,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				27 kW
 			</td>
 			<td>
-				1 h 23 m 45 s
+				1 h 25 m 33 s
 			</td>
 			<td>
 				96 kWh
@@ -1612,7 +1612,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				27 kW
 			</td>
 			<td>
-				1 h 26 m 6 s
+				1 h 27 m 57 s
 			</td>
 			<td>
 				97 kWh
@@ -1626,7 +1626,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				26 kW
 			</td>
 			<td>
-				1 h 28 m 31 s
+				1 h 30 m 25 s
 			</td>
 			<td>
 				98 kWh
@@ -1640,7 +1640,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				26 kW
 			</td>
 			<td>
-				1 h 30 m 58 s
+				1 h 32 m 55 s
 			</td>
 			<td>
 				99 kWh
@@ -1654,7 +1654,7 @@ VOYAH FREE tiene calefacción de batería, lo que facilita la carga a una temper
 				25 kW
 			</td>
 			<td>
-				1 h 33 m 28 s
+				1 h 35 m 29 s
 			</td>
 			<td>
 				100 kWh

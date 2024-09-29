@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 AWD Performance curva de carga y rendimiento
 linktitle: "Curva de carga"
-description: "Aquí encontrarás la curva de carga para Genesis GV60 AWD Performance."
+description: "A continuación se muestra la curva de carga para Genesis GV60 AWD Performance, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				117,1 kW
+				114,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				112,3 kW
+				109,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				170,1 kW
+				166,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				191,6 kW
+				187,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				151,5kW
+				149,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				22m59s
+				22m20s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				 37 m 54 s
+				 38 m 42 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				 35 m 35 s
+				 36 m 21 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 16 m 13 s
+				 16 m 34 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				12,4 km (7,7 mi)
+				12,1 km (7,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,1 km (5,0 mi)
+				8,0 km (5,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				11,9 km (7,4 mi)
+				11,6 km (7,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,8 km (4,8 mi)
+				7,6 km (4,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				20,3 km (12,6 mi)
+				19,9 km (12,4 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				13,3 km (8,3 mi)
+				13,0 km (8,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				205 kW
 			</td>
 			<td>
-				 0 m 21 s
+				 0 m 22 s
 			</td>
 			<td>
 				0,7 kWh
@@ -282,7 +282,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				213 kW
 			</td>
 			<td>
-				 0 m 35 s
+				 0 m 36 s
 			</td>
 			<td>
 				1,5 kWh
@@ -296,7 +296,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				215 kW
 			</td>
 			<td>
-				 0 m 48 s
+				 0 m 49 s
 			</td>
 			<td>
 				2,2 kWh
@@ -310,7 +310,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				215 kW
 			</td>
 			<td>
-				 1 m 1 s
+				 1 m 2 s
 			</td>
 			<td>
 				3,0 kWh
@@ -324,7 +324,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				217 kW
 			</td>
 			<td>
-				 1 m 14 s
+				 1 m 16 s
 			</td>
 			<td>
 				3,7 kWh
@@ -338,7 +338,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				218 kW
 			</td>
 			<td>
-				 1 m 27 s
+				 1 m 29 s
 			</td>
 			<td>
 				4,4 kWh
@@ -352,7 +352,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				219 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 42 s
 			</td>
 			<td>
 				5,2 kWh
@@ -366,7 +366,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				219 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 55 s
 			</td>
 			<td>
 				5,9 kWh
@@ -380,7 +380,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				220 kW
 			</td>
 			<td>
-				 2 m 5 s
+				 2 m 8 s
 			</td>
 			<td>
 				6,7 kWh
@@ -394,7 +394,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				221 kW
 			</td>
 			<td>
-				 2 m 18 s
+				 2 m 21 s
 			</td>
 			<td>
 				7,4 kWh
@@ -408,7 +408,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				221 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				8,1 kWh
@@ -422,7 +422,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				222 kW
 			</td>
 			<td>
-				 2 m 43 s
+				 2 m 47 s
 			</td>
 			<td>
 				8,9 kWh
@@ -436,7 +436,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				222 kW
 			</td>
 			<td>
-				 2 m 56 s
+				 3 m 0 s
 			</td>
 			<td>
 				9,6 kWh
@@ -450,7 +450,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				223 kW
 			</td>
 			<td>
-				 3 m 9 s
+				 3 m 13 s
 			</td>
 			<td>
 				10,4 kWh
@@ -464,7 +464,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				223 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 26 s
 			</td>
 			<td>
 				11,1 kWh
@@ -478,7 +478,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				222 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				11,8 kWh
@@ -492,7 +492,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				223 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				12,6 kWh
@@ -506,7 +506,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				224 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 4 s
 			</td>
 			<td>
 				13,3 kWh
@@ -520,7 +520,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				224 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 17 s
 			</td>
 			<td>
 				14,1 kWh
@@ -534,7 +534,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				224 kW
 			</td>
 			<td>
-				 4 m 24 s
+				 4 m 30 s
 			</td>
 			<td>
 				14,8 kWh
@@ -548,7 +548,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				224 kW
 			</td>
 			<td>
-				 4 m 37 s
+				 4 m 42 s
 			</td>
 			<td>
 				15,5 kWh
@@ -562,7 +562,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				224 kW
 			</td>
 			<td>
-				 4 m 49 s
+				 4 m 55 s
 			</td>
 			<td>
 				16,3 kWh
@@ -576,7 +576,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				225 kW
 			</td>
 			<td>
-				 5 m 2 s
+				 5 m 8 s
 			</td>
 			<td>
 				17,0 kWh
@@ -590,7 +590,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				225 kW
 			</td>
 			<td>
-				 5 m 14 s
+				 5 m 21 s
 			</td>
 			<td>
 				17,8 kWh
@@ -604,7 +604,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				225 kW
 			</td>
 			<td>
-				 5 m 26 s
+				 5 m 34 s
 			</td>
 			<td>
 				18,5 kWh
@@ -618,7 +618,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				225 kW
 			</td>
 			<td>
-				 5 m 39 s
+				 5 m 46 s
 			</td>
 			<td>
 				19,2 kWh
@@ -632,7 +632,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				226 kW
 			</td>
 			<td>
-				 5 m 51 s
+				 5 m 59 s
 			</td>
 			<td>
 				20,0 kWh
@@ -646,7 +646,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				225 kW
 			</td>
 			<td>
-				 6 m 4 s
+				 6 m 12 s
 			</td>
 			<td>
 				20,7 kWh
@@ -660,7 +660,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				226 kW
 			</td>
 			<td>
-				 6 m 16 s
+				 6 m 24 s
 			</td>
 			<td>
 				21,5 kWh
@@ -674,7 +674,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				226 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 6 m 37 s
 			</td>
 			<td>
 				22,2 kWh
@@ -688,7 +688,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				226 kW
 			</td>
 			<td>
-				 6 m 41 s
+				 6 m 50 s
 			</td>
 			<td>
 				22,9 kWh
@@ -702,7 +702,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				227 kW
 			</td>
 			<td>
-				 6 m 53 s
+				 7 m 2 s
 			</td>
 			<td>
 				23,7 kWh
@@ -716,7 +716,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				227 kW
 			</td>
 			<td>
-				 7 m 6 s
+				 7 m 15 s
 			</td>
 			<td>
 				24,4 kWh
@@ -730,7 +730,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				227 kW
 			</td>
 			<td>
-				 7 m 18 s
+				 7 m 28 s
 			</td>
 			<td>
 				25,2 kWh
@@ -744,7 +744,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				227 kW
 			</td>
 			<td>
-				 7 m 30 s
+				 7 m 40 s
 			</td>
 			<td>
 				25,9 kWh
@@ -758,7 +758,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				230 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 7 m 53 s
 			</td>
 			<td>
 				26,6 kWh
@@ -772,7 +772,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				230 kW
 			</td>
 			<td>
-				 7 m 55 s
+				 8 m 5 s
 			</td>
 			<td>
 				27,4 kWh
@@ -786,7 +786,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				230 kW
 			</td>
 			<td>
-				 8 m 7 s
+				 8 m 18 s
 			</td>
 			<td>
 				28,1 kWh
@@ -800,7 +800,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				230 kW
 			</td>
 			<td>
-				 8 m 19 s
+				 8 m 30 s
 			</td>
 			<td>
 				28,9 kWh
@@ -814,7 +814,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				232 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				29,6 kWh
@@ -828,7 +828,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				231 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 8 m 55 s
 			</td>
 			<td>
 				30,3 kWh
@@ -842,7 +842,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				232 kW
 			</td>
 			<td>
-				 8 m 56 s
+				 9 m 7 s
 			</td>
 			<td>
 				31,1 kWh
@@ -856,7 +856,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				233 kW
 			</td>
 			<td>
-				 9 m 8 s
+				 9 m 20 s
 			</td>
 			<td>
 				31,8 kWh
@@ -870,7 +870,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				233 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 9 m 32 s
 			</td>
 			<td>
 				32,6 kWh
@@ -884,7 +884,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				233 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 9 m 44 s
 			</td>
 			<td>
 				33,3 kWh
@@ -898,7 +898,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				234 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 9 m 56 s
 			</td>
 			<td>
 				34,0 kWh
@@ -912,7 +912,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				210 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 9 s
 			</td>
 			<td>
 				34,8 kWh
@@ -926,7 +926,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				186 kW
 			</td>
 			<td>
-				 10 m 11 s
+				 10 m 24 s
 			</td>
 			<td>
 				35,5 kWh
@@ -940,7 +940,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				186 kW
 			</td>
 			<td>
-				 10 m 26 s
+				 10 m 39 s
 			</td>
 			<td>
 				36,3 kWh
@@ -954,7 +954,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				186 kW
 			</td>
 			<td>
-				 10 m 41 s
+				 10 m 55 s
 			</td>
 			<td>
 				37,0 kWh
@@ -968,7 +968,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				186 kW
 			</td>
 			<td>
-				 10 m 56 s
+				 11 m 10 s
 			</td>
 			<td>
 				37,7 kWh
@@ -982,7 +982,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				187 kW
 			</td>
 			<td>
-				 11 m 11 s
+				 11 m 25 s
 			</td>
 			<td>
 				38,5 kWh
@@ -996,7 +996,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				187 kW
 			</td>
 			<td>
-				 11 m 26 s
+				 11 m 41 s
 			</td>
 			<td>
 				39,2 kWh
@@ -1010,7 +1010,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				188 kW
 			</td>
 			<td>
-				 11 m 41 s
+				 11 m 56 s
 			</td>
 			<td>
 				40,0 kWh
@@ -1024,7 +1024,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				188 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 12 m 11 s
 			</td>
 			<td>
 				40,7 kWh
@@ -1038,7 +1038,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				189 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 26 s
 			</td>
 			<td>
 				41,4 kWh
@@ -1052,7 +1052,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				180 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 12 m 42 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1066,7 +1066,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				182 kW
 			</td>
 			<td>
-				 12 m 41 s
+				 12 m 58 s
 			</td>
 			<td>
 				42,9 kWh
@@ -1080,7 +1080,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				184 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 13 m 13 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1094,7 +1094,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				185 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				44,4 kWh
@@ -1108,7 +1108,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				187 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 13 m 44 s
 			</td>
 			<td>
 				45,1 kWh
@@ -1122,7 +1122,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				189 kW
 			</td>
 			<td>
-				 13 m 42 s
+				 14 m 0 s
 			</td>
 			<td>
 				45,9 kWh
@@ -1136,7 +1136,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				189 kW
 			</td>
 			<td>
-				 13 m 57 s
+				 14 m 15 s
 			</td>
 			<td>
 				46,6 kWh
@@ -1150,7 +1150,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				190 kW
 			</td>
 			<td>
-				 14 m 11 s
+				 14 m 30 s
 			</td>
 			<td>
 				47,4 kWh
@@ -1164,7 +1164,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				190 kW
 			</td>
 			<td>
-				 14 m 26 s
+				 14 m 45 s
 			</td>
 			<td>
 				48,1 kWh
@@ -1178,7 +1178,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				191 kW
 			</td>
 			<td>
-				 14 m 41 s
+				 15 m 0 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1192,7 +1192,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				192 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 15 s
 			</td>
 			<td>
 				49,6 kWh
@@ -1206,7 +1206,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				193 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 15 m 30 s
 			</td>
 			<td>
 				50,3 kWh
@@ -1220,7 +1220,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				184 kW
 			</td>
 			<td>
-				 15 m 25 s
+				 15 m 45 s
 			</td>
 			<td>
 				51,1 kWh
@@ -1234,7 +1234,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				184 kW
 			</td>
 			<td>
-				 15 m 40 s
+				 16 m 1 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1248,7 +1248,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				168 kW
 			</td>
 			<td>
-				 15 m 56 s
+				 16 m 17 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1262,7 +1262,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				168 kW
 			</td>
 			<td>
-				 16 m 13 s
+				 16 m 34 s
 			</td>
 			<td>
 				53,3 kWh
@@ -1276,7 +1276,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				168 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 16 m 51 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1290,7 +1290,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				169 kW
 			</td>
 			<td>
-				 16 m 46 s
+				 17 m 8 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1304,7 +1304,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				169 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 25 s
 			</td>
 			<td>
 				55,5 kWh
@@ -1318,7 +1318,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				157 kW
 			</td>
 			<td>
-				 17 m 20 s
+				 17 m 42 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1332,7 +1332,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				158 kW
 			</td>
 			<td>
-				 17 m 38 s
+				 18 m 1 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1346,7 +1346,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				158 kW
 			</td>
 			<td>
-				 17 m 56 s
+				 18 m 19 s
 			</td>
 			<td>
 				57,7 kWh
@@ -1360,7 +1360,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				157 kW
 			</td>
 			<td>
-				 18 m 13 s
+				 18 m 37 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1374,7 +1374,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				158 kW
 			</td>
 			<td>
-				 18 m 31 s
+				 18 m 55 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1388,7 +1388,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				157 kW
 			</td>
 			<td>
-				 18 m 49 s
+				 19 m 13 s
 			</td>
 			<td>
 				59,9 kWh
@@ -1402,7 +1402,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				140 kW
 			</td>
 			<td>
-				 19 m 8 s
+				 19 m 33 s
 			</td>
 			<td>
 				60,7 kWh
@@ -1416,7 +1416,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				122 kW
 			</td>
 			<td>
-				 19 m 29 s
+				 19 m 55 s
 			</td>
 			<td>
 				61,4 kWh
@@ -1430,7 +1430,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				122 kW
 			</td>
 			<td>
-				 19 m 52 s
+				 20 m 18 s
 			</td>
 			<td>
 				62,2 kWh
@@ -1444,7 +1444,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				122 kW
 			</td>
 			<td>
-				 20 m 15 s
+				 20 m 42 s
 			</td>
 			<td>
 				62,9 kWh
@@ -1458,7 +1458,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				97 kW
 			</td>
 			<td>
-				 20 m 41 s
+				 21 m 8 s
 			</td>
 			<td>
 				63,6 kWh
@@ -1472,7 +1472,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				82 kW
 			</td>
 			<td>
-				 21 m 12 s
+				 21 m 40 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1486,7 +1486,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				73 kW
 			</td>
 			<td>
-				 21 m 49 s
+				 22 m 17 s
 			</td>
 			<td>
 				65,1 kWh
@@ -1500,7 +1500,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				68 kW
 			</td>
 			<td>
-				 22 m 28 s
+				 22 m 57 s
 			</td>
 			<td>
 				65,9 kWh
@@ -1514,7 +1514,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				63 kW
 			</td>
 			<td>
-				 23 m 11 s
+				 23 m 41 s
 			</td>
 			<td>
 				66,6 kWh
@@ -1528,7 +1528,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				59 kW
 			</td>
 			<td>
-				 23 m 57 s
+				 24 m 28 s
 			</td>
 			<td>
 				67,3 kWh
@@ -1542,7 +1542,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				53 kW
 			</td>
 			<td>
-				 24 m 47 s
+				 25 m 19 s
 			</td>
 			<td>
 				68,1 kWh
@@ -1556,7 +1556,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				50 kW
 			</td>
 			<td>
-				 25 m 42 s
+				 26 m 15 s
 			</td>
 			<td>
 				68,8 kWh
@@ -1570,7 +1570,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				44 kW
 			</td>
 			<td>
-				 26 m 41 s
+				 27 m 16 s
 			</td>
 			<td>
 				69,6 kWh
@@ -1584,7 +1584,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				40 kW
 			</td>
 			<td>
-				 27 m 48 s
+				 28 m 24 s
 			</td>
 			<td>
 				70,3 kWh
@@ -1598,7 +1598,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				36 kW
 			</td>
 			<td>
-				 29 m 2 s
+				 29 m 39 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1612,7 +1612,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				31 kW
 			</td>
 			<td>
-				 30 m 26 s
+				 31 m 5 s
 			</td>
 			<td>
 				71,8 kWh
@@ -1626,7 +1626,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				23 kW
 			</td>
 			<td>
-				 32 m 9 s
+				 32 m 51 s
 			</td>
 			<td>
 				72,5 kWh
@@ -1640,7 +1640,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				16 kW
 			</td>
 			<td>
-				 34 m 33 s
+				 35 m 18 s
 			</td>
 			<td>
 				73,3 kWh
@@ -1654,7 +1654,7 @@ Genesis GV60 AWD Performance tiene calefacción de batería, lo que facilita la 
 				12 kW
 			</td>
 			<td>
-				 37 m 54 s
+				 38 m 42 s
 			</td>
 			<td>
 				74,0 kWh

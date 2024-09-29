@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 84,0 kWh y una capaci
 
 Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 402 km con una tasa de consumo de energía de 19,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 41 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 154kW. Cada sesión de carga tardaría 23 minutos y 21 segundos. Esta capacidad de carga eficiente hace que el Hyundai Ioniq 5 XRT sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 42 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 75%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 152kW. Cada sesión de carga tardaría 23 minutos y 26 segundos. Esta capacidad de carga eficiente hace que el Hyundai Ioniq 5 XRT sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 23 minutos. Este viaje requeriría dos paradas de carga del 1% al 68%, con un tiempo total de carga de 63 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 24 minutos. Este viaje requeriría dos paradas de carga del 1% al 68%, con un tiempo total de carga de 64 minutos.
 
 ### Cargador a bordo
 

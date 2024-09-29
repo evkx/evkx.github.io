@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 101,5 kWh og en nettoanvend
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 640 km (398 miles). Forbruget er 15,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 52 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 171kW. Hver opladningssession ville tage 18 minutter og 12 sekunder. Denne usædvanligt hurtige opladningskapacitet gør XPENG X9 AWD Performance til en af de mest effektive og bekvemme elbiler til langdistancerejser.
+Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 53 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 169kW. Hver opladningssession ville tage 18 minutter og 29 sekunder. Denne usædvanligt hurtige opladningskapacitet gør XPENG X9 AWD Performance til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 13 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 59%, med en samlet opladningstid på 54 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 14 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 59%, med en samlet opladningstid på 54 minutter
 
 ### Ombordlader
 

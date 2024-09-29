@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Tesla Model S."
+description: "Ci-dessous se trouve la courbe de charge pour Tesla Model S, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				72,4 kW
+				70,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				70,5 kW
+				69,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				109,0 kW
+				106,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				131,8 kW
+				129,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				142,7kW
+				140,6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				16m9s
+				16m23s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				1 h 19 m 32 s
+				1 h 21 m 15 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				1 h 13 m 34 s
+				1 h 15 m 9 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 30 m 36 s
+				 31 m 15 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,27 +169,10 @@ navicon: bi-battery-charging
 				Autonomie par minute 0-100%
 			</td>
 			<td>
-				8,2 km (5,1 mi)
-			</td>
-			<td>
-				8,2 km (5,1 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				6,1 km (3,8 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Autonomie par minute 10-100%
-			</td>
-			<td>
 				8,0 km (5,0 mi)
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				8,0 km (5,0 mi)
 			</td>
 			<td>
 				?
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Autonomie par minute 10-80%
+				Autonomie par minute 10-100%
 			</td>
 			<td>
-				14,9 km (9,3 mi)
+				7,8 km (4,8 mi)
 			</td>
 			<td>
-				14,8 km (9,2 mi)
+				7,8 km (4,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				11,1 km (6,9 mi)
+				5,8 km (3,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				14,6 km (9,1 mi)
+			</td>
+			<td>
+				14,5 km (9,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,9 km (6,8 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				52 kW
 			</td>
 			<td>
-				 1 m 28 s
+				 1 m 30 s
 			</td>
 			<td>
 				1,0 kWh
@@ -282,7 +282,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				75 kW
 			</td>
 			<td>
-				 2 m 25 s
+				 2 m 28 s
 			</td>
 			<td>
 				1,9 kWh
@@ -296,7 +296,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				97 kW
 			</td>
 			<td>
-				 3 m 7 s
+				 3 m 11 s
 			</td>
 			<td>
 				2,9 kWh
@@ -310,7 +310,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				120 kW
 			</td>
 			<td>
-				 3 m 41 s
+				 3 m 46 s
 			</td>
 			<td>
 				3,8 kWh
@@ -324,7 +324,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				142 kW
 			</td>
 			<td>
-				 4 m 9 s
+				 4 m 14 s
 			</td>
 			<td>
 				4,8 kWh
@@ -338,7 +338,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				147 kW
 			</td>
 			<td>
-				 4 m 34 s
+				 4 m 40 s
 			</td>
 			<td>
 				5,8 kWh
@@ -352,7 +352,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				152 kW
 			</td>
 			<td>
-				 4 m 58 s
+				 5 m 5 s
 			</td>
 			<td>
 				6,7 kWh
@@ -366,7 +366,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				158 kW
 			</td>
 			<td>
-				 5 m 22 s
+				 5 m 29 s
 			</td>
 			<td>
 				7,7 kWh
@@ -380,7 +380,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				204 kW
 			</td>
 			<td>
-				 5 m 42 s
+				 5 m 49 s
 			</td>
 			<td>
 				8,6 kWh
@@ -394,7 +394,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 5 m 58 s
+				 6 m 5 s
 			</td>
 			<td>
 				9,6 kWh
@@ -408,7 +408,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 20 s
 			</td>
 			<td>
 				10,6 kWh
@@ -422,7 +422,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 6 m 27 s
+				 6 m 35 s
 			</td>
 			<td>
 				11,5 kWh
@@ -436,7 +436,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 6 m 41 s
+				 6 m 50 s
 			</td>
 			<td>
 				12,5 kWh
@@ -450,7 +450,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				13,4 kWh
@@ -464,7 +464,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 7 m 11 s
+				 7 m 20 s
 			</td>
 			<td>
 				14,4 kWh
@@ -478,7 +478,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 35 s
 			</td>
 			<td>
 				15,4 kWh
@@ -492,7 +492,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 7 m 50 s
 			</td>
 			<td>
 				16,3 kWh
@@ -506,7 +506,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 8 m 4 s
 			</td>
 			<td>
 				17,3 kWh
@@ -520,7 +520,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 8 m 9 s
+				 8 m 19 s
 			</td>
 			<td>
 				18,2 kWh
@@ -534,7 +534,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 8 m 23 s
+				 8 m 34 s
 			</td>
 			<td>
 				19,2 kWh
@@ -548,7 +548,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 8 m 38 s
+				 8 m 49 s
 			</td>
 			<td>
 				20,2 kWh
@@ -562,7 +562,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 8 m 52 s
+				 9 m 4 s
 			</td>
 			<td>
 				21,1 kWh
@@ -576,7 +576,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 19 s
 			</td>
 			<td>
 				22,1 kWh
@@ -590,7 +590,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 9 m 21 s
+				 9 m 34 s
 			</td>
 			<td>
 				23,0 kWh
@@ -604,7 +604,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 9 m 36 s
+				 9 m 48 s
 			</td>
 			<td>
 				24,0 kWh
@@ -618,7 +618,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 9 m 51 s
+				 10 m 3 s
 			</td>
 			<td>
 				25,0 kWh
@@ -632,7 +632,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
 				25,9 kWh
@@ -646,7 +646,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 10 m 20 s
+				 10 m 33 s
 			</td>
 			<td>
 				26,9 kWh
@@ -660,7 +660,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 10 m 48 s
 			</td>
 			<td>
 				27,8 kWh
@@ -674,7 +674,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 11 m 3 s
 			</td>
 			<td>
 				28,8 kWh
@@ -688,7 +688,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 18 s
 			</td>
 			<td>
 				29,8 kWh
@@ -702,7 +702,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 11 m 18 s
+				 11 m 33 s
 			</td>
 			<td>
 				30,7 kWh
@@ -716,7 +716,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				250 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 11 m 47 s
 			</td>
 			<td>
 				31,7 kWh
@@ -730,7 +730,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				235 kW
 			</td>
 			<td>
-				 11 m 47 s
+				 12 m 3 s
 			</td>
 			<td>
 				32,6 kWh
@@ -744,7 +744,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				220 kW
 			</td>
 			<td>
-				 12 m 3 s
+				 12 m 19 s
 			</td>
 			<td>
 				33,6 kWh
@@ -758,7 +758,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				213 kW
 			</td>
 			<td>
-				 12 m 20 s
+				 12 m 36 s
 			</td>
 			<td>
 				34,6 kWh
@@ -772,7 +772,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				205 kW
 			</td>
 			<td>
-				 12 m 38 s
+				 12 m 54 s
 			</td>
 			<td>
 				35,5 kWh
@@ -786,7 +786,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				198 kW
 			</td>
 			<td>
-				 12 m 56 s
+				 13 m 12 s
 			</td>
 			<td>
 				36,5 kWh
@@ -800,7 +800,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				190 kW
 			</td>
 			<td>
-				 13 m 15 s
+				 13 m 32 s
 			</td>
 			<td>
 				37,4 kWh
@@ -814,7 +814,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				183 kW
 			</td>
 			<td>
-				 13 m 34 s
+				 13 m 52 s
 			</td>
 			<td>
 				38,4 kWh
@@ -828,7 +828,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				178 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 12 s
 			</td>
 			<td>
 				39,4 kWh
@@ -842,7 +842,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				174 kW
 			</td>
 			<td>
-				 14 m 15 s
+				 14 m 33 s
 			</td>
 			<td>
 				40,3 kWh
@@ -856,7 +856,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				169 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				41,3 kWh
@@ -870,7 +870,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				165 kW
 			</td>
 			<td>
-				 14 m 58 s
+				 15 m 17 s
 			</td>
 			<td>
 				42,2 kWh
@@ -884,7 +884,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				160 kW
 			</td>
 			<td>
-				 15 m 20 s
+				 15 m 40 s
 			</td>
 			<td>
 				43,2 kWh
@@ -898,7 +898,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				156 kW
 			</td>
 			<td>
-				 15 m 43 s
+				 16 m 4 s
 			</td>
 			<td>
 				44,2 kWh
@@ -912,7 +912,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				152 kW
 			</td>
 			<td>
-				 16 m 7 s
+				 16 m 28 s
 			</td>
 			<td>
 				45,1 kWh
@@ -926,7 +926,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				148 kW
 			</td>
 			<td>
-				 16 m 31 s
+				 16 m 52 s
 			</td>
 			<td>
 				46,1 kWh
@@ -940,7 +940,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				144 kW
 			</td>
 			<td>
-				 16 m 56 s
+				 17 m 18 s
 			</td>
 			<td>
 				47,0 kWh
@@ -954,7 +954,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				140 kW
 			</td>
 			<td>
-				 17 m 22 s
+				 17 m 44 s
 			</td>
 			<td>
 				48,0 kWh
@@ -968,7 +968,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				137 kW
 			</td>
 			<td>
-				 17 m 48 s
+				 18 m 11 s
 			</td>
 			<td>
 				49,0 kWh
@@ -982,7 +982,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				134 kW
 			</td>
 			<td>
-				 18 m 15 s
+				 18 m 38 s
 			</td>
 			<td>
 				49,9 kWh
@@ -996,7 +996,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				131 kW
 			</td>
 			<td>
-				 18 m 42 s
+				 19 m 6 s
 			</td>
 			<td>
 				50,9 kWh
@@ -1010,7 +1010,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				128 kW
 			</td>
 			<td>
-				 19 m 10 s
+				 19 m 35 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1024,7 +1024,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				125 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 4 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1038,7 +1038,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				122 kW
 			</td>
 			<td>
-				 20 m 8 s
+				 20 m 34 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1052,7 +1052,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				120 kW
 			</td>
 			<td>
-				 20 m 39 s
+				 21 m 5 s
 			</td>
 			<td>
 				54,7 kWh
@@ -1066,7 +1066,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				117 kW
 			</td>
 			<td>
-				 21 m 9 s
+				 21 m 37 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1080,7 +1080,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				115 kW
 			</td>
 			<td>
-				 21 m 41 s
+				 22 m 9 s
 			</td>
 			<td>
 				56,6 kWh
@@ -1094,7 +1094,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				112 kW
 			</td>
 			<td>
-				 22 m 13 s
+				 22 m 41 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1108,7 +1108,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				110 kW
 			</td>
 			<td>
-				 22 m 46 s
+				 23 m 15 s
 			</td>
 			<td>
 				58,6 kWh
@@ -1122,7 +1122,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				107 kW
 			</td>
 			<td>
-				 23 m 19 s
+				 23 m 49 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1136,7 +1136,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				105 kW
 			</td>
 			<td>
-				 23 m 53 s
+				 24 m 24 s
 			</td>
 			<td>
 				60,5 kWh
@@ -1150,7 +1150,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				102 kW
 			</td>
 			<td>
-				 24 m 29 s
+				 25 m 0 s
 			</td>
 			<td>
 				61,4 kWh
@@ -1164,7 +1164,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				100 kW
 			</td>
 			<td>
-				 25 m 5 s
+				 25 m 37 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1178,7 +1178,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				97 kW
 			</td>
 			<td>
-				 25 m 41 s
+				 26 m 15 s
 			</td>
 			<td>
 				63,4 kWh
@@ -1192,7 +1192,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				95 kW
 			</td>
 			<td>
-				 26 m 19 s
+				 26 m 53 s
 			</td>
 			<td>
 				64,3 kWh
@@ -1206,7 +1206,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				92 kW
 			</td>
 			<td>
-				 26 m 58 s
+				 27 m 33 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1220,7 +1220,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				90 kW
 			</td>
 			<td>
-				 27 m 38 s
+				 28 m 14 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1234,7 +1234,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				87 kW
 			</td>
 			<td>
-				 28 m 19 s
+				 28 m 56 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1248,7 +1248,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				84 kW
 			</td>
 			<td>
-				 29 m 2 s
+				 29 m 39 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1262,7 +1262,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				82 kW
 			</td>
 			<td>
-				 29 m 46 s
+				 30 m 24 s
 			</td>
 			<td>
 				69,1 kWh
@@ -1276,7 +1276,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				79 kW
 			</td>
 			<td>
-				 30 m 31 s
+				 31 m 10 s
 			</td>
 			<td>
 				70,1 kWh
@@ -1290,7 +1290,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				77 kW
 			</td>
 			<td>
-				 31 m 17 s
+				 31 m 58 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1304,7 +1304,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				74 kW
 			</td>
 			<td>
-				 32 m 6 s
+				 32 m 47 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1318,7 +1318,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				72 kW
 			</td>
 			<td>
-				 32 m 56 s
+				 33 m 38 s
 			</td>
 			<td>
 				73,0 kWh
@@ -1332,7 +1332,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				69 kW
 			</td>
 			<td>
-				 33 m 47 s
+				 34 m 31 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1346,7 +1346,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				67 kW
 			</td>
 			<td>
-				 34 m 41 s
+				 35 m 26 s
 			</td>
 			<td>
 				74,9 kWh
@@ -1360,7 +1360,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				64 kW
 			</td>
 			<td>
-				 35 m 36 s
+				 36 m 22 s
 			</td>
 			<td>
 				75,8 kWh
@@ -1374,7 +1374,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				62 kW
 			</td>
 			<td>
-				 36 m 34 s
+				 37 m 21 s
 			</td>
 			<td>
 				76,8 kWh
@@ -1388,7 +1388,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				60 kW
 			</td>
 			<td>
-				 37 m 33 s
+				 38 m 22 s
 			</td>
 			<td>
 				77,8 kWh
@@ -1402,7 +1402,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				59 kW
 			</td>
 			<td>
-				 38 m 34 s
+				 39 m 24 s
 			</td>
 			<td>
 				78,7 kWh
@@ -1416,7 +1416,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				57 kW
 			</td>
 			<td>
-				 39 m 37 s
+				 40 m 28 s
 			</td>
 			<td>
 				79,7 kWh
@@ -1430,7 +1430,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				56 kW
 			</td>
 			<td>
-				 40 m 42 s
+				 41 m 34 s
 			</td>
 			<td>
 				80,6 kWh
@@ -1444,7 +1444,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				54 kW
 			</td>
 			<td>
-				 41 m 48 s
+				 42 m 42 s
 			</td>
 			<td>
 				81,6 kWh
@@ -1458,7 +1458,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				51 kW
 			</td>
 			<td>
-				 42 m 57 s
+				 43 m 52 s
 			</td>
 			<td>
 				82,6 kWh
@@ -1472,7 +1472,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				49 kW
 			</td>
 			<td>
-				 44 m 10 s
+				 45 m 7 s
 			</td>
 			<td>
 				83,5 kWh
@@ -1486,7 +1486,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				46 kW
 			</td>
 			<td>
-				 45 m 26 s
+				 46 m 25 s
 			</td>
 			<td>
 				84,5 kWh
@@ -1500,7 +1500,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				44 kW
 			</td>
 			<td>
-				 46 m 47 s
+				 47 m 48 s
 			</td>
 			<td>
 				85,4 kWh
@@ -1514,7 +1514,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				41 kW
 			</td>
 			<td>
-				 48 m 13 s
+				 49 m 16 s
 			</td>
 			<td>
 				86,4 kWh
@@ -1528,7 +1528,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				37 kW
 			</td>
 			<td>
-				 49 m 47 s
+				 50 m 51 s
 			</td>
 			<td>
 				87,4 kWh
@@ -1542,7 +1542,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				33 kW
 			</td>
 			<td>
-				 51 m 32 s
+				 52 m 38 s
 			</td>
 			<td>
 				88,3 kWh
@@ -1556,7 +1556,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				28 kW
 			</td>
 			<td>
-				 53 m 31 s
+				 54 m 40 s
 			</td>
 			<td>
 				89,3 kWh
@@ -1570,7 +1570,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				24 kW
 			</td>
 			<td>
-				 55 m 49 s
+				 57 m 1 s
 			</td>
 			<td>
 				90,2 kWh
@@ -1584,7 +1584,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				20 kW
 			</td>
 			<td>
-				 58 m 34 s
+				 59 m 49 s
 			</td>
 			<td>
 				91,2 kWh
@@ -1598,7 +1598,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				18 kW
 			</td>
 			<td>
-				1 h 1 m 45 s
+				1 h 3 m 5 s
 			</td>
 			<td>
 				92,2 kWh
@@ -1612,7 +1612,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				16 kW
 			</td>
 			<td>
-				1 h 5 m 19 s
+				1 h 6 m 44 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1626,7 +1626,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				14 kW
 			</td>
 			<td>
-				1 h 9 m 22 s
+				1 h 10 m 51 s
 			</td>
 			<td>
 				94,1 kWh
@@ -1640,7 +1640,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				12 kW
 			</td>
 			<td>
-				1 h 14 m 2 s
+				1 h 15 m 37 s
 			</td>
 			<td>
 				95,0 kWh
@@ -1654,7 +1654,7 @@ Tesla Model S dispose d'un chauffage de batterie, ce qui facilite la charge à u
 				10 kW
 			</td>
 			<td>
-				1 h 19 m 32 s
+				1 h 21 m 15 s
 			</td>
 			<td>
 				96,0 kWh

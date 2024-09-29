@@ -38,7 +38,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 85,0 kWh og en nettoanvende
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 730 km (454 miles). Forbruget er 12,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 37 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 77%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 156kW. Hver opladningssession ville tage 26 minutter og 17 sekunder. Denne effektive opladningskapacitet gør Onvo L60 RWD til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 77%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 153kW. Hver opladningssession ville tage 27 minutter og 44 sekunder. Denne effektive opladningskapacitet gør Onvo L60 RWD til et praktisk valg til langdistancerejser.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 60,6 kWh og en nettoanvende
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 555 km (345 miles). Forbruget er 12,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 47 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 84kW. Hver opladningssession ville tage 29 minutter og 22 sekunder.
+Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 48 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 83kW. Hver opladningssession ville tage 30 minutter og 53 sekunder.
 
 ### Ombordlader
 

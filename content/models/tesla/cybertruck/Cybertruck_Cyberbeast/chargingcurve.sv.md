@@ -1,7 +1,7 @@
 ---
 title: Tesla Cybertruck Cyberbeast laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
-description: "Här hittar du laddningskurvan för Tesla Cybertruck Cyberbeast."
+description: "Nedan visas laddningskurvan för Tesla Cybertruck Cyberbeast, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				95,9 kW
+				93,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				90,0 kW
+				88,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				113,9 kW
+				111,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				124,0 kW
+				121,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				156,6kW
+				154,2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				17m22s
+				18m38s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				1 h 16 m 37 s
+				1 h 18 m 16 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				1 h 13 m 30 s
+				1 h 15 m 5 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 41 m 28 s
+				 42 m 22 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 0-100%
 			</td>
 			<td>
-				6,7 km (4,2 mi)
+				6,6 km (4,1 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				5,2 km (3,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-100%
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 			<td>
-				5,0 km (3,1 mi)
+				4,9 km (3,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-80%
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,5 km (5,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				8,0 km (5,0 mi)
 			</td>
 			<td>
-				6,9 km (4,3 mi)
+				6,7 km (4,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 0 m 22 s
+				 0 m 23 s
 			</td>
 			<td>
 				1,2 kWh
@@ -282,7 +282,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 0 m 41 s
+				 0 m 42 s
 			</td>
 			<td>
 				2,4 kWh
@@ -296,7 +296,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 0 m 59 s
+				 1 m 0 s
 			</td>
 			<td>
 				3,7 kWh
@@ -310,7 +310,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 1 m 17 s
+				 1 m 19 s
 			</td>
 			<td>
 				4,9 kWh
@@ -324,7 +324,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 1 m 35 s
+				 1 m 37 s
 			</td>
 			<td>
 				6,1 kWh
@@ -338,7 +338,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 56 s
 			</td>
 			<td>
 				7,4 kWh
@@ -352,7 +352,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 14 s
 			</td>
 			<td>
 				8,6 kWh
@@ -366,7 +366,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 2 m 30 s
+				 2 m 33 s
 			</td>
 			<td>
 				9,8 kWh
@@ -380,7 +380,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 2 m 48 s
+				 2 m 52 s
 			</td>
 			<td>
 				11,0 kWh
@@ -394,7 +394,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 3 m 6 s
+				 3 m 10 s
 			</td>
 			<td>
 				12,2 kWh
@@ -408,7 +408,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 3 m 24 s
+				 3 m 29 s
 			</td>
 			<td>
 				13,5 kWh
@@ -422,7 +422,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 3 m 43 s
+				 3 m 47 s
 			</td>
 			<td>
 				14,7 kWh
@@ -436,7 +436,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 4 m 1 s
+				 4 m 6 s
 			</td>
 			<td>
 				15,9 kWh
@@ -450,7 +450,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 4 m 19 s
+				 4 m 25 s
 			</td>
 			<td>
 				17,2 kWh
@@ -464,7 +464,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				255 kW
 			</td>
 			<td>
-				 4 m 37 s
+				 4 m 43 s
 			</td>
 			<td>
 				18,4 kWh
@@ -478,7 +478,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				256 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 2 s
 			</td>
 			<td>
 				19,6 kWh
@@ -492,7 +492,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				256 kW
 			</td>
 			<td>
-				 5 m 14 s
+				 5 m 20 s
 			</td>
 			<td>
 				20,8 kWh
@@ -506,7 +506,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				256 kW
 			</td>
 			<td>
-				 5 m 32 s
+				 5 m 39 s
 			</td>
 			<td>
 				22,0 kWh
@@ -520,7 +520,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				256 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 5 m 57 s
 			</td>
 			<td>
 				23,3 kWh
@@ -534,7 +534,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				256 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 6 m 16 s
 			</td>
 			<td>
 				24,5 kWh
@@ -548,7 +548,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				256 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 34 s
 			</td>
 			<td>
 				25,7 kWh
@@ -562,7 +562,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				251 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 6 m 53 s
 			</td>
 			<td>
 				27,0 kWh
@@ -576,7 +576,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				251 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 12 s
 			</td>
 			<td>
 				28,2 kWh
@@ -590,7 +590,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				251 kW
 			</td>
 			<td>
-				 7 m 21 s
+				 7 m 31 s
 			</td>
 			<td>
 				29,4 kWh
@@ -604,7 +604,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				251 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 7 m 50 s
 			</td>
 			<td>
 				30,6 kWh
@@ -618,7 +618,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				231 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 8 m 9 s
 			</td>
 			<td>
 				31,8 kWh
@@ -632,7 +632,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				222 kW
 			</td>
 			<td>
-				 8 m 20 s
+				 8 m 30 s
 			</td>
 			<td>
 				33,1 kWh
@@ -646,7 +646,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				216 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				34,3 kWh
@@ -660,7 +660,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				208 kW
 			</td>
 			<td>
-				 9 m 3 s
+				 9 m 14 s
 			</td>
 			<td>
 				35,5 kWh
@@ -674,7 +674,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				204 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 37 s
 			</td>
 			<td>
 				36,8 kWh
@@ -688,7 +688,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				200 kW
 			</td>
 			<td>
-				 9 m 48 s
+				 10 m 1 s
 			</td>
 			<td>
 				38,0 kWh
@@ -702,7 +702,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				194 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 10 m 25 s
 			</td>
 			<td>
 				39,2 kWh
@@ -716,7 +716,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				187 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 50 s
 			</td>
 			<td>
 				40,4 kWh
@@ -730,7 +730,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				183 kW
 			</td>
 			<td>
-				 11 m 1 s
+				 11 m 16 s
 			</td>
 			<td>
 				41,6 kWh
@@ -744,7 +744,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				176 kW
 			</td>
 			<td>
-				 11 m 27 s
+				 11 m 42 s
 			</td>
 			<td>
 				42,9 kWh
@@ -758,7 +758,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				170 kW
 			</td>
 			<td>
-				 11 m 54 s
+				 12 m 9 s
 			</td>
 			<td>
 				44,1 kWh
@@ -772,7 +772,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				167 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 38 s
 			</td>
 			<td>
 				45,3 kWh
@@ -786,7 +786,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				162 kW
 			</td>
 			<td>
-				 12 m 50 s
+				 13 m 6 s
 			</td>
 			<td>
 				46,6 kWh
@@ -800,7 +800,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				158 kW
 			</td>
 			<td>
-				 13 m 19 s
+				 13 m 36 s
 			</td>
 			<td>
 				47,8 kWh
@@ -814,7 +814,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				155 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 14 m 6 s
 			</td>
 			<td>
 				49,0 kWh
@@ -828,7 +828,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				151 kW
 			</td>
 			<td>
-				 14 m 19 s
+				 14 m 37 s
 			</td>
 			<td>
 				50,2 kWh
@@ -842,7 +842,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				148 kW
 			</td>
 			<td>
-				 14 m 50 s
+				 15 m 9 s
 			</td>
 			<td>
 				51,4 kWh
@@ -856,7 +856,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				144 kW
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 41 s
 			</td>
 			<td>
 				52,7 kWh
@@ -870,7 +870,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				142 kW
 			</td>
 			<td>
-				 15 m 54 s
+				 16 m 15 s
 			</td>
 			<td>
 				53,9 kWh
@@ -884,7 +884,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				139 kW
 			</td>
 			<td>
-				 16 m 27 s
+				 16 m 48 s
 			</td>
 			<td>
 				55,1 kWh
@@ -898,7 +898,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				136 kW
 			</td>
 			<td>
-				 17 m 1 s
+				 17 m 23 s
 			</td>
 			<td>
 				56,4 kWh
@@ -912,7 +912,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				133 kW
 			</td>
 			<td>
-				 17 m 35 s
+				 17 m 58 s
 			</td>
 			<td>
 				57,6 kWh
@@ -926,7 +926,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				130 kW
 			</td>
 			<td>
-				 18 m 11 s
+				 18 m 34 s
 			</td>
 			<td>
 				58,8 kWh
@@ -940,7 +940,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				127 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 11 s
 			</td>
 			<td>
 				60,0 kWh
@@ -954,7 +954,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				126 kW
 			</td>
 			<td>
-				 19 m 24 s
+				 19 m 49 s
 			</td>
 			<td>
 				61,2 kWh
@@ -968,7 +968,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				124 kW
 			</td>
 			<td>
-				 20 m 1 s
+				 20 m 27 s
 			</td>
 			<td>
 				62,5 kWh
@@ -982,7 +982,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				123 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 21 m 5 s
 			</td>
 			<td>
 				63,7 kWh
@@ -996,7 +996,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				121 kW
 			</td>
 			<td>
-				 21 m 17 s
+				 21 m 44 s
 			</td>
 			<td>
 				64,9 kWh
@@ -1010,7 +1010,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				121 kW
 			</td>
 			<td>
-				 21 m 55 s
+				 22 m 23 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1024,7 +1024,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				120 kW
 			</td>
 			<td>
-				 22 m 33 s
+				 23 m 3 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1038,7 +1038,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				118 kW
 			</td>
 			<td>
-				 23 m 13 s
+				 23 m 42 s
 			</td>
 			<td>
 				68,6 kWh
@@ -1052,7 +1052,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				115 kW
 			</td>
 			<td>
-				 23 m 52 s
+				 24 m 23 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1066,7 +1066,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				112 kW
 			</td>
 			<td>
-				 24 m 33 s
+				 25 m 5 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1080,7 +1080,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				110 kW
 			</td>
 			<td>
-				 25 m 15 s
+				 25 m 48 s
 			</td>
 			<td>
 				72,3 kWh
@@ -1094,7 +1094,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				107 kW
 			</td>
 			<td>
-				 25 m 58 s
+				 26 m 31 s
 			</td>
 			<td>
 				73,5 kWh
@@ -1108,7 +1108,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				102 kW
 			</td>
 			<td>
-				 26 m 42 s
+				 27 m 17 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1122,7 +1122,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				99 kW
 			</td>
 			<td>
-				 27 m 28 s
+				 28 m 4 s
 			</td>
 			<td>
 				76,0 kWh
@@ -1136,7 +1136,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				94 kW
 			</td>
 			<td>
-				 28 m 17 s
+				 28 m 53 s
 			</td>
 			<td>
 				77,2 kWh
@@ -1150,7 +1150,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				89 kW
 			</td>
 			<td>
-				 29 m 7 s
+				 29 m 45 s
 			</td>
 			<td>
 				78,4 kWh
@@ -1164,7 +1164,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				86 kW
 			</td>
 			<td>
-				 30 m 0 s
+				 30 m 39 s
 			</td>
 			<td>
 				79,6 kWh
@@ -1178,7 +1178,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				83 kW
 			</td>
 			<td>
-				 30 m 55 s
+				 31 m 35 s
 			</td>
 			<td>
 				80,8 kWh
@@ -1192,7 +1192,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				81 kW
 			</td>
 			<td>
-				 31 m 52 s
+				 32 m 33 s
 			</td>
 			<td>
 				82,1 kWh
@@ -1206,7 +1206,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				80 kW
 			</td>
 			<td>
-				 32 m 50 s
+				 33 m 32 s
 			</td>
 			<td>
 				83,3 kWh
@@ -1220,7 +1220,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 33 m 48 s
+				 34 m 32 s
 			</td>
 			<td>
 				84,5 kWh
@@ -1234,7 +1234,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 34 m 47 s
+				 35 m 32 s
 			</td>
 			<td>
 				85,8 kWh
@@ -1248,7 +1248,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 35 m 45 s
+				 36 m 32 s
 			</td>
 			<td>
 				87,0 kWh
@@ -1262,7 +1262,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 36 m 44 s
+				 37 m 32 s
 			</td>
 			<td>
 				88,2 kWh
@@ -1276,7 +1276,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 37 m 43 s
+				 38 m 32 s
 			</td>
 			<td>
 				89,4 kWh
@@ -1290,7 +1290,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 38 m 42 s
+				 39 m 32 s
 			</td>
 			<td>
 				90,6 kWh
@@ -1304,7 +1304,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 39 m 41 s
+				 40 m 32 s
 			</td>
 			<td>
 				91,9 kWh
@@ -1318,7 +1318,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				78 kW
 			</td>
 			<td>
-				 40 m 40 s
+				 41 m 32 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1332,7 +1332,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				78 kW
 			</td>
 			<td>
-				 41 m 39 s
+				 42 m 33 s
 			</td>
 			<td>
 				94,3 kWh
@@ -1346,7 +1346,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 42 m 38 s
+				 43 m 33 s
 			</td>
 			<td>
 				95,6 kWh
@@ -1360,7 +1360,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 43 m 37 s
+				 44 m 33 s
 			</td>
 			<td>
 				96,8 kWh
@@ -1374,7 +1374,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				81 kW
 			</td>
 			<td>
-				 44 m 35 s
+				 45 m 33 s
 			</td>
 			<td>
 				98,0 kWh
@@ -1388,7 +1388,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				82 kW
 			</td>
 			<td>
-				 45 m 32 s
+				 46 m 31 s
 			</td>
 			<td>
 				99,2 kWh
@@ -1402,7 +1402,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				83 kW
 			</td>
 			<td>
-				 46 m 28 s
+				 47 m 28 s
 			</td>
 			<td>
 				100,4 kWh
@@ -1416,7 +1416,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				83 kW
 			</td>
 			<td>
-				 47 m 24 s
+				 48 m 25 s
 			</td>
 			<td>
 				101,7 kWh
@@ -1430,7 +1430,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				81 kW
 			</td>
 			<td>
-				 48 m 21 s
+				 49 m 23 s
 			</td>
 			<td>
 				102,9 kWh
@@ -1444,7 +1444,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				79 kW
 			</td>
 			<td>
-				 49 m 19 s
+				 50 m 23 s
 			</td>
 			<td>
 				104,1 kWh
@@ -1458,7 +1458,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				76 kW
 			</td>
 			<td>
-				 50 m 19 s
+				 51 m 24 s
 			</td>
 			<td>
 				105,4 kWh
@@ -1472,7 +1472,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				73 kW
 			</td>
 			<td>
-				 51 m 21 s
+				 52 m 27 s
 			</td>
 			<td>
 				106,6 kWh
@@ -1486,7 +1486,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				71 kW
 			</td>
 			<td>
-				 52 m 26 s
+				 53 m 33 s
 			</td>
 			<td>
 				107,8 kWh
@@ -1500,7 +1500,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				67 kW
 			</td>
 			<td>
-				 53 m 33 s
+				 54 m 42 s
 			</td>
 			<td>
 				109,0 kWh
@@ -1514,7 +1514,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				63 kW
 			</td>
 			<td>
-				 54 m 44 s
+				 55 m 55 s
 			</td>
 			<td>
 				110,2 kWh
@@ -1528,7 +1528,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				58 kW
 			</td>
 			<td>
-				 56 m 1 s
+				 57 m 14 s
 			</td>
 			<td>
 				111,5 kWh
@@ -1542,7 +1542,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				52 kW
 			</td>
 			<td>
-				 57 m 26 s
+				 58 m 40 s
 			</td>
 			<td>
 				112,7 kWh
@@ -1556,7 +1556,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				49 kW
 			</td>
 			<td>
-				 58 m 58 s
+				1 h 0 m 14 s
 			</td>
 			<td>
 				113,9 kWh
@@ -1570,7 +1570,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				44 kW
 			</td>
 			<td>
-				1 h 0 m 38 s
+				1 h 1 m 56 s
 			</td>
 			<td>
 				115,2 kWh
@@ -1584,7 +1584,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				39 kW
 			</td>
 			<td>
-				1 h 2 m 30 s
+				1 h 3 m 50 s
 			</td>
 			<td>
 				116,4 kWh
@@ -1598,7 +1598,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				35 kW
 			</td>
 			<td>
-				1 h 4 m 35 s
+				1 h 5 m 59 s
 			</td>
 			<td>
 				117,6 kWh
@@ -1612,7 +1612,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				33 kW
 			</td>
 			<td>
-				1 h 6 m 52 s
+				1 h 8 m 18 s
 			</td>
 			<td>
 				118,8 kWh
@@ -1626,7 +1626,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				32 kW
 			</td>
 			<td>
-				1 h 9 m 15 s
+				1 h 10 m 44 s
 			</td>
 			<td>
 				120,0 kWh
@@ -1640,7 +1640,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				29 kW
 			</td>
 			<td>
-				1 h 11 m 47 s
+				1 h 13 m 19 s
 			</td>
 			<td>
 				121,3 kWh
@@ -1654,7 +1654,7 @@ Tesla Cybertruck Cyberbeast har batteriuppvärmning, vilket underlättar laddnin
 				3 kW
 			</td>
 			<td>
-				1 h 16 m 37 s
+				1 h 18 m 16 s
 			</td>
 			<td>
 				122,5 kWh

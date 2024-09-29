@@ -1,7 +1,7 @@
 ---
 title: Hyundai Kona Standard Range Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Hyundai Kona Standard Range."
+description: "Unten ist die Ladekurve für Hyundai Kona Standard Range dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				54,3 kW
+				53,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				53,1 kW
+				52,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				68,5 kW
+				67,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				74,4 kW
+				72,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimales Ladegebiet
 			</td>
 			<td>
-				4% - 66%
+				4% - 65%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				64,7kW
+				63,6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				28m49s
+				28m51s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				 53 m 26 s
+				 54 m 35 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				 49 m 12 s
+				 50 m 15 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 27 m 19 s
+				 27 m 54 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,7 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,1 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 			<td>
 				?
@@ -189,7 +189,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,9 km (4,3 mi)
+				6,7 km (4,2 mi)
 			</td>
 			<td>
 				?
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,7 km (6,0 mi)
+				9,5 km (5,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,4 km (3,4 mi)
+				5,3 km (3,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				55 kW
 			</td>
 			<td>
-				 0 m 34 s
+				 0 m 35 s
 			</td>
 			<td>
 				0,5 kWh
@@ -282,7 +282,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				60 kW
 			</td>
 			<td>
-				 1 m 6 s
+				 1 m 8 s
 			</td>
 			<td>
 				1,0 kWh
@@ -296,7 +296,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				65 kW
 			</td>
 			<td>
-				 1 m 36 s
+				 1 m 38 s
 			</td>
 			<td>
 				1,5 kWh
@@ -310,7 +310,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				70 kW
 			</td>
 			<td>
-				 2 m 3 s
+				 2 m 6 s
 			</td>
 			<td>
 				1,9 kWh
@@ -324,7 +324,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				75 kW
 			</td>
 			<td>
-				 2 m 28 s
+				 2 m 31 s
 			</td>
 			<td>
 				2,4 kWh
@@ -338,7 +338,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				80 kW
 			</td>
 			<td>
-				 2 m 52 s
+				 2 m 56 s
 			</td>
 			<td>
 				2,9 kWh
@@ -352,7 +352,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				85 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 18 s
 			</td>
 			<td>
 				3,4 kWh
@@ -366,7 +366,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				90 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 40 s
 			</td>
 			<td>
 				3,9 kWh
@@ -380,7 +380,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				95 kW
 			</td>
 			<td>
-				 3 m 55 s
+				 4 m 0 s
 			</td>
 			<td>
 				4,4 kWh
@@ -394,7 +394,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				100 kW
 			</td>
 			<td>
-				 4 m 14 s
+				 4 m 19 s
 			</td>
 			<td>
 				4,8 kWh
@@ -408,7 +408,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				99 kW
 			</td>
 			<td>
-				 4 m 32 s
+				 4 m 38 s
 			</td>
 			<td>
 				5,3 kWh
@@ -422,7 +422,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				99 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 57 s
 			</td>
 			<td>
 				5,8 kWh
@@ -436,7 +436,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				98 kW
 			</td>
 			<td>
-				 5 m 9 s
+				 5 m 16 s
 			</td>
 			<td>
 				6,3 kWh
@@ -450,7 +450,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				98 kW
 			</td>
 			<td>
-				 5 m 28 s
+				 5 m 35 s
 			</td>
 			<td>
 				6,8 kWh
@@ -464,7 +464,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				97 kW
 			</td>
 			<td>
-				 5 m 47 s
+				 5 m 54 s
 			</td>
 			<td>
 				7,3 kWh
@@ -478,7 +478,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				97 kW
 			</td>
 			<td>
-				 6 m 6 s
+				 6 m 13 s
 			</td>
 			<td>
 				7,7 kWh
@@ -492,7 +492,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				96 kW
 			</td>
 			<td>
-				 6 m 25 s
+				 6 m 33 s
 			</td>
 			<td>
 				8,2 kWh
@@ -506,7 +506,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				95 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 6 m 53 s
 			</td>
 			<td>
 				8,7 kWh
@@ -520,7 +520,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				95 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 12 s
 			</td>
 			<td>
 				9,2 kWh
@@ -534,7 +534,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				94 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 32 s
 			</td>
 			<td>
 				9,7 kWh
@@ -548,7 +548,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				94 kW
 			</td>
 			<td>
-				 7 m 42 s
+				 7 m 52 s
 			</td>
 			<td>
 				10,2 kWh
@@ -562,7 +562,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				93 kW
 			</td>
 			<td>
-				 8 m 2 s
+				 8 m 12 s
 			</td>
 			<td>
 				10,6 kWh
@@ -576,7 +576,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				93 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 32 s
 			</td>
 			<td>
 				11,1 kWh
@@ -590,7 +590,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				92 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				11,6 kWh
@@ -604,7 +604,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				91 kW
 			</td>
 			<td>
-				 9 m 1 s
+				 9 m 13 s
 			</td>
 			<td>
 				12,1 kWh
@@ -618,7 +618,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				91 kW
 			</td>
 			<td>
-				 9 m 21 s
+				 9 m 33 s
 			</td>
 			<td>
 				12,6 kWh
@@ -632,7 +632,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				90 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 54 s
 			</td>
 			<td>
 				13,1 kWh
@@ -646,7 +646,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				90 kW
 			</td>
 			<td>
-				 10 m 2 s
+				 10 m 15 s
 			</td>
 			<td>
 				13,6 kWh
@@ -660,7 +660,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				89 kW
 			</td>
 			<td>
-				 10 m 23 s
+				 10 m 36 s
 			</td>
 			<td>
 				14,0 kWh
@@ -674,7 +674,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				89 kW
 			</td>
 			<td>
-				 10 m 43 s
+				 10 m 57 s
 			</td>
 			<td>
 				14,5 kWh
@@ -688,7 +688,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				88 kW
 			</td>
 			<td>
-				 11 m 4 s
+				 11 m 18 s
 			</td>
 			<td>
 				15,0 kWh
@@ -702,7 +702,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				87 kW
 			</td>
 			<td>
-				 11 m 25 s
+				 11 m 40 s
 			</td>
 			<td>
 				15,5 kWh
@@ -716,7 +716,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				87 kW
 			</td>
 			<td>
-				 11 m 46 s
+				 12 m 1 s
 			</td>
 			<td>
 				16,0 kWh
@@ -730,7 +730,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				86 kW
 			</td>
 			<td>
-				 12 m 7 s
+				 12 m 23 s
 			</td>
 			<td>
 				16,5 kWh
@@ -744,7 +744,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				86 kW
 			</td>
 			<td>
-				 12 m 28 s
+				 12 m 45 s
 			</td>
 			<td>
 				16,9 kWh
@@ -758,7 +758,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				85 kW
 			</td>
 			<td>
-				 12 m 50 s
+				 13 m 6 s
 			</td>
 			<td>
 				17,4 kWh
@@ -772,7 +772,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				85 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				17,9 kWh
@@ -786,7 +786,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				84 kW
 			</td>
 			<td>
-				 13 m 33 s
+				 13 m 51 s
 			</td>
 			<td>
 				18,4 kWh
@@ -800,7 +800,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				83 kW
 			</td>
 			<td>
-				 13 m 55 s
+				 14 m 13 s
 			</td>
 			<td>
 				18,9 kWh
@@ -814,7 +814,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				83 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 36 s
 			</td>
 			<td>
 				19,4 kWh
@@ -828,7 +828,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				82 kW
 			</td>
 			<td>
-				 14 m 39 s
+				 14 m 58 s
 			</td>
 			<td>
 				19,8 kWh
@@ -842,7 +842,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				82 kW
 			</td>
 			<td>
-				 15 m 2 s
+				 15 m 21 s
 			</td>
 			<td>
 				20,3 kWh
@@ -856,7 +856,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				81 kW
 			</td>
 			<td>
-				 15 m 24 s
+				 15 m 44 s
 			</td>
 			<td>
 				20,8 kWh
@@ -870,7 +870,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				81 kW
 			</td>
 			<td>
-				 15 m 47 s
+				 16 m 7 s
 			</td>
 			<td>
 				21,3 kWh
@@ -884,7 +884,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				80 kW
 			</td>
 			<td>
-				 16 m 10 s
+				 16 m 31 s
 			</td>
 			<td>
 				21,8 kWh
@@ -898,7 +898,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				79 kW
 			</td>
 			<td>
-				 16 m 33 s
+				 16 m 54 s
 			</td>
 			<td>
 				22,3 kWh
@@ -912,7 +912,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				79 kW
 			</td>
 			<td>
-				 16 m 56 s
+				 17 m 18 s
 			</td>
 			<td>
 				22,7 kWh
@@ -926,7 +926,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				78 kW
 			</td>
 			<td>
-				 17 m 19 s
+				 17 m 42 s
 			</td>
 			<td>
 				23,2 kWh
@@ -940,7 +940,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				78 kW
 			</td>
 			<td>
-				 17 m 43 s
+				 18 m 6 s
 			</td>
 			<td>
 				23,7 kWh
@@ -954,7 +954,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				77 kW
 			</td>
 			<td>
-				 18 m 7 s
+				 18 m 30 s
 			</td>
 			<td>
 				24,2 kWh
@@ -968,7 +968,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				77 kW
 			</td>
 			<td>
-				 18 m 30 s
+				 18 m 54 s
 			</td>
 			<td>
 				24,7 kWh
@@ -982,7 +982,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				76 kW
 			</td>
 			<td>
-				 18 m 54 s
+				 19 m 19 s
 			</td>
 			<td>
 				25,2 kWh
@@ -996,7 +996,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				75 kW
 			</td>
 			<td>
-				 19 m 19 s
+				 19 m 44 s
 			</td>
 			<td>
 				25,7 kWh
@@ -1010,7 +1010,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				75 kW
 			</td>
 			<td>
-				 19 m 43 s
+				 20 m 9 s
 			</td>
 			<td>
 				26,1 kWh
@@ -1024,7 +1024,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				74 kW
 			</td>
 			<td>
-				 20 m 8 s
+				 20 m 34 s
 			</td>
 			<td>
 				26,6 kWh
@@ -1038,7 +1038,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				74 kW
 			</td>
 			<td>
-				 20 m 33 s
+				 20 m 59 s
 			</td>
 			<td>
 				27,1 kWh
@@ -1052,7 +1052,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				73 kW
 			</td>
 			<td>
-				 20 m 57 s
+				 21 m 25 s
 			</td>
 			<td>
 				27,6 kWh
@@ -1066,7 +1066,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				73 kW
 			</td>
 			<td>
-				 21 m 23 s
+				 21 m 50 s
 			</td>
 			<td>
 				28,1 kWh
@@ -1080,7 +1080,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				72 kW
 			</td>
 			<td>
-				 21 m 48 s
+				 22 m 16 s
 			</td>
 			<td>
 				28,6 kWh
@@ -1094,7 +1094,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				71 kW
 			</td>
 			<td>
-				 22 m 14 s
+				 22 m 42 s
 			</td>
 			<td>
 				29,0 kWh
@@ -1108,7 +1108,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				71 kW
 			</td>
 			<td>
-				 22 m 39 s
+				 23 m 9 s
 			</td>
 			<td>
 				29,5 kWh
@@ -1122,7 +1122,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				70 kW
 			</td>
 			<td>
-				 23 m 5 s
+				 23 m 35 s
 			</td>
 			<td>
 				30,0 kWh
@@ -1136,7 +1136,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				70 kW
 			</td>
 			<td>
-				 23 m 32 s
+				 24 m 2 s
 			</td>
 			<td>
 				30,5 kWh
@@ -1150,7 +1150,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				69 kW
 			</td>
 			<td>
-				 23 m 58 s
+				 24 m 29 s
 			</td>
 			<td>
 				31,0 kWh
@@ -1164,7 +1164,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				69 kW
 			</td>
 			<td>
-				 24 m 25 s
+				 24 m 56 s
 			</td>
 			<td>
 				31,5 kWh
@@ -1178,7 +1178,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				68 kW
 			</td>
 			<td>
-				 24 m 51 s
+				 25 m 24 s
 			</td>
 			<td>
 				31,9 kWh
@@ -1192,7 +1192,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				67 kW
 			</td>
 			<td>
-				 25 m 19 s
+				 25 m 51 s
 			</td>
 			<td>
 				32,4 kWh
@@ -1206,7 +1206,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				67 kW
 			</td>
 			<td>
-				 25 m 46 s
+				 26 m 19 s
 			</td>
 			<td>
 				32,9 kWh
@@ -1220,7 +1220,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				66 kW
 			</td>
 			<td>
-				 26 m 13 s
+				 26 m 47 s
 			</td>
 			<td>
 				33,4 kWh
@@ -1234,7 +1234,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				66 kW
 			</td>
 			<td>
-				 26 m 41 s
+				 27 m 16 s
 			</td>
 			<td>
 				33,9 kWh
@@ -1248,7 +1248,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				65 kW
 			</td>
 			<td>
-				 27 m 9 s
+				 27 m 44 s
 			</td>
 			<td>
 				34,4 kWh
@@ -1262,7 +1262,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				65 kW
 			</td>
 			<td>
-				 27 m 38 s
+				 28 m 13 s
 			</td>
 			<td>
 				34,8 kWh
@@ -1276,7 +1276,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				64 kW
 			</td>
 			<td>
-				 28 m 6 s
+				 28 m 42 s
 			</td>
 			<td>
 				35,3 kWh
@@ -1290,7 +1290,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				63 kW
 			</td>
 			<td>
-				 28 m 35 s
+				 29 m 12 s
 			</td>
 			<td>
 				35,8 kWh
@@ -1304,7 +1304,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				63 kW
 			</td>
 			<td>
-				 29 m 4 s
+				 29 m 41 s
 			</td>
 			<td>
 				36,3 kWh
@@ -1318,7 +1318,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				62 kW
 			</td>
 			<td>
-				 29 m 33 s
+				 30 m 11 s
 			</td>
 			<td>
 				36,8 kWh
@@ -1332,7 +1332,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				62 kW
 			</td>
 			<td>
-				 30 m 3 s
+				 30 m 42 s
 			</td>
 			<td>
 				37,3 kWh
@@ -1346,7 +1346,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				61 kW
 			</td>
 			<td>
-				 30 m 33 s
+				 31 m 12 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1360,7 +1360,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				61 kW
 			</td>
 			<td>
-				 31 m 3 s
+				 31 m 43 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1374,7 +1374,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				60 kW
 			</td>
 			<td>
-				 31 m 33 s
+				 32 m 14 s
 			</td>
 			<td>
 				38,7 kWh
@@ -1388,7 +1388,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				58 kW
 			</td>
 			<td>
-				 32 m 4 s
+				 32 m 46 s
 			</td>
 			<td>
 				39,2 kWh
@@ -1402,7 +1402,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				55 kW
 			</td>
 			<td>
-				 32 m 37 s
+				 33 m 19 s
 			</td>
 			<td>
 				39,7 kWh
@@ -1416,7 +1416,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				53 kW
 			</td>
 			<td>
-				 33 m 11 s
+				 33 m 54 s
 			</td>
 			<td>
 				40,2 kWh
@@ -1430,7 +1430,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				50 kW
 			</td>
 			<td>
-				 33 m 47 s
+				 34 m 31 s
 			</td>
 			<td>
 				40,7 kWh
@@ -1444,7 +1444,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				48 kW
 			</td>
 			<td>
-				 34 m 25 s
+				 35 m 9 s
 			</td>
 			<td>
 				41,1 kWh
@@ -1458,7 +1458,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				45 kW
 			</td>
 			<td>
-				 35 m 4 s
+				 35 m 50 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1472,7 +1472,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				43 kW
 			</td>
 			<td>
-				 35 m 46 s
+				 36 m 32 s
 			</td>
 			<td>
 				42,1 kWh
@@ -1486,7 +1486,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				40 kW
 			</td>
 			<td>
-				 36 m 31 s
+				 37 m 18 s
 			</td>
 			<td>
 				42,6 kWh
@@ -1500,7 +1500,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				38 kW
 			</td>
 			<td>
-				 37 m 18 s
+				 38 m 6 s
 			</td>
 			<td>
 				43,1 kWh
@@ -1514,7 +1514,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				35 kW
 			</td>
 			<td>
-				 38 m 9 s
+				 38 m 58 s
 			</td>
 			<td>
 				43,6 kWh
@@ -1528,7 +1528,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				33 kW
 			</td>
 			<td>
-				 39 m 3 s
+				 39 m 53 s
 			</td>
 			<td>
 				44,0 kWh
@@ -1542,7 +1542,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				30 kW
 			</td>
 			<td>
-				 40 m 2 s
+				 40 m 53 s
 			</td>
 			<td>
 				44,5 kWh
@@ -1556,7 +1556,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				28 kW
 			</td>
 			<td>
-				 41 m 5 s
+				 41 m 58 s
 			</td>
 			<td>
 				45,0 kWh
@@ -1570,7 +1570,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				25 kW
 			</td>
 			<td>
-				 42 m 15 s
+				 43 m 10 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1584,7 +1584,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				23 kW
 			</td>
 			<td>
-				 43 m 32 s
+				 44 m 29 s
 			</td>
 			<td>
 				46,0 kWh
@@ -1598,7 +1598,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				20 kW
 			</td>
 			<td>
-				 44 m 59 s
+				 45 m 57 s
 			</td>
 			<td>
 				46,5 kWh
@@ -1612,7 +1612,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				18 kW
 			</td>
 			<td>
-				 46 m 37 s
+				 47 m 37 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1626,7 +1626,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				15 kW
 			</td>
 			<td>
-				 48 m 29 s
+				 49 m 32 s
 			</td>
 			<td>
 				47,4 kWh
@@ -1640,7 +1640,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				13 kW
 			</td>
 			<td>
-				 50 m 43 s
+				 51 m 48 s
 			</td>
 			<td>
 				47,9 kWh
@@ -1654,7 +1654,7 @@ Hyundai Kona Standard Range verfügt über eine Batterieheizung, die das Laden b
 				10 kW
 			</td>
 			<td>
-				 53 m 26 s
+				 54 m 35 s
 			</td>
 			<td>
 				48,4 kWh

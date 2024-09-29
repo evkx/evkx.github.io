@@ -35,9 +35,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 89,0 kWh og en netto brukbar
 Den estimerte rekkevidden fra [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) varierer mellom 281 og 273 miles (452-439 km), avhengig av bilens konfigurasjon og alternativer. For eksempel kan større hjul øke energiforbruket og redusere den totale rekkevidden.
 Energiforbruksratene er 3,3 mi/kWh for grunnmodellen og 3,2 mi/kWh for toppmodellen, ifølge EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 102kW. Hver ladeøkt vil ta 25 minutter og 56 sekunder.
+Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 25 minutter og 21 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 57 minutter. Denne reisen ville kreve to ladestopp fra 6% til 55%, med en total ladetid på 98 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 6% til 55%, med en total ladetid på 99 minutter.
 
 ### Ombordlader
 

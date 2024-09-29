@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für MG MG5 Electric Long Range."
+description: "Unten ist die Ladekurve für MG MG5 Electric Long Range dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				45,7 kW
+				44,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				46,1 kW
+				45,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				64,3 kW
+				63,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				73,5 kW
+				71,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				66,7kW
+				65,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				26m50s
+				26m16s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 15 m 21 s
+				1 h 16 m 59 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				1 h 7 m 15 s
+				1 h 8 m 42 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 32 m 48 s
+				 33 m 30 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				5,2 km (3,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				3,3 km (2,1 mi)
+				3,2 km (2,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,7 +189,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,4 km (3,4 mi)
+				5,2 km (3,2 mi)
 			</td>
 			<td>
 				?
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,5 km (5,3 mi)
+				8,4 km (5,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				5,2 km (3,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				26 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				0,6 kWh
@@ -282,7 +282,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				33 kW
 			</td>
 			<td>
-				 2 m 47 s
+				 2 m 50 s
 			</td>
 			<td>
 				1,1 kWh
@@ -296,7 +296,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				39 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 3 m 52 s
 			</td>
 			<td>
 				1,7 kWh
@@ -310,7 +310,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				46 kW
 			</td>
 			<td>
-				 4 m 38 s
+				 4 m 44 s
 			</td>
 			<td>
 				2,3 kWh
@@ -324,7 +324,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				52 kW
 			</td>
 			<td>
-				 5 m 23 s
+				 5 m 30 s
 			</td>
 			<td>
 				2,9 kWh
@@ -338,7 +338,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				58 kW
 			</td>
 			<td>
-				 6 m 2 s
+				 6 m 10 s
 			</td>
 			<td>
 				3,4 kWh
@@ -352,7 +352,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				65 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				4,0 kWh
@@ -366,7 +366,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				71 kW
 			</td>
 			<td>
-				 7 m 10 s
+				 7 m 19 s
 			</td>
 			<td>
 				4,6 kWh
@@ -380,7 +380,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				78 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 49 s
 			</td>
 			<td>
 				5,2 kWh
@@ -394,7 +394,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				84 kW
 			</td>
 			<td>
-				 8 m 6 s
+				 8 m 16 s
 			</td>
 			<td>
 				5,7 kWh
@@ -408,7 +408,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				86 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				6,3 kWh
@@ -422,7 +422,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				88 kW
 			</td>
 			<td>
-				 8 m 56 s
+				 9 m 8 s
 			</td>
 			<td>
 				6,9 kWh
@@ -436,7 +436,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				89 kW
 			</td>
 			<td>
-				 9 m 21 s
+				 9 m 33 s
 			</td>
 			<td>
 				7,5 kWh
@@ -450,7 +450,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 9 m 45 s
+				 9 m 58 s
 			</td>
 			<td>
 				8,0 kWh
@@ -464,7 +464,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 10 m 10 s
+				 10 m 23 s
 			</td>
 			<td>
 				8,6 kWh
@@ -478,7 +478,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 10 m 47 s
 			</td>
 			<td>
 				9,2 kWh
@@ -492,7 +492,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 10 m 58 s
+				 11 m 12 s
 			</td>
 			<td>
 				9,8 kWh
@@ -506,7 +506,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 11 m 22 s
+				 11 m 37 s
 			</td>
 			<td>
 				10,3 kWh
@@ -520,7 +520,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 11 m 46 s
+				 12 m 1 s
 			</td>
 			<td>
 				10,9 kWh
@@ -534,7 +534,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 12 m 10 s
+				 12 m 26 s
 			</td>
 			<td>
 				11,5 kWh
@@ -548,7 +548,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 12 m 35 s
+				 12 m 51 s
 			</td>
 			<td>
 				12,1 kWh
@@ -562,7 +562,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 12 m 59 s
+				 13 m 15 s
 			</td>
 			<td>
 				12,6 kWh
@@ -576,7 +576,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				89 kW
 			</td>
 			<td>
-				 13 m 23 s
+				 13 m 40 s
 			</td>
 			<td>
 				13,2 kWh
@@ -590,7 +590,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				89 kW
 			</td>
 			<td>
-				 13 m 47 s
+				 14 m 5 s
 			</td>
 			<td>
 				13,8 kWh
@@ -604,7 +604,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				89 kW
 			</td>
 			<td>
-				 14 m 12 s
+				 14 m 30 s
 			</td>
 			<td>
 				14,4 kWh
@@ -618,7 +618,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				89 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				14,9 kWh
@@ -632,7 +632,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 15 m 1 s
+				 15 m 20 s
 			</td>
 			<td>
 				15,5 kWh
@@ -646,7 +646,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				90 kW
 			</td>
 			<td>
-				 15 m 25 s
+				 15 m 45 s
 			</td>
 			<td>
 				16,1 kWh
@@ -660,7 +660,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				91 kW
 			</td>
 			<td>
-				 15 m 49 s
+				 16 m 9 s
 			</td>
 			<td>
 				16,6 kWh
@@ -674,7 +674,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				92 kW
 			</td>
 			<td>
-				 16 m 13 s
+				 16 m 34 s
 			</td>
 			<td>
 				17,2 kWh
@@ -688,7 +688,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				92 kW
 			</td>
 			<td>
-				 16 m 36 s
+				 16 m 58 s
 			</td>
 			<td>
 				17,8 kWh
@@ -702,7 +702,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				92 kW
 			</td>
 			<td>
-				 17 m 0 s
+				 17 m 22 s
 			</td>
 			<td>
 				18,4 kWh
@@ -716,7 +716,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				92 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 17 m 46 s
 			</td>
 			<td>
 				18,9 kWh
@@ -730,7 +730,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				92 kW
 			</td>
 			<td>
-				 17 m 47 s
+				 18 m 10 s
 			</td>
 			<td>
 				19,5 kWh
@@ -744,7 +744,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 18 m 11 s
+				 18 m 34 s
 			</td>
 			<td>
 				20,1 kWh
@@ -758,7 +758,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 18 m 34 s
+				 18 m 58 s
 			</td>
 			<td>
 				20,7 kWh
@@ -772,7 +772,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 19 m 22 s
 			</td>
 			<td>
 				21,2 kWh
@@ -786,7 +786,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 19 m 21 s
+				 19 m 46 s
 			</td>
 			<td>
 				21,8 kWh
@@ -800,7 +800,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 19 m 44 s
+				 20 m 10 s
 			</td>
 			<td>
 				22,4 kWh
@@ -814,7 +814,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 20 m 8 s
+				 20 m 34 s
 			</td>
 			<td>
 				23,0 kWh
@@ -828,7 +828,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				93 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 20 m 58 s
 			</td>
 			<td>
 				23,5 kWh
@@ -842,7 +842,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				92 kW
 			</td>
 			<td>
-				 20 m 55 s
+				 21 m 22 s
 			</td>
 			<td>
 				24,1 kWh
@@ -856,7 +856,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				91 kW
 			</td>
 			<td>
-				 21 m 18 s
+				 21 m 46 s
 			</td>
 			<td>
 				24,7 kWh
@@ -870,7 +870,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				89 kW
 			</td>
 			<td>
-				 21 m 42 s
+				 22 m 11 s
 			</td>
 			<td>
 				25,3 kWh
@@ -884,7 +884,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				88 kW
 			</td>
 			<td>
-				 22 m 7 s
+				 22 m 36 s
 			</td>
 			<td>
 				25,8 kWh
@@ -898,7 +898,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				87 kW
 			</td>
 			<td>
-				 22 m 32 s
+				 23 m 1 s
 			</td>
 			<td>
 				26,4 kWh
@@ -912,7 +912,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				86 kW
 			</td>
 			<td>
-				 22 m 57 s
+				 23 m 27 s
 			</td>
 			<td>
 				27,0 kWh
@@ -926,7 +926,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				85 kW
 			</td>
 			<td>
-				 23 m 23 s
+				 23 m 53 s
 			</td>
 			<td>
 				27,6 kWh
@@ -940,7 +940,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				83 kW
 			</td>
 			<td>
-				 23 m 48 s
+				 24 m 19 s
 			</td>
 			<td>
 				28,1 kWh
@@ -954,7 +954,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				82 kW
 			</td>
 			<td>
-				 24 m 15 s
+				 24 m 46 s
 			</td>
 			<td>
 				28,7 kWh
@@ -968,7 +968,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				81 kW
 			</td>
 			<td>
-				 24 m 41 s
+				 25 m 13 s
 			</td>
 			<td>
 				29,3 kWh
@@ -982,7 +982,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				80 kW
 			</td>
 			<td>
-				 25 m 8 s
+				 25 m 41 s
 			</td>
 			<td>
 				29,8 kWh
@@ -996,7 +996,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				79 kW
 			</td>
 			<td>
-				 25 m 36 s
+				 26 m 9 s
 			</td>
 			<td>
 				30,4 kWh
@@ -1010,7 +1010,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				78 kW
 			</td>
 			<td>
-				 26 m 4 s
+				 26 m 37 s
 			</td>
 			<td>
 				31,0 kWh
@@ -1024,7 +1024,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				77 kW
 			</td>
 			<td>
-				 26 m 32 s
+				 27 m 6 s
 			</td>
 			<td>
 				31,6 kWh
@@ -1038,7 +1038,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				76 kW
 			</td>
 			<td>
-				 27 m 0 s
+				 27 m 35 s
 			</td>
 			<td>
 				32,1 kWh
@@ -1052,7 +1052,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				74 kW
 			</td>
 			<td>
-				 27 m 29 s
+				 28 m 5 s
 			</td>
 			<td>
 				32,7 kWh
@@ -1066,7 +1066,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				70 kW
 			</td>
 			<td>
-				 27 m 59 s
+				 28 m 35 s
 			</td>
 			<td>
 				33,3 kWh
@@ -1080,7 +1080,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				69 kW
 			</td>
 			<td>
-				 28 m 31 s
+				 29 m 7 s
 			</td>
 			<td>
 				33,9 kWh
@@ -1094,7 +1094,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				69 kW
 			</td>
 			<td>
-				 29 m 2 s
+				 29 m 40 s
 			</td>
 			<td>
 				34,4 kWh
@@ -1108,7 +1108,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				69 kW
 			</td>
 			<td>
-				 29 m 34 s
+				 30 m 12 s
 			</td>
 			<td>
 				35,0 kWh
@@ -1122,7 +1122,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				69 kW
 			</td>
 			<td>
-				 30 m 5 s
+				 30 m 44 s
 			</td>
 			<td>
 				35,6 kWh
@@ -1136,7 +1136,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				69 kW
 			</td>
 			<td>
-				 30 m 37 s
+				 31 m 16 s
 			</td>
 			<td>
 				36,2 kWh
@@ -1150,7 +1150,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				68 kW
 			</td>
 			<td>
-				 31 m 8 s
+				 31 m 49 s
 			</td>
 			<td>
 				36,7 kWh
@@ -1164,7 +1164,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				67 kW
 			</td>
 			<td>
-				 31 m 41 s
+				 32 m 22 s
 			</td>
 			<td>
 				37,3 kWh
@@ -1178,7 +1178,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				66 kW
 			</td>
 			<td>
-				 32 m 13 s
+				 32 m 55 s
 			</td>
 			<td>
 				37,9 kWh
@@ -1192,7 +1192,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				65 kW
 			</td>
 			<td>
-				 32 m 47 s
+				 33 m 29 s
 			</td>
 			<td>
 				38,5 kWh
@@ -1206,7 +1206,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				63 kW
 			</td>
 			<td>
-				 33 m 21 s
+				 34 m 4 s
 			</td>
 			<td>
 				39,0 kWh
@@ -1220,7 +1220,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				62 kW
 			</td>
 			<td>
-				 33 m 55 s
+				 34 m 39 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1234,7 +1234,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				61 kW
 			</td>
 			<td>
-				 34 m 31 s
+				 35 m 15 s
 			</td>
 			<td>
 				40,2 kWh
@@ -1248,7 +1248,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				60 kW
 			</td>
 			<td>
-				 35 m 7 s
+				 35 m 52 s
 			</td>
 			<td>
 				40,8 kWh
@@ -1262,7 +1262,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				59 kW
 			</td>
 			<td>
-				 35 m 43 s
+				 36 m 29 s
 			</td>
 			<td>
 				41,3 kWh
@@ -1276,7 +1276,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				58 kW
 			</td>
 			<td>
-				 36 m 20 s
+				 37 m 7 s
 			</td>
 			<td>
 				41,9 kWh
@@ -1290,7 +1290,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				58 kW
 			</td>
 			<td>
-				 36 m 58 s
+				 37 m 46 s
 			</td>
 			<td>
 				42,5 kWh
@@ -1304,7 +1304,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				57 kW
 			</td>
 			<td>
-				 37 m 36 s
+				 38 m 24 s
 			</td>
 			<td>
 				43,0 kWh
@@ -1318,7 +1318,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				56 kW
 			</td>
 			<td>
-				 38 m 14 s
+				 39 m 4 s
 			</td>
 			<td>
 				43,6 kWh
@@ -1332,7 +1332,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				55 kW
 			</td>
 			<td>
-				 38 m 53 s
+				 39 m 44 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1346,7 +1346,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				55 kW
 			</td>
 			<td>
-				 39 m 33 s
+				 40 m 24 s
 			</td>
 			<td>
 				44,8 kWh
@@ -1360,7 +1360,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				54 kW
 			</td>
 			<td>
-				 40 m 13 s
+				 41 m 5 s
 			</td>
 			<td>
 				45,3 kWh
@@ -1374,7 +1374,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				51 kW
 			</td>
 			<td>
-				 40 m 54 s
+				 41 m 47 s
 			</td>
 			<td>
 				45,9 kWh
@@ -1388,7 +1388,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				51 kW
 			</td>
 			<td>
-				 41 m 37 s
+				 42 m 31 s
 			</td>
 			<td>
 				46,5 kWh
@@ -1402,7 +1402,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				51 kW
 			</td>
 			<td>
-				 42 m 20 s
+				 43 m 14 s
 			</td>
 			<td>
 				47,1 kWh
@@ -1416,7 +1416,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				42 kW
 			</td>
 			<td>
-				 43 m 6 s
+				 44 m 2 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1430,7 +1430,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				36 kW
 			</td>
 			<td>
-				 44 m 2 s
+				 44 m 59 s
 			</td>
 			<td>
 				48,2 kWh
@@ -1444,7 +1444,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				36 kW
 			</td>
 			<td>
-				 45 m 3 s
+				 46 m 1 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1458,7 +1458,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				36 kW
 			</td>
 			<td>
-				 46 m 3 s
+				 47 m 2 s
 			</td>
 			<td>
 				49,4 kWh
@@ -1472,7 +1472,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				36 kW
 			</td>
 			<td>
-				 47 m 3 s
+				 48 m 4 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1486,7 +1486,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				32 kW
 			</td>
 			<td>
-				 48 m 7 s
+				 49 m 10 s
 			</td>
 			<td>
 				50,5 kWh
@@ -1500,7 +1500,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				26 kW
 			</td>
 			<td>
-				 49 m 22 s
+				 50 m 26 s
 			</td>
 			<td>
 				51,1 kWh
@@ -1514,7 +1514,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				21 kW
 			</td>
 			<td>
-				 50 m 55 s
+				 52 m 1 s
 			</td>
 			<td>
 				51,7 kWh
@@ -1528,7 +1528,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				20 kW
 			</td>
 			<td>
-				 52 m 41 s
+				 53 m 49 s
 			</td>
 			<td>
 				52,2 kWh
@@ -1542,7 +1542,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				19 kW
 			</td>
 			<td>
-				 54 m 34 s
+				 55 m 44 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1556,7 +1556,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				18 kW
 			</td>
 			<td>
-				 56 m 33 s
+				 57 m 46 s
 			</td>
 			<td>
 				53,4 kWh
@@ -1570,7 +1570,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				17 kW
 			</td>
 			<td>
-				 58 m 40 s
+				 59 m 55 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1584,7 +1584,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				16 kW
 			</td>
 			<td>
-				1 h 0 m 55 s
+				1 h 2 m 14 s
 			</td>
 			<td>
 				54,5 kWh
@@ -1598,7 +1598,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				14 kW
 			</td>
 			<td>
-				1 h 3 m 21 s
+				1 h 4 m 43 s
 			</td>
 			<td>
 				55,1 kWh
@@ -1612,7 +1612,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				13 kW
 			</td>
 			<td>
-				1 h 5 m 58 s
+				1 h 7 m 23 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1626,7 +1626,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				12 kW
 			</td>
 			<td>
-				1 h 8 m 48 s
+				1 h 10 m 17 s
 			</td>
 			<td>
 				56,3 kWh
@@ -1640,7 +1640,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				11 kW
 			</td>
 			<td>
-				1 h 11 m 55 s
+				1 h 13 m 28 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1654,7 +1654,7 @@ MG MG5 Electric Long Range verfügt über eine Batterieheizung, die das Laden be
 				10 kW
 			</td>
 			<td>
-				1 h 15 m 21 s
+				1 h 16 m 59 s
 			</td>
 			<td>
 				57,4 kWh

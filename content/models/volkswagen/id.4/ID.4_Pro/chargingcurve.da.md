@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Volkswagen ID.4 Pro."
+description: "Nedan är laddningskurvan för Volkswagen ID.4 Pro, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				78,6 kW
+				77,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				84,4 kW
+				82,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				102,9 kW
+				100,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				113,8 kW
+				111,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				99,2kW
+				97,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				29m20s
+				30m52s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				 58 m 45 s
+				1 h 0 m 1 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 49 m 15 s
+				 50 m 18 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 28 m 25 s
+				 29 m 1 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,0 km (5,6 mi)
+				8,8 km (5,5 mi)
 			</td>
 			<td>
-				6,6 km (4,1 mi)
+				6,4 km (4,0 mi)
 			</td>
 			<td>
-				6,1 km (3,8 mi)
+				6,0 km (3,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,7 km (6,0 mi)
+				9,5 km (5,9 mi)
 			</td>
 			<td>
-				7,0 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 			<td>
-				6,5 km (4,0 mi)
+				6,4 km (4,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				13,0 km (8,1 mi)
+				12,8 km (8,0 mi)
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				9,3 km (5,8 mi)
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -265,7 +265,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				24 kW
 			</td>
 			<td>
-				 2 m 40 s
+				 2 m 44 s
 			</td>
 			<td>
 				0,8 kWh
@@ -279,7 +279,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				36 kW
 			</td>
 			<td>
-				 4 m 17 s
+				 4 m 22 s
 			</td>
 			<td>
 				1,5 kWh
@@ -293,7 +293,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				48 kW
 			</td>
 			<td>
-				 5 m 26 s
+				 5 m 33 s
 			</td>
 			<td>
 				2,3 kWh
@@ -307,7 +307,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				60 kW
 			</td>
 			<td>
-				 6 m 19 s
+				 6 m 28 s
 			</td>
 			<td>
 				3,1 kWh
@@ -321,7 +321,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				73 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 12 s
 			</td>
 			<td>
 				3,8 kWh
@@ -335,7 +335,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				85 kW
 			</td>
 			<td>
-				 7 m 41 s
+				 7 m 50 s
 			</td>
 			<td>
 				4,6 kWh
@@ -349,7 +349,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				97 kW
 			</td>
 			<td>
-				 8 m 13 s
+				 8 m 23 s
 			</td>
 			<td>
 				5,4 kWh
@@ -363,7 +363,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				109 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				6,2 kWh
@@ -377,7 +377,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				121 kW
 			</td>
 			<td>
-				 9 m 6 s
+				 9 m 18 s
 			</td>
 			<td>
 				6,9 kWh
@@ -391,7 +391,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 9 m 29 s
+				 9 m 42 s
 			</td>
 			<td>
 				7,7 kWh
@@ -405,7 +405,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 9 m 51 s
+				 10 m 4 s
 			</td>
 			<td>
 				8,5 kWh
@@ -419,7 +419,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 10 m 13 s
+				 10 m 27 s
 			</td>
 			<td>
 				9,2 kWh
@@ -433,7 +433,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 10 m 35 s
+				 10 m 49 s
 			</td>
 			<td>
 				10,0 kWh
@@ -447,7 +447,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				136 kW
 			</td>
 			<td>
-				 10 m 57 s
+				 11 m 11 s
 			</td>
 			<td>
 				10,8 kWh
@@ -461,7 +461,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 11 m 18 s
+				 11 m 33 s
 			</td>
 			<td>
 				11,6 kWh
@@ -475,7 +475,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 11 m 39 s
+				 11 m 55 s
 			</td>
 			<td>
 				12,3 kWh
@@ -489,7 +489,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 12 m 16 s
 			</td>
 			<td>
 				13,1 kWh
@@ -503,7 +503,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 38 s
 			</td>
 			<td>
 				13,9 kWh
@@ -517,7 +517,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 12 m 43 s
+				 12 m 59 s
 			</td>
 			<td>
 				14,6 kWh
@@ -531,7 +531,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 21 s
 			</td>
 			<td>
 				15,4 kWh
@@ -545,7 +545,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				137 kW
 			</td>
 			<td>
-				 13 m 25 s
+				 13 m 43 s
 			</td>
 			<td>
 				16,2 kWh
@@ -559,7 +559,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 13 m 47 s
+				 14 m 5 s
 			</td>
 			<td>
 				16,9 kWh
@@ -573,7 +573,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 14 m 8 s
+				 14 m 27 s
 			</td>
 			<td>
 				17,7 kWh
@@ -587,7 +587,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 14 m 49 s
 			</td>
 			<td>
 				18,5 kWh
@@ -601,7 +601,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 14 m 52 s
+				 15 m 11 s
 			</td>
 			<td>
 				19,2 kWh
@@ -615,7 +615,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 15 m 13 s
+				 15 m 33 s
 			</td>
 			<td>
 				20,0 kWh
@@ -629,7 +629,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 15 m 35 s
+				 15 m 55 s
 			</td>
 			<td>
 				20,8 kWh
@@ -643,7 +643,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 15 m 57 s
+				 16 m 17 s
 			</td>
 			<td>
 				21,6 kWh
@@ -657,7 +657,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 16 m 18 s
+				 16 m 39 s
 			</td>
 			<td>
 				22,3 kWh
@@ -671,7 +671,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				134 kW
 			</td>
 			<td>
-				 16 m 40 s
+				 17 m 1 s
 			</td>
 			<td>
 				23,1 kWh
@@ -685,7 +685,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 17 m 2 s
+				 17 m 24 s
 			</td>
 			<td>
 				23,9 kWh
@@ -699,7 +699,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 17 m 46 s
 			</td>
 			<td>
 				24,6 kWh
@@ -713,7 +713,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 17 m 46 s
+				 18 m 8 s
 			</td>
 			<td>
 				25,4 kWh
@@ -727,7 +727,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 18 m 7 s
+				 18 m 31 s
 			</td>
 			<td>
 				26,2 kWh
@@ -741,7 +741,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 18 m 29 s
+				 18 m 53 s
 			</td>
 			<td>
 				27,0 kWh
@@ -755,7 +755,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 18 m 51 s
+				 19 m 16 s
 			</td>
 			<td>
 				27,7 kWh
@@ -769,7 +769,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 19 m 13 s
+				 19 m 38 s
 			</td>
 			<td>
 				28,5 kWh
@@ -783,7 +783,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 19 m 35 s
+				 20 m 1 s
 			</td>
 			<td>
 				29,3 kWh
@@ -797,7 +797,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				132 kW
 			</td>
 			<td>
-				 19 m 57 s
+				 20 m 23 s
 			</td>
 			<td>
 				30,0 kWh
@@ -811,7 +811,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				130 kW
 			</td>
 			<td>
-				 20 m 20 s
+				 20 m 46 s
 			</td>
 			<td>
 				30,8 kWh
@@ -825,7 +825,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				129 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 21 m 9 s
 			</td>
 			<td>
 				31,6 kWh
@@ -839,7 +839,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				128 kW
 			</td>
 			<td>
-				 21 m 5 s
+				 21 m 32 s
 			</td>
 			<td>
 				32,3 kWh
@@ -853,7 +853,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				128 kW
 			</td>
 			<td>
-				 21 m 28 s
+				 21 m 55 s
 			</td>
 			<td>
 				33,1 kWh
@@ -867,7 +867,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				127 kW
 			</td>
 			<td>
-				 21 m 51 s
+				 22 m 19 s
 			</td>
 			<td>
 				33,9 kWh
@@ -881,7 +881,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				127 kW
 			</td>
 			<td>
-				 22 m 14 s
+				 22 m 42 s
 			</td>
 			<td>
 				34,6 kWh
@@ -895,7 +895,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				126 kW
 			</td>
 			<td>
-				 22 m 37 s
+				 23 m 6 s
 			</td>
 			<td>
 				35,4 kWh
@@ -909,7 +909,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				126 kW
 			</td>
 			<td>
-				 23 m 0 s
+				 23 m 30 s
 			</td>
 			<td>
 				36,2 kWh
@@ -923,7 +923,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				125 kW
 			</td>
 			<td>
-				 23 m 23 s
+				 23 m 53 s
 			</td>
 			<td>
 				37,0 kWh
@@ -937,7 +937,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				125 kW
 			</td>
 			<td>
-				 23 m 47 s
+				 24 m 17 s
 			</td>
 			<td>
 				37,7 kWh
@@ -951,7 +951,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				124 kW
 			</td>
 			<td>
-				 24 m 10 s
+				 24 m 41 s
 			</td>
 			<td>
 				38,5 kWh
@@ -965,7 +965,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				124 kW
 			</td>
 			<td>
-				 24 m 34 s
+				 25 m 5 s
 			</td>
 			<td>
 				39,3 kWh
@@ -979,7 +979,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				123 kW
 			</td>
 			<td>
-				 24 m 57 s
+				 25 m 30 s
 			</td>
 			<td>
 				40,0 kWh
@@ -993,7 +993,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				123 kW
 			</td>
 			<td>
-				 25 m 21 s
+				 25 m 54 s
 			</td>
 			<td>
 				40,8 kWh
@@ -1007,7 +1007,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				122 kW
 			</td>
 			<td>
-				 25 m 45 s
+				 26 m 18 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1021,7 +1021,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				122 kW
 			</td>
 			<td>
-				 26 m 9 s
+				 26 m 43 s
 			</td>
 			<td>
 				42,4 kWh
@@ -1035,7 +1035,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				121 kW
 			</td>
 			<td>
-				 26 m 33 s
+				 27 m 7 s
 			</td>
 			<td>
 				43,1 kWh
@@ -1049,7 +1049,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				121 kW
 			</td>
 			<td>
-				 26 m 57 s
+				 27 m 32 s
 			</td>
 			<td>
 				43,9 kWh
@@ -1063,7 +1063,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				120 kW
 			</td>
 			<td>
-				 27 m 21 s
+				 27 m 57 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1077,7 +1077,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				120 kW
 			</td>
 			<td>
-				 27 m 46 s
+				 28 m 22 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1091,7 +1091,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				119 kW
 			</td>
 			<td>
-				 28 m 10 s
+				 28 m 47 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1105,7 +1105,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				117 kW
 			</td>
 			<td>
-				 28 m 35 s
+				 29 m 12 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1119,7 +1119,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				114 kW
 			</td>
 			<td>
-				 29 m 0 s
+				 29 m 38 s
 			</td>
 			<td>
 				47,7 kWh
@@ -1133,7 +1133,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				112 kW
 			</td>
 			<td>
-				 29 m 26 s
+				 30 m 4 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1147,7 +1147,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				111 kW
 			</td>
 			<td>
-				 29 m 52 s
+				 30 m 31 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1161,7 +1161,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				110 kW
 			</td>
 			<td>
-				 30 m 19 s
+				 30 m 58 s
 			</td>
 			<td>
 				50,0 kWh
@@ -1175,7 +1175,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				109 kW
 			</td>
 			<td>
-				 30 m 45 s
+				 31 m 25 s
 			</td>
 			<td>
 				50,8 kWh
@@ -1189,7 +1189,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				108 kW
 			</td>
 			<td>
-				 31 m 12 s
+				 31 m 53 s
 			</td>
 			<td>
 				51,6 kWh
@@ -1203,7 +1203,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				108 kW
 			</td>
 			<td>
-				 31 m 39 s
+				 32 m 20 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1217,7 +1217,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				107 kW
 			</td>
 			<td>
-				 32 m 6 s
+				 32 m 48 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1231,7 +1231,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				107 kW
 			</td>
 			<td>
-				 32 m 34 s
+				 33 m 16 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1245,7 +1245,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				105 kW
 			</td>
 			<td>
-				 33 m 1 s
+				 33 m 44 s
 			</td>
 			<td>
 				54,7 kWh
@@ -1259,7 +1259,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				103 kW
 			</td>
 			<td>
-				 33 m 29 s
+				 34 m 13 s
 			</td>
 			<td>
 				55,4 kWh
@@ -1273,7 +1273,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				100 kW
 			</td>
 			<td>
-				 33 m 58 s
+				 34 m 42 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1287,7 +1287,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				98 kW
 			</td>
 			<td>
-				 34 m 28 s
+				 35 m 12 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1301,7 +1301,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				96 kW
 			</td>
 			<td>
-				 34 m 58 s
+				 35 m 43 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1315,7 +1315,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				91 kW
 			</td>
 			<td>
-				 35 m 29 s
+				 36 m 15 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1329,7 +1329,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				86 kW
 			</td>
 			<td>
-				 36 m 2 s
+				 36 m 48 s
 			</td>
 			<td>
 				59,3 kWh
@@ -1343,7 +1343,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				80 kW
 			</td>
 			<td>
-				 36 m 37 s
+				 37 m 24 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1357,7 +1357,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				75 kW
 			</td>
 			<td>
-				 37 m 15 s
+				 38 m 3 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1371,7 +1371,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				70 kW
 			</td>
 			<td>
-				 37 m 55 s
+				 38 m 44 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1385,7 +1385,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				69 kW
 			</td>
 			<td>
-				 38 m 37 s
+				 39 m 27 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1399,7 +1399,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				68 kW
 			</td>
 			<td>
-				 39 m 19 s
+				 40 m 10 s
 			</td>
 			<td>
 				63,1 kWh
@@ -1413,7 +1413,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				67 kW
 			</td>
 			<td>
-				 40 m 3 s
+				 40 m 54 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1427,7 +1427,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				66 kW
 			</td>
 			<td>
-				 40 m 46 s
+				 41 m 39 s
 			</td>
 			<td>
 				64,7 kWh
@@ -1441,7 +1441,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				65 kW
 			</td>
 			<td>
-				 41 m 31 s
+				 42 m 25 s
 			</td>
 			<td>
 				65,4 kWh
@@ -1455,7 +1455,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				64 kW
 			</td>
 			<td>
-				 42 m 16 s
+				 43 m 11 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1469,7 +1469,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				63 kW
 			</td>
 			<td>
-				 43 m 2 s
+				 43 m 58 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1483,7 +1483,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				62 kW
 			</td>
 			<td>
-				 43 m 49 s
+				 44 m 45 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1497,7 +1497,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				61 kW
 			</td>
 			<td>
-				 44 m 36 s
+				 45 m 34 s
 			</td>
 			<td>
 				68,5 kWh
@@ -1511,7 +1511,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				60 kW
 			</td>
 			<td>
-				 45 m 25 s
+				 46 m 23 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1525,7 +1525,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				56 kW
 			</td>
 			<td>
-				 46 m 15 s
+				 47 m 15 s
 			</td>
 			<td>
 				70,1 kWh
@@ -1539,7 +1539,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				52 kW
 			</td>
 			<td>
-				 47 m 9 s
+				 48 m 10 s
 			</td>
 			<td>
 				70,8 kWh
@@ -1553,7 +1553,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				48 kW
 			</td>
 			<td>
-				 48 m 7 s
+				 49 m 9 s
 			</td>
 			<td>
 				71,6 kWh
@@ -1567,7 +1567,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				44 kW
 			</td>
 			<td>
-				 49 m 11 s
+				 50 m 14 s
 			</td>
 			<td>
 				72,4 kWh
@@ -1581,7 +1581,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				40 kW
 			</td>
 			<td>
-				 50 m 20 s
+				 51 m 25 s
 			</td>
 			<td>
 				73,2 kWh
@@ -1595,7 +1595,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				36 kW
 			</td>
 			<td>
-				 51 m 37 s
+				 52 m 44 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1609,7 +1609,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				32 kW
 			</td>
 			<td>
-				 53 m 3 s
+				 54 m 11 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1623,7 +1623,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				28 kW
 			</td>
 			<td>
-				 54 m 40 s
+				 55 m 51 s
 			</td>
 			<td>
 				75,5 kWh
@@ -1637,7 +1637,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				24 kW
 			</td>
 			<td>
-				 56 m 32 s
+				 57 m 45 s
 			</td>
 			<td>
 				76,2 kWh
@@ -1651,7 +1651,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				20 kW
 			</td>
 			<td>
-				 58 m 45 s
+				1 h 0 m 1 s
 			</td>
 			<td>
 				77,0 kWh

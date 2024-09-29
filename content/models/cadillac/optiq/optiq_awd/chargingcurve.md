@@ -1,7 +1,7 @@
 ---
 title: Cadillac OPTIQ AWD charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Cadillac OPTIQ AWD."
+description: "Below is the charging curve for Cadillac OPTIQ AWD, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				72.1 kW
+				70.5 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				70.7 kW
+				69.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				87.0 kW
+				85.1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				97.1 kW
+				95.0 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				100.5kW
+				98.8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				26m23s
+				27m50s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 10 m 46 s
+				1 h 12 m 18 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 4 m 53 s
+				1 h 6 m 17 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 36 m 46 s
+				 37 m 34 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,23 +169,6 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				6,8 km (4,2 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				4,8 km (3,0 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Range per minute 10-100%
-			</td>
-			<td>
 				6,7 km (4,2 mi)
 			</td>
 			<td>
@@ -200,10 +183,27 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				6,6 km (4,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,6 km (2,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Range per minute 10-80%
 			</td>
 			<td>
-				9,2 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
 				?
@@ -212,7 +212,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,5 km (4,0 mi)
+				6,3 km (3,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				60 kW
 			</td>
 			<td>
-				 0 m 58 s
+				 0 m 59 s
 			</td>
 			<td>
 				0.8 kWh
@@ -282,7 +282,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				70 kW
 			</td>
 			<td>
-				 1 m 48 s
+				 1 m 50 s
 			</td>
 			<td>
 				1.7 kWh
@@ -296,7 +296,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				80 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				2.6 kWh
@@ -310,7 +310,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				90 kW
 			</td>
 			<td>
-				 3 m 8 s
+				 3 m 13 s
 			</td>
 			<td>
 				3.4 kWh
@@ -324,7 +324,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				100 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 47 s
 			</td>
 			<td>
 				4.2 kWh
@@ -338,7 +338,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				110 kW
 			</td>
 			<td>
-				 4 m 13 s
+				 4 m 18 s
 			</td>
 			<td>
 				5.1 kWh
@@ -352,7 +352,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				120 kW
 			</td>
 			<td>
-				 4 m 41 s
+				 4 m 47 s
 			</td>
 			<td>
 				6.0 kWh
@@ -366,7 +366,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				130 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 5 m 13 s
 			</td>
 			<td>
 				6.8 kWh
@@ -380,7 +380,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				140 kW
 			</td>
 			<td>
-				 5 m 31 s
+				 5 m 38 s
 			</td>
 			<td>
 				7.6 kWh
@@ -394,7 +394,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				150 kW
 			</td>
 			<td>
-				 5 m 53 s
+				 6 m 0 s
 			</td>
 			<td>
 				8.5 kWh
@@ -408,7 +408,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				150 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				9.4 kWh
@@ -422,7 +422,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				151 kW
 			</td>
 			<td>
-				 6 m 36 s
+				 6 m 44 s
 			</td>
 			<td>
 				10.2 kWh
@@ -436,7 +436,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				151 kW
 			</td>
 			<td>
-				 6 m 57 s
+				 7 m 6 s
 			</td>
 			<td>
 				11.0 kWh
@@ -450,7 +450,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				152 kW
 			</td>
 			<td>
-				 7 m 18 s
+				 7 m 28 s
 			</td>
 			<td>
 				11.9 kWh
@@ -464,7 +464,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				152 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 7 m 49 s
 			</td>
 			<td>
 				12.8 kWh
@@ -478,7 +478,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				153 kW
 			</td>
 			<td>
-				 8 m 1 s
+				 8 m 11 s
 			</td>
 			<td>
 				13.6 kWh
@@ -492,7 +492,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				153 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 33 s
 			</td>
 			<td>
 				14.4 kWh
@@ -506,7 +506,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				152 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 8 m 54 s
 			</td>
 			<td>
 				15.3 kWh
@@ -520,7 +520,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				151 kW
 			</td>
 			<td>
-				 9 m 4 s
+				 9 m 16 s
 			</td>
 			<td>
 				16.2 kWh
@@ -534,7 +534,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				150 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 38 s
 			</td>
 			<td>
 				17.0 kWh
@@ -548,7 +548,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				149 kW
 			</td>
 			<td>
-				 9 m 47 s
+				 10 m 0 s
 			</td>
 			<td>
 				17.8 kWh
@@ -562,7 +562,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				148 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 22 s
 			</td>
 			<td>
 				18.7 kWh
@@ -576,7 +576,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				148 kW
 			</td>
 			<td>
-				 10 m 30 s
+				 10 m 44 s
 			</td>
 			<td>
 				19.6 kWh
@@ -590,7 +590,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				147 kW
 			</td>
 			<td>
-				 10 m 52 s
+				 11 m 6 s
 			</td>
 			<td>
 				20.4 kWh
@@ -604,7 +604,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				146 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 11 m 29 s
 			</td>
 			<td>
 				21.2 kWh
@@ -618,7 +618,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				145 kW
 			</td>
 			<td>
-				 11 m 36 s
+				 11 m 51 s
 			</td>
 			<td>
 				22.1 kWh
@@ -632,7 +632,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				144 kW
 			</td>
 			<td>
-				 11 m 59 s
+				 12 m 14 s
 			</td>
 			<td>
 				23.0 kWh
@@ -646,7 +646,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				143 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				23.8 kWh
@@ -660,7 +660,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				141 kW
 			</td>
 			<td>
-				 12 m 44 s
+				 13 m 0 s
 			</td>
 			<td>
 				24.6 kWh
@@ -674,7 +674,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				139 kW
 			</td>
 			<td>
-				 13 m 7 s
+				 13 m 24 s
 			</td>
 			<td>
 				25.5 kWh
@@ -688,7 +688,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				137 kW
 			</td>
 			<td>
-				 13 m 30 s
+				 13 m 48 s
 			</td>
 			<td>
 				26.4 kWh
@@ -702,7 +702,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				135 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 12 s
 			</td>
 			<td>
 				27.2 kWh
@@ -716,7 +716,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				133 kW
 			</td>
 			<td>
-				 14 m 18 s
+				 14 m 36 s
 			</td>
 			<td>
 				28.0 kWh
@@ -730,7 +730,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				131 kW
 			</td>
 			<td>
-				 14 m 42 s
+				 15 m 1 s
 			</td>
 			<td>
 				28.9 kWh
@@ -744,7 +744,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				129 kW
 			</td>
 			<td>
-				 15 m 7 s
+				 15 m 27 s
 			</td>
 			<td>
 				29.8 kWh
@@ -758,7 +758,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				127 kW
 			</td>
 			<td>
-				 15 m 32 s
+				 15 m 52 s
 			</td>
 			<td>
 				30.6 kWh
@@ -772,7 +772,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				125 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 18 s
 			</td>
 			<td>
 				31.4 kWh
@@ -786,7 +786,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				123 kW
 			</td>
 			<td>
-				 16 m 24 s
+				 16 m 45 s
 			</td>
 			<td>
 				32.3 kWh
@@ -800,7 +800,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				122 kW
 			</td>
 			<td>
-				 16 m 50 s
+				 17 m 12 s
 			</td>
 			<td>
 				33.2 kWh
@@ -814,7 +814,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				121 kW
 			</td>
 			<td>
-				 17 m 17 s
+				 17 m 39 s
 			</td>
 			<td>
 				34.0 kWh
@@ -828,7 +828,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				121 kW
 			</td>
 			<td>
-				 17 m 43 s
+				 18 m 6 s
 			</td>
 			<td>
 				34.8 kWh
@@ -842,7 +842,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				120 kW
 			</td>
 			<td>
-				 18 m 10 s
+				 18 m 34 s
 			</td>
 			<td>
 				35.7 kWh
@@ -856,7 +856,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				120 kW
 			</td>
 			<td>
-				 18 m 37 s
+				 19 m 1 s
 			</td>
 			<td>
 				36.6 kWh
@@ -870,7 +870,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				119 kW
 			</td>
 			<td>
-				 19 m 4 s
+				 19 m 29 s
 			</td>
 			<td>
 				37.4 kWh
@@ -884,7 +884,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				119 kW
 			</td>
 			<td>
-				 19 m 31 s
+				 19 m 56 s
 			</td>
 			<td>
 				38.2 kWh
@@ -898,7 +898,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				118 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 20 m 24 s
 			</td>
 			<td>
 				39.1 kWh
@@ -912,7 +912,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				118 kW
 			</td>
 			<td>
-				 20 m 26 s
+				 20 m 52 s
 			</td>
 			<td>
 				40.0 kWh
@@ -926,7 +926,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				117 kW
 			</td>
 			<td>
-				 20 m 53 s
+				 21 m 20 s
 			</td>
 			<td>
 				40.8 kWh
@@ -940,7 +940,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				117 kW
 			</td>
 			<td>
-				 21 m 21 s
+				 21 m 48 s
 			</td>
 			<td>
 				41.6 kWh
@@ -954,7 +954,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				116 kW
 			</td>
 			<td>
-				 21 m 49 s
+				 22 m 17 s
 			</td>
 			<td>
 				42.5 kWh
@@ -968,7 +968,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				116 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				43.4 kWh
@@ -982,7 +982,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				115 kW
 			</td>
 			<td>
-				 22 m 44 s
+				 23 m 14 s
 			</td>
 			<td>
 				44.2 kWh
@@ -996,7 +996,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				114 kW
 			</td>
 			<td>
-				 23 m 12 s
+				 23 m 42 s
 			</td>
 			<td>
 				45.0 kWh
@@ -1010,7 +1010,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				113 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 24 m 11 s
 			</td>
 			<td>
 				45.9 kWh
@@ -1024,7 +1024,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				113 kW
 			</td>
 			<td>
-				 24 m 9 s
+				 24 m 40 s
 			</td>
 			<td>
 				46.8 kWh
@@ -1038,7 +1038,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				112 kW
 			</td>
 			<td>
-				 24 m 38 s
+				 25 m 10 s
 			</td>
 			<td>
 				47.6 kWh
@@ -1052,7 +1052,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				111 kW
 			</td>
 			<td>
-				 25 m 7 s
+				 25 m 39 s
 			</td>
 			<td>
 				48.4 kWh
@@ -1066,7 +1066,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				110 kW
 			</td>
 			<td>
-				 25 m 36 s
+				 26 m 9 s
 			</td>
 			<td>
 				49.3 kWh
@@ -1080,7 +1080,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				95 kW
 			</td>
 			<td>
-				 26 m 7 s
+				 26 m 41 s
 			</td>
 			<td>
 				50.2 kWh
@@ -1094,7 +1094,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				79 kW
 			</td>
 			<td>
-				 26 m 44 s
+				 27 m 19 s
 			</td>
 			<td>
 				51.0 kWh
@@ -1108,7 +1108,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				64 kW
 			</td>
 			<td>
-				 27 m 29 s
+				 28 m 5 s
 			</td>
 			<td>
 				51.8 kWh
@@ -1122,7 +1122,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				58 kW
 			</td>
 			<td>
-				 28 m 22 s
+				 28 m 59 s
 			</td>
 			<td>
 				52.7 kWh
@@ -1136,7 +1136,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				57 kW
 			</td>
 			<td>
-				 29 m 18 s
+				 29 m 56 s
 			</td>
 			<td>
 				53.6 kWh
@@ -1150,7 +1150,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				56 kW
 			</td>
 			<td>
-				 30 m 15 s
+				 30 m 54 s
 			</td>
 			<td>
 				54.4 kWh
@@ -1164,7 +1164,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				55 kW
 			</td>
 			<td>
-				 31 m 13 s
+				 31 m 53 s
 			</td>
 			<td>
 				55.2 kWh
@@ -1178,7 +1178,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				54 kW
 			</td>
 			<td>
-				 32 m 12 s
+				 32 m 54 s
 			</td>
 			<td>
 				56.1 kWh
@@ -1192,7 +1192,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				59 kW
 			</td>
 			<td>
-				 33 m 9 s
+				 33 m 52 s
 			</td>
 			<td>
 				57.0 kWh
@@ -1206,7 +1206,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				65 kW
 			</td>
 			<td>
-				 34 m 1 s
+				 34 m 45 s
 			</td>
 			<td>
 				57.8 kWh
@@ -1220,7 +1220,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				70 kW
 			</td>
 			<td>
-				 34 m 49 s
+				 35 m 34 s
 			</td>
 			<td>
 				58.6 kWh
@@ -1234,7 +1234,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				75 kW
 			</td>
 			<td>
-				 35 m 34 s
+				 36 m 20 s
 			</td>
 			<td>
 				59.5 kWh
@@ -1248,7 +1248,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				76 kW
 			</td>
 			<td>
-				 36 m 16 s
+				 37 m 3 s
 			</td>
 			<td>
 				60.4 kWh
@@ -1262,7 +1262,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				78 kW
 			</td>
 			<td>
-				 36 m 58 s
+				 37 m 46 s
 			</td>
 			<td>
 				61.2 kWh
@@ -1276,7 +1276,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				79 kW
 			</td>
 			<td>
-				 37 m 39 s
+				 38 m 28 s
 			</td>
 			<td>
 				62.0 kWh
@@ -1290,7 +1290,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				80 kW
 			</td>
 			<td>
-				 38 m 20 s
+				 39 m 9 s
 			</td>
 			<td>
 				62.9 kWh
@@ -1304,7 +1304,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				79 kW
 			</td>
 			<td>
-				 39 m 1 s
+				 39 m 51 s
 			</td>
 			<td>
 				63.8 kWh
@@ -1318,7 +1318,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				78 kW
 			</td>
 			<td>
-				 39 m 42 s
+				 40 m 33 s
 			</td>
 			<td>
 				64.6 kWh
@@ -1332,7 +1332,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				77 kW
 			</td>
 			<td>
-				 40 m 23 s
+				 41 m 15 s
 			</td>
 			<td>
 				65.4 kWh
@@ -1346,7 +1346,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				73 kW
 			</td>
 			<td>
-				 41 m 6 s
+				 41 m 59 s
 			</td>
 			<td>
 				66.3 kWh
@@ -1360,7 +1360,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				69 kW
 			</td>
 			<td>
-				 41 m 51 s
+				 42 m 45 s
 			</td>
 			<td>
 				67.2 kWh
@@ -1374,7 +1374,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				65 kW
 			</td>
 			<td>
-				 42 m 40 s
+				 43 m 35 s
 			</td>
 			<td>
 				68.0 kWh
@@ -1388,7 +1388,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				63 kW
 			</td>
 			<td>
-				 43 m 30 s
+				 44 m 26 s
 			</td>
 			<td>
 				68.8 kWh
@@ -1402,7 +1402,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				61 kW
 			</td>
 			<td>
-				 44 m 22 s
+				 45 m 19 s
 			</td>
 			<td>
 				69.7 kWh
@@ -1416,7 +1416,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				58 kW
 			</td>
 			<td>
-				 45 m 16 s
+				 46 m 15 s
 			</td>
 			<td>
 				70.6 kWh
@@ -1430,7 +1430,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				56 kW
 			</td>
 			<td>
-				 46 m 13 s
+				 47 m 12 s
 			</td>
 			<td>
 				71.4 kWh
@@ -1444,7 +1444,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				54 kW
 			</td>
 			<td>
-				 47 m 12 s
+				 48 m 12 s
 			</td>
 			<td>
 				72.2 kWh
@@ -1458,7 +1458,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				52 kW
 			</td>
 			<td>
-				 48 m 13 s
+				 49 m 15 s
 			</td>
 			<td>
 				73.1 kWh
@@ -1472,7 +1472,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				49 kW
 			</td>
 			<td>
-				 49 m 17 s
+				 50 m 20 s
 			</td>
 			<td>
 				74.0 kWh
@@ -1486,7 +1486,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				47 kW
 			</td>
 			<td>
-				 50 m 24 s
+				 51 m 29 s
 			</td>
 			<td>
 				74.8 kWh
@@ -1500,7 +1500,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				45 kW
 			</td>
 			<td>
-				 51 m 34 s
+				 52 m 40 s
 			</td>
 			<td>
 				75.6 kWh
@@ -1514,7 +1514,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				43 kW
 			</td>
 			<td>
-				 52 m 48 s
+				 53 m 56 s
 			</td>
 			<td>
 				76.5 kWh
@@ -1528,7 +1528,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				40 kW
 			</td>
 			<td>
-				 54 m 6 s
+				 55 m 15 s
 			</td>
 			<td>
 				77.4 kWh
@@ -1542,7 +1542,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				38 kW
 			</td>
 			<td>
-				 55 m 28 s
+				 56 m 39 s
 			</td>
 			<td>
 				78.2 kWh
@@ -1556,7 +1556,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				36 kW
 			</td>
 			<td>
-				 56 m 55 s
+				 58 m 9 s
 			</td>
 			<td>
 				79.0 kWh
@@ -1570,7 +1570,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				34 kW
 			</td>
 			<td>
-				 58 m 28 s
+				 59 m 44 s
 			</td>
 			<td>
 				79.9 kWh
@@ -1584,7 +1584,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				31 kW
 			</td>
 			<td>
-				1 h 0 m 8 s
+				1 h 1 m 25 s
 			</td>
 			<td>
 				80.8 kWh
@@ -1598,7 +1598,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				29 kW
 			</td>
 			<td>
-				1 h 1 m 55 s
+				1 h 3 m 15 s
 			</td>
 			<td>
 				81.6 kWh
@@ -1612,7 +1612,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				27 kW
 			</td>
 			<td>
-				1 h 3 m 50 s
+				1 h 5 m 13 s
 			</td>
 			<td>
 				82.4 kWh
@@ -1626,7 +1626,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				25 kW
 			</td>
 			<td>
-				1 h 5 m 56 s
+				1 h 7 m 21 s
 			</td>
 			<td>
 				83.3 kWh
@@ -1640,7 +1640,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				22 kW
 			</td>
 			<td>
-				1 h 8 m 14 s
+				1 h 9 m 42 s
 			</td>
 			<td>
 				84.2 kWh
@@ -1654,7 +1654,7 @@ Cadillac OPTIQ AWD have battery heating, making charging at an optimum battery t
 				20 kW
 			</td>
 			<td>
-				1 h 10 m 46 s
+				1 h 12 m 18 s
 			</td>
 			<td>
 				85.0 kWh

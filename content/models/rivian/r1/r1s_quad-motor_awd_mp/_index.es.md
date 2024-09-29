@@ -35,9 +35,9 @@ La batería de alta capacidad tiene una capacidad bruta de 149,0 kWh y una capac
 El rango estimado por la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental) varía entre 321 a 340 millas (516-547 km), dependiendo de la configuración y opciones del vehículo. Por ejemplo, las ruedas más grandes pueden aumentar el consumo de energía y reducir la autonomía general.
 Las tasas de consumo de energía son de 2,3 mi/kWh para el modelo base y de 2,4 mi/kWh para la versión superior, según la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 220kW. Una carga completa del 0 al 100 % tardaría 127 minutos, mientras que un escenario más común del 10 al 80 % tardaría 46 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 141kW. Cada sesión de carga tardaría 27 minutos y 5 segundos.
+La velocidad máxima de carga de CC es 220kW. Una carga completa del 0 al 100 % tardaría 130 minutos, mientras que un escenario más común del 10 al 80 % tardaría 47 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 139kW. Cada sesión de carga tardaría 28 minutos y 33 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 29 minutos. Este viaje requeriría dos paradas de carga del 0% al 38%, con un tiempo total de carga de 69 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 30 minutos. Este viaje requeriría dos paradas de carga del 0% al 38%, con un tiempo total de carga de 71 minutos.
 
 ### Cargador a bordo
 

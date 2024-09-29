@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 60 charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for SKODA ENYAQ COUPÉ 60."
+description: "Below is the charging curve for SKODA ENYAQ COUPÉ 60, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				55.4 kW
+				54.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				52.4 kW
+				51.3 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				63.9 kW
+				62.5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				71.3 kW
+				69.8 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				76.9kW
+				75.7kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				19m28s
+				20m46s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 2 m 51 s
+				1 h 4 m 12 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				 59 m 48 s
+				1 h 1 m 5 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 34 m 9 s
+				 34 m 53 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,5 km (4,0 mi)
+				6,4 km (4,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,4 km (2,7 mi)
+				4,3 km (2,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,1 km (3,8 mi)
+				6,0 km (3,7 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,2 km (2,6 mi)
+				4,1 km (2,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				8,2 km (5,1 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,7 km (3,5 mi)
+				5,5 km (3,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				112 kW
 			</td>
 			<td>
-				 0 m 25 s
+				 0 m 26 s
 			</td>
 			<td>
 				0.6 kWh
@@ -296,7 +296,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				123 kW
 			</td>
 			<td>
-				 1 m 3 s
+				 1 m 4 s
 			</td>
 			<td>
 				1.7 kWh
@@ -310,7 +310,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				127 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 22 s
 			</td>
 			<td>
 				2.3 kWh
@@ -324,7 +324,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				128 kW
 			</td>
 			<td>
-				 1 m 38 s
+				 1 m 40 s
 			</td>
 			<td>
 				2.9 kWh
@@ -338,7 +338,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				129 kW
 			</td>
 			<td>
-				 1 m 55 s
+				 1 m 57 s
 			</td>
 			<td>
 				3.5 kWh
@@ -352,7 +352,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				130 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 15 s
 			</td>
 			<td>
 				4.1 kWh
@@ -366,7 +366,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				130 kW
 			</td>
 			<td>
-				 2 m 29 s
+				 2 m 32 s
 			</td>
 			<td>
 				4.6 kWh
@@ -380,7 +380,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				130 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 49 s
 			</td>
 			<td>
 				5.2 kWh
@@ -394,7 +394,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				131 kW
 			</td>
 			<td>
-				 3 m 3 s
+				 3 m 7 s
 			</td>
 			<td>
 				5.8 kWh
@@ -408,7 +408,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				131 kW
 			</td>
 			<td>
-				 3 m 19 s
+				 3 m 24 s
 			</td>
 			<td>
 				6.4 kWh
@@ -422,7 +422,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				131 kW
 			</td>
 			<td>
-				 3 m 36 s
+				 3 m 41 s
 			</td>
 			<td>
 				7.0 kWh
@@ -436,7 +436,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				131 kW
 			</td>
 			<td>
-				 3 m 53 s
+				 3 m 58 s
 			</td>
 			<td>
 				7.5 kWh
@@ -450,7 +450,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				131 kW
 			</td>
 			<td>
-				 4 m 10 s
+				 4 m 15 s
 			</td>
 			<td>
 				8.1 kWh
@@ -464,7 +464,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				131 kW
 			</td>
 			<td>
-				 4 m 26 s
+				 4 m 32 s
 			</td>
 			<td>
 				8.7 kWh
@@ -478,7 +478,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				133 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				9.3 kWh
@@ -492,7 +492,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				132 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 6 s
 			</td>
 			<td>
 				9.9 kWh
@@ -506,7 +506,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				133 kW
 			</td>
 			<td>
-				 5 m 16 s
+				 5 m 23 s
 			</td>
 			<td>
 				10.4 kWh
@@ -520,7 +520,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				130 kW
 			</td>
 			<td>
-				 5 m 33 s
+				 5 m 40 s
 			</td>
 			<td>
 				11.0 kWh
@@ -534,7 +534,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				126 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 5 m 58 s
 			</td>
 			<td>
 				11.6 kWh
@@ -548,7 +548,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				122 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 6 m 16 s
 			</td>
 			<td>
 				12.2 kWh
@@ -562,7 +562,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				118 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 35 s
 			</td>
 			<td>
 				12.8 kWh
@@ -576,7 +576,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				115 kW
 			</td>
 			<td>
-				 6 m 45 s
+				 6 m 54 s
 			</td>
 			<td>
 				13.3 kWh
@@ -590,7 +590,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				111 kW
 			</td>
 			<td>
-				 7 m 5 s
+				 7 m 14 s
 			</td>
 			<td>
 				13.9 kWh
@@ -604,7 +604,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				109 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 34 s
 			</td>
 			<td>
 				14.5 kWh
@@ -618,7 +618,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				107 kW
 			</td>
 			<td>
-				 7 m 45 s
+				 7 m 55 s
 			</td>
 			<td>
 				15.1 kWh
@@ -632,7 +632,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				106 kW
 			</td>
 			<td>
-				 8 m 6 s
+				 8 m 16 s
 			</td>
 			<td>
 				15.7 kWh
@@ -646,7 +646,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				103 kW
 			</td>
 			<td>
-				 8 m 27 s
+				 8 m 37 s
 			</td>
 			<td>
 				16.2 kWh
@@ -660,7 +660,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				101 kW
 			</td>
 			<td>
-				 8 m 48 s
+				 8 m 59 s
 			</td>
 			<td>
 				16.8 kWh
@@ -674,7 +674,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				100 kW
 			</td>
 			<td>
-				 9 m 10 s
+				 9 m 22 s
 			</td>
 			<td>
 				17.4 kWh
@@ -688,7 +688,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				98 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 9 m 45 s
 			</td>
 			<td>
 				18.0 kWh
@@ -702,7 +702,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				97 kW
 			</td>
 			<td>
-				 9 m 55 s
+				 10 m 8 s
 			</td>
 			<td>
 				18.6 kWh
@@ -716,7 +716,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				96 kW
 			</td>
 			<td>
-				 10 m 18 s
+				 10 m 31 s
 			</td>
 			<td>
 				19.1 kWh
@@ -730,7 +730,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				95 kW
 			</td>
 			<td>
-				 10 m 41 s
+				 10 m 54 s
 			</td>
 			<td>
 				19.7 kWh
@@ -744,7 +744,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				93 kW
 			</td>
 			<td>
-				 11 m 4 s
+				 11 m 18 s
 			</td>
 			<td>
 				20.3 kWh
@@ -758,7 +758,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				91 kW
 			</td>
 			<td>
-				 11 m 28 s
+				 11 m 43 s
 			</td>
 			<td>
 				20.9 kWh
@@ -772,7 +772,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				90 kW
 			</td>
 			<td>
-				 11 m 52 s
+				 12 m 7 s
 			</td>
 			<td>
 				21.5 kWh
@@ -786,7 +786,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				88 kW
 			</td>
 			<td>
-				 12 m 17 s
+				 12 m 33 s
 			</td>
 			<td>
 				22.0 kWh
@@ -800,7 +800,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				87 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 58 s
 			</td>
 			<td>
 				22.6 kWh
@@ -814,7 +814,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				85 kW
 			</td>
 			<td>
-				 13 m 7 s
+				 13 m 24 s
 			</td>
 			<td>
 				23.2 kWh
@@ -828,7 +828,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				83 kW
 			</td>
 			<td>
-				 13 m 34 s
+				 13 m 51 s
 			</td>
 			<td>
 				23.8 kWh
@@ -842,7 +842,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				82 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 14 m 18 s
 			</td>
 			<td>
 				24.4 kWh
@@ -856,7 +856,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				81 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 46 s
 			</td>
 			<td>
 				24.9 kWh
@@ -870,7 +870,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				80 kW
 			</td>
 			<td>
-				 14 m 55 s
+				 15 m 14 s
 			</td>
 			<td>
 				25.5 kWh
@@ -884,7 +884,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				79 kW
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 42 s
 			</td>
 			<td>
 				26.1 kWh
@@ -898,7 +898,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				78 kW
 			</td>
 			<td>
-				 15 m 50 s
+				 16 m 11 s
 			</td>
 			<td>
 				26.7 kWh
@@ -912,7 +912,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				77 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 16 m 40 s
 			</td>
 			<td>
 				27.3 kWh
@@ -926,7 +926,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				75 kW
 			</td>
 			<td>
-				 16 m 47 s
+				 17 m 9 s
 			</td>
 			<td>
 				27.8 kWh
@@ -940,7 +940,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				74 kW
 			</td>
 			<td>
-				 17 m 17 s
+				 17 m 39 s
 			</td>
 			<td>
 				28.4 kWh
@@ -954,7 +954,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				73 kW
 			</td>
 			<td>
-				 17 m 47 s
+				 18 m 10 s
 			</td>
 			<td>
 				29.0 kWh
@@ -968,7 +968,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				72 kW
 			</td>
 			<td>
-				 18 m 17 s
+				 18 m 41 s
 			</td>
 			<td>
 				29.6 kWh
@@ -982,7 +982,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				71 kW
 			</td>
 			<td>
-				 18 m 48 s
+				 19 m 12 s
 			</td>
 			<td>
 				30.2 kWh
@@ -996,7 +996,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				70 kW
 			</td>
 			<td>
-				 19 m 19 s
+				 19 m 44 s
 			</td>
 			<td>
 				30.7 kWh
@@ -1010,7 +1010,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				69 kW
 			</td>
 			<td>
-				 19 m 51 s
+				 20 m 16 s
 			</td>
 			<td>
 				31.3 kWh
@@ -1024,7 +1024,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				68 kW
 			</td>
 			<td>
-				 20 m 23 s
+				 20 m 49 s
 			</td>
 			<td>
 				31.9 kWh
@@ -1038,7 +1038,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				67 kW
 			</td>
 			<td>
-				 20 m 55 s
+				 21 m 22 s
 			</td>
 			<td>
 				32.5 kWh
@@ -1052,7 +1052,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				66 kW
 			</td>
 			<td>
-				 21 m 28 s
+				 21 m 56 s
 			</td>
 			<td>
 				33.1 kWh
@@ -1066,7 +1066,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				65 kW
 			</td>
 			<td>
-				 22 m 2 s
+				 22 m 30 s
 			</td>
 			<td>
 				33.6 kWh
@@ -1080,7 +1080,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				63 kW
 			</td>
 			<td>
-				 22 m 36 s
+				 23 m 5 s
 			</td>
 			<td>
 				34.2 kWh
@@ -1094,7 +1094,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				62 kW
 			</td>
 			<td>
-				 23 m 11 s
+				 23 m 41 s
 			</td>
 			<td>
 				34.8 kWh
@@ -1108,7 +1108,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				61 kW
 			</td>
 			<td>
-				 23 m 47 s
+				 24 m 18 s
 			</td>
 			<td>
 				35.4 kWh
@@ -1122,7 +1122,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				58 kW
 			</td>
 			<td>
-				 24 m 24 s
+				 24 m 56 s
 			</td>
 			<td>
 				36.0 kWh
@@ -1136,7 +1136,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				57 kW
 			</td>
 			<td>
-				 25 m 2 s
+				 25 m 35 s
 			</td>
 			<td>
 				36.5 kWh
@@ -1150,7 +1150,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				56 kW
 			</td>
 			<td>
-				 25 m 41 s
+				 26 m 14 s
 			</td>
 			<td>
 				37.1 kWh
@@ -1164,7 +1164,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				55 kW
 			</td>
 			<td>
-				 26 m 21 s
+				 26 m 55 s
 			</td>
 			<td>
 				37.7 kWh
@@ -1178,7 +1178,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				54 kW
 			</td>
 			<td>
-				 27 m 1 s
+				 27 m 36 s
 			</td>
 			<td>
 				38.3 kWh
@@ -1192,7 +1192,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				53 kW
 			</td>
 			<td>
-				 27 m 42 s
+				 28 m 18 s
 			</td>
 			<td>
 				38.9 kWh
@@ -1206,7 +1206,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				52 kW
 			</td>
 			<td>
-				 28 m 24 s
+				 29 m 1 s
 			</td>
 			<td>
 				39.4 kWh
@@ -1220,7 +1220,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 29 m 7 s
+				 29 m 45 s
 			</td>
 			<td>
 				40.0 kWh
@@ -1234,7 +1234,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 29 m 51 s
+				 30 m 30 s
 			</td>
 			<td>
 				40.6 kWh
@@ -1248,7 +1248,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				49 kW
 			</td>
 			<td>
-				 30 m 36 s
+				 31 m 15 s
 			</td>
 			<td>
 				41.2 kWh
@@ -1262,7 +1262,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 31 m 20 s
+				 32 m 0 s
 			</td>
 			<td>
 				41.8 kWh
@@ -1276,7 +1276,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 32 m 4 s
+				 32 m 45 s
 			</td>
 			<td>
 				42.3 kWh
@@ -1290,7 +1290,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 32 m 48 s
+				 33 m 30 s
 			</td>
 			<td>
 				42.9 kWh
@@ -1304,7 +1304,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 33 m 32 s
+				 34 m 15 s
 			</td>
 			<td>
 				43.5 kWh
@@ -1318,7 +1318,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 34 m 16 s
+				 35 m 0 s
 			</td>
 			<td>
 				44.1 kWh
@@ -1332,7 +1332,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 35 m 0 s
+				 35 m 45 s
 			</td>
 			<td>
 				44.7 kWh
@@ -1346,7 +1346,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 35 m 44 s
+				 36 m 30 s
 			</td>
 			<td>
 				45.2 kWh
@@ -1360,7 +1360,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 36 m 28 s
+				 37 m 15 s
 			</td>
 			<td>
 				45.8 kWh
@@ -1374,7 +1374,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 37 m 12 s
+				 38 m 0 s
 			</td>
 			<td>
 				46.4 kWh
@@ -1388,7 +1388,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				50 kW
 			</td>
 			<td>
-				 37 m 56 s
+				 38 m 45 s
 			</td>
 			<td>
 				47.0 kWh
@@ -1402,7 +1402,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				48 kW
 			</td>
 			<td>
-				 38 m 40 s
+				 39 m 30 s
 			</td>
 			<td>
 				47.6 kWh
@@ -1416,7 +1416,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				46 kW
 			</td>
 			<td>
-				 39 m 27 s
+				 40 m 18 s
 			</td>
 			<td>
 				48.1 kWh
@@ -1430,7 +1430,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				44 kW
 			</td>
 			<td>
-				 40 m 16 s
+				 41 m 8 s
 			</td>
 			<td>
 				48.7 kWh
@@ -1444,7 +1444,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				40 kW
 			</td>
 			<td>
-				 41 m 8 s
+				 42 m 2 s
 			</td>
 			<td>
 				49.3 kWh
@@ -1458,7 +1458,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				37 kW
 			</td>
 			<td>
-				 42 m 6 s
+				 43 m 0 s
 			</td>
 			<td>
 				49.9 kWh
@@ -1472,7 +1472,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				33 kW
 			</td>
 			<td>
-				 43 m 8 s
+				 44 m 4 s
 			</td>
 			<td>
 				50.5 kWh
@@ -1486,7 +1486,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				32 kW
 			</td>
 			<td>
-				 44 m 16 s
+				 45 m 13 s
 			</td>
 			<td>
 				51.0 kWh
@@ -1500,7 +1500,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				31 kW
 			</td>
 			<td>
-				 45 m 26 s
+				 46 m 24 s
 			</td>
 			<td>
 				51.6 kWh
@@ -1514,7 +1514,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				30 kW
 			</td>
 			<td>
-				 46 m 38 s
+				 47 m 38 s
 			</td>
 			<td>
 				52.2 kWh
@@ -1528,7 +1528,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				29 kW
 			</td>
 			<td>
-				 47 m 52 s
+				 48 m 54 s
 			</td>
 			<td>
 				52.8 kWh
@@ -1542,7 +1542,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				28 kW
 			</td>
 			<td>
-				 49 m 9 s
+				 50 m 13 s
 			</td>
 			<td>
 				53.4 kWh
@@ -1556,7 +1556,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				26 kW
 			</td>
 			<td>
-				 50 m 31 s
+				 51 m 36 s
 			</td>
 			<td>
 				53.9 kWh
@@ -1570,7 +1570,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				25 kW
 			</td>
 			<td>
-				 51 m 57 s
+				 53 m 4 s
 			</td>
 			<td>
 				54.5 kWh
@@ -1584,7 +1584,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				25 kW
 			</td>
 			<td>
-				 53 m 25 s
+				 54 m 34 s
 			</td>
 			<td>
 				55.1 kWh
@@ -1598,7 +1598,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				24 kW
 			</td>
 			<td>
-				 54 m 55 s
+				 56 m 5 s
 			</td>
 			<td>
 				55.7 kWh
@@ -1612,7 +1612,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				23 kW
 			</td>
 			<td>
-				 56 m 28 s
+				 57 m 41 s
 			</td>
 			<td>
 				56.3 kWh
@@ -1626,7 +1626,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				22 kW
 			</td>
 			<td>
-				 58 m 6 s
+				 59 m 21 s
 			</td>
 			<td>
 				56.8 kWh
@@ -1640,7 +1640,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				21 kW
 			</td>
 			<td>
-				 59 m 48 s
+				1 h 1 m 5 s
 			</td>
 			<td>
 				57.4 kWh
@@ -1654,7 +1654,7 @@ SKODA ENYAQ COUPÉ 60 have battery heating, making charging at an optimum batter
 				3 kW
 			</td>
 			<td>
-				1 h 2 m 51 s
+				1 h 4 m 12 s
 			</td>
 			<td>
 				58.0 kWh

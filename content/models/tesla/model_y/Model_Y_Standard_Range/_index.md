@@ -38,9 +38,9 @@ The high-capacity battery has a gross capacity of 60.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 52 minutes, while a more typical scenario from 10% to 80% takes 27 minutes with an average charging speed of 84 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 17 minutes and 30 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 82 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 87 kW, with each charging session taking about 18 minutes and 46 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 55 minutes. This journey would require five charging stops from 0% to 51%, with a total charging time of 95 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 56 minutes. This journey would require five charging stops from 0% to 51%, with a total charging time of 97 minutes.
 
 ### BYD LFP Europa/China market
 
@@ -48,9 +48,9 @@ The high-capacity battery has a gross capacity of 60.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 37 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 129 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 63%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 18 minutes and 28 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 126 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 63%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 19 minutes and 46 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 35 minutes. This journey would require four charging stops from 0% to 64%, with a total charging time of 75 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 36 minutes. This journey would require four charging stops from 0% to 64%, with a total charging time of 76 minutes.
 
 ### NMC 4850 US Market
 
@@ -58,9 +58,9 @@ The high-capacity battery has a gross capacity of 70.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical scenario from 10% to 80% takes 41 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 36%. This results in an effective charging speed, including time lost, of 82 kW, with each charging session taking about 18 minutes and 60 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 86 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 35%. This results in an effective charging speed, including time lost, of 81 kW, with each charging session taking about 18 minutes and 46 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 52 minutes. This journey would require five charging stops from 0% to 37%, with a total charging time of 93 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 53 minutes. This journey would require five charging stops from 0% to 37%, with a total charging time of 94 minutes.
 
 ### NMC 21700 US Market Software locked
 
@@ -68,9 +68,9 @@ The high-capacity battery has a gross capacity of 70.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical scenario from 10% to 80% takes 23 minutes with an average charging speed of 123 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 59%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 22 minutes and 49 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical scenario from 10% to 80% takes 24 minutes with an average charging speed of 120 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 59%. This results in an effective charging speed, including time lost, of 109 kW, with each charging session taking about 22 minutes and 11 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 28 minutes. This journey would require three charging stops from 0% to 62%, with a total charging time of 69 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 30 minutes. This journey would require three charging stops from 0% to 62%, with a total charging time of 70 minutes.
 
 ### Onboard Charger
 

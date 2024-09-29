@@ -34,7 +34,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 54,2 kWh och en nettoanvändb
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 402 och 377 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,2 kWh/100 km för basmodellen och 13,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 95 kW. En full laddning från 0 - 100 % tar 61 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 62kW. Varje laddningssession tar 24 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är 95 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 61kW. Varje laddningssession tar 25 minuter och 36 sekunder.
 
 ### Ombordladdare
 

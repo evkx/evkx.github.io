@@ -1,7 +1,7 @@
 ---
 title: Zeekr 7X Long Range AWD courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Zeekr 7X Long Range AWD."
+description: "Ci-dessous se trouve la courbe de charge pour Zeekr 7X Long Range AWD, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				99,3 kW
+				97,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				96,7 kW
+				94,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				128,3 kW
+				125,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				147,5 kW
+				144,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Zone de chargement optimale
 			</td>
 			<td>
-				4% - 58%
+				4% - 57%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				134,4kW
+				132,2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				23m54s
+				23m51s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				 57 m 22 s
+				 58 m 36 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				 53 m 2 s
+				 54 m 10 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 27 m 3 s
+				 27 m 38 s
 			</td>
 		</tr>
 	</tbody>
@@ -178,7 +178,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,2 km (4,5 mi)
+				7,0 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -195,7 +195,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,0 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 		</tr>
 		<tr>
@@ -212,7 +212,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,7 km (6,7 mi)
+				10,5 km (6,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -265,7 +265,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				125 kW
 			</td>
 			<td>
-				 0 m 41 s
+				 0 m 42 s
 			</td>
 			<td>
 				1,0 kWh
@@ -279,7 +279,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				130 kW
 			</td>
 			<td>
-				 1 m 9 s
+				 1 m 10 s
 			</td>
 			<td>
 				1,9 kWh
@@ -293,7 +293,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				136 kW
 			</td>
 			<td>
-				 1 m 36 s
+				 1 m 38 s
 			</td>
 			<td>
 				2,8 kWh
@@ -307,7 +307,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				141 kW
 			</td>
 			<td>
-				 2 m 2 s
+				 2 m 5 s
 			</td>
 			<td>
 				3,8 kWh
@@ -321,7 +321,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				146 kW
 			</td>
 			<td>
-				 2 m 27 s
+				 2 m 30 s
 			</td>
 			<td>
 				4,8 kWh
@@ -335,7 +335,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				152 kW
 			</td>
 			<td>
-				 2 m 51 s
+				 2 m 55 s
 			</td>
 			<td>
 				5,7 kWh
@@ -349,7 +349,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				157 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 19 s
 			</td>
 			<td>
 				6,6 kWh
@@ -363,7 +363,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				163 kW
 			</td>
 			<td>
-				 3 m 37 s
+				 3 m 42 s
 			</td>
 			<td>
 				7,6 kWh
@@ -377,7 +377,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				168 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 4 s
 			</td>
 			<td>
 				8,6 kWh
@@ -391,7 +391,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				173 kW
 			</td>
 			<td>
-				 4 m 20 s
+				 4 m 25 s
 			</td>
 			<td>
 				9,5 kWh
@@ -405,7 +405,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				179 kW
 			</td>
 			<td>
-				 4 m 40 s
+				 4 m 46 s
 			</td>
 			<td>
 				10,4 kWh
@@ -419,7 +419,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				184 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 7 s
 			</td>
 			<td>
 				11,4 kWh
@@ -433,7 +433,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				189 kW
 			</td>
 			<td>
-				 5 m 19 s
+				 5 m 26 s
 			</td>
 			<td>
 				12,4 kWh
@@ -447,7 +447,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				195 kW
 			</td>
 			<td>
-				 5 m 38 s
+				 5 m 45 s
 			</td>
 			<td>
 				13,3 kWh
@@ -461,7 +461,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				200 kW
 			</td>
 			<td>
-				 5 m 56 s
+				 6 m 4 s
 			</td>
 			<td>
 				14,2 kWh
@@ -475,7 +475,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				210 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				15,2 kWh
@@ -489,7 +489,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				220 kW
 			</td>
 			<td>
-				 6 m 31 s
+				 6 m 39 s
 			</td>
 			<td>
 				16,2 kWh
@@ -503,7 +503,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				230 kW
 			</td>
 			<td>
-				 6 m 47 s
+				 6 m 56 s
 			</td>
 			<td>
 				17,1 kWh
@@ -517,7 +517,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				240 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				18,0 kWh
@@ -531,7 +531,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				250 kW
 			</td>
 			<td>
-				 7 m 17 s
+				 7 m 26 s
 			</td>
 			<td>
 				19,0 kWh
@@ -545,7 +545,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				250 kW
 			</td>
 			<td>
-				 7 m 31 s
+				 7 m 41 s
 			</td>
 			<td>
 				20,0 kWh
@@ -559,7 +559,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				242 kW
 			</td>
 			<td>
-				 7 m 46 s
+				 7 m 56 s
 			</td>
 			<td>
 				20,9 kWh
@@ -573,7 +573,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				234 kW
 			</td>
 			<td>
-				 8 m 1 s
+				 8 m 11 s
 			</td>
 			<td>
 				21,8 kWh
@@ -587,7 +587,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				226 kW
 			</td>
 			<td>
-				 8 m 17 s
+				 8 m 27 s
 			</td>
 			<td>
 				22,8 kWh
@@ -601,7 +601,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				218 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 8 m 44 s
 			</td>
 			<td>
 				23,8 kWh
@@ -615,7 +615,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				210 kW
 			</td>
 			<td>
-				 8 m 50 s
+				 9 m 1 s
 			</td>
 			<td>
 				24,7 kWh
@@ -629,7 +629,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				208 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 19 s
 			</td>
 			<td>
 				25,6 kWh
@@ -643,7 +643,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				206 kW
 			</td>
 			<td>
-				 9 m 24 s
+				 9 m 36 s
 			</td>
 			<td>
 				26,6 kWh
@@ -657,7 +657,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				203 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 54 s
 			</td>
 			<td>
 				27,6 kWh
@@ -671,7 +671,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				201 kW
 			</td>
 			<td>
-				 10 m 0 s
+				 10 m 13 s
 			</td>
 			<td>
 				28,5 kWh
@@ -685,7 +685,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				199 kW
 			</td>
 			<td>
-				 10 m 18 s
+				 10 m 31 s
 			</td>
 			<td>
 				29,4 kWh
@@ -699,7 +699,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				197 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 49 s
 			</td>
 			<td>
 				30,4 kWh
@@ -713,7 +713,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				195 kW
 			</td>
 			<td>
-				 10 m 54 s
+				 11 m 8 s
 			</td>
 			<td>
 				31,4 kWh
@@ -727,7 +727,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				193 kW
 			</td>
 			<td>
-				 11 m 13 s
+				 11 m 27 s
 			</td>
 			<td>
 				32,3 kWh
@@ -741,7 +741,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				190 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 11 m 46 s
 			</td>
 			<td>
 				33,2 kWh
@@ -755,7 +755,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				188 kW
 			</td>
 			<td>
-				 11 m 51 s
+				 12 m 6 s
 			</td>
 			<td>
 				34,2 kWh
@@ -769,7 +769,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				186 kW
 			</td>
 			<td>
-				 12 m 10 s
+				 12 m 26 s
 			</td>
 			<td>
 				35,2 kWh
@@ -783,7 +783,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				184 kW
 			</td>
 			<td>
-				 12 m 29 s
+				 12 m 45 s
 			</td>
 			<td>
 				36,1 kWh
@@ -797,7 +797,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				182 kW
 			</td>
 			<td>
-				 12 m 49 s
+				 13 m 6 s
 			</td>
 			<td>
 				37,0 kWh
@@ -811,7 +811,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				180 kW
 			</td>
 			<td>
-				 13 m 9 s
+				 13 m 26 s
 			</td>
 			<td>
 				38,0 kWh
@@ -825,7 +825,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				177 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 13 m 46 s
 			</td>
 			<td>
 				39,0 kWh
@@ -839,7 +839,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				175 kW
 			</td>
 			<td>
-				 13 m 49 s
+				 14 m 7 s
 			</td>
 			<td>
 				39,9 kWh
@@ -853,7 +853,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				173 kW
 			</td>
 			<td>
-				 14 m 10 s
+				 14 m 28 s
 			</td>
 			<td>
 				40,8 kWh
@@ -867,7 +867,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				171 kW
 			</td>
 			<td>
-				 14 m 31 s
+				 14 m 50 s
 			</td>
 			<td>
 				41,8 kWh
@@ -881,7 +881,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				169 kW
 			</td>
 			<td>
-				 14 m 52 s
+				 15 m 11 s
 			</td>
 			<td>
 				42,8 kWh
@@ -895,7 +895,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				167 kW
 			</td>
 			<td>
-				 15 m 14 s
+				 15 m 33 s
 			</td>
 			<td>
 				43,7 kWh
@@ -909,7 +909,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				164 kW
 			</td>
 			<td>
-				 15 m 36 s
+				 15 m 56 s
 			</td>
 			<td>
 				44,6 kWh
@@ -923,7 +923,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				162 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 18 s
 			</td>
 			<td>
 				45,6 kWh
@@ -937,7 +937,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				160 kW
 			</td>
 			<td>
-				 16 m 20 s
+				 16 m 41 s
 			</td>
 			<td>
 				46,6 kWh
@@ -951,7 +951,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				158 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 4 s
 			</td>
 			<td>
 				47,5 kWh
@@ -965,7 +965,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				156 kW
 			</td>
 			<td>
-				 17 m 6 s
+				 17 m 28 s
 			</td>
 			<td>
 				48,4 kWh
@@ -979,7 +979,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				154 kW
 			</td>
 			<td>
-				 17 m 29 s
+				 17 m 51 s
 			</td>
 			<td>
 				49,4 kWh
@@ -993,7 +993,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				151 kW
 			</td>
 			<td>
-				 17 m 52 s
+				 18 m 16 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1007,7 +1007,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				149 kW
 			</td>
 			<td>
-				 18 m 16 s
+				 18 m 40 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1021,7 +1021,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				147 kW
 			</td>
 			<td>
-				 18 m 41 s
+				 19 m 5 s
 			</td>
 			<td>
 				52,2 kWh
@@ -1035,7 +1035,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				145 kW
 			</td>
 			<td>
-				 19 m 5 s
+				 19 m 30 s
 			</td>
 			<td>
 				53,2 kWh
@@ -1049,7 +1049,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				143 kW
 			</td>
 			<td>
-				 19 m 30 s
+				 19 m 56 s
 			</td>
 			<td>
 				54,2 kWh
@@ -1063,7 +1063,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				140 kW
 			</td>
 			<td>
-				 19 m 56 s
+				 20 m 22 s
 			</td>
 			<td>
 				55,1 kWh
@@ -1077,7 +1077,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				138 kW
 			</td>
 			<td>
-				 20 m 22 s
+				 20 m 48 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1091,7 +1091,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				136 kW
 			</td>
 			<td>
-				 20 m 48 s
+				 21 m 15 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1105,7 +1105,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				134 kW
 			</td>
 			<td>
-				 21 m 15 s
+				 21 m 42 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1119,7 +1119,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				132 kW
 			</td>
 			<td>
-				 21 m 42 s
+				 22 m 10 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1133,7 +1133,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				130 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 38 s
 			</td>
 			<td>
 				59,8 kWh
@@ -1147,7 +1147,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				127 kW
 			</td>
 			<td>
-				 22 m 37 s
+				 23 m 6 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1161,7 +1161,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				125 kW
 			</td>
 			<td>
-				 23 m 6 s
+				 23 m 36 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1175,7 +1175,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				123 kW
 			</td>
 			<td>
-				 23 m 35 s
+				 24 m 5 s
 			</td>
 			<td>
 				62,7 kWh
@@ -1189,7 +1189,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				121 kW
 			</td>
 			<td>
-				 24 m 4 s
+				 24 m 35 s
 			</td>
 			<td>
 				63,6 kWh
@@ -1203,7 +1203,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				119 kW
 			</td>
 			<td>
-				 24 m 34 s
+				 25 m 6 s
 			</td>
 			<td>
 				64,6 kWh
@@ -1217,7 +1217,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				117 kW
 			</td>
 			<td>
-				 25 m 5 s
+				 25 m 37 s
 			</td>
 			<td>
 				65,6 kWh
@@ -1231,7 +1231,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				114 kW
 			</td>
 			<td>
-				 25 m 36 s
+				 26 m 9 s
 			</td>
 			<td>
 				66,5 kWh
@@ -1245,7 +1245,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				112 kW
 			</td>
 			<td>
-				 26 m 8 s
+				 26 m 42 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1259,7 +1259,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				110 kW
 			</td>
 			<td>
-				 26 m 40 s
+				 27 m 15 s
 			</td>
 			<td>
 				68,4 kWh
@@ -1273,7 +1273,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				108 kW
 			</td>
 			<td>
-				 27 m 13 s
+				 27 m 48 s
 			</td>
 			<td>
 				69,4 kWh
@@ -1287,7 +1287,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				106 kW
 			</td>
 			<td>
-				 27 m 47 s
+				 28 m 23 s
 			</td>
 			<td>
 				70,3 kWh
@@ -1301,7 +1301,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				104 kW
 			</td>
 			<td>
-				 28 m 21 s
+				 28 m 58 s
 			</td>
 			<td>
 				71,2 kWh
@@ -1315,7 +1315,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				101 kW
 			</td>
 			<td>
-				 28 m 57 s
+				 29 m 34 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1329,7 +1329,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				99 kW
 			</td>
 			<td>
-				 29 m 32 s
+				 30 m 11 s
 			</td>
 			<td>
 				73,2 kWh
@@ -1343,7 +1343,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				97 kW
 			</td>
 			<td>
-				 30 m 9 s
+				 30 m 48 s
 			</td>
 			<td>
 				74,1 kWh
@@ -1357,7 +1357,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				97 kW
 			</td>
 			<td>
-				 30 m 46 s
+				 31 m 26 s
 			</td>
 			<td>
 				75,0 kWh
@@ -1371,7 +1371,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				97 kW
 			</td>
 			<td>
-				 31 m 23 s
+				 32 m 4 s
 			</td>
 			<td>
 				76,0 kWh
@@ -1385,7 +1385,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				91 kW
 			</td>
 			<td>
-				 32 m 2 s
+				 32 m 43 s
 			</td>
 			<td>
 				77,0 kWh
@@ -1399,7 +1399,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				84 kW
 			</td>
 			<td>
-				 32 m 43 s
+				 33 m 25 s
 			</td>
 			<td>
 				77,9 kWh
@@ -1413,7 +1413,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				78 kW
 			</td>
 			<td>
-				 33 m 27 s
+				 34 m 10 s
 			</td>
 			<td>
 				78,8 kWh
@@ -1427,7 +1427,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				75 kW
 			</td>
 			<td>
-				 34 m 14 s
+				 34 m 59 s
 			</td>
 			<td>
 				79,8 kWh
@@ -1441,7 +1441,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				71 kW
 			</td>
 			<td>
-				 35 m 4 s
+				 35 m 49 s
 			</td>
 			<td>
 				80,8 kWh
@@ -1455,7 +1455,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				68 kW
 			</td>
 			<td>
-				 35 m 56 s
+				 36 m 42 s
 			</td>
 			<td>
 				81,7 kWh
@@ -1469,7 +1469,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				64 kW
 			</td>
 			<td>
-				 36 m 50 s
+				 37 m 38 s
 			</td>
 			<td>
 				82,6 kWh
@@ -1483,7 +1483,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				61 kW
 			</td>
 			<td>
-				 37 m 48 s
+				 38 m 36 s
 			</td>
 			<td>
 				83,6 kWh
@@ -1497,7 +1497,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				58 kW
 			</td>
 			<td>
-				 38 m 48 s
+				 39 m 38 s
 			</td>
 			<td>
 				84,6 kWh
@@ -1511,7 +1511,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				54 kW
 			</td>
 			<td>
-				 39 m 53 s
+				 40 m 44 s
 			</td>
 			<td>
 				85,5 kWh
@@ -1525,7 +1525,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				51 kW
 			</td>
 			<td>
-				 41 m 2 s
+				 41 m 55 s
 			</td>
 			<td>
 				86,4 kWh
@@ -1539,7 +1539,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				47 kW
 			</td>
 			<td>
-				 42 m 15 s
+				 43 m 10 s
 			</td>
 			<td>
 				87,4 kWh
@@ -1553,7 +1553,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				44 kW
 			</td>
 			<td>
-				 43 m 34 s
+				 44 m 30 s
 			</td>
 			<td>
 				88,4 kWh
@@ -1567,7 +1567,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				40 kW
 			</td>
 			<td>
-				 44 m 59 s
+				 45 m 57 s
 			</td>
 			<td>
 				89,3 kWh
@@ -1581,7 +1581,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				37 kW
 			</td>
 			<td>
-				 46 m 32 s
+				 47 m 32 s
 			</td>
 			<td>
 				90,2 kWh
@@ -1595,7 +1595,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				34 kW
 			</td>
 			<td>
-				 48 m 14 s
+				 49 m 16 s
 			</td>
 			<td>
 				91,2 kWh
@@ -1609,7 +1609,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				30 kW
 			</td>
 			<td>
-				 50 m 7 s
+				 51 m 11 s
 			</td>
 			<td>
 				92,2 kWh
@@ -1623,7 +1623,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				27 kW
 			</td>
 			<td>
-				 52 m 13 s
+				 53 m 20 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1637,7 +1637,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				23 kW
 			</td>
 			<td>
-				 54 m 36 s
+				 55 m 47 s
 			</td>
 			<td>
 				94,0 kWh
@@ -1651,7 +1651,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 				20 kW
 			</td>
 			<td>
-				 57 m 22 s
+				 58 m 36 s
 			</td>
 			<td>
 				95,0 kWh

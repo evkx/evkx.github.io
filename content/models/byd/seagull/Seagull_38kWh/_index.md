@@ -34,9 +34,9 @@ The high-capacity battery has a gross capacity of 38.8 kWh and a net usable capa
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 405 km (252 miles). The energy consumption is 9.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 40 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 37 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 12% to 75%. This results in an effective charging speed, including time lost, of 33 kW, with each charging session taking about 42 minutes and 9 seconds.
+The vehicle supports fast DC charging with a maximum power of 40 kW. Charging from 0% to 100% takes approximately 86 minutes, while a more typical scenario from 10% to 80% takes 43 minutes with an average charging speed of 36 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 13% to 75%. This results in an effective charging speed, including time lost, of 33 kW, with each charging session taking about 42 minutes and 16 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 12 hours and 58 minutes. This journey would require six charging stops from 10% to 79%, with a total charging time of 279 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 13 hours and 4 minutes. This journey would require six charging stops from 10% to 79%, with a total charging time of 284 minutes.
 
 ### Onboard Charger
 

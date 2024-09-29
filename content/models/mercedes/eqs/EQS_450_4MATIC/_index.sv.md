@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 120,0 kWh och en nettoanvänd
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 696 och 582 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,6 kWh/100 km för basmodellen och 18,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 210 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 142kW. Varje laddningssession tar 26 minuter och 41 sekunder. Denna effektiva laddningskapacitet gör Mercedes-EQ EQS 450 4MATIC till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är 210 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 26 minuter och 39 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 9 timmar och 7 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 53%, med en total laddningstid på 48 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 9 timmar och 8 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 53%, med en total laddningstid på 49 minuter.
 
 ### Ombordladdare
 

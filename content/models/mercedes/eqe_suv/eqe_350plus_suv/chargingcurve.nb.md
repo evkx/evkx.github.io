@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350+ SUV ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Mercedes-EQ EQE 350+ SUV."
+description: "Nedenfor er ladekurven for Mercedes-EQ EQE 350+ SUV, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				97,1 kW
+				95,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				93,4 kW
+				91,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				129,3 kW
+				126,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				147,2 kW
+				144,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				132,9kW
+				130,6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				27m19s
+				28m48s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				 59 m 20 s
+				1 h 0 m 36 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				 55 m 30 s
+				 56 m 42 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 27 m 23 s
+				 27 m 58 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,6 km (6,6 mi)
+				10,4 km (6,5 mi)
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				7,7 km (4,8 mi)
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,2 km (6,3 mi)
+				10,0 km (6,2 mi)
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 			<td>
-				5,8 km (3,6 mi)
+				5,6 km (3,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				16,0 km (9,9 mi)
+				15,7 km (9,8 mi)
 			</td>
 			<td>
-				11,9 km (7,4 mi)
+				11,7 km (7,3 mi)
 			</td>
 			<td>
-				9,1 km (5,7 mi)
+				8,9 km (5,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +282,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				165 kW
 			</td>
 			<td>
-				 0 m 56 s
+				 0 m 57 s
 			</td>
 			<td>
 				1,9 kWh
@@ -296,7 +296,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				166 kW
 			</td>
 			<td>
-				 1 m 18 s
+				 1 m 20 s
 			</td>
 			<td>
 				2,9 kWh
@@ -310,7 +310,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				167 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 42 s
 			</td>
 			<td>
 				3,8 kWh
@@ -324,7 +324,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				168 kW
 			</td>
 			<td>
-				 2 m 1 s
+				 2 m 4 s
 			</td>
 			<td>
 				4,8 kWh
@@ -338,7 +338,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				168 kW
 			</td>
 			<td>
-				 2 m 23 s
+				 2 m 26 s
 			</td>
 			<td>
 				5,8 kWh
@@ -352,7 +352,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				169 kW
 			</td>
 			<td>
-				 2 m 45 s
+				 2 m 48 s
 			</td>
 			<td>
 				6,7 kWh
@@ -366,7 +366,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				170 kW
 			</td>
 			<td>
-				 3 m 6 s
+				 3 m 10 s
 			</td>
 			<td>
 				7,7 kWh
@@ -380,7 +380,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				170 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 32 s
 			</td>
 			<td>
 				8,6 kWh
@@ -394,7 +394,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				171 kW
 			</td>
 			<td>
-				 3 m 49 s
+				 3 m 54 s
 			</td>
 			<td>
 				9,6 kWh
@@ -408,7 +408,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				171 kW
 			</td>
 			<td>
-				 4 m 10 s
+				 4 m 15 s
 			</td>
 			<td>
 				10,6 kWh
@@ -422,7 +422,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				171 kW
 			</td>
 			<td>
-				 4 m 31 s
+				 4 m 37 s
 			</td>
 			<td>
 				11,5 kWh
@@ -436,7 +436,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				172 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				12,5 kWh
@@ -450,7 +450,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				172 kW
 			</td>
 			<td>
-				 5 m 14 s
+				 5 m 21 s
 			</td>
 			<td>
 				13,4 kWh
@@ -464,7 +464,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 5 m 35 s
+				 5 m 42 s
 			</td>
 			<td>
 				14,4 kWh
@@ -478,7 +478,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 5 m 56 s
+				 6 m 4 s
 			</td>
 			<td>
 				15,4 kWh
@@ -492,7 +492,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 6 m 17 s
+				 6 m 25 s
 			</td>
 			<td>
 				16,3 kWh
@@ -506,7 +506,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				17,3 kWh
@@ -520,7 +520,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 6 m 59 s
+				 7 m 8 s
 			</td>
 			<td>
 				18,2 kWh
@@ -534,7 +534,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 7 m 20 s
+				 7 m 29 s
 			</td>
 			<td>
 				19,2 kWh
@@ -548,7 +548,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				173 kW
 			</td>
 			<td>
-				 7 m 41 s
+				 7 m 51 s
 			</td>
 			<td>
 				20,2 kWh
@@ -562,7 +562,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				174 kW
 			</td>
 			<td>
-				 8 m 2 s
+				 8 m 12 s
 			</td>
 			<td>
 				21,1 kWh
@@ -576,7 +576,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				174 kW
 			</td>
 			<td>
-				 8 m 23 s
+				 8 m 34 s
 			</td>
 			<td>
 				22,1 kWh
@@ -590,7 +590,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				174 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 8 m 55 s
 			</td>
 			<td>
 				23,0 kWh
@@ -604,7 +604,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				175 kW
 			</td>
 			<td>
-				 9 m 5 s
+				 9 m 16 s
 			</td>
 			<td>
 				24,0 kWh
@@ -618,7 +618,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				175 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 38 s
 			</td>
 			<td>
 				25,0 kWh
@@ -632,7 +632,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				175 kW
 			</td>
 			<td>
-				 9 m 46 s
+				 9 m 59 s
 			</td>
 			<td>
 				25,9 kWh
@@ -646,7 +646,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				176 kW
 			</td>
 			<td>
-				 10 m 7 s
+				 10 m 20 s
 			</td>
 			<td>
 				26,9 kWh
@@ -660,7 +660,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				176 kW
 			</td>
 			<td>
-				 10 m 28 s
+				 10 m 41 s
 			</td>
 			<td>
 				27,8 kWh
@@ -674,7 +674,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				176 kW
 			</td>
 			<td>
-				 10 m 48 s
+				 11 m 2 s
 			</td>
 			<td>
 				28,8 kWh
@@ -688,7 +688,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				177 kW
 			</td>
 			<td>
-				 11 m 9 s
+				 11 m 23 s
 			</td>
 			<td>
 				29,8 kWh
@@ -702,7 +702,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				177 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 11 m 44 s
 			</td>
 			<td>
 				30,7 kWh
@@ -716,7 +716,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				177 kW
 			</td>
 			<td>
-				 11 m 50 s
+				 12 m 5 s
 			</td>
 			<td>
 				31,7 kWh
@@ -730,7 +730,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				177 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 26 s
 			</td>
 			<td>
 				32,6 kWh
@@ -744,7 +744,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				178 kW
 			</td>
 			<td>
-				 12 m 31 s
+				 12 m 47 s
 			</td>
 			<td>
 				33,6 kWh
@@ -758,7 +758,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				179 kW
 			</td>
 			<td>
-				 12 m 51 s
+				 13 m 8 s
 			</td>
 			<td>
 				34,6 kWh
@@ -772,7 +772,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				179 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				35,5 kWh
@@ -786,7 +786,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				180 kW
 			</td>
 			<td>
-				 13 m 32 s
+				 13 m 49 s
 			</td>
 			<td>
 				36,5 kWh
@@ -800,7 +800,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				180 kW
 			</td>
 			<td>
-				 13 m 52 s
+				 14 m 10 s
 			</td>
 			<td>
 				37,4 kWh
@@ -814,7 +814,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				180 kW
 			</td>
 			<td>
-				 14 m 12 s
+				 14 m 31 s
 			</td>
 			<td>
 				38,4 kWh
@@ -828,7 +828,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				180 kW
 			</td>
 			<td>
-				 14 m 33 s
+				 14 m 51 s
 			</td>
 			<td>
 				39,4 kWh
@@ -842,7 +842,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				181 kW
 			</td>
 			<td>
-				 14 m 53 s
+				 15 m 12 s
 			</td>
 			<td>
 				40,3 kWh
@@ -856,7 +856,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				181 kW
 			</td>
 			<td>
-				 15 m 13 s
+				 15 m 33 s
 			</td>
 			<td>
 				41,3 kWh
@@ -870,7 +870,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				182 kW
 			</td>
 			<td>
-				 15 m 33 s
+				 15 m 53 s
 			</td>
 			<td>
 				42,2 kWh
@@ -884,7 +884,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				182 kW
 			</td>
 			<td>
-				 15 m 53 s
+				 16 m 13 s
 			</td>
 			<td>
 				43,2 kWh
@@ -898,7 +898,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				183 kW
 			</td>
 			<td>
-				 16 m 13 s
+				 16 m 34 s
 			</td>
 			<td>
 				44,2 kWh
@@ -912,7 +912,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				183 kW
 			</td>
 			<td>
-				 16 m 33 s
+				 16 m 54 s
 			</td>
 			<td>
 				45,1 kWh
@@ -926,7 +926,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				183 kW
 			</td>
 			<td>
-				 16 m 53 s
+				 17 m 14 s
 			</td>
 			<td>
 				46,1 kWh
@@ -940,7 +940,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				183 kW
 			</td>
 			<td>
-				 17 m 13 s
+				 17 m 35 s
 			</td>
 			<td>
 				47,0 kWh
@@ -954,7 +954,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				179 kW
 			</td>
 			<td>
-				 17 m 33 s
+				 17 m 55 s
 			</td>
 			<td>
 				48,0 kWh
@@ -968,7 +968,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				177 kW
 			</td>
 			<td>
-				 17 m 53 s
+				 18 m 16 s
 			</td>
 			<td>
 				49,0 kWh
@@ -982,7 +982,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				171 kW
 			</td>
 			<td>
-				 18 m 14 s
+				 18 m 37 s
 			</td>
 			<td>
 				49,9 kWh
@@ -996,7 +996,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				169 kW
 			</td>
 			<td>
-				 18 m 35 s
+				 18 m 59 s
 			</td>
 			<td>
 				50,9 kWh
@@ -1010,7 +1010,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				167 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 19 m 21 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1024,7 +1024,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				164 kW
 			</td>
 			<td>
-				 19 m 19 s
+				 19 m 44 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1038,7 +1038,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				162 kW
 			</td>
 			<td>
-				 19 m 41 s
+				 20 m 7 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1052,7 +1052,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				162 kW
 			</td>
 			<td>
-				 20 m 4 s
+				 20 m 30 s
 			</td>
 			<td>
 				54,7 kWh
@@ -1066,7 +1066,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				157 kW
 			</td>
 			<td>
-				 20 m 27 s
+				 20 m 53 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1080,7 +1080,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				157 kW
 			</td>
 			<td>
-				 20 m 50 s
+				 21 m 17 s
 			</td>
 			<td>
 				56,6 kWh
@@ -1094,7 +1094,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				154 kW
 			</td>
 			<td>
-				 21 m 13 s
+				 21 m 41 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1108,7 +1108,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				150 kW
 			</td>
 			<td>
-				 21 m 37 s
+				 22 m 5 s
 			</td>
 			<td>
 				58,6 kWh
@@ -1122,7 +1122,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				146 kW
 			</td>
 			<td>
-				 22 m 2 s
+				 22 m 30 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1136,7 +1136,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				143 kW
 			</td>
 			<td>
-				 22 m 27 s
+				 22 m 56 s
 			</td>
 			<td>
 				60,5 kWh
@@ -1150,7 +1150,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				140 kW
 			</td>
 			<td>
-				 22 m 53 s
+				 23 m 22 s
 			</td>
 			<td>
 				61,4 kWh
@@ -1164,7 +1164,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				137 kW
 			</td>
 			<td>
-				 23 m 19 s
+				 23 m 49 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1178,7 +1178,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				133 kW
 			</td>
 			<td>
-				 23 m 46 s
+				 24 m 16 s
 			</td>
 			<td>
 				63,4 kWh
@@ -1192,7 +1192,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				131 kW
 			</td>
 			<td>
-				 24 m 13 s
+				 24 m 45 s
 			</td>
 			<td>
 				64,3 kWh
@@ -1206,7 +1206,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				129 kW
 			</td>
 			<td>
-				 24 m 41 s
+				 25 m 13 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1220,7 +1220,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				126 kW
 			</td>
 			<td>
-				 25 m 10 s
+				 25 m 42 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1234,7 +1234,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				122 kW
 			</td>
 			<td>
-				 25 m 39 s
+				 26 m 12 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1248,7 +1248,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				120 kW
 			</td>
 			<td>
-				 26 m 9 s
+				 26 m 43 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1262,7 +1262,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				118 kW
 			</td>
 			<td>
-				 26 m 40 s
+				 27 m 14 s
 			</td>
 			<td>
 				69,1 kWh
@@ -1276,7 +1276,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				115 kW
 			</td>
 			<td>
-				 27 m 11 s
+				 27 m 46 s
 			</td>
 			<td>
 				70,1 kWh
@@ -1290,7 +1290,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				112 kW
 			</td>
 			<td>
-				 27 m 43 s
+				 28 m 19 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1304,7 +1304,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				110 kW
 			</td>
 			<td>
-				 28 m 16 s
+				 28 m 52 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1318,7 +1318,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				107 kW
 			</td>
 			<td>
-				 28 m 49 s
+				 29 m 27 s
 			</td>
 			<td>
 				73,0 kWh
@@ -1332,7 +1332,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				105 kW
 			</td>
 			<td>
-				 29 m 24 s
+				 30 m 2 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1346,7 +1346,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				104 kW
 			</td>
 			<td>
-				 29 m 59 s
+				 30 m 37 s
 			</td>
 			<td>
 				74,9 kWh
@@ -1360,7 +1360,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				98 kW
 			</td>
 			<td>
-				 30 m 35 s
+				 31 m 14 s
 			</td>
 			<td>
 				75,8 kWh
@@ -1374,7 +1374,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				97 kW
 			</td>
 			<td>
-				 31 m 12 s
+				 31 m 52 s
 			</td>
 			<td>
 				76,8 kWh
@@ -1388,7 +1388,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				92 kW
 			</td>
 			<td>
-				 31 m 50 s
+				 32 m 31 s
 			</td>
 			<td>
 				77,8 kWh
@@ -1402,7 +1402,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				88 kW
 			</td>
 			<td>
-				 32 m 31 s
+				 33 m 13 s
 			</td>
 			<td>
 				78,7 kWh
@@ -1416,7 +1416,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				86 kW
 			</td>
 			<td>
-				 33 m 13 s
+				 33 m 55 s
 			</td>
 			<td>
 				79,7 kWh
@@ -1430,7 +1430,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				79 kW
 			</td>
 			<td>
-				 33 m 57 s
+				 34 m 40 s
 			</td>
 			<td>
 				80,6 kWh
@@ -1444,7 +1444,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				76 kW
 			</td>
 			<td>
-				 34 m 44 s
+				 35 m 28 s
 			</td>
 			<td>
 				81,6 kWh
@@ -1458,7 +1458,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				69 kW
 			</td>
 			<td>
-				 35 m 34 s
+				 36 m 20 s
 			</td>
 			<td>
 				82,6 kWh
@@ -1472,7 +1472,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				69 kW
 			</td>
 			<td>
-				 36 m 27 s
+				 37 m 14 s
 			</td>
 			<td>
 				83,5 kWh
@@ -1486,7 +1486,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				63 kW
 			</td>
 			<td>
-				 37 m 22 s
+				 38 m 10 s
 			</td>
 			<td>
 				84,5 kWh
@@ -1500,7 +1500,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				57 kW
 			</td>
 			<td>
-				 38 m 22 s
+				 39 m 12 s
 			</td>
 			<td>
 				85,4 kWh
@@ -1514,7 +1514,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				54 kW
 			</td>
 			<td>
-				 39 m 28 s
+				 40 m 19 s
 			</td>
 			<td>
 				86,4 kWh
@@ -1528,7 +1528,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				51 kW
 			</td>
 			<td>
-				 40 m 37 s
+				 41 m 30 s
 			</td>
 			<td>
 				87,4 kWh
@@ -1542,7 +1542,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				47 kW
 			</td>
 			<td>
-				 41 m 51 s
+				 42 m 45 s
 			</td>
 			<td>
 				88,3 kWh
@@ -1556,7 +1556,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				43 kW
 			</td>
 			<td>
-				 43 m 12 s
+				 44 m 8 s
 			</td>
 			<td>
 				89,3 kWh
@@ -1570,7 +1570,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				38 kW
 			</td>
 			<td>
-				 44 m 42 s
+				 45 m 40 s
 			</td>
 			<td>
 				90,2 kWh
@@ -1584,7 +1584,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				34 kW
 			</td>
 			<td>
-				 46 m 23 s
+				 47 m 23 s
 			</td>
 			<td>
 				91,2 kWh
@@ -1598,7 +1598,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				31 kW
 			</td>
 			<td>
-				 48 m 15 s
+				 49 m 17 s
 			</td>
 			<td>
 				92,2 kWh
@@ -1612,7 +1612,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				28 kW
 			</td>
 			<td>
-				 50 m 18 s
+				 51 m 23 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1626,7 +1626,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				25 kW
 			</td>
 			<td>
-				 52 m 36 s
+				 53 m 43 s
 			</td>
 			<td>
 				94,1 kWh
@@ -1640,7 +1640,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				20 kW
 			</td>
 			<td>
-				 55 m 17 s
+				 56 m 29 s
 			</td>
 			<td>
 				95,0 kWh
@@ -1654,7 +1654,7 @@ Mercedes-EQ EQE 350+ SUV har batterioppvarming, noe som gjør lading ved en opti
 				10 kW
 			</td>
 			<td>
-				 59 m 20 s
+				1 h 0 m 36 s
 			</td>
 			<td>
 				96,0 kWh

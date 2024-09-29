@@ -1,7 +1,7 @@
 ---
 title: Audi S e-tron GT ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Audi S e-tron GT."
+description: "Nedenfor er ladekurven for Audi S e-tron GT, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				126,3 kW
+				123,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				119,4 kW
+				116,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				207,7 kW
+				203,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				265,1 kW
+				259,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				212,5kW
+				209,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				18m32s
+				18m48s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				 46 m 5 s
+				 47 m 4 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				 43 m 52 s
+				 44 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 41 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				13,2 km (8,2 mi)
+				12,9 km (8,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				12,5 km (7,8 mi)
+				12,2 km (7,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,0 km (5,6 mi)
+				8,9 km (5,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				27,7 km (17,2 mi)
+				27,2 km (16,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				20,1 km (12,5 mi)
+				19,7 km (12,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -279,7 +279,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				295 kW
 			</td>
 			<td>
-				 0 m 35 s
+				 0 m 36 s
 			</td>
 			<td>
 				1,9 kWh
@@ -293,7 +293,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				298 kW
 			</td>
 			<td>
-				 0 m 47 s
+				 0 m 48 s
 			</td>
 			<td>
 				2,9 kWh
@@ -307,7 +307,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				302 kW
 			</td>
 			<td>
-				 1 m 0 s
+				 1 m 1 s
 			</td>
 			<td>
 				3,9 kWh
@@ -321,7 +321,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				303 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 1 m 13 s
 			</td>
 			<td>
 				4,8 kWh
@@ -335,7 +335,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				304 kW
 			</td>
 			<td>
-				 1 m 24 s
+				 1 m 26 s
 			</td>
 			<td>
 				5,8 kWh
@@ -349,7 +349,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				305 kW
 			</td>
 			<td>
-				 1 m 36 s
+				 1 m 38 s
 			</td>
 			<td>
 				6,8 kWh
@@ -363,7 +363,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				307 kW
 			</td>
 			<td>
-				 1 m 48 s
+				 1 m 50 s
 			</td>
 			<td>
 				7,8 kWh
@@ -377,7 +377,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				307 kW
 			</td>
 			<td>
-				 2 m 0 s
+				 2 m 3 s
 			</td>
 			<td>
 				8,7 kWh
@@ -391,7 +391,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				304 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 15 s
 			</td>
 			<td>
 				9,7 kWh
@@ -405,7 +405,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				311 kW
 			</td>
 			<td>
-				 2 m 24 s
+				 2 m 27 s
 			</td>
 			<td>
 				10,7 kWh
@@ -419,7 +419,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				311 kW
 			</td>
 			<td>
-				 2 m 36 s
+				 2 m 39 s
 			</td>
 			<td>
 				11,6 kWh
@@ -433,7 +433,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				311 kW
 			</td>
 			<td>
-				 2 m 48 s
+				 2 m 51 s
 			</td>
 			<td>
 				12,6 kWh
@@ -447,7 +447,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				313 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 3 m 3 s
 			</td>
 			<td>
 				13,6 kWh
@@ -461,7 +461,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				312 kW
 			</td>
 			<td>
-				 3 m 11 s
+				 3 m 15 s
 			</td>
 			<td>
 				14,6 kWh
@@ -475,7 +475,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				310 kW
 			</td>
 			<td>
-				 3 m 23 s
+				 3 m 27 s
 			</td>
 			<td>
 				15,5 kWh
@@ -489,7 +489,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				314 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 39 s
 			</td>
 			<td>
 				16,5 kWh
@@ -503,7 +503,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				314 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 3 m 51 s
 			</td>
 			<td>
 				17,5 kWh
@@ -517,7 +517,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				315 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 3 s
 			</td>
 			<td>
 				18,4 kWh
@@ -531,7 +531,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				312 kW
 			</td>
 			<td>
-				 4 m 10 s
+				 4 m 15 s
 			</td>
 			<td>
 				19,4 kWh
@@ -545,7 +545,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				312 kW
 			</td>
 			<td>
-				 4 m 22 s
+				 4 m 27 s
 			</td>
 			<td>
 				20,4 kWh
@@ -559,7 +559,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				317 kW
 			</td>
 			<td>
-				 4 m 33 s
+				 4 m 39 s
 			</td>
 			<td>
 				21,3 kWh
@@ -573,7 +573,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				317 kW
 			</td>
 			<td>
-				 4 m 45 s
+				 4 m 51 s
 			</td>
 			<td>
 				22,3 kWh
@@ -587,7 +587,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				317 kW
 			</td>
 			<td>
-				 4 m 57 s
+				 5 m 3 s
 			</td>
 			<td>
 				23,3 kWh
@@ -601,7 +601,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				321 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 15 s
 			</td>
 			<td>
 				24,2 kWh
@@ -615,7 +615,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				321 kW
 			</td>
 			<td>
-				 5 m 20 s
+				 5 m 26 s
 			</td>
 			<td>
 				25,2 kWh
@@ -629,7 +629,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				322 kW
 			</td>
 			<td>
-				 5 m 31 s
+				 5 m 38 s
 			</td>
 			<td>
 				26,2 kWh
@@ -643,7 +643,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				322 kW
 			</td>
 			<td>
-				 5 m 42 s
+				 5 m 50 s
 			</td>
 			<td>
 				27,2 kWh
@@ -657,7 +657,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				325 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 6 m 1 s
 			</td>
 			<td>
 				28,1 kWh
@@ -671,7 +671,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				326 kW
 			</td>
 			<td>
-				 6 m 5 s
+				 6 m 13 s
 			</td>
 			<td>
 				29,1 kWh
@@ -685,7 +685,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				320 kW
 			</td>
 			<td>
-				 6 m 16 s
+				 6 m 25 s
 			</td>
 			<td>
 				30,1 kWh
@@ -699,7 +699,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				321 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 36 s
 			</td>
 			<td>
 				31,0 kWh
@@ -713,7 +713,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				320 kW
 			</td>
 			<td>
-				 6 m 39 s
+				 6 m 48 s
 			</td>
 			<td>
 				32,0 kWh
@@ -727,7 +727,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				320 kW
 			</td>
 			<td>
-				 6 m 51 s
+				 7 m 0 s
 			</td>
 			<td>
 				33,0 kWh
@@ -741,7 +741,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				322 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				34,0 kWh
@@ -755,7 +755,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				329 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 23 s
 			</td>
 			<td>
 				34,9 kWh
@@ -769,7 +769,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				326 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 34 s
 			</td>
 			<td>
 				35,9 kWh
@@ -783,7 +783,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				319 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				36,9 kWh
@@ -797,7 +797,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				332 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 7 m 58 s
 			</td>
 			<td>
 				37,8 kWh
@@ -811,7 +811,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				330 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 8 m 9 s
 			</td>
 			<td>
 				38,8 kWh
@@ -825,7 +825,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				324 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 8 m 20 s
 			</td>
 			<td>
 				39,8 kWh
@@ -839,7 +839,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				322 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 32 s
 			</td>
 			<td>
 				40,7 kWh
@@ -853,7 +853,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				329 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 8 m 44 s
 			</td>
 			<td>
 				41,7 kWh
@@ -867,7 +867,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				326 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 8 m 55 s
 			</td>
 			<td>
 				42,7 kWh
@@ -881,7 +881,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				321 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 7 s
 			</td>
 			<td>
 				43,6 kWh
@@ -895,7 +895,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				318 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 18 s
 			</td>
 			<td>
 				44,6 kWh
@@ -909,7 +909,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				317 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 9 m 30 s
 			</td>
 			<td>
 				45,6 kWh
@@ -923,7 +923,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				318 kW
 			</td>
 			<td>
-				 9 m 30 s
+				 9 m 42 s
 			</td>
 			<td>
 				46,6 kWh
@@ -937,7 +937,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				319 kW
 			</td>
 			<td>
-				 9 m 41 s
+				 9 m 54 s
 			</td>
 			<td>
 				47,5 kWh
@@ -951,7 +951,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				320 kW
 			</td>
 			<td>
-				 9 m 53 s
+				 10 m 6 s
 			</td>
 			<td>
 				48,5 kWh
@@ -965,7 +965,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				319 kW
 			</td>
 			<td>
-				 10 m 4 s
+				 10 m 17 s
 			</td>
 			<td>
 				49,5 kWh
@@ -979,7 +979,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				318 kW
 			</td>
 			<td>
-				 10 m 16 s
+				 10 m 29 s
 			</td>
 			<td>
 				50,4 kWh
@@ -993,7 +993,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				318 kW
 			</td>
 			<td>
-				 10 m 27 s
+				 10 m 41 s
 			</td>
 			<td>
 				51,4 kWh
@@ -1007,7 +1007,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				315 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 10 m 53 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1021,7 +1021,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				323 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 5 s
 			</td>
 			<td>
 				53,4 kWh
@@ -1035,7 +1035,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				320 kW
 			</td>
 			<td>
-				 11 m 2 s
+				 11 m 16 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1049,7 +1049,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				318 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 11 m 28 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1063,7 +1063,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				310 kW
 			</td>
 			<td>
-				 11 m 25 s
+				 11 m 40 s
 			</td>
 			<td>
 				56,3 kWh
@@ -1077,7 +1077,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				309 kW
 			</td>
 			<td>
-				 11 m 37 s
+				 11 m 52 s
 			</td>
 			<td>
 				57,2 kWh
@@ -1091,7 +1091,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				304 kW
 			</td>
 			<td>
-				 11 m 49 s
+				 12 m 4 s
 			</td>
 			<td>
 				58,2 kWh
@@ -1105,7 +1105,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				306 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 12 m 17 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1119,7 +1119,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				305 kW
 			</td>
 			<td>
-				 12 m 13 s
+				 12 m 29 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1133,7 +1133,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				304 kW
 			</td>
 			<td>
-				 12 m 25 s
+				 12 m 41 s
 			</td>
 			<td>
 				61,1 kWh
@@ -1147,7 +1147,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				303 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 12 m 54 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1161,7 +1161,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				215 kW
 			</td>
 			<td>
-				 12 m 52 s
+				 13 m 8 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1175,7 +1175,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				211 kW
 			</td>
 			<td>
-				 13 m 9 s
+				 13 m 26 s
 			</td>
 			<td>
 				64,0 kWh
@@ -1189,7 +1189,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				215 kW
 			</td>
 			<td>
-				 13 m 26 s
+				 13 m 43 s
 			</td>
 			<td>
 				65,0 kWh
@@ -1203,7 +1203,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				215 kW
 			</td>
 			<td>
-				 13 m 43 s
+				 14 m 1 s
 			</td>
 			<td>
 				66,0 kWh
@@ -1217,7 +1217,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				215 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 14 m 18 s
 			</td>
 			<td>
 				66,9 kWh
@@ -1231,7 +1231,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				217 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 36 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1245,7 +1245,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				216 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 53 s
 			</td>
 			<td>
 				68,9 kWh
@@ -1259,7 +1259,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				216 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 10 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1273,7 +1273,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				220 kW
 			</td>
 			<td>
-				 15 m 8 s
+				 15 m 28 s
 			</td>
 			<td>
 				70,8 kWh
@@ -1287,7 +1287,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				218 kW
 			</td>
 			<td>
-				 15 m 25 s
+				 15 m 45 s
 			</td>
 			<td>
 				71,8 kWh
@@ -1301,7 +1301,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				208 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 2 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1315,7 +1315,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				189 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 16 m 21 s
 			</td>
 			<td>
 				73,7 kWh
@@ -1329,7 +1329,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				173 kW
 			</td>
 			<td>
-				 16 m 21 s
+				 16 m 42 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1343,7 +1343,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				169 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 4 s
 			</td>
 			<td>
 				75,7 kWh
@@ -1357,7 +1357,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				150 kW
 			</td>
 			<td>
-				 17 m 6 s
+				 17 m 28 s
 			</td>
 			<td>
 				76,6 kWh
@@ -1371,7 +1371,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				107 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 17 m 57 s
 			</td>
 			<td>
 				77,6 kWh
@@ -1385,7 +1385,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				100 kW
 			</td>
 			<td>
-				 18 m 10 s
+				 18 m 33 s
 			</td>
 			<td>
 				78,6 kWh
@@ -1399,7 +1399,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				96 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 11 s
 			</td>
 			<td>
 				79,5 kWh
@@ -1413,7 +1413,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				94 kW
 			</td>
 			<td>
-				 19 m 26 s
+				 19 m 51 s
 			</td>
 			<td>
 				80,5 kWh
@@ -1427,7 +1427,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				91 kW
 			</td>
 			<td>
-				 20 m 6 s
+				 20 m 32 s
 			</td>
 			<td>
 				81,5 kWh
@@ -1441,7 +1441,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				88 kW
 			</td>
 			<td>
-				 20 m 47 s
+				 21 m 14 s
 			</td>
 			<td>
 				82,4 kWh
@@ -1455,7 +1455,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				84 kW
 			</td>
 			<td>
-				 21 m 29 s
+				 21 m 57 s
 			</td>
 			<td>
 				83,4 kWh
@@ -1469,7 +1469,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				80 kW
 			</td>
 			<td>
-				 22 m 14 s
+				 22 m 43 s
 			</td>
 			<td>
 				84,4 kWh
@@ -1483,7 +1483,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				82 kW
 			</td>
 			<td>
-				 23 m 0 s
+				 23 m 29 s
 			</td>
 			<td>
 				85,4 kWh
@@ -1497,7 +1497,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				75 kW
 			</td>
 			<td>
-				 23 m 46 s
+				 24 m 17 s
 			</td>
 			<td>
 				86,3 kWh
@@ -1511,7 +1511,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				71 kW
 			</td>
 			<td>
-				 24 m 37 s
+				 25 m 9 s
 			</td>
 			<td>
 				87,3 kWh
@@ -1525,7 +1525,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				62 kW
 			</td>
 			<td>
-				 25 m 32 s
+				 26 m 5 s
 			</td>
 			<td>
 				88,3 kWh
@@ -1539,7 +1539,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				51 kW
 			</td>
 			<td>
-				 26 m 37 s
+				 27 m 12 s
 			</td>
 			<td>
 				89,2 kWh
@@ -1553,7 +1553,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				52 kW
 			</td>
 			<td>
-				 27 m 49 s
+				 28 m 24 s
 			</td>
 			<td>
 				90,2 kWh
@@ -1567,7 +1567,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				47 kW
 			</td>
 			<td>
-				 29 m 3 s
+				 29 m 40 s
 			</td>
 			<td>
 				91,2 kWh
@@ -1581,7 +1581,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				44 kW
 			</td>
 			<td>
-				 30 m 24 s
+				 31 m 3 s
 			</td>
 			<td>
 				92,2 kWh
@@ -1595,7 +1595,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				37 kW
 			</td>
 			<td>
-				 31 m 54 s
+				 32 m 36 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1609,7 +1609,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				33 kW
 			</td>
 			<td>
-				 33 m 39 s
+				 34 m 23 s
 			</td>
 			<td>
 				94,1 kWh
@@ -1623,7 +1623,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				26 kW
 			</td>
 			<td>
-				 35 m 44 s
+				 36 m 30 s
 			</td>
 			<td>
 				95,1 kWh
@@ -1637,7 +1637,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				13 kW
 			</td>
 			<td>
-				 38 m 52 s
+				 39 m 43 s
 			</td>
 			<td>
 				96,0 kWh
@@ -1651,7 +1651,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 				4 kW
 			</td>
 			<td>
-				 46 m 5 s
+				 47 m 4 s
 			</td>
 			<td>
 				97,0 kWh

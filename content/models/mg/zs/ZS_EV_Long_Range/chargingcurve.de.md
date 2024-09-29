@@ -1,7 +1,7 @@
 ---
 title: MG ZS EV Long Range Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für MG ZS EV Long Range."
+description: "Unten ist die Ladekurve für MG ZS EV Long Range dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				36,7 kW
+				35,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				36,3 kW
+				35,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				55,2 kW
+				54,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				68,6 kW
+				67,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				63,2kW
+				62,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				34m23s
+				35m1s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 51 m 42 s
+				1 h 54 m 6 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				1 h 41 m 40 s
+				1 h 43 m 52 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 41 m 48 s
+				 42 m 42 s
 			</td>
 		</tr>
 	</tbody>
@@ -189,7 +189,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,9 km (2,4 mi)
+				3,8 km (2,4 mi)
 			</td>
 			<td>
 				?
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,4 km (4,6 mi)
+				7,2 km (4,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,8 km (3,0 mi)
+				4,7 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				26 kW
 			</td>
 			<td>
-				 1 m 52 s
+				 1 m 55 s
 			</td>
 			<td>
 				0,7 kWh
@@ -282,7 +282,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				32 kW
 			</td>
 			<td>
-				 3 m 22 s
+				 3 m 26 s
 			</td>
 			<td>
 				1,4 kWh
@@ -296,7 +296,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				38 kW
 			</td>
 			<td>
-				 4 m 36 s
+				 4 m 42 s
 			</td>
 			<td>
 				2,0 kWh
@@ -310,7 +310,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				44 kW
 			</td>
 			<td>
-				 5 m 40 s
+				 5 m 47 s
 			</td>
 			<td>
 				2,7 kWh
@@ -324,7 +324,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				50 kW
 			</td>
 			<td>
-				 6 m 36 s
+				 6 m 44 s
 			</td>
 			<td>
 				3,4 kWh
@@ -338,7 +338,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 35 s
 			</td>
 			<td>
 				4,1 kWh
@@ -352,7 +352,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				61 kW
 			</td>
 			<td>
-				 8 m 9 s
+				 8 m 20 s
 			</td>
 			<td>
 				4,8 kWh
@@ -366,7 +366,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				67 kW
 			</td>
 			<td>
-				 8 m 50 s
+				 9 m 1 s
 			</td>
 			<td>
 				5,5 kWh
@@ -380,7 +380,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				73 kW
 			</td>
 			<td>
-				 9 m 27 s
+				 9 m 39 s
 			</td>
 			<td>
 				6,1 kWh
@@ -394,7 +394,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				79 kW
 			</td>
 			<td>
-				 10 m 1 s
+				 10 m 14 s
 			</td>
 			<td>
 				6,8 kWh
@@ -408,7 +408,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				79 kW
 			</td>
 			<td>
-				 10 m 33 s
+				 10 m 47 s
 			</td>
 			<td>
 				7,5 kWh
@@ -422,7 +422,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				79 kW
 			</td>
 			<td>
-				 11 m 6 s
+				 11 m 21 s
 			</td>
 			<td>
 				8,2 kWh
@@ -436,7 +436,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				80 kW
 			</td>
 			<td>
-				 11 m 39 s
+				 11 m 54 s
 			</td>
 			<td>
 				8,9 kWh
@@ -450,7 +450,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				80 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 27 s
 			</td>
 			<td>
 				9,6 kWh
@@ -464,7 +464,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				80 kW
 			</td>
 			<td>
-				 12 m 43 s
+				 13 m 0 s
 			</td>
 			<td>
 				10,2 kWh
@@ -478,7 +478,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 13 m 16 s
+				 13 m 33 s
 			</td>
 			<td>
 				10,9 kWh
@@ -492,7 +492,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 14 m 5 s
 			</td>
 			<td>
 				11,6 kWh
@@ -506,7 +506,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 14 m 19 s
+				 14 m 38 s
 			</td>
 			<td>
 				12,3 kWh
@@ -520,7 +520,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 11 s
 			</td>
 			<td>
 				13,0 kWh
@@ -534,7 +534,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 15 m 23 s
+				 15 m 43 s
 			</td>
 			<td>
 				13,7 kWh
@@ -548,7 +548,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 15 m 55 s
+				 16 m 16 s
 			</td>
 			<td>
 				14,3 kWh
@@ -562,7 +562,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 16 m 27 s
+				 16 m 49 s
 			</td>
 			<td>
 				15,0 kWh
@@ -576,7 +576,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 16 m 59 s
+				 17 m 21 s
 			</td>
 			<td>
 				15,7 kWh
@@ -590,7 +590,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 17 m 31 s
+				 17 m 54 s
 			</td>
 			<td>
 				16,4 kWh
@@ -604,7 +604,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 18 m 3 s
+				 18 m 26 s
 			</td>
 			<td>
 				17,1 kWh
@@ -618,7 +618,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 18 m 35 s
+				 18 m 59 s
 			</td>
 			<td>
 				17,8 kWh
@@ -632,7 +632,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 19 m 6 s
+				 19 m 31 s
 			</td>
 			<td>
 				18,4 kWh
@@ -646,7 +646,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 19 m 38 s
+				 20 m 3 s
 			</td>
 			<td>
 				19,1 kWh
@@ -660,7 +660,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 20 m 9 s
+				 20 m 35 s
 			</td>
 			<td>
 				19,8 kWh
@@ -674,7 +674,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 20 m 41 s
+				 21 m 7 s
 			</td>
 			<td>
 				20,5 kWh
@@ -688,7 +688,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 21 m 12 s
+				 21 m 40 s
 			</td>
 			<td>
 				21,2 kWh
@@ -702,7 +702,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 21 m 44 s
+				 22 m 12 s
 			</td>
 			<td>
 				21,9 kWh
@@ -716,7 +716,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 22 m 15 s
+				 22 m 44 s
 			</td>
 			<td>
 				22,5 kWh
@@ -730,7 +730,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 22 m 47 s
+				 23 m 16 s
 			</td>
 			<td>
 				23,2 kWh
@@ -744,7 +744,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 23 m 19 s
+				 23 m 49 s
 			</td>
 			<td>
 				23,9 kWh
@@ -758,7 +758,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 23 m 50 s
+				 24 m 21 s
 			</td>
 			<td>
 				24,6 kWh
@@ -772,7 +772,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				83 kW
 			</td>
 			<td>
-				 24 m 22 s
+				 24 m 53 s
 			</td>
 			<td>
 				25,3 kWh
@@ -786,7 +786,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 24 m 53 s
+				 25 m 25 s
 			</td>
 			<td>
 				26,0 kWh
@@ -800,7 +800,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 25 m 25 s
+				 25 m 58 s
 			</td>
 			<td>
 				26,6 kWh
@@ -814,7 +814,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 25 m 57 s
+				 26 m 31 s
 			</td>
 			<td>
 				27,3 kWh
@@ -828,7 +828,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 26 m 29 s
+				 27 m 3 s
 			</td>
 			<td>
 				28,0 kWh
@@ -842,7 +842,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 27 m 1 s
+				 27 m 36 s
 			</td>
 			<td>
 				28,7 kWh
@@ -856,7 +856,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 27 m 33 s
+				 28 m 8 s
 			</td>
 			<td>
 				29,4 kWh
@@ -870,7 +870,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 28 m 5 s
+				 28 m 41 s
 			</td>
 			<td>
 				30,1 kWh
@@ -884,7 +884,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 28 m 37 s
+				 29 m 14 s
 			</td>
 			<td>
 				30,7 kWh
@@ -898,7 +898,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 29 m 9 s
+				 29 m 46 s
 			</td>
 			<td>
 				31,4 kWh
@@ -912,7 +912,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 29 m 40 s
+				 30 m 18 s
 			</td>
 			<td>
 				32,1 kWh
@@ -926,7 +926,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 30 m 14 s
+				 30 m 53 s
 			</td>
 			<td>
 				32,8 kWh
@@ -940,7 +940,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 30 m 51 s
+				 31 m 31 s
 			</td>
 			<td>
 				33,5 kWh
@@ -954,7 +954,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 31 m 28 s
+				 32 m 9 s
 			</td>
 			<td>
 				34,2 kWh
@@ -968,7 +968,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 32 m 5 s
+				 32 m 46 s
 			</td>
 			<td>
 				34,8 kWh
@@ -982,7 +982,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 32 m 42 s
+				 33 m 24 s
 			</td>
 			<td>
 				35,5 kWh
@@ -996,7 +996,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 33 m 19 s
+				 34 m 2 s
 			</td>
 			<td>
 				36,2 kWh
@@ -1010,7 +1010,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				70 kW
 			</td>
 			<td>
-				 33 m 56 s
+				 34 m 40 s
 			</td>
 			<td>
 				36,9 kWh
@@ -1024,7 +1024,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				71 kW
 			</td>
 			<td>
-				 34 m 33 s
+				 35 m 17 s
 			</td>
 			<td>
 				37,6 kWh
@@ -1038,7 +1038,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				71 kW
 			</td>
 			<td>
-				 35 m 9 s
+				 35 m 55 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1052,7 +1052,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				71 kW
 			</td>
 			<td>
-				 35 m 46 s
+				 36 m 32 s
 			</td>
 			<td>
 				38,9 kWh
@@ -1066,7 +1066,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				71 kW
 			</td>
 			<td>
-				 36 m 22 s
+				 37 m 9 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1080,7 +1080,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				71 kW
 			</td>
 			<td>
-				 36 m 59 s
+				 37 m 46 s
 			</td>
 			<td>
 				40,3 kWh
@@ -1094,7 +1094,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				72 kW
 			</td>
 			<td>
-				 37 m 35 s
+				 38 m 23 s
 			</td>
 			<td>
 				41,0 kWh
@@ -1108,7 +1108,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 38 m 13 s
+				 39 m 2 s
 			</td>
 			<td>
 				41,7 kWh
@@ -1122,7 +1122,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 38 m 54 s
+				 39 m 44 s
 			</td>
 			<td>
 				42,3 kWh
@@ -1136,7 +1136,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 39 m 35 s
+				 40 m 26 s
 			</td>
 			<td>
 				43,0 kWh
@@ -1150,7 +1150,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				62 kW
 			</td>
 			<td>
-				 40 m 17 s
+				 41 m 9 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1164,7 +1164,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 40 m 58 s
+				 41 m 51 s
 			</td>
 			<td>
 				44,4 kWh
@@ -1178,7 +1178,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 41 m 39 s
+				 42 m 33 s
 			</td>
 			<td>
 				45,1 kWh
@@ -1192,7 +1192,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 42 m 20 s
+				 43 m 15 s
 			</td>
 			<td>
 				45,8 kWh
@@ -1206,7 +1206,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 43 m 1 s
+				 43 m 57 s
 			</td>
 			<td>
 				46,4 kWh
@@ -1220,7 +1220,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 43 m 42 s
+				 44 m 39 s
 			</td>
 			<td>
 				47,1 kWh
@@ -1234,7 +1234,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				64 kW
 			</td>
 			<td>
-				 44 m 23 s
+				 45 m 20 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1248,7 +1248,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				64 kW
 			</td>
 			<td>
-				 45 m 4 s
+				 46 m 2 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1262,7 +1262,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				64 kW
 			</td>
 			<td>
-				 45 m 44 s
+				 46 m 43 s
 			</td>
 			<td>
 				49,2 kWh
@@ -1276,7 +1276,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				64 kW
 			</td>
 			<td>
-				 46 m 24 s
+				 47 m 24 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1290,7 +1290,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				56 kW
 			</td>
 			<td>
-				 47 m 8 s
+				 48 m 8 s
 			</td>
 			<td>
 				50,5 kWh
@@ -1304,7 +1304,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 47 m 54 s
+				 48 m 56 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1318,7 +1318,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 48 m 41 s
+				 49 m 44 s
 			</td>
 			<td>
 				51,9 kWh
@@ -1332,7 +1332,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 49 m 28 s
+				 50 m 32 s
 			</td>
 			<td>
 				52,6 kWh
@@ -1346,7 +1346,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 50 m 15 s
+				 51 m 20 s
 			</td>
 			<td>
 				53,3 kWh
@@ -1360,7 +1360,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 51 m 2 s
+				 52 m 8 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1374,7 +1374,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				55 kW
 			</td>
 			<td>
-				 51 m 50 s
+				 52 m 56 s
 			</td>
 			<td>
 				54,6 kWh
@@ -1388,7 +1388,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				27 kW
 			</td>
 			<td>
-				 52 m 53 s
+				 54 m 1 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1402,7 +1402,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				25 kW
 			</td>
 			<td>
-				 54 m 32 s
+				 55 m 43 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1416,7 +1416,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				25 kW
 			</td>
 			<td>
-				 56 m 16 s
+				 57 m 28 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1430,7 +1430,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				25 kW
 			</td>
 			<td>
-				 57 m 59 s
+				 59 m 14 s
 			</td>
 			<td>
 				57,4 kWh
@@ -1444,7 +1444,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				25 kW
 			</td>
 			<td>
-				 59 m 43 s
+				1 h 1 m 0 s
 			</td>
 			<td>
 				58,1 kWh
@@ -1458,7 +1458,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				24 kW
 			</td>
 			<td>
-				1 h 1 m 28 s
+				1 h 2 m 48 s
 			</td>
 			<td>
 				58,7 kWh
@@ -1472,7 +1472,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				24 kW
 			</td>
 			<td>
-				1 h 3 m 16 s
+				1 h 4 m 38 s
 			</td>
 			<td>
 				59,4 kWh
@@ -1486,7 +1486,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				24 kW
 			</td>
 			<td>
-				1 h 5 m 4 s
+				1 h 6 m 28 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1500,7 +1500,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				20 kW
 			</td>
 			<td>
-				1 h 7 m 2 s
+				1 h 8 m 28 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1514,7 +1514,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				16 kW
 			</td>
 			<td>
-				1 h 9 m 26 s
+				1 h 10 m 55 s
 			</td>
 			<td>
 				61,5 kWh
@@ -1528,7 +1528,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				15 kW
 			</td>
 			<td>
-				1 h 12 m 13 s
+				1 h 13 m 46 s
 			</td>
 			<td>
 				62,2 kWh
@@ -1542,7 +1542,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				14 kW
 			</td>
 			<td>
-				1 h 15 m 11 s
+				1 h 16 m 48 s
 			</td>
 			<td>
 				62,8 kWh
@@ -1556,7 +1556,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				13 kW
 			</td>
 			<td>
-				1 h 18 m 23 s
+				1 h 20 m 4 s
 			</td>
 			<td>
 				63,5 kWh
@@ -1570,7 +1570,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				12 kW
 			</td>
 			<td>
-				1 h 21 m 50 s
+				1 h 23 m 35 s
 			</td>
 			<td>
 				64,2 kWh
@@ -1584,7 +1584,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				11 kW
 			</td>
 			<td>
-				1 h 25 m 35 s
+				1 h 27 m 25 s
 			</td>
 			<td>
 				64,9 kWh
@@ -1598,7 +1598,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				10 kW
 			</td>
 			<td>
-				1 h 29 m 41 s
+				1 h 31 m 37 s
 			</td>
 			<td>
 				65,6 kWh
@@ -1612,7 +1612,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				9 kW
 			</td>
 			<td>
-				1 h 34 m 14 s
+				1 h 36 m 15 s
 			</td>
 			<td>
 				66,3 kWh
@@ -1626,7 +1626,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				8 kW
 			</td>
 			<td>
-				1 h 39 m 18 s
+				1 h 41 m 26 s
 			</td>
 			<td>
 				66,9 kWh
@@ -1640,7 +1640,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				7 kW
 			</td>
 			<td>
-				1 h 45 m 3 s
+				1 h 47 m 19 s
 			</td>
 			<td>
 				67,6 kWh
@@ -1654,7 +1654,7 @@ MG ZS EV Long Range verfügt über eine Batterieheizung, die das Laden bei optim
 				6 kW
 			</td>
 			<td>
-				1 h 51 m 42 s
+				1 h 54 m 6 s
 			</td>
 			<td>
 				68,3 kWh

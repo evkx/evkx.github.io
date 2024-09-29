@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric Standard curva de carga y rendimiento
 linktitle: "Curva de carga"
-description: "Aquí encontrarás la curva de carga para MG MG4 Electric Standard."
+description: "A continuación se muestra la curva de carga para MG MG4 Electric Standard, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				68,4 kW
+				67,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				66,8 kW
+				65,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				86,9 kW
+				85,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				105,0 kW
+				102,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				93,5kW
+				92,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				19m54s
+				19m12s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				 44 m 32 s
+				 45 m 29 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				 41 m 4 s
+				 41 m 57 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 20 m 19 s
+				 20 m 45 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,9 km (4,9 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				5,4 km (3,4 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango por minuto 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				7,7 km (4,8 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,2 km (3,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango por minuto 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				12,1 km (7,5 mi)
+				11,8 km (7,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,2 km (5,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				49 kW
 			</td>
 			<td>
-				 0 m 56 s
+				 0 m 57 s
 			</td>
 			<td>
 				0,5 kWh
@@ -282,7 +282,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				78 kW
 			</td>
 			<td>
-				 1 m 26 s
+				 1 m 28 s
 			</td>
 			<td>
 				1,0 kWh
@@ -296,7 +296,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				106 kW
 			</td>
 			<td>
-				 1 m 47 s
+				 1 m 49 s
 			</td>
 			<td>
 				1,5 kWh
@@ -310,7 +310,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				135 kW
 			</td>
 			<td>
-				 2 m 3 s
+				 2 m 6 s
 			</td>
 			<td>
 				2,0 kWh
@@ -324,7 +324,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				136 kW
 			</td>
 			<td>
-				 2 m 17 s
+				 2 m 20 s
 			</td>
 			<td>
 				2,5 kWh
@@ -338,7 +338,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				136 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 35 s
 			</td>
 			<td>
 				3,0 kWh
@@ -352,7 +352,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				137 kW
 			</td>
 			<td>
-				 2 m 45 s
+				 2 m 49 s
 			</td>
 			<td>
 				3,6 kWh
@@ -366,7 +366,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				137 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 3 s
 			</td>
 			<td>
 				4,1 kWh
@@ -380,7 +380,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 18 s
 			</td>
 			<td>
 				4,6 kWh
@@ -394,7 +394,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 3 m 28 s
+				 3 m 32 s
 			</td>
 			<td>
 				5,1 kWh
@@ -408,7 +408,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 3 m 41 s
+				 3 m 46 s
 			</td>
 			<td>
 				5,6 kWh
@@ -422,7 +422,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 3 m 55 s
+				 4 m 0 s
 			</td>
 			<td>
 				6,1 kWh
@@ -436,7 +436,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 4 m 9 s
+				 4 m 15 s
 			</td>
 			<td>
 				6,6 kWh
@@ -450,7 +450,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 4 m 23 s
+				 4 m 29 s
 			</td>
 			<td>
 				7,1 kWh
@@ -464,7 +464,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 4 m 37 s
+				 4 m 43 s
 			</td>
 			<td>
 				7,6 kWh
@@ -478,7 +478,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 57 s
 			</td>
 			<td>
 				8,1 kWh
@@ -492,7 +492,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 12 s
 			</td>
 			<td>
 				8,6 kWh
@@ -506,7 +506,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 5 m 19 s
+				 5 m 26 s
 			</td>
 			<td>
 				9,1 kWh
@@ -520,7 +520,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 5 m 33 s
+				 5 m 40 s
 			</td>
 			<td>
 				9,7 kWh
@@ -534,7 +534,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 5 m 47 s
+				 5 m 54 s
 			</td>
 			<td>
 				10,2 kWh
@@ -548,7 +548,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 6 m 1 s
+				 6 m 8 s
 			</td>
 			<td>
 				10,7 kWh
@@ -562,7 +562,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 6 m 15 s
+				 6 m 23 s
 			</td>
 			<td>
 				11,2 kWh
@@ -576,7 +576,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 37 s
 			</td>
 			<td>
 				11,7 kWh
@@ -590,7 +590,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 6 m 42 s
+				 6 m 51 s
 			</td>
 			<td>
 				12,2 kWh
@@ -604,7 +604,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				12,7 kWh
@@ -618,7 +618,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 7 m 10 s
+				 7 m 19 s
 			</td>
 			<td>
 				13,2 kWh
@@ -632,7 +632,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 7 m 24 s
+				 7 m 34 s
 			</td>
 			<td>
 				13,7 kWh
@@ -646,7 +646,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 7 m 38 s
+				 7 m 48 s
 			</td>
 			<td>
 				14,2 kWh
@@ -660,7 +660,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 7 m 52 s
+				 8 m 2 s
 			</td>
 			<td>
 				14,7 kWh
@@ -674,7 +674,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 8 m 6 s
+				 8 m 16 s
 			</td>
 			<td>
 				15,2 kWh
@@ -688,7 +688,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 8 m 19 s
+				 8 m 30 s
 			</td>
 			<td>
 				15,7 kWh
@@ -702,7 +702,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 8 m 44 s
 			</td>
 			<td>
 				16,3 kWh
@@ -716,7 +716,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 8 m 47 s
+				 8 m 58 s
 			</td>
 			<td>
 				16,8 kWh
@@ -730,7 +730,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 9 m 1 s
+				 9 m 13 s
 			</td>
 			<td>
 				17,3 kWh
@@ -744,7 +744,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 9 m 15 s
+				 9 m 27 s
 			</td>
 			<td>
 				17,8 kWh
@@ -758,7 +758,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 9 m 29 s
+				 9 m 41 s
 			</td>
 			<td>
 				18,3 kWh
@@ -772,7 +772,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 55 s
 			</td>
 			<td>
 				18,8 kWh
@@ -786,7 +786,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 9 s
 			</td>
 			<td>
 				19,3 kWh
@@ -800,7 +800,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				139 kW
 			</td>
 			<td>
-				 10 m 10 s
+				 10 m 23 s
 			</td>
 			<td>
 				19,8 kWh
@@ -814,7 +814,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 10 m 37 s
 			</td>
 			<td>
 				20,3 kWh
@@ -828,7 +828,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 10 m 38 s
+				 10 m 51 s
 			</td>
 			<td>
 				20,8 kWh
@@ -842,7 +842,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 5 s
 			</td>
 			<td>
 				21,3 kWh
@@ -856,7 +856,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 11 m 5 s
+				 11 m 19 s
 			</td>
 			<td>
 				21,8 kWh
@@ -870,7 +870,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 11 m 19 s
+				 11 m 34 s
 			</td>
 			<td>
 				22,4 kWh
@@ -884,7 +884,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 48 s
 			</td>
 			<td>
 				22,9 kWh
@@ -898,7 +898,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 11 m 46 s
+				 12 m 2 s
 			</td>
 			<td>
 				23,4 kWh
@@ -912,7 +912,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 12 m 0 s
+				 12 m 16 s
 			</td>
 			<td>
 				23,9 kWh
@@ -926,7 +926,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 12 m 14 s
+				 12 m 30 s
 			</td>
 			<td>
 				24,4 kWh
@@ -940,7 +940,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 12 m 28 s
+				 12 m 44 s
 			</td>
 			<td>
 				24,9 kWh
@@ -954,7 +954,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				140 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 58 s
 			</td>
 			<td>
 				25,4 kWh
@@ -968,7 +968,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				136 kW
 			</td>
 			<td>
-				 12 m 55 s
+				 13 m 12 s
 			</td>
 			<td>
 				25,9 kWh
@@ -982,7 +982,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				132 kW
 			</td>
 			<td>
-				 13 m 10 s
+				 13 m 27 s
 			</td>
 			<td>
 				26,4 kWh
@@ -996,7 +996,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				129 kW
 			</td>
 			<td>
-				 13 m 25 s
+				 13 m 42 s
 			</td>
 			<td>
 				26,9 kWh
@@ -1010,7 +1010,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				125 kW
 			</td>
 			<td>
-				 13 m 40 s
+				 13 m 57 s
 			</td>
 			<td>
 				27,4 kWh
@@ -1024,7 +1024,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				121 kW
 			</td>
 			<td>
-				 13 m 55 s
+				 14 m 13 s
 			</td>
 			<td>
 				27,9 kWh
@@ -1038,7 +1038,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				117 kW
 			</td>
 			<td>
-				 14 m 12 s
+				 14 m 30 s
 			</td>
 			<td>
 				28,4 kWh
@@ -1052,7 +1052,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				113 kW
 			</td>
 			<td>
-				 14 m 28 s
+				 14 m 47 s
 			</td>
 			<td>
 				29,0 kWh
@@ -1066,7 +1066,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				110 kW
 			</td>
 			<td>
-				 14 m 46 s
+				 15 m 5 s
 			</td>
 			<td>
 				29,5 kWh
@@ -1080,7 +1080,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				106 kW
 			</td>
 			<td>
-				 15 m 3 s
+				 15 m 23 s
 			</td>
 			<td>
 				30,0 kWh
@@ -1094,7 +1094,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				102 kW
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 42 s
 			</td>
 			<td>
 				30,5 kWh
@@ -1108,7 +1108,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				99 kW
 			</td>
 			<td>
-				 15 m 41 s
+				 16 m 1 s
 			</td>
 			<td>
 				31,0 kWh
@@ -1122,7 +1122,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				97 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 16 m 21 s
 			</td>
 			<td>
 				31,5 kWh
@@ -1136,7 +1136,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				94 kW
 			</td>
 			<td>
-				 16 m 21 s
+				 16 m 42 s
 			</td>
 			<td>
 				32,0 kWh
@@ -1150,7 +1150,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				92 kW
 			</td>
 			<td>
-				 16 m 42 s
+				 17 m 3 s
 			</td>
 			<td>
 				32,5 kWh
@@ -1164,7 +1164,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				90 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 25 s
 			</td>
 			<td>
 				33,0 kWh
@@ -1178,7 +1178,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				88 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 17 m 47 s
 			</td>
 			<td>
 				33,5 kWh
@@ -1192,7 +1192,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				85 kW
 			</td>
 			<td>
-				 17 m 47 s
+				 18 m 10 s
 			</td>
 			<td>
 				34,0 kWh
@@ -1206,7 +1206,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				83 kW
 			</td>
 			<td>
-				 18 m 9 s
+				 18 m 33 s
 			</td>
 			<td>
 				34,5 kWh
@@ -1220,7 +1220,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				81 kW
 			</td>
 			<td>
-				 18 m 33 s
+				 18 m 57 s
 			</td>
 			<td>
 				35,1 kWh
@@ -1234,7 +1234,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				78 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 19 m 22 s
 			</td>
 			<td>
 				35,6 kWh
@@ -1248,7 +1248,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				76 kW
 			</td>
 			<td>
-				 19 m 22 s
+				 19 m 47 s
 			</td>
 			<td>
 				36,1 kWh
@@ -1262,7 +1262,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				74 kW
 			</td>
 			<td>
-				 19 m 48 s
+				 20 m 13 s
 			</td>
 			<td>
 				36,6 kWh
@@ -1276,7 +1276,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				72 kW
 			</td>
 			<td>
-				 20 m 14 s
+				 20 m 40 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1290,7 +1290,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				69 kW
 			</td>
 			<td>
-				 20 m 41 s
+				 21 m 8 s
 			</td>
 			<td>
 				37,6 kWh
@@ -1304,7 +1304,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				67 kW
 			</td>
 			<td>
-				 21 m 10 s
+				 21 m 37 s
 			</td>
 			<td>
 				38,1 kWh
@@ -1318,7 +1318,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				65 kW
 			</td>
 			<td>
-				 21 m 39 s
+				 22 m 7 s
 			</td>
 			<td>
 				38,6 kWh
@@ -1332,7 +1332,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				63 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 38 s
 			</td>
 			<td>
 				39,1 kWh
@@ -1346,7 +1346,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				60 kW
 			</td>
 			<td>
-				 22 m 40 s
+				 23 m 10 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1360,7 +1360,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				58 kW
 			</td>
 			<td>
-				 23 m 13 s
+				 23 m 43 s
 			</td>
 			<td>
 				40,1 kWh
@@ -1374,7 +1374,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				55 kW
 			</td>
 			<td>
-				 23 m 47 s
+				 24 m 18 s
 			</td>
 			<td>
 				40,6 kWh
@@ -1388,7 +1388,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				53 kW
 			</td>
 			<td>
-				 24 m 22 s
+				 24 m 54 s
 			</td>
 			<td>
 				41,1 kWh
@@ -1402,7 +1402,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				50 kW
 			</td>
 			<td>
-				 25 m 0 s
+				 25 m 32 s
 			</td>
 			<td>
 				41,7 kWh
@@ -1416,7 +1416,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				48 kW
 			</td>
 			<td>
-				 25 m 39 s
+				 26 m 12 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1430,7 +1430,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				45 kW
 			</td>
 			<td>
-				 26 m 20 s
+				 26 m 54 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1444,7 +1444,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				43 kW
 			</td>
 			<td>
-				 27 m 4 s
+				 27 m 39 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1458,7 +1458,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				40 kW
 			</td>
 			<td>
-				 27 m 50 s
+				 28 m 26 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1472,7 +1472,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				38 kW
 			</td>
 			<td>
-				 28 m 40 s
+				 29 m 17 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1486,7 +1486,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				35 kW
 			</td>
 			<td>
-				 29 m 33 s
+				 30 m 11 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1500,7 +1500,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				33 kW
 			</td>
 			<td>
-				 30 m 30 s
+				 31 m 9 s
 			</td>
 			<td>
 				45,2 kWh
@@ -1514,7 +1514,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				30 kW
 			</td>
 			<td>
-				 31 m 31 s
+				 32 m 12 s
 			</td>
 			<td>
 				45,7 kWh
@@ -1528,7 +1528,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				29 kW
 			</td>
 			<td>
-				 32 m 37 s
+				 33 m 19 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1542,7 +1542,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				28 kW
 			</td>
 			<td>
-				 33 m 44 s
+				 34 m 28 s
 			</td>
 			<td>
 				46,7 kWh
@@ -1556,7 +1556,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				27 kW
 			</td>
 			<td>
-				 34 m 54 s
+				 35 m 39 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1570,7 +1570,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				26 kW
 			</td>
 			<td>
-				 36 m 7 s
+				 36 m 53 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1584,7 +1584,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				25 kW
 			</td>
 			<td>
-				 37 m 22 s
+				 38 m 10 s
 			</td>
 			<td>
 				48,3 kWh
@@ -1598,7 +1598,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				24 kW
 			</td>
 			<td>
-				 38 m 41 s
+				 39 m 31 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1612,7 +1612,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				23 kW
 			</td>
 			<td>
-				 40 m 3 s
+				 40 m 54 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1626,7 +1626,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				22 kW
 			</td>
 			<td>
-				 41 m 28 s
+				 42 m 22 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1640,7 +1640,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				21 kW
 			</td>
 			<td>
-				 42 m 58 s
+				 43 m 53 s
 			</td>
 			<td>
 				50,3 kWh
@@ -1654,7 +1654,7 @@ MG MG4 Electric Standard tiene calefacción de batería, lo que facilita la carg
 				20 kW
 			</td>
 			<td>
-				 44 m 32 s
+				 45 m 29 s
 			</td>
 			<td>
 				50,8 kWh

@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 80,1 kWh och en nettoanvändb
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km (441 miles). Förbrukningen är 10,8kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 42 minuter, medan ett vanligare scenario på 10-80 % tar 23 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 125kW. Varje laddningssession tar 21 minuter och 37 sekunder.
+Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 42 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 123kW. Varje laddningssession tar 21 minuter och 57 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 20 kWh/100 km, skulle resan ta ungefär 9 timmar och 19 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 57%, med en total laddningstid på 60 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 20 kWh/100 km, skulle resan ta ungefär 9 timmar och 20 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 57%, med en total laddningstid på 61 minuter.
 
 ### Ombordladdare
 

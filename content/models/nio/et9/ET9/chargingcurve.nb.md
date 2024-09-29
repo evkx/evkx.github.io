@@ -1,7 +1,7 @@
 ---
 title: Nio ET9 ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Nio ET9."
+description: "Nedenfor er ladekurven for Nio ET9, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				214,4 kW
+				209,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				213,2 kW
+				208,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				280,1 kW
+				274,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				331,5 kW
+				324,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				265,5kW
+				261,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				15m41s
+				15m53s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				 31 m 20 s
+				 32 m 0 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				 28 m 21 s
+				 28 m 58 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 14 m 11 s
+				 14 m 29 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				23,0 km (14,3 mi)
+				22,5 km (14,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				16,2 km (10,1 mi)
+				15,9 km (9,9 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				22,8 km (14,2 mi)
+				22,4 km (13,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				16,2 km (10,1 mi)
+				15,8 km (9,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				35,5 km (22,1 mi)
+				34,8 km (21,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				25,1 km (15,6 mi)
+				24,6 km (15,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				125 kW
 			</td>
 			<td>
-				 0 m 37 s
+				 0 m 38 s
 			</td>
 			<td>
 				1,1 kWh
@@ -282,7 +282,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				150 kW
 			</td>
 			<td>
-				 1 m 8 s
+				 1 m 10 s
 			</td>
 			<td>
 				2,2 kWh
@@ -296,7 +296,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				200 kW
 			</td>
 			<td>
-				 1 m 32 s
+				 1 m 34 s
 			</td>
 			<td>
 				3,4 kWh
@@ -310,7 +310,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				250 kW
 			</td>
 			<td>
-				 1 m 51 s
+				 1 m 54 s
 			</td>
 			<td>
 				4,5 kWh
@@ -324,7 +324,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				300 kW
 			</td>
 			<td>
-				 2 m 7 s
+				 2 m 9 s
 			</td>
 			<td>
 				5,6 kWh
@@ -338,7 +338,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				350 kW
 			</td>
 			<td>
-				 2 m 20 s
+				 2 m 23 s
 			</td>
 			<td>
 				6,7 kWh
@@ -352,7 +352,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				400 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				7,8 kWh
@@ -366,7 +366,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				450 kW
 			</td>
 			<td>
-				 2 m 41 s
+				 2 m 44 s
 			</td>
 			<td>
 				9,0 kWh
@@ -380,7 +380,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				500 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 2 m 54 s
 			</td>
 			<td>
 				10,1 kWh
@@ -394,7 +394,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				550 kW
 			</td>
 			<td>
-				 2 m 58 s
+				 3 m 2 s
 			</td>
 			<td>
 				11,2 kWh
@@ -408,7 +408,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				575 kW
 			</td>
 			<td>
-				 3 m 6 s
+				 3 m 10 s
 			</td>
 			<td>
 				12,3 kWh
@@ -422,7 +422,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				600 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 17 s
 			</td>
 			<td>
 				13,4 kWh
@@ -436,7 +436,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				594 kW
 			</td>
 			<td>
-				 3 m 20 s
+				 3 m 24 s
 			</td>
 			<td>
 				14,6 kWh
@@ -450,7 +450,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				588 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 32 s
 			</td>
 			<td>
 				15,7 kWh
@@ -464,7 +464,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				581 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 39 s
 			</td>
 			<td>
 				16,8 kWh
@@ -478,7 +478,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				575 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 46 s
 			</td>
 			<td>
 				17,9 kWh
@@ -492,7 +492,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				569 kW
 			</td>
 			<td>
-				 3 m 49 s
+				 3 m 54 s
 			</td>
 			<td>
 				19,0 kWh
@@ -506,7 +506,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				563 kW
 			</td>
 			<td>
-				 3 m 57 s
+				 4 m 2 s
 			</td>
 			<td>
 				20,2 kWh
@@ -520,7 +520,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				556 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 9 s
 			</td>
 			<td>
 				21,3 kWh
@@ -534,7 +534,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				550 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 4 m 17 s
 			</td>
 			<td>
 				22,4 kWh
@@ -548,7 +548,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				544 kW
 			</td>
 			<td>
-				 4 m 20 s
+				 4 m 25 s
 			</td>
 			<td>
 				23,5 kWh
@@ -562,7 +562,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				538 kW
 			</td>
 			<td>
-				 4 m 27 s
+				 4 m 33 s
 			</td>
 			<td>
 				24,6 kWh
@@ -576,7 +576,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				531 kW
 			</td>
 			<td>
-				 4 m 35 s
+				 4 m 41 s
 			</td>
 			<td>
 				25,8 kWh
@@ -590,7 +590,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				525 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 50 s
 			</td>
 			<td>
 				26,9 kWh
@@ -604,7 +604,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				519 kW
 			</td>
 			<td>
-				 4 m 52 s
+				 4 m 58 s
 			</td>
 			<td>
 				28,0 kWh
@@ -618,7 +618,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				513 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 6 s
 			</td>
 			<td>
 				29,1 kWh
@@ -632,7 +632,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				506 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 15 s
 			</td>
 			<td>
 				30,2 kWh
@@ -646,7 +646,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				500 kW
 			</td>
 			<td>
-				 5 m 17 s
+				 5 m 23 s
 			</td>
 			<td>
 				31,4 kWh
@@ -660,7 +660,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				494 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				32,5 kWh
@@ -674,7 +674,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				488 kW
 			</td>
 			<td>
-				 5 m 34 s
+				 5 m 41 s
 			</td>
 			<td>
 				33,6 kWh
@@ -688,7 +688,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				481 kW
 			</td>
 			<td>
-				 5 m 43 s
+				 5 m 50 s
 			</td>
 			<td>
 				34,7 kWh
@@ -702,7 +702,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				475 kW
 			</td>
 			<td>
-				 5 m 51 s
+				 5 m 59 s
 			</td>
 			<td>
 				35,8 kWh
@@ -716,7 +716,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				469 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 6 m 8 s
 			</td>
 			<td>
 				37,0 kWh
@@ -730,7 +730,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				463 kW
 			</td>
 			<td>
-				 6 m 10 s
+				 6 m 18 s
 			</td>
 			<td>
 				38,1 kWh
@@ -744,7 +744,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				456 kW
 			</td>
 			<td>
-				 6 m 19 s
+				 6 m 27 s
 			</td>
 			<td>
 				39,2 kWh
@@ -758,7 +758,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				450 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 37 s
 			</td>
 			<td>
 				40,3 kWh
@@ -772,7 +772,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				444 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				41,4 kWh
@@ -786,7 +786,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				438 kW
 			</td>
 			<td>
-				 6 m 47 s
+				 6 m 56 s
 			</td>
 			<td>
 				42,6 kWh
@@ -800,7 +800,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				431 kW
 			</td>
 			<td>
-				 6 m 57 s
+				 7 m 6 s
 			</td>
 			<td>
 				43,7 kWh
@@ -814,7 +814,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				425 kW
 			</td>
 			<td>
-				 7 m 7 s
+				 7 m 16 s
 			</td>
 			<td>
 				44,8 kWh
@@ -828,7 +828,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				419 kW
 			</td>
 			<td>
-				 7 m 17 s
+				 7 m 26 s
 			</td>
 			<td>
 				45,9 kWh
@@ -842,7 +842,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				413 kW
 			</td>
 			<td>
-				 7 m 27 s
+				 7 m 37 s
 			</td>
 			<td>
 				47,0 kWh
@@ -856,7 +856,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				406 kW
 			</td>
 			<td>
-				 7 m 38 s
+				 7 m 47 s
 			</td>
 			<td>
 				48,2 kWh
@@ -870,7 +870,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				400 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 7 m 58 s
 			</td>
 			<td>
 				49,3 kWh
@@ -884,7 +884,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				394 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 8 m 9 s
 			</td>
 			<td>
 				50,4 kWh
@@ -898,7 +898,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				388 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 8 m 20 s
 			</td>
 			<td>
 				51,5 kWh
@@ -912,7 +912,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				381 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 32 s
 			</td>
 			<td>
 				52,6 kWh
@@ -926,7 +926,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				375 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				53,8 kWh
@@ -940,7 +940,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				369 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 8 m 55 s
 			</td>
 			<td>
 				54,9 kWh
@@ -954,7 +954,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				363 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 6 s
 			</td>
 			<td>
 				56,0 kWh
@@ -968,7 +968,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				356 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 19 s
 			</td>
 			<td>
 				57,1 kWh
@@ -982,7 +982,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				350 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 31 s
 			</td>
 			<td>
 				58,2 kWh
@@ -996,7 +996,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				344 kW
 			</td>
 			<td>
-				 9 m 31 s
+				 9 m 43 s
 			</td>
 			<td>
 				59,4 kWh
@@ -1010,7 +1010,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				338 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 9 m 56 s
 			</td>
 			<td>
 				60,5 kWh
@@ -1024,7 +1024,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				331 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 9 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1038,7 +1038,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				325 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 22 s
 			</td>
 			<td>
 				62,7 kWh
@@ -1052,7 +1052,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				319 kW
 			</td>
 			<td>
-				 10 m 22 s
+				 10 m 36 s
 			</td>
 			<td>
 				63,8 kWh
@@ -1066,7 +1066,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				313 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 49 s
 			</td>
 			<td>
 				65,0 kWh
@@ -1080,7 +1080,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				306 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 11 m 3 s
 			</td>
 			<td>
 				66,1 kWh
@@ -1094,7 +1094,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				300 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 18 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1108,7 +1108,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				294 kW
 			</td>
 			<td>
-				 11 m 18 s
+				 11 m 32 s
 			</td>
 			<td>
 				68,3 kWh
@@ -1122,7 +1122,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				288 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 11 m 47 s
 			</td>
 			<td>
 				69,4 kWh
@@ -1136,7 +1136,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				281 kW
 			</td>
 			<td>
-				 11 m 47 s
+				 12 m 3 s
 			</td>
 			<td>
 				70,6 kWh
@@ -1150,7 +1150,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				275 kW
 			</td>
 			<td>
-				 12 m 3 s
+				 12 m 18 s
 			</td>
 			<td>
 				71,7 kWh
@@ -1164,7 +1164,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				269 kW
 			</td>
 			<td>
-				 12 m 18 s
+				 12 m 34 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1178,7 +1178,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				263 kW
 			</td>
 			<td>
-				 12 m 34 s
+				 12 m 50 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1192,7 +1192,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				256 kW
 			</td>
 			<td>
-				 12 m 51 s
+				 13 m 7 s
 			</td>
 			<td>
 				75,0 kWh
@@ -1206,7 +1206,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				250 kW
 			</td>
 			<td>
-				 13 m 7 s
+				 13 m 24 s
 			</td>
 			<td>
 				76,2 kWh
@@ -1220,7 +1220,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				244 kW
 			</td>
 			<td>
-				 13 m 24 s
+				 13 m 42 s
 			</td>
 			<td>
 				77,3 kWh
@@ -1234,7 +1234,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				238 kW
 			</td>
 			<td>
-				 13 m 42 s
+				 14 m 0 s
 			</td>
 			<td>
 				78,4 kWh
@@ -1248,7 +1248,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				231 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 14 m 18 s
 			</td>
 			<td>
 				79,5 kWh
@@ -1262,7 +1262,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				225 kW
 			</td>
 			<td>
-				 14 m 19 s
+				 14 m 37 s
 			</td>
 			<td>
 				80,6 kWh
@@ -1276,7 +1276,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				219 kW
 			</td>
 			<td>
-				 14 m 38 s
+				 14 m 57 s
 			</td>
 			<td>
 				81,8 kWh
@@ -1290,7 +1290,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				213 kW
 			</td>
 			<td>
-				 14 m 58 s
+				 15 m 17 s
 			</td>
 			<td>
 				82,9 kWh
@@ -1304,7 +1304,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				206 kW
 			</td>
 			<td>
-				 15 m 18 s
+				 15 m 38 s
 			</td>
 			<td>
 				84,0 kWh
@@ -1318,7 +1318,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				200 kW
 			</td>
 			<td>
-				 15 m 39 s
+				 15 m 59 s
 			</td>
 			<td>
 				85,1 kWh
@@ -1332,7 +1332,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				194 kW
 			</td>
 			<td>
-				 16 m 0 s
+				 16 m 21 s
 			</td>
 			<td>
 				86,2 kWh
@@ -1346,7 +1346,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				188 kW
 			</td>
 			<td>
-				 16 m 23 s
+				 16 m 44 s
 			</td>
 			<td>
 				87,4 kWh
@@ -1360,7 +1360,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				181 kW
 			</td>
 			<td>
-				 16 m 46 s
+				 17 m 7 s
 			</td>
 			<td>
 				88,5 kWh
@@ -1374,7 +1374,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				175 kW
 			</td>
 			<td>
-				 17 m 9 s
+				 17 m 32 s
 			</td>
 			<td>
 				89,6 kWh
@@ -1388,7 +1388,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				169 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 17 m 57 s
 			</td>
 			<td>
 				90,7 kWh
@@ -1402,7 +1402,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				163 kW
 			</td>
 			<td>
-				 18 m 0 s
+				 18 m 23 s
 			</td>
 			<td>
 				91,8 kWh
@@ -1416,7 +1416,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				156 kW
 			</td>
 			<td>
-				 18 m 26 s
+				 18 m 50 s
 			</td>
 			<td>
 				93,0 kWh
@@ -1430,7 +1430,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				150 kW
 			</td>
 			<td>
-				 18 m 54 s
+				 19 m 19 s
 			</td>
 			<td>
 				94,1 kWh
@@ -1444,7 +1444,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				144 kW
 			</td>
 			<td>
-				 19 m 23 s
+				 19 m 48 s
 			</td>
 			<td>
 				95,2 kWh
@@ -1458,7 +1458,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				138 kW
 			</td>
 			<td>
-				 19 m 53 s
+				 20 m 19 s
 			</td>
 			<td>
 				96,3 kWh
@@ -1472,7 +1472,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				131 kW
 			</td>
 			<td>
-				 20 m 25 s
+				 20 m 51 s
 			</td>
 			<td>
 				97,4 kWh
@@ -1486,7 +1486,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				125 kW
 			</td>
 			<td>
-				 20 m 58 s
+				 21 m 25 s
 			</td>
 			<td>
 				98,6 kWh
@@ -1500,7 +1500,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				119 kW
 			</td>
 			<td>
-				 21 m 33 s
+				 22 m 1 s
 			</td>
 			<td>
 				99,7 kWh
@@ -1514,7 +1514,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				113 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 38 s
 			</td>
 			<td>
 				100,8 kWh
@@ -1528,7 +1528,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				106 kW
 			</td>
 			<td>
-				 22 m 48 s
+				 23 m 18 s
 			</td>
 			<td>
 				101,9 kWh
@@ -1542,7 +1542,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				100 kW
 			</td>
 			<td>
-				 23 m 29 s
+				 24 m 0 s
 			</td>
 			<td>
 				103,0 kWh
@@ -1556,7 +1556,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				94 kW
 			</td>
 			<td>
-				 24 m 13 s
+				 24 m 44 s
 			</td>
 			<td>
 				104,2 kWh
@@ -1570,7 +1570,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				88 kW
 			</td>
 			<td>
-				 25 m 0 s
+				 25 m 32 s
 			</td>
 			<td>
 				105,3 kWh
@@ -1584,7 +1584,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				81 kW
 			</td>
 			<td>
-				 25 m 50 s
+				 26 m 24 s
 			</td>
 			<td>
 				106,4 kWh
@@ -1598,7 +1598,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				75 kW
 			</td>
 			<td>
-				 26 m 45 s
+				 27 m 19 s
 			</td>
 			<td>
 				107,5 kWh
@@ -1612,7 +1612,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				69 kW
 			</td>
 			<td>
-				 27 m 44 s
+				 28 m 20 s
 			</td>
 			<td>
 				108,6 kWh
@@ -1626,7 +1626,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				63 kW
 			</td>
 			<td>
-				 28 m 48 s
+				 29 m 26 s
 			</td>
 			<td>
 				109,8 kWh
@@ -1640,7 +1640,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				56 kW
 			</td>
 			<td>
-				 30 m 0 s
+				 30 m 39 s
 			</td>
 			<td>
 				110,9 kWh
@@ -1654,7 +1654,7 @@ Nio ET9 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 				50 kW
 			</td>
 			<td>
-				 31 m 20 s
+				 32 m 0 s
 			</td>
 			<td>
 				112,0 kWh

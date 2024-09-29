@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 101,5 kWh og en netto brukba
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 640 km (398 miles). Forbruket er 15,3kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 52 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 171kW. Hver ladeøkt vil ta 18 minutter og 12 sekunder. Denne eksepsjonelt raske ladeevnen gjør XPENG X9 AWD Performance til en av de mest effektive og praktiske elbilene for langdistansereiser.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 53 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 169kW. Hver ladeøkt vil ta 18 minutter og 29 sekunder. Denne eksepsjonelt raske ladeevnen gjør XPENG X9 AWD Performance til en av de mest effektive og praktiske elbilene for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 13 minutter. Denne reisen ville kreve to ladestopp fra 7% til 59%, med en total ladetid på 54 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 14 minutter. Denne reisen ville kreve to ladestopp fra 7% til 59%, med en total ladetid på 54 minutter.
 
 ### Ombordlader
 

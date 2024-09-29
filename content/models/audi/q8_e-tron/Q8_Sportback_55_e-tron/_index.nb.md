@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 114,0 kWh og en netto brukba
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 600 og 495 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 17,3 kWh/100 km for basismodellen og 21,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 122kW. Hver ladeøkt vil ta 36 minutter og 22 sekunder.
+Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 37 minutter og 2 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 32 minutter. Denne reisen ville kreve to ladestopp fra 3% til 74%, med en total ladetid på 73 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 34 minutter. Denne reisen ville kreve to ladestopp fra 3% til 74%, med en total ladetid på 74 minutter.
 
 ### Ombordlader
 

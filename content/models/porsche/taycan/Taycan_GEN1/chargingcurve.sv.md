@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan (GEN1) laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
-description: "Här hittar du laddningskurvan för Porsche Taycan (GEN1)."
+description: "Nedan visas laddningskurvan för Porsche Taycan (GEN1), som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -33,7 +33,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				94,0 kW
+				92,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -41,7 +41,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				88,8 kW
+				86,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -49,7 +49,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				110,3 kW
+				108,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				156,5 kW
+				153,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -89,7 +89,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				135,6kW
+				133,5kW
 			</td>
 		</tr>
 		<tr>
@@ -97,7 +97,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				21m2s
+				21m23s
 			</td>
 		</tr>
 	</tbody>
@@ -122,7 +122,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Laddningstid 0-100%
 			</td>
 			<td>
-				 45 m 17 s
+				 46 m 16 s
 			</td>
 		</tr>
 		<tr>
@@ -130,7 +130,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Laddningstid 10-100%
 			</td>
 			<td>
-				 43 m 10 s
+				 44 m 6 s
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 19 m 3 s
+				 19 m 28 s
 			</td>
 		</tr>
 	</tbody>
@@ -176,13 +176,13 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				?
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				9,3 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,1 km (4,4 mi)
+				7,0 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -193,13 +193,13 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				?
 			</td>
 			<td>
-				9,0 km (5,6 mi)
+				8,8 km (5,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,7 km (4,2 mi)
+				6,6 km (4,1 mi)
 			</td>
 		</tr>
 		<tr>
@@ -210,13 +210,13 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				?
 			</td>
 			<td>
-				15,8 km (9,8 mi)
+				15,5 km (9,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				11,9 km (7,4 mi)
+				11,6 km (7,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -286,7 +286,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				207 kW
 			</td>
 			<td>
-				 0 m 26 s
+				 0 m 27 s
 			</td>
 			<td>
 				1,4 kWh
@@ -300,7 +300,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				212 kW
 			</td>
 			<td>
-				 0 m 39 s
+				 0 m 40 s
 			</td>
 			<td>
 				2,1 kWh
@@ -314,7 +314,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				212 kW
 			</td>
 			<td>
-				 0 m 51 s
+				 0 m 53 s
 			</td>
 			<td>
 				2,8 kWh
@@ -328,7 +328,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				212 kW
 			</td>
 			<td>
-				 1 m 4 s
+				 1 m 6 s
 			</td>
 			<td>
 				3,6 kWh
@@ -342,7 +342,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				213 kW
 			</td>
 			<td>
-				 1 m 17 s
+				 1 m 18 s
 			</td>
 			<td>
 				4,3 kWh
@@ -356,7 +356,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				214 kW
 			</td>
 			<td>
-				 1 m 29 s
+				 1 m 31 s
 			</td>
 			<td>
 				5,0 kWh
@@ -370,7 +370,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				215 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 1 m 44 s
 			</td>
 			<td>
 				5,7 kWh
@@ -384,7 +384,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				215 kW
 			</td>
 			<td>
-				 1 m 54 s
+				 1 m 57 s
 			</td>
 			<td>
 				6,4 kWh
@@ -398,7 +398,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				215 kW
 			</td>
 			<td>
-				 2 m 7 s
+				 2 m 10 s
 			</td>
 			<td>
 				7,1 kWh
@@ -412,7 +412,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				216 kW
 			</td>
 			<td>
-				 2 m 19 s
+				 2 m 23 s
 			</td>
 			<td>
 				7,8 kWh
@@ -426,7 +426,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				217 kW
 			</td>
 			<td>
-				 2 m 32 s
+				 2 m 35 s
 			</td>
 			<td>
 				8,5 kWh
@@ -440,7 +440,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				217 kW
 			</td>
 			<td>
-				 2 m 44 s
+				 2 m 48 s
 			</td>
 			<td>
 				9,2 kWh
@@ -454,7 +454,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				217 kW
 			</td>
 			<td>
-				 2 m 57 s
+				 3 m 1 s
 			</td>
 			<td>
 				9,9 kWh
@@ -468,7 +468,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				218 kW
 			</td>
 			<td>
-				 3 m 9 s
+				 3 m 13 s
 			</td>
 			<td>
 				10,6 kWh
@@ -482,7 +482,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				218 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 26 s
 			</td>
 			<td>
 				11,4 kWh
@@ -496,7 +496,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				219 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				12,1 kWh
@@ -510,7 +510,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				219 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				12,8 kWh
@@ -524,7 +524,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				220 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 3 s
 			</td>
 			<td>
 				13,5 kWh
@@ -538,7 +538,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				220 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 16 s
 			</td>
 			<td>
 				14,2 kWh
@@ -552,7 +552,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				220 kW
 			</td>
 			<td>
-				 4 m 23 s
+				 4 m 28 s
 			</td>
 			<td>
 				14,9 kWh
@@ -566,7 +566,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				221 kW
 			</td>
 			<td>
-				 4 m 35 s
+				 4 m 41 s
 			</td>
 			<td>
 				15,6 kWh
@@ -580,7 +580,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				221 kW
 			</td>
 			<td>
-				 4 m 47 s
+				 4 m 53 s
 			</td>
 			<td>
 				16,3 kWh
@@ -594,7 +594,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				221 kW
 			</td>
 			<td>
-				 4 m 59 s
+				 5 m 6 s
 			</td>
 			<td>
 				17,0 kWh
@@ -608,7 +608,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				221 kW
 			</td>
 			<td>
-				 5 m 11 s
+				 5 m 18 s
 			</td>
 			<td>
 				17,8 kWh
@@ -622,7 +622,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				222 kW
 			</td>
 			<td>
-				 5 m 24 s
+				 5 m 31 s
 			</td>
 			<td>
 				18,5 kWh
@@ -636,7 +636,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				222 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 43 s
 			</td>
 			<td>
 				19,2 kWh
@@ -650,7 +650,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				222 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 55 s
 			</td>
 			<td>
 				19,9 kWh
@@ -664,7 +664,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				214 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 6 m 8 s
 			</td>
 			<td>
 				20,6 kWh
@@ -678,7 +678,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				214 kW
 			</td>
 			<td>
-				 6 m 13 s
+				 6 m 21 s
 			</td>
 			<td>
 				21,3 kWh
@@ -692,7 +692,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				215 kW
 			</td>
 			<td>
-				 6 m 25 s
+				 6 m 34 s
 			</td>
 			<td>
 				22,0 kWh
@@ -706,7 +706,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				215 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				22,7 kWh
@@ -720,7 +720,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				171 kW
 			</td>
 			<td>
-				 6 m 52 s
+				 7 m 1 s
 			</td>
 			<td>
 				23,4 kWh
@@ -734,7 +734,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				171 kW
 			</td>
 			<td>
-				 7 m 7 s
+				 7 m 17 s
 			</td>
 			<td>
 				24,1 kWh
@@ -748,7 +748,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				171 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 33 s
 			</td>
 			<td>
 				24,8 kWh
@@ -762,7 +762,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 49 s
 			</td>
 			<td>
 				25,6 kWh
@@ -776,7 +776,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 7 m 55 s
+				 8 m 5 s
 			</td>
 			<td>
 				26,3 kWh
@@ -790,7 +790,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 8 m 21 s
 			</td>
 			<td>
 				27,0 kWh
@@ -804,7 +804,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 8 m 26 s
+				 8 m 37 s
 			</td>
 			<td>
 				27,7 kWh
@@ -818,7 +818,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 53 s
 			</td>
 			<td>
 				28,4 kWh
@@ -832,7 +832,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 8 m 57 s
+				 9 m 9 s
 			</td>
 			<td>
 				29,1 kWh
@@ -846,7 +846,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 9 m 25 s
 			</td>
 			<td>
 				29,8 kWh
@@ -860,7 +860,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 9 m 28 s
+				 9 m 41 s
 			</td>
 			<td>
 				30,5 kWh
@@ -874,7 +874,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 9 m 56 s
 			</td>
 			<td>
 				31,2 kWh
@@ -888,7 +888,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 9 m 59 s
+				 10 m 12 s
 			</td>
 			<td>
 				32,0 kWh
@@ -902,7 +902,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 10 m 15 s
+				 10 m 28 s
 			</td>
 			<td>
 				32,7 kWh
@@ -916,7 +916,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 10 m 31 s
+				 10 m 44 s
 			</td>
 			<td>
 				33,4 kWh
@@ -930,7 +930,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 10 m 46 s
+				 11 m 0 s
 			</td>
 			<td>
 				34,1 kWh
@@ -944,7 +944,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				174 kW
 			</td>
 			<td>
-				 11 m 2 s
+				 11 m 16 s
 			</td>
 			<td>
 				34,8 kWh
@@ -958,7 +958,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				174 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 11 m 32 s
 			</td>
 			<td>
 				35,5 kWh
@@ -972,7 +972,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				174 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 47 s
 			</td>
 			<td>
 				36,2 kWh
@@ -986,7 +986,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				175 kW
 			</td>
 			<td>
-				 11 m 48 s
+				 12 m 3 s
 			</td>
 			<td>
 				36,9 kWh
@@ -1000,7 +1000,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				175 kW
 			</td>
 			<td>
-				 12 m 3 s
+				 12 m 19 s
 			</td>
 			<td>
 				37,6 kWh
@@ -1014,7 +1014,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				175 kW
 			</td>
 			<td>
-				 12 m 19 s
+				 12 m 35 s
 			</td>
 			<td>
 				38,3 kWh
@@ -1028,7 +1028,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				175 kW
 			</td>
 			<td>
-				 12 m 34 s
+				 12 m 50 s
 			</td>
 			<td>
 				39,0 kWh
@@ -1042,7 +1042,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				176 kW
 			</td>
 			<td>
-				 12 m 49 s
+				 13 m 6 s
 			</td>
 			<td>
 				39,8 kWh
@@ -1056,7 +1056,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				175 kW
 			</td>
 			<td>
-				 13 m 5 s
+				 13 m 22 s
 			</td>
 			<td>
 				40,5 kWh
@@ -1070,7 +1070,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				160 kW
 			</td>
 			<td>
-				 13 m 21 s
+				 13 m 38 s
 			</td>
 			<td>
 				41,2 kWh
@@ -1084,7 +1084,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				160 kW
 			</td>
 			<td>
-				 13 m 38 s
+				 13 m 55 s
 			</td>
 			<td>
 				41,9 kWh
@@ -1098,7 +1098,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				160 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 12 s
 			</td>
 			<td>
 				42,6 kWh
@@ -1112,7 +1112,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				150 kW
 			</td>
 			<td>
-				 14 m 12 s
+				 14 m 30 s
 			</td>
 			<td>
 				43,3 kWh
@@ -1126,7 +1126,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				150 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 14 m 48 s
 			</td>
 			<td>
 				44,0 kWh
@@ -1140,7 +1140,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				151 kW
 			</td>
 			<td>
-				 14 m 48 s
+				 15 m 7 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1154,7 +1154,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				143 kW
 			</td>
 			<td>
-				 15 m 6 s
+				 15 m 25 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1168,7 +1168,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				144 kW
 			</td>
 			<td>
-				 15 m 25 s
+				 15 m 45 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1182,7 +1182,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				144 kW
 			</td>
 			<td>
-				 15 m 43 s
+				 16 m 4 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1196,7 +1196,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				145 kW
 			</td>
 			<td>
-				 16 m 2 s
+				 16 m 23 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1210,7 +1210,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				135 kW
 			</td>
 			<td>
-				 16 m 21 s
+				 16 m 42 s
 			</td>
 			<td>
 				48,3 kWh
@@ -1224,7 +1224,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				136 kW
 			</td>
 			<td>
-				 16 m 41 s
+				 17 m 3 s
 			</td>
 			<td>
 				49,0 kWh
@@ -1238,7 +1238,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				136 kW
 			</td>
 			<td>
-				 17 m 1 s
+				 17 m 23 s
 			</td>
 			<td>
 				49,7 kWh
@@ -1252,7 +1252,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				128 kW
 			</td>
 			<td>
-				 17 m 21 s
+				 17 m 44 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1266,7 +1266,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				129 kW
 			</td>
 			<td>
-				 17 m 42 s
+				 18 m 5 s
 			</td>
 			<td>
 				51,1 kWh
@@ -1280,7 +1280,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				128 kW
 			</td>
 			<td>
-				 18 m 3 s
+				 18 m 26 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1294,7 +1294,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				100 kW
 			</td>
 			<td>
-				 18 m 27 s
+				 18 m 51 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1308,7 +1308,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				101 kW
 			</td>
 			<td>
-				 18 m 53 s
+				 19 m 18 s
 			</td>
 			<td>
 				53,2 kWh
@@ -1322,7 +1322,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				101 kW
 			</td>
 			<td>
-				 19 m 20 s
+				 19 m 45 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1336,7 +1336,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				101 kW
 			</td>
 			<td>
-				 19 m 47 s
+				 20 m 12 s
 			</td>
 			<td>
 				54,7 kWh
@@ -1350,7 +1350,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				101 kW
 			</td>
 			<td>
-				 20 m 13 s
+				 20 m 40 s
 			</td>
 			<td>
 				55,4 kWh
@@ -1364,7 +1364,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				102 kW
 			</td>
 			<td>
-				 20 m 40 s
+				 21 m 7 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1378,7 +1378,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				74 kW
 			</td>
 			<td>
-				 21 m 10 s
+				 21 m 38 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1392,7 +1392,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				69 kW
 			</td>
 			<td>
-				 21 m 48 s
+				 22 m 16 s
 			</td>
 			<td>
 				57,5 kWh
@@ -1406,7 +1406,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				60 kW
 			</td>
 			<td>
-				 22 m 30 s
+				 22 m 59 s
 			</td>
 			<td>
 				58,2 kWh
@@ -1420,7 +1420,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				51 kW
 			</td>
 			<td>
-				 23 m 18 s
+				 23 m 48 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1434,7 +1434,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				43 kW
 			</td>
 			<td>
-				 24 m 16 s
+				 24 m 47 s
 			</td>
 			<td>
 				59,6 kWh
@@ -1448,7 +1448,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				35 kW
 			</td>
 			<td>
-				 25 m 25 s
+				 25 m 57 s
 			</td>
 			<td>
 				60,4 kWh
@@ -1462,7 +1462,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				30 kW
 			</td>
 			<td>
-				 26 m 47 s
+				 27 m 22 s
 			</td>
 			<td>
 				61,1 kWh
@@ -1476,7 +1476,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				28 kW
 			</td>
 			<td>
-				 28 m 20 s
+				 28 m 57 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1490,7 +1490,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				25 kW
 			</td>
 			<td>
-				 30 m 2 s
+				 30 m 40 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1504,7 +1504,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				29 kW
 			</td>
 			<td>
-				 31 m 41 s
+				 32 m 22 s
 			</td>
 			<td>
 				63,2 kWh
@@ -1518,7 +1518,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				39 kW
 			</td>
 			<td>
-				 33 m 0 s
+				 33 m 43 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1532,7 +1532,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				39 kW
 			</td>
 			<td>
-				 34 m 9 s
+				 34 m 53 s
 			</td>
 			<td>
 				64,6 kWh
@@ -1546,7 +1546,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				39 kW
 			</td>
 			<td>
-				 35 m 18 s
+				 36 m 4 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1560,7 +1560,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				39 kW
 			</td>
 			<td>
-				 36 m 27 s
+				 37 m 14 s
 			</td>
 			<td>
 				66,0 kWh
@@ -1574,7 +1574,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				39 kW
 			</td>
 			<td>
-				 37 m 36 s
+				 38 m 25 s
 			</td>
 			<td>
 				66,7 kWh
@@ -1588,7 +1588,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				39 kW
 			</td>
 			<td>
-				 38 m 45 s
+				 39 m 35 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1602,7 +1602,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				37 kW
 			</td>
 			<td>
-				 39 m 56 s
+				 40 m 48 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1616,7 +1616,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				35 kW
 			</td>
 			<td>
-				 41 m 10 s
+				 42 m 3 s
 			</td>
 			<td>
 				68,9 kWh
@@ -1630,7 +1630,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				34 kW
 			</td>
 			<td>
-				 42 m 28 s
+				 43 m 23 s
 			</td>
 			<td>
 				69,6 kWh
@@ -1644,7 +1644,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				32 kW
 			</td>
 			<td>
-				 43 m 50 s
+				 44 m 47 s
 			</td>
 			<td>
 				70,3 kWh
@@ -1658,7 +1658,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				30 kW
 			</td>
 			<td>
-				 45 m 17 s
+				 46 m 16 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1691,7 +1691,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				99,6 kW
+				97,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -1699,7 +1699,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				95,2 kW
+				93,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -1707,7 +1707,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				139,6 kW
+				136,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -1715,7 +1715,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				195,5 kW
+				191,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -1739,7 +1739,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Optimalt laddningsområde
 			</td>
 			<td>
-				3% - 65%
+				3% - 64%
 			</td>
 		</tr>
 		<tr>
@@ -1747,7 +1747,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				164,9kW
+				162,3kW
 			</td>
 		</tr>
 		<tr>
@@ -1755,7 +1755,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				19m53s
+				19m52s
 			</td>
 		</tr>
 	</tbody>
@@ -1780,7 +1780,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Laddningstid 0-100%
 			</td>
 			<td>
-				 50 m 24 s
+				 51 m 29 s
 			</td>
 		</tr>
 		<tr>
@@ -1788,7 +1788,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Laddningstid 10-100%
 			</td>
 			<td>
-				 47 m 29 s
+				 48 m 30 s
 			</td>
 		</tr>
 		<tr>
@@ -1796,7 +1796,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 17 m 58 s
+				 18 m 21 s
 			</td>
 		</tr>
 	</tbody>
@@ -1834,13 +1834,13 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				?
 			</td>
 			<td>
-				10,1 km (6,3 mi)
+				9,9 km (6,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,5 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1851,13 +1851,13 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				?
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,2 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1868,13 +1868,13 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				?
 			</td>
 			<td>
-				19,8 km (12,3 mi)
+				19,4 km (12,1 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				14,8 km (9,2 mi)
+				14,5 km (9,0 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1930,7 +1930,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				87 kW
 			</td>
 			<td>
-				 0 m 36 s
+				 0 m 37 s
 			</td>
 			<td>
 				0,8 kWh
@@ -1944,7 +1944,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				158 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 3 s
 			</td>
 			<td>
 				1,7 kWh
@@ -1958,7 +1958,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				169 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 23 s
 			</td>
 			<td>
 				2,5 kWh
@@ -1972,7 +1972,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				221 kW
 			</td>
 			<td>
-				 1 m 38 s
+				 1 m 40 s
 			</td>
 			<td>
 				3,3 kWh
@@ -1986,7 +1986,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				254 kW
 			</td>
 			<td>
-				 1 m 51 s
+				 1 m 53 s
 			</td>
 			<td>
 				4,2 kWh
@@ -2000,7 +2000,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 2 m 6 s
 			</td>
 			<td>
 				5,0 kWh
@@ -2014,7 +2014,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 2 m 17 s
+				 2 m 20 s
 			</td>
 			<td>
 				5,9 kWh
@@ -2028,7 +2028,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 2 m 29 s
+				 2 m 33 s
 			</td>
 			<td>
 				6,7 kWh
@@ -2042,7 +2042,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 2 m 42 s
+				 2 m 46 s
 			</td>
 			<td>
 				7,5 kWh
@@ -2056,7 +2056,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				243 kW
 			</td>
 			<td>
-				 2 m 55 s
+				 2 m 59 s
 			</td>
 			<td>
 				8,4 kWh
@@ -2070,7 +2070,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				243 kW
 			</td>
 			<td>
-				 3 m 8 s
+				 3 m 12 s
 			</td>
 			<td>
 				9,2 kWh
@@ -2084,7 +2084,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				251 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 25 s
 			</td>
 			<td>
 				10,0 kWh
@@ -2098,7 +2098,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				253 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				10,9 kWh
@@ -2112,7 +2112,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				253 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 51 s
 			</td>
 			<td>
 				11,7 kWh
@@ -2126,7 +2126,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				254 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 4 s
 			</td>
 			<td>
 				12,6 kWh
@@ -2140,7 +2140,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				255 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 17 s
 			</td>
 			<td>
 				13,4 kWh
@@ -2154,7 +2154,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				256 kW
 			</td>
 			<td>
-				 4 m 24 s
+				 4 m 29 s
 			</td>
 			<td>
 				14,2 kWh
@@ -2168,7 +2168,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				256 kW
 			</td>
 			<td>
-				 4 m 36 s
+				 4 m 42 s
 			</td>
 			<td>
 				15,1 kWh
@@ -2182,7 +2182,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				256 kW
 			</td>
 			<td>
-				 4 m 48 s
+				 4 m 55 s
 			</td>
 			<td>
 				15,9 kWh
@@ -2196,7 +2196,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				258 kW
 			</td>
 			<td>
-				 5 m 1 s
+				 5 m 7 s
 			</td>
 			<td>
 				16,7 kWh
@@ -2210,7 +2210,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				259 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 5 m 20 s
 			</td>
 			<td>
 				17,6 kWh
@@ -2224,7 +2224,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				258 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				18,4 kWh
@@ -2238,7 +2238,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				260 kW
 			</td>
 			<td>
-				 5 m 38 s
+				 5 m 45 s
 			</td>
 			<td>
 				19,3 kWh
@@ -2252,7 +2252,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				260 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 5 m 57 s
 			</td>
 			<td>
 				20,1 kWh
@@ -2266,7 +2266,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				261 kW
 			</td>
 			<td>
-				 6 m 2 s
+				 6 m 10 s
 			</td>
 			<td>
 				20,9 kWh
@@ -2280,7 +2280,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				261 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				21,8 kWh
@@ -2294,7 +2294,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				262 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 34 s
 			</td>
 			<td>
 				22,6 kWh
@@ -2308,7 +2308,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				262 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 47 s
 			</td>
 			<td>
 				23,4 kWh
@@ -2322,7 +2322,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				262 kW
 			</td>
 			<td>
-				 6 m 50 s
+				 6 m 59 s
 			</td>
 			<td>
 				24,3 kWh
@@ -2336,7 +2336,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				265 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 12 s
 			</td>
 			<td>
 				25,1 kWh
@@ -2350,7 +2350,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				265 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 24 s
 			</td>
 			<td>
 				25,9 kWh
@@ -2364,7 +2364,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				261 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 36 s
 			</td>
 			<td>
 				26,8 kWh
@@ -2378,7 +2378,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				261 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 48 s
 			</td>
 			<td>
 				27,6 kWh
@@ -2392,7 +2392,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				261 kW
 			</td>
 			<td>
-				 7 m 51 s
+				 8 m 1 s
 			</td>
 			<td>
 				28,5 kWh
@@ -2406,7 +2406,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				264 kW
 			</td>
 			<td>
-				 8 m 3 s
+				 8 m 13 s
 			</td>
 			<td>
 				29,3 kWh
@@ -2420,7 +2420,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				244 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				30,1 kWh
@@ -2434,7 +2434,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				245 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 8 m 39 s
 			</td>
 			<td>
 				31,0 kWh
@@ -2448,7 +2448,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				245 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				31,8 kWh
@@ -2462,7 +2462,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				245 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 6 s
 			</td>
 			<td>
 				32,6 kWh
@@ -2476,7 +2476,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				245 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 19 s
 			</td>
 			<td>
 				33,5 kWh
@@ -2490,7 +2490,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				246 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 9 m 32 s
 			</td>
 			<td>
 				34,3 kWh
@@ -2504,7 +2504,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				246 kW
 			</td>
 			<td>
-				 9 m 33 s
+				 9 m 45 s
 			</td>
 			<td>
 				35,2 kWh
@@ -2518,7 +2518,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				246 kW
 			</td>
 			<td>
-				 9 m 46 s
+				 9 m 58 s
 			</td>
 			<td>
 				36,0 kWh
@@ -2532,7 +2532,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				246 kW
 			</td>
 			<td>
-				 9 m 59 s
+				 10 m 12 s
 			</td>
 			<td>
 				36,8 kWh
@@ -2546,7 +2546,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				246 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 10 m 25 s
 			</td>
 			<td>
 				37,7 kWh
@@ -2560,7 +2560,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 10 m 38 s
 			</td>
 			<td>
 				38,5 kWh
@@ -2574,7 +2574,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 10 m 37 s
+				 10 m 51 s
 			</td>
 			<td>
 				39,3 kWh
@@ -2588,7 +2588,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				247 kW
 			</td>
 			<td>
-				 10 m 50 s
+				 11 m 4 s
 			</td>
 			<td>
 				40,2 kWh
@@ -2602,7 +2602,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				248 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 17 s
 			</td>
 			<td>
 				41,0 kWh
@@ -2616,7 +2616,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				249 kW
 			</td>
 			<td>
-				 11 m 16 s
+				 11 m 30 s
 			</td>
 			<td>
 				41,8 kWh
@@ -2630,7 +2630,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				228 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 11 m 44 s
 			</td>
 			<td>
 				42,7 kWh
@@ -2644,7 +2644,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				229 kW
 			</td>
 			<td>
-				 11 m 43 s
+				 11 m 58 s
 			</td>
 			<td>
 				43,5 kWh
@@ -2658,7 +2658,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				228 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 12 m 12 s
 			</td>
 			<td>
 				44,4 kWh
@@ -2672,7 +2672,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				208 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 27 s
 			</td>
 			<td>
 				45,2 kWh
@@ -2686,7 +2686,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				208 kW
 			</td>
 			<td>
-				 12 m 27 s
+				 12 m 43 s
 			</td>
 			<td>
 				46,0 kWh
@@ -2700,7 +2700,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				209 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 58 s
 			</td>
 			<td>
 				46,9 kWh
@@ -2714,7 +2714,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				209 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 13 m 14 s
 			</td>
 			<td>
 				47,7 kWh
@@ -2728,7 +2728,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				190 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 30 s
 			</td>
 			<td>
 				48,5 kWh
@@ -2742,7 +2742,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				191 kW
 			</td>
 			<td>
-				 13 m 30 s
+				 13 m 47 s
 			</td>
 			<td>
 				49,4 kWh
@@ -2756,7 +2756,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				190 kW
 			</td>
 			<td>
-				 13 m 46 s
+				 14 m 4 s
 			</td>
 			<td>
 				50,2 kWh
@@ -2770,7 +2770,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				180 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 14 m 22 s
 			</td>
 			<td>
 				51,1 kWh
@@ -2784,7 +2784,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				180 kW
 			</td>
 			<td>
-				 14 m 21 s
+				 14 m 40 s
 			</td>
 			<td>
 				51,9 kWh
@@ -2798,7 +2798,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				181 kW
 			</td>
 			<td>
-				 14 m 39 s
+				 14 m 57 s
 			</td>
 			<td>
 				52,7 kWh
@@ -2812,7 +2812,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				176 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 16 s
 			</td>
 			<td>
 				53,6 kWh
@@ -2826,7 +2826,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 15 m 15 s
+				 15 m 34 s
 			</td>
 			<td>
 				54,4 kWh
@@ -2840,7 +2840,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				172 kW
 			</td>
 			<td>
-				 15 m 33 s
+				 15 m 53 s
 			</td>
 			<td>
 				55,2 kWh
@@ -2854,7 +2854,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				173 kW
 			</td>
 			<td>
-				 15 m 51 s
+				 16 m 12 s
 			</td>
 			<td>
 				56,1 kWh
@@ -2868,7 +2868,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				161 kW
 			</td>
 			<td>
-				 16 m 10 s
+				 16 m 31 s
 			</td>
 			<td>
 				56,9 kWh
@@ -2882,7 +2882,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				163 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 16 m 51 s
 			</td>
 			<td>
 				57,8 kWh
@@ -2896,7 +2896,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				163 kW
 			</td>
 			<td>
-				 16 m 49 s
+				 17 m 11 s
 			</td>
 			<td>
 				58,6 kWh
@@ -2910,7 +2910,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				153 kW
 			</td>
 			<td>
-				 17 m 9 s
+				 17 m 32 s
 			</td>
 			<td>
 				59,4 kWh
@@ -2924,7 +2924,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				154 kW
 			</td>
 			<td>
-				 17 m 30 s
+				 17 m 53 s
 			</td>
 			<td>
 				60,3 kWh
@@ -2938,7 +2938,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				154 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 18 m 14 s
 			</td>
 			<td>
 				61,1 kWh
@@ -2952,7 +2952,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				120 kW
 			</td>
 			<td>
-				 18 m 14 s
+				 18 m 37 s
 			</td>
 			<td>
 				61,9 kWh
@@ -2966,7 +2966,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				121 kW
 			</td>
 			<td>
-				 18 m 40 s
+				 19 m 4 s
 			</td>
 			<td>
 				62,8 kWh
@@ -2980,7 +2980,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				122 kW
 			</td>
 			<td>
-				 19 m 6 s
+				 19 m 31 s
 			</td>
 			<td>
 				63,6 kWh
@@ -2994,7 +2994,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				122 kW
 			</td>
 			<td>
-				 19 m 32 s
+				 19 m 58 s
 			</td>
 			<td>
 				64,4 kWh
@@ -3008,7 +3008,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				122 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 20 m 24 s
 			</td>
 			<td>
 				65,3 kWh
@@ -3022,7 +3022,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				123 kW
 			</td>
 			<td>
-				 20 m 24 s
+				 20 m 51 s
 			</td>
 			<td>
 				66,1 kWh
@@ -3036,7 +3036,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				90 kW
 			</td>
 			<td>
-				 20 m 54 s
+				 21 m 21 s
 			</td>
 			<td>
 				67,0 kWh
@@ -3050,7 +3050,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				84 kW
 			</td>
 			<td>
-				 21 m 30 s
+				 21 m 58 s
 			</td>
 			<td>
 				67,8 kWh
@@ -3064,7 +3064,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				73 kW
 			</td>
 			<td>
-				 22 m 11 s
+				 22 m 39 s
 			</td>
 			<td>
 				68,6 kWh
@@ -3078,7 +3078,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				62 kW
 			</td>
 			<td>
-				 22 m 58 s
+				 23 m 27 s
 			</td>
 			<td>
 				69,5 kWh
@@ -3092,7 +3092,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				53 kW
 			</td>
 			<td>
-				 23 m 53 s
+				 24 m 24 s
 			</td>
 			<td>
 				70,3 kWh
@@ -3106,7 +3106,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				44 kW
 			</td>
 			<td>
-				 24 m 58 s
+				 25 m 31 s
 			</td>
 			<td>
 				71,1 kWh
@@ -3120,7 +3120,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				38 kW
 			</td>
 			<td>
-				 26 m 16 s
+				 26 m 50 s
 			</td>
 			<td>
 				72,0 kWh
@@ -3134,7 +3134,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				36 kW
 			</td>
 			<td>
-				 27 m 41 s
+				 28 m 17 s
 			</td>
 			<td>
 				72,8 kWh
@@ -3148,7 +3148,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				33 kW
 			</td>
 			<td>
-				 29 m 13 s
+				 29 m 51 s
 			</td>
 			<td>
 				73,7 kWh
@@ -3162,7 +3162,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				43 kW
 			</td>
 			<td>
-				 30 m 37 s
+				 31 m 16 s
 			</td>
 			<td>
 				74,5 kWh
@@ -3176,7 +3176,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				54 kW
 			</td>
 			<td>
-				 31 m 42 s
+				 32 m 23 s
 			</td>
 			<td>
 				75,3 kWh
@@ -3190,7 +3190,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				66 kW
 			</td>
 			<td>
-				 32 m 35 s
+				 33 m 17 s
 			</td>
 			<td>
 				76,2 kWh
@@ -3204,7 +3204,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				45 kW
 			</td>
 			<td>
-				 33 m 32 s
+				 34 m 16 s
 			</td>
 			<td>
 				77,0 kWh
@@ -3218,7 +3218,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				35 kW
 			</td>
 			<td>
-				 34 m 52 s
+				 35 m 37 s
 			</td>
 			<td>
 				77,8 kWh
@@ -3232,7 +3232,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				33 kW
 			</td>
 			<td>
-				 36 m 25 s
+				 37 m 12 s
 			</td>
 			<td>
 				78,7 kWh
@@ -3246,7 +3246,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				25 kW
 			</td>
 			<td>
-				 38 m 14 s
+				 39 m 4 s
 			</td>
 			<td>
 				79,5 kWh
@@ -3260,7 +3260,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				33 kW
 			</td>
 			<td>
-				 40 m 4 s
+				 40 m 55 s
 			</td>
 			<td>
 				80,4 kWh
@@ -3274,7 +3274,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				30 kW
 			</td>
 			<td>
-				 41 m 44 s
+				 42 m 38 s
 			</td>
 			<td>
 				81,2 kWh
@@ -3288,7 +3288,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				24 kW
 			</td>
 			<td>
-				 43 m 42 s
+				 44 m 38 s
 			</td>
 			<td>
 				82,0 kWh
@@ -3302,7 +3302,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				16 kW
 			</td>
 			<td>
-				 46 m 20 s
+				 47 m 20 s
 			</td>
 			<td>
 				82,9 kWh
@@ -3316,7 +3316,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				10 kW
 			</td>
 			<td>
-				 50 m 24 s
+				 51 m 29 s
 			</td>
 			<td>
 				83,7 kWh

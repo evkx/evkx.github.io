@@ -34,9 +34,9 @@ La batterie haute capacité a une capacité brute de 91,0 kWh et une capacité n
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 450 km, avec une consommation d'énergie de 19,1 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 56 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 33 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 42 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 113kW. Chaque session de charge prendrait 19 minutes et 6 secondes.
+La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 33 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 42 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 112kW. Chaque session de charge prendrait 19 minutes et 24 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 28 kWh/100 km, le voyage prendrait environ 10 heures et 4 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 38%, avec un temps de recharge total de 104 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 28 kWh/100 km, le voyage prendrait environ 10 heures et 5 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 38%, avec un temps de recharge total de 106 minutes.
 
 ### Chargeur embarqué
 

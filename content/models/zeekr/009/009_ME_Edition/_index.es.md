@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 140,0 kWh y una capac
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 822 km (511 millas). El consumo es de 16,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 81 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 144kW. Cada sesión de carga tardaría 26 minutos y 11 segundos.
+La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 83 minutos, mientras que un escenario más común del 10 al 80 % tardaría 39 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 52%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 142kW. Cada sesión de carga tardaría 26 minutos y 5 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 21 minutos. Este viaje requeriría dos paradas de carga del 4% al 59%, con un tiempo total de carga de 62 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 22 minutos. Este viaje requeriría dos paradas de carga del 4% al 59%, con un tiempo total de carga de 63 minutos.
 
 ### Cargador a bordo
 

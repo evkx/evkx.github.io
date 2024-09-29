@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E GT opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Ford Mustang Mach-E GT."
+description: "Nedan är laddningskurvan för Ford Mustang Mach-E GT, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				35,9 kW
+				35,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				33,8 kW
+				33,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				46,2 kW
+				45,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				85,9 kW
+				84,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				84,7kW
+				83,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				26m4s
+				27m31s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				2 h 33 m 42 s
+				2 h 37 m 0 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				2 h 26 m 46 s
+				2 h 29 m 55 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 44 m 58 s
+				 45 m 56 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,10 +172,10 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,2 km (2,0 mi)
+				3,1 km (1,9 mi)
 			</td>
 			<td>
-				2,9 km (1,8 mi)
+				2,8 km (1,7 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,0 km (1,9 mi)
+				2,9 km (1,8 mi)
 			</td>
 			<td>
-				2,7 km (1,7 mi)
+				2,6 km (1,6 mi)
 			</td>
 			<td>
-				2,2 km (1,4 mi)
+				2,1 km (1,3 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,5 km (4,7 mi)
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				6,7 km (4,2 mi)
 			</td>
 			<td>
-				5,5 km (3,4 mi)
+				5,4 km (3,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Ford Mustang Mach-E GT har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -268,7 +268,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				58 kW
 			</td>
 			<td>
-				 1 m 4 s
+				 1 m 5 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				66 kW
 			</td>
 			<td>
-				 2 m 0 s
+				 2 m 3 s
 			</td>
 			<td>
 				1,8 kWh
@@ -296,7 +296,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				74 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 2 m 54 s
 			</td>
 			<td>
 				2,8 kWh
@@ -310,7 +310,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				82 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 39 s
 			</td>
 			<td>
 				3,7 kWh
@@ -324,7 +324,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				90 kW
 			</td>
 			<td>
-				 4 m 15 s
+				 4 m 21 s
 			</td>
 			<td>
 				4,6 kWh
@@ -338,7 +338,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				98 kW
 			</td>
 			<td>
-				 4 m 52 s
+				 4 m 59 s
 			</td>
 			<td>
 				5,5 kWh
@@ -352,7 +352,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				106 kW
 			</td>
 			<td>
-				 5 m 27 s
+				 5 m 34 s
 			</td>
 			<td>
 				6,4 kWh
@@ -366,7 +366,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				114 kW
 			</td>
 			<td>
-				 5 m 58 s
+				 6 m 6 s
 			</td>
 			<td>
 				7,4 kWh
@@ -380,7 +380,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				122 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 36 s
 			</td>
 			<td>
 				8,3 kWh
@@ -394,7 +394,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				130 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 4 s
 			</td>
 			<td>
 				9,2 kWh
@@ -408,7 +408,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				131 kW
 			</td>
 			<td>
-				 7 m 22 s
+				 7 m 32 s
 			</td>
 			<td>
 				10,1 kWh
@@ -422,7 +422,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				132 kW
 			</td>
 			<td>
-				 7 m 49 s
+				 7 m 59 s
 			</td>
 			<td>
 				11,0 kWh
@@ -436,7 +436,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				12,0 kWh
@@ -450,7 +450,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				136 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				12,9 kWh
@@ -464,7 +464,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				139 kW
 			</td>
 			<td>
-				 9 m 6 s
+				 9 m 18 s
 			</td>
 			<td>
 				13,8 kWh
@@ -478,7 +478,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				143 kW
 			</td>
 			<td>
-				 9 m 31 s
+				 9 m 43 s
 			</td>
 			<td>
 				14,7 kWh
@@ -492,7 +492,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				118 kW
 			</td>
 			<td>
-				 9 m 58 s
+				 10 m 11 s
 			</td>
 			<td>
 				15,6 kWh
@@ -506,7 +506,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				111 kW
 			</td>
 			<td>
-				 10 m 28 s
+				 10 m 42 s
 			</td>
 			<td>
 				16,6 kWh
@@ -520,7 +520,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				111 kW
 			</td>
 			<td>
-				 11 m 0 s
+				 11 m 14 s
 			</td>
 			<td>
 				17,5 kWh
@@ -534,7 +534,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 11 m 31 s
+				 11 m 46 s
 			</td>
 			<td>
 				18,4 kWh
@@ -548,7 +548,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 12 m 2 s
+				 12 m 18 s
 			</td>
 			<td>
 				19,3 kWh
@@ -562,7 +562,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				111 kW
 			</td>
 			<td>
-				 12 m 33 s
+				 12 m 49 s
 			</td>
 			<td>
 				20,2 kWh
@@ -576,7 +576,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				111 kW
 			</td>
 			<td>
-				 13 m 5 s
+				 13 m 22 s
 			</td>
 			<td>
 				21,2 kWh
@@ -590,7 +590,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 54 s
 			</td>
 			<td>
 				22,1 kWh
@@ -604,7 +604,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 14 m 7 s
+				 14 m 25 s
 			</td>
 			<td>
 				23,0 kWh
@@ -618,7 +618,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 14 m 38 s
+				 14 m 57 s
 			</td>
 			<td>
 				23,9 kWh
@@ -632,7 +632,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 15 m 9 s
+				 15 m 29 s
 			</td>
 			<td>
 				24,8 kWh
@@ -646,7 +646,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 15 m 40 s
+				 16 m 1 s
 			</td>
 			<td>
 				25,8 kWh
@@ -660,7 +660,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 16 m 12 s
+				 16 m 33 s
 			</td>
 			<td>
 				26,7 kWh
@@ -674,7 +674,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 4 s
 			</td>
 			<td>
 				27,6 kWh
@@ -688,7 +688,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				113 kW
 			</td>
 			<td>
-				 17 m 14 s
+				 17 m 36 s
 			</td>
 			<td>
 				28,5 kWh
@@ -702,7 +702,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				112 kW
 			</td>
 			<td>
-				 17 m 45 s
+				 18 m 8 s
 			</td>
 			<td>
 				29,4 kWh
@@ -716,7 +716,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				107 kW
 			</td>
 			<td>
-				 18 m 17 s
+				 18 m 40 s
 			</td>
 			<td>
 				30,4 kWh
@@ -730,7 +730,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				105 kW
 			</td>
 			<td>
-				 18 m 49 s
+				 19 m 14 s
 			</td>
 			<td>
 				31,3 kWh
@@ -744,7 +744,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				103 kW
 			</td>
 			<td>
-				 19 m 23 s
+				 19 m 48 s
 			</td>
 			<td>
 				32,2 kWh
@@ -758,7 +758,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				103 kW
 			</td>
 			<td>
-				 19 m 57 s
+				 20 m 23 s
 			</td>
 			<td>
 				33,1 kWh
@@ -772,7 +772,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				103 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 20 m 57 s
 			</td>
 			<td>
 				34,0 kWh
@@ -786,7 +786,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				102 kW
 			</td>
 			<td>
-				 21 m 5 s
+				 21 m 32 s
 			</td>
 			<td>
 				35,0 kWh
@@ -800,7 +800,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				97 kW
 			</td>
 			<td>
-				 21 m 40 s
+				 22 m 8 s
 			</td>
 			<td>
 				35,9 kWh
@@ -814,7 +814,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				96 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				36,8 kWh
@@ -828,7 +828,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				95 kW
 			</td>
 			<td>
-				 22 m 52 s
+				 23 m 22 s
 			</td>
 			<td>
 				37,7 kWh
@@ -842,7 +842,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				96 kW
 			</td>
 			<td>
-				 23 m 29 s
+				 23 m 59 s
 			</td>
 			<td>
 				38,6 kWh
@@ -856,7 +856,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				96 kW
 			</td>
 			<td>
-				 24 m 5 s
+				 24 m 36 s
 			</td>
 			<td>
 				39,6 kWh
@@ -870,7 +870,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				96 kW
 			</td>
 			<td>
-				 24 m 41 s
+				 25 m 13 s
 			</td>
 			<td>
 				40,5 kWh
@@ -884,7 +884,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				90 kW
 			</td>
 			<td>
-				 25 m 19 s
+				 25 m 52 s
 			</td>
 			<td>
 				41,4 kWh
@@ -898,7 +898,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				85 kW
 			</td>
 			<td>
-				 25 m 59 s
+				 26 m 32 s
 			</td>
 			<td>
 				42,3 kWh
@@ -912,7 +912,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				81 kW
 			</td>
 			<td>
-				 26 m 41 s
+				 27 m 15 s
 			</td>
 			<td>
 				43,2 kWh
@@ -926,7 +926,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				79 kW
 			</td>
 			<td>
-				 27 m 24 s
+				 28 m 0 s
 			</td>
 			<td>
 				44,2 kWh
@@ -940,7 +940,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 28 m 9 s
+				 28 m 45 s
 			</td>
 			<td>
 				45,1 kWh
@@ -954,7 +954,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 28 m 54 s
+				 29 m 31 s
 			</td>
 			<td>
 				46,0 kWh
@@ -968,7 +968,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 29 m 39 s
+				 30 m 17 s
 			</td>
 			<td>
 				46,9 kWh
@@ -982,7 +982,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 30 m 24 s
+				 31 m 4 s
 			</td>
 			<td>
 				47,8 kWh
@@ -996,7 +996,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 31 m 10 s
+				 31 m 50 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1010,7 +1010,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				76 kW
 			</td>
 			<td>
-				 31 m 55 s
+				 32 m 36 s
 			</td>
 			<td>
 				49,7 kWh
@@ -1024,7 +1024,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 32 m 41 s
+				 33 m 23 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1038,7 +1038,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 33 m 26 s
+				 34 m 9 s
 			</td>
 			<td>
 				51,5 kWh
@@ -1052,7 +1052,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 34 m 11 s
+				 34 m 55 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1066,7 +1066,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 34 m 56 s
+				 35 m 41 s
 			</td>
 			<td>
 				53,4 kWh
@@ -1080,7 +1080,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 35 m 41 s
+				 36 m 27 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1094,7 +1094,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 36 m 26 s
+				 37 m 13 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1108,7 +1108,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 37 m 11 s
+				 37 m 59 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1122,7 +1122,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 37 m 56 s
+				 38 m 45 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1136,7 +1136,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 38 m 40 s
+				 39 m 30 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1150,7 +1150,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 39 m 25 s
+				 40 m 16 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1164,7 +1164,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 40 m 10 s
+				 41 m 2 s
 			</td>
 			<td>
 				59,8 kWh
@@ -1178,7 +1178,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				79 kW
 			</td>
 			<td>
-				 40 m 54 s
+				 41 m 47 s
 			</td>
 			<td>
 				60,7 kWh
@@ -1192,7 +1192,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				79 kW
 			</td>
 			<td>
-				 41 m 38 s
+				 42 m 32 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1206,7 +1206,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 42 m 23 s
+				 43 m 18 s
 			</td>
 			<td>
 				62,6 kWh
@@ -1220,7 +1220,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 43 m 8 s
+				 44 m 4 s
 			</td>
 			<td>
 				63,5 kWh
@@ -1234,7 +1234,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 43 m 54 s
+				 44 m 50 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1248,7 +1248,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 44 m 39 s
+				 45 m 36 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1262,7 +1262,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 45 m 24 s
+				 46 m 22 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1276,7 +1276,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 46 m 8 s
+				 47 m 8 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1290,7 +1290,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 46 m 53 s
+				 47 m 54 s
 			</td>
 			<td>
 				68,1 kWh
@@ -1304,7 +1304,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 47 m 38 s
+				 48 m 39 s
 			</td>
 			<td>
 				69,0 kWh
@@ -1318,7 +1318,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				78 kW
 			</td>
 			<td>
-				 48 m 23 s
+				 49 m 25 s
 			</td>
 			<td>
 				69,9 kWh
@@ -1332,7 +1332,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				79 kW
 			</td>
 			<td>
-				 49 m 7 s
+				 50 m 10 s
 			</td>
 			<td>
 				70,8 kWh
@@ -1346,7 +1346,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				79 kW
 			</td>
 			<td>
-				 49 m 51 s
+				 50 m 55 s
 			</td>
 			<td>
 				71,8 kWh
@@ -1360,7 +1360,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				77 kW
 			</td>
 			<td>
-				 50 m 36 s
+				 51 m 41 s
 			</td>
 			<td>
 				72,7 kWh
@@ -1374,7 +1374,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				 51 m 54 s
+				 53 m 1 s
 			</td>
 			<td>
 				73,6 kWh
@@ -1388,7 +1388,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				 56 m 57 s
+				 58 m 11 s
 			</td>
 			<td>
 				74,5 kWh
@@ -1402,7 +1402,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				1 h 2 m 14 s
+				1 h 3 m 35 s
 			</td>
 			<td>
 				75,4 kWh
@@ -1416,7 +1416,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				1 h 7 m 31 s
+				1 h 8 m 58 s
 			</td>
 			<td>
 				76,4 kWh
@@ -1430,7 +1430,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				1 h 12 m 48 s
+				1 h 14 m 22 s
 			</td>
 			<td>
 				77,3 kWh
@@ -1444,7 +1444,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 17 m 51 s
+				1 h 19 m 32 s
 			</td>
 			<td>
 				78,2 kWh
@@ -1458,7 +1458,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 22 m 43 s
+				1 h 24 m 29 s
 			</td>
 			<td>
 				79,1 kWh
@@ -1472,7 +1472,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 27 m 36 s
+				1 h 29 m 29 s
 			</td>
 			<td>
 				80,0 kWh
@@ -1486,7 +1486,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 32 m 30 s
+				1 h 34 m 30 s
 			</td>
 			<td>
 				81,0 kWh
@@ -1500,7 +1500,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 37 m 27 s
+				1 h 39 m 32 s
 			</td>
 			<td>
 				81,9 kWh
@@ -1514,7 +1514,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 42 m 24 s
+				1 h 44 m 37 s
 			</td>
 			<td>
 				82,8 kWh
@@ -1528,7 +1528,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 47 m 24 s
+				1 h 49 m 43 s
 			</td>
 			<td>
 				83,7 kWh
@@ -1542,7 +1542,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 52 m 26 s
+				1 h 54 m 51 s
 			</td>
 			<td>
 				84,6 kWh
@@ -1556,7 +1556,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				1 h 57 m 29 s
+				2 h 0 m 0 s
 			</td>
 			<td>
 				85,6 kWh
@@ -1570,7 +1570,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 2 m 34 s
+				2 h 5 m 12 s
 			</td>
 			<td>
 				86,5 kWh
@@ -1584,7 +1584,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 7 m 40 s
+				2 h 10 m 25 s
 			</td>
 			<td>
 				87,4 kWh
@@ -1598,7 +1598,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 12 m 49 s
+				2 h 15 m 40 s
 			</td>
 			<td>
 				88,3 kWh
@@ -1612,7 +1612,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 17 m 59 s
+				2 h 20 m 57 s
 			</td>
 			<td>
 				89,2 kWh
@@ -1626,7 +1626,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 23 m 11 s
+				2 h 26 m 16 s
 			</td>
 			<td>
 				90,2 kWh
@@ -1640,7 +1640,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 28 m 26 s
+				2 h 31 m 37 s
 			</td>
 			<td>
 				91,1 kWh
@@ -1654,7 +1654,7 @@ Ford Mustang Mach-E GT har batteriopvarmning, hvilket gør opladning ved en opti
 				11 kW
 			</td>
 			<td>
-				2 h 33 m 42 s
+				2 h 37 m 0 s
 			</td>
 			<td>
 				92,0 kWh

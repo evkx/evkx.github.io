@@ -1,7 +1,7 @@
 ---
 title: Renault Megane E-Tech Techno charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Renault Megane E-Tech Techno."
+description: "Below is the charging curve for Renault Megane E-Tech Techno, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				49.4 kW
+				48.4 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				47.2 kW
+				46.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				60.2 kW
+				58.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				68.0 kW
+				66.6 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				72.7kW
+				71.5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				21m49s
+				21m9s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 12 m 48 s
+				1 h 14 m 22 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 8 m 38 s
+				1 h 10 m 6 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 37 m 3 s
+				 37 m 51 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,7 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 			<td>
 				?
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,0 km (2,5 mi)
+				3,9 km (2,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,5 km (5,3 mi)
+				8,3 km (5,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,7 km (3,5 mi)
+				5,6 km (3,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				81 kW
 			</td>
 			<td>
-				 0 m 34 s
+				 0 m 35 s
 			</td>
 			<td>
 				0.6 kWh
@@ -282,7 +282,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				82 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 3 s
 			</td>
 			<td>
 				1.2 kWh
@@ -296,7 +296,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				82 kW
 			</td>
 			<td>
-				 1 m 30 s
+				 1 m 32 s
 			</td>
 			<td>
 				1.8 kWh
@@ -310,7 +310,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				83 kW
 			</td>
 			<td>
-				 1 m 57 s
+				 2 m 0 s
 			</td>
 			<td>
 				2.4 kWh
@@ -324,7 +324,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				80 kW
 			</td>
 			<td>
-				 2 m 25 s
+				 2 m 28 s
 			</td>
 			<td>
 				3.0 kWh
@@ -338,7 +338,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				81 kW
 			</td>
 			<td>
-				 2 m 54 s
+				 2 m 57 s
 			</td>
 			<td>
 				3.6 kWh
@@ -352,7 +352,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				125 kW
 			</td>
 			<td>
-				 3 m 16 s
+				 3 m 20 s
 			</td>
 			<td>
 				4.2 kWh
@@ -366,7 +366,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				126 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				4.8 kWh
@@ -380,7 +380,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				126 kW
 			</td>
 			<td>
-				 3 m 52 s
+				 3 m 57 s
 			</td>
 			<td>
 				5.4 kWh
@@ -394,7 +394,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				126 kW
 			</td>
 			<td>
-				 4 m 10 s
+				 4 m 15 s
 			</td>
 			<td>
 				6.0 kWh
@@ -408,7 +408,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				126 kW
 			</td>
 			<td>
-				 4 m 28 s
+				 4 m 34 s
 			</td>
 			<td>
 				6.6 kWh
@@ -422,7 +422,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				127 kW
 			</td>
 			<td>
-				 4 m 46 s
+				 4 m 52 s
 			</td>
 			<td>
 				7.2 kWh
@@ -436,7 +436,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				127 kW
 			</td>
 			<td>
-				 5 m 4 s
+				 5 m 10 s
 			</td>
 			<td>
 				7.8 kWh
@@ -450,7 +450,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				127 kW
 			</td>
 			<td>
-				 5 m 22 s
+				 5 m 29 s
 			</td>
 			<td>
 				8.4 kWh
@@ -464,7 +464,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				125 kW
 			</td>
 			<td>
-				 5 m 40 s
+				 5 m 47 s
 			</td>
 			<td>
 				9.0 kWh
@@ -478,7 +478,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				122 kW
 			</td>
 			<td>
-				 5 m 58 s
+				 6 m 6 s
 			</td>
 			<td>
 				9.6 kWh
@@ -492,7 +492,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				121 kW
 			</td>
 			<td>
-				 6 m 17 s
+				 6 m 25 s
 			</td>
 			<td>
 				10.2 kWh
@@ -506,7 +506,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				116 kW
 			</td>
 			<td>
-				 6 m 36 s
+				 6 m 45 s
 			</td>
 			<td>
 				10.8 kWh
@@ -520,7 +520,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				115 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				11.4 kWh
@@ -534,7 +534,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				113 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 7 m 25 s
 			</td>
 			<td>
 				12.0 kWh
@@ -548,7 +548,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				113 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				12.6 kWh
@@ -562,7 +562,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				111 kW
 			</td>
 			<td>
-				 7 m 56 s
+				 8 m 6 s
 			</td>
 			<td>
 				13.2 kWh
@@ -576,7 +576,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				110 kW
 			</td>
 			<td>
-				 8 m 17 s
+				 8 m 27 s
 			</td>
 			<td>
 				13.8 kWh
@@ -590,7 +590,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				109 kW
 			</td>
 			<td>
-				 8 m 37 s
+				 8 m 49 s
 			</td>
 			<td>
 				14.4 kWh
@@ -604,7 +604,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				108 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 9 m 10 s
 			</td>
 			<td>
 				15.0 kWh
@@ -618,7 +618,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				106 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 9 m 32 s
 			</td>
 			<td>
 				15.6 kWh
@@ -632,7 +632,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				106 kW
 			</td>
 			<td>
-				 9 m 41 s
+				 9 m 54 s
 			</td>
 			<td>
 				16.2 kWh
@@ -646,7 +646,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				104 kW
 			</td>
 			<td>
-				 10 m 3 s
+				 10 m 16 s
 			</td>
 			<td>
 				16.8 kWh
@@ -660,7 +660,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				102 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 10 m 38 s
 			</td>
 			<td>
 				17.4 kWh
@@ -674,7 +674,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				101 kW
 			</td>
 			<td>
-				 10 m 47 s
+				 11 m 1 s
 			</td>
 			<td>
 				18.0 kWh
@@ -688,7 +688,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				99 kW
 			</td>
 			<td>
-				 11 m 10 s
+				 11 m 24 s
 			</td>
 			<td>
 				18.6 kWh
@@ -702,7 +702,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				95 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 48 s
 			</td>
 			<td>
 				19.2 kWh
@@ -716,7 +716,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				95 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 12 m 13 s
 			</td>
 			<td>
 				19.8 kWh
@@ -730,7 +730,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				94 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				20.4 kWh
@@ -744,7 +744,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				92 kW
 			</td>
 			<td>
-				 12 m 46 s
+				 13 m 2 s
 			</td>
 			<td>
 				21.0 kWh
@@ -758,7 +758,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				91 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 13 m 28 s
 			</td>
 			<td>
 				21.6 kWh
@@ -772,7 +772,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				86 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 54 s
 			</td>
 			<td>
 				22.2 kWh
@@ -786,7 +786,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				86 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 14 m 21 s
 			</td>
 			<td>
 				22.8 kWh
@@ -800,7 +800,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				84 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 14 m 48 s
 			</td>
 			<td>
 				23.4 kWh
@@ -814,7 +814,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				84 kW
 			</td>
 			<td>
-				 14 m 57 s
+				 15 m 16 s
 			</td>
 			<td>
 				24.0 kWh
@@ -828,7 +828,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				79 kW
 			</td>
 			<td>
-				 15 m 24 s
+				 15 m 44 s
 			</td>
 			<td>
 				24.6 kWh
@@ -842,7 +842,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				79 kW
 			</td>
 			<td>
-				 15 m 53 s
+				 16 m 14 s
 			</td>
 			<td>
 				25.2 kWh
@@ -856,7 +856,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				75 kW
 			</td>
 			<td>
-				 16 m 23 s
+				 16 m 44 s
 			</td>
 			<td>
 				25.8 kWh
@@ -870,7 +870,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				72 kW
 			</td>
 			<td>
-				 16 m 54 s
+				 17 m 16 s
 			</td>
 			<td>
 				26.4 kWh
@@ -884,7 +884,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				70 kW
 			</td>
 			<td>
-				 17 m 26 s
+				 17 m 48 s
 			</td>
 			<td>
 				27.0 kWh
@@ -898,7 +898,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				69 kW
 			</td>
 			<td>
-				 17 m 58 s
+				 18 m 22 s
 			</td>
 			<td>
 				27.6 kWh
@@ -912,7 +912,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				69 kW
 			</td>
 			<td>
-				 18 m 31 s
+				 18 m 55 s
 			</td>
 			<td>
 				28.2 kWh
@@ -926,7 +926,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				67 kW
 			</td>
 			<td>
-				 19 m 5 s
+				 19 m 29 s
 			</td>
 			<td>
 				28.8 kWh
@@ -940,7 +940,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				67 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 4 s
 			</td>
 			<td>
 				29.4 kWh
@@ -954,7 +954,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				66 kW
 			</td>
 			<td>
-				 20 m 13 s
+				 20 m 39 s
 			</td>
 			<td>
 				30.0 kWh
@@ -968,7 +968,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				65 kW
 			</td>
 			<td>
-				 20 m 48 s
+				 21 m 15 s
 			</td>
 			<td>
 				30.6 kWh
@@ -982,7 +982,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				65 kW
 			</td>
 			<td>
-				 21 m 23 s
+				 21 m 50 s
 			</td>
 			<td>
 				31.2 kWh
@@ -996,7 +996,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				64 kW
 			</td>
 			<td>
-				 21 m 58 s
+				 22 m 26 s
 			</td>
 			<td>
 				31.8 kWh
@@ -1010,7 +1010,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				63 kW
 			</td>
 			<td>
-				 22 m 34 s
+				 23 m 3 s
 			</td>
 			<td>
 				32.4 kWh
@@ -1024,7 +1024,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				62 kW
 			</td>
 			<td>
-				 23 m 10 s
+				 23 m 40 s
 			</td>
 			<td>
 				33.0 kWh
@@ -1038,7 +1038,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				61 kW
 			</td>
 			<td>
-				 23 m 47 s
+				 24 m 18 s
 			</td>
 			<td>
 				33.6 kWh
@@ -1052,7 +1052,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				61 kW
 			</td>
 			<td>
-				 24 m 24 s
+				 24 m 56 s
 			</td>
 			<td>
 				34.2 kWh
@@ -1066,7 +1066,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				62 kW
 			</td>
 			<td>
-				 25 m 1 s
+				 25 m 34 s
 			</td>
 			<td>
 				34.8 kWh
@@ -1080,7 +1080,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				61 kW
 			</td>
 			<td>
-				 25 m 38 s
+				 26 m 11 s
 			</td>
 			<td>
 				35.4 kWh
@@ -1094,7 +1094,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				62 kW
 			</td>
 			<td>
-				 26 m 15 s
+				 26 m 49 s
 			</td>
 			<td>
 				36.0 kWh
@@ -1108,7 +1108,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				61 kW
 			</td>
 			<td>
-				 26 m 52 s
+				 27 m 27 s
 			</td>
 			<td>
 				36.6 kWh
@@ -1122,7 +1122,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				59 kW
 			</td>
 			<td>
-				 27 m 30 s
+				 28 m 6 s
 			</td>
 			<td>
 				37.2 kWh
@@ -1136,7 +1136,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				57 kW
 			</td>
 			<td>
-				 28 m 9 s
+				 28 m 46 s
 			</td>
 			<td>
 				37.8 kWh
@@ -1150,7 +1150,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				56 kW
 			</td>
 			<td>
-				 28 m 50 s
+				 29 m 27 s
 			</td>
 			<td>
 				38.4 kWh
@@ -1164,7 +1164,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				55 kW
 			</td>
 			<td>
-				 29 m 31 s
+				 30 m 9 s
 			</td>
 			<td>
 				39.0 kWh
@@ -1178,7 +1178,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				55 kW
 			</td>
 			<td>
-				 30 m 12 s
+				 30 m 51 s
 			</td>
 			<td>
 				39.6 kWh
@@ -1192,7 +1192,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				54 kW
 			</td>
 			<td>
-				 30 m 54 s
+				 31 m 33 s
 			</td>
 			<td>
 				40.2 kWh
@@ -1206,7 +1206,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				53 kW
 			</td>
 			<td>
-				 31 m 36 s
+				 32 m 17 s
 			</td>
 			<td>
 				40.8 kWh
@@ -1220,7 +1220,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				53 kW
 			</td>
 			<td>
-				 32 m 19 s
+				 33 m 1 s
 			</td>
 			<td>
 				41.4 kWh
@@ -1234,7 +1234,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				52 kW
 			</td>
 			<td>
-				 33 m 2 s
+				 33 m 45 s
 			</td>
 			<td>
 				42.0 kWh
@@ -1248,7 +1248,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				50 kW
 			</td>
 			<td>
-				 33 m 47 s
+				 34 m 30 s
 			</td>
 			<td>
 				42.6 kWh
@@ -1262,7 +1262,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				48 kW
 			</td>
 			<td>
-				 34 m 33 s
+				 35 m 18 s
 			</td>
 			<td>
 				43.2 kWh
@@ -1276,7 +1276,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				47 kW
 			</td>
 			<td>
-				 35 m 21 s
+				 36 m 7 s
 			</td>
 			<td>
 				43.8 kWh
@@ -1290,7 +1290,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				47 kW
 			</td>
 			<td>
-				 36 m 10 s
+				 36 m 56 s
 			</td>
 			<td>
 				44.4 kWh
@@ -1304,7 +1304,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				47 kW
 			</td>
 			<td>
-				 36 m 58 s
+				 37 m 46 s
 			</td>
 			<td>
 				45.0 kWh
@@ -1318,7 +1318,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				46 kW
 			</td>
 			<td>
-				 37 m 47 s
+				 38 m 36 s
 			</td>
 			<td>
 				45.6 kWh
@@ -1332,7 +1332,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				45 kW
 			</td>
 			<td>
-				 38 m 37 s
+				 39 m 27 s
 			</td>
 			<td>
 				46.2 kWh
@@ -1346,7 +1346,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				45 kW
 			</td>
 			<td>
-				 39 m 27 s
+				 40 m 18 s
 			</td>
 			<td>
 				46.8 kWh
@@ -1360,7 +1360,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				42 kW
 			</td>
 			<td>
-				 40 m 20 s
+				 41 m 12 s
 			</td>
 			<td>
 				47.4 kWh
@@ -1374,7 +1374,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				42 kW
 			</td>
 			<td>
-				 41 m 14 s
+				 42 m 7 s
 			</td>
 			<td>
 				48.0 kWh
@@ -1388,7 +1388,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				40 kW
 			</td>
 			<td>
-				 42 m 9 s
+				 43 m 4 s
 			</td>
 			<td>
 				48.6 kWh
@@ -1402,7 +1402,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				40 kW
 			</td>
 			<td>
-				 43 m 6 s
+				 44 m 2 s
 			</td>
 			<td>
 				49.2 kWh
@@ -1416,7 +1416,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				40 kW
 			</td>
 			<td>
-				 44 m 3 s
+				 45 m 0 s
 			</td>
 			<td>
 				49.8 kWh
@@ -1430,7 +1430,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				39 kW
 			</td>
 			<td>
-				 45 m 0 s
+				 45 m 59 s
 			</td>
 			<td>
 				50.4 kWh
@@ -1444,7 +1444,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				37 kW
 			</td>
 			<td>
-				 46 m 0 s
+				 47 m 0 s
 			</td>
 			<td>
 				51.0 kWh
@@ -1458,7 +1458,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				37 kW
 			</td>
 			<td>
-				 47 m 2 s
+				 48 m 2 s
 			</td>
 			<td>
 				51.6 kWh
@@ -1472,7 +1472,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				35 kW
 			</td>
 			<td>
-				 48 m 5 s
+				 49 m 7 s
 			</td>
 			<td>
 				52.2 kWh
@@ -1486,7 +1486,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				28 kW
 			</td>
 			<td>
-				 49 m 17 s
+				 50 m 21 s
 			</td>
 			<td>
 				52.8 kWh
@@ -1500,7 +1500,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				28 kW
 			</td>
 			<td>
-				 50 m 38 s
+				 51 m 44 s
 			</td>
 			<td>
 				53.4 kWh
@@ -1514,7 +1514,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				28 kW
 			</td>
 			<td>
-				 51 m 59 s
+				 53 m 7 s
 			</td>
 			<td>
 				54.0 kWh
@@ -1528,7 +1528,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				26 kW
 			</td>
 			<td>
-				 53 m 23 s
+				 54 m 32 s
 			</td>
 			<td>
 				54.6 kWh
@@ -1542,7 +1542,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				25 kW
 			</td>
 			<td>
-				 54 m 53 s
+				 56 m 3 s
 			</td>
 			<td>
 				55.2 kWh
@@ -1556,7 +1556,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				23 kW
 			</td>
 			<td>
-				 56 m 28 s
+				 57 m 41 s
 			</td>
 			<td>
 				55.8 kWh
@@ -1570,7 +1570,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				21 kW
 			</td>
 			<td>
-				 58 m 11 s
+				 59 m 26 s
 			</td>
 			<td>
 				56.4 kWh
@@ -1584,7 +1584,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				20 kW
 			</td>
 			<td>
-				1 h 0 m 3 s
+				1 h 1 m 21 s
 			</td>
 			<td>
 				57.0 kWh
@@ -1598,7 +1598,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				18 kW
 			</td>
 			<td>
-				1 h 2 m 5 s
+				1 h 3 m 25 s
 			</td>
 			<td>
 				57.6 kWh
@@ -1612,7 +1612,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				16 kW
 			</td>
 			<td>
-				1 h 4 m 19 s
+				1 h 5 m 42 s
 			</td>
 			<td>
 				58.2 kWh
@@ -1626,7 +1626,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				14 kW
 			</td>
 			<td>
-				1 h 6 m 48 s
+				1 h 8 m 14 s
 			</td>
 			<td>
 				58.8 kWh
@@ -1640,7 +1640,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				13 kW
 			</td>
 			<td>
-				1 h 9 m 36 s
+				1 h 11 m 6 s
 			</td>
 			<td>
 				59.4 kWh
@@ -1654,7 +1654,7 @@ Renault Megane E-Tech Techno have battery heating, making charging at an optimum
 				11 kW
 			</td>
 			<td>
-				1 h 12 m 48 s
+				1 h 14 m 22 s
 			</td>
 			<td>
 				60.0 kWh

@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for BMW i5 M60 xDrive."
+description: "Nedenfor er ladekurven for BMW i5 M60 xDrive, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				86,8 kW
+				85,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				82,9 kW
+				81,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				94,5 kW
+				92,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				106,2 kW
+				103,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				113,4kW
+				111,6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				19m20s
+				20m38s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				 56 m 7 s
+				 57 m 20 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				 52 m 55 s
+				 54 m 3 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 32 m 7 s
+				 32 m 48 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,2 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,6 km (4,1 mi)
+				6,4 km (4,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				11,2 km (7,0 mi)
+				11,0 km (6,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,9 km (4,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				98 kW
 			</td>
 			<td>
-				 0 m 41 s
+				 0 m 42 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				147 kW
 			</td>
 			<td>
-				 1 m 6 s
+				 1 m 8 s
 			</td>
 			<td>
 				1,6 kWh
@@ -296,7 +296,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				195 kW
 			</td>
 			<td>
-				 1 m 24 s
+				 1 m 26 s
 			</td>
 			<td>
 				2,4 kWh
@@ -310,7 +310,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				195 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 42 s
 			</td>
 			<td>
 				3,2 kWh
@@ -324,7 +324,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				195 kW
 			</td>
 			<td>
-				 1 m 56 s
+				 1 m 58 s
 			</td>
 			<td>
 				4,1 kWh
@@ -338,7 +338,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				197 kW
 			</td>
 			<td>
-				 2 m 11 s
+				 2 m 14 s
 			</td>
 			<td>
 				4,9 kWh
@@ -352,7 +352,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				202 kW
 			</td>
 			<td>
-				 2 m 27 s
+				 2 m 30 s
 			</td>
 			<td>
 				5,7 kWh
@@ -366,7 +366,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				203 kW
 			</td>
 			<td>
-				 2 m 42 s
+				 2 m 45 s
 			</td>
 			<td>
 				6,5 kWh
@@ -380,7 +380,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				205 kW
 			</td>
 			<td>
-				 2 m 57 s
+				 3 m 1 s
 			</td>
 			<td>
 				7,3 kWh
@@ -394,7 +394,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				206 kW
 			</td>
 			<td>
-				 3 m 12 s
+				 3 m 16 s
 			</td>
 			<td>
 				8,1 kWh
@@ -408,7 +408,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				206 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 31 s
 			</td>
 			<td>
 				8,9 kWh
@@ -422,7 +422,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				207 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 47 s
 			</td>
 			<td>
 				9,7 kWh
@@ -436,7 +436,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				204 kW
 			</td>
 			<td>
-				 3 m 57 s
+				 4 m 2 s
 			</td>
 			<td>
 				10,6 kWh
@@ -450,7 +450,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				205 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 4 m 17 s
 			</td>
 			<td>
 				11,4 kWh
@@ -464,7 +464,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				200 kW
 			</td>
 			<td>
-				 4 m 27 s
+				 4 m 33 s
 			</td>
 			<td>
 				12,2 kWh
@@ -478,7 +478,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				196 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				13,0 kWh
@@ -492,7 +492,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				192 kW
 			</td>
 			<td>
-				 4 m 59 s
+				 5 m 5 s
 			</td>
 			<td>
 				13,8 kWh
@@ -506,7 +506,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				185 kW
 			</td>
 			<td>
-				 5 m 15 s
+				 5 m 22 s
 			</td>
 			<td>
 				14,6 kWh
@@ -520,7 +520,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				179 kW
 			</td>
 			<td>
-				 5 m 32 s
+				 5 m 39 s
 			</td>
 			<td>
 				15,4 kWh
@@ -534,7 +534,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				175 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 57 s
 			</td>
 			<td>
 				16,2 kWh
@@ -548,7 +548,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				171 kW
 			</td>
 			<td>
-				 6 m 7 s
+				 6 m 15 s
 			</td>
 			<td>
 				17,1 kWh
@@ -562,7 +562,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				168 kW
 			</td>
 			<td>
-				 6 m 25 s
+				 6 m 33 s
 			</td>
 			<td>
 				17,9 kWh
@@ -576,7 +576,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				165 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 6 m 52 s
 			</td>
 			<td>
 				18,7 kWh
@@ -590,7 +590,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				162 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				19,5 kWh
@@ -604,7 +604,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				160 kW
 			</td>
 			<td>
-				 7 m 21 s
+				 7 m 31 s
 			</td>
 			<td>
 				20,3 kWh
@@ -618,7 +618,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				158 kW
 			</td>
 			<td>
-				 7 m 41 s
+				 7 m 51 s
 			</td>
 			<td>
 				21,1 kWh
@@ -632,7 +632,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				157 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 8 m 11 s
 			</td>
 			<td>
 				21,9 kWh
@@ -646,7 +646,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				154 kW
 			</td>
 			<td>
-				 8 m 20 s
+				 8 m 31 s
 			</td>
 			<td>
 				22,7 kWh
@@ -660,7 +660,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				153 kW
 			</td>
 			<td>
-				 8 m 40 s
+				 8 m 51 s
 			</td>
 			<td>
 				23,5 kWh
@@ -674,7 +674,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				151 kW
 			</td>
 			<td>
-				 9 m 0 s
+				 9 m 12 s
 			</td>
 			<td>
 				24,4 kWh
@@ -688,7 +688,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				150 kW
 			</td>
 			<td>
-				 9 m 21 s
+				 9 m 33 s
 			</td>
 			<td>
 				25,2 kWh
@@ -702,7 +702,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				149 kW
 			</td>
 			<td>
-				 9 m 41 s
+				 9 m 54 s
 			</td>
 			<td>
 				26,0 kWh
@@ -716,7 +716,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				148 kW
 			</td>
 			<td>
-				 10 m 2 s
+				 10 m 15 s
 			</td>
 			<td>
 				26,8 kWh
@@ -730,7 +730,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				145 kW
 			</td>
 			<td>
-				 10 m 23 s
+				 10 m 37 s
 			</td>
 			<td>
 				27,6 kWh
@@ -744,7 +744,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				143 kW
 			</td>
 			<td>
-				 10 m 45 s
+				 10 m 58 s
 			</td>
 			<td>
 				28,4 kWh
@@ -758,7 +758,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				142 kW
 			</td>
 			<td>
-				 11 m 6 s
+				 11 m 20 s
 			</td>
 			<td>
 				29,2 kWh
@@ -772,7 +772,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				140 kW
 			</td>
 			<td>
-				 11 m 28 s
+				 11 m 43 s
 			</td>
 			<td>
 				30,0 kWh
@@ -786,7 +786,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				138 kW
 			</td>
 			<td>
-				 11 m 50 s
+				 12 m 5 s
 			</td>
 			<td>
 				30,9 kWh
@@ -800,7 +800,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				136 kW
 			</td>
 			<td>
-				 12 m 13 s
+				 12 m 28 s
 			</td>
 			<td>
 				31,7 kWh
@@ -814,7 +814,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				134 kW
 			</td>
 			<td>
-				 12 m 35 s
+				 12 m 52 s
 			</td>
 			<td>
 				32,5 kWh
@@ -828,7 +828,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				132 kW
 			</td>
 			<td>
-				 12 m 59 s
+				 13 m 15 s
 			</td>
 			<td>
 				33,3 kWh
@@ -842,7 +842,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				130 kW
 			</td>
 			<td>
-				 13 m 22 s
+				 13 m 39 s
 			</td>
 			<td>
 				34,1 kWh
@@ -856,7 +856,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				127 kW
 			</td>
 			<td>
-				 13 m 46 s
+				 14 m 4 s
 			</td>
 			<td>
 				34,9 kWh
@@ -870,7 +870,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				125 kW
 			</td>
 			<td>
-				 14 m 10 s
+				 14 m 29 s
 			</td>
 			<td>
 				35,7 kWh
@@ -884,7 +884,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				122 kW
 			</td>
 			<td>
-				 14 m 35 s
+				 14 m 54 s
 			</td>
 			<td>
 				36,5 kWh
@@ -898,7 +898,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				120 kW
 			</td>
 			<td>
-				 15 m 1 s
+				 15 m 20 s
 			</td>
 			<td>
 				37,4 kWh
@@ -912,7 +912,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				117 kW
 			</td>
 			<td>
-				 15 m 27 s
+				 15 m 47 s
 			</td>
 			<td>
 				38,2 kWh
@@ -926,7 +926,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				116 kW
 			</td>
 			<td>
-				 15 m 53 s
+				 16 m 14 s
 			</td>
 			<td>
 				39,0 kWh
@@ -940,7 +940,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				113 kW
 			</td>
 			<td>
-				 16 m 20 s
+				 16 m 41 s
 			</td>
 			<td>
 				39,8 kWh
@@ -954,7 +954,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				111 kW
 			</td>
 			<td>
-				 16 m 47 s
+				 17 m 9 s
 			</td>
 			<td>
 				40,6 kWh
@@ -968,7 +968,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				108 kW
 			</td>
 			<td>
-				 17 m 16 s
+				 17 m 38 s
 			</td>
 			<td>
 				41,4 kWh
@@ -982,7 +982,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				107 kW
 			</td>
 			<td>
-				 17 m 44 s
+				 18 m 7 s
 			</td>
 			<td>
 				42,2 kWh
@@ -996,7 +996,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				104 kW
 			</td>
 			<td>
-				 18 m 13 s
+				 18 m 37 s
 			</td>
 			<td>
 				43,0 kWh
@@ -1010,7 +1010,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				103 kW
 			</td>
 			<td>
-				 18 m 43 s
+				 19 m 7 s
 			</td>
 			<td>
 				43,8 kWh
@@ -1024,7 +1024,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				102 kW
 			</td>
 			<td>
-				 19 m 13 s
+				 19 m 38 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1038,7 +1038,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				100 kW
 			</td>
 			<td>
-				 19 m 44 s
+				 20 m 9 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1052,7 +1052,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				98 kW
 			</td>
 			<td>
-				 20 m 15 s
+				 20 m 41 s
 			</td>
 			<td>
 				46,3 kWh
@@ -1066,7 +1066,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				96 kW
 			</td>
 			<td>
-				 20 m 46 s
+				 21 m 13 s
 			</td>
 			<td>
 				47,1 kWh
@@ -1080,7 +1080,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				94 kW
 			</td>
 			<td>
-				 21 m 19 s
+				 21 m 46 s
 			</td>
 			<td>
 				47,9 kWh
@@ -1094,7 +1094,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				93 kW
 			</td>
 			<td>
-				 21 m 52 s
+				 22 m 20 s
 			</td>
 			<td>
 				48,7 kWh
@@ -1108,7 +1108,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				92 kW
 			</td>
 			<td>
-				 22 m 25 s
+				 22 m 54 s
 			</td>
 			<td>
 				49,5 kWh
@@ -1122,7 +1122,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				90 kW
 			</td>
 			<td>
-				 22 m 59 s
+				 23 m 28 s
 			</td>
 			<td>
 				50,3 kWh
@@ -1136,7 +1136,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				88 kW
 			</td>
 			<td>
-				 23 m 33 s
+				 24 m 4 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1150,7 +1150,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				88 kW
 			</td>
 			<td>
-				 24 m 8 s
+				 24 m 39 s
 			</td>
 			<td>
 				52,0 kWh
@@ -1164,7 +1164,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				89 kW
 			</td>
 			<td>
-				 24 m 43 s
+				 25 m 15 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1178,7 +1178,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				88 kW
 			</td>
 			<td>
-				 25 m 18 s
+				 25 m 50 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1192,7 +1192,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				84 kW
 			</td>
 			<td>
-				 25 m 54 s
+				 26 m 27 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1206,7 +1206,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				82 kW
 			</td>
 			<td>
-				 26 m 31 s
+				 27 m 5 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1220,7 +1220,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				80 kW
 			</td>
 			<td>
-				 27 m 9 s
+				 27 m 44 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1234,7 +1234,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				78 kW
 			</td>
 			<td>
-				 27 m 48 s
+				 28 m 23 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1248,7 +1248,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				76 kW
 			</td>
 			<td>
-				 28 m 28 s
+				 29 m 4 s
 			</td>
 			<td>
 				57,7 kWh
@@ -1262,7 +1262,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				74 kW
 			</td>
 			<td>
-				 29 m 9 s
+				 29 m 46 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1276,7 +1276,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				72 kW
 			</td>
 			<td>
-				 29 m 51 s
+				 30 m 29 s
 			</td>
 			<td>
 				59,3 kWh
@@ -1290,7 +1290,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				70 kW
 			</td>
 			<td>
-				 30 m 34 s
+				 31 m 14 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1304,7 +1304,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				68 kW
 			</td>
 			<td>
-				 31 m 19 s
+				 31 m 59 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1318,7 +1318,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				66 kW
 			</td>
 			<td>
-				 32 m 5 s
+				 32 m 46 s
 			</td>
 			<td>
 				61,7 kWh
@@ -1332,7 +1332,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				65 kW
 			</td>
 			<td>
-				 32 m 52 s
+				 33 m 34 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1346,7 +1346,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				63 kW
 			</td>
 			<td>
-				 33 m 40 s
+				 34 m 23 s
 			</td>
 			<td>
 				63,3 kWh
@@ -1360,7 +1360,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				62 kW
 			</td>
 			<td>
-				 34 m 29 s
+				 35 m 13 s
 			</td>
 			<td>
 				64,1 kWh
@@ -1374,7 +1374,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				60 kW
 			</td>
 			<td>
-				 35 m 19 s
+				 36 m 5 s
 			</td>
 			<td>
 				65,0 kWh
@@ -1388,7 +1388,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				59 kW
 			</td>
 			<td>
-				 36 m 11 s
+				 36 m 58 s
 			</td>
 			<td>
 				65,8 kWh
@@ -1402,7 +1402,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				58 kW
 			</td>
 			<td>
-				 37 m 4 s
+				 37 m 51 s
 			</td>
 			<td>
 				66,6 kWh
@@ -1416,7 +1416,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				57 kW
 			</td>
 			<td>
-				 37 m 57 s
+				 38 m 46 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1430,7 +1430,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				56 kW
 			</td>
 			<td>
-				 38 m 52 s
+				 39 m 42 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1444,7 +1444,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				56 kW
 			</td>
 			<td>
-				 39 m 47 s
+				 40 m 38 s
 			</td>
 			<td>
 				69,0 kWh
@@ -1458,7 +1458,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				55 kW
 			</td>
 			<td>
-				 40 m 42 s
+				 41 m 35 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1472,7 +1472,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				54 kW
 			</td>
 			<td>
-				 41 m 38 s
+				 42 m 32 s
 			</td>
 			<td>
 				70,6 kWh
@@ -1486,7 +1486,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				54 kW
 			</td>
 			<td>
-				 42 m 35 s
+				 43 m 30 s
 			</td>
 			<td>
 				71,5 kWh
@@ -1500,7 +1500,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				54 kW
 			</td>
 			<td>
-				 43 m 32 s
+				 44 m 29 s
 			</td>
 			<td>
 				72,3 kWh
@@ -1514,7 +1514,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				58 kW
 			</td>
 			<td>
-				 44 m 27 s
+				 45 m 25 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1528,7 +1528,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				57 kW
 			</td>
 			<td>
-				 45 m 21 s
+				 46 m 19 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1542,7 +1542,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				57 kW
 			</td>
 			<td>
-				 46 m 15 s
+				 47 m 15 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1556,7 +1556,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				56 kW
 			</td>
 			<td>
-				 47 m 9 s
+				 48 m 10 s
 			</td>
 			<td>
 				75,5 kWh
@@ -1570,7 +1570,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				54 kW
 			</td>
 			<td>
-				 48 m 5 s
+				 49 m 7 s
 			</td>
 			<td>
 				76,3 kWh
@@ -1584,7 +1584,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				54 kW
 			</td>
 			<td>
-				 49 m 2 s
+				 50 m 6 s
 			</td>
 			<td>
 				77,1 kWh
@@ -1598,7 +1598,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				53 kW
 			</td>
 			<td>
-				 50 m 0 s
+				 51 m 4 s
 			</td>
 			<td>
 				78,0 kWh
@@ -1612,7 +1612,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				54 kW
 			</td>
 			<td>
-				 50 m 57 s
+				 52 m 3 s
 			</td>
 			<td>
 				78,8 kWh
@@ -1626,7 +1626,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				41 kW
 			</td>
 			<td>
-				 52 m 2 s
+				 53 m 9 s
 			</td>
 			<td>
 				79,6 kWh
@@ -1640,7 +1640,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				33 kW
 			</td>
 			<td>
-				 53 m 25 s
+				 54 m 34 s
 			</td>
 			<td>
 				80,4 kWh
@@ -1654,7 +1654,7 @@ BMW i5 M60 xDrive har batterioppvarming, noe som gjør lading ved en optimal bat
 				5 kW
 			</td>
 			<td>
-				 56 m 7 s
+				 57 m 20 s
 			</td>
 			<td>
 				81,2 kWh

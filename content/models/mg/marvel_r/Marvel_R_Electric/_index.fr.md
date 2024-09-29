@@ -34,9 +34,9 @@ La batterie haute capacité a une capacité brute de 75,0 kWh et une capacité n
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 402 km, avec une consommation d'énergie de 17,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 94kW. Une charge complète de 0 à 100 % prendrait 114 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 61 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 63kW. Chaque session de charge prendrait 35 minutes et 7 secondes.
+La vitesse de charge DC maximale est de 94kW. Une charge complète de 0 à 100 % prendrait 117 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 44 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 61 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 62kW. Chaque session de charge prendrait 36 minutes et 46 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 53 minutes. Ce trajet nécessiterait deux arrêts de recharge de 9% à 55%, avec un temps de recharge total de 154 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 56 minutes. Ce trajet nécessiterait deux arrêts de recharge de 9% à 55%, avec un temps de recharge total de 156 minutes.
 
 ### Chargeur embarqué
 

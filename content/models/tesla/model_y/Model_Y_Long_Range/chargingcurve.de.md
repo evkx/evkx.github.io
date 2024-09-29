@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Long Range Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Tesla Model Y Long Range."
+description: "Unten ist die Ladekurve für Tesla Model Y Long Range dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				72,5 kW
+				71,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				68,9 kW
+				67,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				87,7 kW
+				85,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				101,2 kW
+				99,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				110,7kW
+				109,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				17m8s
+				17m23s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 5 m 22 s
+				1 h 6 m 46 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				1 h 1 m 53 s
+				1 h 3 m 13 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 32 m 46 s
+				 33 m 29 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Reichweite pro Minute 0-100%
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,5 km (4,7 mi)
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
-				7,3 km (4,5 mi)
+				7,2 km (4,5 mi)
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Reichweite pro Minute 10-100%
 			</td>
 			<td>
-				7,3 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				7,7 km (4,8 mi)
 			</td>
 			<td>
-				6,9 km (4,3 mi)
+				6,8 km (4,2 mi)
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Reichweite pro Minute 10-80%
 			</td>
 			<td>
-				10,7 km (6,7 mi)
+				10,5 km (6,5 mi)
 			</td>
 			<td>
-				11,6 km (7,2 mi)
+				11,3 km (7,0 mi)
 			</td>
 			<td>
-				10,2 km (6,3 mi)
+				10,0 km (6,2 mi)
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,5 km (5,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				103 kW
 			</td>
 			<td>
-				 0 m 29 s
+				 0 m 30 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				108 kW
 			</td>
 			<td>
-				 0 m 57 s
+				 0 m 59 s
 			</td>
 			<td>
 				1,6 kWh
@@ -296,7 +296,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				108 kW
 			</td>
 			<td>
-				 1 m 25 s
+				 1 m 27 s
 			</td>
 			<td>
 				2,4 kWh
@@ -310,7 +310,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				108 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 55 s
 			</td>
 			<td>
 				3,2 kWh
@@ -324,7 +324,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				108 kW
 			</td>
 			<td>
-				 2 m 21 s
+				 2 m 24 s
 			</td>
 			<td>
 				4,0 kWh
@@ -338,7 +338,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				230 kW
 			</td>
 			<td>
-				 2 m 38 s
+				 2 m 42 s
 			</td>
 			<td>
 				4,7 kWh
@@ -352,7 +352,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				235 kW
 			</td>
 			<td>
-				 2 m 51 s
+				 2 m 55 s
 			</td>
 			<td>
 				5,5 kWh
@@ -366,7 +366,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				240 kW
 			</td>
 			<td>
-				 3 m 4 s
+				 3 m 8 s
 			</td>
 			<td>
 				6,3 kWh
@@ -380,7 +380,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				245 kW
 			</td>
 			<td>
-				 3 m 16 s
+				 3 m 20 s
 			</td>
 			<td>
 				7,1 kWh
@@ -394,7 +394,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				250 kW
 			</td>
 			<td>
-				 3 m 28 s
+				 3 m 33 s
 			</td>
 			<td>
 				7,9 kWh
@@ -408,7 +408,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				246 kW
 			</td>
 			<td>
-				 3 m 40 s
+				 3 m 45 s
 			</td>
 			<td>
 				8,7 kWh
@@ -422,7 +422,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				233 kW
 			</td>
 			<td>
-				 3 m 53 s
+				 3 m 58 s
 			</td>
 			<td>
 				9,5 kWh
@@ -436,7 +436,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				220 kW
 			</td>
 			<td>
-				 4 m 6 s
+				 4 m 11 s
 			</td>
 			<td>
 				10,3 kWh
@@ -450,7 +450,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				211 kW
 			</td>
 			<td>
-				 4 m 20 s
+				 4 m 25 s
 			</td>
 			<td>
 				11,1 kWh
@@ -464,7 +464,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				200 kW
 			</td>
 			<td>
-				 4 m 34 s
+				 4 m 40 s
 			</td>
 			<td>
 				11,8 kWh
@@ -478,7 +478,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				197 kW
 			</td>
 			<td>
-				 4 m 49 s
+				 4 m 56 s
 			</td>
 			<td>
 				12,6 kWh
@@ -492,7 +492,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				193 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 11 s
 			</td>
 			<td>
 				13,4 kWh
@@ -506,7 +506,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				190 kW
 			</td>
 			<td>
-				 5 m 20 s
+				 5 m 27 s
 			</td>
 			<td>
 				14,2 kWh
@@ -520,7 +520,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				188 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 44 s
 			</td>
 			<td>
 				15,0 kWh
@@ -534,7 +534,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				183 kW
 			</td>
 			<td>
-				 5 m 52 s
+				 6 m 0 s
 			</td>
 			<td>
 				15,8 kWh
@@ -548,7 +548,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				179 kW
 			</td>
 			<td>
-				 6 m 9 s
+				 6 m 17 s
 			</td>
 			<td>
 				16,6 kWh
@@ -562,7 +562,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				175 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 34 s
 			</td>
 			<td>
 				17,4 kWh
@@ -576,7 +576,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				172 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 6 m 52 s
 			</td>
 			<td>
 				18,2 kWh
@@ -590,7 +590,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				171 kW
 			</td>
 			<td>
-				 7 m 1 s
+				 7 m 10 s
 			</td>
 			<td>
 				19,0 kWh
@@ -604,7 +604,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				167 kW
 			</td>
 			<td>
-				 7 m 18 s
+				 7 m 28 s
 			</td>
 			<td>
 				19,8 kWh
@@ -618,7 +618,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				165 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				20,5 kWh
@@ -632,7 +632,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				162 kW
 			</td>
 			<td>
-				 7 m 55 s
+				 8 m 5 s
 			</td>
 			<td>
 				21,3 kWh
@@ -646,7 +646,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				159 kW
 			</td>
 			<td>
-				 8 m 13 s
+				 8 m 24 s
 			</td>
 			<td>
 				22,1 kWh
@@ -660,7 +660,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				157 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				22,9 kWh
@@ -674,7 +674,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				154 kW
 			</td>
 			<td>
-				 8 m 52 s
+				 9 m 3 s
 			</td>
 			<td>
 				23,7 kWh
@@ -688,7 +688,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				151 kW
 			</td>
 			<td>
-				 9 m 11 s
+				 9 m 23 s
 			</td>
 			<td>
 				24,5 kWh
@@ -702,7 +702,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				148 kW
 			</td>
 			<td>
-				 9 m 31 s
+				 9 m 43 s
 			</td>
 			<td>
 				25,3 kWh
@@ -716,7 +716,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				146 kW
 			</td>
 			<td>
-				 9 m 52 s
+				 10 m 4 s
 			</td>
 			<td>
 				26,1 kWh
@@ -730,7 +730,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				143 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 10 m 25 s
 			</td>
 			<td>
 				26,9 kWh
@@ -744,7 +744,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				139 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 10 m 47 s
 			</td>
 			<td>
 				27,6 kWh
@@ -758,7 +758,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				138 kW
 			</td>
 			<td>
-				 10 m 55 s
+				 11 m 9 s
 			</td>
 			<td>
 				28,4 kWh
@@ -772,7 +772,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				135 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 11 m 32 s
 			</td>
 			<td>
 				29,2 kWh
@@ -786,7 +786,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				132 kW
 			</td>
 			<td>
-				 11 m 39 s
+				 11 m 55 s
 			</td>
 			<td>
 				30,0 kWh
@@ -800,7 +800,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				130 kW
 			</td>
 			<td>
-				 12 m 2 s
+				 12 m 18 s
 			</td>
 			<td>
 				30,8 kWh
@@ -814,7 +814,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				128 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 12 m 42 s
 			</td>
 			<td>
 				31,6 kWh
@@ -828,7 +828,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				125 kW
 			</td>
 			<td>
-				 12 m 49 s
+				 13 m 6 s
 			</td>
 			<td>
 				32,4 kWh
@@ -842,7 +842,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				123 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 30 s
 			</td>
 			<td>
 				33,2 kWh
@@ -856,7 +856,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				122 kW
 			</td>
 			<td>
-				 13 m 38 s
+				 13 m 55 s
 			</td>
 			<td>
 				34,0 kWh
@@ -870,7 +870,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				118 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 14 m 21 s
 			</td>
 			<td>
 				34,8 kWh
@@ -884,7 +884,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				117 kW
 			</td>
 			<td>
-				 14 m 28 s
+				 14 m 47 s
 			</td>
 			<td>
 				35,6 kWh
@@ -898,7 +898,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				114 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 15 m 13 s
 			</td>
 			<td>
 				36,3 kWh
@@ -912,7 +912,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				112 kW
 			</td>
 			<td>
-				 15 m 21 s
+				 15 m 40 s
 			</td>
 			<td>
 				37,1 kWh
@@ -926,7 +926,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				110 kW
 			</td>
 			<td>
-				 15 m 48 s
+				 16 m 8 s
 			</td>
 			<td>
 				37,9 kWh
@@ -940,7 +940,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				108 kW
 			</td>
 			<td>
-				 16 m 15 s
+				 16 m 36 s
 			</td>
 			<td>
 				38,7 kWh
@@ -954,7 +954,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				105 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 5 s
 			</td>
 			<td>
 				39,5 kWh
@@ -968,7 +968,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				103 kW
 			</td>
 			<td>
-				 17 m 12 s
+				 17 m 34 s
 			</td>
 			<td>
 				40,3 kWh
@@ -982,7 +982,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				101 kW
 			</td>
 			<td>
-				 17 m 41 s
+				 18 m 4 s
 			</td>
 			<td>
 				41,1 kWh
@@ -996,7 +996,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				99 kW
 			</td>
 			<td>
-				 18 m 11 s
+				 18 m 35 s
 			</td>
 			<td>
 				41,9 kWh
@@ -1010,7 +1010,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				97 kW
 			</td>
 			<td>
-				 18 m 42 s
+				 19 m 6 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1024,7 +1024,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				94 kW
 			</td>
 			<td>
-				 19 m 13 s
+				 19 m 38 s
 			</td>
 			<td>
 				43,4 kWh
@@ -1038,7 +1038,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				93 kW
 			</td>
 			<td>
-				 19 m 45 s
+				 20 m 11 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1052,7 +1052,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				91 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 20 m 44 s
 			</td>
 			<td>
 				45,0 kWh
@@ -1066,7 +1066,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				89 kW
 			</td>
 			<td>
-				 20 m 51 s
+				 21 m 18 s
 			</td>
 			<td>
 				45,8 kWh
@@ -1080,7 +1080,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				85 kW
 			</td>
 			<td>
-				 21 m 25 s
+				 21 m 53 s
 			</td>
 			<td>
 				46,6 kWh
@@ -1094,7 +1094,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				84 kW
 			</td>
 			<td>
-				 22 m 1 s
+				 22 m 29 s
 			</td>
 			<td>
 				47,4 kWh
@@ -1108,7 +1108,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				81 kW
 			</td>
 			<td>
-				 22 m 37 s
+				 23 m 6 s
 			</td>
 			<td>
 				48,2 kWh
@@ -1122,7 +1122,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				79 kW
 			</td>
 			<td>
-				 23 m 14 s
+				 23 m 44 s
 			</td>
 			<td>
 				49,0 kWh
@@ -1136,7 +1136,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				79 kW
 			</td>
 			<td>
-				 23 m 52 s
+				 24 m 23 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1150,7 +1150,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				77 kW
 			</td>
 			<td>
-				 24 m 31 s
+				 25 m 2 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1164,7 +1164,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				76 kW
 			</td>
 			<td>
-				 25 m 10 s
+				 25 m 42 s
 			</td>
 			<td>
 				51,4 kWh
@@ -1178,7 +1178,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				75 kW
 			</td>
 			<td>
-				 25 m 50 s
+				 26 m 23 s
 			</td>
 			<td>
 				52,1 kWh
@@ -1192,7 +1192,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				74 kW
 			</td>
 			<td>
-				 26 m 30 s
+				 27 m 4 s
 			</td>
 			<td>
 				52,9 kWh
@@ -1206,7 +1206,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				73 kW
 			</td>
 			<td>
-				 27 m 10 s
+				 27 m 46 s
 			</td>
 			<td>
 				53,7 kWh
@@ -1220,7 +1220,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				72 kW
 			</td>
 			<td>
-				 27 m 52 s
+				 28 m 28 s
 			</td>
 			<td>
 				54,5 kWh
@@ -1234,7 +1234,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				71 kW
 			</td>
 			<td>
-				 28 m 34 s
+				 29 m 10 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1248,7 +1248,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				70 kW
 			</td>
 			<td>
-				 29 m 16 s
+				 29 m 54 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1262,7 +1262,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				69 kW
 			</td>
 			<td>
-				 29 m 59 s
+				 30 m 38 s
 			</td>
 			<td>
 				56,9 kWh
@@ -1276,7 +1276,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				67 kW
 			</td>
 			<td>
-				 30 m 43 s
+				 31 m 23 s
 			</td>
 			<td>
 				57,7 kWh
@@ -1290,7 +1290,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				66 kW
 			</td>
 			<td>
-				 31 m 28 s
+				 32 m 9 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1304,7 +1304,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				65 kW
 			</td>
 			<td>
-				 32 m 14 s
+				 32 m 56 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1318,7 +1318,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				64 kW
 			</td>
 			<td>
-				 33 m 0 s
+				 33 m 43 s
 			</td>
 			<td>
 				60,0 kWh
@@ -1332,7 +1332,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				62 kW
 			</td>
 			<td>
-				 33 m 48 s
+				 34 m 31 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1346,7 +1346,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				61 kW
 			</td>
 			<td>
-				 34 m 37 s
+				 35 m 21 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1360,7 +1360,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				61 kW
 			</td>
 			<td>
-				 35 m 26 s
+				 36 m 11 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1374,7 +1374,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				60 kW
 			</td>
 			<td>
-				 36 m 15 s
+				 37 m 2 s
 			</td>
 			<td>
 				63,2 kWh
@@ -1388,7 +1388,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				58 kW
 			</td>
 			<td>
-				 37 m 6 s
+				 37 m 54 s
 			</td>
 			<td>
 				64,0 kWh
@@ -1402,7 +1402,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				56 kW
 			</td>
 			<td>
-				 37 m 58 s
+				 38 m 47 s
 			</td>
 			<td>
 				64,8 kWh
@@ -1416,7 +1416,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				53 kW
 			</td>
 			<td>
-				 38 m 53 s
+				 39 m 43 s
 			</td>
 			<td>
 				65,6 kWh
@@ -1430,7 +1430,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				50 kW
 			</td>
 			<td>
-				 39 m 51 s
+				 40 m 43 s
 			</td>
 			<td>
 				66,4 kWh
@@ -1444,7 +1444,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				48 kW
 			</td>
 			<td>
-				 40 m 53 s
+				 41 m 45 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1458,7 +1458,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				45 kW
 			</td>
 			<td>
-				 41 m 57 s
+				 42 m 51 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1472,7 +1472,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				43 kW
 			</td>
 			<td>
-				 43 m 5 s
+				 44 m 1 s
 			</td>
 			<td>
 				68,7 kWh
@@ -1486,7 +1486,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				42 kW
 			</td>
 			<td>
-				 44 m 15 s
+				 45 m 12 s
 			</td>
 			<td>
 				69,5 kWh
@@ -1500,7 +1500,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				41 kW
 			</td>
 			<td>
-				 45 m 27 s
+				 46 m 26 s
 			</td>
 			<td>
 				70,3 kWh
@@ -1514,7 +1514,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				39 kW
 			</td>
 			<td>
-				 46 m 42 s
+				 47 m 43 s
 			</td>
 			<td>
 				71,1 kWh
@@ -1528,7 +1528,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				38 kW
 			</td>
 			<td>
-				 48 m 0 s
+				 49 m 2 s
 			</td>
 			<td>
 				71,9 kWh
@@ -1542,7 +1542,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				36 kW
 			</td>
 			<td>
-				 49 m 21 s
+				 50 m 25 s
 			</td>
 			<td>
 				72,7 kWh
@@ -1556,7 +1556,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				35 kW
 			</td>
 			<td>
-				 50 m 45 s
+				 51 m 51 s
 			</td>
 			<td>
 				73,5 kWh
@@ -1570,7 +1570,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				32 kW
 			</td>
 			<td>
-				 52 m 15 s
+				 53 m 22 s
 			</td>
 			<td>
 				74,3 kWh
@@ -1584,7 +1584,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				30 kW
 			</td>
 			<td>
-				 53 m 51 s
+				 55 m 1 s
 			</td>
 			<td>
 				75,0 kWh
@@ -1598,7 +1598,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				27 kW
 			</td>
 			<td>
-				 55 m 36 s
+				 56 m 48 s
 			</td>
 			<td>
 				75,8 kWh
@@ -1612,7 +1612,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				25 kW
 			</td>
 			<td>
-				 57 m 31 s
+				 58 m 46 s
 			</td>
 			<td>
 				76,6 kWh
@@ -1626,7 +1626,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				22 kW
 			</td>
 			<td>
-				 59 m 39 s
+				1 h 0 m 56 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1640,7 +1640,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				18 kW
 			</td>
 			<td>
-				1 h 2 m 9 s
+				1 h 3 m 29 s
 			</td>
 			<td>
 				78,2 kWh
@@ -1654,7 +1654,7 @@ Tesla Model Y Long Range verfügt über eine Batterieheizung, die das Laden bei 
 				13 kW
 			</td>
 			<td>
-				1 h 5 m 22 s
+				1 h 6 m 46 s
 			</td>
 			<td>
 				79,0 kWh

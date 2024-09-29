@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor Performance courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Volvo EX90 Twin Motor Performance."
+description: "Ci-dessous se trouve la courbe de charge pour Volvo EX90 Twin Motor Performance, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				94,1 kW
+				92,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				91,2 kW
+				89,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				120,2 kW
+				117,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				139,8 kW
+				136,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Zone de chargement optimale
 			</td>
 			<td>
-				4% - 54%
+				5% - 53%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				136,5kW
+				134,2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				24m31s
+				23m57s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				1 h 8 m 14 s
+				1 h 9 m 43 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				1 h 3 m 21 s
+				1 h 4 m 43 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 32 m 9 s
+				 32 m 50 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,5 km (5,3 mi)
+				8,3 km (5,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,5 km (3,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,4 km (3,4 mi)
+				5,3 km (3,3 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				12,6 km (7,8 mi)
+				12,4 km (7,7 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				125 kW
 			</td>
 			<td>
-				 0 m 46 s
+				 0 m 47 s
 			</td>
 			<td>
 				1,1 kWh
@@ -282,7 +282,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				130 kW
 			</td>
 			<td>
-				 1 m 18 s
+				 1 m 19 s
 			</td>
 			<td>
 				2,1 kWh
@@ -296,7 +296,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				136 kW
 			</td>
 			<td>
-				 1 m 48 s
+				 1 m 50 s
 			</td>
 			<td>
 				3,2 kWh
@@ -310,7 +310,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				141 kW
 			</td>
 			<td>
-				 2 m 17 s
+				 2 m 20 s
 			</td>
 			<td>
 				4,3 kWh
@@ -324,7 +324,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				146 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 49 s
 			</td>
 			<td>
 				5,4 kWh
@@ -338,7 +338,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				152 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 17 s
 			</td>
 			<td>
 				6,4 kWh
@@ -352,7 +352,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				157 kW
 			</td>
 			<td>
-				 3 m 39 s
+				 3 m 44 s
 			</td>
 			<td>
 				7,5 kWh
@@ -366,7 +366,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				163 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 10 s
 			</td>
 			<td>
 				8,6 kWh
@@ -380,7 +380,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				168 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 4 m 35 s
 			</td>
 			<td>
 				9,6 kWh
@@ -394,7 +394,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				173 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				10,7 kWh
@@ -408,7 +408,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				179 kW
 			</td>
 			<td>
-				 5 m 16 s
+				 5 m 23 s
 			</td>
 			<td>
 				11,8 kWh
@@ -422,7 +422,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				184 kW
 			</td>
 			<td>
-				 5 m 38 s
+				 5 m 45 s
 			</td>
 			<td>
 				12,8 kWh
@@ -436,7 +436,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				189 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 6 m 8 s
 			</td>
 			<td>
 				13,9 kWh
@@ -450,7 +450,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				195 kW
 			</td>
 			<td>
-				 6 m 21 s
+				 6 m 29 s
 			</td>
 			<td>
 				15,0 kWh
@@ -464,7 +464,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				200 kW
 			</td>
 			<td>
-				 6 m 42 s
+				 6 m 50 s
 			</td>
 			<td>
 				16,0 kWh
@@ -478,7 +478,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				210 kW
 			</td>
 			<td>
-				 7 m 1 s
+				 7 m 10 s
 			</td>
 			<td>
 				17,1 kWh
@@ -492,7 +492,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				220 kW
 			</td>
 			<td>
-				 7 m 20 s
+				 7 m 30 s
 			</td>
 			<td>
 				18,2 kWh
@@ -506,7 +506,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				230 kW
 			</td>
 			<td>
-				 7 m 38 s
+				 7 m 48 s
 			</td>
 			<td>
 				19,3 kWh
@@ -520,7 +520,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				240 kW
 			</td>
 			<td>
-				 7 m 55 s
+				 8 m 6 s
 			</td>
 			<td>
 				20,3 kWh
@@ -534,7 +534,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				250 kW
 			</td>
 			<td>
-				 8 m 12 s
+				 8 m 23 s
 			</td>
 			<td>
 				21,4 kWh
@@ -548,7 +548,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				250 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 8 m 39 s
 			</td>
 			<td>
 				22,5 kWh
@@ -562,7 +562,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				242 kW
 			</td>
 			<td>
-				 8 m 45 s
+				 8 m 56 s
 			</td>
 			<td>
 				23,5 kWh
@@ -576,7 +576,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				234 kW
 			</td>
 			<td>
-				 9 m 2 s
+				 9 m 13 s
 			</td>
 			<td>
 				24,6 kWh
@@ -590,7 +590,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				226 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 31 s
 			</td>
 			<td>
 				25,7 kWh
@@ -604,7 +604,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				218 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 9 m 50 s
 			</td>
 			<td>
 				26,8 kWh
@@ -618,7 +618,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				210 kW
 			</td>
 			<td>
-				 9 m 57 s
+				 10 m 9 s
 			</td>
 			<td>
 				27,8 kWh
@@ -632,7 +632,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				208 kW
 			</td>
 			<td>
-				 10 m 16 s
+				 10 m 29 s
 			</td>
 			<td>
 				28,9 kWh
@@ -646,7 +646,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				205 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 49 s
 			</td>
 			<td>
 				30,0 kWh
@@ -660,7 +660,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				203 kW
 			</td>
 			<td>
-				 10 m 56 s
+				 11 m 10 s
 			</td>
 			<td>
 				31,0 kWh
@@ -674,7 +674,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				200 kW
 			</td>
 			<td>
-				 11 m 16 s
+				 11 m 30 s
 			</td>
 			<td>
 				32,1 kWh
@@ -688,7 +688,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				198 kW
 			</td>
 			<td>
-				 11 m 36 s
+				 11 m 51 s
 			</td>
 			<td>
 				33,2 kWh
@@ -702,7 +702,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				196 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 12 m 12 s
 			</td>
 			<td>
 				34,2 kWh
@@ -716,7 +716,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				193 kW
 			</td>
 			<td>
-				 12 m 17 s
+				 12 m 33 s
 			</td>
 			<td>
 				35,3 kWh
@@ -730,7 +730,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				191 kW
 			</td>
 			<td>
-				 12 m 39 s
+				 12 m 55 s
 			</td>
 			<td>
 				36,4 kWh
@@ -744,7 +744,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				188 kW
 			</td>
 			<td>
-				 13 m 0 s
+				 13 m 17 s
 			</td>
 			<td>
 				37,4 kWh
@@ -758,7 +758,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				186 kW
 			</td>
 			<td>
-				 13 m 22 s
+				 13 m 39 s
 			</td>
 			<td>
 				38,5 kWh
@@ -772,7 +772,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				184 kW
 			</td>
 			<td>
-				 13 m 44 s
+				 14 m 1 s
 			</td>
 			<td>
 				39,6 kWh
@@ -786,7 +786,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				181 kW
 			</td>
 			<td>
-				 14 m 6 s
+				 14 m 24 s
 			</td>
 			<td>
 				40,7 kWh
@@ -800,7 +800,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				179 kW
 			</td>
 			<td>
-				 14 m 28 s
+				 14 m 47 s
 			</td>
 			<td>
 				41,7 kWh
@@ -814,7 +814,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				176 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 10 s
 			</td>
 			<td>
 				42,8 kWh
@@ -828,7 +828,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				174 kW
 			</td>
 			<td>
-				 15 m 14 s
+				 15 m 34 s
 			</td>
 			<td>
 				43,9 kWh
@@ -842,7 +842,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				171 kW
 			</td>
 			<td>
-				 15 m 38 s
+				 15 m 58 s
 			</td>
 			<td>
 				44,9 kWh
@@ -856,7 +856,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				169 kW
 			</td>
 			<td>
-				 16 m 2 s
+				 16 m 22 s
 			</td>
 			<td>
 				46,0 kWh
@@ -870,7 +870,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				167 kW
 			</td>
 			<td>
-				 16 m 26 s
+				 16 m 47 s
 			</td>
 			<td>
 				47,1 kWh
@@ -884,7 +884,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				164 kW
 			</td>
 			<td>
-				 16 m 50 s
+				 17 m 12 s
 			</td>
 			<td>
 				48,2 kWh
@@ -898,7 +898,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				162 kW
 			</td>
 			<td>
-				 17 m 15 s
+				 17 m 37 s
 			</td>
 			<td>
 				49,2 kWh
@@ -912,7 +912,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				159 kW
 			</td>
 			<td>
-				 17 m 40 s
+				 18 m 3 s
 			</td>
 			<td>
 				50,3 kWh
@@ -926,7 +926,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				157 kW
 			</td>
 			<td>
-				 18 m 6 s
+				 18 m 29 s
 			</td>
 			<td>
 				51,4 kWh
@@ -940,7 +940,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				155 kW
 			</td>
 			<td>
-				 18 m 32 s
+				 18 m 56 s
 			</td>
 			<td>
 				52,4 kWh
@@ -954,7 +954,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				152 kW
 			</td>
 			<td>
-				 18 m 59 s
+				 19 m 23 s
 			</td>
 			<td>
 				53,5 kWh
@@ -968,7 +968,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				150 kW
 			</td>
 			<td>
-				 19 m 25 s
+				 19 m 50 s
 			</td>
 			<td>
 				54,6 kWh
@@ -982,7 +982,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				147 kW
 			</td>
 			<td>
-				 19 m 53 s
+				 20 m 18 s
 			</td>
 			<td>
 				55,6 kWh
@@ -996,7 +996,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				145 kW
 			</td>
 			<td>
-				 20 m 20 s
+				 20 m 47 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1010,7 +1010,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				143 kW
 			</td>
 			<td>
-				 20 m 49 s
+				 21 m 15 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1024,7 +1024,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				140 kW
 			</td>
 			<td>
-				 21 m 17 s
+				 21 m 45 s
 			</td>
 			<td>
 				58,8 kWh
@@ -1038,7 +1038,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				138 kW
 			</td>
 			<td>
-				 21 m 46 s
+				 22 m 15 s
 			</td>
 			<td>
 				59,9 kWh
@@ -1052,7 +1052,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				135 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				61,0 kWh
@@ -1066,7 +1066,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				133 kW
 			</td>
 			<td>
-				 22 m 46 s
+				 23 m 16 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1080,7 +1080,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				131 kW
 			</td>
 			<td>
-				 23 m 17 s
+				 23 m 47 s
 			</td>
 			<td>
 				63,1 kWh
@@ -1094,7 +1094,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				128 kW
 			</td>
 			<td>
-				 23 m 48 s
+				 24 m 19 s
 			</td>
 			<td>
 				64,2 kWh
@@ -1108,7 +1108,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				126 kW
 			</td>
 			<td>
-				 24 m 20 s
+				 24 m 52 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1122,7 +1122,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				123 kW
 			</td>
 			<td>
-				 24 m 53 s
+				 25 m 25 s
 			</td>
 			<td>
 				66,3 kWh
@@ -1136,7 +1136,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				121 kW
 			</td>
 			<td>
-				 25 m 26 s
+				 25 m 59 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1150,7 +1150,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				119 kW
 			</td>
 			<td>
-				 26 m 0 s
+				 26 m 34 s
 			</td>
 			<td>
 				68,5 kWh
@@ -1164,7 +1164,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				116 kW
 			</td>
 			<td>
-				 26 m 35 s
+				 27 m 9 s
 			</td>
 			<td>
 				69,6 kWh
@@ -1178,7 +1178,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				114 kW
 			</td>
 			<td>
-				 27 m 10 s
+				 27 m 45 s
 			</td>
 			<td>
 				70,6 kWh
@@ -1192,7 +1192,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				111 kW
 			</td>
 			<td>
-				 27 m 46 s
+				 28 m 22 s
 			</td>
 			<td>
 				71,7 kWh
@@ -1206,7 +1206,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				109 kW
 			</td>
 			<td>
-				 28 m 23 s
+				 28 m 59 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1220,7 +1220,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				106 kW
 			</td>
 			<td>
-				 29 m 0 s
+				 29 m 38 s
 			</td>
 			<td>
 				73,8 kWh
@@ -1234,7 +1234,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				104 kW
 			</td>
 			<td>
-				 29 m 39 s
+				 30 m 17 s
 			</td>
 			<td>
 				74,9 kWh
@@ -1248,7 +1248,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				102 kW
 			</td>
 			<td>
-				 30 m 18 s
+				 30 m 57 s
 			</td>
 			<td>
 				76,0 kWh
@@ -1262,7 +1262,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				99 kW
 			</td>
 			<td>
-				 30 m 59 s
+				 31 m 39 s
 			</td>
 			<td>
 				77,0 kWh
@@ -1276,7 +1276,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				97 kW
 			</td>
 			<td>
-				 31 m 40 s
+				 32 m 21 s
 			</td>
 			<td>
 				78,1 kWh
@@ -1290,7 +1290,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				94 kW
 			</td>
 			<td>
-				 32 m 22 s
+				 33 m 4 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1304,7 +1304,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				92 kW
 			</td>
 			<td>
-				 33 m 6 s
+				 33 m 49 s
 			</td>
 			<td>
 				80,2 kWh
@@ -1318,7 +1318,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				90 kW
 			</td>
 			<td>
-				 33 m 51 s
+				 34 m 34 s
 			</td>
 			<td>
 				81,3 kWh
@@ -1332,7 +1332,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				87 kW
 			</td>
 			<td>
-				 34 m 36 s
+				 35 m 21 s
 			</td>
 			<td>
 				82,4 kWh
@@ -1346,7 +1346,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				85 kW
 			</td>
 			<td>
-				 35 m 24 s
+				 36 m 9 s
 			</td>
 			<td>
 				83,5 kWh
@@ -1360,7 +1360,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				82 kW
 			</td>
 			<td>
-				 36 m 12 s
+				 36 m 59 s
 			</td>
 			<td>
 				84,5 kWh
@@ -1374,7 +1374,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				80 kW
 			</td>
 			<td>
-				 37 m 2 s
+				 37 m 50 s
 			</td>
 			<td>
 				85,6 kWh
@@ -1388,7 +1388,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				77 kW
 			</td>
 			<td>
-				 37 m 54 s
+				 38 m 43 s
 			</td>
 			<td>
 				86,7 kWh
@@ -1402,7 +1402,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				74 kW
 			</td>
 			<td>
-				 38 m 47 s
+				 39 m 37 s
 			</td>
 			<td>
 				87,7 kWh
@@ -1416,7 +1416,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				71 kW
 			</td>
 			<td>
-				 39 m 43 s
+				 40 m 35 s
 			</td>
 			<td>
 				88,8 kWh
@@ -1430,7 +1430,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				68 kW
 			</td>
 			<td>
-				 40 m 42 s
+				 41 m 34 s
 			</td>
 			<td>
 				89,9 kWh
@@ -1444,7 +1444,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				65 kW
 			</td>
 			<td>
-				 41 m 43 s
+				 42 m 36 s
 			</td>
 			<td>
 				91,0 kWh
@@ -1458,7 +1458,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				62 kW
 			</td>
 			<td>
-				 42 m 46 s
+				 43 m 42 s
 			</td>
 			<td>
 				92,0 kWh
@@ -1472,7 +1472,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				59 kW
 			</td>
 			<td>
-				 43 m 53 s
+				 44 m 50 s
 			</td>
 			<td>
 				93,1 kWh
@@ -1486,7 +1486,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				56 kW
 			</td>
 			<td>
-				 45 m 4 s
+				 46 m 2 s
 			</td>
 			<td>
 				94,2 kWh
@@ -1500,7 +1500,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				53 kW
 			</td>
 			<td>
-				 46 m 18 s
+				 47 m 18 s
 			</td>
 			<td>
 				95,2 kWh
@@ -1514,7 +1514,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				50 kW
 			</td>
 			<td>
-				 47 m 37 s
+				 48 m 39 s
 			</td>
 			<td>
 				96,3 kWh
@@ -1528,7 +1528,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				47 kW
 			</td>
 			<td>
-				 49 m 1 s
+				 50 m 4 s
 			</td>
 			<td>
 				97,4 kWh
@@ -1542,7 +1542,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				44 kW
 			</td>
 			<td>
-				 50 m 30 s
+				 51 m 35 s
 			</td>
 			<td>
 				98,4 kWh
@@ -1556,7 +1556,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				41 kW
 			</td>
 			<td>
-				 52 m 5 s
+				 53 m 12 s
 			</td>
 			<td>
 				99,5 kWh
@@ -1570,7 +1570,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				38 kW
 			</td>
 			<td>
-				 53 m 48 s
+				 54 m 57 s
 			</td>
 			<td>
 				100,6 kWh
@@ -1584,7 +1584,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				35 kW
 			</td>
 			<td>
-				 55 m 39 s
+				 56 m 51 s
 			</td>
 			<td>
 				101,6 kWh
@@ -1598,7 +1598,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				32 kW
 			</td>
 			<td>
-				 57 m 40 s
+				 58 m 54 s
 			</td>
 			<td>
 				102,7 kWh
@@ -1612,7 +1612,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				29 kW
 			</td>
 			<td>
-				 59 m 53 s
+				1 h 1 m 10 s
 			</td>
 			<td>
 				103,8 kWh
@@ -1626,7 +1626,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				26 kW
 			</td>
 			<td>
-				1 h 2 m 20 s
+				1 h 3 m 41 s
 			</td>
 			<td>
 				104,9 kWh
@@ -1640,7 +1640,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				23 kW
 			</td>
 			<td>
-				1 h 5 m 6 s
+				1 h 6 m 30 s
 			</td>
 			<td>
 				105,9 kWh
@@ -1654,7 +1654,7 @@ Volvo EX90 Twin Motor Performance dispose d'un chauffage de batterie, ce qui fac
 				20 kW
 			</td>
 			<td>
-				1 h 8 m 14 s
+				1 h 9 m 43 s
 			</td>
 			<td>
 				107,0 kWh

@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 500 4MATIC SUV curva de carga y rendimiento
 linktitle: "Curva de carga"
-description: "Aquí encontrarás la curva de carga para Mercedes-EQ EQE 500 4MATIC SUV."
+description: "A continuación se muestra la curva de carga para Mercedes-EQ EQE 500 4MATIC SUV, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				98,3 kW
+				96,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				96,1 kW
+				94,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				114,6 kW
+				112,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				132,2 kW
+				129,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				2% - 64%
+				2% - 63%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				121,2kW
+				119,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				28m48s
+				28m50s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				 55 m 18 s
+				 56 m 30 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				 50 m 55 s
+				 52 m 0 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 28 m 47 s
+				 29 m 24 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,9 km (6,2 mi)
-			</td>
-			<td>
-				6,6 km (4,1 mi)
-			</td>
-			<td>
-				6,1 km (3,8 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango por minuto 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				9,7 km (6,0 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				5,8 km (3,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango por minuto 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				13,3 km (8,3 mi)
+				13,0 km (8,1 mi)
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				8,0 km (5,0 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				80 kW
 			</td>
 			<td>
-				 0 m 57 s
+				 0 m 58 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				119 kW
 			</td>
 			<td>
-				 1 m 32 s
+				 1 m 34 s
 			</td>
 			<td>
 				1,8 kWh
@@ -296,7 +296,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				159 kW
 			</td>
 			<td>
-				 1 m 56 s
+				 1 m 59 s
 			</td>
 			<td>
 				2,7 kWh
@@ -310,7 +310,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				161 kW
 			</td>
 			<td>
-				 2 m 18 s
+				 2 m 21 s
 			</td>
 			<td>
 				3,6 kWh
@@ -324,7 +324,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				162 kW
 			</td>
 			<td>
-				 2 m 39 s
+				 2 m 42 s
 			</td>
 			<td>
 				4,5 kWh
@@ -338,7 +338,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				164 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 4 s
 			</td>
 			<td>
 				5,4 kWh
@@ -352,7 +352,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				165 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 25 s
 			</td>
 			<td>
 				6,3 kWh
@@ -366,7 +366,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				166 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 47 s
 			</td>
 			<td>
 				7,2 kWh
@@ -380,7 +380,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				166 kW
 			</td>
 			<td>
-				 4 m 2 s
+				 4 m 8 s
 			</td>
 			<td>
 				8,2 kWh
@@ -394,7 +394,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				165 kW
 			</td>
 			<td>
-				 4 m 23 s
+				 4 m 29 s
 			</td>
 			<td>
 				9,1 kWh
@@ -408,7 +408,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				165 kW
 			</td>
 			<td>
-				 4 m 44 s
+				 4 m 50 s
 			</td>
 			<td>
 				10,0 kWh
@@ -422,7 +422,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				165 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 11 s
 			</td>
 			<td>
 				10,9 kWh
@@ -436,7 +436,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				166 kW
 			</td>
 			<td>
-				 5 m 26 s
+				 5 m 33 s
 			</td>
 			<td>
 				11,8 kWh
@@ -450,7 +450,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				167 kW
 			</td>
 			<td>
-				 5 m 46 s
+				 5 m 54 s
 			</td>
 			<td>
 				12,7 kWh
@@ -464,7 +464,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				168 kW
 			</td>
 			<td>
-				 6 m 7 s
+				 6 m 15 s
 			</td>
 			<td>
 				13,6 kWh
@@ -478,7 +478,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				169 kW
 			</td>
 			<td>
-				 6 m 27 s
+				 6 m 35 s
 			</td>
 			<td>
 				14,5 kWh
@@ -492,7 +492,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				169 kW
 			</td>
 			<td>
-				 6 m 47 s
+				 6 m 56 s
 			</td>
 			<td>
 				15,4 kWh
@@ -506,7 +506,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				169 kW
 			</td>
 			<td>
-				 7 m 8 s
+				 7 m 17 s
 			</td>
 			<td>
 				16,3 kWh
@@ -520,7 +520,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				169 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 7 m 38 s
 			</td>
 			<td>
 				17,2 kWh
@@ -534,7 +534,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				170 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 7 m 58 s
 			</td>
 			<td>
 				18,1 kWh
@@ -548,7 +548,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				170 kW
 			</td>
 			<td>
-				 8 m 8 s
+				 8 m 19 s
 			</td>
 			<td>
 				19,0 kWh
@@ -562,7 +562,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				170 kW
 			</td>
 			<td>
-				 8 m 29 s
+				 8 m 40 s
 			</td>
 			<td>
 				19,9 kWh
@@ -576,7 +576,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				170 kW
 			</td>
 			<td>
-				 8 m 49 s
+				 9 m 0 s
 			</td>
 			<td>
 				20,8 kWh
@@ -590,7 +590,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				170 kW
 			</td>
 			<td>
-				 9 m 9 s
+				 9 m 21 s
 			</td>
 			<td>
 				21,7 kWh
@@ -604,7 +604,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				169 kW
 			</td>
 			<td>
-				 9 m 29 s
+				 9 m 42 s
 			</td>
 			<td>
 				22,6 kWh
@@ -618,7 +618,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				169 kW
 			</td>
 			<td>
-				 9 m 50 s
+				 10 m 2 s
 			</td>
 			<td>
 				23,6 kWh
@@ -632,7 +632,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				167 kW
 			</td>
 			<td>
-				 10 m 10 s
+				 10 m 23 s
 			</td>
 			<td>
 				24,5 kWh
@@ -646,7 +646,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				166 kW
 			</td>
 			<td>
-				 10 m 31 s
+				 10 m 44 s
 			</td>
 			<td>
 				25,4 kWh
@@ -660,7 +660,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				165 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 5 s
 			</td>
 			<td>
 				26,3 kWh
@@ -674,7 +674,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				163 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 27 s
 			</td>
 			<td>
 				27,2 kWh
@@ -688,7 +688,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				162 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 48 s
 			</td>
 			<td>
 				28,1 kWh
@@ -702,7 +702,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				161 kW
 			</td>
 			<td>
-				 11 m 55 s
+				 12 m 10 s
 			</td>
 			<td>
 				29,0 kWh
@@ -716,7 +716,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				160 kW
 			</td>
 			<td>
-				 12 m 16 s
+				 12 m 32 s
 			</td>
 			<td>
 				29,9 kWh
@@ -730,7 +730,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				160 kW
 			</td>
 			<td>
-				 12 m 38 s
+				 12 m 54 s
 			</td>
 			<td>
 				30,8 kWh
@@ -744,7 +744,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				158 kW
 			</td>
 			<td>
-				 12 m 59 s
+				 13 m 16 s
 			</td>
 			<td>
 				31,7 kWh
@@ -758,7 +758,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				158 kW
 			</td>
 			<td>
-				 13 m 21 s
+				 13 m 38 s
 			</td>
 			<td>
 				32,6 kWh
@@ -772,7 +772,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				157 kW
 			</td>
 			<td>
-				 13 m 43 s
+				 14 m 0 s
 			</td>
 			<td>
 				33,5 kWh
@@ -786,7 +786,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				156 kW
 			</td>
 			<td>
-				 14 m 5 s
+				 14 m 23 s
 			</td>
 			<td>
 				34,4 kWh
@@ -800,7 +800,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				155 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 45 s
 			</td>
 			<td>
 				35,3 kWh
@@ -814,7 +814,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				155 kW
 			</td>
 			<td>
-				 14 m 49 s
+				 15 m 8 s
 			</td>
 			<td>
 				36,2 kWh
@@ -828,7 +828,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				154 kW
 			</td>
 			<td>
-				 15 m 11 s
+				 15 m 31 s
 			</td>
 			<td>
 				37,1 kWh
@@ -842,7 +842,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				153 kW
 			</td>
 			<td>
-				 15 m 33 s
+				 15 m 54 s
 			</td>
 			<td>
 				38,1 kWh
@@ -856,7 +856,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				153 kW
 			</td>
 			<td>
-				 15 m 56 s
+				 16 m 16 s
 			</td>
 			<td>
 				39,0 kWh
@@ -870,7 +870,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				152 kW
 			</td>
 			<td>
-				 16 m 18 s
+				 16 m 39 s
 			</td>
 			<td>
 				39,9 kWh
@@ -884,7 +884,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				151 kW
 			</td>
 			<td>
-				 16 m 41 s
+				 17 m 3 s
 			</td>
 			<td>
 				40,8 kWh
@@ -898,7 +898,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				150 kW
 			</td>
 			<td>
-				 17 m 4 s
+				 17 m 26 s
 			</td>
 			<td>
 				41,7 kWh
@@ -912,7 +912,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				150 kW
 			</td>
 			<td>
-				 17 m 27 s
+				 17 m 49 s
 			</td>
 			<td>
 				42,6 kWh
@@ -926,7 +926,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				150 kW
 			</td>
 			<td>
-				 17 m 50 s
+				 18 m 13 s
 			</td>
 			<td>
 				43,5 kWh
@@ -940,7 +940,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				149 kW
 			</td>
 			<td>
-				 18 m 13 s
+				 18 m 36 s
 			</td>
 			<td>
 				44,4 kWh
@@ -954,7 +954,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				148 kW
 			</td>
 			<td>
-				 18 m 36 s
+				 19 m 0 s
 			</td>
 			<td>
 				45,3 kWh
@@ -968,7 +968,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				148 kW
 			</td>
 			<td>
-				 18 m 59 s
+				 19 m 23 s
 			</td>
 			<td>
 				46,2 kWh
@@ -982,7 +982,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				147 kW
 			</td>
 			<td>
-				 19 m 22 s
+				 19 m 47 s
 			</td>
 			<td>
 				47,1 kWh
@@ -996,7 +996,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				147 kW
 			</td>
 			<td>
-				 19 m 46 s
+				 20 m 11 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1010,7 +1010,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				146 kW
 			</td>
 			<td>
-				 20 m 9 s
+				 20 m 35 s
 			</td>
 			<td>
 				48,9 kWh
@@ -1024,7 +1024,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				144 kW
 			</td>
 			<td>
-				 20 m 33 s
+				 20 m 59 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1038,7 +1038,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				143 kW
 			</td>
 			<td>
-				 20 m 57 s
+				 21 m 24 s
 			</td>
 			<td>
 				50,7 kWh
@@ -1052,7 +1052,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				141 kW
 			</td>
 			<td>
-				 21 m 21 s
+				 21 m 48 s
 			</td>
 			<td>
 				51,6 kWh
@@ -1066,7 +1066,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				140 kW
 			</td>
 			<td>
-				 21 m 45 s
+				 22 m 13 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1080,7 +1080,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				137 kW
 			</td>
 			<td>
-				 22 m 10 s
+				 22 m 39 s
 			</td>
 			<td>
 				53,5 kWh
@@ -1094,7 +1094,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				136 kW
 			</td>
 			<td>
-				 22 m 35 s
+				 23 m 4 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1108,7 +1108,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				133 kW
 			</td>
 			<td>
-				 23 m 1 s
+				 23 m 30 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1122,7 +1122,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				131 kW
 			</td>
 			<td>
-				 23 m 27 s
+				 23 m 57 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1136,7 +1136,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				129 kW
 			</td>
 			<td>
-				 23 m 53 s
+				 24 m 24 s
 			</td>
 			<td>
 				57,1 kWh
@@ -1150,7 +1150,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				127 kW
 			</td>
 			<td>
-				 24 m 20 s
+				 24 m 51 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1164,7 +1164,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				126 kW
 			</td>
 			<td>
-				 24 m 47 s
+				 25 m 19 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1178,7 +1178,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				124 kW
 			</td>
 			<td>
-				 25 m 15 s
+				 25 m 47 s
 			</td>
 			<td>
 				59,8 kWh
@@ -1192,7 +1192,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				122 kW
 			</td>
 			<td>
-				 25 m 42 s
+				 26 m 16 s
 			</td>
 			<td>
 				60,7 kWh
@@ -1206,7 +1206,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				119 kW
 			</td>
 			<td>
-				 26 m 11 s
+				 26 m 45 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1220,7 +1220,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				115 kW
 			</td>
 			<td>
-				 26 m 40 s
+				 27 m 15 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1234,7 +1234,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				112 kW
 			</td>
 			<td>
-				 27 m 11 s
+				 27 m 46 s
 			</td>
 			<td>
 				63,4 kWh
@@ -1248,7 +1248,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				109 kW
 			</td>
 			<td>
-				 27 m 42 s
+				 28 m 17 s
 			</td>
 			<td>
 				64,3 kWh
@@ -1262,7 +1262,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				106 kW
 			</td>
 			<td>
-				 28 m 14 s
+				 28 m 50 s
 			</td>
 			<td>
 				65,2 kWh
@@ -1276,7 +1276,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				103 kW
 			</td>
 			<td>
-				 28 m 46 s
+				 29 m 24 s
 			</td>
 			<td>
 				66,1 kWh
@@ -1290,7 +1290,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				99 kW
 			</td>
 			<td>
-				 29 m 20 s
+				 29 m 58 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1304,7 +1304,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				96 kW
 			</td>
 			<td>
-				 29 m 56 s
+				 30 m 34 s
 			</td>
 			<td>
 				68,0 kWh
@@ -1318,7 +1318,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				93 kW
 			</td>
 			<td>
-				 30 m 32 s
+				 31 m 11 s
 			</td>
 			<td>
 				68,9 kWh
@@ -1332,7 +1332,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				90 kW
 			</td>
 			<td>
-				 31 m 9 s
+				 31 m 50 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1346,7 +1346,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				87 kW
 			</td>
 			<td>
-				 31 m 48 s
+				 32 m 29 s
 			</td>
 			<td>
 				70,7 kWh
@@ -1360,7 +1360,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				83 kW
 			</td>
 			<td>
-				 32 m 29 s
+				 33 m 11 s
 			</td>
 			<td>
 				71,6 kWh
@@ -1374,7 +1374,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				81 kW
 			</td>
 			<td>
-				 33 m 11 s
+				 33 m 53 s
 			</td>
 			<td>
 				72,5 kWh
@@ -1388,7 +1388,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				77 kW
 			</td>
 			<td>
-				 33 m 54 s
+				 34 m 38 s
 			</td>
 			<td>
 				73,4 kWh
@@ -1402,7 +1402,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				74 kW
 			</td>
 			<td>
-				 34 m 39 s
+				 35 m 24 s
 			</td>
 			<td>
 				74,3 kWh
@@ -1416,7 +1416,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				71 kW
 			</td>
 			<td>
-				 35 m 27 s
+				 36 m 13 s
 			</td>
 			<td>
 				75,2 kWh
@@ -1430,7 +1430,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				67 kW
 			</td>
 			<td>
-				 36 m 17 s
+				 37 m 3 s
 			</td>
 			<td>
 				76,1 kWh
@@ -1444,7 +1444,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				64 kW
 			</td>
 			<td>
-				 37 m 9 s
+				 37 m 57 s
 			</td>
 			<td>
 				77,0 kWh
@@ -1458,7 +1458,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				61 kW
 			</td>
 			<td>
-				 38 m 4 s
+				 38 m 53 s
 			</td>
 			<td>
 				77,9 kWh
@@ -1472,7 +1472,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				57 kW
 			</td>
 			<td>
-				 39 m 2 s
+				 39 m 52 s
 			</td>
 			<td>
 				78,8 kWh
@@ -1486,7 +1486,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				54 kW
 			</td>
 			<td>
-				 40 m 4 s
+				 40 m 56 s
 			</td>
 			<td>
 				79,7 kWh
@@ -1500,7 +1500,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				50 kW
 			</td>
 			<td>
-				 41 m 10 s
+				 42 m 3 s
 			</td>
 			<td>
 				80,6 kWh
@@ -1514,7 +1514,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				47 kW
 			</td>
 			<td>
-				 42 m 21 s
+				 43 m 15 s
 			</td>
 			<td>
 				81,5 kWh
@@ -1528,7 +1528,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 43 m 36 s
+				 44 m 32 s
 			</td>
 			<td>
 				82,4 kWh
@@ -1542,7 +1542,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 44 m 54 s
+				 45 m 52 s
 			</td>
 			<td>
 				83,4 kWh
@@ -1556,7 +1556,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 46 m 12 s
+				 47 m 12 s
 			</td>
 			<td>
 				84,3 kWh
@@ -1570,7 +1570,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 47 m 30 s
+				 48 m 32 s
 			</td>
 			<td>
 				85,2 kWh
@@ -1584,7 +1584,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 48 m 48 s
+				 49 m 51 s
 			</td>
 			<td>
 				86,1 kWh
@@ -1598,7 +1598,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 50 m 6 s
+				 51 m 11 s
 			</td>
 			<td>
 				87,0 kWh
@@ -1612,7 +1612,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 51 m 24 s
+				 52 m 31 s
 			</td>
 			<td>
 				87,9 kWh
@@ -1626,7 +1626,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 52 m 42 s
+				 53 m 50 s
 			</td>
 			<td>
 				88,8 kWh
@@ -1640,7 +1640,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 54 m 0 s
+				 55 m 10 s
 			</td>
 			<td>
 				89,7 kWh
@@ -1654,7 +1654,7 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 				44 kW
 			</td>
 			<td>
-				 55 m 18 s
+				 56 m 30 s
 			</td>
 			<td>
 				90,6 kWh

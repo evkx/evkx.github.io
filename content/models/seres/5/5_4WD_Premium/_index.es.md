@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 80,0 kWh y una capaci
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 483 km, con una tasa de consumo de energía de 16,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 91 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 79kW. Cada sesión de carga tardaría 32 minutos y 51 segundos.
+La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 93 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 32 minutos y 26 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 32 minutos. Este viaje requeriría dos paradas de carga del 6% al 62%, con un tiempo total de carga de 132 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 34 minutos. Este viaje requeriría dos paradas de carga del 6% al 62%, con un tiempo total de carga de 135 minutos.
 
 ### Cargador a bordo
 

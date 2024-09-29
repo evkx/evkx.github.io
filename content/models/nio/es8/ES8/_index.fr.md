@@ -38,9 +38,9 @@ La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité 
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 460 km, avec une consommation d'énergie de 19,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 83 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 72 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 79kW. Chaque session de charge prendrait 44 minutes et 24 secondes.
+La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 44 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 72 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 78kW. Chaque session de charge prendrait 45 minutes et 15 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 1 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 67%, avec un temps de recharge total de 162 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 4 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 67%, avec un temps de recharge total de 165 minutes.
 
 ### 75kWh
 
@@ -48,9 +48,9 @@ La batterie haute capacité a une capacité brute de 75,0 kWh et une capacité n
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 350 km, avec une consommation d'énergie de 19,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 65 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 77kW. Chaque session de charge prendrait 37 minutes et 57 secondes.
+La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 66 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 75kW. Chaque session de charge prendrait 38 minutes et 39 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 22 minutes. Ce trajet nécessiterait deux arrêts de recharge de 7% à 73%, avec un temps de recharge total de 182 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 25 minutes. Ce trajet nécessiterait deux arrêts de recharge de 7% à 73%, avec un temps de recharge total de 185 minutes.
 
 ### Chargeur embarqué
 

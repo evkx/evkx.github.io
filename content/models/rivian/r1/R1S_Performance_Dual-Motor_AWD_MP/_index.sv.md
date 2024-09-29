@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 149,0 kWh och en nettoanvänd
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 660 km med en energiförbrukning på 21,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 119 minuter, medan ett vanligare scenario på 10-80 % tar 48 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 141kW. Varje laddningssession tar 27 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 121 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 28 minuter och 41 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 9 timmar och 28 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 37%, med en total laddningstid på 68 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 9 timmar och 29 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 37%, med en total laddningstid på 69 minuter.
 
 ### Ombordladdare
 

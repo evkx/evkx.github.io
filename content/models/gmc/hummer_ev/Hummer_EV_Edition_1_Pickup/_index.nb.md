@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 220,0 kWh og en netto brukba
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 529 km med en energiforbrukshastighet på 40,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 139 minutter, mens et mer vanlig scenario på 10-80 % vil ta 48 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 52%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 245kW. Hver ladeøkt vil ta 27 minutter og 39 sekunder. Denne effektive ladekapasiteten gjør GMC Hummer EV Edition 1 Pickup til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 141 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 48%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 240kW. Hver ladeøkt vil ta 25 minutter og 59 sekunder. Denne effektive ladekapasiteten gjør GMC Hummer EV Edition 1 Pickup til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 43 kWh/100 km, ville turen ta omtrent 9 timer og 13 minutter. Denne reisen ville kreve to ladestopp fra 1% til 52%, med en total ladetid på 53 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 43 kWh/100 km, ville turen ta omtrent 9 timer og 14 minutter. Denne reisen ville kreve to ladestopp fra 1% til 52%, med en total ladetid på 54 minutter.
 
 ### Ombordlader
 

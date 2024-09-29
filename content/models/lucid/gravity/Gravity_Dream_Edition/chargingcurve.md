@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Dream Edition charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Lucid Gravity Dream Edition."
+description: "Below is the charging curve for Lucid Gravity Dream Edition, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				97.6 kW
+				95.5 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				91.0 kW
+				89.1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				152.5 kW
+				149.3 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				174.5 kW
+				170.8 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				178.7kW
+				175.9kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				18m8s
+				18m25s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 13 m 46 s
+				1 h 15 m 22 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 11 m 11 s
+				1 h 12 m 43 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 28 m 53 s
+				 29 m 30 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,0 km (5,6 mi)
+				8,8 km (5,5 mi)
 			</td>
 			<td>
-				7,7 km (4,8 mi)
+				7,6 km (4,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Range per minute 10-100%
 			</td>
 			<td>
-				9,0 km (5,6 mi)
+				8,8 km (5,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				8,2 km (5,1 mi)
 			</td>
 			<td>
-				7,2 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Range per minute 10-80%
 			</td>
 			<td>
-				17,2 km (10,7 mi)
+				16,8 km (10,4 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				16,2 km (10,1 mi)
+				15,8 km (9,8 mi)
 			</td>
 			<td>
-				13,8 km (8,6 mi)
+				13,6 km (8,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +282,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				275 kW
 			</td>
 			<td>
-				 0 m 34 s
+				 0 m 35 s
 			</td>
 			<td>
 				2.4 kWh
@@ -296,7 +296,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				284 kW
 			</td>
 			<td>
-				 0 m 50 s
+				 0 m 51 s
 			</td>
 			<td>
 				3.6 kWh
@@ -310,7 +310,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				294 kW
 			</td>
 			<td>
-				 1 m 6 s
+				 1 m 7 s
 			</td>
 			<td>
 				4.8 kWh
@@ -324,7 +324,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				298 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 23 s
 			</td>
 			<td>
 				6.0 kWh
@@ -338,7 +338,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				305 kW
 			</td>
 			<td>
-				 1 m 36 s
+				 1 m 38 s
 			</td>
 			<td>
 				7.2 kWh
@@ -352,7 +352,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				306 kW
 			</td>
 			<td>
-				 1 m 51 s
+				 1 m 54 s
 			</td>
 			<td>
 				8.4 kWh
@@ -366,7 +366,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				312 kW
 			</td>
 			<td>
-				 2 m 6 s
+				 2 m 9 s
 			</td>
 			<td>
 				9.6 kWh
@@ -380,7 +380,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				318 kW
 			</td>
 			<td>
-				 2 m 20 s
+				 2 m 23 s
 			</td>
 			<td>
 				10.8 kWh
@@ -394,7 +394,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				318 kW
 			</td>
 			<td>
-				 2 m 35 s
+				 2 m 38 s
 			</td>
 			<td>
 				12.0 kWh
@@ -408,7 +408,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				316 kW
 			</td>
 			<td>
-				 2 m 49 s
+				 2 m 53 s
 			</td>
 			<td>
 				13.2 kWh
@@ -422,7 +422,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				314 kW
 			</td>
 			<td>
-				 3 m 3 s
+				 3 m 7 s
 			</td>
 			<td>
 				14.4 kWh
@@ -436,7 +436,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				312 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 3 m 22 s
 			</td>
 			<td>
 				15.6 kWh
@@ -450,7 +450,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				308 kW
 			</td>
 			<td>
-				 3 m 33 s
+				 3 m 37 s
 			</td>
 			<td>
 				16.8 kWh
@@ -464,7 +464,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				307 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 3 m 52 s
 			</td>
 			<td>
 				18.0 kWh
@@ -478,7 +478,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				305 kW
 			</td>
 			<td>
-				 4 m 2 s
+				 4 m 8 s
 			</td>
 			<td>
 				19.2 kWh
@@ -492,7 +492,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				301 kW
 			</td>
 			<td>
-				 4 m 17 s
+				 4 m 23 s
 			</td>
 			<td>
 				20.4 kWh
@@ -506,7 +506,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				297 kW
 			</td>
 			<td>
-				 4 m 33 s
+				 4 m 38 s
 			</td>
 			<td>
 				21.6 kWh
@@ -520,7 +520,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				293 kW
 			</td>
 			<td>
-				 4 m 48 s
+				 4 m 54 s
 			</td>
 			<td>
 				22.8 kWh
@@ -534,7 +534,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				288 kW
 			</td>
 			<td>
-				 5 m 4 s
+				 5 m 10 s
 			</td>
 			<td>
 				24.0 kWh
@@ -548,7 +548,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				284 kW
 			</td>
 			<td>
-				 5 m 19 s
+				 5 m 26 s
 			</td>
 			<td>
 				25.2 kWh
@@ -562,7 +562,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				280 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 43 s
 			</td>
 			<td>
 				26.4 kWh
@@ -576,7 +576,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				277 kW
 			</td>
 			<td>
-				 5 m 52 s
+				 6 m 0 s
 			</td>
 			<td>
 				27.6 kWh
@@ -590,7 +590,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				272 kW
 			</td>
 			<td>
-				 6 m 9 s
+				 6 m 16 s
 			</td>
 			<td>
 				28.8 kWh
@@ -604,7 +604,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				268 kW
 			</td>
 			<td>
-				 6 m 25 s
+				 6 m 34 s
 			</td>
 			<td>
 				30.0 kWh
@@ -618,7 +618,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				265 kW
 			</td>
 			<td>
-				 6 m 42 s
+				 6 m 51 s
 			</td>
 			<td>
 				31.2 kWh
@@ -632,7 +632,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				260 kW
 			</td>
 			<td>
-				 7 m 0 s
+				 7 m 9 s
 			</td>
 			<td>
 				32.4 kWh
@@ -646,7 +646,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				257 kW
 			</td>
 			<td>
-				 7 m 17 s
+				 7 m 27 s
 			</td>
 			<td>
 				33.6 kWh
@@ -660,7 +660,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				254 kW
 			</td>
 			<td>
-				 7 m 35 s
+				 7 m 45 s
 			</td>
 			<td>
 				34.8 kWh
@@ -674,7 +674,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				250 kW
 			</td>
 			<td>
-				 7 m 53 s
+				 8 m 3 s
 			</td>
 			<td>
 				36.0 kWh
@@ -688,7 +688,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				246 kW
 			</td>
 			<td>
-				 8 m 12 s
+				 8 m 22 s
 			</td>
 			<td>
 				37.2 kWh
@@ -702,7 +702,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				241 kW
 			</td>
 			<td>
-				 8 m 30 s
+				 8 m 41 s
 			</td>
 			<td>
 				38.4 kWh
@@ -716,7 +716,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				237 kW
 			</td>
 			<td>
-				 8 m 49 s
+				 9 m 1 s
 			</td>
 			<td>
 				39.6 kWh
@@ -730,7 +730,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				233 kW
 			</td>
 			<td>
-				 9 m 9 s
+				 9 m 20 s
 			</td>
 			<td>
 				40.8 kWh
@@ -744,7 +744,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				228 kW
 			</td>
 			<td>
-				 9 m 28 s
+				 9 m 41 s
 			</td>
 			<td>
 				42.0 kWh
@@ -758,7 +758,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				225 kW
 			</td>
 			<td>
-				 9 m 48 s
+				 10 m 1 s
 			</td>
 			<td>
 				43.2 kWh
@@ -772,7 +772,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				221 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 22 s
 			</td>
 			<td>
 				44.4 kWh
@@ -786,7 +786,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				217 kW
 			</td>
 			<td>
-				 10 m 30 s
+				 10 m 43 s
 			</td>
 			<td>
 				45.6 kWh
@@ -800,7 +800,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				211 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 5 s
 			</td>
 			<td>
 				46.8 kWh
@@ -814,7 +814,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				208 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 27 s
 			</td>
 			<td>
 				48.0 kWh
@@ -828,7 +828,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				205 kW
 			</td>
 			<td>
-				 11 m 35 s
+				 11 m 49 s
 			</td>
 			<td>
 				49.2 kWh
@@ -842,7 +842,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				200 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 12 m 12 s
 			</td>
 			<td>
 				50.4 kWh
@@ -856,7 +856,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				193 kW
 			</td>
 			<td>
-				 12 m 20 s
+				 12 m 36 s
 			</td>
 			<td>
 				51.6 kWh
@@ -870,7 +870,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				192 kW
 			</td>
 			<td>
-				 12 m 44 s
+				 13 m 0 s
 			</td>
 			<td>
 				52.8 kWh
@@ -884,7 +884,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				188 kW
 			</td>
 			<td>
-				 13 m 8 s
+				 13 m 25 s
 			</td>
 			<td>
 				54.0 kWh
@@ -898,7 +898,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				182 kW
 			</td>
 			<td>
-				 13 m 32 s
+				 13 m 50 s
 			</td>
 			<td>
 				55.2 kWh
@@ -912,7 +912,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				180 kW
 			</td>
 			<td>
-				 13 m 57 s
+				 14 m 15 s
 			</td>
 			<td>
 				56.4 kWh
@@ -926,7 +926,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				175 kW
 			</td>
 			<td>
-				 14 m 23 s
+				 14 m 42 s
 			</td>
 			<td>
 				57.6 kWh
@@ -940,7 +940,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				172 kW
 			</td>
 			<td>
-				 14 m 49 s
+				 15 m 8 s
 			</td>
 			<td>
 				58.8 kWh
@@ -954,7 +954,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				170 kW
 			</td>
 			<td>
-				 15 m 16 s
+				 15 m 35 s
 			</td>
 			<td>
 				60.0 kWh
@@ -968,7 +968,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				161 kW
 			</td>
 			<td>
-				 15 m 43 s
+				 16 m 4 s
 			</td>
 			<td>
 				61.2 kWh
@@ -982,7 +982,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				160 kW
 			</td>
 			<td>
-				 16 m 12 s
+				 16 m 32 s
 			</td>
 			<td>
 				62.4 kWh
@@ -996,7 +996,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				155 kW
 			</td>
 			<td>
-				 16 m 40 s
+				 17 m 2 s
 			</td>
 			<td>
 				63.6 kWh
@@ -1010,7 +1010,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				152 kW
 			</td>
 			<td>
-				 17 m 10 s
+				 17 m 32 s
 			</td>
 			<td>
 				64.8 kWh
@@ -1024,7 +1024,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				150 kW
 			</td>
 			<td>
-				 17 m 40 s
+				 18 m 3 s
 			</td>
 			<td>
 				66.0 kWh
@@ -1038,7 +1038,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				147 kW
 			</td>
 			<td>
-				 18 m 11 s
+				 18 m 34 s
 			</td>
 			<td>
 				67.2 kWh
@@ -1052,7 +1052,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 18 m 42 s
+				 19 m 7 s
 			</td>
 			<td>
 				68.4 kWh
@@ -1066,7 +1066,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				138 kW
 			</td>
 			<td>
-				 19 m 15 s
+				 19 m 40 s
 			</td>
 			<td>
 				69.6 kWh
@@ -1080,7 +1080,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				134 kW
 			</td>
 			<td>
-				 19 m 48 s
+				 20 m 14 s
 			</td>
 			<td>
 				70.8 kWh
@@ -1094,7 +1094,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				134 kW
 			</td>
 			<td>
-				 20 m 22 s
+				 20 m 49 s
 			</td>
 			<td>
 				72.0 kWh
@@ -1108,7 +1108,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				135 kW
 			</td>
 			<td>
-				 20 m 56 s
+				 21 m 23 s
 			</td>
 			<td>
 				73.2 kWh
@@ -1122,7 +1122,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				139 kW
 			</td>
 			<td>
-				 21 m 29 s
+				 21 m 57 s
 			</td>
 			<td>
 				74.4 kWh
@@ -1136,7 +1136,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				140 kW
 			</td>
 			<td>
-				 22 m 2 s
+				 22 m 30 s
 			</td>
 			<td>
 				75.6 kWh
@@ -1150,7 +1150,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				142 kW
 			</td>
 			<td>
-				 22 m 34 s
+				 23 m 3 s
 			</td>
 			<td>
 				76.8 kWh
@@ -1164,7 +1164,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 23 m 6 s
+				 23 m 36 s
 			</td>
 			<td>
 				78.0 kWh
@@ -1178,7 +1178,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				142 kW
 			</td>
 			<td>
-				 23 m 38 s
+				 24 m 9 s
 			</td>
 			<td>
 				79.2 kWh
@@ -1192,7 +1192,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				140 kW
 			</td>
 			<td>
-				 24 m 11 s
+				 24 m 42 s
 			</td>
 			<td>
 				80.4 kWh
@@ -1206,7 +1206,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				140 kW
 			</td>
 			<td>
-				 24 m 43 s
+				 25 m 15 s
 			</td>
 			<td>
 				81.6 kWh
@@ -1220,7 +1220,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				140 kW
 			</td>
 			<td>
-				 25 m 16 s
+				 25 m 48 s
 			</td>
 			<td>
 				82.8 kWh
@@ -1234,7 +1234,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				140 kW
 			</td>
 			<td>
-				 25 m 48 s
+				 26 m 21 s
 			</td>
 			<td>
 				84.0 kWh
@@ -1248,7 +1248,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				140 kW
 			</td>
 			<td>
-				 26 m 21 s
+				 26 m 55 s
 			</td>
 			<td>
 				85.2 kWh
@@ -1262,7 +1262,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 26 m 53 s
+				 27 m 28 s
 			</td>
 			<td>
 				86.4 kWh
@@ -1276,7 +1276,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 27 m 25 s
+				 28 m 1 s
 			</td>
 			<td>
 				87.6 kWh
@@ -1290,7 +1290,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 27 m 58 s
+				 28 m 34 s
 			</td>
 			<td>
 				88.8 kWh
@@ -1304,7 +1304,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 28 m 30 s
+				 29 m 7 s
 			</td>
 			<td>
 				90.0 kWh
@@ -1318,7 +1318,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 29 m 2 s
+				 29 m 40 s
 			</td>
 			<td>
 				91.2 kWh
@@ -1332,7 +1332,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				135 kW
 			</td>
 			<td>
-				 29 m 35 s
+				 30 m 13 s
 			</td>
 			<td>
 				92.4 kWh
@@ -1346,7 +1346,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				125 kW
 			</td>
 			<td>
-				 30 m 10 s
+				 30 m 49 s
 			</td>
 			<td>
 				93.6 kWh
@@ -1360,7 +1360,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				115 kW
 			</td>
 			<td>
-				 30 m 48 s
+				 31 m 28 s
 			</td>
 			<td>
 				94.8 kWh
@@ -1374,7 +1374,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				112 kW
 			</td>
 			<td>
-				 31 m 28 s
+				 32 m 9 s
 			</td>
 			<td>
 				96.0 kWh
@@ -1388,7 +1388,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				105 kW
 			</td>
 			<td>
-				 32 m 10 s
+				 32 m 51 s
 			</td>
 			<td>
 				97.2 kWh
@@ -1402,7 +1402,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				97 kW
 			</td>
 			<td>
-				 32 m 55 s
+				 33 m 37 s
 			</td>
 			<td>
 				98.4 kWh
@@ -1416,7 +1416,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				89 kW
 			</td>
 			<td>
-				 33 m 44 s
+				 34 m 27 s
 			</td>
 			<td>
 				99.6 kWh
@@ -1430,7 +1430,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				82 kW
 			</td>
 			<td>
-				 34 m 37 s
+				 35 m 22 s
 			</td>
 			<td>
 				100.8 kWh
@@ -1444,7 +1444,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				81 kW
 			</td>
 			<td>
-				 35 m 33 s
+				 36 m 19 s
 			</td>
 			<td>
 				102.0 kWh
@@ -1458,7 +1458,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				80 kW
 			</td>
 			<td>
-				 36 m 29 s
+				 37 m 16 s
 			</td>
 			<td>
 				103.2 kWh
@@ -1472,7 +1472,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				80 kW
 			</td>
 			<td>
-				 37 m 26 s
+				 38 m 14 s
 			</td>
 			<td>
 				104.4 kWh
@@ -1486,7 +1486,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				79 kW
 			</td>
 			<td>
-				 38 m 23 s
+				 39 m 13 s
 			</td>
 			<td>
 				105.6 kWh
@@ -1500,7 +1500,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				77 kW
 			</td>
 			<td>
-				 39 m 22 s
+				 40 m 12 s
 			</td>
 			<td>
 				106.8 kWh
@@ -1514,7 +1514,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				77 kW
 			</td>
 			<td>
-				 40 m 21 s
+				 41 m 13 s
 			</td>
 			<td>
 				108.0 kWh
@@ -1528,7 +1528,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				74 kW
 			</td>
 			<td>
-				 41 m 21 s
+				 42 m 14 s
 			</td>
 			<td>
 				109.2 kWh
@@ -1542,7 +1542,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				67 kW
 			</td>
 			<td>
-				 42 m 25 s
+				 43 m 20 s
 			</td>
 			<td>
 				110.4 kWh
@@ -1556,7 +1556,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				58 kW
 			</td>
 			<td>
-				 43 m 38 s
+				 44 m 34 s
 			</td>
 			<td>
 				111.6 kWh
@@ -1570,7 +1570,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				48 kW
 			</td>
 			<td>
-				 45 m 4 s
+				 46 m 2 s
 			</td>
 			<td>
 				112.8 kWh
@@ -1584,7 +1584,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				38 kW
 			</td>
 			<td>
-				 46 m 50 s
+				 47 m 50 s
 			</td>
 			<td>
 				114.0 kWh
@@ -1598,7 +1598,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				29 kW
 			</td>
 			<td>
-				 49 m 5 s
+				 50 m 9 s
 			</td>
 			<td>
 				115.2 kWh
@@ -1612,7 +1612,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				22 kW
 			</td>
 			<td>
-				 52 m 4 s
+				 53 m 11 s
 			</td>
 			<td>
 				116.4 kWh
@@ -1626,7 +1626,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				16 kW
 			</td>
 			<td>
-				 56 m 3 s
+				 57 m 15 s
 			</td>
 			<td>
 				117.6 kWh
@@ -1640,7 +1640,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				9 kW
 			</td>
 			<td>
-				1 h 2 m 7 s
+				1 h 3 m 27 s
 			</td>
 			<td>
 				118.8 kWh
@@ -1654,7 +1654,7 @@ Lucid Gravity Dream Edition have battery heating, making charging at an optimum 
 				4 kW
 			</td>
 			<td>
-				1 h 13 m 46 s
+				1 h 15 m 22 s
 			</td>
 			<td>
 				120.0 kWh

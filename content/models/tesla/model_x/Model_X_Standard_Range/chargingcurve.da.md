@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Standard Range opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Tesla Model X Standard Range."
+description: "Nedan är laddningskurvan för Tesla Model X Standard Range, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				72,4 kW
+				70,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				70,5 kW
+				69,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				109,0 kW
+				106,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				131,8 kW
+				129,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				132,1kW
+				130,2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				15m20s
+				16m33s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				1 h 2 m 8 s
+				1 h 3 m 29 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 57 m 28 s
+				 58 m 43 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 23 m 54 s
+				 24 m 25 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 			<td>
-				5,0 km (3,1 mi)
+				4,9 km (3,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,5 km (5,3 mi)
+				8,3 km (5,2 mi)
 			</td>
 			<td>
-				5,7 km (3,5 mi)
+				5,6 km (3,5 mi)
 			</td>
 			<td>
-				4,9 km (3,0 mi)
+				4,8 km (3,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				15,9 km (9,9 mi)
+				15,6 km (9,7 mi)
 			</td>
 			<td>
-				10,7 km (6,7 mi)
+				10,5 km (6,5 mi)
 			</td>
 			<td>
-				9,1 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Tesla Model X Standard Range har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -268,7 +268,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				52 kW
 			</td>
 			<td>
-				 1 m 8 s
+				 1 m 10 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				75 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 56 s
 			</td>
 			<td>
 				1,5 kWh
@@ -296,7 +296,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				97 kW
 			</td>
 			<td>
-				 2 m 26 s
+				 2 m 29 s
 			</td>
 			<td>
 				2,2 kWh
@@ -310,7 +310,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				120 kW
 			</td>
 			<td>
-				 2 m 52 s
+				 2 m 56 s
 			</td>
 			<td>
 				3,0 kWh
@@ -324,7 +324,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				142 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 18 s
 			</td>
 			<td>
 				3,8 kWh
@@ -338,7 +338,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				147 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 38 s
 			</td>
 			<td>
 				4,5 kWh
@@ -352,7 +352,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				152 kW
 			</td>
 			<td>
-				 3 m 53 s
+				 3 m 58 s
 			</td>
 			<td>
 				5,2 kWh
@@ -366,7 +366,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				158 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 17 s
 			</td>
 			<td>
 				6,0 kWh
@@ -380,7 +380,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				204 kW
 			</td>
 			<td>
-				 4 m 27 s
+				 4 m 33 s
 			</td>
 			<td>
 				6,8 kWh
@@ -394,7 +394,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 4 m 39 s
+				 4 m 45 s
 			</td>
 			<td>
 				7,5 kWh
@@ -408,7 +408,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 57 s
 			</td>
 			<td>
 				8,2 kWh
@@ -422,7 +422,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 5 m 2 s
+				 5 m 9 s
 			</td>
 			<td>
 				9,0 kWh
@@ -436,7 +436,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 5 m 14 s
+				 5 m 20 s
 			</td>
 			<td>
 				9,8 kWh
@@ -450,7 +450,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				10,5 kWh
@@ -464,7 +464,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 43 s
 			</td>
 			<td>
 				11,2 kWh
@@ -478,7 +478,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 55 s
 			</td>
 			<td>
 				12,0 kWh
@@ -492,7 +492,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 5 m 59 s
+				 6 m 7 s
 			</td>
 			<td>
 				12,8 kWh
@@ -506,7 +506,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 6 m 10 s
+				 6 m 18 s
 			</td>
 			<td>
 				13,5 kWh
@@ -520,7 +520,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 6 m 22 s
+				 6 m 30 s
 			</td>
 			<td>
 				14,2 kWh
@@ -534,7 +534,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 6 m 33 s
+				 6 m 42 s
 			</td>
 			<td>
 				15,0 kWh
@@ -548,7 +548,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 6 m 53 s
 			</td>
 			<td>
 				15,8 kWh
@@ -562,7 +562,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				16,5 kWh
@@ -576,7 +576,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 7 m 7 s
+				 7 m 16 s
 			</td>
 			<td>
 				17,2 kWh
@@ -590,7 +590,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 7 m 19 s
+				 7 m 28 s
 			</td>
 			<td>
 				18,0 kWh
@@ -604,7 +604,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 7 m 30 s
+				 7 m 40 s
 			</td>
 			<td>
 				18,8 kWh
@@ -618,7 +618,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 7 m 41 s
+				 7 m 51 s
 			</td>
 			<td>
 				19,5 kWh
@@ -632,7 +632,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 7 m 53 s
+				 8 m 3 s
 			</td>
 			<td>
 				20,2 kWh
@@ -646,7 +646,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 8 m 4 s
+				 8 m 14 s
 			</td>
 			<td>
 				21,0 kWh
@@ -660,7 +660,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				21,8 kWh
@@ -674,7 +674,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 8 m 27 s
+				 8 m 38 s
 			</td>
 			<td>
 				22,5 kWh
@@ -688,7 +688,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 8 m 38 s
+				 8 m 49 s
 			</td>
 			<td>
 				23,2 kWh
@@ -702,7 +702,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 8 m 50 s
+				 9 m 1 s
 			</td>
 			<td>
 				24,0 kWh
@@ -716,7 +716,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				250 kW
 			</td>
 			<td>
-				 9 m 1 s
+				 9 m 13 s
 			</td>
 			<td>
 				24,8 kWh
@@ -730,7 +730,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				235 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 9 m 24 s
 			</td>
 			<td>
 				25,5 kWh
@@ -744,7 +744,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				220 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 37 s
 			</td>
 			<td>
 				26,2 kWh
@@ -758,7 +758,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				213 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 9 m 51 s
 			</td>
 			<td>
 				27,0 kWh
@@ -772,7 +772,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				205 kW
 			</td>
 			<td>
-				 9 m 52 s
+				 10 m 5 s
 			</td>
 			<td>
 				27,8 kWh
@@ -786,7 +786,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				198 kW
 			</td>
 			<td>
-				 10 m 6 s
+				 10 m 19 s
 			</td>
 			<td>
 				28,5 kWh
@@ -800,7 +800,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				190 kW
 			</td>
 			<td>
-				 10 m 21 s
+				 10 m 34 s
 			</td>
 			<td>
 				29,2 kWh
@@ -814,7 +814,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				183 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 50 s
 			</td>
 			<td>
 				30,0 kWh
@@ -828,7 +828,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				178 kW
 			</td>
 			<td>
-				 10 m 52 s
+				 11 m 6 s
 			</td>
 			<td>
 				30,8 kWh
@@ -842,7 +842,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				174 kW
 			</td>
 			<td>
-				 11 m 8 s
+				 11 m 22 s
 			</td>
 			<td>
 				31,5 kWh
@@ -856,7 +856,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				169 kW
 			</td>
 			<td>
-				 11 m 24 s
+				 11 m 39 s
 			</td>
 			<td>
 				32,2 kWh
@@ -870,7 +870,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				165 kW
 			</td>
 			<td>
-				 11 m 41 s
+				 11 m 56 s
 			</td>
 			<td>
 				33,0 kWh
@@ -884,7 +884,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				160 kW
 			</td>
 			<td>
-				 11 m 59 s
+				 12 m 14 s
 			</td>
 			<td>
 				33,8 kWh
@@ -898,7 +898,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				156 kW
 			</td>
 			<td>
-				 12 m 17 s
+				 12 m 33 s
 			</td>
 			<td>
 				34,5 kWh
@@ -912,7 +912,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				152 kW
 			</td>
 			<td>
-				 12 m 35 s
+				 12 m 52 s
 			</td>
 			<td>
 				35,2 kWh
@@ -926,7 +926,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				148 kW
 			</td>
 			<td>
-				 12 m 54 s
+				 13 m 11 s
 			</td>
 			<td>
 				36,0 kWh
@@ -940,7 +940,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				144 kW
 			</td>
 			<td>
-				 13 m 14 s
+				 13 m 31 s
 			</td>
 			<td>
 				36,8 kWh
@@ -954,7 +954,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				140 kW
 			</td>
 			<td>
-				 13 m 34 s
+				 13 m 51 s
 			</td>
 			<td>
 				37,5 kWh
@@ -968,7 +968,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				137 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 12 s
 			</td>
 			<td>
 				38,2 kWh
@@ -982,7 +982,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				134 kW
 			</td>
 			<td>
-				 14 m 15 s
+				 14 m 34 s
 			</td>
 			<td>
 				39,0 kWh
@@ -996,7 +996,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				131 kW
 			</td>
 			<td>
-				 14 m 37 s
+				 14 m 55 s
 			</td>
 			<td>
 				39,8 kWh
@@ -1010,7 +1010,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				128 kW
 			</td>
 			<td>
-				 14 m 59 s
+				 15 m 18 s
 			</td>
 			<td>
 				40,5 kWh
@@ -1024,7 +1024,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				125 kW
 			</td>
 			<td>
-				 15 m 21 s
+				 15 m 41 s
 			</td>
 			<td>
 				41,2 kWh
@@ -1038,7 +1038,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				122 kW
 			</td>
 			<td>
-				 15 m 44 s
+				 16 m 4 s
 			</td>
 			<td>
 				42,0 kWh
@@ -1052,7 +1052,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				120 kW
 			</td>
 			<td>
-				 16 m 7 s
+				 16 m 28 s
 			</td>
 			<td>
 				42,8 kWh
@@ -1066,7 +1066,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				117 kW
 			</td>
 			<td>
-				 16 m 31 s
+				 16 m 53 s
 			</td>
 			<td>
 				43,5 kWh
@@ -1080,7 +1080,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				115 kW
 			</td>
 			<td>
-				 16 m 56 s
+				 17 m 18 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1094,7 +1094,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				112 kW
 			</td>
 			<td>
-				 17 m 21 s
+				 17 m 43 s
 			</td>
 			<td>
 				45,0 kWh
@@ -1108,7 +1108,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				110 kW
 			</td>
 			<td>
-				 17 m 47 s
+				 18 m 10 s
 			</td>
 			<td>
 				45,8 kWh
@@ -1122,7 +1122,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				107 kW
 			</td>
 			<td>
-				 18 m 13 s
+				 18 m 36 s
 			</td>
 			<td>
 				46,5 kWh
@@ -1136,7 +1136,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				105 kW
 			</td>
 			<td>
-				 18 m 40 s
+				 19 m 4 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1150,7 +1150,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				102 kW
 			</td>
 			<td>
-				 19 m 7 s
+				 19 m 32 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1164,7 +1164,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				100 kW
 			</td>
 			<td>
-				 19 m 35 s
+				 20 m 1 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1178,7 +1178,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				97 kW
 			</td>
 			<td>
-				 20 m 4 s
+				 20 m 30 s
 			</td>
 			<td>
 				49,5 kWh
@@ -1192,7 +1192,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				95 kW
 			</td>
 			<td>
-				 20 m 34 s
+				 21 m 0 s
 			</td>
 			<td>
 				50,2 kWh
@@ -1206,7 +1206,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				92 kW
 			</td>
 			<td>
-				 21 m 4 s
+				 21 m 31 s
 			</td>
 			<td>
 				51,0 kWh
@@ -1220,7 +1220,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				90 kW
 			</td>
 			<td>
-				 21 m 35 s
+				 22 m 3 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1234,7 +1234,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				87 kW
 			</td>
 			<td>
-				 22 m 8 s
+				 22 m 36 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1248,7 +1248,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				84 kW
 			</td>
 			<td>
-				 22 m 41 s
+				 23 m 10 s
 			</td>
 			<td>
 				53,2 kWh
@@ -1262,7 +1262,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				82 kW
 			</td>
 			<td>
-				 23 m 15 s
+				 23 m 45 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1276,7 +1276,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				79 kW
 			</td>
 			<td>
-				 23 m 50 s
+				 24 m 21 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1290,7 +1290,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				77 kW
 			</td>
 			<td>
-				 24 m 27 s
+				 24 m 58 s
 			</td>
 			<td>
 				55,5 kWh
@@ -1304,7 +1304,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				74 kW
 			</td>
 			<td>
-				 25 m 4 s
+				 25 m 37 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1318,7 +1318,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				72 kW
 			</td>
 			<td>
-				 25 m 43 s
+				 26 m 17 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1332,7 +1332,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				69 kW
 			</td>
 			<td>
-				 26 m 24 s
+				 26 m 58 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1346,7 +1346,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				67 kW
 			</td>
 			<td>
-				 27 m 6 s
+				 27 m 41 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1360,7 +1360,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				64 kW
 			</td>
 			<td>
-				 27 m 49 s
+				 28 m 25 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1374,7 +1374,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				62 kW
 			</td>
 			<td>
-				 28 m 34 s
+				 29 m 11 s
 			</td>
 			<td>
 				60,0 kWh
@@ -1388,7 +1388,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				60 kW
 			</td>
 			<td>
-				 29 m 20 s
+				 29 m 58 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1402,7 +1402,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				59 kW
 			</td>
 			<td>
-				 30 m 8 s
+				 30 m 47 s
 			</td>
 			<td>
 				61,5 kWh
@@ -1416,7 +1416,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				57 kW
 			</td>
 			<td>
-				 30 m 57 s
+				 31 m 37 s
 			</td>
 			<td>
 				62,2 kWh
@@ -1430,7 +1430,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				56 kW
 			</td>
 			<td>
-				 31 m 47 s
+				 32 m 28 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1444,7 +1444,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				54 kW
 			</td>
 			<td>
-				 32 m 39 s
+				 33 m 21 s
 			</td>
 			<td>
 				63,8 kWh
@@ -1458,7 +1458,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				51 kW
 			</td>
 			<td>
-				 33 m 33 s
+				 34 m 17 s
 			</td>
 			<td>
 				64,5 kWh
@@ -1472,7 +1472,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				49 kW
 			</td>
 			<td>
-				 34 m 30 s
+				 35 m 14 s
 			</td>
 			<td>
 				65,2 kWh
@@ -1486,7 +1486,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				46 kW
 			</td>
 			<td>
-				 35 m 30 s
+				 36 m 16 s
 			</td>
 			<td>
 				66,0 kWh
@@ -1500,7 +1500,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				44 kW
 			</td>
 			<td>
-				 36 m 33 s
+				 37 m 20 s
 			</td>
 			<td>
 				66,8 kWh
@@ -1514,7 +1514,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				41 kW
 			</td>
 			<td>
-				 37 m 40 s
+				 38 m 29 s
 			</td>
 			<td>
 				67,5 kWh
@@ -1528,7 +1528,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				37 kW
 			</td>
 			<td>
-				 38 m 53 s
+				 39 m 44 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1542,7 +1542,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				33 kW
 			</td>
 			<td>
-				 40 m 15 s
+				 41 m 7 s
 			</td>
 			<td>
 				69,0 kWh
@@ -1556,7 +1556,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				28 kW
 			</td>
 			<td>
-				 41 m 48 s
+				 42 m 42 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1570,7 +1570,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				24 kW
 			</td>
 			<td>
-				 43 m 36 s
+				 44 m 33 s
 			</td>
 			<td>
 				70,5 kWh
@@ -1584,7 +1584,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				20 kW
 			</td>
 			<td>
-				 45 m 45 s
+				 46 m 44 s
 			</td>
 			<td>
 				71,2 kWh
@@ -1598,7 +1598,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				18 kW
 			</td>
 			<td>
-				 48 m 15 s
+				 49 m 17 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1612,7 +1612,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				16 kW
 			</td>
 			<td>
-				 51 m 2 s
+				 52 m 8 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1626,7 +1626,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				14 kW
 			</td>
 			<td>
-				 54 m 11 s
+				 55 m 21 s
 			</td>
 			<td>
 				73,5 kWh
@@ -1640,7 +1640,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				12 kW
 			</td>
 			<td>
-				 57 m 50 s
+				 59 m 5 s
 			</td>
 			<td>
 				74,2 kWh
@@ -1654,7 +1654,7 @@ Tesla Model X Standard Range har batteriopvarmning, hvilket gør opladning ved e
 				10 kW
 			</td>
 			<td>
-				1 h 2 m 8 s
+				1 h 3 m 29 s
 			</td>
 			<td>
 				75,0 kWh

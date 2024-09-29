@@ -1,7 +1,7 @@
 ---
 title: XPENG P7 AWD Performance curva de carga y rendimiento
 linktitle: "Curva de carga"
-description: "Aquí encontrarás la curva de carga para XPENG P7 AWD Performance."
+description: "A continuación se muestra la curva de carga para XPENG P7 AWD Performance, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				99,3 kW
+				97,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				93,6 kW
+				91,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				125,7 kW
+				123,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				149,9 kW
+				146,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				1% - 53%
+				1% - 52%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				148,7kW
+				146,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				17m21s
+				17m16s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				 49 m 59 s
+				 51 m 3 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				 47 m 43 s
+				 48 m 44 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 23 m 10 s
+				 23 m 40 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,1 km (6,3 mi)
+				9,9 km (6,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				9,3 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,5 km (3,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				15,3 km (9,5 mi)
+				14,9 km (9,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,9 km (5,5 mi)
+				8,7 km (5,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				150 kW
 			</td>
 			<td>
-				 0 m 31 s
+				 0 m 32 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				225 kW
 			</td>
 			<td>
-				 0 m 48 s
+				 0 m 49 s
 			</td>
 			<td>
 				1,7 kWh
@@ -296,7 +296,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				300 kW
 			</td>
 			<td>
-				 0 m 59 s
+				 1 m 1 s
 			</td>
 			<td>
 				2,5 kWh
@@ -310,7 +310,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				297 kW
 			</td>
 			<td>
-				 1 m 10 s
+				 1 m 12 s
 			</td>
 			<td>
 				3,3 kWh
@@ -324,7 +324,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				294 kW
 			</td>
 			<td>
-				 1 m 21 s
+				 1 m 22 s
 			</td>
 			<td>
 				4,1 kWh
@@ -338,7 +338,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				291 kW
 			</td>
 			<td>
-				 1 m 31 s
+				 1 m 33 s
 			</td>
 			<td>
 				5,0 kWh
@@ -352,7 +352,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				288 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 1 m 44 s
 			</td>
 			<td>
 				5,8 kWh
@@ -366,7 +366,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				286 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 55 s
 			</td>
 			<td>
 				6,6 kWh
@@ -380,7 +380,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				283 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 2 m 7 s
 			</td>
 			<td>
 				7,4 kWh
@@ -394,7 +394,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				280 kW
 			</td>
 			<td>
-				 2 m 15 s
+				 2 m 18 s
 			</td>
 			<td>
 				8,3 kWh
@@ -408,7 +408,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				277 kW
 			</td>
 			<td>
-				 2 m 26 s
+				 2 m 30 s
 			</td>
 			<td>
 				9,1 kWh
@@ -422,7 +422,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				274 kW
 			</td>
 			<td>
-				 2 m 38 s
+				 2 m 41 s
 			</td>
 			<td>
 				9,9 kWh
@@ -436,7 +436,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				271 kW
 			</td>
 			<td>
-				 2 m 49 s
+				 2 m 53 s
 			</td>
 			<td>
 				10,8 kWh
@@ -450,7 +450,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				268 kW
 			</td>
 			<td>
-				 3 m 1 s
+				 3 m 5 s
 			</td>
 			<td>
 				11,6 kWh
@@ -464,7 +464,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				265 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 17 s
 			</td>
 			<td>
 				12,4 kWh
@@ -478,7 +478,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				262 kW
 			</td>
 			<td>
-				 3 m 25 s
+				 3 m 29 s
 			</td>
 			<td>
 				13,2 kWh
@@ -492,7 +492,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				260 kW
 			</td>
 			<td>
-				 3 m 37 s
+				 3 m 41 s
 			</td>
 			<td>
 				14,1 kWh
@@ -506,7 +506,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				257 kW
 			</td>
 			<td>
-				 3 m 49 s
+				 3 m 54 s
 			</td>
 			<td>
 				14,9 kWh
@@ -520,7 +520,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				254 kW
 			</td>
 			<td>
-				 4 m 1 s
+				 4 m 6 s
 			</td>
 			<td>
 				15,7 kWh
@@ -534,7 +534,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				251 kW
 			</td>
 			<td>
-				 4 m 13 s
+				 4 m 19 s
 			</td>
 			<td>
 				16,5 kWh
@@ -548,7 +548,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				248 kW
 			</td>
 			<td>
-				 4 m 26 s
+				 4 m 32 s
 			</td>
 			<td>
 				17,4 kWh
@@ -562,7 +562,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				245 kW
 			</td>
 			<td>
-				 4 m 39 s
+				 4 m 45 s
 			</td>
 			<td>
 				18,2 kWh
@@ -576,7 +576,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				242 kW
 			</td>
 			<td>
-				 4 m 52 s
+				 4 m 58 s
 			</td>
 			<td>
 				19,0 kWh
@@ -590,7 +590,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				239 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 11 s
 			</td>
 			<td>
 				19,8 kWh
@@ -604,7 +604,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				236 kW
 			</td>
 			<td>
-				 5 m 18 s
+				 5 m 25 s
 			</td>
 			<td>
 				20,7 kWh
@@ -618,7 +618,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				234 kW
 			</td>
 			<td>
-				 5 m 31 s
+				 5 m 38 s
 			</td>
 			<td>
 				21,5 kWh
@@ -632,7 +632,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				231 kW
 			</td>
 			<td>
-				 5 m 45 s
+				 5 m 52 s
 			</td>
 			<td>
 				22,3 kWh
@@ -646,7 +646,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				228 kW
 			</td>
 			<td>
-				 5 m 58 s
+				 6 m 6 s
 			</td>
 			<td>
 				23,2 kWh
@@ -660,7 +660,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				225 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 20 s
 			</td>
 			<td>
 				24,0 kWh
@@ -674,7 +674,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				222 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 6 m 34 s
 			</td>
 			<td>
 				24,8 kWh
@@ -688,7 +688,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				219 kW
 			</td>
 			<td>
-				 6 m 40 s
+				 6 m 49 s
 			</td>
 			<td>
 				25,6 kWh
@@ -702,7 +702,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				216 kW
 			</td>
 			<td>
-				 6 m 55 s
+				 7 m 4 s
 			</td>
 			<td>
 				26,5 kWh
@@ -716,7 +716,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				213 kW
 			</td>
 			<td>
-				 7 m 9 s
+				 7 m 19 s
 			</td>
 			<td>
 				27,3 kWh
@@ -730,7 +730,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				211 kW
 			</td>
 			<td>
-				 7 m 24 s
+				 7 m 34 s
 			</td>
 			<td>
 				28,1 kWh
@@ -744,7 +744,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				208 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 49 s
 			</td>
 			<td>
 				28,9 kWh
@@ -758,7 +758,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				205 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 8 m 4 s
 			</td>
 			<td>
 				29,8 kWh
@@ -772,7 +772,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				202 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 8 m 20 s
 			</td>
 			<td>
 				30,6 kWh
@@ -786,7 +786,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				199 kW
 			</td>
 			<td>
-				 8 m 25 s
+				 8 m 36 s
 			</td>
 			<td>
 				31,4 kWh
@@ -800,7 +800,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				196 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				32,3 kWh
@@ -814,7 +814,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				193 kW
 			</td>
 			<td>
-				 8 m 57 s
+				 9 m 9 s
 			</td>
 			<td>
 				33,1 kWh
@@ -828,7 +828,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				190 kW
 			</td>
 			<td>
-				 9 m 14 s
+				 9 m 26 s
 			</td>
 			<td>
 				33,9 kWh
@@ -842,7 +842,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				187 kW
 			</td>
 			<td>
-				 9 m 30 s
+				 9 m 42 s
 			</td>
 			<td>
 				34,7 kWh
@@ -856,7 +856,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				185 kW
 			</td>
 			<td>
-				 9 m 47 s
+				 10 m 0 s
 			</td>
 			<td>
 				35,6 kWh
@@ -870,7 +870,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				182 kW
 			</td>
 			<td>
-				 10 m 4 s
+				 10 m 17 s
 			</td>
 			<td>
 				36,4 kWh
@@ -884,7 +884,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				179 kW
 			</td>
 			<td>
-				 10 m 22 s
+				 10 m 35 s
 			</td>
 			<td>
 				37,2 kWh
@@ -898,7 +898,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				176 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 10 m 53 s
 			</td>
 			<td>
 				38,0 kWh
@@ -912,7 +912,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				173 kW
 			</td>
 			<td>
-				 10 m 57 s
+				 11 m 11 s
 			</td>
 			<td>
 				38,9 kWh
@@ -926,7 +926,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				170 kW
 			</td>
 			<td>
-				 11 m 15 s
+				 11 m 30 s
 			</td>
 			<td>
 				39,7 kWh
@@ -940,7 +940,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				167 kW
 			</td>
 			<td>
-				 11 m 34 s
+				 11 m 49 s
 			</td>
 			<td>
 				40,5 kWh
@@ -954,7 +954,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				164 kW
 			</td>
 			<td>
-				 11 m 53 s
+				 12 m 8 s
 			</td>
 			<td>
 				41,4 kWh
@@ -968,7 +968,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				161 kW
 			</td>
 			<td>
-				 12 m 12 s
+				 12 m 28 s
 			</td>
 			<td>
 				42,2 kWh
@@ -982,7 +982,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				159 kW
 			</td>
 			<td>
-				 12 m 32 s
+				 12 m 48 s
 			</td>
 			<td>
 				43,0 kWh
@@ -996,7 +996,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				156 kW
 			</td>
 			<td>
-				 12 m 52 s
+				 13 m 8 s
 			</td>
 			<td>
 				43,8 kWh
@@ -1010,7 +1010,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				153 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1024,7 +1024,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				150 kW
 			</td>
 			<td>
-				 13 m 33 s
+				 13 m 50 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1038,7 +1038,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				147 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 14 m 12 s
 			</td>
 			<td>
 				46,3 kWh
@@ -1052,7 +1052,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				144 kW
 			</td>
 			<td>
-				 14 m 15 s
+				 14 m 34 s
 			</td>
 			<td>
 				47,1 kWh
@@ -1066,7 +1066,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				141 kW
 			</td>
 			<td>
-				 14 m 37 s
+				 14 m 56 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1080,7 +1080,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				138 kW
 			</td>
 			<td>
-				 15 m 0 s
+				 15 m 19 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1094,7 +1094,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				135 kW
 			</td>
 			<td>
-				 15 m 23 s
+				 15 m 43 s
 			</td>
 			<td>
 				49,6 kWh
@@ -1108,7 +1108,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				133 kW
 			</td>
 			<td>
-				 15 m 46 s
+				 16 m 6 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1122,7 +1122,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				130 kW
 			</td>
 			<td>
-				 16 m 10 s
+				 16 m 31 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1136,7 +1136,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				127 kW
 			</td>
 			<td>
-				 16 m 34 s
+				 16 m 56 s
 			</td>
 			<td>
 				52,1 kWh
@@ -1150,7 +1150,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				124 kW
 			</td>
 			<td>
-				 16 m 59 s
+				 17 m 21 s
 			</td>
 			<td>
 				52,9 kWh
@@ -1164,7 +1164,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				121 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 17 m 47 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1178,7 +1178,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				118 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 18 m 14 s
 			</td>
 			<td>
 				54,6 kWh
@@ -1192,7 +1192,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				115 kW
 			</td>
 			<td>
-				 18 m 18 s
+				 18 m 42 s
 			</td>
 			<td>
 				55,4 kWh
@@ -1206,7 +1206,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				112 kW
 			</td>
 			<td>
-				 18 m 46 s
+				 19 m 10 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1220,7 +1220,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				109 kW
 			</td>
 			<td>
-				 19 m 14 s
+				 19 m 39 s
 			</td>
 			<td>
 				57,1 kWh
@@ -1234,7 +1234,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				107 kW
 			</td>
 			<td>
-				 19 m 43 s
+				 20 m 8 s
 			</td>
 			<td>
 				57,9 kWh
@@ -1248,7 +1248,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				104 kW
 			</td>
 			<td>
-				 20 m 13 s
+				 20 m 39 s
 			</td>
 			<td>
 				58,7 kWh
@@ -1262,7 +1262,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				101 kW
 			</td>
 			<td>
-				 20 m 43 s
+				 21 m 10 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1276,7 +1276,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				98 kW
 			</td>
 			<td>
-				 21 m 15 s
+				 21 m 42 s
 			</td>
 			<td>
 				60,4 kWh
@@ -1290,7 +1290,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				95 kW
 			</td>
 			<td>
-				 21 m 47 s
+				 22 m 15 s
 			</td>
 			<td>
 				61,2 kWh
@@ -1304,7 +1304,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				92 kW
 			</td>
 			<td>
-				 22 m 21 s
+				 22 m 50 s
 			</td>
 			<td>
 				62,0 kWh
@@ -1318,7 +1318,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				89 kW
 			</td>
 			<td>
-				 22 m 55 s
+				 23 m 25 s
 			</td>
 			<td>
 				62,9 kWh
@@ -1332,7 +1332,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				86 kW
 			</td>
 			<td>
-				 23 m 31 s
+				 24 m 1 s
 			</td>
 			<td>
 				63,7 kWh
@@ -1346,7 +1346,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				84 kW
 			</td>
 			<td>
-				 24 m 8 s
+				 24 m 39 s
 			</td>
 			<td>
 				64,5 kWh
@@ -1360,7 +1360,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				81 kW
 			</td>
 			<td>
-				 24 m 46 s
+				 25 m 18 s
 			</td>
 			<td>
 				65,3 kWh
@@ -1374,7 +1374,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				78 kW
 			</td>
 			<td>
-				 25 m 26 s
+				 25 m 58 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1388,7 +1388,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				75 kW
 			</td>
 			<td>
-				 26 m 7 s
+				 26 m 40 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1402,7 +1402,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				72 kW
 			</td>
 			<td>
-				 26 m 49 s
+				 27 m 24 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1416,7 +1416,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				69 kW
 			</td>
 			<td>
-				 27 m 34 s
+				 28 m 9 s
 			</td>
 			<td>
 				68,6 kWh
@@ -1430,7 +1430,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				66 kW
 			</td>
 			<td>
-				 28 m 20 s
+				 28 m 57 s
 			</td>
 			<td>
 				69,5 kWh
@@ -1444,7 +1444,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				63 kW
 			</td>
 			<td>
-				 29 m 9 s
+				 29 m 46 s
 			</td>
 			<td>
 				70,3 kWh
@@ -1458,7 +1458,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				60 kW
 			</td>
 			<td>
-				 29 m 59 s
+				 30 m 38 s
 			</td>
 			<td>
 				71,1 kWh
@@ -1472,7 +1472,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				58 kW
 			</td>
 			<td>
-				 30 m 52 s
+				 31 m 32 s
 			</td>
 			<td>
 				71,9 kWh
@@ -1486,7 +1486,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				55 kW
 			</td>
 			<td>
-				 31 m 48 s
+				 32 m 29 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1500,7 +1500,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				52 kW
 			</td>
 			<td>
-				 32 m 47 s
+				 33 m 30 s
 			</td>
 			<td>
 				73,6 kWh
@@ -1514,7 +1514,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				49 kW
 			</td>
 			<td>
-				 33 m 50 s
+				 34 m 33 s
 			</td>
 			<td>
 				74,4 kWh
@@ -1528,7 +1528,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				46 kW
 			</td>
 			<td>
-				 34 m 56 s
+				 35 m 41 s
 			</td>
 			<td>
 				75,3 kWh
@@ -1542,7 +1542,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				43 kW
 			</td>
 			<td>
-				 36 m 6 s
+				 36 m 53 s
 			</td>
 			<td>
 				76,1 kWh
@@ -1556,7 +1556,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				40 kW
 			</td>
 			<td>
-				 37 m 21 s
+				 38 m 9 s
 			</td>
 			<td>
 				76,9 kWh
@@ -1570,7 +1570,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				37 kW
 			</td>
 			<td>
-				 38 m 42 s
+				 39 m 32 s
 			</td>
 			<td>
 				77,7 kWh
@@ -1584,7 +1584,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				34 kW
 			</td>
 			<td>
-				 40 m 9 s
+				 41 m 1 s
 			</td>
 			<td>
 				78,6 kWh
@@ -1598,7 +1598,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				32 kW
 			</td>
 			<td>
-				 41 m 44 s
+				 42 m 38 s
 			</td>
 			<td>
 				79,4 kWh
@@ -1612,7 +1612,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				29 kW
 			</td>
 			<td>
-				 43 m 29 s
+				 44 m 25 s
 			</td>
 			<td>
 				80,2 kWh
@@ -1626,7 +1626,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				26 kW
 			</td>
 			<td>
-				 45 m 24 s
+				 46 m 22 s
 			</td>
 			<td>
 				81,0 kWh
@@ -1640,7 +1640,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				23 kW
 			</td>
 			<td>
-				 47 m 32 s
+				 48 m 34 s
 			</td>
 			<td>
 				81,9 kWh
@@ -1654,7 +1654,7 @@ XPENG P7 AWD Performance tiene calefacción de batería, lo que facilita la carg
 				20 kW
 			</td>
 			<td>
-				 49 m 59 s
+				 51 m 3 s
 			</td>
 			<td>
 				82,7 kWh

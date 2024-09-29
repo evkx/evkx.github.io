@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 94,3 kWh y una capaci
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 830 km (516 millas). El consumo es de 11,1kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 116kW. Cada sesión de carga tardaría 32 minutos y 24 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 114kW. Cada sesión de carga tardaría 33 minutos y 59 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 16 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 2% al 76%, con un tiempo total de carga de 35 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 16 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 56 minutos. Este viaje requeriría dos paradas de carga del 2% al 76%, con un tiempo total de carga de 36 minutos.
 
 ### Cargador a bordo
 

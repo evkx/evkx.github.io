@@ -1,7 +1,7 @@
 ---
 title: Hyundai INSTER Standard Range ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Hyundai INSTER Standard Range."
+description: "Nedenfor er ladekurven for Hyundai INSTER Standard Range, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -32,7 +32,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				43,1 kW
+				42,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -40,7 +40,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				41,6 kW
+				40,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -48,7 +48,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				52,6 kW
+				51,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				64,8 kW
+				63,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -88,7 +88,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				61,5kW
+				60,5kW
 			</td>
 		</tr>
 		<tr>
@@ -96,7 +96,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Optimal ladestopp tid
 			</td>
 			<td>
-				24m58s
+				24m22s
 			</td>
 		</tr>
 	</tbody>
@@ -121,7 +121,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Ladetid 0-100%
 			</td>
 			<td>
-				 54 m 15 s
+				 55 m 25 s
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +129,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Ladetid 10-100%
 			</td>
 			<td>
-				 50 m 35 s
+				 51 m 40 s
 			</td>
 		</tr>
 		<tr>
@@ -137,7 +137,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				Ladetid 10-80%
 			</td>
 			<td>
-				 25 m 17 s
+				 25 m 50 s
 			</td>
 		</tr>
 	</tbody>
@@ -175,7 +175,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				?
 			</td>
 			<td>
-				5,5 km (3,4 mi)
+				5,4 km (3,4 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				?
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				5,2 km (3,2 mi)
 			</td>
 			<td>
 				?
@@ -209,13 +209,13 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,7 km (2,9 mi)
+				4,6 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -285,7 +285,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				58 kW
 			</td>
 			<td>
-				 0 m 54 s
+				 0 m 55 s
 			</td>
 			<td>
 				0,8 kWh
@@ -299,7 +299,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				63 kW
 			</td>
 			<td>
-				 1 m 19 s
+				 1 m 20 s
 			</td>
 			<td>
 				1,2 kWh
@@ -313,7 +313,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				67 kW
 			</td>
 			<td>
-				 1 m 41 s
+				 1 m 44 s
 			</td>
 			<td>
 				1,6 kWh
@@ -327,7 +327,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				71 kW
 			</td>
 			<td>
-				 2 m 3 s
+				 2 m 6 s
 			</td>
 			<td>
 				2,0 kWh
@@ -341,7 +341,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				75 kW
 			</td>
 			<td>
-				 2 m 23 s
+				 2 m 26 s
 			</td>
 			<td>
 				2,3 kWh
@@ -355,7 +355,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				76 kW
 			</td>
 			<td>
-				 2 m 43 s
+				 2 m 46 s
 			</td>
 			<td>
 				2,7 kWh
@@ -369,7 +369,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				78 kW
 			</td>
 			<td>
-				 3 m 2 s
+				 3 m 6 s
 			</td>
 			<td>
 				3,1 kWh
@@ -383,7 +383,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				79 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 25 s
 			</td>
 			<td>
 				3,5 kWh
@@ -397,7 +397,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				80 kW
 			</td>
 			<td>
-				 3 m 40 s
+				 3 m 44 s
 			</td>
 			<td>
 				3,9 kWh
@@ -411,7 +411,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				80 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 3 s
 			</td>
 			<td>
 				4,3 kWh
@@ -425,7 +425,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				80 kW
 			</td>
 			<td>
-				 4 m 16 s
+				 4 m 22 s
 			</td>
 			<td>
 				4,7 kWh
@@ -439,7 +439,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				81 kW
 			</td>
 			<td>
-				 4 m 35 s
+				 4 m 41 s
 			</td>
 			<td>
 				5,1 kWh
@@ -453,7 +453,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				81 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				5,5 kWh
@@ -467,7 +467,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				81 kW
 			</td>
 			<td>
-				 5 m 11 s
+				 5 m 18 s
 			</td>
 			<td>
 				5,8 kWh
@@ -481,7 +481,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				81 kW
 			</td>
 			<td>
-				 5 m 30 s
+				 5 m 37 s
 			</td>
 			<td>
 				6,2 kWh
@@ -495,7 +495,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				81 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 55 s
 			</td>
 			<td>
 				6,6 kWh
@@ -509,7 +509,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				82 kW
 			</td>
 			<td>
-				 6 m 6 s
+				 6 m 14 s
 			</td>
 			<td>
 				7,0 kWh
@@ -523,7 +523,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				82 kW
 			</td>
 			<td>
-				 6 m 24 s
+				 6 m 32 s
 			</td>
 			<td>
 				7,4 kWh
@@ -537,7 +537,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				82 kW
 			</td>
 			<td>
-				 6 m 42 s
+				 6 m 51 s
 			</td>
 			<td>
 				7,8 kWh
@@ -551,7 +551,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				82 kW
 			</td>
 			<td>
-				 7 m 0 s
+				 7 m 9 s
 			</td>
 			<td>
 				8,2 kWh
@@ -565,7 +565,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				82 kW
 			</td>
 			<td>
-				 7 m 18 s
+				 7 m 27 s
 			</td>
 			<td>
 				8,6 kWh
@@ -579,7 +579,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				83 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				9,0 kWh
@@ -593,7 +593,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				83 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 8 m 4 s
 			</td>
 			<td>
 				9,4 kWh
@@ -607,7 +607,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				83 kW
 			</td>
 			<td>
-				 8 m 11 s
+				 8 m 22 s
 			</td>
 			<td>
 				9,8 kWh
@@ -621,7 +621,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				83 kW
 			</td>
 			<td>
-				 8 m 29 s
+				 8 m 40 s
 			</td>
 			<td>
 				10,1 kWh
@@ -635,7 +635,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				84 kW
 			</td>
 			<td>
-				 8 m 47 s
+				 8 m 58 s
 			</td>
 			<td>
 				10,5 kWh
@@ -649,7 +649,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				84 kW
 			</td>
 			<td>
-				 9 m 5 s
+				 9 m 16 s
 			</td>
 			<td>
 				10,9 kWh
@@ -663,7 +663,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				84 kW
 			</td>
 			<td>
-				 9 m 22 s
+				 9 m 34 s
 			</td>
 			<td>
 				11,3 kWh
@@ -677,7 +677,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				84 kW
 			</td>
 			<td>
-				 9 m 40 s
+				 9 m 52 s
 			</td>
 			<td>
 				11,7 kWh
@@ -691,7 +691,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				84 kW
 			</td>
 			<td>
-				 9 m 57 s
+				 10 m 10 s
 			</td>
 			<td>
 				12,1 kWh
@@ -705,7 +705,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 10 m 15 s
+				 10 m 28 s
 			</td>
 			<td>
 				12,5 kWh
@@ -719,7 +719,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 10 m 32 s
+				 10 m 46 s
 			</td>
 			<td>
 				12,9 kWh
@@ -733,7 +733,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 10 m 50 s
+				 11 m 4 s
 			</td>
 			<td>
 				13,3 kWh
@@ -747,7 +747,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 11 m 7 s
+				 11 m 21 s
 			</td>
 			<td>
 				13,6 kWh
@@ -761,7 +761,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 11 m 24 s
+				 11 m 39 s
 			</td>
 			<td>
 				14,0 kWh
@@ -775,7 +775,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 11 m 42 s
+				 11 m 57 s
 			</td>
 			<td>
 				14,4 kWh
@@ -789,7 +789,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 11 m 59 s
+				 12 m 15 s
 			</td>
 			<td>
 				14,8 kWh
@@ -803,7 +803,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 12 m 17 s
+				 12 m 32 s
 			</td>
 			<td>
 				15,2 kWh
@@ -817,7 +817,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 12 m 34 s
+				 12 m 50 s
 			</td>
 			<td>
 				15,6 kWh
@@ -831,7 +831,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 12 m 51 s
+				 13 m 8 s
 			</td>
 			<td>
 				16,0 kWh
@@ -845,7 +845,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 13 m 9 s
+				 13 m 26 s
 			</td>
 			<td>
 				16,4 kWh
@@ -859,7 +859,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 13 m 26 s
+				 13 m 43 s
 			</td>
 			<td>
 				16,8 kWh
@@ -873,7 +873,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 13 m 43 s
+				 14 m 1 s
 			</td>
 			<td>
 				17,2 kWh
@@ -887,7 +887,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 14 m 1 s
+				 14 m 19 s
 			</td>
 			<td>
 				17,6 kWh
@@ -901,7 +901,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 14 m 18 s
+				 14 m 37 s
 			</td>
 			<td>
 				17,9 kWh
@@ -915,7 +915,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				18,3 kWh
@@ -929,7 +929,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 14 m 53 s
+				 15 m 12 s
 			</td>
 			<td>
 				18,7 kWh
@@ -943,7 +943,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 15 m 30 s
 			</td>
 			<td>
 				19,1 kWh
@@ -957,7 +957,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 15 m 28 s
+				 15 m 48 s
 			</td>
 			<td>
 				19,5 kWh
@@ -971,7 +971,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 15 m 45 s
+				 16 m 6 s
 			</td>
 			<td>
 				19,9 kWh
@@ -985,7 +985,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 16 m 3 s
+				 16 m 23 s
 			</td>
 			<td>
 				20,3 kWh
@@ -999,7 +999,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 16 m 20 s
+				 16 m 41 s
 			</td>
 			<td>
 				20,7 kWh
@@ -1013,7 +1013,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 16 m 37 s
+				 16 m 59 s
 			</td>
 			<td>
 				21,1 kWh
@@ -1027,7 +1027,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 16 m 55 s
+				 17 m 17 s
 			</td>
 			<td>
 				21,4 kWh
@@ -1041,7 +1041,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 17 m 12 s
+				 17 m 34 s
 			</td>
 			<td>
 				21,8 kWh
@@ -1055,7 +1055,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 17 m 30 s
+				 17 m 52 s
 			</td>
 			<td>
 				22,2 kWh
@@ -1069,7 +1069,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 17 m 47 s
+				 18 m 10 s
 			</td>
 			<td>
 				22,6 kWh
@@ -1083,7 +1083,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 18 m 4 s
+				 18 m 28 s
 			</td>
 			<td>
 				23,0 kWh
@@ -1097,7 +1097,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 18 m 22 s
+				 18 m 45 s
 			</td>
 			<td>
 				23,4 kWh
@@ -1111,7 +1111,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				85 kW
 			</td>
 			<td>
-				 18 m 39 s
+				 19 m 3 s
 			</td>
 			<td>
 				23,8 kWh
@@ -1125,7 +1125,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				75 kW
 			</td>
 			<td>
-				 18 m 58 s
+				 19 m 22 s
 			</td>
 			<td>
 				24,2 kWh
@@ -1139,7 +1139,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				74 kW
 			</td>
 			<td>
-				 19 m 17 s
+				 19 m 42 s
 			</td>
 			<td>
 				24,6 kWh
@@ -1153,7 +1153,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				73 kW
 			</td>
 			<td>
-				 19 m 37 s
+				 20 m 3 s
 			</td>
 			<td>
 				25,0 kWh
@@ -1167,7 +1167,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				72 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 20 m 24 s
 			</td>
 			<td>
 				25,4 kWh
@@ -1181,7 +1181,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				71 kW
 			</td>
 			<td>
-				 20 m 19 s
+				 20 m 45 s
 			</td>
 			<td>
 				25,7 kWh
@@ -1195,7 +1195,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				70 kW
 			</td>
 			<td>
-				 20 m 40 s
+				 21 m 6 s
 			</td>
 			<td>
 				26,1 kWh
@@ -1209,7 +1209,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				45 kW
 			</td>
 			<td>
-				 21 m 5 s
+				 21 m 32 s
 			</td>
 			<td>
 				26,5 kWh
@@ -1223,7 +1223,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				44 kW
 			</td>
 			<td>
-				 21 m 38 s
+				 22 m 6 s
 			</td>
 			<td>
 				26,9 kWh
@@ -1237,7 +1237,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				44 kW
 			</td>
 			<td>
-				 22 m 12 s
+				 22 m 41 s
 			</td>
 			<td>
 				27,3 kWh
@@ -1251,7 +1251,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				43 kW
 			</td>
 			<td>
-				 22 m 46 s
+				 23 m 16 s
 			</td>
 			<td>
 				27,7 kWh
@@ -1265,7 +1265,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				42 kW
 			</td>
 			<td>
-				 23 m 21 s
+				 23 m 51 s
 			</td>
 			<td>
 				28,1 kWh
@@ -1279,7 +1279,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				41 kW
 			</td>
 			<td>
-				 23 m 56 s
+				 24 m 27 s
 			</td>
 			<td>
 				28,5 kWh
@@ -1293,7 +1293,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				41 kW
 			</td>
 			<td>
-				 24 m 32 s
+				 25 m 4 s
 			</td>
 			<td>
 				28,9 kWh
@@ -1307,7 +1307,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				40 kW
 			</td>
 			<td>
-				 25 m 9 s
+				 25 m 41 s
 			</td>
 			<td>
 				29,2 kWh
@@ -1321,7 +1321,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				33 kW
 			</td>
 			<td>
-				 25 m 49 s
+				 26 m 23 s
 			</td>
 			<td>
 				29,6 kWh
@@ -1335,7 +1335,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				32 kW
 			</td>
 			<td>
-				 26 m 35 s
+				 27 m 9 s
 			</td>
 			<td>
 				30,0 kWh
@@ -1349,7 +1349,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				32 kW
 			</td>
 			<td>
-				 27 m 21 s
+				 27 m 56 s
 			</td>
 			<td>
 				30,4 kWh
@@ -1363,7 +1363,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				31 kW
 			</td>
 			<td>
-				 28 m 9 s
+				 28 m 45 s
 			</td>
 			<td>
 				30,8 kWh
@@ -1377,7 +1377,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				30 kW
 			</td>
 			<td>
-				 28 m 57 s
+				 29 m 35 s
 			</td>
 			<td>
 				31,2 kWh
@@ -1391,7 +1391,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				25 kW
 			</td>
 			<td>
-				 29 m 51 s
+				 30 m 29 s
 			</td>
 			<td>
 				31,6 kWh
@@ -1405,7 +1405,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				25 kW
 			</td>
 			<td>
-				 30 m 50 s
+				 31 m 30 s
 			</td>
 			<td>
 				32,0 kWh
@@ -1419,7 +1419,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				24 kW
 			</td>
 			<td>
-				 31 m 51 s
+				 32 m 32 s
 			</td>
 			<td>
 				32,4 kWh
@@ -1433,7 +1433,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				24 kW
 			</td>
 			<td>
-				 32 m 52 s
+				 33 m 34 s
 			</td>
 			<td>
 				32,8 kWh
@@ -1447,7 +1447,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				24 kW
 			</td>
 			<td>
-				 33 m 53 s
+				 34 m 37 s
 			</td>
 			<td>
 				33,2 kWh
@@ -1461,7 +1461,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				23 kW
 			</td>
 			<td>
-				 34 m 56 s
+				 35 m 41 s
 			</td>
 			<td>
 				33,5 kWh
@@ -1475,7 +1475,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				23 kW
 			</td>
 			<td>
-				 35 m 59 s
+				 36 m 46 s
 			</td>
 			<td>
 				33,9 kWh
@@ -1489,7 +1489,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				23 kW
 			</td>
 			<td>
-				 37 m 4 s
+				 37 m 51 s
 			</td>
 			<td>
 				34,3 kWh
@@ -1503,7 +1503,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				23 kW
 			</td>
 			<td>
-				 38 m 9 s
+				 38 m 58 s
 			</td>
 			<td>
 				34,7 kWh
@@ -1517,7 +1517,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				22 kW
 			</td>
 			<td>
-				 39 m 15 s
+				 40 m 5 s
 			</td>
 			<td>
 				35,1 kWh
@@ -1531,7 +1531,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				22 kW
 			</td>
 			<td>
-				 40 m 22 s
+				 41 m 14 s
 			</td>
 			<td>
 				35,5 kWh
@@ -1545,7 +1545,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				22 kW
 			</td>
 			<td>
-				 41 m 30 s
+				 42 m 23 s
 			</td>
 			<td>
 				35,9 kWh
@@ -1559,7 +1559,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				21 kW
 			</td>
 			<td>
-				 42 m 39 s
+				 43 m 34 s
 			</td>
 			<td>
 				36,3 kWh
@@ -1573,7 +1573,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				21 kW
 			</td>
 			<td>
-				 43 m 48 s
+				 44 m 45 s
 			</td>
 			<td>
 				36,7 kWh
@@ -1587,7 +1587,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				19 kW
 			</td>
 			<td>
-				 45 m 2 s
+				 46 m 0 s
 			</td>
 			<td>
 				37,0 kWh
@@ -1601,7 +1601,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				17 kW
 			</td>
 			<td>
-				 46 m 24 s
+				 47 m 24 s
 			</td>
 			<td>
 				37,4 kWh
@@ -1615,7 +1615,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				16 kW
 			</td>
 			<td>
-				 47 m 54 s
+				 48 m 56 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1629,7 +1629,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				13 kW
 			</td>
 			<td>
-				 49 m 36 s
+				 50 m 40 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1643,7 +1643,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				11 kW
 			</td>
 			<td>
-				 51 m 39 s
+				 52 m 46 s
 			</td>
 			<td>
 				38,6 kWh
@@ -1657,7 +1657,7 @@ Hyundai INSTER Standard Range har batterioppvarming, noe som gjør lading ved en
 				8 kW
 			</td>
 			<td>
-				 54 m 15 s
+				 55 m 25 s
 			</td>
 			<td>
 				39,0 kWh

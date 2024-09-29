@@ -35,9 +35,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 150,0 kWh og en nettoanvend
 [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimerede rækkevidde varierer mellem 320 til 300 miles (515-483 km), afhængigt af bilens konfiguration og muligheder. For eksempel kan større hjul øge energiforbruget og reducere den samlede rækkevidde.
 Energiforbrugsraterne er 2,5 mi/kWh for basismodellen og 2,3 mi/kWh for topmodellen, ifølge EPA standardtest. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 129 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 106kW. Hver opladningssession ville tage 46 minutter og 35 sekunder.
+Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 132 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 50 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 104kW. Hver opladningssession ville tage 46 minutter og 42 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 33 kWh/100 km, ville turen tage cirka 10 timer og 13 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 77%, med en samlet opladningstid på 114 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 33 kWh/100 km, ville turen tage cirka 10 timer og 16 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 77%, med en samlet opladningstid på 116 minutter
 
 ### Ombordlader
 

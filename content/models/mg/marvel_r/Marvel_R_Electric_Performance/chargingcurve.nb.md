@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric Performance ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for MG Marvel R Electric Performance."
+description: "Nedenfor er ladekurven for MG Marvel R Electric Performance, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				36,7 kW
+				35,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				36,3 kW
+				35,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				55,2 kW
+				54,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				68,6 kW
+				67,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				63,4kW
+				62,2kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				35m7s
+				36m46s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				1 h 54 m 28 s
+				1 h 56 m 56 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				1 h 44 m 12 s
+				1 h 46 m 27 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 42 m 51 s
+				 43 m 46 s
 			</td>
 		</tr>
 	</tbody>
@@ -178,7 +178,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				2,5 km (1,6 mi)
+				2,4 km (1,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,2 km (2,0 mi)
+				3,1 km (1,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				2,5 km (1,6 mi)
+				2,4 km (1,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,7 km (2,9 mi)
+				4,6 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				26 kW
 			</td>
 			<td>
-				 1 m 55 s
+				 1 m 58 s
 			</td>
 			<td>
 				0,7 kWh
@@ -282,7 +282,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				32 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 31 s
 			</td>
 			<td>
 				1,4 kWh
@@ -296,7 +296,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				38 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				2,1 kWh
@@ -310,7 +310,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				44 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 56 s
 			</td>
 			<td>
 				2,8 kWh
@@ -324,7 +324,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				50 kW
 			</td>
 			<td>
-				 6 m 46 s
+				 6 m 54 s
 			</td>
 			<td>
 				3,5 kWh
@@ -338,7 +338,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				4,2 kWh
@@ -352,7 +352,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				61 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 32 s
 			</td>
 			<td>
 				4,9 kWh
@@ -366,7 +366,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				67 kW
 			</td>
 			<td>
-				 9 m 3 s
+				 9 m 15 s
 			</td>
 			<td>
 				5,6 kWh
@@ -380,7 +380,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				73 kW
 			</td>
 			<td>
-				 9 m 41 s
+				 9 m 53 s
 			</td>
 			<td>
 				6,3 kWh
@@ -394,7 +394,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				79 kW
 			</td>
 			<td>
-				 10 m 16 s
+				 10 m 29 s
 			</td>
 			<td>
 				7,0 kWh
@@ -408,7 +408,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				79 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 11 m 3 s
 			</td>
 			<td>
 				7,7 kWh
@@ -422,7 +422,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				79 kW
 			</td>
 			<td>
-				 11 m 23 s
+				 11 m 37 s
 			</td>
 			<td>
 				8,4 kWh
@@ -436,7 +436,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				80 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 12 m 12 s
 			</td>
 			<td>
 				9,1 kWh
@@ -450,7 +450,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				80 kW
 			</td>
 			<td>
-				 12 m 29 s
+				 12 m 45 s
 			</td>
 			<td>
 				9,8 kWh
@@ -464,7 +464,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				80 kW
 			</td>
 			<td>
-				 13 m 2 s
+				 13 m 19 s
 			</td>
 			<td>
 				10,5 kWh
@@ -478,7 +478,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 13 m 35 s
+				 13 m 53 s
 			</td>
 			<td>
 				11,2 kWh
@@ -492,7 +492,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 14 m 8 s
+				 14 m 26 s
 			</td>
 			<td>
 				11,9 kWh
@@ -506,7 +506,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 14 m 41 s
+				 15 m 0 s
 			</td>
 			<td>
 				12,6 kWh
@@ -520,7 +520,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 15 m 14 s
+				 15 m 33 s
 			</td>
 			<td>
 				13,3 kWh
@@ -534,7 +534,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 15 m 46 s
+				 16 m 7 s
 			</td>
 			<td>
 				14,0 kWh
@@ -548,7 +548,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 16 m 40 s
 			</td>
 			<td>
 				14,7 kWh
@@ -562,7 +562,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 16 m 52 s
+				 17 m 14 s
 			</td>
 			<td>
 				15,4 kWh
@@ -576,7 +576,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 17 m 47 s
 			</td>
 			<td>
 				16,1 kWh
@@ -590,7 +590,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 17 m 57 s
+				 18 m 21 s
 			</td>
 			<td>
 				16,8 kWh
@@ -604,7 +604,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 18 m 30 s
+				 18 m 54 s
 			</td>
 			<td>
 				17,5 kWh
@@ -618,7 +618,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 19 m 2 s
+				 19 m 27 s
 			</td>
 			<td>
 				18,2 kWh
@@ -632,7 +632,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 19 m 35 s
+				 20 m 0 s
 			</td>
 			<td>
 				18,9 kWh
@@ -646,7 +646,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 20 m 7 s
+				 20 m 33 s
 			</td>
 			<td>
 				19,6 kWh
@@ -660,7 +660,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 20 m 39 s
+				 21 m 6 s
 			</td>
 			<td>
 				20,3 kWh
@@ -674,7 +674,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 21 m 12 s
+				 21 m 39 s
 			</td>
 			<td>
 				21,0 kWh
@@ -688,7 +688,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 21 m 44 s
+				 22 m 12 s
 			</td>
 			<td>
 				21,7 kWh
@@ -702,7 +702,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				22,4 kWh
@@ -716,7 +716,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 22 m 49 s
+				 23 m 18 s
 			</td>
 			<td>
 				23,1 kWh
@@ -730,7 +730,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 23 m 21 s
+				 23 m 51 s
 			</td>
 			<td>
 				23,8 kWh
@@ -744,7 +744,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 23 m 53 s
+				 24 m 24 s
 			</td>
 			<td>
 				24,5 kWh
@@ -758,7 +758,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 24 m 26 s
+				 24 m 57 s
 			</td>
 			<td>
 				25,2 kWh
@@ -772,7 +772,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				83 kW
 			</td>
 			<td>
-				 24 m 58 s
+				 25 m 30 s
 			</td>
 			<td>
 				25,9 kWh
@@ -786,7 +786,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 25 m 30 s
+				 26 m 3 s
 			</td>
 			<td>
 				26,6 kWh
@@ -800,7 +800,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 26 m 3 s
+				 26 m 37 s
 			</td>
 			<td>
 				27,3 kWh
@@ -814,7 +814,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 26 m 36 s
+				 27 m 10 s
 			</td>
 			<td>
 				28,0 kWh
@@ -828,7 +828,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 27 m 9 s
+				 27 m 44 s
 			</td>
 			<td>
 				28,7 kWh
@@ -842,7 +842,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 27 m 41 s
+				 28 m 17 s
 			</td>
 			<td>
 				29,4 kWh
@@ -856,7 +856,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 28 m 14 s
+				 28 m 50 s
 			</td>
 			<td>
 				30,1 kWh
@@ -870,7 +870,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 28 m 47 s
+				 29 m 24 s
 			</td>
 			<td>
 				30,8 kWh
@@ -884,7 +884,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				81 kW
 			</td>
 			<td>
-				 29 m 20 s
+				 29 m 57 s
 			</td>
 			<td>
 				31,5 kWh
@@ -898,7 +898,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 29 m 52 s
+				 30 m 31 s
 			</td>
 			<td>
 				32,2 kWh
@@ -912,7 +912,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				82 kW
 			</td>
 			<td>
-				 30 m 24 s
+				 31 m 4 s
 			</td>
 			<td>
 				32,9 kWh
@@ -926,7 +926,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 30 m 59 s
+				 31 m 39 s
 			</td>
 			<td>
 				33,6 kWh
@@ -940,7 +940,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 31 m 37 s
+				 32 m 18 s
 			</td>
 			<td>
 				34,3 kWh
@@ -954,7 +954,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 32 m 15 s
+				 32 m 57 s
 			</td>
 			<td>
 				35,0 kWh
@@ -968,7 +968,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 32 m 53 s
+				 33 m 35 s
 			</td>
 			<td>
 				35,7 kWh
@@ -982,7 +982,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 33 m 31 s
+				 34 m 14 s
 			</td>
 			<td>
 				36,4 kWh
@@ -996,7 +996,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 34 m 9 s
+				 34 m 53 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1010,7 +1010,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				70 kW
 			</td>
 			<td>
-				 34 m 47 s
+				 35 m 32 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1024,7 +1024,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				71 kW
 			</td>
 			<td>
-				 35 m 24 s
+				 36 m 10 s
 			</td>
 			<td>
 				38,5 kWh
@@ -1038,7 +1038,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				71 kW
 			</td>
 			<td>
-				 36 m 2 s
+				 36 m 48 s
 			</td>
 			<td>
 				39,2 kWh
@@ -1052,7 +1052,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				71 kW
 			</td>
 			<td>
-				 36 m 39 s
+				 37 m 26 s
 			</td>
 			<td>
 				39,9 kWh
@@ -1066,7 +1066,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				71 kW
 			</td>
 			<td>
-				 37 m 16 s
+				 38 m 5 s
 			</td>
 			<td>
 				40,6 kWh
@@ -1080,7 +1080,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				71 kW
 			</td>
 			<td>
-				 37 m 54 s
+				 38 m 43 s
 			</td>
 			<td>
 				41,3 kWh
@@ -1094,7 +1094,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				72 kW
 			</td>
 			<td>
-				 38 m 31 s
+				 39 m 21 s
 			</td>
 			<td>
 				42,0 kWh
@@ -1108,7 +1108,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 39 m 10 s
+				 40 m 1 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1122,7 +1122,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 39 m 52 s
+				 40 m 44 s
 			</td>
 			<td>
 				43,4 kWh
@@ -1136,7 +1136,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 40 m 34 s
+				 41 m 27 s
 			</td>
 			<td>
 				44,1 kWh
@@ -1150,7 +1150,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				62 kW
 			</td>
 			<td>
-				 41 m 17 s
+				 42 m 10 s
 			</td>
 			<td>
 				44,8 kWh
@@ -1164,7 +1164,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 41 m 59 s
+				 42 m 53 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1178,7 +1178,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 42 m 41 s
+				 43 m 36 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1192,7 +1192,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 43 m 23 s
+				 44 m 19 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1206,7 +1206,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 44 m 6 s
+				 45 m 2 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1220,7 +1220,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				63 kW
 			</td>
 			<td>
-				 44 m 48 s
+				 45 m 45 s
 			</td>
 			<td>
 				48,3 kWh
@@ -1234,7 +1234,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				64 kW
 			</td>
 			<td>
-				 45 m 29 s
+				 46 m 28 s
 			</td>
 			<td>
 				49,0 kWh
@@ -1248,7 +1248,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				64 kW
 			</td>
 			<td>
-				 46 m 11 s
+				 47 m 10 s
 			</td>
 			<td>
 				49,7 kWh
@@ -1262,7 +1262,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				64 kW
 			</td>
 			<td>
-				 46 m 52 s
+				 47 m 53 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1276,7 +1276,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				64 kW
 			</td>
 			<td>
-				 47 m 34 s
+				 48 m 35 s
 			</td>
 			<td>
 				51,1 kWh
@@ -1290,7 +1290,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				56 kW
 			</td>
 			<td>
-				 48 m 18 s
+				 49 m 20 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1304,7 +1304,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 49 m 6 s
+				 50 m 9 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1318,7 +1318,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 49 m 54 s
+				 50 m 58 s
 			</td>
 			<td>
 				53,2 kWh
@@ -1332,7 +1332,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 50 m 42 s
+				 51 m 48 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1346,7 +1346,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 51 m 30 s
+				 52 m 37 s
 			</td>
 			<td>
 				54,6 kWh
@@ -1360,7 +1360,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 52 m 19 s
+				 53 m 26 s
 			</td>
 			<td>
 				55,3 kWh
@@ -1374,7 +1374,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				55 kW
 			</td>
 			<td>
-				 53 m 7 s
+				 54 m 15 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1388,7 +1388,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				27 kW
 			</td>
 			<td>
-				 54 m 12 s
+				 55 m 22 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1402,7 +1402,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				25 kW
 			</td>
 			<td>
-				 55 m 54 s
+				 57 m 6 s
 			</td>
 			<td>
 				57,4 kWh
@@ -1416,7 +1416,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				25 kW
 			</td>
 			<td>
-				 57 m 40 s
+				 58 m 54 s
 			</td>
 			<td>
 				58,1 kWh
@@ -1430,7 +1430,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				25 kW
 			</td>
 			<td>
-				 59 m 26 s
+				1 h 0 m 43 s
 			</td>
 			<td>
 				58,8 kWh
@@ -1444,7 +1444,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				25 kW
 			</td>
 			<td>
-				1 h 1 m 12 s
+				1 h 2 m 31 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1458,7 +1458,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				24 kW
 			</td>
 			<td>
-				1 h 3 m 0 s
+				1 h 4 m 22 s
 			</td>
 			<td>
 				60,2 kWh
@@ -1472,7 +1472,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				24 kW
 			</td>
 			<td>
-				1 h 4 m 51 s
+				1 h 6 m 14 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1486,7 +1486,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				24 kW
 			</td>
 			<td>
-				1 h 6 m 41 s
+				1 h 8 m 7 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1500,7 +1500,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				20 kW
 			</td>
 			<td>
-				1 h 8 m 42 s
+				1 h 10 m 11 s
 			</td>
 			<td>
 				62,3 kWh
@@ -1514,7 +1514,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				16 kW
 			</td>
 			<td>
-				1 h 11 m 9 s
+				1 h 12 m 41 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1528,7 +1528,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				15 kW
 			</td>
 			<td>
-				1 h 14 m 0 s
+				1 h 15 m 36 s
 			</td>
 			<td>
 				63,7 kWh
@@ -1542,7 +1542,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				14 kW
 			</td>
 			<td>
-				1 h 17 m 3 s
+				1 h 18 m 43 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1556,7 +1556,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				13 kW
 			</td>
 			<td>
-				1 h 20 m 20 s
+				1 h 22 m 3 s
 			</td>
 			<td>
 				65,1 kWh
@@ -1570,7 +1570,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				12 kW
 			</td>
 			<td>
-				1 h 23 m 52 s
+				1 h 25 m 40 s
 			</td>
 			<td>
 				65,8 kWh
@@ -1584,7 +1584,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				11 kW
 			</td>
 			<td>
-				1 h 27 m 43 s
+				1 h 29 m 36 s
 			</td>
 			<td>
 				66,5 kWh
@@ -1598,7 +1598,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				10 kW
 			</td>
 			<td>
-				1 h 31 m 55 s
+				1 h 33 m 54 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1612,7 +1612,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				9 kW
 			</td>
 			<td>
-				1 h 36 m 35 s
+				1 h 38 m 39 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1626,7 +1626,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				8 kW
 			</td>
 			<td>
-				1 h 41 m 47 s
+				1 h 43 m 58 s
 			</td>
 			<td>
 				68,6 kWh
@@ -1640,7 +1640,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				7 kW
 			</td>
 			<td>
-				1 h 47 m 40 s
+				1 h 49 m 59 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1654,7 +1654,7 @@ MG Marvel R Electric Performance har batterioppvarming, noe som gjør lading ved
 				6 kW
 			</td>
 			<td>
-				1 h 54 m 28 s
+				1 h 56 m 56 s
 			</td>
 			<td>
 				70,0 kWh

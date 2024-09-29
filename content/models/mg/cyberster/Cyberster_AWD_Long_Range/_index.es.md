@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 77,0 kWh y una capaci
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 520 km (323 millas). El consumo es de 14,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 101 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 100kW. Cada sesión de carga tardaría 25 minutos y 33 segundos.
+La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 103 minutos, mientras que un escenario más común del 10 al 80 % tardaría 33 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 98kW. Cada sesión de carga tardaría 25 minutos y 58 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 43 minutos. Este viaje requeriría dos paradas de carga del 2% al 63%, con un tiempo total de carga de 83 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 44 minutos. Este viaje requeriría dos paradas de carga del 2% al 63%, con un tiempo total de carga de 85 minutos.
 
 ### Cargador a bordo
 

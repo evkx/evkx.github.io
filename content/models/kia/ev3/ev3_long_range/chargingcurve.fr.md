@@ -1,7 +1,7 @@
 ---
 title: Kia EV3 Long Range courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Kia EV3 Long Range."
+description: "Ci-dessous se trouve la courbe de charge pour Kia EV3 Long Range, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -32,7 +32,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				69,0 kW
+				67,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -40,7 +40,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				67,2 kW
+				65,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -48,7 +48,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				85,9 kW
+				84,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				101,0 kW
+				98,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -88,7 +88,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				94,1kW
+				92,5kW
 			</td>
 		</tr>
 		<tr>
@@ -96,7 +96,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				26m2s
+				26m29s
 			</td>
 		</tr>
 	</tbody>
@@ -121,7 +121,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Temps de charge 0-100%
 			</td>
 			<td>
-				1 h 6 m 56 s
+				1 h 8 m 22 s
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +129,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Temps de charge 10-100%
 			</td>
 			<td>
-				1 h 1 m 50 s
+				1 h 3 m 9 s
 			</td>
 		</tr>
 		<tr>
@@ -137,7 +137,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 32 m 1 s
+				 32 m 42 s
 			</td>
 		</tr>
 	</tbody>
@@ -175,24 +175,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				?
 			</td>
 			<td>
-				9,0 km (5,6 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				5,8 km (3,6 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Autonomie par minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				8,7 km (5,4 mi)
+				8,8 km (5,5 mi)
 			</td>
 			<td>
 				?
@@ -203,19 +186,36 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 		</tr>
 		<tr>
 			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,6 km (5,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,5 km (3,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Autonomie par minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				13,1 km (8,1 mi)
+				12,8 km (8,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				8,2 km (5,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -271,7 +271,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				62 kW
 			</td>
 			<td>
-				 0 m 52 s
+				 0 m 53 s
 			</td>
 			<td>
 				0,8 kWh
@@ -285,7 +285,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				75 kW
 			</td>
 			<td>
-				 1 m 34 s
+				 1 m 36 s
 			</td>
 			<td>
 				1,5 kWh
@@ -299,7 +299,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				89 kW
 			</td>
 			<td>
-				 2 m 10 s
+				 2 m 13 s
 			</td>
 			<td>
 				2,3 kWh
@@ -313,7 +313,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				102 kW
 			</td>
 			<td>
-				 2 m 41 s
+				 2 m 44 s
 			</td>
 			<td>
 				3,1 kWh
@@ -327,7 +327,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				115 kW
 			</td>
 			<td>
-				 3 m 8 s
+				 3 m 12 s
 			</td>
 			<td>
 				3,8 kWh
@@ -341,7 +341,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				119 kW
 			</td>
 			<td>
-				 3 m 33 s
+				 3 m 37 s
 			</td>
 			<td>
 				4,6 kWh
@@ -355,7 +355,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				122 kW
 			</td>
 			<td>
-				 3 m 57 s
+				 4 m 2 s
 			</td>
 			<td>
 				5,4 kWh
@@ -369,7 +369,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				126 kW
 			</td>
 			<td>
-				 4 m 20 s
+				 4 m 26 s
 			</td>
 			<td>
 				6,2 kWh
@@ -383,7 +383,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				129 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				6,9 kWh
@@ -397,7 +397,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				133 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 12 s
 			</td>
 			<td>
 				7,7 kWh
@@ -411,7 +411,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				136 kW
 			</td>
 			<td>
-				 5 m 27 s
+				 5 m 34 s
 			</td>
 			<td>
 				8,5 kWh
@@ -425,7 +425,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				136 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 56 s
 			</td>
 			<td>
 				9,2 kWh
@@ -439,7 +439,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				130 kW
 			</td>
 			<td>
-				 6 m 10 s
+				 6 m 18 s
 			</td>
 			<td>
 				10,0 kWh
@@ -453,7 +453,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				130 kW
 			</td>
 			<td>
-				 6 m 33 s
+				 6 m 41 s
 			</td>
 			<td>
 				10,8 kWh
@@ -467,7 +467,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				130 kW
 			</td>
 			<td>
-				 6 m 55 s
+				 7 m 4 s
 			</td>
 			<td>
 				11,6 kWh
@@ -481,7 +481,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				136 kW
 			</td>
 			<td>
-				 7 m 17 s
+				 7 m 27 s
 			</td>
 			<td>
 				12,3 kWh
@@ -495,7 +495,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 49 s
 			</td>
 			<td>
 				13,1 kWh
@@ -509,7 +509,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 8 m 10 s
 			</td>
 			<td>
 				13,9 kWh
@@ -523,7 +523,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 8 m 32 s
 			</td>
 			<td>
 				14,6 kWh
@@ -537,7 +537,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 8 m 54 s
 			</td>
 			<td>
 				15,4 kWh
@@ -551,7 +551,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 9 m 4 s
+				 9 m 16 s
 			</td>
 			<td>
 				16,2 kWh
@@ -565,7 +565,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 37 s
 			</td>
 			<td>
 				16,9 kWh
@@ -579,7 +579,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 9 m 46 s
+				 9 m 59 s
 			</td>
 			<td>
 				17,7 kWh
@@ -593,7 +593,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 10 m 8 s
+				 10 m 21 s
 			</td>
 			<td>
 				18,5 kWh
@@ -607,7 +607,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 10 m 29 s
+				 10 m 43 s
 			</td>
 			<td>
 				19,2 kWh
@@ -621,7 +621,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 10 m 50 s
+				 11 m 4 s
 			</td>
 			<td>
 				20,0 kWh
@@ -635,7 +635,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				137 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 26 s
 			</td>
 			<td>
 				20,8 kWh
@@ -649,7 +649,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				138 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 48 s
 			</td>
 			<td>
 				21,6 kWh
@@ -663,7 +663,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				138 kW
 			</td>
 			<td>
-				 11 m 54 s
+				 12 m 9 s
 			</td>
 			<td>
 				22,3 kWh
@@ -677,7 +677,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				127 kW
 			</td>
 			<td>
-				 12 m 16 s
+				 12 m 32 s
 			</td>
 			<td>
 				23,1 kWh
@@ -691,7 +691,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				127 kW
 			</td>
 			<td>
-				 12 m 39 s
+				 12 m 55 s
 			</td>
 			<td>
 				23,9 kWh
@@ -705,7 +705,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				127 kW
 			</td>
 			<td>
-				 13 m 2 s
+				 13 m 19 s
 			</td>
 			<td>
 				24,6 kWh
@@ -719,7 +719,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				127 kW
 			</td>
 			<td>
-				 13 m 25 s
+				 13 m 42 s
 			</td>
 			<td>
 				25,4 kWh
@@ -733,7 +733,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				127 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 14 m 6 s
 			</td>
 			<td>
 				26,2 kWh
@@ -747,7 +747,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 14 m 11 s
+				 14 m 29 s
 			</td>
 			<td>
 				27,0 kWh
@@ -761,7 +761,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 14 m 52 s
 			</td>
 			<td>
 				27,7 kWh
@@ -775,7 +775,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 16 s
 			</td>
 			<td>
 				28,5 kWh
@@ -789,7 +789,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 15 m 19 s
+				 15 m 39 s
 			</td>
 			<td>
 				29,3 kWh
@@ -803,7 +803,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 2 s
 			</td>
 			<td>
 				30,0 kWh
@@ -817,7 +817,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 16 m 5 s
+				 16 m 26 s
 			</td>
 			<td>
 				30,8 kWh
@@ -831,7 +831,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 16 m 28 s
+				 16 m 49 s
 			</td>
 			<td>
 				31,6 kWh
@@ -845,7 +845,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				128 kW
 			</td>
 			<td>
-				 16 m 50 s
+				 17 m 12 s
 			</td>
 			<td>
 				32,3 kWh
@@ -859,7 +859,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				104 kW
 			</td>
 			<td>
-				 17 m 16 s
+				 17 m 38 s
 			</td>
 			<td>
 				33,1 kWh
@@ -873,7 +873,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				104 kW
 			</td>
 			<td>
-				 17 m 44 s
+				 18 m 7 s
 			</td>
 			<td>
 				33,9 kWh
@@ -887,7 +887,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 18 m 12 s
+				 18 m 35 s
 			</td>
 			<td>
 				34,6 kWh
@@ -901,7 +901,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 18 m 39 s
+				 19 m 3 s
 			</td>
 			<td>
 				35,4 kWh
@@ -915,7 +915,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 19 m 7 s
+				 19 m 32 s
 			</td>
 			<td>
 				36,2 kWh
@@ -929,7 +929,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 19 m 35 s
+				 20 m 0 s
 			</td>
 			<td>
 				37,0 kWh
@@ -943,7 +943,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 20 m 3 s
+				 20 m 29 s
 			</td>
 			<td>
 				37,7 kWh
@@ -957,7 +957,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 20 m 57 s
 			</td>
 			<td>
 				38,5 kWh
@@ -971,7 +971,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				105 kW
 			</td>
 			<td>
-				 20 m 58 s
+				 21 m 25 s
 			</td>
 			<td>
 				39,3 kWh
@@ -985,7 +985,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				108 kW
 			</td>
 			<td>
-				 21 m 26 s
+				 21 m 53 s
 			</td>
 			<td>
 				40,0 kWh
@@ -999,7 +999,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				108 kW
 			</td>
 			<td>
-				 21 m 53 s
+				 22 m 21 s
 			</td>
 			<td>
 				40,8 kWh
@@ -1013,7 +1013,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				108 kW
 			</td>
 			<td>
-				 22 m 20 s
+				 22 m 49 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1027,7 +1027,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				108 kW
 			</td>
 			<td>
-				 22 m 47 s
+				 23 m 16 s
 			</td>
 			<td>
 				42,4 kWh
@@ -1041,7 +1041,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				108 kW
 			</td>
 			<td>
-				 23 m 14 s
+				 23 m 44 s
 			</td>
 			<td>
 				43,1 kWh
@@ -1055,7 +1055,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				95 kW
 			</td>
 			<td>
-				 23 m 43 s
+				 24 m 13 s
 			</td>
 			<td>
 				43,9 kWh
@@ -1069,7 +1069,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				95 kW
 			</td>
 			<td>
-				 24 m 13 s
+				 24 m 44 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1083,7 +1083,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				95 kW
 			</td>
 			<td>
-				 24 m 44 s
+				 25 m 16 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1097,7 +1097,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				95 kW
 			</td>
 			<td>
-				 25 m 15 s
+				 25 m 47 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1111,7 +1111,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				95 kW
 			</td>
 			<td>
-				 25 m 45 s
+				 26 m 19 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1125,7 +1125,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				98 kW
 			</td>
 			<td>
-				 26 m 16 s
+				 26 m 50 s
 			</td>
 			<td>
 				47,7 kWh
@@ -1139,7 +1139,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				98 kW
 			</td>
 			<td>
-				 26 m 45 s
+				 27 m 20 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1153,7 +1153,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				98 kW
 			</td>
 			<td>
-				 27 m 15 s
+				 27 m 50 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1167,7 +1167,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				98 kW
 			</td>
 			<td>
-				 27 m 45 s
+				 28 m 21 s
 			</td>
 			<td>
 				50,0 kWh
@@ -1181,7 +1181,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				98 kW
 			</td>
 			<td>
-				 28 m 15 s
+				 28 m 51 s
 			</td>
 			<td>
 				50,8 kWh
@@ -1195,7 +1195,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				98 kW
 			</td>
 			<td>
-				 28 m 44 s
+				 29 m 22 s
 			</td>
 			<td>
 				51,6 kWh
@@ -1209,7 +1209,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				99 kW
 			</td>
 			<td>
-				 29 m 14 s
+				 29 m 52 s
 			</td>
 			<td>
 				52,4 kWh
@@ -1223,7 +1223,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				77 kW
 			</td>
 			<td>
-				 29 m 47 s
+				 30 m 26 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1237,7 +1237,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 30 m 26 s
+				 31 m 6 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1251,7 +1251,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 31 m 7 s
+				 31 m 47 s
 			</td>
 			<td>
 				54,7 kWh
@@ -1265,7 +1265,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 31 m 47 s
+				 32 m 29 s
 			</td>
 			<td>
 				55,4 kWh
@@ -1279,7 +1279,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 32 m 28 s
+				 33 m 10 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1293,7 +1293,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 33 m 9 s
+				 33 m 51 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1307,7 +1307,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 33 m 49 s
+				 34 m 33 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1321,7 +1321,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				75 kW
 			</td>
 			<td>
-				 34 m 29 s
+				 35 m 13 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1335,7 +1335,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				75 kW
 			</td>
 			<td>
-				 35 m 8 s
+				 35 m 53 s
 			</td>
 			<td>
 				59,3 kWh
@@ -1349,7 +1349,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				75 kW
 			</td>
 			<td>
-				 35 m 47 s
+				 36 m 33 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1363,7 +1363,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 36 m 26 s
+				 37 m 13 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1377,7 +1377,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 37 m 7 s
+				 37 m 55 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1391,7 +1391,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				72 kW
 			</td>
 			<td>
-				 37 m 47 s
+				 38 m 36 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1405,7 +1405,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 38 m 39 s
+				 39 m 29 s
 			</td>
 			<td>
 				63,1 kWh
@@ -1419,7 +1419,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 39 m 50 s
+				 40 m 42 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1433,7 +1433,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 41 m 1 s
+				 41 m 54 s
 			</td>
 			<td>
 				64,7 kWh
@@ -1447,7 +1447,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 42 m 12 s
+				 43 m 7 s
 			</td>
 			<td>
 				65,4 kWh
@@ -1461,7 +1461,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 43 m 24 s
+				 44 m 20 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1475,7 +1475,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 44 m 35 s
+				 45 m 32 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1489,7 +1489,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 45 m 46 s
+				 46 m 45 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1503,7 +1503,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 46 m 57 s
+				 47 m 58 s
 			</td>
 			<td>
 				68,5 kWh
@@ -1517,7 +1517,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				41 kW
 			</td>
 			<td>
-				 48 m 8 s
+				 49 m 10 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1531,7 +1531,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				38 kW
 			</td>
 			<td>
-				 49 m 22 s
+				 50 m 26 s
 			</td>
 			<td>
 				70,1 kWh
@@ -1545,7 +1545,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				36 kW
 			</td>
 			<td>
-				 50 m 40 s
+				 51 m 46 s
 			</td>
 			<td>
 				70,8 kWh
@@ -1559,7 +1559,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				33 kW
 			</td>
 			<td>
-				 52 m 5 s
+				 53 m 12 s
 			</td>
 			<td>
 				71,6 kWh
@@ -1573,7 +1573,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				31 kW
 			</td>
 			<td>
-				 53 m 37 s
+				 54 m 46 s
 			</td>
 			<td>
 				72,4 kWh
@@ -1587,7 +1587,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				28 kW
 			</td>
 			<td>
-				 55 m 16 s
+				 56 m 27 s
 			</td>
 			<td>
 				73,2 kWh
@@ -1601,7 +1601,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				25 kW
 			</td>
 			<td>
-				 57 m 5 s
+				 58 m 19 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1615,7 +1615,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				23 kW
 			</td>
 			<td>
-				 59 m 6 s
+				1 h 0 m 23 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1629,7 +1629,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				20 kW
 			</td>
 			<td>
-				1 h 1 m 22 s
+				1 h 2 m 41 s
 			</td>
 			<td>
 				75,5 kWh
@@ -1643,7 +1643,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				18 kW
 			</td>
 			<td>
-				1 h 3 m 57 s
+				1 h 5 m 19 s
 			</td>
 			<td>
 				76,2 kWh
@@ -1657,7 +1657,7 @@ Kia EV3 Long Range dispose d'un chauffage de batterie, ce qui facilite la charge
 				15 kW
 			</td>
 			<td>
-				1 h 6 m 56 s
+				1 h 8 m 22 s
 			</td>
 			<td>
 				77,0 kWh

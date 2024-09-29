@@ -35,9 +35,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 135,0 kWh och en nettoanvänd
 [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) uppskattade räckvidd varierar mellan 321 och 289 miles (516-465 km), beroende på fordonets konfiguration och alternativ. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
 Energikonsumtionsnivåerna är 2,6 mi/kWh för basmodellen och 2,3 mi/kWh för toppmodellen, enligt EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 104 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 138kW. Varje laddningssession tar 25 minuter och 30 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 106 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 25 minuter och 55 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 9 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 47%, med en total laddningstid på 77 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 9 timmar och 38 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 47%, med en total laddningstid på 78 minuter.
 
 ### Ombordladdare
 

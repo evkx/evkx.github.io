@@ -1,7 +1,7 @@
 ---
 title: BMW i5 xDrive40 Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für BMW i5 xDrive40."
+description: "Unten ist die Ladekurve für BMW i5 xDrive40 dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				86,5 kW
+				84,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				83,9 kW
+				82,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				101,8 kW
+				99,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				116,2 kW
+				113,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				117,9kW
+				116,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				19m26s
+				20m44s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				 56 m 21 s
+				 57 m 34 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				 52 m 17 s
+				 53 m 24 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 29 m 21 s
+				 29 m 59 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,5 km (5,9 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				6,5 km (4,0 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Reichweite pro Minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				9,3 km (5,8 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,1 km (5,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Reichweite pro Minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				12,8 km (8,0 mi)
+				12,6 km (7,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				65 kW
 			</td>
 			<td>
-				 1 m 3 s
+				 1 m 4 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				98 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 43 s
 			</td>
 			<td>
 				1,6 kWh
@@ -296,7 +296,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				130 kW
 			</td>
 			<td>
-				 2 m 8 s
+				 2 m 10 s
 			</td>
 			<td>
 				2,4 kWh
@@ -310,7 +310,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				163 kW
 			</td>
 			<td>
-				 2 m 29 s
+				 2 m 32 s
 			</td>
 			<td>
 				3,2 kWh
@@ -324,7 +324,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				195 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 49 s
 			</td>
 			<td>
 				4,1 kWh
@@ -338,7 +338,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				197 kW
 			</td>
 			<td>
-				 3 m 1 s
+				 3 m 5 s
 			</td>
 			<td>
 				4,9 kWh
@@ -352,7 +352,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				197 kW
 			</td>
 			<td>
-				 3 m 17 s
+				 3 m 21 s
 			</td>
 			<td>
 				5,7 kWh
@@ -366,7 +366,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				198 kW
 			</td>
 			<td>
-				 3 m 33 s
+				 3 m 37 s
 			</td>
 			<td>
 				6,5 kWh
@@ -380,7 +380,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				199 kW
 			</td>
 			<td>
-				 3 m 48 s
+				 3 m 53 s
 			</td>
 			<td>
 				7,3 kWh
@@ -394,7 +394,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				200 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 9 s
 			</td>
 			<td>
 				8,1 kWh
@@ -408,7 +408,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				201 kW
 			</td>
 			<td>
-				 4 m 19 s
+				 4 m 25 s
 			</td>
 			<td>
 				8,9 kWh
@@ -422,7 +422,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				201 kW
 			</td>
 			<td>
-				 4 m 34 s
+				 4 m 40 s
 			</td>
 			<td>
 				9,7 kWh
@@ -436,7 +436,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				202 kW
 			</td>
 			<td>
-				 4 m 50 s
+				 4 m 56 s
 			</td>
 			<td>
 				10,6 kWh
@@ -450,7 +450,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				203 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 11 s
 			</td>
 			<td>
 				11,4 kWh
@@ -464,7 +464,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				205 kW
 			</td>
 			<td>
-				 5 m 20 s
+				 5 m 27 s
 			</td>
 			<td>
 				12,2 kWh
@@ -478,7 +478,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				205 kW
 			</td>
 			<td>
-				 5 m 35 s
+				 5 m 42 s
 			</td>
 			<td>
 				13,0 kWh
@@ -492,7 +492,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				206 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 5 m 57 s
 			</td>
 			<td>
 				13,8 kWh
@@ -506,7 +506,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				208 kW
 			</td>
 			<td>
-				 6 m 5 s
+				 6 m 13 s
 			</td>
 			<td>
 				14,6 kWh
@@ -520,7 +520,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				197 kW
 			</td>
 			<td>
-				 6 m 20 s
+				 6 m 28 s
 			</td>
 			<td>
 				15,4 kWh
@@ -534,7 +534,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				197 kW
 			</td>
 			<td>
-				 6 m 35 s
+				 6 m 44 s
 			</td>
 			<td>
 				16,2 kWh
@@ -548,7 +548,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				181 kW
 			</td>
 			<td>
-				 6 m 52 s
+				 7 m 1 s
 			</td>
 			<td>
 				17,1 kWh
@@ -562,7 +562,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				181 kW
 			</td>
 			<td>
-				 7 m 9 s
+				 7 m 18 s
 			</td>
 			<td>
 				17,9 kWh
@@ -576,7 +576,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				182 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 35 s
 			</td>
 			<td>
 				18,7 kWh
@@ -590,7 +590,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				182 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 7 m 53 s
 			</td>
 			<td>
 				19,5 kWh
@@ -604,7 +604,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				183 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 8 m 10 s
 			</td>
 			<td>
 				20,3 kWh
@@ -618,7 +618,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				174 kW
 			</td>
 			<td>
-				 8 m 17 s
+				 8 m 27 s
 			</td>
 			<td>
 				21,1 kWh
@@ -632,7 +632,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				175 kW
 			</td>
 			<td>
-				 8 m 34 s
+				 8 m 45 s
 			</td>
 			<td>
 				21,9 kWh
@@ -646,7 +646,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				175 kW
 			</td>
 			<td>
-				 8 m 52 s
+				 9 m 3 s
 			</td>
 			<td>
 				22,7 kWh
@@ -660,7 +660,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				168 kW
 			</td>
 			<td>
-				 9 m 10 s
+				 9 m 22 s
 			</td>
 			<td>
 				23,5 kWh
@@ -674,7 +674,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				168 kW
 			</td>
 			<td>
-				 9 m 28 s
+				 9 m 40 s
 			</td>
 			<td>
 				24,4 kWh
@@ -688,7 +688,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				168 kW
 			</td>
 			<td>
-				 9 m 47 s
+				 9 m 59 s
 			</td>
 			<td>
 				25,2 kWh
@@ -702,7 +702,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				158 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
 				26,0 kWh
@@ -716,7 +716,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				162 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 10 m 38 s
 			</td>
 			<td>
 				26,8 kWh
@@ -730,7 +730,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				162 kW
 			</td>
 			<td>
-				 10 m 44 s
+				 10 m 57 s
 			</td>
 			<td>
 				27,6 kWh
@@ -744,7 +744,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				163 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 17 s
 			</td>
 			<td>
 				28,4 kWh
@@ -758,7 +758,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				158 kW
 			</td>
 			<td>
-				 11 m 22 s
+				 11 m 36 s
 			</td>
 			<td>
 				29,2 kWh
@@ -772,7 +772,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				158 kW
 			</td>
 			<td>
-				 11 m 41 s
+				 11 m 56 s
 			</td>
 			<td>
 				30,0 kWh
@@ -786,7 +786,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				158 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 12 m 16 s
 			</td>
 			<td>
 				30,9 kWh
@@ -800,7 +800,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				144 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				31,7 kWh
@@ -814,7 +814,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				144 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 59 s
 			</td>
 			<td>
 				32,5 kWh
@@ -828,7 +828,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				144 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 21 s
 			</td>
 			<td>
 				33,3 kWh
@@ -842,7 +842,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				144 kW
 			</td>
 			<td>
-				 13 m 25 s
+				 13 m 42 s
 			</td>
 			<td>
 				34,1 kWh
@@ -856,7 +856,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				144 kW
 			</td>
 			<td>
-				 13 m 47 s
+				 14 m 4 s
 			</td>
 			<td>
 				34,9 kWh
@@ -870,7 +870,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				144 kW
 			</td>
 			<td>
-				 14 m 8 s
+				 14 m 26 s
 			</td>
 			<td>
 				35,7 kWh
@@ -884,7 +884,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				125 kW
 			</td>
 			<td>
-				 14 m 31 s
+				 14 m 50 s
 			</td>
 			<td>
 				36,5 kWh
@@ -898,7 +898,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				125 kW
 			</td>
 			<td>
-				 14 m 55 s
+				 15 m 15 s
 			</td>
 			<td>
 				37,4 kWh
@@ -912,7 +912,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				126 kW
 			</td>
 			<td>
-				 15 m 20 s
+				 15 m 40 s
 			</td>
 			<td>
 				38,2 kWh
@@ -926,7 +926,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				126 kW
 			</td>
 			<td>
-				 15 m 44 s
+				 16 m 5 s
 			</td>
 			<td>
 				39,0 kWh
@@ -940,7 +940,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				126 kW
 			</td>
 			<td>
-				 16 m 9 s
+				 16 m 30 s
 			</td>
 			<td>
 				39,8 kWh
@@ -954,7 +954,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				126 kW
 			</td>
 			<td>
-				 16 m 33 s
+				 16 m 55 s
 			</td>
 			<td>
 				40,6 kWh
@@ -968,7 +968,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				115 kW
 			</td>
 			<td>
-				 16 m 59 s
+				 17 m 21 s
 			</td>
 			<td>
 				41,4 kWh
@@ -982,7 +982,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				115 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 17 m 48 s
 			</td>
 			<td>
 				42,2 kWh
@@ -996,7 +996,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				115 kW
 			</td>
 			<td>
-				 17 m 52 s
+				 18 m 15 s
 			</td>
 			<td>
 				43,0 kWh
@@ -1010,7 +1010,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				116 kW
 			</td>
 			<td>
-				 18 m 19 s
+				 18 m 43 s
 			</td>
 			<td>
 				43,8 kWh
@@ -1024,7 +1024,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				105 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 11 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1038,7 +1038,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				105 kW
 			</td>
 			<td>
-				 19 m 16 s
+				 19 m 41 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1052,7 +1052,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				105 kW
 			</td>
 			<td>
-				 19 m 45 s
+				 20 m 11 s
 			</td>
 			<td>
 				46,3 kWh
@@ -1066,7 +1066,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				100 kW
 			</td>
 			<td>
-				 20 m 15 s
+				 20 m 41 s
 			</td>
 			<td>
 				47,1 kWh
@@ -1080,7 +1080,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				102 kW
 			</td>
 			<td>
-				 20 m 46 s
+				 21 m 13 s
 			</td>
 			<td>
 				47,9 kWh
@@ -1094,7 +1094,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				102 kW
 			</td>
 			<td>
-				 21 m 16 s
+				 21 m 43 s
 			</td>
 			<td>
 				48,7 kWh
@@ -1108,7 +1108,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				96 kW
 			</td>
 			<td>
-				 21 m 47 s
+				 22 m 15 s
 			</td>
 			<td>
 				49,5 kWh
@@ -1122,7 +1122,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				97 kW
 			</td>
 			<td>
-				 22 m 19 s
+				 22 m 48 s
 			</td>
 			<td>
 				50,3 kWh
@@ -1136,7 +1136,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				94 kW
 			</td>
 			<td>
-				 22 m 51 s
+				 23 m 21 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1150,7 +1150,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				93 kW
 			</td>
 			<td>
-				 23 m 24 s
+				 23 m 54 s
 			</td>
 			<td>
 				52,0 kWh
@@ -1164,7 +1164,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				91 kW
 			</td>
 			<td>
-				 23 m 58 s
+				 24 m 28 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1178,7 +1178,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				92 kW
 			</td>
 			<td>
-				 24 m 31 s
+				 25 m 3 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1192,7 +1192,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				89 kW
 			</td>
 			<td>
-				 25 m 5 s
+				 25 m 38 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1206,7 +1206,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				90 kW
 			</td>
 			<td>
-				 25 m 40 s
+				 26 m 13 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1220,7 +1220,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				88 kW
 			</td>
 			<td>
-				 26 m 14 s
+				 26 m 48 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1234,7 +1234,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				87 kW
 			</td>
 			<td>
-				 26 m 49 s
+				 27 m 24 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1248,7 +1248,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				87 kW
 			</td>
 			<td>
-				 27 m 25 s
+				 28 m 0 s
 			</td>
 			<td>
 				57,7 kWh
@@ -1262,7 +1262,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				84 kW
 			</td>
 			<td>
-				 28 m 1 s
+				 28 m 37 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1276,7 +1276,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				84 kW
 			</td>
 			<td>
-				 28 m 37 s
+				 29 m 14 s
 			</td>
 			<td>
 				59,3 kWh
@@ -1290,7 +1290,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				84 kW
 			</td>
 			<td>
-				 29 m 14 s
+				 29 m 52 s
 			</td>
 			<td>
 				60,1 kWh
@@ -1304,7 +1304,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				79 kW
 			</td>
 			<td>
-				 29 m 52 s
+				 30 m 30 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1318,7 +1318,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				77 kW
 			</td>
 			<td>
-				 30 m 31 s
+				 31 m 10 s
 			</td>
 			<td>
 				61,7 kWh
@@ -1332,7 +1332,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				70 kW
 			</td>
 			<td>
-				 31 m 13 s
+				 31 m 53 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1346,7 +1346,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				70 kW
 			</td>
 			<td>
-				 31 m 57 s
+				 32 m 38 s
 			</td>
 			<td>
 				63,3 kWh
@@ -1360,7 +1360,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				71 kW
 			</td>
 			<td>
-				 32 m 41 s
+				 33 m 23 s
 			</td>
 			<td>
 				64,1 kWh
@@ -1374,7 +1374,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				67 kW
 			</td>
 			<td>
-				 33 m 25 s
+				 34 m 8 s
 			</td>
 			<td>
 				65,0 kWh
@@ -1388,7 +1388,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 34 m 14 s
+				 34 m 58 s
 			</td>
 			<td>
 				65,8 kWh
@@ -1402,7 +1402,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 35 m 6 s
+				 35 m 51 s
 			</td>
 			<td>
 				66,6 kWh
@@ -1416,7 +1416,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 35 m 58 s
+				 36 m 45 s
 			</td>
 			<td>
 				67,4 kWh
@@ -1430,7 +1430,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 36 m 50 s
+				 37 m 38 s
 			</td>
 			<td>
 				68,2 kWh
@@ -1444,7 +1444,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 37 m 43 s
+				 38 m 31 s
 			</td>
 			<td>
 				69,0 kWh
@@ -1458,7 +1458,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 38 m 35 s
+				 39 m 25 s
 			</td>
 			<td>
 				69,8 kWh
@@ -1472,7 +1472,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				59 kW
 			</td>
 			<td>
-				 39 m 27 s
+				 40 m 18 s
 			</td>
 			<td>
 				70,6 kWh
@@ -1486,7 +1486,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				52 kW
 			</td>
 			<td>
-				 40 m 22 s
+				 41 m 14 s
 			</td>
 			<td>
 				71,5 kWh
@@ -1500,7 +1500,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				52 kW
 			</td>
 			<td>
-				 41 m 22 s
+				 42 m 15 s
 			</td>
 			<td>
 				72,3 kWh
@@ -1514,7 +1514,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				52 kW
 			</td>
 			<td>
-				 42 m 21 s
+				 43 m 15 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1528,7 +1528,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				50 kW
 			</td>
 			<td>
-				 43 m 21 s
+				 44 m 17 s
 			</td>
 			<td>
 				73,9 kWh
@@ -1542,7 +1542,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				48 kW
 			</td>
 			<td>
-				 44 m 24 s
+				 45 m 21 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1556,7 +1556,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				45 kW
 			</td>
 			<td>
-				 45 m 30 s
+				 46 m 29 s
 			</td>
 			<td>
 				75,5 kWh
@@ -1570,7 +1570,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				44 kW
 			</td>
 			<td>
-				 46 m 39 s
+				 47 m 39 s
 			</td>
 			<td>
 				76,3 kWh
@@ -1584,7 +1584,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				43 kW
 			</td>
 			<td>
-				 47 m 50 s
+				 48 m 52 s
 			</td>
 			<td>
 				77,1 kWh
@@ -1598,7 +1598,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				38 kW
 			</td>
 			<td>
-				 49 m 6 s
+				 50 m 9 s
 			</td>
 			<td>
 				78,0 kWh
@@ -1612,7 +1612,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				34 kW
 			</td>
 			<td>
-				 50 m 31 s
+				 51 m 36 s
 			</td>
 			<td>
 				78,8 kWh
@@ -1626,7 +1626,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				29 kW
 			</td>
 			<td>
-				 52 m 8 s
+				 53 m 16 s
 			</td>
 			<td>
 				79,6 kWh
@@ -1640,7 +1640,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				25 kW
 			</td>
 			<td>
-				 54 m 3 s
+				 55 m 13 s
 			</td>
 			<td>
 				80,4 kWh
@@ -1654,7 +1654,7 @@ BMW i5 xDrive40 verfügt über eine Batterieheizung, die das Laden bei optimaler
 				20 kW
 			</td>
 			<td>
-				 56 m 21 s
+				 57 m 34 s
 			</td>
 			<td>
 				81,2 kWh

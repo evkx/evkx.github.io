@@ -1,7 +1,7 @@
 ---
 title: Hyundai INSTER Long Range Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Hyundai INSTER Long Range."
+description: "Unten ist die Ladekurve für Hyundai INSTER Long Range dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -32,7 +32,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				43,1 kW
+				42,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -40,7 +40,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				41,6 kW
+				40,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -48,7 +48,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				52,6 kW
+				51,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				64,8 kW
+				63,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -88,7 +88,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				63,5kW
+				62,4kW
 			</td>
 		</tr>
 		<tr>
@@ -96,7 +96,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Optimale Ladezeit
 			</td>
 			<td>
-				27m22s
+				28m51s
 			</td>
 		</tr>
 	</tbody>
@@ -121,7 +121,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 3 m 59 s
+				1 h 5 m 21 s
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +129,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Ladezeit 10-100%
 			</td>
 			<td>
-				 59 m 39 s
+				1 h 0 m 56 s
 			</td>
 		</tr>
 		<tr>
@@ -137,7 +137,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 29 m 50 s
+				 30 m 28 s
 			</td>
 		</tr>
 	</tbody>
@@ -175,7 +175,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				?
 			</td>
 			<td>
-				5,5 km (3,4 mi)
+				5,4 km (3,4 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				?
 			</td>
 			<td>
-				5,4 km (3,4 mi)
+				5,2 km (3,2 mi)
 			</td>
 			<td>
 				?
@@ -209,13 +209,13 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,2 km (5,1 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,7 km (2,9 mi)
+				4,6 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -271,7 +271,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				54 kW
 			</td>
 			<td>
-				 0 m 33 s
+				 0 m 34 s
 			</td>
 			<td>
 				0,5 kWh
@@ -285,7 +285,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				58 kW
 			</td>
 			<td>
-				 1 m 4 s
+				 1 m 5 s
 			</td>
 			<td>
 				0,9 kWh
@@ -299,7 +299,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				63 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				1,4 kWh
@@ -313,7 +313,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				67 kW
 			</td>
 			<td>
-				 2 m 0 s
+				 2 m 2 s
 			</td>
 			<td>
 				1,8 kWh
@@ -327,7 +327,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				71 kW
 			</td>
 			<td>
-				 2 m 25 s
+				 2 m 28 s
 			</td>
 			<td>
 				2,3 kWh
@@ -341,7 +341,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				75 kW
 			</td>
 			<td>
-				 2 m 49 s
+				 2 m 53 s
 			</td>
 			<td>
 				2,8 kWh
@@ -355,7 +355,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				76 kW
 			</td>
 			<td>
-				 3 m 12 s
+				 3 m 16 s
 			</td>
 			<td>
 				3,2 kWh
@@ -369,7 +369,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				78 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 39 s
 			</td>
 			<td>
 				3,7 kWh
@@ -383,7 +383,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				79 kW
 			</td>
 			<td>
-				 3 m 57 s
+				 4 m 2 s
 			</td>
 			<td>
 				4,1 kWh
@@ -397,7 +397,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				80 kW
 			</td>
 			<td>
-				 4 m 19 s
+				 4 m 25 s
 			</td>
 			<td>
 				4,6 kWh
@@ -411,7 +411,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				80 kW
 			</td>
 			<td>
-				 4 m 41 s
+				 4 m 47 s
 			</td>
 			<td>
 				5,1 kWh
@@ -425,7 +425,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				80 kW
 			</td>
 			<td>
-				 5 m 3 s
+				 5 m 9 s
 			</td>
 			<td>
 				5,5 kWh
@@ -439,7 +439,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				81 kW
 			</td>
 			<td>
-				 5 m 24 s
+				 5 m 31 s
 			</td>
 			<td>
 				6,0 kWh
@@ -453,7 +453,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				81 kW
 			</td>
 			<td>
-				 5 m 46 s
+				 5 m 53 s
 			</td>
 			<td>
 				6,4 kWh
@@ -467,7 +467,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				81 kW
 			</td>
 			<td>
-				 6 m 7 s
+				 6 m 15 s
 			</td>
 			<td>
 				6,9 kWh
@@ -481,7 +481,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				81 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 6 m 37 s
 			</td>
 			<td>
 				7,4 kWh
@@ -495,7 +495,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				81 kW
 			</td>
 			<td>
-				 6 m 50 s
+				 6 m 59 s
 			</td>
 			<td>
 				7,8 kWh
@@ -509,7 +509,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				82 kW
 			</td>
 			<td>
-				 7 m 12 s
+				 7 m 21 s
 			</td>
 			<td>
 				8,3 kWh
@@ -523,7 +523,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				82 kW
 			</td>
 			<td>
-				 7 m 33 s
+				 7 m 43 s
 			</td>
 			<td>
 				8,7 kWh
@@ -537,7 +537,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				82 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 8 m 4 s
 			</td>
 			<td>
 				9,2 kWh
@@ -551,7 +551,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				82 kW
 			</td>
 			<td>
-				 8 m 15 s
+				 8 m 26 s
 			</td>
 			<td>
 				9,7 kWh
@@ -565,7 +565,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				82 kW
 			</td>
 			<td>
-				 8 m 37 s
+				 8 m 48 s
 			</td>
 			<td>
 				10,1 kWh
@@ -579,7 +579,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				83 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 9 m 9 s
 			</td>
 			<td>
 				10,6 kWh
@@ -593,7 +593,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				83 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 31 s
 			</td>
 			<td>
 				11,0 kWh
@@ -607,7 +607,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				83 kW
 			</td>
 			<td>
-				 9 m 40 s
+				 9 m 52 s
 			</td>
 			<td>
 				11,5 kWh
@@ -621,7 +621,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				83 kW
 			</td>
 			<td>
-				 10 m 1 s
+				 10 m 14 s
 			</td>
 			<td>
 				12,0 kWh
@@ -635,7 +635,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				84 kW
 			</td>
 			<td>
-				 10 m 22 s
+				 10 m 35 s
 			</td>
 			<td>
 				12,4 kWh
@@ -649,7 +649,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				84 kW
 			</td>
 			<td>
-				 10 m 42 s
+				 10 m 56 s
 			</td>
 			<td>
 				12,9 kWh
@@ -663,7 +663,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				84 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 17 s
 			</td>
 			<td>
 				13,3 kWh
@@ -677,7 +677,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				84 kW
 			</td>
 			<td>
-				 11 m 24 s
+				 11 m 39 s
 			</td>
 			<td>
 				13,8 kWh
@@ -691,7 +691,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				84 kW
 			</td>
 			<td>
-				 11 m 45 s
+				 12 m 0 s
 			</td>
 			<td>
 				14,3 kWh
@@ -705,7 +705,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 12 m 5 s
+				 12 m 21 s
 			</td>
 			<td>
 				14,7 kWh
@@ -719,7 +719,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 12 m 42 s
 			</td>
 			<td>
 				15,2 kWh
@@ -733,7 +733,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 12 m 46 s
+				 13 m 3 s
 			</td>
 			<td>
 				15,6 kWh
@@ -747,7 +747,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 13 m 7 s
+				 13 m 24 s
 			</td>
 			<td>
 				16,1 kWh
@@ -761,7 +761,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 13 m 45 s
 			</td>
 			<td>
 				16,6 kWh
@@ -775,7 +775,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 14 m 6 s
 			</td>
 			<td>
 				17,0 kWh
@@ -789,7 +789,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 14 m 8 s
+				 14 m 27 s
 			</td>
 			<td>
 				17,5 kWh
@@ -803,7 +803,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 14 m 29 s
+				 14 m 48 s
 			</td>
 			<td>
 				17,9 kWh
@@ -817,7 +817,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 14 m 49 s
+				 15 m 8 s
 			</td>
 			<td>
 				18,4 kWh
@@ -831,7 +831,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 15 m 29 s
 			</td>
 			<td>
 				18,9 kWh
@@ -845,7 +845,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 15 m 30 s
+				 15 m 50 s
 			</td>
 			<td>
 				19,3 kWh
@@ -859,7 +859,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 15 m 51 s
+				 16 m 11 s
 			</td>
 			<td>
 				19,8 kWh
@@ -873,7 +873,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 16 m 11 s
+				 16 m 32 s
 			</td>
 			<td>
 				20,2 kWh
@@ -887,7 +887,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 16 m 32 s
+				 16 m 53 s
 			</td>
 			<td>
 				20,7 kWh
@@ -901,7 +901,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 16 m 52 s
+				 17 m 14 s
 			</td>
 			<td>
 				21,2 kWh
@@ -915,7 +915,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 17 m 13 s
+				 17 m 35 s
 			</td>
 			<td>
 				21,6 kWh
@@ -929,7 +929,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 17 m 33 s
+				 17 m 56 s
 			</td>
 			<td>
 				22,1 kWh
@@ -943,7 +943,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 18 m 17 s
 			</td>
 			<td>
 				22,5 kWh
@@ -957,7 +957,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 18 m 14 s
+				 18 m 38 s
 			</td>
 			<td>
 				23,0 kWh
@@ -971,7 +971,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 18 m 35 s
+				 18 m 59 s
 			</td>
 			<td>
 				23,5 kWh
@@ -985,7 +985,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 18 m 55 s
+				 19 m 20 s
 			</td>
 			<td>
 				23,9 kWh
@@ -999,7 +999,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 19 m 16 s
+				 19 m 41 s
 			</td>
 			<td>
 				24,4 kWh
@@ -1013,7 +1013,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 19 m 36 s
+				 20 m 2 s
 			</td>
 			<td>
 				24,8 kWh
@@ -1027,7 +1027,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 19 m 57 s
+				 20 m 23 s
 			</td>
 			<td>
 				25,3 kWh
@@ -1041,7 +1041,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 20 m 17 s
+				 20 m 44 s
 			</td>
 			<td>
 				25,8 kWh
@@ -1055,7 +1055,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 21 m 5 s
 			</td>
 			<td>
 				26,2 kWh
@@ -1069,7 +1069,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 20 m 59 s
+				 21 m 26 s
 			</td>
 			<td>
 				26,7 kWh
@@ -1083,7 +1083,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 21 m 19 s
+				 21 m 47 s
 			</td>
 			<td>
 				27,1 kWh
@@ -1097,7 +1097,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 21 m 40 s
+				 22 m 7 s
 			</td>
 			<td>
 				27,6 kWh
@@ -1111,7 +1111,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				85 kW
 			</td>
 			<td>
-				 22 m 0 s
+				 22 m 28 s
 			</td>
 			<td>
 				28,1 kWh
@@ -1125,7 +1125,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				75 kW
 			</td>
 			<td>
-				 22 m 22 s
+				 22 m 51 s
 			</td>
 			<td>
 				28,5 kWh
@@ -1139,7 +1139,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				74 kW
 			</td>
 			<td>
-				 22 m 45 s
+				 23 m 15 s
 			</td>
 			<td>
 				29,0 kWh
@@ -1153,7 +1153,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				73 kW
 			</td>
 			<td>
-				 23 m 9 s
+				 23 m 39 s
 			</td>
 			<td>
 				29,4 kWh
@@ -1167,7 +1167,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				72 kW
 			</td>
 			<td>
-				 23 m 33 s
+				 24 m 3 s
 			</td>
 			<td>
 				29,9 kWh
@@ -1181,7 +1181,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				71 kW
 			</td>
 			<td>
-				 23 m 57 s
+				 24 m 28 s
 			</td>
 			<td>
 				30,4 kWh
@@ -1195,7 +1195,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				70 kW
 			</td>
 			<td>
-				 24 m 22 s
+				 24 m 54 s
 			</td>
 			<td>
 				30,8 kWh
@@ -1209,7 +1209,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				45 kW
 			</td>
 			<td>
-				 24 m 52 s
+				 25 m 24 s
 			</td>
 			<td>
 				31,3 kWh
@@ -1223,7 +1223,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				44 kW
 			</td>
 			<td>
-				 25 m 31 s
+				 26 m 4 s
 			</td>
 			<td>
 				31,7 kWh
@@ -1237,7 +1237,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				44 kW
 			</td>
 			<td>
-				 26 m 11 s
+				 26 m 45 s
 			</td>
 			<td>
 				32,2 kWh
@@ -1251,7 +1251,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				43 kW
 			</td>
 			<td>
-				 26 m 51 s
+				 27 m 26 s
 			</td>
 			<td>
 				32,7 kWh
@@ -1265,7 +1265,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				42 kW
 			</td>
 			<td>
-				 27 m 32 s
+				 28 m 8 s
 			</td>
 			<td>
 				33,1 kWh
@@ -1279,7 +1279,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				41 kW
 			</td>
 			<td>
-				 28 m 14 s
+				 28 m 51 s
 			</td>
 			<td>
 				33,6 kWh
@@ -1293,7 +1293,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				41 kW
 			</td>
 			<td>
-				 28 m 57 s
+				 29 m 34 s
 			</td>
 			<td>
 				34,0 kWh
@@ -1307,7 +1307,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				40 kW
 			</td>
 			<td>
-				 29 m 40 s
+				 30 m 18 s
 			</td>
 			<td>
 				34,5 kWh
@@ -1321,7 +1321,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				33 kW
 			</td>
 			<td>
-				 30 m 28 s
+				 31 m 7 s
 			</td>
 			<td>
 				35,0 kWh
@@ -1335,7 +1335,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				32 kW
 			</td>
 			<td>
-				 31 m 21 s
+				 32 m 1 s
 			</td>
 			<td>
 				35,4 kWh
@@ -1349,7 +1349,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				32 kW
 			</td>
 			<td>
-				 32 m 16 s
+				 32 m 57 s
 			</td>
 			<td>
 				35,9 kWh
@@ -1363,7 +1363,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				31 kW
 			</td>
 			<td>
-				 33 m 12 s
+				 33 m 55 s
 			</td>
 			<td>
 				36,3 kWh
@@ -1377,7 +1377,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				30 kW
 			</td>
 			<td>
-				 34 m 9 s
+				 34 m 53 s
 			</td>
 			<td>
 				36,8 kWh
@@ -1391,7 +1391,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				25 kW
 			</td>
 			<td>
-				 35 m 12 s
+				 35 m 58 s
 			</td>
 			<td>
 				37,3 kWh
@@ -1405,7 +1405,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				25 kW
 			</td>
 			<td>
-				 36 m 23 s
+				 37 m 10 s
 			</td>
 			<td>
 				37,7 kWh
@@ -1419,7 +1419,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				24 kW
 			</td>
 			<td>
-				 37 m 34 s
+				 38 m 22 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1433,7 +1433,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				24 kW
 			</td>
 			<td>
-				 38 m 46 s
+				 39 m 36 s
 			</td>
 			<td>
 				38,6 kWh
@@ -1447,7 +1447,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				24 kW
 			</td>
 			<td>
-				 39 m 58 s
+				 40 m 50 s
 			</td>
 			<td>
 				39,1 kWh
@@ -1461,7 +1461,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				23 kW
 			</td>
 			<td>
-				 41 m 12 s
+				 42 m 5 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1475,7 +1475,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				23 kW
 			</td>
 			<td>
-				 42 m 27 s
+				 43 m 22 s
 			</td>
 			<td>
 				40,0 kWh
@@ -1489,7 +1489,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				23 kW
 			</td>
 			<td>
-				 43 m 43 s
+				 44 m 39 s
 			</td>
 			<td>
 				40,5 kWh
@@ -1503,7 +1503,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				23 kW
 			</td>
 			<td>
-				 45 m 0 s
+				 45 m 58 s
 			</td>
 			<td>
 				40,9 kWh
@@ -1517,7 +1517,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				22 kW
 			</td>
 			<td>
-				 46 m 18 s
+				 47 m 17 s
 			</td>
 			<td>
 				41,4 kWh
@@ -1531,7 +1531,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				22 kW
 			</td>
 			<td>
-				 47 m 37 s
+				 48 m 38 s
 			</td>
 			<td>
 				41,9 kWh
@@ -1545,7 +1545,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				22 kW
 			</td>
 			<td>
-				 48 m 57 s
+				 50 m 0 s
 			</td>
 			<td>
 				42,3 kWh
@@ -1559,7 +1559,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				21 kW
 			</td>
 			<td>
-				 50 m 18 s
+				 51 m 23 s
 			</td>
 			<td>
 				42,8 kWh
@@ -1573,7 +1573,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				21 kW
 			</td>
 			<td>
-				 51 m 40 s
+				 52 m 47 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1587,7 +1587,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				19 kW
 			</td>
 			<td>
-				 53 m 7 s
+				 54 m 16 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1601,7 +1601,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				17 kW
 			</td>
 			<td>
-				 54 m 44 s
+				 55 m 55 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1615,7 +1615,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				16 kW
 			</td>
 			<td>
-				 56 m 30 s
+				 57 m 43 s
 			</td>
 			<td>
 				44,6 kWh
@@ -1629,7 +1629,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				13 kW
 			</td>
 			<td>
-				 58 m 30 s
+				 59 m 46 s
 			</td>
 			<td>
 				45,1 kWh
@@ -1643,7 +1643,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				11 kW
 			</td>
 			<td>
-				1 h 0 m 55 s
+				1 h 2 m 14 s
 			</td>
 			<td>
 				45,5 kWh
@@ -1657,7 +1657,7 @@ Hyundai INSTER Long Range verfügt über eine Batterieheizung, die das Laden bei
 				8 kW
 			</td>
 			<td>
-				1 h 3 m 59 s
+				1 h 5 m 21 s
 			</td>
 			<td>
 				46,0 kWh

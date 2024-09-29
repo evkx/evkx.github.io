@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 120,0 kWh och en nettoanvänd
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 555 km (199 miles), med en energiförbrukningshastighet på 20,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 92 minuter, medan ett vanligare scenario på 10-80 % tar 47 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 103kW. Varje laddningssession tar 29 minuter och 59 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 94 minuter, medan ett vanligare scenario på 10-80 % tar 48 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 101kW. Varje laddningssession tar 29 minuter och 30 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 9 timmar och 58 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 42%, med en total laddningstid på 98 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 9 timmar och 59 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 42%, med en total laddningstid på 100 minuter.
 
 ### Ombordladdare
 

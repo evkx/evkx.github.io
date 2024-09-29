@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 240,0 kWh och en nettoanvänd
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 708 km med en energiförbrukning på 30,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 83 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 253kW. Varje laddningssession tar 29 minuter och 1 sekunder. Denna exceptionellt snabba laddningskapacitet gör Chevrolet Silverado EV SRT till en av de mest effektiva och bekväma elbilarna för långresor.
+Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 85 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 249kW. Varje laddningssession tar 27 minuter och 56 sekunder. Denna exceptionellt snabba laddningskapacitet gör Chevrolet Silverado EV SRT till en av de mest effektiva och bekväma elbilarna för långresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 38 kWh/100 km, skulle resan ta ungefär 9 timmar och 0 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 40%, med en total laddningstid på 40 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 38 kWh/100 km, skulle resan ta ungefär 9 timmar och 1 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 40%, med en total laddningstid på 41 minuter.
 
 ### Ombordladdare
 

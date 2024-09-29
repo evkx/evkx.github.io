@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron edition Dakar Ladekurve & Leistung
 linktitle: "Ladekurve"
-description: "Hier finden Sie die Ladekurve für Audi Q8 e-tron edition Dakar."
+description: "Unten ist die Ladekurve für Audi Q8 e-tron edition Dakar dargestellt, die die Ladegeschwindigkeit bei verschiedenen Batterieständen veranschaulicht. Zusätzlich bieten Diagramme für Reichweite und Zeit umfassende Details zur Ladeleistung."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 0 - 100%
 			</td>
 			<td>
-				96,4 kW
+				94,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-100%
 			</td>
 			<td>
-				94,2 kW
+				92,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-90%
 			</td>
 			<td>
-				126,7 kW
+				124,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Durchschnittliche Ladegeschwindigkeit 10-80%
 			</td>
 			<td>
-				139,8 kW
+				136,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimales Ladegebiet
 			</td>
 			<td>
-				3% - 74%
+				4% - 73%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				122,1kW
+				119,9kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				37m58s
+				37m36s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 5 m 58 s
+				1 h 7 m 23 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				1 h 0 m 44 s
+				1 h 2 m 2 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 31 m 50 s
+				 32 m 31 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,4 km (4,6 mi)
-			</td>
-			<td>
-				7,0 km (4,4 mi)
-			</td>
-			<td>
-				6,0 km (3,7 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Reichweite pro Minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				7,2 km (4,5 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+			<td>
+				6,7 km (4,2 mi)
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Reichweite pro Minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				10,7 km (6,7 mi)
+				10,5 km (6,5 mi)
 			</td>
 			<td>
-				10,1 km (6,3 mi)
+				9,9 km (6,2 mi)
 			</td>
 			<td>
-				8,6 km (5,3 mi)
+				8,4 km (5,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -265,7 +265,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				127 kW
 			</td>
 			<td>
-				 0 m 35 s
+				 0 m 36 s
 			</td>
 			<td>
 				1,1 kWh
@@ -279,7 +279,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				128 kW
 			</td>
 			<td>
-				 1 m 6 s
+				 1 m 8 s
 			</td>
 			<td>
 				2,1 kWh
@@ -293,7 +293,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				128 kW
 			</td>
 			<td>
-				 1 m 38 s
+				 1 m 40 s
 			</td>
 			<td>
 				3,2 kWh
@@ -307,7 +307,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				129 kW
 			</td>
 			<td>
-				 2 m 9 s
+				 2 m 12 s
 			</td>
 			<td>
 				4,2 kWh
@@ -321,7 +321,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				130 kW
 			</td>
 			<td>
-				 2 m 40 s
+				 2 m 44 s
 			</td>
 			<td>
 				5,3 kWh
@@ -335,7 +335,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				130 kW
 			</td>
 			<td>
-				 3 m 11 s
+				 3 m 15 s
 			</td>
 			<td>
 				6,4 kWh
@@ -349,7 +349,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				131 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 47 s
 			</td>
 			<td>
 				7,4 kWh
@@ -363,7 +363,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				132 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 4 m 18 s
 			</td>
 			<td>
 				8,5 kWh
@@ -377,7 +377,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				132 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				9,5 kWh
@@ -391,7 +391,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				133 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 5 m 20 s
 			</td>
 			<td>
 				10,6 kWh
@@ -405,7 +405,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				134 kW
 			</td>
 			<td>
-				 5 m 43 s
+				 5 m 51 s
 			</td>
 			<td>
 				11,7 kWh
@@ -419,7 +419,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				134 kW
 			</td>
 			<td>
-				 6 m 13 s
+				 6 m 21 s
 			</td>
 			<td>
 				12,7 kWh
@@ -433,7 +433,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				135 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 6 m 52 s
 			</td>
 			<td>
 				13,8 kWh
@@ -447,7 +447,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				136 kW
 			</td>
 			<td>
-				 7 m 13 s
+				 7 m 22 s
 			</td>
 			<td>
 				14,8 kWh
@@ -461,7 +461,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				136 kW
 			</td>
 			<td>
-				 7 m 42 s
+				 7 m 52 s
 			</td>
 			<td>
 				15,9 kWh
@@ -475,7 +475,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				137 kW
 			</td>
 			<td>
-				 8 m 12 s
+				 8 m 22 s
 			</td>
 			<td>
 				17,0 kWh
@@ -489,7 +489,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 8 m 41 s
+				 8 m 52 s
 			</td>
 			<td>
 				18,0 kWh
@@ -503,7 +503,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				138 kW
 			</td>
 			<td>
-				 9 m 10 s
+				 9 m 22 s
 			</td>
 			<td>
 				19,1 kWh
@@ -517,7 +517,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				139 kW
 			</td>
 			<td>
-				 9 m 39 s
+				 9 m 51 s
 			</td>
 			<td>
 				20,1 kWh
@@ -531,7 +531,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				140 kW
 			</td>
 			<td>
-				 10 m 8 s
+				 10 m 21 s
 			</td>
 			<td>
 				21,2 kWh
@@ -545,7 +545,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				140 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 50 s
 			</td>
 			<td>
 				22,3 kWh
@@ -559,7 +559,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				141 kW
 			</td>
 			<td>
-				 11 m 5 s
+				 11 m 19 s
 			</td>
 			<td>
 				23,3 kWh
@@ -573,7 +573,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				142 kW
 			</td>
 			<td>
-				 11 m 33 s
+				 11 m 48 s
 			</td>
 			<td>
 				24,4 kWh
@@ -587,7 +587,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				142 kW
 			</td>
 			<td>
-				 12 m 2 s
+				 12 m 17 s
 			</td>
 			<td>
 				25,4 kWh
@@ -601,7 +601,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				143 kW
 			</td>
 			<td>
-				 12 m 30 s
+				 12 m 46 s
 			</td>
 			<td>
 				26,5 kWh
@@ -615,7 +615,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				144 kW
 			</td>
 			<td>
-				 12 m 58 s
+				 13 m 15 s
 			</td>
 			<td>
 				27,6 kWh
@@ -629,7 +629,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				146 kW
 			</td>
 			<td>
-				 13 m 25 s
+				 13 m 43 s
 			</td>
 			<td>
 				28,6 kWh
@@ -643,7 +643,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				147 kW
 			</td>
 			<td>
-				 13 m 53 s
+				 14 m 11 s
 			</td>
 			<td>
 				29,7 kWh
@@ -657,7 +657,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				149 kW
 			</td>
 			<td>
-				 14 m 20 s
+				 14 m 39 s
 			</td>
 			<td>
 				30,7 kWh
@@ -671,7 +671,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				150 kW
 			</td>
 			<td>
-				 14 m 47 s
+				 15 m 6 s
 			</td>
 			<td>
 				31,8 kWh
@@ -685,7 +685,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				152 kW
 			</td>
 			<td>
-				 15 m 14 s
+				 15 m 33 s
 			</td>
 			<td>
 				32,9 kWh
@@ -699,7 +699,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				153 kW
 			</td>
 			<td>
-				 15 m 40 s
+				 16 m 0 s
 			</td>
 			<td>
 				33,9 kWh
@@ -713,7 +713,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				154 kW
 			</td>
 			<td>
-				 16 m 6 s
+				 16 m 27 s
 			</td>
 			<td>
 				35,0 kWh
@@ -727,7 +727,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				156 kW
 			</td>
 			<td>
-				 16 m 32 s
+				 16 m 53 s
 			</td>
 			<td>
 				36,0 kWh
@@ -741,7 +741,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				157 kW
 			</td>
 			<td>
-				 16 m 58 s
+				 17 m 20 s
 			</td>
 			<td>
 				37,1 kWh
@@ -755,7 +755,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				159 kW
 			</td>
 			<td>
-				 17 m 23 s
+				 17 m 46 s
 			</td>
 			<td>
 				38,2 kWh
@@ -769,7 +769,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				160 kW
 			</td>
 			<td>
-				 17 m 48 s
+				 18 m 11 s
 			</td>
 			<td>
 				39,2 kWh
@@ -783,7 +783,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				161 kW
 			</td>
 			<td>
-				 18 m 13 s
+				 18 m 37 s
 			</td>
 			<td>
 				40,3 kWh
@@ -797,7 +797,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				161 kW
 			</td>
 			<td>
-				 18 m 38 s
+				 19 m 2 s
 			</td>
 			<td>
 				41,3 kWh
@@ -811,7 +811,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				162 kW
 			</td>
 			<td>
-				 19 m 3 s
+				 19 m 28 s
 			</td>
 			<td>
 				42,4 kWh
@@ -825,7 +825,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				162 kW
 			</td>
 			<td>
-				 19 m 28 s
+				 19 m 53 s
 			</td>
 			<td>
 				43,5 kWh
@@ -839,7 +839,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				163 kW
 			</td>
 			<td>
-				 19 m 53 s
+				 20 m 18 s
 			</td>
 			<td>
 				44,5 kWh
@@ -853,7 +853,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				163 kW
 			</td>
 			<td>
-				 20 m 17 s
+				 20 m 44 s
 			</td>
 			<td>
 				45,6 kWh
@@ -867,7 +867,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				164 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 21 m 9 s
 			</td>
 			<td>
 				46,6 kWh
@@ -881,7 +881,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				164 kW
 			</td>
 			<td>
-				 21 m 7 s
+				 21 m 34 s
 			</td>
 			<td>
 				47,7 kWh
@@ -895,7 +895,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				165 kW
 			</td>
 			<td>
-				 21 m 31 s
+				 21 m 59 s
 			</td>
 			<td>
 				48,8 kWh
@@ -909,7 +909,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				165 kW
 			</td>
 			<td>
-				 21 m 55 s
+				 22 m 24 s
 			</td>
 			<td>
 				49,8 kWh
@@ -923,7 +923,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				166 kW
 			</td>
 			<td>
-				 22 m 20 s
+				 22 m 48 s
 			</td>
 			<td>
 				50,9 kWh
@@ -937,7 +937,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				166 kW
 			</td>
 			<td>
-				 22 m 44 s
+				 23 m 13 s
 			</td>
 			<td>
 				51,9 kWh
@@ -951,7 +951,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				167 kW
 			</td>
 			<td>
-				 23 m 8 s
+				 23 m 38 s
 			</td>
 			<td>
 				53,0 kWh
@@ -965,7 +965,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				167 kW
 			</td>
 			<td>
-				 23 m 32 s
+				 24 m 2 s
 			</td>
 			<td>
 				54,1 kWh
@@ -979,7 +979,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				168 kW
 			</td>
 			<td>
-				 23 m 56 s
+				 24 m 27 s
 			</td>
 			<td>
 				55,1 kWh
@@ -993,7 +993,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				168 kW
 			</td>
 			<td>
-				 24 m 20 s
+				 24 m 51 s
 			</td>
 			<td>
 				56,2 kWh
@@ -1007,7 +1007,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				169 kW
 			</td>
 			<td>
-				 24 m 44 s
+				 25 m 16 s
 			</td>
 			<td>
 				57,2 kWh
@@ -1021,7 +1021,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				169 kW
 			</td>
 			<td>
-				 25 m 7 s
+				 25 m 40 s
 			</td>
 			<td>
 				58,3 kWh
@@ -1035,7 +1035,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				170 kW
 			</td>
 			<td>
-				 25 m 31 s
+				 26 m 4 s
 			</td>
 			<td>
 				59,4 kWh
@@ -1049,7 +1049,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				168 kW
 			</td>
 			<td>
-				 25 m 55 s
+				 26 m 28 s
 			</td>
 			<td>
 				60,4 kWh
@@ -1063,7 +1063,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				166 kW
 			</td>
 			<td>
-				 26 m 19 s
+				 26 m 53 s
 			</td>
 			<td>
 				61,5 kWh
@@ -1077,7 +1077,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				164 kW
 			</td>
 			<td>
-				 26 m 43 s
+				 27 m 18 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1091,7 +1091,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				161 kW
 			</td>
 			<td>
-				 27 m 8 s
+				 27 m 43 s
 			</td>
 			<td>
 				63,6 kWh
@@ -1105,7 +1105,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				159 kW
 			</td>
 			<td>
-				 27 m 33 s
+				 28 m 9 s
 			</td>
 			<td>
 				64,7 kWh
@@ -1119,7 +1119,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				157 kW
 			</td>
 			<td>
-				 27 m 59 s
+				 28 m 35 s
 			</td>
 			<td>
 				65,7 kWh
@@ -1133,7 +1133,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				155 kW
 			</td>
 			<td>
-				 28 m 24 s
+				 29 m 1 s
 			</td>
 			<td>
 				66,8 kWh
@@ -1147,7 +1147,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				152 kW
 			</td>
 			<td>
-				 28 m 51 s
+				 29 m 28 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1161,7 +1161,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				150 kW
 			</td>
 			<td>
-				 29 m 17 s
+				 29 m 55 s
 			</td>
 			<td>
 				68,9 kWh
@@ -1175,7 +1175,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				148 kW
 			</td>
 			<td>
-				 29 m 44 s
+				 30 m 22 s
 			</td>
 			<td>
 				70,0 kWh
@@ -1189,7 +1189,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				146 kW
 			</td>
 			<td>
-				 30 m 11 s
+				 30 m 50 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1203,7 +1203,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				144 kW
 			</td>
 			<td>
-				 30 m 39 s
+				 31 m 19 s
 			</td>
 			<td>
 				72,1 kWh
@@ -1217,7 +1217,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				142 kW
 			</td>
 			<td>
-				 31 m 7 s
+				 31 m 47 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1231,7 +1231,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				140 kW
 			</td>
 			<td>
-				 31 m 36 s
+				 32 m 16 s
 			</td>
 			<td>
 				74,2 kWh
@@ -1245,7 +1245,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				137 kW
 			</td>
 			<td>
-				 32 m 5 s
+				 32 m 46 s
 			</td>
 			<td>
 				75,3 kWh
@@ -1259,7 +1259,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				134 kW
 			</td>
 			<td>
-				 32 m 34 s
+				 33 m 16 s
 			</td>
 			<td>
 				76,3 kWh
@@ -1273,7 +1273,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				130 kW
 			</td>
 			<td>
-				 33 m 5 s
+				 33 m 48 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1287,7 +1287,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				127 kW
 			</td>
 			<td>
-				 33 m 36 s
+				 34 m 19 s
 			</td>
 			<td>
 				78,4 kWh
@@ -1301,7 +1301,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				124 kW
 			</td>
 			<td>
-				 34 m 8 s
+				 34 m 52 s
 			</td>
 			<td>
 				79,5 kWh
@@ -1315,7 +1315,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				120 kW
 			</td>
 			<td>
-				 34 m 41 s
+				 35 m 26 s
 			</td>
 			<td>
 				80,6 kWh
@@ -1329,7 +1329,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				116 kW
 			</td>
 			<td>
-				 35 m 15 s
+				 36 m 0 s
 			</td>
 			<td>
 				81,6 kWh
@@ -1343,7 +1343,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				113 kW
 			</td>
 			<td>
-				 35 m 50 s
+				 36 m 36 s
 			</td>
 			<td>
 				82,7 kWh
@@ -1357,7 +1357,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				109 kW
 			</td>
 			<td>
-				 36 m 26 s
+				 37 m 13 s
 			</td>
 			<td>
 				83,7 kWh
@@ -1371,7 +1371,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				105 kW
 			</td>
 			<td>
-				 37 m 4 s
+				 37 m 52 s
 			</td>
 			<td>
 				84,8 kWh
@@ -1385,7 +1385,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				101 kW
 			</td>
 			<td>
-				 37 m 43 s
+				 38 m 32 s
 			</td>
 			<td>
 				85,9 kWh
@@ -1399,7 +1399,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				96 kW
 			</td>
 			<td>
-				 38 m 24 s
+				 39 m 13 s
 			</td>
 			<td>
 				86,9 kWh
@@ -1413,7 +1413,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				92 kW
 			</td>
 			<td>
-				 39 m 7 s
+				 39 m 57 s
 			</td>
 			<td>
 				88,0 kWh
@@ -1427,7 +1427,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				87 kW
 			</td>
 			<td>
-				 39 m 52 s
+				 40 m 43 s
 			</td>
 			<td>
 				89,0 kWh
@@ -1441,7 +1441,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				83 kW
 			</td>
 			<td>
-				 40 m 39 s
+				 41 m 31 s
 			</td>
 			<td>
 				90,1 kWh
@@ -1455,7 +1455,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				78 kW
 			</td>
 			<td>
-				 41 m 29 s
+				 42 m 23 s
 			</td>
 			<td>
 				91,2 kWh
@@ -1469,7 +1469,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				74 kW
 			</td>
 			<td>
-				 42 m 22 s
+				 43 m 17 s
 			</td>
 			<td>
 				92,2 kWh
@@ -1483,7 +1483,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				69 kW
 			</td>
 			<td>
-				 43 m 18 s
+				 44 m 14 s
 			</td>
 			<td>
 				93,3 kWh
@@ -1497,7 +1497,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				65 kW
 			</td>
 			<td>
-				 44 m 19 s
+				 45 m 16 s
 			</td>
 			<td>
 				94,3 kWh
@@ -1511,7 +1511,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				60 kW
 			</td>
 			<td>
-				 45 m 23 s
+				 46 m 22 s
 			</td>
 			<td>
 				95,4 kWh
@@ -1525,7 +1525,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				56 kW
 			</td>
 			<td>
-				 46 m 33 s
+				 47 m 33 s
 			</td>
 			<td>
 				96,5 kWh
@@ -1539,7 +1539,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				51 kW
 			</td>
 			<td>
-				 47 m 48 s
+				 48 m 50 s
 			</td>
 			<td>
 				97,5 kWh
@@ -1553,7 +1553,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				47 kW
 			</td>
 			<td>
-				 49 m 11 s
+				 50 m 14 s
 			</td>
 			<td>
 				98,6 kWh
@@ -1567,7 +1567,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				42 kW
 			</td>
 			<td>
-				 50 m 41 s
+				 51 m 47 s
 			</td>
 			<td>
 				99,6 kWh
@@ -1581,7 +1581,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				38 kW
 			</td>
 			<td>
-				 52 m 22 s
+				 53 m 30 s
 			</td>
 			<td>
 				100,7 kWh
@@ -1595,7 +1595,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				33 kW
 			</td>
 			<td>
-				 54 m 16 s
+				 55 m 26 s
 			</td>
 			<td>
 				101,8 kWh
@@ -1609,7 +1609,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				29 kW
 			</td>
 			<td>
-				 56 m 27 s
+				 57 m 40 s
 			</td>
 			<td>
 				102,8 kWh
@@ -1623,7 +1623,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				24 kW
 			</td>
 			<td>
-				 59 m 0 s
+				1 h 0 m 16 s
 			</td>
 			<td>
 				103,9 kWh
@@ -1637,7 +1637,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				20 kW
 			</td>
 			<td>
-				1 h 2 m 5 s
+				1 h 3 m 25 s
 			</td>
 			<td>
 				104,9 kWh
@@ -1651,7 +1651,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 				15 kW
 			</td>
 			<td>
-				1 h 5 m 58 s
+				1 h 7 m 23 s
 			</td>
 			<td>
 				106,0 kWh

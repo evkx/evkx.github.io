@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric High Range courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour Renault Scenic E-Tech electric High Range."
+description: "Ci-dessous se trouve la courbe de charge pour Renault Scenic E-Tech electric High Range, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				71,7 kW
+				70,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				68,4 kW
+				67,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				85,0 kW
+				83,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				97,8 kW
+				95,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				97,5kW
+				95,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Durée d'arrêt de charge optimale
 			</td>
 			<td>
-				24m34s
+				24m58s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				1 h 12 m 47 s
+				1 h 14 m 21 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				1 h 8 m 39 s
+				1 h 10 m 8 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 37 m 21 s
+				 38 m 10 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,6 km (5,3 mi)
+				8,4 km (5,2 mi)
 			</td>
 			<td>
-				5,7 km (3,5 mi)
+				5,6 km (3,5 mi)
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				5,1 km (3,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				8,0 km (5,0 mi)
 			</td>
 			<td>
-				5,4 km (3,4 mi)
+				5,3 km (3,3 mi)
 			</td>
 			<td>
-				5,0 km (3,1 mi)
+				4,9 km (3,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				11,7 km (7,3 mi)
+				11,5 km (7,1 mi)
 			</td>
 			<td>
-				7,8 km (4,8 mi)
+				7,6 km (4,7 mi)
 			</td>
 			<td>
-				7,1 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				135 kW
 			</td>
 			<td>
-				 0 m 35 s
+				 0 m 36 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				136 kW
 			</td>
 			<td>
-				 0 m 59 s
+				 1 m 1 s
 			</td>
 			<td>
 				1,7 kWh
@@ -296,7 +296,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				138 kW
 			</td>
 			<td>
-				 1 m 24 s
+				 1 m 25 s
 			</td>
 			<td>
 				2,6 kWh
@@ -310,7 +310,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				139 kW
 			</td>
 			<td>
-				 1 m 47 s
+				 1 m 50 s
 			</td>
 			<td>
 				3,5 kWh
@@ -324,7 +324,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				140 kW
 			</td>
 			<td>
-				 2 m 11 s
+				 2 m 14 s
 			</td>
 			<td>
 				4,4 kWh
@@ -338,7 +338,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				141 kW
 			</td>
 			<td>
-				 2 m 35 s
+				 2 m 38 s
 			</td>
 			<td>
 				5,2 kWh
@@ -352,7 +352,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				141 kW
 			</td>
 			<td>
-				 2 m 58 s
+				 3 m 2 s
 			</td>
 			<td>
 				6,1 kWh
@@ -366,7 +366,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				142 kW
 			</td>
 			<td>
-				 3 m 21 s
+				 3 m 26 s
 			</td>
 			<td>
 				7,0 kWh
@@ -380,7 +380,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				142 kW
 			</td>
 			<td>
-				 3 m 45 s
+				 3 m 49 s
 			</td>
 			<td>
 				7,8 kWh
@@ -394,7 +394,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				143 kW
 			</td>
 			<td>
-				 4 m 8 s
+				 4 m 13 s
 			</td>
 			<td>
 				8,7 kWh
@@ -408,7 +408,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				143 kW
 			</td>
 			<td>
-				 4 m 31 s
+				 4 m 37 s
 			</td>
 			<td>
 				9,6 kWh
@@ -422,7 +422,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				144 kW
 			</td>
 			<td>
-				 4 m 54 s
+				 5 m 0 s
 			</td>
 			<td>
 				10,4 kWh
@@ -436,7 +436,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				144 kW
 			</td>
 			<td>
-				 5 m 17 s
+				 5 m 23 s
 			</td>
 			<td>
 				11,3 kWh
@@ -450,7 +450,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				145 kW
 			</td>
 			<td>
-				 5 m 39 s
+				 5 m 47 s
 			</td>
 			<td>
 				12,2 kWh
@@ -464,7 +464,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				146 kW
 			</td>
 			<td>
-				 6 m 2 s
+				 6 m 10 s
 			</td>
 			<td>
 				13,0 kWh
@@ -478,7 +478,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				146 kW
 			</td>
 			<td>
-				 6 m 25 s
+				 6 m 33 s
 			</td>
 			<td>
 				13,9 kWh
@@ -492,7 +492,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				128 kW
 			</td>
 			<td>
-				 6 m 49 s
+				 6 m 57 s
 			</td>
 			<td>
 				14,8 kWh
@@ -506,7 +506,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				128 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 24 s
 			</td>
 			<td>
 				15,7 kWh
@@ -520,7 +520,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				128 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 7 m 50 s
 			</td>
 			<td>
 				16,5 kWh
@@ -534,7 +534,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				128 kW
 			</td>
 			<td>
-				 8 m 6 s
+				 8 m 16 s
 			</td>
 			<td>
 				17,4 kWh
@@ -548,7 +548,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				128 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				18,3 kWh
@@ -562,7 +562,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				128 kW
 			</td>
 			<td>
-				 8 m 57 s
+				 9 m 9 s
 			</td>
 			<td>
 				19,1 kWh
@@ -576,7 +576,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				129 kW
 			</td>
 			<td>
-				 9 m 23 s
+				 9 m 35 s
 			</td>
 			<td>
 				20,0 kWh
@@ -590,7 +590,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				129 kW
 			</td>
 			<td>
-				 9 m 49 s
+				 10 m 1 s
 			</td>
 			<td>
 				20,9 kWh
@@ -604,7 +604,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				129 kW
 			</td>
 			<td>
-				 10 m 14 s
+				 10 m 27 s
 			</td>
 			<td>
 				21,8 kWh
@@ -618,7 +618,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				129 kW
 			</td>
 			<td>
-				 10 m 40 s
+				 10 m 54 s
 			</td>
 			<td>
 				22,6 kWh
@@ -632,7 +632,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				129 kW
 			</td>
 			<td>
-				 11 m 5 s
+				 11 m 20 s
 			</td>
 			<td>
 				23,5 kWh
@@ -646,7 +646,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 11 m 31 s
+				 11 m 46 s
 			</td>
 			<td>
 				24,4 kWh
@@ -660,7 +660,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 12 m 12 s
 			</td>
 			<td>
 				25,2 kWh
@@ -674,7 +674,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 37 s
 			</td>
 			<td>
 				26,1 kWh
@@ -688,7 +688,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 12 m 47 s
+				 13 m 3 s
 			</td>
 			<td>
 				27,0 kWh
@@ -702,7 +702,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				27,8 kWh
@@ -716,7 +716,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 13 m 38 s
+				 13 m 55 s
 			</td>
 			<td>
 				28,7 kWh
@@ -730,7 +730,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 14 m 21 s
 			</td>
 			<td>
 				29,6 kWh
@@ -744,7 +744,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				130 kW
 			</td>
 			<td>
-				 14 m 28 s
+				 14 m 47 s
 			</td>
 			<td>
 				30,4 kWh
@@ -758,7 +758,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				129 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 15 m 13 s
 			</td>
 			<td>
 				31,3 kWh
@@ -772,7 +772,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				108 kW
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 41 s
 			</td>
 			<td>
 				32,2 kWh
@@ -786,7 +786,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				120 kW
 			</td>
 			<td>
-				 15 m 51 s
+				 16 m 11 s
 			</td>
 			<td>
 				33,1 kWh
@@ -800,7 +800,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				118 kW
 			</td>
 			<td>
-				 16 m 18 s
+				 16 m 39 s
 			</td>
 			<td>
 				33,9 kWh
@@ -814,7 +814,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				118 kW
 			</td>
 			<td>
-				 16 m 46 s
+				 17 m 8 s
 			</td>
 			<td>
 				34,8 kWh
@@ -828,7 +828,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				120 kW
 			</td>
 			<td>
-				 17 m 14 s
+				 17 m 36 s
 			</td>
 			<td>
 				35,7 kWh
@@ -842,7 +842,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				118 kW
 			</td>
 			<td>
-				 17 m 42 s
+				 18 m 4 s
 			</td>
 			<td>
 				36,5 kWh
@@ -856,7 +856,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				118 kW
 			</td>
 			<td>
-				 18 m 10 s
+				 18 m 33 s
 			</td>
 			<td>
 				37,4 kWh
@@ -870,7 +870,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				116 kW
 			</td>
 			<td>
-				 18 m 38 s
+				 19 m 2 s
 			</td>
 			<td>
 				38,3 kWh
@@ -884,7 +884,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 19 m 9 s
+				 19 m 34 s
 			</td>
 			<td>
 				39,2 kWh
@@ -898,7 +898,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 19 m 45 s
+				 20 m 10 s
 			</td>
 			<td>
 				40,0 kWh
@@ -912,7 +912,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 20 m 20 s
+				 20 m 46 s
 			</td>
 			<td>
 				40,9 kWh
@@ -926,7 +926,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 20 m 56 s
+				 21 m 23 s
 			</td>
 			<td>
 				41,8 kWh
@@ -940,7 +940,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 21 m 31 s
+				 21 m 59 s
 			</td>
 			<td>
 				42,6 kWh
@@ -954,7 +954,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 22 m 7 s
+				 22 m 35 s
 			</td>
 			<td>
 				43,5 kWh
@@ -968,7 +968,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 22 m 42 s
+				 23 m 11 s
 			</td>
 			<td>
 				44,4 kWh
@@ -982,7 +982,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				94 kW
 			</td>
 			<td>
-				 23 m 17 s
+				 23 m 47 s
 			</td>
 			<td>
 				45,2 kWh
@@ -996,7 +996,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				94 kW
 			</td>
 			<td>
-				 23 m 52 s
+				 24 m 23 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1010,7 +1010,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				94 kW
 			</td>
 			<td>
-				 24 m 27 s
+				 24 m 59 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1024,7 +1024,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				94 kW
 			</td>
 			<td>
-				 25 m 2 s
+				 25 m 35 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1038,7 +1038,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				94 kW
 			</td>
 			<td>
-				 25 m 38 s
+				 26 m 11 s
 			</td>
 			<td>
 				48,7 kWh
@@ -1052,7 +1052,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				95 kW
 			</td>
 			<td>
-				 26 m 12 s
+				 26 m 46 s
 			</td>
 			<td>
 				49,6 kWh
@@ -1066,7 +1066,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				95 kW
 			</td>
 			<td>
-				 26 m 47 s
+				 27 m 22 s
 			</td>
 			<td>
 				50,5 kWh
@@ -1080,7 +1080,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				95 kW
 			</td>
 			<td>
-				 27 m 22 s
+				 27 m 57 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1094,7 +1094,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				95 kW
 			</td>
 			<td>
-				 27 m 57 s
+				 28 m 33 s
 			</td>
 			<td>
 				52,2 kWh
@@ -1108,7 +1108,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				96 kW
 			</td>
 			<td>
-				 28 m 31 s
+				 29 m 8 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1122,7 +1122,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				96 kW
 			</td>
 			<td>
-				 29 m 5 s
+				 29 m 43 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1136,7 +1136,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				93 kW
 			</td>
 			<td>
-				 29 m 40 s
+				 30 m 19 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1150,7 +1150,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				87 kW
 			</td>
 			<td>
-				 30 m 17 s
+				 30 m 56 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1164,7 +1164,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				86 kW
 			</td>
 			<td>
-				 30 m 55 s
+				 31 m 35 s
 			</td>
 			<td>
 				56,6 kWh
@@ -1178,7 +1178,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				87 kW
 			</td>
 			<td>
-				 31 m 33 s
+				 32 m 14 s
 			</td>
 			<td>
 				57,4 kWh
@@ -1192,7 +1192,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				86 kW
 			</td>
 			<td>
-				 32 m 11 s
+				 32 m 53 s
 			</td>
 			<td>
 				58,3 kWh
@@ -1206,7 +1206,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				86 kW
 			</td>
 			<td>
-				 32 m 50 s
+				 33 m 32 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1220,7 +1220,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				87 kW
 			</td>
 			<td>
-				 33 m 28 s
+				 34 m 11 s
 			</td>
 			<td>
 				60,0 kWh
@@ -1234,7 +1234,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				87 kW
 			</td>
 			<td>
-				 34 m 6 s
+				 34 m 50 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1248,7 +1248,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				87 kW
 			</td>
 			<td>
-				 34 m 43 s
+				 35 m 28 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1262,7 +1262,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				82 kW
 			</td>
 			<td>
-				 35 m 22 s
+				 36 m 8 s
 			</td>
 			<td>
 				62,6 kWh
@@ -1276,7 +1276,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				83 kW
 			</td>
 			<td>
-				 36 m 2 s
+				 36 m 49 s
 			</td>
 			<td>
 				63,5 kWh
@@ -1290,7 +1290,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				78 kW
 			</td>
 			<td>
-				 36 m 43 s
+				 37 m 31 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1304,7 +1304,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				76 kW
 			</td>
 			<td>
-				 37 m 26 s
+				 38 m 15 s
 			</td>
 			<td>
 				65,2 kWh
@@ -1318,7 +1318,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				73 kW
 			</td>
 			<td>
-				 38 m 10 s
+				 39 m 0 s
 			</td>
 			<td>
 				66,1 kWh
@@ -1332,7 +1332,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				68 kW
 			</td>
 			<td>
-				 38 m 57 s
+				 39 m 48 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1346,7 +1346,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				65 kW
 			</td>
 			<td>
-				 39 m 47 s
+				 40 m 38 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1360,7 +1360,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				65 kW
 			</td>
 			<td>
-				 40 m 38 s
+				 41 m 30 s
 			</td>
 			<td>
 				68,7 kWh
@@ -1374,7 +1374,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				62 kW
 			</td>
 			<td>
-				 41 m 29 s
+				 42 m 23 s
 			</td>
 			<td>
 				69,6 kWh
@@ -1388,7 +1388,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				58 kW
 			</td>
 			<td>
-				 42 m 24 s
+				 43 m 19 s
 			</td>
 			<td>
 				70,5 kWh
@@ -1402,7 +1402,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				56 kW
 			</td>
 			<td>
-				 43 m 22 s
+				 44 m 18 s
 			</td>
 			<td>
 				71,3 kWh
@@ -1416,7 +1416,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				55 kW
 			</td>
 			<td>
-				 44 m 22 s
+				 45 m 19 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1430,7 +1430,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				54 kW
 			</td>
 			<td>
-				 45 m 22 s
+				 46 m 21 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1444,7 +1444,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				53 kW
 			</td>
 			<td>
-				 46 m 24 s
+				 47 m 24 s
 			</td>
 			<td>
 				74,0 kWh
@@ -1458,7 +1458,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				46 kW
 			</td>
 			<td>
-				 47 m 30 s
+				 48 m 32 s
 			</td>
 			<td>
 				74,8 kWh
@@ -1472,7 +1472,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				37 kW
 			</td>
 			<td>
-				 48 m 50 s
+				 49 m 53 s
 			</td>
 			<td>
 				75,7 kWh
@@ -1486,7 +1486,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				37 kW
 			</td>
 			<td>
-				 50 m 19 s
+				 51 m 24 s
 			</td>
 			<td>
 				76,6 kWh
@@ -1500,7 +1500,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				37 kW
 			</td>
 			<td>
-				 51 m 48 s
+				 52 m 55 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1514,7 +1514,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				37 kW
 			</td>
 			<td>
-				 53 m 17 s
+				 54 m 26 s
 			</td>
 			<td>
 				78,3 kWh
@@ -1528,7 +1528,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				36 kW
 			</td>
 			<td>
-				 54 m 48 s
+				 55 m 58 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1542,7 +1542,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				35 kW
 			</td>
 			<td>
-				 56 m 21 s
+				 57 m 34 s
 			</td>
 			<td>
 				80,0 kWh
@@ -1556,7 +1556,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				34 kW
 			</td>
 			<td>
-				 57 m 57 s
+				 59 m 12 s
 			</td>
 			<td>
 				80,9 kWh
@@ -1570,7 +1570,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				33 kW
 			</td>
 			<td>
-				 59 m 37 s
+				1 h 0 m 54 s
 			</td>
 			<td>
 				81,8 kWh
@@ -1584,7 +1584,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				31 kW
 			</td>
 			<td>
-				1 h 1 m 20 s
+				1 h 2 m 39 s
 			</td>
 			<td>
 				82,6 kWh
@@ -1598,7 +1598,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				30 kW
 			</td>
 			<td>
-				1 h 3 m 7 s
+				1 h 4 m 28 s
 			</td>
 			<td>
 				83,5 kWh
@@ -1612,7 +1612,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				29 kW
 			</td>
 			<td>
-				1 h 4 m 57 s
+				1 h 6 m 21 s
 			</td>
 			<td>
 				84,4 kWh
@@ -1626,7 +1626,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				28 kW
 			</td>
 			<td>
-				1 h 6 m 52 s
+				1 h 8 m 19 s
 			</td>
 			<td>
 				85,3 kWh
@@ -1640,7 +1640,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				27 kW
 			</td>
 			<td>
-				1 h 8 m 52 s
+				1 h 10 m 21 s
 			</td>
 			<td>
 				86,1 kWh
@@ -1654,7 +1654,7 @@ Renault Scenic E-Tech electric High Range dispose d'un chauffage de batterie, ce
 				1 kW
 			</td>
 			<td>
-				1 h 12 m 47 s
+				1 h 14 m 21 s
 			</td>
 			<td>
 				87,0 kWh

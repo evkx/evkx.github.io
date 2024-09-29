@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ici vous trouvez la courbe de charge pour HiPhi Z 4 Seater."
+description: "Ci-dessous se trouve la courbe de charge pour HiPhi Z 4 Seater, illustrant la vitesse de charge √† diff√©rents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des d√©tails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 0 - 100%
 			</td>
 			<td>
-				73,5 kW
+				71,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-100%
 			</td>
 			<td>
-				71,5 kW
+				70,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-90%
 			</td>
 			<td>
-				88,7 kW
+				86,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Vitesse de charge moyenne 10-80%
 			</td>
 			<td>
-				100,5 kW
+				98,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Vitesse de charge optimale incluant 5 minutes de perte
 			</td>
 			<td>
-				102,9kW
+				101,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Dur√©e d'arr√™t de charge optimale
 			</td>
 			<td>
-				29m59s
+				29m30s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Temps de charge 0-100%
 			</td>
 			<td>
-				1 h 32 m 17 s
+				1 h 34 m 16 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-100%
 			</td>
 			<td>
-				1 h 25 m 22 s
+				1 h 27 m 12 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Temps de charge 10-80%
 			</td>
 			<td>
-				 47 m 14 s
+				 48 m 15 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,0 km (3,7 mi)
-			</td>
-			<td>
-				4,7 km (2,9 mi)
-			</td>
-			<td>
-				4,4 km (2,7 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Autonomie par minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				5,9 km (3,7 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+			<td>
+				4,2 km (2,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Autonomie par minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,3 km (3,9 mi)
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				64 kW
 			</td>
 			<td>
-				 1 m 15 s
+				 1 m 16 s
 			</td>
 			<td>
 				1,1 kWh
@@ -282,7 +282,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				78 kW
 			</td>
 			<td>
-				 2 m 15 s
+				 2 m 18 s
 			</td>
 			<td>
 				2,3 kWh
@@ -296,7 +296,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				91 kW
 			</td>
 			<td>
-				 3 m 6 s
+				 3 m 10 s
 			</td>
 			<td>
 				3,4 kWh
@@ -310,7 +310,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				105 kW
 			</td>
 			<td>
-				 3 m 50 s
+				 3 m 55 s
 			</td>
 			<td>
 				4,5 kWh
@@ -324,7 +324,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				119 kW
 			</td>
 			<td>
-				 4 m 28 s
+				 4 m 34 s
 			</td>
 			<td>
 				5,6 kWh
@@ -338,7 +338,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				133 kW
 			</td>
 			<td>
-				 5 m 2 s
+				 5 m 9 s
 			</td>
 			<td>
 				6,8 kWh
@@ -352,7 +352,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				146 kW
 			</td>
 			<td>
-				 5 m 33 s
+				 5 m 40 s
 			</td>
 			<td>
 				7,9 kWh
@@ -366,7 +366,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				160 kW
 			</td>
 			<td>
-				 6 m 1 s
+				 6 m 9 s
 			</td>
 			<td>
 				9,0 kWh
@@ -380,7 +380,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				158 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 36 s
 			</td>
 			<td>
 				10,2 kWh
@@ -394,7 +394,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				156 kW
 			</td>
 			<td>
-				 6 m 55 s
+				 7 m 4 s
 			</td>
 			<td>
 				11,3 kWh
@@ -408,7 +408,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				154 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 32 s
 			</td>
 			<td>
 				12,4 kWh
@@ -422,7 +422,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				152 kW
 			</td>
 			<td>
-				 7 m 51 s
+				 8 m 1 s
 			</td>
 			<td>
 				13,6 kWh
@@ -436,7 +436,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				150 kW
 			</td>
 			<td>
-				 8 m 19 s
+				 8 m 30 s
 			</td>
 			<td>
 				14,7 kWh
@@ -450,7 +450,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				149 kW
 			</td>
 			<td>
-				 8 m 48 s
+				 8 m 59 s
 			</td>
 			<td>
 				15,8 kWh
@@ -464,7 +464,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				148 kW
 			</td>
 			<td>
-				 9 m 17 s
+				 9 m 29 s
 			</td>
 			<td>
 				17,0 kWh
@@ -478,7 +478,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				146 kW
 			</td>
 			<td>
-				 9 m 46 s
+				 9 m 58 s
 			</td>
 			<td>
 				18,1 kWh
@@ -492,7 +492,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				145 kW
 			</td>
 			<td>
-				 10 m 15 s
+				 10 m 28 s
 			</td>
 			<td>
 				19,2 kWh
@@ -506,7 +506,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				144 kW
 			</td>
 			<td>
-				 10 m 45 s
+				 10 m 59 s
 			</td>
 			<td>
 				20,3 kWh
@@ -520,7 +520,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				143 kW
 			</td>
 			<td>
-				 11 m 15 s
+				 11 m 29 s
 			</td>
 			<td>
 				21,5 kWh
@@ -534,7 +534,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				142 kW
 			</td>
 			<td>
-				 11 m 45 s
+				 12 m 0 s
 			</td>
 			<td>
 				22,6 kWh
@@ -548,7 +548,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				141 kW
 			</td>
 			<td>
-				 12 m 15 s
+				 12 m 31 s
 			</td>
 			<td>
 				23,7 kWh
@@ -562,7 +562,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				139 kW
 			</td>
 			<td>
-				 12 m 46 s
+				 13 m 2 s
 			</td>
 			<td>
 				24,9 kWh
@@ -576,7 +576,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				138 kW
 			</td>
 			<td>
-				 13 m 16 s
+				 13 m 34 s
 			</td>
 			<td>
 				26,0 kWh
@@ -590,7 +590,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				137 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 14 m 5 s
 			</td>
 			<td>
 				27,1 kWh
@@ -604,7 +604,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				136 kW
 			</td>
 			<td>
-				 14 m 19 s
+				 14 m 37 s
 			</td>
 			<td>
 				28,2 kWh
@@ -618,7 +618,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				135 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 10 s
 			</td>
 			<td>
 				29,4 kWh
@@ -632,7 +632,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				133 kW
 			</td>
 			<td>
-				 15 m 23 s
+				 15 m 42 s
 			</td>
 			<td>
 				30,5 kWh
@@ -646,7 +646,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				132 kW
 			</td>
 			<td>
-				 15 m 55 s
+				 16 m 15 s
 			</td>
 			<td>
 				31,6 kWh
@@ -660,7 +660,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				131 kW
 			</td>
 			<td>
-				 16 m 27 s
+				 16 m 49 s
 			</td>
 			<td>
 				32,8 kWh
@@ -674,7 +674,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				130 kW
 			</td>
 			<td>
-				 17 m 0 s
+				 17 m 22 s
 			</td>
 			<td>
 				33,9 kWh
@@ -688,7 +688,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				129 kW
 			</td>
 			<td>
-				 17 m 33 s
+				 17 m 56 s
 			</td>
 			<td>
 				35,0 kWh
@@ -702,7 +702,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				127 kW
 			</td>
 			<td>
-				 18 m 7 s
+				 18 m 30 s
 			</td>
 			<td>
 				36,2 kWh
@@ -716,7 +716,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				126 kW
 			</td>
 			<td>
-				 18 m 41 s
+				 19 m 5 s
 			</td>
 			<td>
 				37,3 kWh
@@ -730,7 +730,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				125 kW
 			</td>
 			<td>
-				 19 m 15 s
+				 19 m 39 s
 			</td>
 			<td>
 				38,4 kWh
@@ -744,7 +744,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				124 kW
 			</td>
 			<td>
-				 19 m 49 s
+				 20 m 15 s
 			</td>
 			<td>
 				39,6 kWh
@@ -758,7 +758,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				123 kW
 			</td>
 			<td>
-				 20 m 24 s
+				 20 m 50 s
 			</td>
 			<td>
 				40,7 kWh
@@ -772,7 +772,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				122 kW
 			</td>
 			<td>
-				 20 m 59 s
+				 21 m 26 s
 			</td>
 			<td>
 				41,8 kWh
@@ -786,7 +786,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				120 kW
 			</td>
 			<td>
-				 21 m 34 s
+				 22 m 2 s
 			</td>
 			<td>
 				42,9 kWh
@@ -800,7 +800,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				119 kW
 			</td>
 			<td>
-				 22 m 10 s
+				 22 m 39 s
 			</td>
 			<td>
 				44,1 kWh
@@ -814,7 +814,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				118 kW
 			</td>
 			<td>
-				 22 m 46 s
+				 23 m 15 s
 			</td>
 			<td>
 				45,2 kWh
@@ -828,7 +828,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				117 kW
 			</td>
 			<td>
-				 23 m 23 s
+				 23 m 53 s
 			</td>
 			<td>
 				46,3 kWh
@@ -842,7 +842,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				116 kW
 			</td>
 			<td>
-				 23 m 59 s
+				 24 m 30 s
 			</td>
 			<td>
 				47,5 kWh
@@ -856,7 +856,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				114 kW
 			</td>
 			<td>
-				 24 m 37 s
+				 25 m 8 s
 			</td>
 			<td>
 				48,6 kWh
@@ -870,7 +870,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				113 kW
 			</td>
 			<td>
-				 25 m 14 s
+				 25 m 47 s
 			</td>
 			<td>
 				49,7 kWh
@@ -884,7 +884,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				112 kW
 			</td>
 			<td>
-				 25 m 52 s
+				 26 m 26 s
 			</td>
 			<td>
 				50,8 kWh
@@ -898,7 +898,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				111 kW
 			</td>
 			<td>
-				 26 m 31 s
+				 27 m 5 s
 			</td>
 			<td>
 				52,0 kWh
@@ -912,7 +912,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				110 kW
 			</td>
 			<td>
-				 27 m 10 s
+				 27 m 45 s
 			</td>
 			<td>
 				53,1 kWh
@@ -926,7 +926,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				108 kW
 			</td>
 			<td>
-				 27 m 49 s
+				 28 m 25 s
 			</td>
 			<td>
 				54,2 kWh
@@ -940,7 +940,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				107 kW
 			</td>
 			<td>
-				 28 m 29 s
+				 29 m 5 s
 			</td>
 			<td>
 				55,4 kWh
@@ -954,7 +954,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				106 kW
 			</td>
 			<td>
-				 29 m 9 s
+				 29 m 46 s
 			</td>
 			<td>
 				56,5 kWh
@@ -968,7 +968,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				105 kW
 			</td>
 			<td>
-				 29 m 49 s
+				 30 m 28 s
 			</td>
 			<td>
 				57,6 kWh
@@ -982,7 +982,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				104 kW
 			</td>
 			<td>
-				 30 m 30 s
+				 31 m 10 s
 			</td>
 			<td>
 				58,8 kWh
@@ -996,7 +996,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				103 kW
 			</td>
 			<td>
-				 31 m 12 s
+				 31 m 52 s
 			</td>
 			<td>
 				59,9 kWh
@@ -1010,7 +1010,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				101 kW
 			</td>
 			<td>
-				 31 m 54 s
+				 32 m 35 s
 			</td>
 			<td>
 				61,0 kWh
@@ -1024,7 +1024,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				100 kW
 			</td>
 			<td>
-				 32 m 36 s
+				 33 m 18 s
 			</td>
 			<td>
 				62,2 kWh
@@ -1038,7 +1038,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				99 kW
 			</td>
 			<td>
-				 33 m 19 s
+				 34 m 2 s
 			</td>
 			<td>
 				63,3 kWh
@@ -1052,7 +1052,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				98 kW
 			</td>
 			<td>
-				 34 m 3 s
+				 34 m 47 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1066,7 +1066,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				97 kW
 			</td>
 			<td>
-				 34 m 47 s
+				 35 m 32 s
 			</td>
 			<td>
 				65,5 kWh
@@ -1080,7 +1080,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				95 kW
 			</td>
 			<td>
-				 35 m 31 s
+				 36 m 17 s
 			</td>
 			<td>
 				66,7 kWh
@@ -1094,7 +1094,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				94 kW
 			</td>
 			<td>
-				 36 m 17 s
+				 37 m 3 s
 			</td>
 			<td>
 				67,8 kWh
@@ -1108,7 +1108,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				93 kW
 			</td>
 			<td>
-				 37 m 2 s
+				 37 m 50 s
 			</td>
 			<td>
 				68,9 kWh
@@ -1122,7 +1122,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				92 kW
 			</td>
 			<td>
-				 37 m 49 s
+				 38 m 37 s
 			</td>
 			<td>
 				70,1 kWh
@@ -1136,7 +1136,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				91 kW
 			</td>
 			<td>
-				 38 m 36 s
+				 39 m 25 s
 			</td>
 			<td>
 				71,2 kWh
@@ -1150,7 +1150,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				89 kW
 			</td>
 			<td>
-				 39 m 23 s
+				 40 m 14 s
 			</td>
 			<td>
 				72,3 kWh
@@ -1164,7 +1164,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				88 kW
 			</td>
 			<td>
-				 40 m 11 s
+				 41 m 3 s
 			</td>
 			<td>
 				73,4 kWh
@@ -1178,7 +1178,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				87 kW
 			</td>
 			<td>
-				 41 m 0 s
+				 41 m 53 s
 			</td>
 			<td>
 				74,6 kWh
@@ -1192,7 +1192,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				86 kW
 			</td>
 			<td>
-				 41 m 50 s
+				 42 m 44 s
 			</td>
 			<td>
 				75,7 kWh
@@ -1206,7 +1206,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				85 kW
 			</td>
 			<td>
-				 42 m 40 s
+				 43 m 35 s
 			</td>
 			<td>
 				76,8 kWh
@@ -1220,7 +1220,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				84 kW
 			</td>
 			<td>
-				 43 m 31 s
+				 44 m 27 s
 			</td>
 			<td>
 				78,0 kWh
@@ -1234,7 +1234,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				82 kW
 			</td>
 			<td>
-				 44 m 22 s
+				 45 m 20 s
 			</td>
 			<td>
 				79,1 kWh
@@ -1248,7 +1248,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				81 kW
 			</td>
 			<td>
-				 45 m 15 s
+				 46 m 13 s
 			</td>
 			<td>
 				80,2 kWh
@@ -1262,7 +1262,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				80 kW
 			</td>
 			<td>
-				 46 m 8 s
+				 47 m 7 s
 			</td>
 			<td>
 				81,4 kWh
@@ -1276,7 +1276,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				78 kW
 			</td>
 			<td>
-				 47 m 2 s
+				 48 m 3 s
 			</td>
 			<td>
 				82,5 kWh
@@ -1290,7 +1290,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				76 kW
 			</td>
 			<td>
-				 47 m 58 s
+				 49 m 0 s
 			</td>
 			<td>
 				83,6 kWh
@@ -1304,7 +1304,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				74 kW
 			</td>
 			<td>
-				 48 m 55 s
+				 49 m 58 s
 			</td>
 			<td>
 				84,8 kWh
@@ -1318,7 +1318,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				71 kW
 			</td>
 			<td>
-				 49 m 54 s
+				 50 m 59 s
 			</td>
 			<td>
 				85,9 kWh
@@ -1332,7 +1332,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				69 kW
 			</td>
 			<td>
-				 50 m 55 s
+				 52 m 1 s
 			</td>
 			<td>
 				87,0 kWh
@@ -1346,7 +1346,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				67 kW
 			</td>
 			<td>
-				 51 m 58 s
+				 53 m 5 s
 			</td>
 			<td>
 				88,1 kWh
@@ -1360,7 +1360,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				65 kW
 			</td>
 			<td>
-				 53 m 3 s
+				 54 m 11 s
 			</td>
 			<td>
 				89,3 kWh
@@ -1374,7 +1374,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				63 kW
 			</td>
 			<td>
-				 54 m 10 s
+				 55 m 20 s
 			</td>
 			<td>
 				90,4 kWh
@@ -1388,7 +1388,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				61 kW
 			</td>
 			<td>
-				 55 m 19 s
+				 56 m 30 s
 			</td>
 			<td>
 				91,5 kWh
@@ -1402,7 +1402,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				59 kW
 			</td>
 			<td>
-				 56 m 31 s
+				 57 m 44 s
 			</td>
 			<td>
 				92,7 kWh
@@ -1416,7 +1416,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				56 kW
 			</td>
 			<td>
-				 57 m 45 s
+				 59 m 0 s
 			</td>
 			<td>
 				93,8 kWh
@@ -1430,7 +1430,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				54 kW
 			</td>
 			<td>
-				 59 m 3 s
+				1 h 0 m 19 s
 			</td>
 			<td>
 				94,9 kWh
@@ -1444,7 +1444,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				52 kW
 			</td>
 			<td>
-				1 h 0 m 23 s
+				1 h 1 m 41 s
 			</td>
 			<td>
 				96,0 kWh
@@ -1458,7 +1458,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				50 kW
 			</td>
 			<td>
-				1 h 1 m 47 s
+				1 h 3 m 7 s
 			</td>
 			<td>
 				97,2 kWh
@@ -1472,7 +1472,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				48 kW
 			</td>
 			<td>
-				1 h 3 m 14 s
+				1 h 4 m 36 s
 			</td>
 			<td>
 				98,3 kWh
@@ -1486,7 +1486,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				46 kW
 			</td>
 			<td>
-				1 h 4 m 46 s
+				1 h 6 m 10 s
 			</td>
 			<td>
 				99,4 kWh
@@ -1500,7 +1500,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				44 kW
 			</td>
 			<td>
-				1 h 6 m 22 s
+				1 h 7 m 48 s
 			</td>
 			<td>
 				100,6 kWh
@@ -1514,7 +1514,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				41 kW
 			</td>
 			<td>
-				1 h 8 m 3 s
+				1 h 9 m 30 s
 			</td>
 			<td>
 				101,7 kWh
@@ -1528,7 +1528,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				39 kW
 			</td>
 			<td>
-				1 h 9 m 49 s
+				1 h 11 m 19 s
 			</td>
 			<td>
 				102,8 kWh
@@ -1542,7 +1542,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				37 kW
 			</td>
 			<td>
-				1 h 11 m 41 s
+				1 h 13 m 13 s
 			</td>
 			<td>
 				104,0 kWh
@@ -1556,7 +1556,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				35 kW
 			</td>
 			<td>
-				1 h 13 m 40 s
+				1 h 15 m 15 s
 			</td>
 			<td>
 				105,1 kWh
@@ -1570,7 +1570,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				33 kW
 			</td>
 			<td>
-				1 h 15 m 46 s
+				1 h 17 m 23 s
 			</td>
 			<td>
 				106,2 kWh
@@ -1584,7 +1584,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				31 kW
 			</td>
 			<td>
-				1 h 18 m 0 s
+				1 h 19 m 41 s
 			</td>
 			<td>
 				107,4 kWh
@@ -1598,7 +1598,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				29 kW
 			</td>
 			<td>
-				1 h 20 m 25 s
+				1 h 22 m 9 s
 			</td>
 			<td>
 				108,5 kWh
@@ -1612,7 +1612,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				26 kW
 			</td>
 			<td>
-				1 h 23 m 1 s
+				1 h 24 m 48 s
 			</td>
 			<td>
 				109,6 kWh
@@ -1626,7 +1626,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				24 kW
 			</td>
 			<td>
-				1 h 25 m 49 s
+				1 h 27 m 40 s
 			</td>
 			<td>
 				110,7 kWh
@@ -1640,7 +1640,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				22 kW
 			</td>
 			<td>
-				1 h 28 m 54 s
+				1 h 30 m 49 s
 			</td>
 			<td>
 				111,9 kWh
@@ -1654,7 +1654,7 @@ HiPhi Z 4 Seater dispose d'un chauffage de batterie, ce qui facilite la charge √
 				20 kW
 			</td>
 			<td>
-				1 h 32 m 17 s
+				1 h 34 m 16 s
 			</td>
 			<td>
 				113,0 kWh

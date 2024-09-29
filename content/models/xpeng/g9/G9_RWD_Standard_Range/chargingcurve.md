@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Standard Range charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for XPENG G9 RWD Standard Range."
+description: "Below is the charging curve for XPENG G9 RWD Standard Range, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				99.3 kW
+				97.2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				93.6 kW
+				91.6 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				125.7 kW
+				123.1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				149.9 kW
+				146.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				144.5kW
+				142.4kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				17m30s
+				17m45s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				 45 m 19 s
+				 46 m 18 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				 43 m 16 s
+				 44 m 12 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 21 m 0 s
+				 21 m 28 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,2 km (6,3 mi)
+				9,9 km (6,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,6 km (4,1 mi)
+				6,5 km (4,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				15,3 km (9,5 mi)
+				15,0 km (9,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				10,0 km (6,2 mi)
+				9,8 km (6,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				150 kW
 			</td>
 			<td>
-				 0 m 28 s
+				 0 m 29 s
 			</td>
 			<td>
 				0.8 kWh
@@ -282,7 +282,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				225 kW
 			</td>
 			<td>
-				 0 m 43 s
+				 0 m 44 s
 			</td>
 			<td>
 				1.5 kWh
@@ -296,7 +296,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				300 kW
 			</td>
 			<td>
-				 0 m 54 s
+				 0 m 55 s
 			</td>
 			<td>
 				2.2 kWh
@@ -310,7 +310,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				297 kW
 			</td>
 			<td>
-				 1 m 3 s
+				 1 m 5 s
 			</td>
 			<td>
 				3.0 kWh
@@ -324,7 +324,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				294 kW
 			</td>
 			<td>
-				 1 m 13 s
+				 1 m 15 s
 			</td>
 			<td>
 				3.8 kWh
@@ -338,7 +338,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				291 kW
 			</td>
 			<td>
-				 1 m 23 s
+				 1 m 25 s
 			</td>
 			<td>
 				4.5 kWh
@@ -352,7 +352,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				288 kW
 			</td>
 			<td>
-				 1 m 33 s
+				 1 m 35 s
 			</td>
 			<td>
 				5.2 kWh
@@ -366,7 +366,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				286 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 1 m 45 s
 			</td>
 			<td>
 				6.0 kWh
@@ -380,7 +380,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				283 kW
 			</td>
 			<td>
-				 1 m 52 s
+				 1 m 55 s
 			</td>
 			<td>
 				6.8 kWh
@@ -394,7 +394,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				280 kW
 			</td>
 			<td>
-				 2 m 3 s
+				 2 m 5 s
 			</td>
 			<td>
 				7.5 kWh
@@ -408,7 +408,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				277 kW
 			</td>
 			<td>
-				 2 m 13 s
+				 2 m 16 s
 			</td>
 			<td>
 				8.2 kWh
@@ -422,7 +422,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				274 kW
 			</td>
 			<td>
-				 2 m 23 s
+				 2 m 26 s
 			</td>
 			<td>
 				9.0 kWh
@@ -436,7 +436,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				271 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 2 m 37 s
 			</td>
 			<td>
 				9.8 kWh
@@ -450,7 +450,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				268 kW
 			</td>
 			<td>
-				 2 m 44 s
+				 2 m 48 s
 			</td>
 			<td>
 				10.5 kWh
@@ -464,7 +464,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				265 kW
 			</td>
 			<td>
-				 2 m 55 s
+				 2 m 58 s
 			</td>
 			<td>
 				11.2 kWh
@@ -478,7 +478,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				262 kW
 			</td>
 			<td>
-				 3 m 5 s
+				 3 m 9 s
 			</td>
 			<td>
 				12.0 kWh
@@ -492,7 +492,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				260 kW
 			</td>
 			<td>
-				 3 m 16 s
+				 3 m 21 s
 			</td>
 			<td>
 				12.8 kWh
@@ -506,7 +506,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				257 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 3 m 32 s
 			</td>
 			<td>
 				13.5 kWh
@@ -520,7 +520,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				254 kW
 			</td>
 			<td>
-				 3 m 39 s
+				 3 m 43 s
 			</td>
 			<td>
 				14.2 kWh
@@ -534,7 +534,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				251 kW
 			</td>
 			<td>
-				 3 m 50 s
+				 3 m 55 s
 			</td>
 			<td>
 				15.0 kWh
@@ -548,7 +548,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				248 kW
 			</td>
 			<td>
-				 4 m 1 s
+				 4 m 6 s
 			</td>
 			<td>
 				15.8 kWh
@@ -562,7 +562,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				245 kW
 			</td>
 			<td>
-				 4 m 13 s
+				 4 m 18 s
 			</td>
 			<td>
 				16.5 kWh
@@ -576,7 +576,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				242 kW
 			</td>
 			<td>
-				 4 m 24 s
+				 4 m 30 s
 			</td>
 			<td>
 				17.2 kWh
@@ -590,7 +590,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				239 kW
 			</td>
 			<td>
-				 4 m 36 s
+				 4 m 42 s
 			</td>
 			<td>
 				18.0 kWh
@@ -604,7 +604,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				236 kW
 			</td>
 			<td>
-				 4 m 48 s
+				 4 m 54 s
 			</td>
 			<td>
 				18.8 kWh
@@ -618,7 +618,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				234 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 7 s
 			</td>
 			<td>
 				19.5 kWh
@@ -632,7 +632,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				231 kW
 			</td>
 			<td>
-				 5 m 12 s
+				 5 m 19 s
 			</td>
 			<td>
 				20.2 kWh
@@ -646,7 +646,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				228 kW
 			</td>
 			<td>
-				 5 m 25 s
+				 5 m 32 s
 			</td>
 			<td>
 				21.0 kWh
@@ -660,7 +660,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				225 kW
 			</td>
 			<td>
-				 5 m 37 s
+				 5 m 45 s
 			</td>
 			<td>
 				21.8 kWh
@@ -674,7 +674,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				222 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 5 m 58 s
 			</td>
 			<td>
 				22.5 kWh
@@ -688,7 +688,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				219 kW
 			</td>
 			<td>
-				 6 m 3 s
+				 6 m 11 s
 			</td>
 			<td>
 				23.2 kWh
@@ -702,7 +702,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				216 kW
 			</td>
 			<td>
-				 6 m 16 s
+				 6 m 24 s
 			</td>
 			<td>
 				24.0 kWh
@@ -716,7 +716,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				213 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 6 m 38 s
 			</td>
 			<td>
 				24.8 kWh
@@ -730,7 +730,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				211 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 6 m 51 s
 			</td>
 			<td>
 				25.5 kWh
@@ -744,7 +744,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				208 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				26.2 kWh
@@ -758,7 +758,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				205 kW
 			</td>
 			<td>
-				 7 m 10 s
+				 7 m 19 s
 			</td>
 			<td>
 				27.0 kWh
@@ -772,7 +772,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				202 kW
 			</td>
 			<td>
-				 7 m 24 s
+				 7 m 34 s
 			</td>
 			<td>
 				27.8 kWh
@@ -786,7 +786,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				199 kW
 			</td>
 			<td>
-				 7 m 38 s
+				 7 m 48 s
 			</td>
 			<td>
 				28.5 kWh
@@ -800,7 +800,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				196 kW
 			</td>
 			<td>
-				 7 m 53 s
+				 8 m 3 s
 			</td>
 			<td>
 				29.2 kWh
@@ -814,7 +814,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				193 kW
 			</td>
 			<td>
-				 8 m 7 s
+				 8 m 18 s
 			</td>
 			<td>
 				30.0 kWh
@@ -828,7 +828,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				190 kW
 			</td>
 			<td>
-				 8 m 22 s
+				 8 m 33 s
 			</td>
 			<td>
 				30.8 kWh
@@ -842,7 +842,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				187 kW
 			</td>
 			<td>
-				 8 m 37 s
+				 8 m 48 s
 			</td>
 			<td>
 				31.5 kWh
@@ -856,7 +856,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				185 kW
 			</td>
 			<td>
-				 8 m 52 s
+				 9 m 4 s
 			</td>
 			<td>
 				32.2 kWh
@@ -870,7 +870,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				182 kW
 			</td>
 			<td>
-				 9 m 8 s
+				 9 m 20 s
 			</td>
 			<td>
 				33.0 kWh
@@ -884,7 +884,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				179 kW
 			</td>
 			<td>
-				 9 m 24 s
+				 9 m 36 s
 			</td>
 			<td>
 				33.8 kWh
@@ -898,7 +898,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				176 kW
 			</td>
 			<td>
-				 9 m 40 s
+				 9 m 52 s
 			</td>
 			<td>
 				34.5 kWh
@@ -912,7 +912,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				173 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 9 s
 			</td>
 			<td>
 				35.2 kWh
@@ -926,7 +926,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				170 kW
 			</td>
 			<td>
-				 10 m 13 s
+				 10 m 26 s
 			</td>
 			<td>
 				36.0 kWh
@@ -940,7 +940,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				167 kW
 			</td>
 			<td>
-				 10 m 29 s
+				 10 m 43 s
 			</td>
 			<td>
 				36.8 kWh
@@ -954,7 +954,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				164 kW
 			</td>
 			<td>
-				 10 m 47 s
+				 11 m 0 s
 			</td>
 			<td>
 				37.5 kWh
@@ -968,7 +968,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				161 kW
 			</td>
 			<td>
-				 11 m 4 s
+				 11 m 18 s
 			</td>
 			<td>
 				38.2 kWh
@@ -982,7 +982,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				159 kW
 			</td>
 			<td>
-				 11 m 22 s
+				 11 m 36 s
 			</td>
 			<td>
 				39.0 kWh
@@ -996,7 +996,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				156 kW
 			</td>
 			<td>
-				 11 m 40 s
+				 11 m 55 s
 			</td>
 			<td>
 				39.8 kWh
@@ -1010,7 +1010,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				153 kW
 			</td>
 			<td>
-				 11 m 58 s
+				 12 m 14 s
 			</td>
 			<td>
 				40.5 kWh
@@ -1024,7 +1024,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				150 kW
 			</td>
 			<td>
-				 12 m 17 s
+				 12 m 33 s
 			</td>
 			<td>
 				41.2 kWh
@@ -1038,7 +1038,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				147 kW
 			</td>
 			<td>
-				 12 m 36 s
+				 12 m 52 s
 			</td>
 			<td>
 				42.0 kWh
@@ -1052,7 +1052,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				144 kW
 			</td>
 			<td>
-				 12 m 56 s
+				 13 m 12 s
 			</td>
 			<td>
 				42.8 kWh
@@ -1066,7 +1066,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				141 kW
 			</td>
 			<td>
-				 13 m 16 s
+				 13 m 33 s
 			</td>
 			<td>
 				43.5 kWh
@@ -1080,7 +1080,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				138 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 54 s
 			</td>
 			<td>
 				44.2 kWh
@@ -1094,7 +1094,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				135 kW
 			</td>
 			<td>
-				 13 m 57 s
+				 14 m 15 s
 			</td>
 			<td>
 				45.0 kWh
@@ -1108,7 +1108,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				133 kW
 			</td>
 			<td>
-				 14 m 18 s
+				 14 m 36 s
 			</td>
 			<td>
 				45.8 kWh
@@ -1122,7 +1122,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				130 kW
 			</td>
 			<td>
-				 14 m 40 s
+				 14 m 59 s
 			</td>
 			<td>
 				46.5 kWh
@@ -1136,7 +1136,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				127 kW
 			</td>
 			<td>
-				 15 m 2 s
+				 15 m 21 s
 			</td>
 			<td>
 				47.2 kWh
@@ -1150,7 +1150,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				124 kW
 			</td>
 			<td>
-				 15 m 24 s
+				 15 m 44 s
 			</td>
 			<td>
 				48.0 kWh
@@ -1164,7 +1164,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				121 kW
 			</td>
 			<td>
-				 15 m 48 s
+				 16 m 8 s
 			</td>
 			<td>
 				48.8 kWh
@@ -1178,7 +1178,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				118 kW
 			</td>
 			<td>
-				 16 m 11 s
+				 16 m 32 s
 			</td>
 			<td>
 				49.5 kWh
@@ -1192,7 +1192,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				115 kW
 			</td>
 			<td>
-				 16 m 36 s
+				 16 m 57 s
 			</td>
 			<td>
 				50.2 kWh
@@ -1206,7 +1206,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				112 kW
 			</td>
 			<td>
-				 17 m 1 s
+				 17 m 23 s
 			</td>
 			<td>
 				51.0 kWh
@@ -1220,7 +1220,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				109 kW
 			</td>
 			<td>
-				 17 m 26 s
+				 17 m 49 s
 			</td>
 			<td>
 				51.8 kWh
@@ -1234,7 +1234,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				107 kW
 			</td>
 			<td>
-				 17 m 53 s
+				 18 m 16 s
 			</td>
 			<td>
 				52.5 kWh
@@ -1248,7 +1248,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				104 kW
 			</td>
 			<td>
-				 18 m 20 s
+				 18 m 43 s
 			</td>
 			<td>
 				53.2 kWh
@@ -1262,7 +1262,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				101 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 12 s
 			</td>
 			<td>
 				54.0 kWh
@@ -1276,7 +1276,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				98 kW
 			</td>
 			<td>
-				 19 m 16 s
+				 19 m 41 s
 			</td>
 			<td>
 				54.8 kWh
@@ -1290,7 +1290,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				95 kW
 			</td>
 			<td>
-				 19 m 46 s
+				 20 m 11 s
 			</td>
 			<td>
 				55.5 kWh
@@ -1304,7 +1304,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				92 kW
 			</td>
 			<td>
-				 20 m 16 s
+				 20 m 42 s
 			</td>
 			<td>
 				56.2 kWh
@@ -1318,7 +1318,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				89 kW
 			</td>
 			<td>
-				 20 m 47 s
+				 21 m 14 s
 			</td>
 			<td>
 				57.0 kWh
@@ -1332,7 +1332,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				86 kW
 			</td>
 			<td>
-				 21 m 20 s
+				 21 m 47 s
 			</td>
 			<td>
 				57.8 kWh
@@ -1346,7 +1346,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				84 kW
 			</td>
 			<td>
-				 21 m 53 s
+				 22 m 21 s
 			</td>
 			<td>
 				58.5 kWh
@@ -1360,7 +1360,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				81 kW
 			</td>
 			<td>
-				 22 m 28 s
+				 22 m 57 s
 			</td>
 			<td>
 				59.2 kWh
@@ -1374,7 +1374,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				78 kW
 			</td>
 			<td>
-				 23 m 4 s
+				 23 m 33 s
 			</td>
 			<td>
 				60.0 kWh
@@ -1388,7 +1388,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				75 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 24 m 11 s
 			</td>
 			<td>
 				60.8 kWh
@@ -1402,7 +1402,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				72 kW
 			</td>
 			<td>
-				 24 m 20 s
+				 24 m 51 s
 			</td>
 			<td>
 				61.5 kWh
@@ -1416,7 +1416,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				69 kW
 			</td>
 			<td>
-				 25 m 0 s
+				 25 m 32 s
 			</td>
 			<td>
 				62.2 kWh
@@ -1430,7 +1430,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				66 kW
 			</td>
 			<td>
-				 25 m 42 s
+				 26 m 15 s
 			</td>
 			<td>
 				63.0 kWh
@@ -1444,7 +1444,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				63 kW
 			</td>
 			<td>
-				 26 m 26 s
+				 27 m 0 s
 			</td>
 			<td>
 				63.8 kWh
@@ -1458,7 +1458,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				60 kW
 			</td>
 			<td>
-				 27 m 12 s
+				 27 m 47 s
 			</td>
 			<td>
 				64.5 kWh
@@ -1472,7 +1472,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				58 kW
 			</td>
 			<td>
-				 28 m 0 s
+				 28 m 36 s
 			</td>
 			<td>
 				65.2 kWh
@@ -1486,7 +1486,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				55 kW
 			</td>
 			<td>
-				 28 m 51 s
+				 29 m 28 s
 			</td>
 			<td>
 				66.0 kWh
@@ -1500,7 +1500,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				52 kW
 			</td>
 			<td>
-				 29 m 44 s
+				 30 m 22 s
 			</td>
 			<td>
 				66.8 kWh
@@ -1514,7 +1514,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				49 kW
 			</td>
 			<td>
-				 30 m 40 s
+				 31 m 20 s
 			</td>
 			<td>
 				67.5 kWh
@@ -1528,7 +1528,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				46 kW
 			</td>
 			<td>
-				 31 m 40 s
+				 32 m 21 s
 			</td>
 			<td>
 				68.2 kWh
@@ -1542,7 +1542,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				43 kW
 			</td>
 			<td>
-				 32 m 44 s
+				 33 m 26 s
 			</td>
 			<td>
 				69.0 kWh
@@ -1556,7 +1556,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				40 kW
 			</td>
 			<td>
-				 33 m 52 s
+				 34 m 36 s
 			</td>
 			<td>
 				69.8 kWh
@@ -1570,7 +1570,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				37 kW
 			</td>
 			<td>
-				 35 m 6 s
+				 35 m 51 s
 			</td>
 			<td>
 				70.5 kWh
@@ -1584,7 +1584,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				34 kW
 			</td>
 			<td>
-				 36 m 25 s
+				 37 m 12 s
 			</td>
 			<td>
 				71.2 kWh
@@ -1598,7 +1598,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				32 kW
 			</td>
 			<td>
-				 37 m 51 s
+				 38 m 40 s
 			</td>
 			<td>
 				72.0 kWh
@@ -1612,7 +1612,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				29 kW
 			</td>
 			<td>
-				 39 m 26 s
+				 40 m 16 s
 			</td>
 			<td>
 				72.8 kWh
@@ -1626,7 +1626,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				26 kW
 			</td>
 			<td>
-				 41 m 10 s
+				 42 m 3 s
 			</td>
 			<td>
 				73.5 kWh
@@ -1640,7 +1640,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				23 kW
 			</td>
 			<td>
-				 43 m 7 s
+				 44 m 2 s
 			</td>
 			<td>
 				74.2 kWh
@@ -1654,7 +1654,7 @@ XPENG G9 RWD Standard Range have battery heating, making charging at an optimum 
 				20 kW
 			</td>
 			<td>
-				 45 m 19 s
+				 46 m 18 s
 			</td>
 			<td>
 				75.0 kWh

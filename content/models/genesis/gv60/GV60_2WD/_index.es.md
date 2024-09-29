@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capaci
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 517 km, con una tasa de consumo de energía de 14,3 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 38 minutos, mientras que un escenario más común del 10 al 80 % tardaría 16 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 152kW. Cada sesión de carga tardaría 22 minutos y 59 segundos. Esta capacidad de carga eficiente hace que el Genesis GV60 2WD sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 39 minutos, mientras que un escenario más común del 10 al 80 % tardaría 17 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 149kW. Cada sesión de carga tardaría 22 minutos y 20 segundos. Esta capacidad de carga eficiente hace que el Genesis GV60 2WD sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 1% al 76%, con un tiempo total de carga de 66 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 27 minutos. Este viaje requeriría dos paradas de carga del 1% al 76%, con un tiempo total de carga de 67 minutos.
 
 ### Cargador a bordo
 

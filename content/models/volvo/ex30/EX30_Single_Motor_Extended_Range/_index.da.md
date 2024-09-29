@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 69,0 kWh og en nettoanvende
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 460 km, med et energiforbrugsrate på 13,9 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 153kW. En fuld opladning fra 0 - 100 % ville tage 71 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 11% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 92kW. Hver opladningssession ville tage 17 minutter og 10 sekunder.
+Den maksimale DC-opladningshastighed er 153kW. En fuld opladning fra 0 - 100 % ville tage 73 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 11% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 17 minutter og 25 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 220 kWh/100 km, ville turen tage cirka 7 timer og 44 minutter. Denne rejse ville kræve to opladningsstop fra 11% til 49%, med en samlet opladningstid på 1405 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 220 kWh/100 km, ville turen tage cirka 8 timer og 5 minutter. Denne rejse ville kræve to opladningsstop fra 11% til 49%, med en samlet opladningstid på 1425 minutter
 
 ### Ombordlader
 

@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 200,0 kWh og en nettoanvend
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 505 km med en energiforbrugsrate på 37,6 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 124 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 240kW. Hver opladningssession ville tage 29 minutter og 2 sekunder. Denne effektive opladningskapacitet gør GMC Hummer EV SUV 3x til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 126 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 44 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 235kW. Hver opladningssession ville tage 30 minutter og 33 sekunder. Denne effektive opladningskapacitet gør GMC Hummer EV SUV 3x til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 43 kWh/100 km, ville turen tage cirka 9 timer og 21 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 64%, med en samlet opladningstid på 61 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 43 kWh/100 km, ville turen tage cirka 9 timer og 22 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 64%, med en samlet opladningstid på 62 minutter
 
 ### Ombordlader
 

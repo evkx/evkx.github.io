@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV curva de carga y rendimiento
 linktitle: "Curva de carga"
-description: "Aquí encontrarás la curva de carga para Kia Niro EV."
+description: "A continuación se muestra la curva de carga para Kia Niro EV, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				41,9 kW
+				41,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				40,8 kW
+				40,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				52,2 kW
+				51,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				61,3 kW
+				60,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				60,4kW
+				59,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				33m30s
+				34m6s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				1 h 32 m 45 s
+				1 h 34 m 45 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				1 h 25 m 43 s
+				1 h 27 m 33 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 44 m 24 s
+				 45 m 21 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,0 km (3,1 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				3,5 km (2,2 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango por minuto 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				4,9 km (3,0 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,8 km (3,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,3 km (2,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango por minuto 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,3 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,1 km (3,2 mi)
+				5,0 km (3,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				38 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 1 m 13 s
 			</td>
 			<td>
 				0,6 kWh
@@ -282,7 +282,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				46 kW
 			</td>
 			<td>
-				 2 m 10 s
+				 2 m 13 s
 			</td>
 			<td>
 				1,3 kWh
@@ -296,7 +296,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				54 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 3 m 3 s
 			</td>
 			<td>
 				1,9 kWh
@@ -310,7 +310,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				62 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 46 s
 			</td>
 			<td>
 				2,6 kWh
@@ -324,7 +324,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				70 kW
 			</td>
 			<td>
-				 4 m 19 s
+				 4 m 24 s
 			</td>
 			<td>
 				3,2 kWh
@@ -338,7 +338,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				72 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 5 m 0 s
 			</td>
 			<td>
 				3,9 kWh
@@ -352,7 +352,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				74 kW
 			</td>
 			<td>
-				 5 m 27 s
+				 5 m 34 s
 			</td>
 			<td>
 				4,5 kWh
@@ -366,7 +366,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				77 kW
 			</td>
 			<td>
-				 5 m 59 s
+				 6 m 7 s
 			</td>
 			<td>
 				5,2 kWh
@@ -380,7 +380,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				79 kW
 			</td>
 			<td>
-				 6 m 31 s
+				 6 m 39 s
 			</td>
 			<td>
 				5,8 kWh
@@ -394,7 +394,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				81 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				6,5 kWh
@@ -408,7 +408,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				82 kW
 			</td>
 			<td>
-				 7 m 32 s
+				 7 m 42 s
 			</td>
 			<td>
 				7,1 kWh
@@ -422,7 +422,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				82 kW
 			</td>
 			<td>
-				 8 m 2 s
+				 8 m 12 s
 			</td>
 			<td>
 				7,8 kWh
@@ -436,7 +436,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				79 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				8,4 kWh
@@ -450,7 +450,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				79 kW
 			</td>
 			<td>
-				 9 m 3 s
+				 9 m 15 s
 			</td>
 			<td>
 				9,1 kWh
@@ -464,7 +464,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				79 kW
 			</td>
 			<td>
-				 9 m 34 s
+				 9 m 47 s
 			</td>
 			<td>
 				9,7 kWh
@@ -478,7 +478,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				82 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
 				10,4 kWh
@@ -492,7 +492,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 10 m 35 s
+				 10 m 48 s
 			</td>
 			<td>
 				11,0 kWh
@@ -506,7 +506,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 11 m 4 s
+				 11 m 19 s
 			</td>
 			<td>
 				11,7 kWh
@@ -520,7 +520,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 11 m 34 s
+				 11 m 49 s
 			</td>
 			<td>
 				12,3 kWh
@@ -534,7 +534,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 12 m 4 s
+				 12 m 19 s
 			</td>
 			<td>
 				13,0 kWh
@@ -548,7 +548,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 12 m 33 s
+				 12 m 49 s
 			</td>
 			<td>
 				13,6 kWh
@@ -562,7 +562,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 13 m 3 s
+				 13 m 20 s
 			</td>
 			<td>
 				14,3 kWh
@@ -576,7 +576,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 13 m 32 s
+				 13 m 50 s
 			</td>
 			<td>
 				14,9 kWh
@@ -590,7 +590,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 14 m 2 s
+				 14 m 20 s
 			</td>
 			<td>
 				15,6 kWh
@@ -604,7 +604,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 14 m 31 s
+				 14 m 50 s
 			</td>
 			<td>
 				16,2 kWh
@@ -618,7 +618,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 15 m 1 s
+				 15 m 20 s
 			</td>
 			<td>
 				16,8 kWh
@@ -632,7 +632,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				83 kW
 			</td>
 			<td>
-				 15 m 31 s
+				 15 m 51 s
 			</td>
 			<td>
 				17,5 kWh
@@ -646,7 +646,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				84 kW
 			</td>
 			<td>
-				 16 m 0 s
+				 16 m 21 s
 			</td>
 			<td>
 				18,1 kWh
@@ -660,7 +660,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				84 kW
 			</td>
 			<td>
-				 16 m 29 s
+				 16 m 51 s
 			</td>
 			<td>
 				18,8 kWh
@@ -674,7 +674,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				77 kW
 			</td>
 			<td>
-				 17 m 0 s
+				 17 m 22 s
 			</td>
 			<td>
 				19,4 kWh
@@ -688,7 +688,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				77 kW
 			</td>
 			<td>
-				 17 m 32 s
+				 17 m 54 s
 			</td>
 			<td>
 				20,1 kWh
@@ -702,7 +702,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				77 kW
 			</td>
 			<td>
-				 18 m 4 s
+				 18 m 27 s
 			</td>
 			<td>
 				20,7 kWh
@@ -716,7 +716,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				77 kW
 			</td>
 			<td>
-				 18 m 35 s
+				 18 m 59 s
 			</td>
 			<td>
 				21,4 kWh
@@ -730,7 +730,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				77 kW
 			</td>
 			<td>
-				 19 m 7 s
+				 19 m 32 s
 			</td>
 			<td>
 				22,0 kWh
@@ -744,7 +744,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 4 s
 			</td>
 			<td>
 				22,7 kWh
@@ -758,7 +758,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 20 m 10 s
+				 20 m 37 s
 			</td>
 			<td>
 				23,3 kWh
@@ -772,7 +772,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 21 m 9 s
 			</td>
 			<td>
 				24,0 kWh
@@ -786,7 +786,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 21 m 13 s
+				 21 m 41 s
 			</td>
 			<td>
 				24,6 kWh
@@ -800,7 +800,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 21 m 45 s
+				 22 m 13 s
 			</td>
 			<td>
 				25,3 kWh
@@ -814,7 +814,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				25,9 kWh
@@ -828,7 +828,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 22 m 48 s
+				 23 m 17 s
 			</td>
 			<td>
 				26,6 kWh
@@ -842,7 +842,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				78 kW
 			</td>
 			<td>
-				 23 m 19 s
+				 23 m 49 s
 			</td>
 			<td>
 				27,2 kWh
@@ -856,7 +856,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				63 kW
 			</td>
 			<td>
-				 23 m 54 s
+				 24 m 25 s
 			</td>
 			<td>
 				27,9 kWh
@@ -870,7 +870,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				63 kW
 			</td>
 			<td>
-				 24 m 33 s
+				 25 m 5 s
 			</td>
 			<td>
 				28,5 kWh
@@ -884,7 +884,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 25 m 12 s
+				 25 m 44 s
 			</td>
 			<td>
 				29,2 kWh
@@ -898,7 +898,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 25 m 50 s
+				 26 m 24 s
 			</td>
 			<td>
 				29,8 kWh
@@ -912,7 +912,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 26 m 29 s
+				 27 m 3 s
 			</td>
 			<td>
 				30,5 kWh
@@ -926,7 +926,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 27 m 7 s
+				 27 m 42 s
 			</td>
 			<td>
 				31,1 kWh
@@ -940,7 +940,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 27 m 45 s
+				 28 m 21 s
 			</td>
 			<td>
 				31,8 kWh
@@ -954,7 +954,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 28 m 24 s
+				 29 m 0 s
 			</td>
 			<td>
 				32,4 kWh
@@ -968,7 +968,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				64 kW
 			</td>
 			<td>
-				 29 m 2 s
+				 29 m 40 s
 			</td>
 			<td>
 				33,0 kWh
@@ -982,7 +982,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				65 kW
 			</td>
 			<td>
-				 29 m 40 s
+				 30 m 18 s
 			</td>
 			<td>
 				33,7 kWh
@@ -996,7 +996,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				65 kW
 			</td>
 			<td>
-				 30 m 18 s
+				 30 m 57 s
 			</td>
 			<td>
 				34,3 kWh
@@ -1010,7 +1010,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				65 kW
 			</td>
 			<td>
-				 30 m 56 s
+				 31 m 36 s
 			</td>
 			<td>
 				35,0 kWh
@@ -1024,7 +1024,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				65 kW
 			</td>
 			<td>
-				 31 m 33 s
+				 32 m 14 s
 			</td>
 			<td>
 				35,6 kWh
@@ -1038,7 +1038,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				65 kW
 			</td>
 			<td>
-				 32 m 11 s
+				 32 m 53 s
 			</td>
 			<td>
 				36,3 kWh
@@ -1052,7 +1052,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				58 kW
 			</td>
 			<td>
-				 32 m 51 s
+				 33 m 34 s
 			</td>
 			<td>
 				36,9 kWh
@@ -1066,7 +1066,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				58 kW
 			</td>
 			<td>
-				 33 m 34 s
+				 34 m 17 s
 			</td>
 			<td>
 				37,6 kWh
@@ -1080,7 +1080,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				58 kW
 			</td>
 			<td>
-				 34 m 16 s
+				 35 m 0 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1094,7 +1094,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				58 kW
 			</td>
 			<td>
-				 34 m 58 s
+				 35 m 43 s
 			</td>
 			<td>
 				38,9 kWh
@@ -1108,7 +1108,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				58 kW
 			</td>
 			<td>
-				 35 m 41 s
+				 36 m 27 s
 			</td>
 			<td>
 				39,5 kWh
@@ -1122,7 +1122,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				59 kW
 			</td>
 			<td>
-				 36 m 23 s
+				 37 m 9 s
 			</td>
 			<td>
 				40,2 kWh
@@ -1136,7 +1136,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				59 kW
 			</td>
 			<td>
-				 37 m 4 s
+				 37 m 52 s
 			</td>
 			<td>
 				40,8 kWh
@@ -1150,7 +1150,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				59 kW
 			</td>
 			<td>
-				 37 m 46 s
+				 38 m 34 s
 			</td>
 			<td>
 				41,5 kWh
@@ -1164,7 +1164,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				59 kW
 			</td>
 			<td>
-				 38 m 27 s
+				 39 m 17 s
 			</td>
 			<td>
 				42,1 kWh
@@ -1178,7 +1178,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				59 kW
 			</td>
 			<td>
-				 39 m 9 s
+				 40 m 0 s
 			</td>
 			<td>
 				42,8 kWh
@@ -1192,7 +1192,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				59 kW
 			</td>
 			<td>
-				 39 m 51 s
+				 40 m 42 s
 			</td>
 			<td>
 				43,4 kWh
@@ -1206,7 +1206,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				60 kW
 			</td>
 			<td>
-				 40 m 32 s
+				 41 m 24 s
 			</td>
 			<td>
 				44,1 kWh
@@ -1220,7 +1220,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				47 kW
 			</td>
 			<td>
-				 41 m 18 s
+				 42 m 11 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1234,7 +1234,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 42 m 12 s
+				 43 m 6 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1248,7 +1248,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 43 m 8 s
+				 44 m 3 s
 			</td>
 			<td>
 				46,0 kWh
@@ -1262,7 +1262,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 44 m 3 s
+				 45 m 0 s
 			</td>
 			<td>
 				46,7 kWh
@@ -1276,7 +1276,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 44 m 59 s
+				 45 m 57 s
 			</td>
 			<td>
 				47,3 kWh
@@ -1290,7 +1290,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 45 m 55 s
+				 46 m 54 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1304,7 +1304,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 46 m 51 s
+				 47 m 51 s
 			</td>
 			<td>
 				48,6 kWh
@@ -1318,7 +1318,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				45 kW
 			</td>
 			<td>
-				 47 m 46 s
+				 48 m 48 s
 			</td>
 			<td>
 				49,2 kWh
@@ -1332,7 +1332,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				45 kW
 			</td>
 			<td>
-				 48 m 41 s
+				 49 m 43 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1346,7 +1346,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				45 kW
 			</td>
 			<td>
-				 49 m 35 s
+				 50 m 39 s
 			</td>
 			<td>
 				50,5 kWh
@@ -1360,7 +1360,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 50 m 30 s
+				 51 m 35 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1374,7 +1374,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 51 m 26 s
+				 52 m 32 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1388,7 +1388,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				44 kW
 			</td>
 			<td>
-				 52 m 22 s
+				 53 m 29 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1402,7 +1402,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				 53 m 33 s
+				 54 m 42 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1416,7 +1416,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				 55 m 11 s
+				 56 m 23 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1430,7 +1430,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				 56 m 50 s
+				 58 m 3 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1444,7 +1444,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				 58 m 28 s
+				 59 m 43 s
 			</td>
 			<td>
 				55,1 kWh
@@ -1458,7 +1458,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				1 h 0 m 6 s
+				1 h 1 m 24 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1472,7 +1472,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				1 h 1 m 44 s
+				1 h 3 m 4 s
 			</td>
 			<td>
 				56,4 kWh
@@ -1486,7 +1486,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				1 h 3 m 22 s
+				1 h 4 m 44 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1500,7 +1500,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				1 h 5 m 1 s
+				1 h 6 m 25 s
 			</td>
 			<td>
 				57,7 kWh
@@ -1514,7 +1514,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				25 kW
 			</td>
 			<td>
-				1 h 6 m 39 s
+				1 h 8 m 5 s
 			</td>
 			<td>
 				58,3 kWh
@@ -1528,7 +1528,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				23 kW
 			</td>
 			<td>
-				1 h 8 m 20 s
+				1 h 9 m 49 s
 			</td>
 			<td>
 				59,0 kWh
@@ -1542,7 +1542,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				22 kW
 			</td>
 			<td>
-				1 h 10 m 9 s
+				1 h 11 m 40 s
 			</td>
 			<td>
 				59,6 kWh
@@ -1556,7 +1556,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				20 kW
 			</td>
 			<td>
-				1 h 12 m 6 s
+				1 h 13 m 39 s
 			</td>
 			<td>
 				60,3 kWh
@@ -1570,7 +1570,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				19 kW
 			</td>
 			<td>
-				1 h 14 m 12 s
+				1 h 15 m 48 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1584,7 +1584,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				17 kW
 			</td>
 			<td>
-				1 h 16 m 30 s
+				1 h 18 m 9 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1598,7 +1598,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				15 kW
 			</td>
 			<td>
-				1 h 19 m 2 s
+				1 h 20 m 44 s
 			</td>
 			<td>
 				62,2 kWh
@@ -1612,7 +1612,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				14 kW
 			</td>
 			<td>
-				1 h 21 m 50 s
+				1 h 23 m 36 s
 			</td>
 			<td>
 				62,9 kWh
@@ -1626,7 +1626,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				12 kW
 			</td>
 			<td>
-				1 h 24 m 59 s
+				1 h 26 m 49 s
 			</td>
 			<td>
 				63,5 kWh
@@ -1640,7 +1640,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				11 kW
 			</td>
 			<td>
-				1 h 28 m 35 s
+				1 h 30 m 29 s
 			</td>
 			<td>
 				64,2 kWh
@@ -1654,7 +1654,7 @@ Kia Niro EV tiene calefacción de batería, lo que facilita la carga a una tempe
 				9 kW
 			</td>
 			<td>
-				1 h 32 m 45 s
+				1 h 34 m 45 s
 			</td>
 			<td>
 				64,8 kWh

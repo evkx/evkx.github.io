@@ -1,7 +1,7 @@
 ---
 title: Audi Q6L e-tron quattro laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
-description: "Här hittar du laddningskurvan för Audi Q6L e-tron quattro."
+description: "Nedan visas laddningskurvan för Audi Q6L e-tron quattro, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				90,6 kW
+				88,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				85,8 kW
+				84,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				148,9 kW
+				145,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				190,4 kW
+				186,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt laddningsområde
 			</td>
 			<td>
-				3% - 59%
+				3% - 58%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				168,8kW
+				166,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				20m12s
+				20m10s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				1 h 7 m 11 s
+				1 h 8 m 38 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				1 h 3 m 53 s
+				1 h 5 m 16 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 22 m 23 s
+				 22 m 51 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,3 km (5,8 mi)
+				9,1 km (5,7 mi)
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 			<td>
-				6,6 km (4,1 mi)
+				6,4 km (4,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
-				7,1 km (4,4 mi)
+				7,0 km (4,4 mi)
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				19,5 km (12,1 mi)
+				19,1 km (11,9 mi)
 			</td>
 			<td>
-				15,9 km (9,9 mi)
+				15,5 km (9,6 mi)
 			</td>
 			<td>
-				13,8 km (8,6 mi)
+				13,5 km (8,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				120 kW
 			</td>
 			<td>
-				 0 m 37 s
+				 0 m 38 s
 			</td>
 			<td>
 				1,0 kWh
@@ -282,7 +282,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				158 kW
 			</td>
 			<td>
-				 1 m 5 s
+				 1 m 6 s
 			</td>
 			<td>
 				2,0 kWh
@@ -296,7 +296,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				169 kW
 			</td>
 			<td>
-				 1 m 28 s
+				 1 m 30 s
 			</td>
 			<td>
 				3,0 kWh
@@ -310,7 +310,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				221 kW
 			</td>
 			<td>
-				 1 m 48 s
+				 1 m 50 s
 			</td>
 			<td>
 				4,1 kWh
@@ -324,7 +324,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				254 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 2 m 7 s
 			</td>
 			<td>
 				5,1 kWh
@@ -338,7 +338,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				258 kW
 			</td>
 			<td>
-				 2 m 19 s
+				 2 m 22 s
 			</td>
 			<td>
 				6,1 kWh
@@ -352,7 +352,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				262 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 2 m 37 s
 			</td>
 			<td>
 				7,1 kWh
@@ -366,7 +366,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				266 kW
 			</td>
 			<td>
-				 2 m 48 s
+				 2 m 52 s
 			</td>
 			<td>
 				8,1 kWh
@@ -380,7 +380,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				270 kW
 			</td>
 			<td>
-				 3 m 3 s
+				 3 m 7 s
 			</td>
 			<td>
 				9,1 kWh
@@ -394,7 +394,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				270 kW
 			</td>
 			<td>
-				 3 m 17 s
+				 3 m 21 s
 			</td>
 			<td>
 				10,2 kWh
@@ -408,7 +408,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				270 kW
 			</td>
 			<td>
-				 3 m 31 s
+				 3 m 36 s
 			</td>
 			<td>
 				11,2 kWh
@@ -422,7 +422,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				273 kW
 			</td>
 			<td>
-				 3 m 45 s
+				 3 m 50 s
 			</td>
 			<td>
 				12,2 kWh
@@ -436,7 +436,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				276 kW
 			</td>
 			<td>
-				 3 m 59 s
+				 4 m 5 s
 			</td>
 			<td>
 				13,2 kWh
@@ -450,7 +450,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				277 kW
 			</td>
 			<td>
-				 4 m 13 s
+				 4 m 19 s
 			</td>
 			<td>
 				14,2 kWh
@@ -464,7 +464,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				280 kW
 			</td>
 			<td>
-				 4 m 27 s
+				 4 m 33 s
 			</td>
 			<td>
 				15,2 kWh
@@ -478,7 +478,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				280 kW
 			</td>
 			<td>
-				 4 m 41 s
+				 4 m 47 s
 			</td>
 			<td>
 				16,2 kWh
@@ -492,7 +492,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				280 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 1 s
 			</td>
 			<td>
 				17,3 kWh
@@ -506,7 +506,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				281 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 15 s
 			</td>
 			<td>
 				18,3 kWh
@@ -520,7 +520,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				282 kW
 			</td>
 			<td>
-				 5 m 22 s
+				 5 m 29 s
 			</td>
 			<td>
 				19,3 kWh
@@ -534,7 +534,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				282 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 43 s
 			</td>
 			<td>
 				20,3 kWh
@@ -548,7 +548,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				283 kW
 			</td>
 			<td>
-				 5 m 49 s
+				 5 m 57 s
 			</td>
 			<td>
 				21,3 kWh
@@ -562,7 +562,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				283 kW
 			</td>
 			<td>
-				 6 m 3 s
+				 6 m 11 s
 			</td>
 			<td>
 				22,3 kWh
@@ -576,7 +576,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				283 kW
 			</td>
 			<td>
-				 6 m 16 s
+				 6 m 24 s
 			</td>
 			<td>
 				23,3 kWh
@@ -590,7 +590,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				284 kW
 			</td>
 			<td>
-				 6 m 30 s
+				 6 m 38 s
 			</td>
 			<td>
 				24,4 kWh
@@ -604,7 +604,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				285 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 6 m 52 s
 			</td>
 			<td>
 				25,4 kWh
@@ -618,7 +618,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				285 kW
 			</td>
 			<td>
-				 6 m 57 s
+				 7 m 6 s
 			</td>
 			<td>
 				26,4 kWh
@@ -632,7 +632,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				286 kW
 			</td>
 			<td>
-				 7 m 10 s
+				 7 m 20 s
 			</td>
 			<td>
 				27,4 kWh
@@ -646,7 +646,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				286 kW
 			</td>
 			<td>
-				 7 m 24 s
+				 7 m 33 s
 			</td>
 			<td>
 				28,4 kWh
@@ -660,7 +660,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				286 kW
 			</td>
 			<td>
-				 7 m 37 s
+				 7 m 47 s
 			</td>
 			<td>
 				29,4 kWh
@@ -674,7 +674,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				286 kW
 			</td>
 			<td>
-				 7 m 51 s
+				 8 m 1 s
 			</td>
 			<td>
 				30,4 kWh
@@ -688,7 +688,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				286 kW
 			</td>
 			<td>
-				 8 m 4 s
+				 8 m 15 s
 			</td>
 			<td>
 				31,5 kWh
@@ -702,7 +702,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				288 kW
 			</td>
 			<td>
-				 8 m 18 s
+				 8 m 28 s
 			</td>
 			<td>
 				32,5 kWh
@@ -716,7 +716,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				287 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 42 s
 			</td>
 			<td>
 				33,5 kWh
@@ -730,7 +730,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				288 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 8 m 56 s
 			</td>
 			<td>
 				34,5 kWh
@@ -744,7 +744,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				263 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 9 m 10 s
 			</td>
 			<td>
 				35,5 kWh
@@ -758,7 +758,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				229 kW
 			</td>
 			<td>
-				 9 m 14 s
+				 9 m 26 s
 			</td>
 			<td>
 				36,5 kWh
@@ -772,7 +772,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				209 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 9 m 44 s
 			</td>
 			<td>
 				37,6 kWh
@@ -786,7 +786,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				206 kW
 			</td>
 			<td>
-				 9 m 50 s
+				 10 m 3 s
 			</td>
 			<td>
 				38,6 kWh
@@ -800,7 +800,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				212 kW
 			</td>
 			<td>
-				 10 m 8 s
+				 10 m 22 s
 			</td>
 			<td>
 				39,6 kWh
@@ -814,7 +814,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				212 kW
 			</td>
 			<td>
-				 10 m 27 s
+				 10 m 40 s
 			</td>
 			<td>
 				40,6 kWh
@@ -828,7 +828,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				212 kW
 			</td>
 			<td>
-				 10 m 45 s
+				 10 m 59 s
 			</td>
 			<td>
 				41,6 kWh
@@ -842,7 +842,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				206 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 11 m 17 s
 			</td>
 			<td>
 				42,6 kWh
@@ -856,7 +856,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				207 kW
 			</td>
 			<td>
-				 11 m 22 s
+				 11 m 36 s
 			</td>
 			<td>
 				43,6 kWh
@@ -870,7 +870,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				207 kW
 			</td>
 			<td>
-				 11 m 40 s
+				 11 m 55 s
 			</td>
 			<td>
 				44,7 kWh
@@ -884,7 +884,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				202 kW
 			</td>
 			<td>
-				 11 m 59 s
+				 12 m 15 s
 			</td>
 			<td>
 				45,7 kWh
@@ -898,7 +898,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				203 kW
 			</td>
 			<td>
-				 12 m 18 s
+				 12 m 34 s
 			</td>
 			<td>
 				46,7 kWh
@@ -912,7 +912,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				196 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 12 m 54 s
 			</td>
 			<td>
 				47,7 kWh
@@ -926,7 +926,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				197 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 13 m 14 s
 			</td>
 			<td>
 				48,7 kWh
@@ -940,7 +940,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				197 kW
 			</td>
 			<td>
-				 13 m 17 s
+				 13 m 34 s
 			</td>
 			<td>
 				49,7 kWh
@@ -954,7 +954,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				199 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 54 s
 			</td>
 			<td>
 				50,8 kWh
@@ -968,7 +968,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				192 kW
 			</td>
 			<td>
-				 13 m 56 s
+				 14 m 14 s
 			</td>
 			<td>
 				51,8 kWh
@@ -982,7 +982,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				194 kW
 			</td>
 			<td>
-				 14 m 16 s
+				 14 m 34 s
 			</td>
 			<td>
 				52,8 kWh
@@ -996,7 +996,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				186 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1010,7 +1010,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				187 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 16 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1024,7 +1024,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				187 kW
 			</td>
 			<td>
-				 15 m 17 s
+				 15 m 37 s
 			</td>
 			<td>
 				55,8 kWh
@@ -1038,7 +1038,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				188 kW
 			</td>
 			<td>
-				 15 m 38 s
+				 15 m 58 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1052,7 +1052,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				189 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 19 s
 			</td>
 			<td>
 				57,9 kWh
@@ -1066,7 +1066,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				180 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 16 m 40 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1080,7 +1080,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				176 kW
 			</td>
 			<td>
-				 16 m 40 s
+				 17 m 2 s
 			</td>
 			<td>
 				59,9 kWh
@@ -1094,7 +1094,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				172 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 25 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1108,7 +1108,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				165 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 17 m 48 s
 			</td>
 			<td>
 				61,9 kWh
@@ -1122,7 +1122,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				173 kW
 			</td>
 			<td>
-				 17 m 48 s
+				 18 m 11 s
 			</td>
 			<td>
 				62,9 kWh
@@ -1136,7 +1136,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				170 kW
 			</td>
 			<td>
-				 18 m 11 s
+				 18 m 34 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1150,7 +1150,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				170 kW
 			</td>
 			<td>
-				 18 m 33 s
+				 18 m 57 s
 			</td>
 			<td>
 				65,0 kWh
@@ -1164,7 +1164,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				169 kW
 			</td>
 			<td>
-				 18 m 56 s
+				 19 m 20 s
 			</td>
 			<td>
 				66,0 kWh
@@ -1178,7 +1178,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				165 kW
 			</td>
 			<td>
-				 19 m 19 s
+				 19 m 44 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1192,7 +1192,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				163 kW
 			</td>
 			<td>
-				 19 m 42 s
+				 20 m 8 s
 			</td>
 			<td>
 				68,0 kWh
@@ -1206,7 +1206,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				162 kW
 			</td>
 			<td>
-				 20 m 6 s
+				 20 m 32 s
 			</td>
 			<td>
 				69,0 kWh
@@ -1220,7 +1220,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				156 kW
 			</td>
 			<td>
-				 20 m 30 s
+				 20 m 57 s
 			</td>
 			<td>
 				70,0 kWh
@@ -1234,7 +1234,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				154 kW
 			</td>
 			<td>
-				 20 m 55 s
+				 21 m 22 s
 			</td>
 			<td>
 				71,0 kWh
@@ -1248,7 +1248,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				149 kW
 			</td>
 			<td>
-				 21 m 20 s
+				 21 m 48 s
 			</td>
 			<td>
 				72,1 kWh
@@ -1262,7 +1262,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				146 kW
 			</td>
 			<td>
-				 21 m 46 s
+				 22 m 15 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1276,7 +1276,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				141 kW
 			</td>
 			<td>
-				 22 m 13 s
+				 22 m 42 s
 			</td>
 			<td>
 				74,1 kWh
@@ -1290,7 +1290,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				139 kW
 			</td>
 			<td>
-				 22 m 41 s
+				 23 m 10 s
 			</td>
 			<td>
 				75,1 kWh
@@ -1304,7 +1304,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				134 kW
 			</td>
 			<td>
-				 23 m 9 s
+				 23 m 39 s
 			</td>
 			<td>
 				76,1 kWh
@@ -1318,7 +1318,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				132 kW
 			</td>
 			<td>
-				 23 m 38 s
+				 24 m 8 s
 			</td>
 			<td>
 				77,1 kWh
@@ -1332,7 +1332,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				129 kW
 			</td>
 			<td>
-				 24 m 7 s
+				 24 m 38 s
 			</td>
 			<td>
 				78,2 kWh
@@ -1346,7 +1346,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				126 kW
 			</td>
 			<td>
-				 24 m 37 s
+				 25 m 9 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1360,7 +1360,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				123 kW
 			</td>
 			<td>
-				 25 m 8 s
+				 25 m 41 s
 			</td>
 			<td>
 				80,2 kWh
@@ -1374,7 +1374,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				120 kW
 			</td>
 			<td>
-				 25 m 40 s
+				 26 m 13 s
 			</td>
 			<td>
 				81,2 kWh
@@ -1388,7 +1388,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				115 kW
 			</td>
 			<td>
-				 26 m 13 s
+				 26 m 47 s
 			</td>
 			<td>
 				82,2 kWh
@@ -1402,7 +1402,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				102 kW
 			</td>
 			<td>
-				 26 m 48 s
+				 27 m 23 s
 			</td>
 			<td>
 				83,2 kWh
@@ -1416,7 +1416,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				89 kW
 			</td>
 			<td>
-				 27 m 28 s
+				 28 m 4 s
 			</td>
 			<td>
 				84,2 kWh
@@ -1430,7 +1430,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				75 kW
 			</td>
 			<td>
-				 28 m 15 s
+				 28 m 52 s
 			</td>
 			<td>
 				85,3 kWh
@@ -1444,7 +1444,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				63 kW
 			</td>
 			<td>
-				 29 m 11 s
+				 29 m 49 s
 			</td>
 			<td>
 				86,3 kWh
@@ -1458,7 +1458,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				51 kW
 			</td>
 			<td>
-				 30 m 19 s
+				 30 m 58 s
 			</td>
 			<td>
 				87,3 kWh
@@ -1472,7 +1472,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				47 kW
 			</td>
 			<td>
-				 31 m 37 s
+				 32 m 18 s
 			</td>
 			<td>
 				88,3 kWh
@@ -1486,7 +1486,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				45 kW
 			</td>
 			<td>
-				 33 m 1 s
+				 33 m 43 s
 			</td>
 			<td>
 				89,3 kWh
@@ -1500,7 +1500,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				43 kW
 			</td>
 			<td>
-				 34 m 28 s
+				 35 m 13 s
 			</td>
 			<td>
 				90,3 kWh
@@ -1514,7 +1514,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				41 kW
 			</td>
 			<td>
-				 36 m 0 s
+				 36 m 46 s
 			</td>
 			<td>
 				91,4 kWh
@@ -1528,7 +1528,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				37 kW
 			</td>
 			<td>
-				 37 m 38 s
+				 38 m 27 s
 			</td>
 			<td>
 				92,4 kWh
@@ -1542,7 +1542,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				31 kW
 			</td>
 			<td>
-				 39 m 31 s
+				 40 m 22 s
 			</td>
 			<td>
 				93,4 kWh
@@ -1556,7 +1556,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				28 kW
 			</td>
 			<td>
-				 41 m 42 s
+				 42 m 36 s
 			</td>
 			<td>
 				94,4 kWh
@@ -1570,7 +1570,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				26 kW
 			</td>
 			<td>
-				 44 m 4 s
+				 45 m 1 s
 			</td>
 			<td>
 				95,4 kWh
@@ -1584,7 +1584,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				23 kW
 			</td>
 			<td>
-				 46 m 41 s
+				 47 m 42 s
 			</td>
 			<td>
 				96,4 kWh
@@ -1598,7 +1598,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				22 kW
 			</td>
 			<td>
-				 49 m 32 s
+				 50 m 36 s
 			</td>
 			<td>
 				97,4 kWh
@@ -1612,7 +1612,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				19 kW
 			</td>
 			<td>
-				 52 m 40 s
+				 53 m 48 s
 			</td>
 			<td>
 				98,5 kWh
@@ -1626,7 +1626,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				16 kW
 			</td>
 			<td>
-				 56 m 20 s
+				 57 m 32 s
 			</td>
 			<td>
 				99,5 kWh
@@ -1640,7 +1640,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				11 kW
 			</td>
 			<td>
-				1 h 1 m 5 s
+				1 h 2 m 23 s
 			</td>
 			<td>
 				100,5 kWh
@@ -1654,7 +1654,7 @@ Audi Q6L e-tron quattro har batteriuppvärmning, vilket underlättar laddning vi
 				10 kW
 			</td>
 			<td>
-				1 h 7 m 11 s
+				1 h 8 m 38 s
 			</td>
 			<td>
 				101,5 kWh

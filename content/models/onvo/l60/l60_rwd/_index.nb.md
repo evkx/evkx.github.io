@@ -38,7 +38,7 @@ Høykapasitetsbatteriet har en brutto kapasitet på 85,0 kWh og en netto brukbar
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 730 km (454 miles). Forbruket er 12,3kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 37 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 77%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 156kW. Hver ladeøkt vil ta 26 minutter og 17 sekunder. Denne effektive ladekapasiteten gjør Onvo L60 RWD til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 77%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 153kW. Hver ladeøkt vil ta 27 minutter og 44 sekunder. Denne effektive ladekapasiteten gjør Onvo L60 RWD til et praktisk valg for langdistansereiser.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ Høykapasitetsbatteriet har en brutto kapasitet på 60,6 kWh og en netto brukbar
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 555 km (345 miles). Forbruket er 12,3kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 47 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 29 minutter og 22 sekunder.
+Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 30 minutter og 53 sekunder.
 
 ### Ombordlader
 

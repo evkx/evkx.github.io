@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 73,6 kWh og en netto brukbar
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 700 km (435 miles). Forbruket er 10,4kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 108kW. Hver ladeøkt vil ta 28 minutter og 1 sekunder.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 106kW. Hver ladeøkt vil ta 29 minutter og 31 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 16 kWh/100 km, ville turen ta omtrent 9 timer og 9 minutter. Denne reisen ville kreve to ladestopp fra 3% til 63%, med en total ladetid på 49 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 16 kWh/100 km, ville turen ta omtrent 9 timer og 9 minutter. Denne reisen ville kreve to ladestopp fra 3% til 63%, med en total ladetid på 50 minutter.
 
 ### Ombordlader
 

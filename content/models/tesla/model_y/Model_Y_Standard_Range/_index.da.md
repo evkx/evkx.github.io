@@ -38,9 +38,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 60,0 kWh og en nettoanvende
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 52 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 89kW. Hver opladningssession ville tage 17 minutter og 30 sekunder.
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 53 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 87kW. Hver opladningssession ville tage 18 minutter og 46 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 55 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 51%, med en samlet opladningstid på 95 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 56 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 51%, med en samlet opladningstid på 97 minutter
 
 ### BYD LFP Europa/China market
 
@@ -48,9 +48,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 60,0 kWh og en nettoanvende
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 37 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 113kW. Hver opladningssession ville tage 18 minutter og 28 sekunder.
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 111kW. Hver opladningssession ville tage 19 minutter og 46 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 35 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 64%, med en samlet opladningstid på 75 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 36 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 64%, med en samlet opladningstid på 76 minutter
 
 ### NMC 4850 US Market
 
@@ -58,9 +58,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 70,0 kWh og en nettoanvende
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 36%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 82kW. Hver opladningssession ville tage 18 minutter og 60 sekunder.
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 86 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 42 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 35%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 81kW. Hver opladningssession ville tage 18 minutter og 46 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 52 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 37%, med en samlet opladningstid på 93 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 53 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 37%, med en samlet opladningstid på 94 minutter
 
 ### NMC 21700 US Market Software locked
 
@@ -68,9 +68,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 70,0 kWh og en nettoanvende
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 40 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 23 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 111kW. Hver opladningssession ville tage 22 minutter og 49 sekunder.
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 41 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 109kW. Hver opladningssession ville tage 22 minutter og 11 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 28 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 62%, med en samlet opladningstid på 69 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 30 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 62%, med en samlet opladningstid på 70 minutter
 
 ### Ombordlader
 

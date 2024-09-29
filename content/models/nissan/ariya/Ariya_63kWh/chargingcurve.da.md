@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 63kWh opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Nissan Ariya 63kWh."
+description: "Nedan är laddningskurvan för Nissan Ariya 63kWh, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				73,0 kW
+				71,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				71,1 kW
+				69,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				79,6 kW
+				77,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				86,1 kW
+				84,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				80,4kW
+				79,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				26m52s
+				26m18s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				 51 m 47 s
+				 52 m 54 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 47 m 51 s
+				 48 m 53 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 30 m 44 s
+				 31 m 24 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,8 km (4,8 mi)
+				7,6 km (4,7 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,1 km (3,2 mi)
+				5,0 km (3,1 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				7,4 km (4,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,9 km (3,0 mi)
+				4,8 km (3,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,2 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				6,0 km (3,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Nissan Ariya 63kWh har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -268,7 +268,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				72 kW
 			</td>
 			<td>
-				 0 m 39 s
+				 0 m 40 s
 			</td>
 			<td>
 				0,6 kWh
@@ -282,7 +282,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				93 kW
 			</td>
 			<td>
-				 1 m 8 s
+				 1 m 9 s
 			</td>
 			<td>
 				1,3 kWh
@@ -296,7 +296,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 1 m 31 s
+				 1 m 33 s
 			</td>
 			<td>
 				1,9 kWh
@@ -310,7 +310,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 1 m 51 s
+				 1 m 54 s
 			</td>
 			<td>
 				2,5 kWh
@@ -324,7 +324,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 15 s
 			</td>
 			<td>
 				3,2 kWh
@@ -338,7 +338,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 2 m 33 s
+				 2 m 36 s
 			</td>
 			<td>
 				3,8 kWh
@@ -352,7 +352,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 2 m 54 s
+				 2 m 57 s
 			</td>
 			<td>
 				4,4 kWh
@@ -366,7 +366,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 19 s
 			</td>
 			<td>
 				5,0 kWh
@@ -380,7 +380,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 40 s
 			</td>
 			<td>
 				5,7 kWh
@@ -394,7 +394,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				116 kW
 			</td>
 			<td>
-				 3 m 56 s
+				 4 m 1 s
 			</td>
 			<td>
 				6,3 kWh
@@ -408,7 +408,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				116 kW
 			</td>
 			<td>
-				 4 m 16 s
+				 4 m 22 s
 			</td>
 			<td>
 				6,9 kWh
@@ -422,7 +422,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 4 m 37 s
+				 4 m 43 s
 			</td>
 			<td>
 				7,6 kWh
@@ -436,7 +436,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 4 m 58 s
+				 5 m 4 s
 			</td>
 			<td>
 				8,2 kWh
@@ -450,7 +450,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 5 m 19 s
+				 5 m 25 s
 			</td>
 			<td>
 				8,8 kWh
@@ -464,7 +464,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 5 m 39 s
+				 5 m 47 s
 			</td>
 			<td>
 				9,4 kWh
@@ -478,7 +478,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 6 m 8 s
 			</td>
 			<td>
 				10,1 kWh
@@ -492,7 +492,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 6 m 21 s
+				 6 m 29 s
 			</td>
 			<td>
 				10,7 kWh
@@ -506,7 +506,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 6 m 42 s
+				 6 m 50 s
 			</td>
 			<td>
 				11,3 kWh
@@ -520,7 +520,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 11 s
 			</td>
 			<td>
 				12,0 kWh
@@ -534,7 +534,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 33 s
 			</td>
 			<td>
 				12,6 kWh
@@ -548,7 +548,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 7 m 44 s
+				 7 m 54 s
 			</td>
 			<td>
 				13,2 kWh
@@ -562,7 +562,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				115 kW
 			</td>
 			<td>
-				 8 m 5 s
+				 8 m 15 s
 			</td>
 			<td>
 				13,9 kWh
@@ -576,7 +576,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				116 kW
 			</td>
 			<td>
-				 8 m 25 s
+				 8 m 36 s
 			</td>
 			<td>
 				14,5 kWh
@@ -590,7 +590,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				116 kW
 			</td>
 			<td>
-				 8 m 46 s
+				 8 m 57 s
 			</td>
 			<td>
 				15,1 kWh
@@ -604,7 +604,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				116 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 18 s
 			</td>
 			<td>
 				15,8 kWh
@@ -618,7 +618,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				116 kW
 			</td>
 			<td>
-				 9 m 27 s
+				 9 m 39 s
 			</td>
 			<td>
 				16,4 kWh
@@ -632,7 +632,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				112 kW
 			</td>
 			<td>
-				 9 m 48 s
+				 10 m 1 s
 			</td>
 			<td>
 				17,0 kWh
@@ -646,7 +646,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				111 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 23 s
 			</td>
 			<td>
 				17,6 kWh
@@ -660,7 +660,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				110 kW
 			</td>
 			<td>
-				 10 m 31 s
+				 10 m 45 s
 			</td>
 			<td>
 				18,3 kWh
@@ -674,7 +674,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				108 kW
 			</td>
 			<td>
-				 10 m 53 s
+				 11 m 7 s
 			</td>
 			<td>
 				18,9 kWh
@@ -688,7 +688,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				108 kW
 			</td>
 			<td>
-				 11 m 15 s
+				 11 m 30 s
 			</td>
 			<td>
 				19,5 kWh
@@ -702,7 +702,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				107 kW
 			</td>
 			<td>
-				 11 m 37 s
+				 11 m 52 s
 			</td>
 			<td>
 				20,2 kWh
@@ -716,7 +716,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				107 kW
 			</td>
 			<td>
-				 12 m 0 s
+				 12 m 15 s
 			</td>
 			<td>
 				20,8 kWh
@@ -730,7 +730,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				105 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 38 s
 			</td>
 			<td>
 				21,4 kWh
@@ -744,7 +744,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				104 kW
 			</td>
 			<td>
-				 12 m 45 s
+				 13 m 1 s
 			</td>
 			<td>
 				22,0 kWh
@@ -758,7 +758,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				104 kW
 			</td>
 			<td>
-				 13 m 8 s
+				 13 m 25 s
 			</td>
 			<td>
 				22,7 kWh
@@ -772,7 +772,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				102 kW
 			</td>
 			<td>
-				 13 m 31 s
+				 13 m 49 s
 			</td>
 			<td>
 				23,3 kWh
@@ -786,7 +786,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				101 kW
 			</td>
 			<td>
-				 13 m 55 s
+				 14 m 13 s
 			</td>
 			<td>
 				23,9 kWh
@@ -800,7 +800,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				101 kW
 			</td>
 			<td>
-				 14 m 18 s
+				 14 m 37 s
 			</td>
 			<td>
 				24,6 kWh
@@ -814,7 +814,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				101 kW
 			</td>
 			<td>
-				 14 m 42 s
+				 15 m 1 s
 			</td>
 			<td>
 				25,2 kWh
@@ -828,7 +828,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				100 kW
 			</td>
 			<td>
-				 15 m 6 s
+				 15 m 25 s
 			</td>
 			<td>
 				25,8 kWh
@@ -842,7 +842,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				98 kW
 			</td>
 			<td>
-				 15 m 30 s
+				 15 m 50 s
 			</td>
 			<td>
 				26,5 kWh
@@ -856,7 +856,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				97 kW
 			</td>
 			<td>
-				 15 m 54 s
+				 16 m 15 s
 			</td>
 			<td>
 				27,1 kWh
@@ -870,7 +870,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				97 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 16 m 40 s
 			</td>
 			<td>
 				27,7 kWh
@@ -884,7 +884,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				96 kW
 			</td>
 			<td>
-				 16 m 44 s
+				 17 m 5 s
 			</td>
 			<td>
 				28,4 kWh
@@ -898,7 +898,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				95 kW
 			</td>
 			<td>
-				 17 m 9 s
+				 17 m 31 s
 			</td>
 			<td>
 				29,0 kWh
@@ -912,7 +912,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				94 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 17 m 57 s
 			</td>
 			<td>
 				29,6 kWh
@@ -926,7 +926,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				94 kW
 			</td>
 			<td>
-				 17 m 59 s
+				 18 m 22 s
 			</td>
 			<td>
 				30,2 kWh
@@ -940,7 +940,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				93 kW
 			</td>
 			<td>
-				 18 m 25 s
+				 18 m 49 s
 			</td>
 			<td>
 				30,9 kWh
@@ -954,7 +954,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				92 kW
 			</td>
 			<td>
-				 18 m 51 s
+				 19 m 15 s
 			</td>
 			<td>
 				31,5 kWh
@@ -968,7 +968,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				91 kW
 			</td>
 			<td>
-				 19 m 17 s
+				 19 m 42 s
 			</td>
 			<td>
 				32,1 kWh
@@ -982,7 +982,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				90 kW
 			</td>
 			<td>
-				 19 m 43 s
+				 20 m 9 s
 			</td>
 			<td>
 				32,8 kWh
@@ -996,7 +996,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				89 kW
 			</td>
 			<td>
-				 20 m 10 s
+				 20 m 36 s
 			</td>
 			<td>
 				33,4 kWh
@@ -1010,7 +1010,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				89 kW
 			</td>
 			<td>
-				 20 m 37 s
+				 21 m 3 s
 			</td>
 			<td>
 				34,0 kWh
@@ -1024,7 +1024,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				87 kW
 			</td>
 			<td>
-				 21 m 4 s
+				 21 m 31 s
 			</td>
 			<td>
 				34,6 kWh
@@ -1038,7 +1038,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				86 kW
 			</td>
 			<td>
-				 21 m 31 s
+				 21 m 59 s
 			</td>
 			<td>
 				35,3 kWh
@@ -1052,7 +1052,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				85 kW
 			</td>
 			<td>
-				 21 m 59 s
+				 22 m 28 s
 			</td>
 			<td>
 				35,9 kWh
@@ -1066,7 +1066,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				84 kW
 			</td>
 			<td>
-				 22 m 27 s
+				 22 m 56 s
 			</td>
 			<td>
 				36,5 kWh
@@ -1080,7 +1080,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				83 kW
 			</td>
 			<td>
-				 22 m 56 s
+				 23 m 26 s
 			</td>
 			<td>
 				37,2 kWh
@@ -1094,7 +1094,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				82 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 23 m 55 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1108,7 +1108,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				81 kW
 			</td>
 			<td>
-				 23 m 54 s
+				 24 m 25 s
 			</td>
 			<td>
 				38,4 kWh
@@ -1122,7 +1122,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				80 kW
 			</td>
 			<td>
-				 24 m 24 s
+				 24 m 55 s
 			</td>
 			<td>
 				39,1 kWh
@@ -1136,7 +1136,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				79 kW
 			</td>
 			<td>
-				 24 m 54 s
+				 25 m 26 s
 			</td>
 			<td>
 				39,7 kWh
@@ -1150,7 +1150,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				77 kW
 			</td>
 			<td>
-				 25 m 25 s
+				 25 m 57 s
 			</td>
 			<td>
 				40,3 kWh
@@ -1164,7 +1164,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				76 kW
 			</td>
 			<td>
-				 25 m 56 s
+				 26 m 29 s
 			</td>
 			<td>
 				41,0 kWh
@@ -1178,7 +1178,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				75 kW
 			</td>
 			<td>
-				 26 m 27 s
+				 27 m 2 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1192,7 +1192,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				74 kW
 			</td>
 			<td>
-				 26 m 59 s
+				 27 m 34 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1206,7 +1206,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				73 kW
 			</td>
 			<td>
-				 27 m 32 s
+				 28 m 7 s
 			</td>
 			<td>
 				42,8 kWh
@@ -1220,7 +1220,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				72 kW
 			</td>
 			<td>
-				 28 m 5 s
+				 28 m 41 s
 			</td>
 			<td>
 				43,5 kWh
@@ -1234,7 +1234,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				71 kW
 			</td>
 			<td>
-				 28 m 38 s
+				 29 m 15 s
 			</td>
 			<td>
 				44,1 kWh
@@ -1248,7 +1248,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				70 kW
 			</td>
 			<td>
-				 29 m 12 s
+				 29 m 50 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1262,7 +1262,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				69 kW
 			</td>
 			<td>
-				 29 m 46 s
+				 30 m 25 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1276,7 +1276,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				68 kW
 			</td>
 			<td>
-				 30 m 21 s
+				 31 m 0 s
 			</td>
 			<td>
 				46,0 kWh
@@ -1290,7 +1290,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				67 kW
 			</td>
 			<td>
-				 30 m 57 s
+				 31 m 37 s
 			</td>
 			<td>
 				46,6 kWh
@@ -1304,7 +1304,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				66 kW
 			</td>
 			<td>
-				 31 m 33 s
+				 32 m 13 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1318,7 +1318,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				65 kW
 			</td>
 			<td>
-				 32 m 9 s
+				 32 m 51 s
 			</td>
 			<td>
 				47,9 kWh
@@ -1332,7 +1332,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				64 kW
 			</td>
 			<td>
-				 32 m 46 s
+				 33 m 28 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1346,7 +1346,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				63 kW
 			</td>
 			<td>
-				 33 m 24 s
+				 34 m 7 s
 			</td>
 			<td>
 				49,1 kWh
@@ -1360,7 +1360,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				62 kW
 			</td>
 			<td>
-				 34 m 2 s
+				 34 m 46 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1374,7 +1374,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				61 kW
 			</td>
 			<td>
-				 34 m 41 s
+				 35 m 25 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1388,7 +1388,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				60 kW
 			</td>
 			<td>
-				 35 m 20 s
+				 36 m 6 s
 			</td>
 			<td>
 				51,0 kWh
@@ -1402,7 +1402,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				59 kW
 			</td>
 			<td>
-				 36 m 0 s
+				 36 m 47 s
 			</td>
 			<td>
 				51,7 kWh
@@ -1416,7 +1416,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				58 kW
 			</td>
 			<td>
-				 36 m 41 s
+				 37 m 28 s
 			</td>
 			<td>
 				52,3 kWh
@@ -1430,7 +1430,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				56 kW
 			</td>
 			<td>
-				 37 m 23 s
+				 38 m 11 s
 			</td>
 			<td>
 				52,9 kWh
@@ -1444,7 +1444,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				55 kW
 			</td>
 			<td>
-				 38 m 6 s
+				 38 m 55 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1458,7 +1458,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				54 kW
 			</td>
 			<td>
-				 38 m 50 s
+				 39 m 40 s
 			</td>
 			<td>
 				54,2 kWh
@@ -1472,7 +1472,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				53 kW
 			</td>
 			<td>
-				 39 m 34 s
+				 40 m 25 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1486,7 +1486,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				52 kW
 			</td>
 			<td>
-				 40 m 20 s
+				 41 m 12 s
 			</td>
 			<td>
 				55,4 kWh
@@ -1500,7 +1500,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				50 kW
 			</td>
 			<td>
-				 41 m 7 s
+				 42 m 0 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1514,7 +1514,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				49 kW
 			</td>
 			<td>
-				 41 m 55 s
+				 42 m 49 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1528,7 +1528,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				48 kW
 			</td>
 			<td>
-				 42 m 44 s
+				 43 m 39 s
 			</td>
 			<td>
 				57,3 kWh
@@ -1542,7 +1542,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				47 kW
 			</td>
 			<td>
-				 43 m 34 s
+				 44 m 31 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1556,7 +1556,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				45 kW
 			</td>
 			<td>
-				 44 m 26 s
+				 45 m 24 s
 			</td>
 			<td>
 				58,6 kWh
@@ -1570,7 +1570,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				43 kW
 			</td>
 			<td>
-				 45 m 21 s
+				 46 m 19 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1584,7 +1584,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				42 kW
 			</td>
 			<td>
-				 46 m 17 s
+				 47 m 16 s
 			</td>
 			<td>
 				59,8 kWh
@@ -1598,7 +1598,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				41 kW
 			</td>
 			<td>
-				 47 m 14 s
+				 48 m 15 s
 			</td>
 			<td>
 				60,5 kWh
@@ -1612,7 +1612,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				40 kW
 			</td>
 			<td>
-				 48 m 13 s
+				 49 m 15 s
 			</td>
 			<td>
 				61,1 kWh
@@ -1626,7 +1626,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				38 kW
 			</td>
 			<td>
-				 49 m 14 s
+				 50 m 18 s
 			</td>
 			<td>
 				61,7 kWh
@@ -1640,7 +1640,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				38 kW
 			</td>
 			<td>
-				 50 m 17 s
+				 51 m 22 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1654,7 +1654,7 @@ Nissan Ariya 63kWh har batteriopvarmning, hvilket gør opladning ved en optimal 
 				15 kW
 			</td>
 			<td>
-				 51 m 47 s
+				 52 m 54 s
 			</td>
 			<td>
 				63,0 kWh

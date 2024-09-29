@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV 4WT opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Chevrolet Silverado EV 4WT."
+description: "Nedan är laddningskurvan för Chevrolet Silverado EV 4WT, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				155,8 kW
+				152,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				147,3 kW
+				144,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				209,7 kW
+				205,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				265,7 kW
+				260,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				1% - 58%
+				1% - 53%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				253,4kW
+				249,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				29m1s
+				27m56s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				1 h 22 m 46 s
+				1 h 24 m 33 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				1 h 18 m 48 s
+				1 h 20 m 29 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 33 m 59 s
+				 34 m 43 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 0-100%
 			</td>
 			<td>
-				8,7 km (5,4 mi)
+				8,6 km (5,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,5 km (5,3 mi)
+				8,3 km (5,2 mi)
 			</td>
 			<td>
-				7,4 km (4,6 mi)
+				7,3 km (4,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-100%
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,8 km (4,8 mi)
 			</td>
 			<td>
-				7,0 km (4,4 mi)
+				6,9 km (4,3 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-80%
 			</td>
 			<td>
-				14,9 km (9,3 mi)
+				14,6 km (9,1 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				14,4 km (8,9 mi)
+				14,1 km (8,8 mi)
 			</td>
 			<td>
-				12,7 km (7,9 mi)
+				12,4 km (7,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Chevrolet Silverado EV 4WT har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -282,7 +282,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				355 kW
 			</td>
 			<td>
-				 0 m 56 s
+				 0 m 57 s
 			</td>
 			<td>
 				4,3 kWh
@@ -296,7 +296,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				358 kW
 			</td>
 			<td>
-				 1 m 19 s
+				 1 m 21 s
 			</td>
 			<td>
 				6,4 kWh
@@ -310,7 +310,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				358 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 1 m 44 s
 			</td>
 			<td>
 				8,6 kWh
@@ -324,7 +324,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				360 kW
 			</td>
 			<td>
-				 2 m 5 s
+				 2 m 7 s
 			</td>
 			<td>
 				10,8 kWh
@@ -338,7 +338,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				357 kW
 			</td>
 			<td>
-				 2 m 27 s
+				 2 m 30 s
 			</td>
 			<td>
 				12,9 kWh
@@ -352,7 +352,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				356 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 2 m 54 s
 			</td>
 			<td>
 				15,0 kWh
@@ -366,7 +366,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				357 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 17 s
 			</td>
 			<td>
 				17,2 kWh
@@ -380,7 +380,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				361 kW
 			</td>
 			<td>
-				 3 m 36 s
+				 3 m 40 s
 			</td>
 			<td>
 				19,4 kWh
@@ -394,7 +394,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				361 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 3 s
 			</td>
 			<td>
 				21,5 kWh
@@ -408,7 +408,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				362 kW
 			</td>
 			<td>
-				 4 m 21 s
+				 4 m 26 s
 			</td>
 			<td>
 				23,6 kWh
@@ -422,7 +422,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				358 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 49 s
 			</td>
 			<td>
 				25,8 kWh
@@ -436,7 +436,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				358 kW
 			</td>
 			<td>
-				 5 m 6 s
+				 5 m 13 s
 			</td>
 			<td>
 				28,0 kWh
@@ -450,7 +450,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				355 kW
 			</td>
 			<td>
-				 5 m 29 s
+				 5 m 36 s
 			</td>
 			<td>
 				30,1 kWh
@@ -464,7 +464,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				355 kW
 			</td>
 			<td>
-				 5 m 52 s
+				 6 m 0 s
 			</td>
 			<td>
 				32,2 kWh
@@ -478,7 +478,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				356 kW
 			</td>
 			<td>
-				 6 m 15 s
+				 6 m 23 s
 			</td>
 			<td>
 				34,4 kWh
@@ -492,7 +492,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				357 kW
 			</td>
 			<td>
-				 6 m 38 s
+				 6 m 46 s
 			</td>
 			<td>
 				36,6 kWh
@@ -506,7 +506,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				357 kW
 			</td>
 			<td>
-				 7 m 1 s
+				 7 m 10 s
 			</td>
 			<td>
 				38,7 kWh
@@ -520,7 +520,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				357 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 33 s
 			</td>
 			<td>
 				40,8 kWh
@@ -534,7 +534,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				357 kW
 			</td>
 			<td>
-				 7 m 46 s
+				 7 m 56 s
 			</td>
 			<td>
 				43,0 kWh
@@ -548,7 +548,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 8 m 9 s
+				 8 m 19 s
 			</td>
 			<td>
 				45,2 kWh
@@ -562,7 +562,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				47,3 kWh
@@ -576,7 +576,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 6 s
 			</td>
 			<td>
 				49,4 kWh
@@ -590,7 +590,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 9 m 17 s
+				 9 m 29 s
 			</td>
 			<td>
 				51,6 kWh
@@ -604,7 +604,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 9 m 40 s
+				 9 m 52 s
 			</td>
 			<td>
 				53,8 kWh
@@ -618,7 +618,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 10 m 2 s
+				 10 m 15 s
 			</td>
 			<td>
 				55,9 kWh
@@ -632,7 +632,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 10 m 39 s
 			</td>
 			<td>
 				58,0 kWh
@@ -646,7 +646,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				359 kW
 			</td>
 			<td>
-				 10 m 48 s
+				 11 m 2 s
 			</td>
 			<td>
 				60,2 kWh
@@ -660,7 +660,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				358 kW
 			</td>
 			<td>
-				 11 m 11 s
+				 11 m 25 s
 			</td>
 			<td>
 				62,4 kWh
@@ -674,7 +674,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				342 kW
 			</td>
 			<td>
-				 11 m 34 s
+				 11 m 49 s
 			</td>
 			<td>
 				64,5 kWh
@@ -688,7 +688,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				339 kW
 			</td>
 			<td>
-				 11 m 58 s
+				 12 m 13 s
 			</td>
 			<td>
 				66,6 kWh
@@ -702,7 +702,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				333 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 12 m 38 s
 			</td>
 			<td>
 				68,8 kWh
@@ -716,7 +716,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				330 kW
 			</td>
 			<td>
-				 12 m 47 s
+				 13 m 3 s
 			</td>
 			<td>
 				71,0 kWh
@@ -730,7 +730,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				324 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 13 m 28 s
 			</td>
 			<td>
 				73,1 kWh
@@ -744,7 +744,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				327 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 54 s
 			</td>
 			<td>
 				75,2 kWh
@@ -758,7 +758,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				320 kW
 			</td>
 			<td>
-				 14 m 2 s
+				 14 m 20 s
 			</td>
 			<td>
 				77,4 kWh
@@ -772,7 +772,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				312 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 46 s
 			</td>
 			<td>
 				79,6 kWh
@@ -786,7 +786,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				317 kW
 			</td>
 			<td>
-				 14 m 53 s
+				 15 m 13 s
 			</td>
 			<td>
 				81,7 kWh
@@ -800,7 +800,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				303 kW
 			</td>
 			<td>
-				 15 m 20 s
+				 15 m 39 s
 			</td>
 			<td>
 				83,8 kWh
@@ -814,7 +814,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				294 kW
 			</td>
 			<td>
-				 15 m 47 s
+				 16 m 7 s
 			</td>
 			<td>
 				86,0 kWh
@@ -828,7 +828,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				295 kW
 			</td>
 			<td>
-				 16 m 15 s
+				 16 m 36 s
 			</td>
 			<td>
 				88,2 kWh
@@ -842,7 +842,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				288 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 4 s
 			</td>
 			<td>
 				90,3 kWh
@@ -856,7 +856,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				283 kW
 			</td>
 			<td>
-				 17 m 11 s
+				 17 m 33 s
 			</td>
 			<td>
 				92,4 kWh
@@ -870,7 +870,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				281 kW
 			</td>
 			<td>
-				 17 m 40 s
+				 18 m 3 s
 			</td>
 			<td>
 				94,6 kWh
@@ -884,7 +884,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				283 kW
 			</td>
 			<td>
-				 18 m 9 s
+				 18 m 32 s
 			</td>
 			<td>
 				96,8 kWh
@@ -898,7 +898,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				285 kW
 			</td>
 			<td>
-				 18 m 38 s
+				 19 m 2 s
 			</td>
 			<td>
 				98,9 kWh
@@ -912,7 +912,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				290 kW
 			</td>
 			<td>
-				 19 m 6 s
+				 19 m 31 s
 			</td>
 			<td>
 				101,0 kWh
@@ -926,7 +926,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				287 kW
 			</td>
 			<td>
-				 19 m 34 s
+				 19 m 59 s
 			</td>
 			<td>
 				103,2 kWh
@@ -940,7 +940,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				284 kW
 			</td>
 			<td>
-				 20 m 3 s
+				 20 m 29 s
 			</td>
 			<td>
 				105,4 kWh
@@ -954,7 +954,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				257 kW
 			</td>
 			<td>
-				 20 m 33 s
+				 20 m 59 s
 			</td>
 			<td>
 				107,5 kWh
@@ -968,7 +968,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				283 kW
 			</td>
 			<td>
-				 21 m 3 s
+				 21 m 30 s
 			</td>
 			<td>
 				109,6 kWh
@@ -982,7 +982,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				280 kW
 			</td>
 			<td>
-				 21 m 32 s
+				 22 m 0 s
 			</td>
 			<td>
 				111,8 kWh
@@ -996,7 +996,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				277 kW
 			</td>
 			<td>
-				 22 m 1 s
+				 22 m 30 s
 			</td>
 			<td>
 				114,0 kWh
@@ -1010,7 +1010,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				253 kW
 			</td>
 			<td>
-				 22 m 32 s
+				 23 m 1 s
 			</td>
 			<td>
 				116,1 kWh
@@ -1024,7 +1024,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				273 kW
 			</td>
 			<td>
-				 23 m 3 s
+				 23 m 33 s
 			</td>
 			<td>
 				118,2 kWh
@@ -1038,7 +1038,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				271 kW
 			</td>
 			<td>
-				 23 m 33 s
+				 24 m 3 s
 			</td>
 			<td>
 				120,4 kWh
@@ -1052,7 +1052,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				269 kW
 			</td>
 			<td>
-				 24 m 3 s
+				 24 m 34 s
 			</td>
 			<td>
 				122,6 kWh
@@ -1066,7 +1066,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				266 kW
 			</td>
 			<td>
-				 24 m 33 s
+				 25 m 5 s
 			</td>
 			<td>
 				124,7 kWh
@@ -1080,7 +1080,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				263 kW
 			</td>
 			<td>
-				 25 m 4 s
+				 25 m 37 s
 			</td>
 			<td>
 				126,8 kWh
@@ -1094,7 +1094,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				260 kW
 			</td>
 			<td>
-				 25 m 35 s
+				 26 m 8 s
 			</td>
 			<td>
 				129,0 kWh
@@ -1108,7 +1108,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				256 kW
 			</td>
 			<td>
-				 26 m 7 s
+				 26 m 41 s
 			</td>
 			<td>
 				131,2 kWh
@@ -1122,7 +1122,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				248 kW
 			</td>
 			<td>
-				 26 m 39 s
+				 27 m 14 s
 			</td>
 			<td>
 				133,3 kWh
@@ -1136,7 +1136,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				244 kW
 			</td>
 			<td>
-				 27 m 12 s
+				 27 m 48 s
 			</td>
 			<td>
 				135,4 kWh
@@ -1150,7 +1150,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				241 kW
 			</td>
 			<td>
-				 27 m 46 s
+				 28 m 22 s
 			</td>
 			<td>
 				137,6 kWh
@@ -1164,7 +1164,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				240 kW
 			</td>
 			<td>
-				 28 m 20 s
+				 28 m 57 s
 			</td>
 			<td>
 				139,8 kWh
@@ -1178,7 +1178,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				238 kW
 			</td>
 			<td>
-				 28 m 54 s
+				 29 m 31 s
 			</td>
 			<td>
 				141,9 kWh
@@ -1192,7 +1192,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				235 kW
 			</td>
 			<td>
-				 29 m 28 s
+				 30 m 7 s
 			</td>
 			<td>
 				144,0 kWh
@@ -1206,7 +1206,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				233 kW
 			</td>
 			<td>
-				 30 m 3 s
+				 30 m 42 s
 			</td>
 			<td>
 				146,2 kWh
@@ -1220,7 +1220,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				232 kW
 			</td>
 			<td>
-				 30 m 38 s
+				 31 m 18 s
 			</td>
 			<td>
 				148,4 kWh
@@ -1234,7 +1234,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				232 kW
 			</td>
 			<td>
-				 31 m 13 s
+				 31 m 54 s
 			</td>
 			<td>
 				150,5 kWh
@@ -1248,7 +1248,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				232 kW
 			</td>
 			<td>
-				 31 m 49 s
+				 32 m 30 s
 			</td>
 			<td>
 				152,6 kWh
@@ -1262,7 +1262,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				227 kW
 			</td>
 			<td>
-				 32 m 24 s
+				 33 m 6 s
 			</td>
 			<td>
 				154,8 kWh
@@ -1276,7 +1276,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				225 kW
 			</td>
 			<td>
-				 33 m 0 s
+				 33 m 43 s
 			</td>
 			<td>
 				157,0 kWh
@@ -1290,7 +1290,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				224 kW
 			</td>
 			<td>
-				 33 m 36 s
+				 34 m 20 s
 			</td>
 			<td>
 				159,1 kWh
@@ -1304,7 +1304,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				225 kW
 			</td>
 			<td>
-				 34 m 13 s
+				 34 m 57 s
 			</td>
 			<td>
 				161,2 kWh
@@ -1318,7 +1318,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				216 kW
 			</td>
 			<td>
-				 34 m 50 s
+				 35 m 35 s
 			</td>
 			<td>
 				163,4 kWh
@@ -1332,7 +1332,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				201 kW
 			</td>
 			<td>
-				 35 m 29 s
+				 36 m 15 s
 			</td>
 			<td>
 				165,6 kWh
@@ -1346,7 +1346,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				175 kW
 			</td>
 			<td>
-				 36 m 12 s
+				 36 m 59 s
 			</td>
 			<td>
 				167,7 kWh
@@ -1360,7 +1360,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				159 kW
 			</td>
 			<td>
-				 37 m 1 s
+				 37 m 49 s
 			</td>
 			<td>
 				169,8 kWh
@@ -1374,7 +1374,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				128 kW
 			</td>
 			<td>
-				 37 m 58 s
+				 38 m 47 s
 			</td>
 			<td>
 				172,0 kWh
@@ -1388,7 +1388,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				133 kW
 			</td>
 			<td>
-				 39 m 0 s
+				 39 m 50 s
 			</td>
 			<td>
 				174,2 kWh
@@ -1402,7 +1402,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				122 kW
 			</td>
 			<td>
-				 40 m 4 s
+				 40 m 56 s
 			</td>
 			<td>
 				176,3 kWh
@@ -1416,7 +1416,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				109 kW
 			</td>
 			<td>
-				 41 m 15 s
+				 42 m 8 s
 			</td>
 			<td>
 				178,4 kWh
@@ -1430,7 +1430,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				98 kW
 			</td>
 			<td>
-				 42 m 33 s
+				 43 m 28 s
 			</td>
 			<td>
 				180,6 kWh
@@ -1444,7 +1444,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				90 kW
 			</td>
 			<td>
-				 44 m 0 s
+				 44 m 57 s
 			</td>
 			<td>
 				182,8 kWh
@@ -1458,7 +1458,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				77 kW
 			</td>
 			<td>
-				 45 m 37 s
+				 46 m 36 s
 			</td>
 			<td>
 				184,9 kWh
@@ -1472,7 +1472,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				74 kW
 			</td>
 			<td>
-				 47 m 25 s
+				 48 m 27 s
 			</td>
 			<td>
 				187,0 kWh
@@ -1486,7 +1486,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				76 kW
 			</td>
 			<td>
-				 49 m 14 s
+				 50 m 18 s
 			</td>
 			<td>
 				189,2 kWh
@@ -1500,7 +1500,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				68 kW
 			</td>
 			<td>
-				 51 m 7 s
+				 52 m 13 s
 			</td>
 			<td>
 				191,4 kWh
@@ -1514,7 +1514,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				64 kW
 			</td>
 			<td>
-				 53 m 11 s
+				 54 m 19 s
 			</td>
 			<td>
 				193,5 kWh
@@ -1528,7 +1528,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				59 kW
 			</td>
 			<td>
-				 55 m 23 s
+				 56 m 35 s
 			</td>
 			<td>
 				195,6 kWh
@@ -1542,7 +1542,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				55 kW
 			</td>
 			<td>
-				 57 m 46 s
+				 59 m 1 s
 			</td>
 			<td>
 				197,8 kWh
@@ -1556,7 +1556,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				53 kW
 			</td>
 			<td>
-				1 h 0 m 17 s
+				1 h 1 m 35 s
 			</td>
 			<td>
 				200,0 kWh
@@ -1570,7 +1570,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				56 kW
 			</td>
 			<td>
-				1 h 2 m 46 s
+				1 h 4 m 7 s
 			</td>
 			<td>
 				202,1 kWh
@@ -1584,7 +1584,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				52 kW
 			</td>
 			<td>
-				1 h 5 m 17 s
+				1 h 6 m 42 s
 			</td>
 			<td>
 				204,2 kWh
@@ -1598,7 +1598,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				48 kW
 			</td>
 			<td>
-				1 h 8 m 0 s
+				1 h 9 m 28 s
 			</td>
 			<td>
 				206,4 kWh
@@ -1612,7 +1612,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				44 kW
 			</td>
 			<td>
-				1 h 10 m 57 s
+				1 h 12 m 29 s
 			</td>
 			<td>
 				208,6 kWh
@@ -1626,7 +1626,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				42 kW
 			</td>
 			<td>
-				1 h 14 m 7 s
+				1 h 15 m 42 s
 			</td>
 			<td>
 				210,7 kWh
@@ -1640,7 +1640,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				37 kW
 			</td>
 			<td>
-				1 h 17 m 33 s
+				1 h 19 m 13 s
 			</td>
 			<td>
 				212,8 kWh
@@ -1654,7 +1654,7 @@ Chevrolet Silverado EV 4WT har batteriopvarmning, hvilket gør opladning ved en 
 				15 kW
 			</td>
 			<td>
-				1 h 22 m 46 s
+				1 h 24 m 33 s
 			</td>
 			<td>
 				215,0 kWh

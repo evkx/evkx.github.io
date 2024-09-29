@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 215,0 kWh og en nettoanvend
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 740 km med en energiforbrugsrate på 27,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 130 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 45 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 53%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 242kW. Hver opladningssession ville tage 26 minutter og 49 sekunder. Denne effektive opladningskapacitet gør Cadillac ESCALADE IQ til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 133 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 46 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 53%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 238kW. Hver opladningssession ville tage 26 minutter og 16 sekunder. Denne effektive opladningskapacitet gør Cadillac ESCALADE IQ til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 35 kWh/100 km, ville turen tage cirka 8 timer og 58 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 39%, med en samlet opladningstid på 39 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 35 kWh/100 km, ville turen tage cirka 8 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 39%, med en samlet opladningstid på 39 minutter
 
 ### Ombordlader
 

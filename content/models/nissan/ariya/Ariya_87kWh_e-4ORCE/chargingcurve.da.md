@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Nissan Ariya 87kWh e-4ORCE."
+description: "Nedan är laddningskurvan för Nissan Ariya 87kWh e-4ORCE, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				82,4 kW
+				80,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				82,0 kW
+				80,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				100,6 kW
+				98,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				107,2 kW
+				105,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				6% - 59%
+				7% - 59%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				97,7kW
+				96,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				28m18s
+				28m16s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				1 h 3 m 20 s
+				1 h 4 m 42 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 57 m 17 s
+				 58 m 31 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 34 m 4 s
+				 34 m 48 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 0-100%
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				6,7 km (4,2 mi)
 			</td>
 			<td>
-				8,1 km (5,0 mi)
+				8,0 km (5,0 mi)
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,3 km (3,9 mi)
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				5,2 km (3,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-100%
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				6,6 km (4,1 mi)
 			</td>
 			<td>
-				8,1 km (5,0 mi)
+				7,9 km (4,9 mi)
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				5,1 km (3,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-80%
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				8,7 km (5,4 mi)
 			</td>
 			<td>
-				10,6 km (6,6 mi)
+				10,4 km (6,5 mi)
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
-				6,9 km (4,3 mi)
+				6,7 km (4,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Nissan Ariya 87kWh e-4ORCE har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -268,7 +268,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				81 kW
 			</td>
 			<td>
-				 0 m 50 s
+				 0 m 51 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				82 kW
 			</td>
 			<td>
-				 1 m 30 s
+				 1 m 32 s
 			</td>
 			<td>
 				1,7 kWh
@@ -296,7 +296,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				82 kW
 			</td>
 			<td>
-				 2 m 10 s
+				 2 m 13 s
 			</td>
 			<td>
 				2,6 kWh
@@ -310,7 +310,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				83 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 2 m 54 s
 			</td>
 			<td>
 				3,5 kWh
@@ -324,7 +324,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				80 kW
 			</td>
 			<td>
-				 3 m 31 s
+				 3 m 35 s
 			</td>
 			<td>
 				4,4 kWh
@@ -338,7 +338,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				81 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 4 m 17 s
 			</td>
 			<td>
 				5,2 kWh
@@ -352,7 +352,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				125 kW
 			</td>
 			<td>
-				 4 m 44 s
+				 4 m 50 s
 			</td>
 			<td>
 				6,1 kWh
@@ -366,7 +366,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				126 kW
 			</td>
 			<td>
-				 5 m 10 s
+				 5 m 17 s
 			</td>
 			<td>
 				7,0 kWh
@@ -380,7 +380,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				126 kW
 			</td>
 			<td>
-				 5 m 36 s
+				 5 m 44 s
 			</td>
 			<td>
 				7,8 kWh
@@ -394,7 +394,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				126 kW
 			</td>
 			<td>
-				 6 m 2 s
+				 6 m 10 s
 			</td>
 			<td>
 				8,7 kWh
@@ -408,7 +408,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 6 m 37 s
 			</td>
 			<td>
 				9,6 kWh
@@ -422,7 +422,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 6 m 54 s
+				 7 m 3 s
 			</td>
 			<td>
 				10,4 kWh
@@ -436,7 +436,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				126 kW
 			</td>
 			<td>
-				 7 m 21 s
+				 7 m 30 s
 			</td>
 			<td>
 				11,3 kWh
@@ -450,7 +450,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 7 m 47 s
+				 7 m 57 s
 			</td>
 			<td>
 				12,2 kWh
@@ -464,7 +464,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 8 m 13 s
+				 8 m 23 s
 			</td>
 			<td>
 				13,0 kWh
@@ -478,7 +478,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 8 m 39 s
+				 8 m 50 s
 			</td>
 			<td>
 				13,9 kWh
@@ -492,7 +492,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				128 kW
 			</td>
 			<td>
-				 9 m 4 s
+				 9 m 16 s
 			</td>
 			<td>
 				14,8 kWh
@@ -506,7 +506,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 9 m 30 s
+				 9 m 42 s
 			</td>
 			<td>
 				15,7 kWh
@@ -520,7 +520,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 8 s
 			</td>
 			<td>
 				16,5 kWh
@@ -534,7 +534,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 10 m 21 s
+				 10 m 35 s
 			</td>
 			<td>
 				17,4 kWh
@@ -548,7 +548,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 10 m 47 s
+				 11 m 1 s
 			</td>
 			<td>
 				18,3 kWh
@@ -562,7 +562,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 27 s
 			</td>
 			<td>
 				19,1 kWh
@@ -576,7 +576,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 11 m 38 s
+				 11 m 53 s
 			</td>
 			<td>
 				20,0 kWh
@@ -590,7 +590,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 12 m 3 s
+				 12 m 19 s
 			</td>
 			<td>
 				20,9 kWh
@@ -604,7 +604,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 12 m 29 s
+				 12 m 45 s
 			</td>
 			<td>
 				21,8 kWh
@@ -618,7 +618,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 12 m 55 s
+				 13 m 11 s
 			</td>
 			<td>
 				22,6 kWh
@@ -632,7 +632,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 13 m 20 s
+				 13 m 37 s
 			</td>
 			<td>
 				23,5 kWh
@@ -646,7 +646,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				129 kW
 			</td>
 			<td>
-				 13 m 46 s
+				 14 m 3 s
 			</td>
 			<td>
 				24,4 kWh
@@ -660,7 +660,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 14 m 11 s
+				 14 m 29 s
 			</td>
 			<td>
 				25,2 kWh
@@ -674,7 +674,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				26,1 kWh
@@ -688,7 +688,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 15 m 2 s
+				 15 m 21 s
 			</td>
 			<td>
 				27,0 kWh
@@ -702,7 +702,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 15 m 27 s
+				 15 m 47 s
 			</td>
 			<td>
 				27,8 kWh
@@ -716,7 +716,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 15 m 53 s
+				 16 m 13 s
 			</td>
 			<td>
 				28,7 kWh
@@ -730,7 +730,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 16 m 18 s
+				 16 m 39 s
 			</td>
 			<td>
 				29,6 kWh
@@ -744,7 +744,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 17 m 5 s
 			</td>
 			<td>
 				30,4 kWh
@@ -758,7 +758,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 17 m 9 s
+				 17 m 31 s
 			</td>
 			<td>
 				31,3 kWh
@@ -772,7 +772,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 17 m 57 s
 			</td>
 			<td>
 				32,2 kWh
@@ -786,7 +786,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 17 m 59 s
+				 18 m 23 s
 			</td>
 			<td>
 				33,1 kWh
@@ -800,7 +800,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 18 m 25 s
+				 18 m 48 s
 			</td>
 			<td>
 				33,9 kWh
@@ -814,7 +814,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 18 m 50 s
+				 19 m 14 s
 			</td>
 			<td>
 				34,8 kWh
@@ -828,7 +828,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				131 kW
 			</td>
 			<td>
-				 19 m 15 s
+				 19 m 40 s
 			</td>
 			<td>
 				35,7 kWh
@@ -842,7 +842,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				132 kW
 			</td>
 			<td>
-				 19 m 40 s
+				 20 m 6 s
 			</td>
 			<td>
 				36,5 kWh
@@ -856,7 +856,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				131 kW
 			</td>
 			<td>
-				 20 m 5 s
+				 20 m 31 s
 			</td>
 			<td>
 				37,4 kWh
@@ -870,7 +870,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 20 m 57 s
 			</td>
 			<td>
 				38,3 kWh
@@ -884,7 +884,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 20 m 56 s
+				 21 m 23 s
 			</td>
 			<td>
 				39,2 kWh
@@ -898,7 +898,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				130 kW
 			</td>
 			<td>
-				 21 m 21 s
+				 21 m 49 s
 			</td>
 			<td>
 				40,0 kWh
@@ -912,7 +912,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 21 m 47 s
+				 22 m 15 s
 			</td>
 			<td>
 				40,9 kWh
@@ -926,7 +926,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				127 kW
 			</td>
 			<td>
-				 22 m 13 s
+				 22 m 42 s
 			</td>
 			<td>
 				41,8 kWh
@@ -940,7 +940,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				126 kW
 			</td>
 			<td>
-				 22 m 39 s
+				 23 m 8 s
 			</td>
 			<td>
 				42,6 kWh
@@ -954,7 +954,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				126 kW
 			</td>
 			<td>
-				 23 m 5 s
+				 23 m 35 s
 			</td>
 			<td>
 				43,5 kWh
@@ -968,7 +968,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				124 kW
 			</td>
 			<td>
-				 23 m 32 s
+				 24 m 2 s
 			</td>
 			<td>
 				44,4 kWh
@@ -982,7 +982,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				114 kW
 			</td>
 			<td>
-				 23 m 59 s
+				 24 m 30 s
 			</td>
 			<td>
 				45,2 kWh
@@ -996,7 +996,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				114 kW
 			</td>
 			<td>
-				 24 m 28 s
+				 25 m 0 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1010,7 +1010,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				111 kW
 			</td>
 			<td>
-				 24 m 58 s
+				 25 m 30 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1024,7 +1024,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				110 kW
 			</td>
 			<td>
-				 25 m 27 s
+				 26 m 0 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1038,7 +1038,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				109 kW
 			</td>
 			<td>
-				 25 m 58 s
+				 26 m 31 s
 			</td>
 			<td>
 				48,7 kWh
@@ -1052,7 +1052,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				108 kW
 			</td>
 			<td>
-				 26 m 28 s
+				 27 m 2 s
 			</td>
 			<td>
 				49,6 kWh
@@ -1066,7 +1066,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				107 kW
 			</td>
 			<td>
-				 26 m 59 s
+				 27 m 33 s
 			</td>
 			<td>
 				50,5 kWh
@@ -1080,7 +1080,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				102 kW
 			</td>
 			<td>
-				 27 m 30 s
+				 28 m 6 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1094,7 +1094,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				102 kW
 			</td>
 			<td>
-				 28 m 2 s
+				 28 m 39 s
 			</td>
 			<td>
 				52,2 kWh
@@ -1108,7 +1108,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				101 kW
 			</td>
 			<td>
-				 28 m 35 s
+				 29 m 12 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1122,7 +1122,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				101 kW
 			</td>
 			<td>
-				 29 m 8 s
+				 29 m 45 s
 			</td>
 			<td>
 				53,9 kWh
@@ -1136,7 +1136,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				99 kW
 			</td>
 			<td>
-				 29 m 41 s
+				 30 m 19 s
 			</td>
 			<td>
 				54,8 kWh
@@ -1150,7 +1150,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				98 kW
 			</td>
 			<td>
-				 30 m 14 s
+				 30 m 53 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1164,7 +1164,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				95 kW
 			</td>
 			<td>
-				 30 m 48 s
+				 31 m 28 s
 			</td>
 			<td>
 				56,6 kWh
@@ -1178,7 +1178,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				93 kW
 			</td>
 			<td>
-				 31 m 23 s
+				 32 m 4 s
 			</td>
 			<td>
 				57,4 kWh
@@ -1192,7 +1192,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				92 kW
 			</td>
 			<td>
-				 31 m 59 s
+				 32 m 40 s
 			</td>
 			<td>
 				58,3 kWh
@@ -1206,7 +1206,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				91 kW
 			</td>
 			<td>
-				 32 m 35 s
+				 33 m 17 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1220,7 +1220,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				93 kW
 			</td>
 			<td>
-				 33 m 11 s
+				 33 m 54 s
 			</td>
 			<td>
 				60,0 kWh
@@ -1234,7 +1234,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				92 kW
 			</td>
 			<td>
-				 33 m 46 s
+				 34 m 30 s
 			</td>
 			<td>
 				60,9 kWh
@@ -1248,7 +1248,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				90 kW
 			</td>
 			<td>
-				 34 m 23 s
+				 35 m 7 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1262,7 +1262,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				89 kW
 			</td>
 			<td>
-				 34 m 59 s
+				 35 m 45 s
 			</td>
 			<td>
 				62,6 kWh
@@ -1276,7 +1276,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				88 kW
 			</td>
 			<td>
-				 35 m 37 s
+				 36 m 23 s
 			</td>
 			<td>
 				63,5 kWh
@@ -1290,7 +1290,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				88 kW
 			</td>
 			<td>
-				 36 m 14 s
+				 37 m 1 s
 			</td>
 			<td>
 				64,4 kWh
@@ -1304,7 +1304,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				87 kW
 			</td>
 			<td>
-				 36 m 52 s
+				 37 m 39 s
 			</td>
 			<td>
 				65,2 kWh
@@ -1318,7 +1318,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				86 kW
 			</td>
 			<td>
-				 37 m 30 s
+				 38 m 18 s
 			</td>
 			<td>
 				66,1 kWh
@@ -1332,7 +1332,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				85 kW
 			</td>
 			<td>
-				 38 m 9 s
+				 38 m 58 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1346,7 +1346,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				84 kW
 			</td>
 			<td>
-				 38 m 48 s
+				 39 m 38 s
 			</td>
 			<td>
 				67,9 kWh
@@ -1360,7 +1360,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				83 kW
 			</td>
 			<td>
-				 39 m 27 s
+				 40 m 18 s
 			</td>
 			<td>
 				68,7 kWh
@@ -1374,7 +1374,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				81 kW
 			</td>
 			<td>
-				 40 m 7 s
+				 40 m 59 s
 			</td>
 			<td>
 				69,6 kWh
@@ -1388,7 +1388,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				80 kW
 			</td>
 			<td>
-				 40 m 48 s
+				 41 m 41 s
 			</td>
 			<td>
 				70,5 kWh
@@ -1402,7 +1402,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				80 kW
 			</td>
 			<td>
-				 41 m 29 s
+				 42 m 23 s
 			</td>
 			<td>
 				71,3 kWh
@@ -1416,7 +1416,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				77 kW
 			</td>
 			<td>
-				 42 m 11 s
+				 43 m 6 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1430,7 +1430,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				76 kW
 			</td>
 			<td>
-				 42 m 54 s
+				 43 m 50 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1444,7 +1444,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				74 kW
 			</td>
 			<td>
-				 43 m 38 s
+				 44 m 35 s
 			</td>
 			<td>
 				74,0 kWh
@@ -1458,7 +1458,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				73 kW
 			</td>
 			<td>
-				 44 m 23 s
+				 45 m 21 s
 			</td>
 			<td>
 				74,8 kWh
@@ -1472,7 +1472,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				71 kW
 			</td>
 			<td>
-				 45 m 9 s
+				 46 m 7 s
 			</td>
 			<td>
 				75,7 kWh
@@ -1486,7 +1486,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				70 kW
 			</td>
 			<td>
-				 45 m 56 s
+				 46 m 55 s
 			</td>
 			<td>
 				76,6 kWh
@@ -1500,7 +1500,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				67 kW
 			</td>
 			<td>
-				 46 m 44 s
+				 47 m 44 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1514,7 +1514,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				66 kW
 			</td>
 			<td>
-				 47 m 34 s
+				 48 m 35 s
 			</td>
 			<td>
 				78,3 kWh
@@ -1528,7 +1528,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				55 kW
 			</td>
 			<td>
-				 48 m 28 s
+				 49 m 31 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1542,7 +1542,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				52 kW
 			</td>
 			<td>
-				 49 m 30 s
+				 50 m 34 s
 			</td>
 			<td>
 				80,0 kWh
@@ -1556,7 +1556,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				52 kW
 			</td>
 			<td>
-				 50 m 33 s
+				 51 m 38 s
 			</td>
 			<td>
 				80,9 kWh
@@ -1570,7 +1570,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				45 kW
 			</td>
 			<td>
-				 51 m 41 s
+				 52 m 48 s
 			</td>
 			<td>
 				81,8 kWh
@@ -1584,7 +1584,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				44 kW
 			</td>
 			<td>
-				 52 m 55 s
+				 54 m 3 s
 			</td>
 			<td>
 				82,6 kWh
@@ -1598,7 +1598,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				44 kW
 			</td>
 			<td>
-				 54 m 10 s
+				 55 m 20 s
 			</td>
 			<td>
 				83,5 kWh
@@ -1612,7 +1612,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				34 kW
 			</td>
 			<td>
-				 55 m 35 s
+				 56 m 46 s
 			</td>
 			<td>
 				84,4 kWh
@@ -1626,7 +1626,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				27 kW
 			</td>
 			<td>
-				 57 m 23 s
+				 58 m 37 s
 			</td>
 			<td>
 				85,3 kWh
@@ -1640,7 +1640,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				27 kW
 			</td>
 			<td>
-				 59 m 25 s
+				1 h 0 m 41 s
 			</td>
 			<td>
 				86,1 kWh
@@ -1654,7 +1654,7 @@ Nissan Ariya 87kWh e-4ORCE har batteriopvarmning, hvilket gør opladning ved en 
 				1 kW
 			</td>
 			<td>
-				1 h 3 m 20 s
+				1 h 4 m 42 s
 			</td>
 			<td>
 				87,0 kWh

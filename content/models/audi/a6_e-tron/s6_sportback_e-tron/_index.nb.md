@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukba
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 675 og 638 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,1 kWh/100 km for basismodellen og 14,9 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 171kW. Hver ladeøkt vil ta 21 minutter og 56 sekunder. Denne effektive ladekapasiteten gjør Audi S6 Sportback e-tron til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 60 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 169kW. Hver ladeøkt vil ta 21 minutter og 36 sekunder. Denne effektive ladekapasiteten gjør Audi S6 Sportback e-tron til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 20,5 kWh/100 km, ville turen ta omtrent 8 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 1% til 60%, med en total ladetid på 39 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 20,5 kWh/100 km, ville turen ta omtrent 8 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 1% til 60%, med en total ladetid på 40 minutter.
 
 ### Ombordlader
 

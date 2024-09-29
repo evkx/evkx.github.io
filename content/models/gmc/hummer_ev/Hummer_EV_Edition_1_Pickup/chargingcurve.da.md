@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for GMC Hummer EV Edition 1 Pickup."
+description: "Nedan är laddningskurvan för GMC Hummer EV Edition 1 Pickup, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				92,3 kW
+				90,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				85,6 kW
+				83,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				120,1 kW
+				117,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				185,5 kW
+				181,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				1% - 52%
+				1% - 48%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				244,6kW
+				240,4kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				27m39s
+				25m59s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				2 h 18 m 30 s
+				2 h 21 m 28 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				2 h 14 m 24 s
+				2 h 17 m 17 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 48 m 13 s
+				 49 m 15 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 0-100%
 			</td>
 			<td>
-				3,8 km (2,4 mi)
+				3,7 km (2,3 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				4,0 km (2,5 mi)
+				3,9 km (2,4 mi)
 			</td>
 			<td>
-				3,6 km (2,2 mi)
+				3,5 km (2,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -192,10 +192,10 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,7 km (2,3 mi)
+				3,6 km (2,2 mi)
 			</td>
 			<td>
-				3,3 km (2,1 mi)
+				3,2 km (2,0 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-80%
 			</td>
 			<td>
-				7,7 km (4,8 mi)
+				7,5 km (4,7 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,9 km (4,9 mi)
 			</td>
 			<td>
-				7,2 km (4,5 mi)
+				7,0 km (4,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+GMC Hummer EV Edition 1 Pickup har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -268,7 +268,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				335 kW
 			</td>
 			<td>
-				 0 m 33 s
+				 0 m 34 s
 			</td>
 			<td>
 				2,1 kWh
@@ -282,7 +282,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				338 kW
 			</td>
 			<td>
-				 0 m 57 s
+				 0 m 58 s
 			</td>
 			<td>
 				4,3 kWh
@@ -296,7 +296,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				345 kW
 			</td>
 			<td>
-				 1 m 20 s
+				 1 m 22 s
 			</td>
 			<td>
 				6,4 kWh
@@ -310,7 +310,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				341 kW
 			</td>
 			<td>
-				 1 m 44 s
+				 1 m 46 s
 			</td>
 			<td>
 				8,5 kWh
@@ -324,7 +324,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				344 kW
 			</td>
 			<td>
-				 2 m 8 s
+				 2 m 10 s
 			</td>
 			<td>
 				10,6 kWh
@@ -338,7 +338,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				342 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				12,8 kWh
@@ -352,7 +352,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				343 kW
 			</td>
 			<td>
-				 2 m 55 s
+				 2 m 58 s
 			</td>
 			<td>
 				14,9 kWh
@@ -366,7 +366,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				345 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 3 m 22 s
 			</td>
 			<td>
 				17,0 kWh
@@ -380,7 +380,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				341 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 46 s
 			</td>
 			<td>
 				19,2 kWh
@@ -394,7 +394,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				338 kW
 			</td>
 			<td>
-				 4 m 5 s
+				 4 m 11 s
 			</td>
 			<td>
 				21,3 kWh
@@ -408,7 +408,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				338 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 4 m 35 s
 			</td>
 			<td>
 				23,4 kWh
@@ -422,7 +422,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				338 kW
 			</td>
 			<td>
-				 4 m 53 s
+				 4 m 59 s
 			</td>
 			<td>
 				25,6 kWh
@@ -436,7 +436,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				338 kW
 			</td>
 			<td>
-				 5 m 17 s
+				 5 m 24 s
 			</td>
 			<td>
 				27,7 kWh
@@ -450,7 +450,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				340 kW
 			</td>
 			<td>
-				 5 m 41 s
+				 5 m 48 s
 			</td>
 			<td>
 				29,8 kWh
@@ -464,7 +464,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				340 kW
 			</td>
 			<td>
-				 6 m 5 s
+				 6 m 12 s
 			</td>
 			<td>
 				32,0 kWh
@@ -478,7 +478,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				343 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 37 s
 			</td>
 			<td>
 				34,1 kWh
@@ -492,7 +492,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				342 kW
 			</td>
 			<td>
-				 6 m 52 s
+				 7 m 1 s
 			</td>
 			<td>
 				36,2 kWh
@@ -506,7 +506,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				342 kW
 			</td>
 			<td>
-				 7 m 15 s
+				 7 m 25 s
 			</td>
 			<td>
 				38,3 kWh
@@ -520,7 +520,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				342 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 7 m 49 s
 			</td>
 			<td>
 				40,5 kWh
@@ -534,7 +534,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				342 kW
 			</td>
 			<td>
-				 8 m 3 s
+				 8 m 13 s
 			</td>
 			<td>
 				42,6 kWh
@@ -548,7 +548,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				343 kW
 			</td>
 			<td>
-				 8 m 26 s
+				 8 m 37 s
 			</td>
 			<td>
 				44,7 kWh
@@ -562,7 +562,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				343 kW
 			</td>
 			<td>
-				 8 m 50 s
+				 9 m 1 s
 			</td>
 			<td>
 				46,9 kWh
@@ -576,7 +576,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				345 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 9 m 25 s
 			</td>
 			<td>
 				49,0 kWh
@@ -590,7 +590,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				345 kW
 			</td>
 			<td>
-				 9 m 37 s
+				 9 m 49 s
 			</td>
 			<td>
 				51,1 kWh
@@ -604,7 +604,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				341 kW
 			</td>
 			<td>
-				 10 m 0 s
+				 10 m 13 s
 			</td>
 			<td>
 				53,2 kWh
@@ -618,7 +618,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				337 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 10 m 37 s
 			</td>
 			<td>
 				55,4 kWh
@@ -632,7 +632,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				337 kW
 			</td>
 			<td>
-				 10 m 48 s
+				 11 m 2 s
 			</td>
 			<td>
 				57,5 kWh
@@ -646,7 +646,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				339 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 11 m 26 s
 			</td>
 			<td>
 				59,6 kWh
@@ -660,7 +660,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				337 kW
 			</td>
 			<td>
-				 11 m 36 s
+				 11 m 51 s
 			</td>
 			<td>
 				61,8 kWh
@@ -674,7 +674,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				338 kW
 			</td>
 			<td>
-				 12 m 0 s
+				 12 m 15 s
 			</td>
 			<td>
 				63,9 kWh
@@ -688,7 +688,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				339 kW
 			</td>
 			<td>
-				 12 m 23 s
+				 12 m 39 s
 			</td>
 			<td>
 				66,0 kWh
@@ -702,7 +702,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				340 kW
 			</td>
 			<td>
-				 12 m 47 s
+				 13 m 4 s
 			</td>
 			<td>
 				68,2 kWh
@@ -716,7 +716,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				340 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 13 m 28 s
 			</td>
 			<td>
 				70,3 kWh
@@ -730,7 +730,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				340 kW
 			</td>
 			<td>
-				 13 m 35 s
+				 13 m 52 s
 			</td>
 			<td>
 				72,4 kWh
@@ -744,7 +744,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				327 kW
 			</td>
 			<td>
-				 13 m 59 s
+				 14 m 17 s
 			</td>
 			<td>
 				74,6 kWh
@@ -758,7 +758,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				306 kW
 			</td>
 			<td>
-				 14 m 24 s
+				 14 m 43 s
 			</td>
 			<td>
 				76,7 kWh
@@ -772,7 +772,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				291 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 15 m 11 s
 			</td>
 			<td>
 				78,8 kWh
@@ -786,7 +786,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				291 kW
 			</td>
 			<td>
-				 15 m 19 s
+				 15 m 39 s
 			</td>
 			<td>
 				80,9 kWh
@@ -800,7 +800,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				292 kW
 			</td>
 			<td>
-				 15 m 47 s
+				 16 m 7 s
 			</td>
 			<td>
 				83,1 kWh
@@ -814,7 +814,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				294 kW
 			</td>
 			<td>
-				 16 m 14 s
+				 16 m 35 s
 			</td>
 			<td>
 				85,2 kWh
@@ -828,7 +828,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				291 kW
 			</td>
 			<td>
-				 16 m 42 s
+				 17 m 3 s
 			</td>
 			<td>
 				87,3 kWh
@@ -842,7 +842,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				288 kW
 			</td>
 			<td>
-				 17 m 10 s
+				 17 m 32 s
 			</td>
 			<td>
 				89,5 kWh
@@ -856,7 +856,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				280 kW
 			</td>
 			<td>
-				 17 m 38 s
+				 18 m 1 s
 			</td>
 			<td>
 				91,6 kWh
@@ -870,7 +870,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				281 kW
 			</td>
 			<td>
-				 18 m 7 s
+				 18 m 30 s
 			</td>
 			<td>
 				93,7 kWh
@@ -884,7 +884,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				275 kW
 			</td>
 			<td>
-				 18 m 36 s
+				 19 m 0 s
 			</td>
 			<td>
 				95,8 kWh
@@ -898,7 +898,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				274 kW
 			</td>
 			<td>
-				 19 m 5 s
+				 19 m 30 s
 			</td>
 			<td>
 				98,0 kWh
@@ -912,7 +912,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				261 kW
 			</td>
 			<td>
-				 19 m 36 s
+				 20 m 1 s
 			</td>
 			<td>
 				100,1 kWh
@@ -926,7 +926,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				258 kW
 			</td>
 			<td>
-				 20 m 7 s
+				 20 m 33 s
 			</td>
 			<td>
 				102,2 kWh
@@ -940,7 +940,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				258 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 21 m 5 s
 			</td>
 			<td>
 				104,4 kWh
@@ -954,7 +954,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				257 kW
 			</td>
 			<td>
-				 21 m 9 s
+				 21 m 37 s
 			</td>
 			<td>
 				106,5 kWh
@@ -968,7 +968,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				259 kW
 			</td>
 			<td>
-				 21 m 41 s
+				 22 m 9 s
 			</td>
 			<td>
 				108,6 kWh
@@ -982,7 +982,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				258 kW
 			</td>
 			<td>
-				 22 m 12 s
+				 22 m 41 s
 			</td>
 			<td>
 				110,8 kWh
@@ -996,7 +996,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				255 kW
 			</td>
 			<td>
-				 22 m 43 s
+				 23 m 13 s
 			</td>
 			<td>
 				112,9 kWh
@@ -1010,7 +1010,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				253 kW
 			</td>
 			<td>
-				 23 m 15 s
+				 23 m 45 s
 			</td>
 			<td>
 				115,0 kWh
@@ -1024,7 +1024,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				252 kW
 			</td>
 			<td>
-				 23 m 47 s
+				 24 m 18 s
 			</td>
 			<td>
 				117,2 kWh
@@ -1038,7 +1038,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				253 kW
 			</td>
 			<td>
-				 24 m 19 s
+				 24 m 50 s
 			</td>
 			<td>
 				119,3 kWh
@@ -1052,7 +1052,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				254 kW
 			</td>
 			<td>
-				 24 m 51 s
+				 25 m 23 s
 			</td>
 			<td>
 				121,4 kWh
@@ -1066,7 +1066,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				254 kW
 			</td>
 			<td>
-				 25 m 23 s
+				 25 m 55 s
 			</td>
 			<td>
 				123,5 kWh
@@ -1080,7 +1080,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				255 kW
 			</td>
 			<td>
-				 25 m 54 s
+				 26 m 28 s
 			</td>
 			<td>
 				125,7 kWh
@@ -1094,7 +1094,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				255 kW
 			</td>
 			<td>
-				 26 m 26 s
+				 27 m 0 s
 			</td>
 			<td>
 				127,8 kWh
@@ -1108,7 +1108,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				256 kW
 			</td>
 			<td>
-				 26 m 58 s
+				 27 m 32 s
 			</td>
 			<td>
 				129,9 kWh
@@ -1122,7 +1122,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				253 kW
 			</td>
 			<td>
-				 27 m 29 s
+				 28 m 5 s
 			</td>
 			<td>
 				132,1 kWh
@@ -1136,7 +1136,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				229 kW
 			</td>
 			<td>
-				 28 m 3 s
+				 28 m 39 s
 			</td>
 			<td>
 				134,2 kWh
@@ -1150,7 +1150,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				228 kW
 			</td>
 			<td>
-				 28 m 38 s
+				 29 m 15 s
 			</td>
 			<td>
 				136,3 kWh
@@ -1164,7 +1164,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				223 kW
 			</td>
 			<td>
-				 29 m 14 s
+				 29 m 52 s
 			</td>
 			<td>
 				138,4 kWh
@@ -1178,7 +1178,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				169 kW
 			</td>
 			<td>
-				 29 m 55 s
+				 30 m 34 s
 			</td>
 			<td>
 				140,6 kWh
@@ -1192,7 +1192,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				145 kW
 			</td>
 			<td>
-				 30 m 47 s
+				 31 m 26 s
 			</td>
 			<td>
 				142,7 kWh
@@ -1206,7 +1206,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				125 kW
 			</td>
 			<td>
-				 31 m 46 s
+				 32 m 27 s
 			</td>
 			<td>
 				144,8 kWh
@@ -1220,7 +1220,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				115 kW
 			</td>
 			<td>
-				 32 m 54 s
+				 33 m 36 s
 			</td>
 			<td>
 				147,0 kWh
@@ -1234,7 +1234,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				115 kW
 			</td>
 			<td>
-				 34 m 4 s
+				 34 m 48 s
 			</td>
 			<td>
 				149,1 kWh
@@ -1248,7 +1248,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				104 kW
 			</td>
 			<td>
-				 35 m 17 s
+				 36 m 3 s
 			</td>
 			<td>
 				151,2 kWh
@@ -1262,7 +1262,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				99 kW
 			</td>
 			<td>
-				 36 m 37 s
+				 37 m 24 s
 			</td>
 			<td>
 				153,4 kWh
@@ -1276,7 +1276,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				98 kW
 			</td>
 			<td>
-				 37 m 59 s
+				 38 m 48 s
 			</td>
 			<td>
 				155,5 kWh
@@ -1290,7 +1290,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				93 kW
 			</td>
 			<td>
-				 39 m 23 s
+				 40 m 14 s
 			</td>
 			<td>
 				157,6 kWh
@@ -1304,7 +1304,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				74 kW
 			</td>
 			<td>
-				 41 m 0 s
+				 41 m 53 s
 			</td>
 			<td>
 				159,8 kWh
@@ -1318,7 +1318,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				61 kW
 			</td>
 			<td>
-				 43 m 0 s
+				 43 m 55 s
 			</td>
 			<td>
 				161,9 kWh
@@ -1332,7 +1332,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				64 kW
 			</td>
 			<td>
-				 45 m 9 s
+				 46 m 7 s
 			</td>
 			<td>
 				164,0 kWh
@@ -1346,7 +1346,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				65 kW
 			</td>
 			<td>
-				 47 m 14 s
+				 48 m 15 s
 			</td>
 			<td>
 				166,1 kWh
@@ -1360,7 +1360,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				52 kW
 			</td>
 			<td>
-				 49 m 32 s
+				 50 m 36 s
 			</td>
 			<td>
 				168,3 kWh
@@ -1374,7 +1374,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				45 kW
 			</td>
 			<td>
-				 52 m 18 s
+				 53 m 26 s
 			</td>
 			<td>
 				170,4 kWh
@@ -1388,7 +1388,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				34 kW
 			</td>
 			<td>
-				 55 m 43 s
+				 56 m 55 s
 			</td>
 			<td>
 				172,5 kWh
@@ -1402,7 +1402,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				27 kW
 			</td>
 			<td>
-				1 h 0 m 7 s
+				1 h 1 m 25 s
 			</td>
 			<td>
 				174,7 kWh
@@ -1416,7 +1416,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				17 kW
 			</td>
 			<td>
-				1 h 6 m 14 s
+				1 h 7 m 40 s
 			</td>
 			<td>
 				176,8 kWh
@@ -1430,7 +1430,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				19 kW
 			</td>
 			<td>
-				1 h 13 m 43 s
+				1 h 15 m 18 s
 			</td>
 			<td>
 				178,9 kWh
@@ -1444,7 +1444,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				50 kW
 			</td>
 			<td>
-				1 h 17 m 37 s
+				1 h 19 m 17 s
 			</td>
 			<td>
 				181,0 kWh
@@ -1458,7 +1458,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				77 kW
 			</td>
 			<td>
-				1 h 19 m 44 s
+				1 h 21 m 27 s
 			</td>
 			<td>
 				183,2 kWh
@@ -1472,7 +1472,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				55 kW
 			</td>
 			<td>
-				1 h 21 m 46 s
+				1 h 23 m 32 s
 			</td>
 			<td>
 				185,3 kWh
@@ -1486,7 +1486,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				55 kW
 			</td>
 			<td>
-				1 h 24 m 13 s
+				1 h 26 m 1 s
 			</td>
 			<td>
 				187,4 kWh
@@ -1500,7 +1500,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				55 kW
 			</td>
 			<td>
-				1 h 26 m 40 s
+				1 h 28 m 31 s
 			</td>
 			<td>
 				189,6 kWh
@@ -1514,7 +1514,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				51 kW
 			</td>
 			<td>
-				1 h 29 m 12 s
+				1 h 31 m 7 s
 			</td>
 			<td>
 				191,7 kWh
@@ -1528,7 +1528,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				46 kW
 			</td>
 			<td>
-				1 h 31 m 58 s
+				1 h 33 m 57 s
 			</td>
 			<td>
 				193,8 kWh
@@ -1542,7 +1542,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				43 kW
 			</td>
 			<td>
-				1 h 35 m 0 s
+				1 h 37 m 2 s
 			</td>
 			<td>
 				196,0 kWh
@@ -1556,7 +1556,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				39 kW
 			</td>
 			<td>
-				1 h 38 m 17 s
+				1 h 40 m 23 s
 			</td>
 			<td>
 				198,1 kWh
@@ -1570,7 +1570,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				35 kW
 			</td>
 			<td>
-				1 h 41 m 55 s
+				1 h 44 m 6 s
 			</td>
 			<td>
 				200,2 kWh
@@ -1584,7 +1584,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				31 kW
 			</td>
 			<td>
-				1 h 45 m 59 s
+				1 h 48 m 16 s
 			</td>
 			<td>
 				202,4 kWh
@@ -1598,7 +1598,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				28 kW
 			</td>
 			<td>
-				1 h 50 m 33 s
+				1 h 52 m 56 s
 			</td>
 			<td>
 				204,5 kWh
@@ -1612,7 +1612,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				24 kW
 			</td>
 			<td>
-				1 h 55 m 43 s
+				1 h 58 m 13 s
 			</td>
 			<td>
 				206,6 kWh
@@ -1626,7 +1626,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				20 kW
 			</td>
 			<td>
-				2 h 1 m 50 s
+				2 h 4 m 27 s
 			</td>
 			<td>
 				208,7 kWh
@@ -1640,7 +1640,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				15 kW
 			</td>
 			<td>
-				2 h 9 m 31 s
+				2 h 12 m 19 s
 			</td>
 			<td>
 				210,9 kWh
@@ -1654,7 +1654,7 @@ GMC Hummer EV Edition 1 Pickup har batteriopvarmning, hvilket gør opladning ved
 				15 kW
 			</td>
 			<td>
-				2 h 18 m 30 s
+				2 h 21 m 28 s
 			</td>
 			<td>
 				213,0 kWh

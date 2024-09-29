@@ -35,9 +35,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 150,0 kWh og en netto brukba
 Den estimerte rekkevidden fra [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) varierer mellom 320 og 300 miles (515-483 km), avhengig av bilens konfigurasjon og alternativer. For eksempel kan større hjul øke energiforbruket og redusere den totale rekkevidden.
 Energiforbruksratene er 2,5 mi/kWh for grunnmodellen og 2,3 mi/kWh for toppmodellen, ifølge EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 155 kW. En full lading fra 0 - 100 % vil ta 129 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 106kW. Hver ladeøkt vil ta 46 minutter og 35 sekunder.
+Maksimal DC-ladehastighet er 155 kW. En full lading fra 0 - 100 % vil ta 132 minutter, mens et mer vanlig scenario på 10-80 % vil ta 50 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 104kW. Hver ladeøkt vil ta 46 minutter og 42 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 33 kWh/100 km, ville turen ta omtrent 10 timer og 13 minutter. Denne reisen ville kreve to ladestopp fra 0% til 77%, med en total ladetid på 114 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 33 kWh/100 km, ville turen ta omtrent 10 timer og 16 minutter. Denne reisen ville kreve to ladestopp fra 0% til 77%, med en total ladetid på 116 minutter.
 
 ### Ombordlader
 

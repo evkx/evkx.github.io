@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV SS opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Her finder du ladekurven for Chevrolet Blazer EV SS."
+description: "Nedan är laddningskurvan för Chevrolet Blazer EV SS, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				34,8 kW
+				34,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				32,6 kW
+				31,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				97,2 kW
+				95,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				135,6 kW
+				132,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				7% - 68%
+				7% - 67%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				116,5kW
+				114,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				27m43s
+				27m44s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				2 h 26 m 45 s
+				2 h 29 m 54 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				2 h 20 m 51 s
+				2 h 23 m 53 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 26 m 20 s
+				 26 m 54 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,13 +169,13 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 0-100%
 			</td>
 			<td>
-				3,2 km (2,0 mi)
+				3,1 km (1,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				2,8 km (1,7 mi)
+				2,7 km (1,7 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-100%
 			</td>
 			<td>
-				3,0 km (1,9 mi)
+				2,9 km (1,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				2,6 km (1,6 mi)
+				2,5 km (1,6 mi)
 			</td>
 			<td>
-				2,2 km (1,4 mi)
+				2,1 km (1,3 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-80%
 			</td>
 			<td>
-				12,4 km (7,7 mi)
+				12,2 km (7,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				10,8 km (6,7 mi)
+				10,5 km (6,5 mi)
 			</td>
 			<td>
-				9,0 km (5,6 mi)
+				8,8 km (5,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en optimal batteritemperatur lettere.
+Chevrolet Blazer EV SS har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -268,7 +268,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				60 kW
 			</td>
 			<td>
-				 0 m 58 s
+				 0 m 59 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,7 +282,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				70 kW
 			</td>
 			<td>
-				 1 m 48 s
+				 1 m 50 s
 			</td>
 			<td>
 				1,7 kWh
@@ -296,7 +296,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				80 kW
 			</td>
 			<td>
-				 2 m 31 s
+				 2 m 34 s
 			</td>
 			<td>
 				2,6 kWh
@@ -310,7 +310,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				90 kW
 			</td>
 			<td>
-				 3 m 8 s
+				 3 m 13 s
 			</td>
 			<td>
 				3,4 kWh
@@ -324,7 +324,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				100 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 47 s
 			</td>
 			<td>
 				4,2 kWh
@@ -338,7 +338,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				110 kW
 			</td>
 			<td>
-				 4 m 13 s
+				 4 m 18 s
 			</td>
 			<td>
 				5,1 kWh
@@ -352,7 +352,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				120 kW
 			</td>
 			<td>
-				 4 m 41 s
+				 4 m 47 s
 			</td>
 			<td>
 				6,0 kWh
@@ -366,7 +366,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				130 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 5 m 13 s
 			</td>
 			<td>
 				6,8 kWh
@@ -380,7 +380,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				140 kW
 			</td>
 			<td>
-				 5 m 31 s
+				 5 m 38 s
 			</td>
 			<td>
 				7,6 kWh
@@ -394,7 +394,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				150 kW
 			</td>
 			<td>
-				 5 m 53 s
+				 6 m 0 s
 			</td>
 			<td>
 				8,5 kWh
@@ -408,7 +408,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				152 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				9,4 kWh
@@ -422,7 +422,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				155 kW
 			</td>
 			<td>
-				 6 m 35 s
+				 6 m 44 s
 			</td>
 			<td>
 				10,2 kWh
@@ -436,7 +436,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				157 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 7 m 5 s
 			</td>
 			<td>
 				11,0 kWh
@@ -450,7 +450,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				159 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 7 m 26 s
 			</td>
 			<td>
 				11,9 kWh
@@ -464,7 +464,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				162 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 46 s
 			</td>
 			<td>
 				12,8 kWh
@@ -478,7 +478,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				164 kW
 			</td>
 			<td>
-				 7 m 56 s
+				 8 m 6 s
 			</td>
 			<td>
 				13,6 kWh
@@ -492,7 +492,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				166 kW
 			</td>
 			<td>
-				 8 m 16 s
+				 8 m 26 s
 			</td>
 			<td>
 				14,4 kWh
@@ -506,7 +506,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				169 kW
 			</td>
 			<td>
-				 8 m 35 s
+				 8 m 46 s
 			</td>
 			<td>
 				15,3 kWh
@@ -520,7 +520,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				171 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 9 m 5 s
 			</td>
 			<td>
 				16,2 kWh
@@ -534,7 +534,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				173 kW
 			</td>
 			<td>
-				 9 m 12 s
+				 9 m 24 s
 			</td>
 			<td>
 				17,0 kWh
@@ -548,7 +548,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				176 kW
 			</td>
 			<td>
-				 9 m 31 s
+				 9 m 43 s
 			</td>
 			<td>
 				17,8 kWh
@@ -562,7 +562,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				178 kW
 			</td>
 			<td>
-				 9 m 49 s
+				 10 m 2 s
 			</td>
 			<td>
 				18,7 kWh
@@ -576,7 +576,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				180 kW
 			</td>
 			<td>
-				 10 m 7 s
+				 10 m 20 s
 			</td>
 			<td>
 				19,6 kWh
@@ -590,7 +590,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				183 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 10 m 38 s
 			</td>
 			<td>
 				20,4 kWh
@@ -604,7 +604,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				185 kW
 			</td>
 			<td>
-				 10 m 42 s
+				 10 m 56 s
 			</td>
 			<td>
 				21,2 kWh
@@ -618,7 +618,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				184 kW
 			</td>
 			<td>
-				 11 m 0 s
+				 11 m 14 s
 			</td>
 			<td>
 				22,1 kWh
@@ -632,7 +632,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				184 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 11 m 32 s
 			</td>
 			<td>
 				23,0 kWh
@@ -646,7 +646,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				183 kW
 			</td>
 			<td>
-				 11 m 35 s
+				 11 m 50 s
 			</td>
 			<td>
 				23,8 kWh
@@ -660,7 +660,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				183 kW
 			</td>
 			<td>
-				 11 m 53 s
+				 12 m 8 s
 			</td>
 			<td>
 				24,6 kWh
@@ -674,7 +674,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				182 kW
 			</td>
 			<td>
-				 12 m 10 s
+				 12 m 26 s
 			</td>
 			<td>
 				25,5 kWh
@@ -688,7 +688,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				181 kW
 			</td>
 			<td>
-				 12 m 28 s
+				 12 m 44 s
 			</td>
 			<td>
 				26,4 kWh
@@ -702,7 +702,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				181 kW
 			</td>
 			<td>
-				 12 m 46 s
+				 13 m 2 s
 			</td>
 			<td>
 				27,2 kWh
@@ -716,7 +716,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				180 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 20 s
 			</td>
 			<td>
 				28,0 kWh
@@ -730,7 +730,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				180 kW
 			</td>
 			<td>
-				 13 m 21 s
+				 13 m 39 s
 			</td>
 			<td>
 				28,9 kWh
@@ -744,7 +744,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				176 kW
 			</td>
 			<td>
-				 13 m 40 s
+				 13 m 57 s
 			</td>
 			<td>
 				29,8 kWh
@@ -758,7 +758,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				172 kW
 			</td>
 			<td>
-				 13 m 58 s
+				 14 m 16 s
 			</td>
 			<td>
 				30,6 kWh
@@ -772,7 +772,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				169 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 35 s
 			</td>
 			<td>
 				31,4 kWh
@@ -786,7 +786,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				165 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 14 m 55 s
 			</td>
 			<td>
 				32,3 kWh
@@ -800,7 +800,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				161 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 15 m 15 s
 			</td>
 			<td>
 				33,2 kWh
@@ -814,7 +814,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				157 kW
 			</td>
 			<td>
-				 15 m 16 s
+				 15 m 36 s
 			</td>
 			<td>
 				34,0 kWh
@@ -828,7 +828,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				154 kW
 			</td>
 			<td>
-				 15 m 37 s
+				 15 m 57 s
 			</td>
 			<td>
 				34,8 kWh
@@ -842,7 +842,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				150 kW
 			</td>
 			<td>
-				 15 m 58 s
+				 16 m 19 s
 			</td>
 			<td>
 				35,7 kWh
@@ -856,7 +856,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				146 kW
 			</td>
 			<td>
-				 16 m 20 s
+				 16 m 41 s
 			</td>
 			<td>
 				36,6 kWh
@@ -870,7 +870,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				144 kW
 			</td>
 			<td>
-				 16 m 42 s
+				 17 m 4 s
 			</td>
 			<td>
 				37,4 kWh
@@ -884,7 +884,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				142 kW
 			</td>
 			<td>
-				 17 m 5 s
+				 17 m 27 s
 			</td>
 			<td>
 				38,2 kWh
@@ -898,7 +898,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				141 kW
 			</td>
 			<td>
-				 17 m 27 s
+				 17 m 50 s
 			</td>
 			<td>
 				39,1 kWh
@@ -912,7 +912,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				139 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 18 m 14 s
 			</td>
 			<td>
 				40,0 kWh
@@ -926,7 +926,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				137 kW
 			</td>
 			<td>
-				 18 m 14 s
+				 18 m 37 s
 			</td>
 			<td>
 				40,8 kWh
@@ -940,7 +940,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				135 kW
 			</td>
 			<td>
-				 18 m 38 s
+				 19 m 2 s
 			</td>
 			<td>
 				41,6 kWh
@@ -954,7 +954,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				134 kW
 			</td>
 			<td>
-				 19 m 2 s
+				 19 m 26 s
 			</td>
 			<td>
 				42,5 kWh
@@ -968,7 +968,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 19 m 26 s
+				 19 m 51 s
 			</td>
 			<td>
 				43,4 kWh
@@ -982,7 +982,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 19 m 50 s
+				 20 m 16 s
 			</td>
 			<td>
 				44,2 kWh
@@ -996,7 +996,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 20 m 14 s
+				 20 m 40 s
 			</td>
 			<td>
 				45,0 kWh
@@ -1010,7 +1010,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 21 m 5 s
 			</td>
 			<td>
 				45,9 kWh
@@ -1024,7 +1024,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 21 m 3 s
+				 21 m 30 s
 			</td>
 			<td>
 				46,8 kWh
@@ -1038,7 +1038,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 21 m 27 s
+				 21 m 54 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1052,7 +1052,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 21 m 51 s
+				 22 m 19 s
 			</td>
 			<td>
 				48,4 kWh
@@ -1066,7 +1066,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 22 m 15 s
+				 22 m 44 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1080,7 +1080,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 22 m 39 s
+				 23 m 9 s
 			</td>
 			<td>
 				50,2 kWh
@@ -1094,7 +1094,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 23 m 4 s
+				 23 m 33 s
 			</td>
 			<td>
 				51,0 kWh
@@ -1108,7 +1108,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 23 m 28 s
+				 23 m 58 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1122,7 +1122,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				133 kW
 			</td>
 			<td>
-				 23 m 52 s
+				 24 m 23 s
 			</td>
 			<td>
 				52,7 kWh
@@ -1136,7 +1136,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				131 kW
 			</td>
 			<td>
-				 24 m 16 s
+				 24 m 48 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1150,7 +1150,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				129 kW
 			</td>
 			<td>
-				 24 m 41 s
+				 25 m 13 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1164,7 +1164,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				128 kW
 			</td>
 			<td>
-				 25 m 6 s
+				 25 m 39 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1178,7 +1178,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				126 kW
 			</td>
 			<td>
-				 25 m 32 s
+				 26 m 5 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1192,7 +1192,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				124 kW
 			</td>
 			<td>
-				 25 m 58 s
+				 26 m 31 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1206,7 +1206,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				122 kW
 			</td>
 			<td>
-				 26 m 24 s
+				 26 m 58 s
 			</td>
 			<td>
 				57,8 kWh
@@ -1220,7 +1220,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				120 kW
 			</td>
 			<td>
-				 26 m 50 s
+				 27 m 25 s
 			</td>
 			<td>
 				58,6 kWh
@@ -1234,7 +1234,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				118 kW
 			</td>
 			<td>
-				 27 m 17 s
+				 27 m 53 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1248,7 +1248,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				117 kW
 			</td>
 			<td>
-				 27 m 45 s
+				 28 m 21 s
 			</td>
 			<td>
 				60,4 kWh
@@ -1262,7 +1262,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				115 kW
 			</td>
 			<td>
-				 28 m 13 s
+				 28 m 49 s
 			</td>
 			<td>
 				61,2 kWh
@@ -1276,7 +1276,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				113 kW
 			</td>
 			<td>
-				 28 m 41 s
+				 29 m 18 s
 			</td>
 			<td>
 				62,0 kWh
@@ -1290,7 +1290,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				111 kW
 			</td>
 			<td>
-				 29 m 10 s
+				 29 m 47 s
 			</td>
 			<td>
 				62,9 kWh
@@ -1304,7 +1304,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				109 kW
 			</td>
 			<td>
-				 29 m 39 s
+				 30 m 17 s
 			</td>
 			<td>
 				63,8 kWh
@@ -1318,7 +1318,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				107 kW
 			</td>
 			<td>
-				 30 m 9 s
+				 30 m 48 s
 			</td>
 			<td>
 				64,6 kWh
@@ -1332,7 +1332,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				106 kW
 			</td>
 			<td>
-				 30 m 39 s
+				 31 m 19 s
 			</td>
 			<td>
 				65,4 kWh
@@ -1346,7 +1346,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				104 kW
 			</td>
 			<td>
-				 31 m 10 s
+				 31 m 50 s
 			</td>
 			<td>
 				66,3 kWh
@@ -1360,7 +1360,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				102 kW
 			</td>
 			<td>
-				 31 m 41 s
+				 32 m 22 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1374,7 +1374,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				100 kW
 			</td>
 			<td>
-				 32 m 13 s
+				 32 m 55 s
 			</td>
 			<td>
 				68,0 kWh
@@ -1388,7 +1388,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				44 kW
 			</td>
 			<td>
-				 32 m 58 s
+				 33 m 40 s
 			</td>
 			<td>
 				68,8 kWh
@@ -1402,7 +1402,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				42 kW
 			</td>
 			<td>
-				 34 m 13 s
+				 34 m 57 s
 			</td>
 			<td>
 				69,7 kWh
@@ -1416,7 +1416,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				39 kW
 			</td>
 			<td>
-				 35 m 33 s
+				 36 m 18 s
 			</td>
 			<td>
 				70,6 kWh
@@ -1430,7 +1430,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				37 kW
 			</td>
 			<td>
-				 36 m 57 s
+				 37 m 45 s
 			</td>
 			<td>
 				71,4 kWh
@@ -1444,7 +1444,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				35 kW
 			</td>
 			<td>
-				 38 m 27 s
+				 39 m 16 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1458,7 +1458,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				32 kW
 			</td>
 			<td>
-				 40 m 2 s
+				 40 m 54 s
 			</td>
 			<td>
 				73,1 kWh
@@ -1472,7 +1472,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				30 kW
 			</td>
 			<td>
-				 41 m 46 s
+				 42 m 39 s
 			</td>
 			<td>
 				74,0 kWh
@@ -1486,7 +1486,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				28 kW
 			</td>
 			<td>
-				 43 m 37 s
+				 44 m 33 s
 			</td>
 			<td>
 				74,8 kWh
@@ -1500,7 +1500,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				25 kW
 			</td>
 			<td>
-				 45 m 38 s
+				 46 m 37 s
 			</td>
 			<td>
 				75,6 kWh
@@ -1514,7 +1514,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				23 kW
 			</td>
 			<td>
-				 47 m 50 s
+				 48 m 52 s
 			</td>
 			<td>
 				76,5 kWh
@@ -1528,7 +1528,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				21 kW
 			</td>
 			<td>
-				 50 m 17 s
+				 51 m 21 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1542,7 +1542,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				19 kW
 			</td>
 			<td>
-				 53 m 0 s
+				 54 m 9 s
 			</td>
 			<td>
 				78,2 kWh
@@ -1556,7 +1556,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				16 kW
 			</td>
 			<td>
-				 56 m 6 s
+				 57 m 18 s
 			</td>
 			<td>
 				79,0 kWh
@@ -1570,7 +1570,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				14 kW
 			</td>
 			<td>
-				 59 m 40 s
+				1 h 0 m 57 s
 			</td>
 			<td>
 				79,9 kWh
@@ -1584,7 +1584,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				12 kW
 			</td>
 			<td>
-				1 h 3 m 53 s
+				1 h 5 m 15 s
 			</td>
 			<td>
 				80,8 kWh
@@ -1598,7 +1598,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				9 kW
 			</td>
 			<td>
-				1 h 9 m 2 s
+				1 h 10 m 31 s
 			</td>
 			<td>
 				81,6 kWh
@@ -1612,7 +1612,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				7 kW
 			</td>
 			<td>
-				1 h 15 m 39 s
+				1 h 17 m 17 s
 			</td>
 			<td>
 				82,4 kWh
@@ -1626,7 +1626,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				5 kW
 			</td>
 			<td>
-				1 h 24 m 55 s
+				1 h 26 m 45 s
 			</td>
 			<td>
 				83,3 kWh
@@ -1640,7 +1640,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				2 kW
 			</td>
 			<td>
-				1 h 40 m 23 s
+				1 h 42 m 32 s
 			</td>
 			<td>
 				84,2 kWh
@@ -1654,7 +1654,7 @@ Chevrolet Blazer EV SS har batteriopvarmning, hvilket gør opladning ved en opti
 				0 kW
 			</td>
 			<td>
-				2 h 26 m 45 s
+				2 h 29 m 54 s
 			</td>
 			<td>
 				85,0 kWh

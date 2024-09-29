@@ -1,7 +1,7 @@
 ---
 title: HiPhi Y Performance charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for HiPhi Y Performance."
+description: "Below is the charging curve for HiPhi Y Performance, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				72.3 kW
+				70.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				70.2 kW
+				68.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				86.6 kW
+				84.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				97.3 kW
+				95.3 kW
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				98.3kW
+				96.6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				30m56s
+				30m28s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 30 m 30 s
+				1 h 32 m 27 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 23 m 49 s
+				1 h 25 m 37 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 47 m 2 s
+				 48 m 3 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,23 +172,6 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,9 km (4,3 mi)
-			</td>
-			<td>
-				4,6 km (2,9 mi)
-			</td>
-			<td>
-				4,3 km (2,7 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Range per minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
 				6,7 km (4,2 mi)
 			</td>
 			<td>
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				4,4 km (2,7 mi)
+			</td>
+			<td>
+				4,1 km (2,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Range per minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,2 km (5,7 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				6,1 km (3,8 mi)
 			</td>
 			<td>
-				5,8 km (3,6 mi)
+				5,7 km (3,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				64 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 1 m 14 s
 			</td>
 			<td>
 				1.1 kWh
@@ -282,7 +282,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				78 kW
 			</td>
 			<td>
-				 2 m 11 s
+				 2 m 13 s
 			</td>
 			<td>
 				2.2 kWh
@@ -296,7 +296,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				91 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 3 s
 			</td>
 			<td>
 				3.3 kWh
@@ -310,7 +310,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				105 kW
 			</td>
 			<td>
-				 3 m 42 s
+				 3 m 46 s
 			</td>
 			<td>
 				4.4 kWh
@@ -324,7 +324,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				119 kW
 			</td>
 			<td>
-				 4 m 19 s
+				 4 m 24 s
 			</td>
 			<td>
 				5.4 kWh
@@ -338,7 +338,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				133 kW
 			</td>
 			<td>
-				 4 m 51 s
+				 4 m 58 s
 			</td>
 			<td>
 				6.5 kWh
@@ -352,7 +352,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				146 kW
 			</td>
 			<td>
-				 5 m 21 s
+				 5 m 28 s
 			</td>
 			<td>
 				7.6 kWh
@@ -366,7 +366,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				160 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 56 s
 			</td>
 			<td>
 				8.7 kWh
@@ -380,7 +380,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				156 kW
 			</td>
 			<td>
-				 6 m 14 s
+				 6 m 22 s
 			</td>
 			<td>
 				9.8 kWh
@@ -394,7 +394,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				152 kW
 			</td>
 			<td>
-				 6 m 41 s
+				 6 m 50 s
 			</td>
 			<td>
 				10.9 kWh
@@ -408,7 +408,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				148 kW
 			</td>
 			<td>
-				 7 m 9 s
+				 7 m 18 s
 			</td>
 			<td>
 				12.0 kWh
@@ -422,7 +422,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				144 kW
 			</td>
 			<td>
-				 7 m 37 s
+				 7 m 47 s
 			</td>
 			<td>
 				13.1 kWh
@@ -436,7 +436,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				140 kW
 			</td>
 			<td>
-				 8 m 6 s
+				 8 m 16 s
 			</td>
 			<td>
 				14.2 kWh
@@ -450,7 +450,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				139 kW
 			</td>
 			<td>
-				 8 m 36 s
+				 8 m 47 s
 			</td>
 			<td>
 				15.3 kWh
@@ -464,7 +464,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				138 kW
 			</td>
 			<td>
-				 9 m 5 s
+				 9 m 17 s
 			</td>
 			<td>
 				16.4 kWh
@@ -478,7 +478,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				137 kW
 			</td>
 			<td>
-				 9 m 35 s
+				 9 m 48 s
 			</td>
 			<td>
 				17.4 kWh
@@ -492,7 +492,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				136 kW
 			</td>
 			<td>
-				 10 m 6 s
+				 10 m 19 s
 			</td>
 			<td>
 				18.5 kWh
@@ -506,7 +506,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				135 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 10 m 50 s
 			</td>
 			<td>
 				19.6 kWh
@@ -520,7 +520,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				134 kW
 			</td>
 			<td>
-				 11 m 7 s
+				 11 m 21 s
 			</td>
 			<td>
 				20.7 kWh
@@ -534,7 +534,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				133 kW
 			</td>
 			<td>
-				 11 m 38 s
+				 11 m 53 s
 			</td>
 			<td>
 				21.8 kWh
@@ -548,7 +548,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				132 kW
 			</td>
 			<td>
-				 12 m 9 s
+				 12 m 25 s
 			</td>
 			<td>
 				22.9 kWh
@@ -562,7 +562,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				131 kW
 			</td>
 			<td>
-				 12 m 41 s
+				 12 m 57 s
 			</td>
 			<td>
 				24.0 kWh
@@ -576,7 +576,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				130 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 13 m 29 s
 			</td>
 			<td>
 				25.1 kWh
@@ -590,7 +590,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				129 kW
 			</td>
 			<td>
-				 13 m 44 s
+				 14 m 2 s
 			</td>
 			<td>
 				26.2 kWh
@@ -604,7 +604,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				128 kW
 			</td>
 			<td>
-				 14 m 16 s
+				 14 m 35 s
 			</td>
 			<td>
 				27.2 kWh
@@ -618,7 +618,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				127 kW
 			</td>
 			<td>
-				 14 m 49 s
+				 15 m 8 s
 			</td>
 			<td>
 				28.3 kWh
@@ -632,7 +632,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				126 kW
 			</td>
 			<td>
-				 15 m 22 s
+				 15 m 41 s
 			</td>
 			<td>
 				29.4 kWh
@@ -646,7 +646,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				125 kW
 			</td>
 			<td>
-				 15 m 55 s
+				 16 m 15 s
 			</td>
 			<td>
 				30.5 kWh
@@ -660,7 +660,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				124 kW
 			</td>
 			<td>
-				 16 m 28 s
+				 16 m 49 s
 			</td>
 			<td>
 				31.6 kWh
@@ -674,7 +674,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				123 kW
 			</td>
 			<td>
-				 17 m 1 s
+				 17 m 23 s
 			</td>
 			<td>
 				32.7 kWh
@@ -688,7 +688,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				122 kW
 			</td>
 			<td>
-				 17 m 35 s
+				 17 m 58 s
 			</td>
 			<td>
 				33.8 kWh
@@ -702,7 +702,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				121 kW
 			</td>
 			<td>
-				 18 m 9 s
+				 18 m 33 s
 			</td>
 			<td>
 				34.9 kWh
@@ -716,7 +716,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				120 kW
 			</td>
 			<td>
-				 18 m 44 s
+				 19 m 8 s
 			</td>
 			<td>
 				36.0 kWh
@@ -730,7 +730,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				119 kW
 			</td>
 			<td>
-				 19 m 18 s
+				 19 m 43 s
 			</td>
 			<td>
 				37.1 kWh
@@ -744,7 +744,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				118 kW
 			</td>
 			<td>
-				 19 m 53 s
+				 20 m 19 s
 			</td>
 			<td>
 				38.2 kWh
@@ -758,7 +758,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				117 kW
 			</td>
 			<td>
-				 20 m 28 s
+				 20 m 55 s
 			</td>
 			<td>
 				39.2 kWh
@@ -772,7 +772,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				116 kW
 			</td>
 			<td>
-				 21 m 4 s
+				 21 m 31 s
 			</td>
 			<td>
 				40.3 kWh
@@ -786,7 +786,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				115 kW
 			</td>
 			<td>
-				 21 m 40 s
+				 22 m 8 s
 			</td>
 			<td>
 				41.4 kWh
@@ -800,7 +800,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				114 kW
 			</td>
 			<td>
-				 22 m 16 s
+				 22 m 45 s
 			</td>
 			<td>
 				42.5 kWh
@@ -814,7 +814,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				113 kW
 			</td>
 			<td>
-				 22 m 53 s
+				 23 m 22 s
 			</td>
 			<td>
 				43.6 kWh
@@ -828,7 +828,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				112 kW
 			</td>
 			<td>
-				 23 m 30 s
+				 24 m 0 s
 			</td>
 			<td>
 				44.7 kWh
@@ -842,7 +842,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				111 kW
 			</td>
 			<td>
-				 24 m 7 s
+				 24 m 38 s
 			</td>
 			<td>
 				45.8 kWh
@@ -856,7 +856,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				109 kW
 			</td>
 			<td>
-				 24 m 44 s
+				 25 m 16 s
 			</td>
 			<td>
 				46.9 kWh
@@ -870,7 +870,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				108 kW
 			</td>
 			<td>
-				 25 m 22 s
+				 25 m 55 s
 			</td>
 			<td>
 				48.0 kWh
@@ -884,7 +884,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				107 kW
 			</td>
 			<td>
-				 26 m 0 s
+				 26 m 34 s
 			</td>
 			<td>
 				49.0 kWh
@@ -898,7 +898,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				106 kW
 			</td>
 			<td>
-				 26 m 39 s
+				 27 m 13 s
 			</td>
 			<td>
 				50.1 kWh
@@ -912,7 +912,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				105 kW
 			</td>
 			<td>
-				 27 m 18 s
+				 27 m 53 s
 			</td>
 			<td>
 				51.2 kWh
@@ -926,7 +926,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				104 kW
 			</td>
 			<td>
-				 27 m 57 s
+				 28 m 34 s
 			</td>
 			<td>
 				52.3 kWh
@@ -940,7 +940,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				103 kW
 			</td>
 			<td>
-				 28 m 37 s
+				 29 m 14 s
 			</td>
 			<td>
 				53.4 kWh
@@ -954,7 +954,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				102 kW
 			</td>
 			<td>
-				 29 m 17 s
+				 29 m 55 s
 			</td>
 			<td>
 				54.5 kWh
@@ -968,7 +968,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				101 kW
 			</td>
 			<td>
-				 29 m 58 s
+				 30 m 37 s
 			</td>
 			<td>
 				55.6 kWh
@@ -982,7 +982,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				100 kW
 			</td>
 			<td>
-				 30 m 39 s
+				 31 m 18 s
 			</td>
 			<td>
 				56.7 kWh
@@ -996,7 +996,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				99 kW
 			</td>
 			<td>
-				 31 m 20 s
+				 32 m 1 s
 			</td>
 			<td>
 				57.8 kWh
@@ -1010,7 +1010,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				98 kW
 			</td>
 			<td>
-				 32 m 2 s
+				 32 m 43 s
 			</td>
 			<td>
 				58.9 kWh
@@ -1024,7 +1024,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				97 kW
 			</td>
 			<td>
-				 32 m 44 s
+				 33 m 27 s
 			</td>
 			<td>
 				60.0 kWh
@@ -1038,7 +1038,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				96 kW
 			</td>
 			<td>
-				 33 m 27 s
+				 34 m 10 s
 			</td>
 			<td>
 				61.0 kWh
@@ -1052,7 +1052,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				95 kW
 			</td>
 			<td>
-				 34 m 10 s
+				 34 m 54 s
 			</td>
 			<td>
 				62.1 kWh
@@ -1066,7 +1066,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				94 kW
 			</td>
 			<td>
-				 34 m 54 s
+				 35 m 39 s
 			</td>
 			<td>
 				63.2 kWh
@@ -1080,7 +1080,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				93 kW
 			</td>
 			<td>
-				 35 m 38 s
+				 36 m 24 s
 			</td>
 			<td>
 				64.3 kWh
@@ -1094,7 +1094,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				92 kW
 			</td>
 			<td>
-				 36 m 22 s
+				 37 m 9 s
 			</td>
 			<td>
 				65.4 kWh
@@ -1108,7 +1108,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				91 kW
 			</td>
 			<td>
-				 37 m 7 s
+				 37 m 55 s
 			</td>
 			<td>
 				66.5 kWh
@@ -1122,7 +1122,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				90 kW
 			</td>
 			<td>
-				 37 m 53 s
+				 38 m 42 s
 			</td>
 			<td>
 				67.6 kWh
@@ -1136,7 +1136,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				89 kW
 			</td>
 			<td>
-				 38 m 39 s
+				 39 m 29 s
 			</td>
 			<td>
 				68.7 kWh
@@ -1150,7 +1150,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				88 kW
 			</td>
 			<td>
-				 39 m 26 s
+				 40 m 16 s
 			</td>
 			<td>
 				69.8 kWh
@@ -1164,7 +1164,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				87 kW
 			</td>
 			<td>
-				 40 m 13 s
+				 41 m 5 s
 			</td>
 			<td>
 				70.8 kWh
@@ -1178,7 +1178,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				86 kW
 			</td>
 			<td>
-				 41 m 0 s
+				 41 m 53 s
 			</td>
 			<td>
 				71.9 kWh
@@ -1192,7 +1192,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				85 kW
 			</td>
 			<td>
-				 41 m 49 s
+				 42 m 43 s
 			</td>
 			<td>
 				73.0 kWh
@@ -1206,7 +1206,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				84 kW
 			</td>
 			<td>
-				 42 m 37 s
+				 43 m 32 s
 			</td>
 			<td>
 				74.1 kWh
@@ -1220,7 +1220,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				83 kW
 			</td>
 			<td>
-				 43 m 27 s
+				 44 m 23 s
 			</td>
 			<td>
 				75.2 kWh
@@ -1234,7 +1234,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				82 kW
 			</td>
 			<td>
-				 44 m 17 s
+				 45 m 14 s
 			</td>
 			<td>
 				76.3 kWh
@@ -1248,7 +1248,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				81 kW
 			</td>
 			<td>
-				 45 m 8 s
+				 46 m 6 s
 			</td>
 			<td>
 				77.4 kWh
@@ -1262,7 +1262,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				80 kW
 			</td>
 			<td>
-				 45 m 59 s
+				 46 m 58 s
 			</td>
 			<td>
 				78.5 kWh
@@ -1276,7 +1276,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				78 kW
 			</td>
 			<td>
-				 46 m 51 s
+				 47 m 52 s
 			</td>
 			<td>
 				79.6 kWh
@@ -1290,7 +1290,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				76 kW
 			</td>
 			<td>
-				 47 m 45 s
+				 48 m 47 s
 			</td>
 			<td>
 				80.7 kWh
@@ -1304,7 +1304,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				74 kW
 			</td>
 			<td>
-				 48 m 40 s
+				 49 m 43 s
 			</td>
 			<td>
 				81.8 kWh
@@ -1318,7 +1318,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				71 kW
 			</td>
 			<td>
-				 49 m 37 s
+				 50 m 41 s
 			</td>
 			<td>
 				82.8 kWh
@@ -1332,7 +1332,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				69 kW
 			</td>
 			<td>
-				 50 m 36 s
+				 51 m 41 s
 			</td>
 			<td>
 				83.9 kWh
@@ -1346,7 +1346,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				67 kW
 			</td>
 			<td>
-				 51 m 37 s
+				 52 m 43 s
 			</td>
 			<td>
 				85.0 kWh
@@ -1360,7 +1360,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				65 kW
 			</td>
 			<td>
-				 52 m 39 s
+				 53 m 47 s
 			</td>
 			<td>
 				86.1 kWh
@@ -1374,7 +1374,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				63 kW
 			</td>
 			<td>
-				 53 m 44 s
+				 54 m 53 s
 			</td>
 			<td>
 				87.2 kWh
@@ -1388,7 +1388,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				61 kW
 			</td>
 			<td>
-				 54 m 51 s
+				 56 m 1 s
 			</td>
 			<td>
 				88.3 kWh
@@ -1402,7 +1402,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				59 kW
 			</td>
 			<td>
-				 56 m 0 s
+				 57 m 12 s
 			</td>
 			<td>
 				89.4 kWh
@@ -1416,7 +1416,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				56 kW
 			</td>
 			<td>
-				 57 m 12 s
+				 58 m 25 s
 			</td>
 			<td>
 				90.5 kWh
@@ -1430,7 +1430,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				54 kW
 			</td>
 			<td>
-				 58 m 26 s
+				 59 m 42 s
 			</td>
 			<td>
 				91.6 kWh
@@ -1444,7 +1444,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				52 kW
 			</td>
 			<td>
-				 59 m 44 s
+				1 h 1 m 1 s
 			</td>
 			<td>
 				92.6 kWh
@@ -1458,7 +1458,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				50 kW
 			</td>
 			<td>
-				1 h 1 m 5 s
+				1 h 2 m 24 s
 			</td>
 			<td>
 				93.7 kWh
@@ -1472,7 +1472,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				48 kW
 			</td>
 			<td>
-				1 h 2 m 29 s
+				1 h 3 m 50 s
 			</td>
 			<td>
 				94.8 kWh
@@ -1486,7 +1486,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				46 kW
 			</td>
 			<td>
-				1 h 3 m 58 s
+				1 h 5 m 20 s
 			</td>
 			<td>
 				95.9 kWh
@@ -1500,7 +1500,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				44 kW
 			</td>
 			<td>
-				1 h 5 m 30 s
+				1 h 6 m 55 s
 			</td>
 			<td>
 				97.0 kWh
@@ -1514,7 +1514,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				41 kW
 			</td>
 			<td>
-				1 h 7 m 7 s
+				1 h 8 m 34 s
 			</td>
 			<td>
 				98.1 kWh
@@ -1528,7 +1528,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				39 kW
 			</td>
 			<td>
-				1 h 8 m 50 s
+				1 h 10 m 18 s
 			</td>
 			<td>
 				99.2 kWh
@@ -1542,7 +1542,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				37 kW
 			</td>
 			<td>
-				1 h 10 m 38 s
+				1 h 12 m 9 s
 			</td>
 			<td>
 				100.3 kWh
@@ -1556,7 +1556,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				35 kW
 			</td>
 			<td>
-				1 h 12 m 32 s
+				1 h 14 m 6 s
 			</td>
 			<td>
 				101.4 kWh
@@ -1570,7 +1570,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				33 kW
 			</td>
 			<td>
-				1 h 14 m 34 s
+				1 h 16 m 10 s
 			</td>
 			<td>
 				102.5 kWh
@@ -1584,7 +1584,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				31 kW
 			</td>
 			<td>
-				1 h 16 m 44 s
+				1 h 18 m 23 s
 			</td>
 			<td>
 				103.6 kWh
@@ -1598,7 +1598,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				29 kW
 			</td>
 			<td>
-				1 h 19 m 3 s
+				1 h 20 m 45 s
 			</td>
 			<td>
 				104.6 kWh
@@ -1612,7 +1612,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				26 kW
 			</td>
 			<td>
-				1 h 21 m 33 s
+				1 h 23 m 19 s
 			</td>
 			<td>
 				105.7 kWh
@@ -1626,7 +1626,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				24 kW
 			</td>
 			<td>
-				1 h 24 m 16 s
+				1 h 26 m 5 s
 			</td>
 			<td>
 				106.8 kWh
@@ -1640,7 +1640,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				22 kW
 			</td>
 			<td>
-				1 h 27 m 14 s
+				1 h 29 m 7 s
 			</td>
 			<td>
 				107.9 kWh
@@ -1654,7 +1654,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 				20 kW
 			</td>
 			<td>
-				1 h 30 m 30 s
+				1 h 32 m 27 s
 			</td>
 			<td>
 				109.0 kWh

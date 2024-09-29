@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Toyota bZ4X AWD."
+description: "Below is the charging curve for Toyota bZ4X AWD, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Average charging speed 0 - 100%
 			</td>
 			<td>
-				46.9 kW
+				45.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-100%
 			</td>
 			<td>
-				44.9 kW
+				43.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-90%
 			</td>
 			<td>
-				61.0 kW
+				59.7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Average charging speed 10-80%
 			</td>
 			<td>
-				71.4 kW
+				69.9 kW
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimum charging area
 			</td>
 			<td>
-				2% - 50%
+				2% - 48%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				77.8kW
+				76.6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				21m27s
+				21m54s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 14 m 13 s
+				1 h 15 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 9 m 48 s
+				1 h 11 m 18 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 34 m 7 s
+				 34 m 51 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,24 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,3 km (3,9 mi)
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				3,4 km (2,1 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Range per minute 10-100%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				6,1 km (3,8 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
 				?
@@ -200,19 +183,36 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,9 km (3,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,2 km (2,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Range per minute 10-80%
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				9,6 km (6,0 mi)
+				9,4 km (5,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				5,1 km (3,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				81 kW
 			</td>
 			<td>
-				 0 m 33 s
+				 0 m 34 s
 			</td>
 			<td>
 				0.6 kWh
@@ -282,7 +282,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				82 kW
 			</td>
 			<td>
-				 1 m 0 s
+				 1 m 1 s
 			</td>
 			<td>
 				1.2 kWh
@@ -296,7 +296,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				83 kW
 			</td>
 			<td>
-				 1 m 27 s
+				 1 m 29 s
 			</td>
 			<td>
 				1.7 kWh
@@ -310,7 +310,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				84 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 55 s
 			</td>
 			<td>
 				2.3 kWh
@@ -324,7 +324,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				85 kW
 			</td>
 			<td>
-				 2 m 19 s
+				 2 m 22 s
 			</td>
 			<td>
 				2.9 kWh
@@ -338,7 +338,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				86 kW
 			</td>
 			<td>
-				 2 m 45 s
+				 2 m 48 s
 			</td>
 			<td>
 				3.5 kWh
@@ -352,7 +352,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				87 kW
 			</td>
 			<td>
-				 3 m 10 s
+				 3 m 14 s
 			</td>
 			<td>
 				4.1 kWh
@@ -366,7 +366,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				88 kW
 			</td>
 			<td>
-				 3 m 35 s
+				 3 m 40 s
 			</td>
 			<td>
 				4.6 kWh
@@ -380,7 +380,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				89 kW
 			</td>
 			<td>
-				 4 m 0 s
+				 4 m 5 s
 			</td>
 			<td>
 				5.2 kWh
@@ -394,7 +394,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				90 kW
 			</td>
 			<td>
-				 4 m 25 s
+				 4 m 30 s
 			</td>
 			<td>
 				5.8 kWh
@@ -408,7 +408,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				90 kW
 			</td>
 			<td>
-				 4 m 49 s
+				 4 m 55 s
 			</td>
 			<td>
 				6.4 kWh
@@ -422,7 +422,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				111 kW
 			</td>
 			<td>
-				 5 m 11 s
+				 5 m 18 s
 			</td>
 			<td>
 				7.0 kWh
@@ -436,7 +436,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				121 kW
 			</td>
 			<td>
-				 5 m 30 s
+				 5 m 37 s
 			</td>
 			<td>
 				7.5 kWh
@@ -450,7 +450,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				129 kW
 			</td>
 			<td>
-				 5 m 47 s
+				 5 m 55 s
 			</td>
 			<td>
 				8.1 kWh
@@ -464,7 +464,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				132 kW
 			</td>
 			<td>
-				 6 m 4 s
+				 6 m 12 s
 			</td>
 			<td>
 				8.7 kWh
@@ -478,7 +478,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				133 kW
 			</td>
 			<td>
-				 6 m 21 s
+				 6 m 29 s
 			</td>
 			<td>
 				9.3 kWh
@@ -492,7 +492,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				135 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 6 m 46 s
 			</td>
 			<td>
 				9.9 kWh
@@ -506,7 +506,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				134 kW
 			</td>
 			<td>
-				 6 m 54 s
+				 7 m 3 s
 			</td>
 			<td>
 				10.4 kWh
@@ -520,7 +520,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				133 kW
 			</td>
 			<td>
-				 7 m 10 s
+				 7 m 19 s
 			</td>
 			<td>
 				11.0 kWh
@@ -534,7 +534,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				135 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 36 s
 			</td>
 			<td>
 				11.6 kWh
@@ -548,7 +548,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				134 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 7 m 53 s
 			</td>
 			<td>
 				12.2 kWh
@@ -562,7 +562,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				132 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 8 m 10 s
 			</td>
 			<td>
 				12.8 kWh
@@ -576,7 +576,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				134 kW
 			</td>
 			<td>
-				 8 m 16 s
+				 8 m 27 s
 			</td>
 			<td>
 				13.3 kWh
@@ -590,7 +590,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				134 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 43 s
 			</td>
 			<td>
 				13.9 kWh
@@ -604,7 +604,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				137 kW
 			</td>
 			<td>
-				 8 m 48 s
+				 9 m 0 s
 			</td>
 			<td>
 				14.5 kWh
@@ -618,7 +618,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				135 kW
 			</td>
 			<td>
-				 9 m 5 s
+				 9 m 16 s
 			</td>
 			<td>
 				15.1 kWh
@@ -632,7 +632,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				136 kW
 			</td>
 			<td>
-				 9 m 21 s
+				 9 m 33 s
 			</td>
 			<td>
 				15.7 kWh
@@ -646,7 +646,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				133 kW
 			</td>
 			<td>
-				 9 m 37 s
+				 9 m 50 s
 			</td>
 			<td>
 				16.2 kWh
@@ -660,7 +660,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				132 kW
 			</td>
 			<td>
-				 9 m 54 s
+				 10 m 7 s
 			</td>
 			<td>
 				16.8 kWh
@@ -674,7 +674,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				129 kW
 			</td>
 			<td>
-				 10 m 11 s
+				 10 m 24 s
 			</td>
 			<td>
 				17.4 kWh
@@ -688,7 +688,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				126 kW
 			</td>
 			<td>
-				 10 m 28 s
+				 10 m 41 s
 			</td>
 			<td>
 				18.0 kWh
@@ -702,7 +702,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				123 kW
 			</td>
 			<td>
-				 10 m 46 s
+				 10 m 59 s
 			</td>
 			<td>
 				18.6 kWh
@@ -716,7 +716,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				120 kW
 			</td>
 			<td>
-				 11 m 4 s
+				 11 m 18 s
 			</td>
 			<td>
 				19.1 kWh
@@ -730,7 +730,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				119 kW
 			</td>
 			<td>
-				 11 m 22 s
+				 11 m 37 s
 			</td>
 			<td>
 				19.7 kWh
@@ -744,7 +744,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				113 kW
 			</td>
 			<td>
-				 11 m 41 s
+				 11 m 56 s
 			</td>
 			<td>
 				20.3 kWh
@@ -758,7 +758,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				111 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 12 m 16 s
 			</td>
 			<td>
 				20.9 kWh
@@ -772,7 +772,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				109 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 12 m 37 s
 			</td>
 			<td>
 				21.5 kWh
@@ -786,7 +786,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				106 kW
 			</td>
 			<td>
-				 12 m 41 s
+				 12 m 57 s
 			</td>
 			<td>
 				22.0 kWh
@@ -800,7 +800,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				103 kW
 			</td>
 			<td>
-				 13 m 2 s
+				 13 m 19 s
 			</td>
 			<td>
 				22.6 kWh
@@ -814,7 +814,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				104 kW
 			</td>
 			<td>
-				 13 m 23 s
+				 13 m 41 s
 			</td>
 			<td>
 				23.2 kWh
@@ -828,7 +828,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				99 kW
 			</td>
 			<td>
-				 13 m 45 s
+				 14 m 3 s
 			</td>
 			<td>
 				23.8 kWh
@@ -842,7 +842,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				96 kW
 			</td>
 			<td>
-				 14 m 7 s
+				 14 m 26 s
 			</td>
 			<td>
 				24.4 kWh
@@ -856,7 +856,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				97 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 14 m 49 s
 			</td>
 			<td>
 				24.9 kWh
@@ -870,7 +870,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				91 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 15 m 13 s
 			</td>
 			<td>
 				25.5 kWh
@@ -884,7 +884,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				91 kW
 			</td>
 			<td>
-				 15 m 18 s
+				 15 m 38 s
 			</td>
 			<td>
 				26.1 kWh
@@ -898,7 +898,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				87 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 16 m 3 s
 			</td>
 			<td>
 				26.7 kWh
@@ -912,7 +912,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				86 kW
 			</td>
 			<td>
-				 16 m 8 s
+				 16 m 29 s
 			</td>
 			<td>
 				27.3 kWh
@@ -926,7 +926,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				83 kW
 			</td>
 			<td>
-				 16 m 34 s
+				 16 m 55 s
 			</td>
 			<td>
 				27.8 kWh
@@ -940,7 +940,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				81 kW
 			</td>
 			<td>
-				 17 m 1 s
+				 17 m 23 s
 			</td>
 			<td>
 				28.4 kWh
@@ -954,7 +954,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				83 kW
 			</td>
 			<td>
-				 17 m 28 s
+				 17 m 50 s
 			</td>
 			<td>
 				29.0 kWh
@@ -968,7 +968,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				78 kW
 			</td>
 			<td>
-				 17 m 55 s
+				 18 m 18 s
 			</td>
 			<td>
 				29.6 kWh
@@ -982,7 +982,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				75 kW
 			</td>
 			<td>
-				 18 m 24 s
+				 18 m 47 s
 			</td>
 			<td>
 				30.2 kWh
@@ -996,7 +996,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				73 kW
 			</td>
 			<td>
-				 18 m 53 s
+				 19 m 18 s
 			</td>
 			<td>
 				30.7 kWh
@@ -1010,7 +1010,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				72 kW
 			</td>
 			<td>
-				 19 m 24 s
+				 19 m 49 s
 			</td>
 			<td>
 				31.3 kWh
@@ -1024,7 +1024,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				69 kW
 			</td>
 			<td>
-				 19 m 55 s
+				 20 m 20 s
 			</td>
 			<td>
 				31.9 kWh
@@ -1038,7 +1038,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				69 kW
 			</td>
 			<td>
-				 20 m 27 s
+				 20 m 53 s
 			</td>
 			<td>
 				32.5 kWh
@@ -1052,7 +1052,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				65 kW
 			</td>
 			<td>
-				 20 m 59 s
+				 21 m 27 s
 			</td>
 			<td>
 				33.1 kWh
@@ -1066,7 +1066,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				63 kW
 			</td>
 			<td>
-				 21 m 34 s
+				 22 m 2 s
 			</td>
 			<td>
 				33.6 kWh
@@ -1080,7 +1080,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				61 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 38 s
 			</td>
 			<td>
 				34.2 kWh
@@ -1094,7 +1094,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				60 kW
 			</td>
 			<td>
-				 22 m 46 s
+				 23 m 15 s
 			</td>
 			<td>
 				34.8 kWh
@@ -1108,7 +1108,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				58 kW
 			</td>
 			<td>
-				 23 m 23 s
+				 23 m 53 s
 			</td>
 			<td>
 				35.4 kWh
@@ -1122,7 +1122,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				57 kW
 			</td>
 			<td>
-				 24 m 1 s
+				 24 m 32 s
 			</td>
 			<td>
 				36.0 kWh
@@ -1136,7 +1136,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				53 kW
 			</td>
 			<td>
-				 24 m 41 s
+				 25 m 13 s
 			</td>
 			<td>
 				36.5 kWh
@@ -1150,7 +1150,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				53 kW
 			</td>
 			<td>
-				 25 m 22 s
+				 25 m 55 s
 			</td>
 			<td>
 				37.1 kWh
@@ -1164,7 +1164,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				54 kW
 			</td>
 			<td>
-				 26 m 4 s
+				 26 m 37 s
 			</td>
 			<td>
 				37.7 kWh
@@ -1178,7 +1178,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				52 kW
 			</td>
 			<td>
-				 26 m 45 s
+				 27 m 20 s
 			</td>
 			<td>
 				38.3 kWh
@@ -1192,7 +1192,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				53 kW
 			</td>
 			<td>
-				 27 m 27 s
+				 28 m 2 s
 			</td>
 			<td>
 				38.9 kWh
@@ -1206,7 +1206,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				52 kW
 			</td>
 			<td>
-				 28 m 9 s
+				 28 m 45 s
 			</td>
 			<td>
 				39.4 kWh
@@ -1220,7 +1220,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				47 kW
 			</td>
 			<td>
-				 28 m 53 s
+				 29 m 30 s
 			</td>
 			<td>
 				40.0 kWh
@@ -1234,7 +1234,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				47 kW
 			</td>
 			<td>
-				 29 m 40 s
+				 30 m 18 s
 			</td>
 			<td>
 				40.6 kWh
@@ -1248,7 +1248,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				46 kW
 			</td>
 			<td>
-				 30 m 27 s
+				 31 m 6 s
 			</td>
 			<td>
 				41.2 kWh
@@ -1262,7 +1262,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				44 kW
 			</td>
 			<td>
-				 31 m 16 s
+				 31 m 56 s
 			</td>
 			<td>
 				41.8 kWh
@@ -1276,7 +1276,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				43 kW
 			</td>
 			<td>
-				 32 m 7 s
+				 32 m 48 s
 			</td>
 			<td>
 				42.3 kWh
@@ -1290,7 +1290,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				44 kW
 			</td>
 			<td>
-				 32 m 57 s
+				 33 m 40 s
 			</td>
 			<td>
 				42.9 kWh
@@ -1304,7 +1304,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				42 kW
 			</td>
 			<td>
-				 33 m 48 s
+				 34 m 32 s
 			</td>
 			<td>
 				43.5 kWh
@@ -1318,7 +1318,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				40 kW
 			</td>
 			<td>
-				 34 m 42 s
+				 35 m 27 s
 			</td>
 			<td>
 				44.1 kWh
@@ -1332,7 +1332,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				39 kW
 			</td>
 			<td>
-				 35 m 37 s
+				 36 m 23 s
 			</td>
 			<td>
 				44.7 kWh
@@ -1346,7 +1346,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				39 kW
 			</td>
 			<td>
-				 36 m 34 s
+				 37 m 21 s
 			</td>
 			<td>
 				45.2 kWh
@@ -1360,7 +1360,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				37 kW
 			</td>
 			<td>
-				 37 m 32 s
+				 38 m 20 s
 			</td>
 			<td>
 				45.8 kWh
@@ -1374,7 +1374,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				36 kW
 			</td>
 			<td>
-				 38 m 32 s
+				 39 m 22 s
 			</td>
 			<td>
 				46.4 kWh
@@ -1388,7 +1388,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				34 kW
 			</td>
 			<td>
-				 39 m 35 s
+				 40 m 26 s
 			</td>
 			<td>
 				47.0 kWh
@@ -1402,7 +1402,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				35 kW
 			</td>
 			<td>
-				 40 m 38 s
+				 41 m 31 s
 			</td>
 			<td>
 				47.6 kWh
@@ -1416,7 +1416,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				34 kW
 			</td>
 			<td>
-				 41 m 42 s
+				 42 m 36 s
 			</td>
 			<td>
 				48.1 kWh
@@ -1430,7 +1430,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				33 kW
 			</td>
 			<td>
-				 42 m 48 s
+				 43 m 43 s
 			</td>
 			<td>
 				48.7 kWh
@@ -1444,7 +1444,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				33 kW
 			</td>
 			<td>
-				 43 m 54 s
+				 44 m 51 s
 			</td>
 			<td>
 				49.3 kWh
@@ -1458,7 +1458,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				31 kW
 			</td>
 			<td>
-				 45 m 3 s
+				 46 m 1 s
 			</td>
 			<td>
 				49.9 kWh
@@ -1472,7 +1472,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				31 kW
 			</td>
 			<td>
-				 46 m 14 s
+				 47 m 13 s
 			</td>
 			<td>
 				50.5 kWh
@@ -1486,7 +1486,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				29 kW
 			</td>
 			<td>
-				 47 m 27 s
+				 48 m 28 s
 			</td>
 			<td>
 				51.0 kWh
@@ -1500,7 +1500,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				28 kW
 			</td>
 			<td>
-				 48 m 44 s
+				 49 m 47 s
 			</td>
 			<td>
 				51.6 kWh
@@ -1514,7 +1514,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				27 kW
 			</td>
 			<td>
-				 50 m 4 s
+				 51 m 9 s
 			</td>
 			<td>
 				52.2 kWh
@@ -1528,7 +1528,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				26 kW
 			</td>
 			<td>
-				 51 m 27 s
+				 52 m 33 s
 			</td>
 			<td>
 				52.8 kWh
@@ -1542,7 +1542,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				25 kW
 			</td>
 			<td>
-				 52 m 53 s
+				 54 m 2 s
 			</td>
 			<td>
 				53.4 kWh
@@ -1556,7 +1556,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				25 kW
 			</td>
 			<td>
-				 54 m 21 s
+				 55 m 31 s
 			</td>
 			<td>
 				53.9 kWh
@@ -1570,7 +1570,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				24 kW
 			</td>
 			<td>
-				 55 m 51 s
+				 57 m 3 s
 			</td>
 			<td>
 				54.5 kWh
@@ -1584,7 +1584,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				20 kW
 			</td>
 			<td>
-				 57 m 31 s
+				 58 m 45 s
 			</td>
 			<td>
 				55.1 kWh
@@ -1598,7 +1598,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				17 kW
 			</td>
 			<td>
-				 59 m 30 s
+				1 h 0 m 46 s
 			</td>
 			<td>
 				55.7 kWh
@@ -1612,7 +1612,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				14 kW
 			</td>
 			<td>
-				1 h 1 m 51 s
+				1 h 3 m 11 s
 			</td>
 			<td>
 				56.3 kWh
@@ -1626,7 +1626,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				10 kW
 			</td>
 			<td>
-				1 h 4 m 55 s
+				1 h 6 m 18 s
 			</td>
 			<td>
 				56.8 kWh
@@ -1640,7 +1640,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				8 kW
 			</td>
 			<td>
-				1 h 8 m 59 s
+				1 h 10 m 28 s
 			</td>
 			<td>
 				57.4 kWh
@@ -1654,7 +1654,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 				6 kW
 			</td>
 			<td>
-				1 h 14 m 13 s
+				1 h 15 m 49 s
 			</td>
 			<td>
 				58.0 kWh
