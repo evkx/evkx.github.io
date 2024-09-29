@@ -38,9 +38,9 @@ La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité 
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 510 et 493 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 17,6 kWh/100 km pour le modèle de base et à 18,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 240kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 22 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 61 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 151kW. Chaque session de charge prendrait 21 minutes et 9 secondes. Cette capacité de charge efficace fait de l'Nio EL8 une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de 240kW. Une charge complète de 0 à 100 % prendrait 63 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 22 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 147kW. Chaque session de charge prendrait 20 minutes et 16 secondes. Cette capacité de charge efficace fait de l'Nio EL8 une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 9 heures et 44 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 61%, avec un temps de recharge total de 85 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 245 kWh/100 km, le voyage prendrait environ 0 heures et 27 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 69%, avec un temps de recharge total de 968 minutes.
 
 ### 75kWh
 
@@ -50,7 +50,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 66 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 75kW. Chaque session de charge prendrait 38 minutes et 39 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 25 minutes. Ce trajet nécessiterait deux arrêts de recharge de 7% à 73%, avec un temps de recharge total de 185 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 245 kWh/100 km, le voyage prendrait environ 15 heures et 59 minutes. Ce trajet nécessiterait deux arrêts de recharge de 7% à 72%, avec un temps de recharge total de 1900 minutes.
 
 ### Chargeur embarqué
 

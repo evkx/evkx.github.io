@@ -38,9 +38,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 100,0 kWh og en nettoanvend
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 510 og 493 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 240kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 22 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 151kW. Hver opladningssession ville tage 21 minutter og 9 sekunder. Denne effektive opladningskapacitet gør Nio EL8 til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 240kW. En fuld opladning fra 0 - 100 % ville tage 63 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 22 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 147kW. Hver opladningssession ville tage 20 minutter og 16 sekunder. Denne effektive opladningskapacitet gør Nio EL8 til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 30 kWh/100 km, ville turen tage cirka 9 timer og 44 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 61%, med en samlet opladningstid på 85 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 245 kWh/100 km, ville turen tage cirka 0 timer og 27 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 69%, med en samlet opladningstid på 968 minutter
 
 ### 75kWh
 
@@ -50,7 +50,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 
 Den maksimale DC-opladningshastighed er 140kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 75kW. Hver opladningssession ville tage 38 minutter og 39 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 30 kWh/100 km, ville turen tage cirka 11 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 73%, med en samlet opladningstid på 185 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 245 kWh/100 km, ville turen tage cirka 15 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 72%, med en samlet opladningstid på 1900 minutter
 
 ### Ombordlader
 

@@ -38,9 +38,9 @@ La batería de alta capacidad tiene una capacidad bruta de 100,0 kWh y una capac
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 510 y 493 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 17,6 kWh/100 km para el modelo base y 18,3 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 240kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 22 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 151kW. Cada sesión de carga tardaría 21 minutos y 9 segundos. Esta capacidad de carga eficiente hace que el Nio EL8 sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 240kW. Una carga completa del 0 al 100 % tardaría 63 minutos, mientras que un escenario más común del 10 al 80 % tardaría 22 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 147kW. Cada sesión de carga tardaría 20 minutos y 16 segundos. Esta capacidad de carga eficiente hace que el Nio EL8 sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 44 minutos. Este viaje requeriría dos paradas de carga del 2% al 61%, con un tiempo total de carga de 85 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 245 kWh/100 km, el viaje tomaría aproximadamente 0 horas y 27 minutos. Este viaje requeriría dos paradas de carga del 8% al 69%, con un tiempo total de carga de 968 minutos.
 
 ### 75kWh
 
@@ -50,7 +50,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 
 La velocidad máxima de carga de CC es 140kW. Una carga completa del 0 al 100 % tardaría 66 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 74%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 75kW. Cada sesión de carga tardaría 38 minutos y 39 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 7% al 73%, con un tiempo total de carga de 185 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 245 kWh/100 km, el viaje tomaría aproximadamente 15 horas y 59 minutos. Este viaje requeriría dos paradas de carga del 7% al 72%, con un tiempo total de carga de 1900 minutos.
 
 ### Cargador a bordo
 

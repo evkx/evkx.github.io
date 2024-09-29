@@ -38,9 +38,9 @@ The high-capacity battery has a gross capacity of 100.0 kWh and a net usable cap
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 510 to 493 km (317-306 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.6 kWh/100 km for the base model and 18.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 240 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical scenario from 10% to 80% takes 22 minutes with an average charging speed of 176 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 61%. This results in an effective charging speed, including time lost, of 151 kW, with each charging session taking about 21 minutes and 9 seconds. This efficient charging capability makes the Nio EL8 a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 240 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical scenario from 10% to 80% takes 22 minutes with an average charging speed of 176 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 63%. This results in an effective charging speed, including time lost, of 147 kW, with each charging session taking about 20 minutes and 16 seconds. This efficient charging capability makes the Nio EL8 a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 9 hours and 44 minutes. This journey would require four charging stops from 2% to 61%, with a total charging time of 85 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 245 kWh/100 km, the trip would take approximately 0 hours and 27 minutes. This journey would require 43 charging stops from 8% to 69%, with a total charging time of 968 minutes.
 
 ### 75kWh
 
@@ -50,7 +50,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 74%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 38 minutes and 39 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 11 hours and 25 minutes. This journey would require five charging stops from 7% to 73%, with a total charging time of 185 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 245 kWh/100 km, the trip would take approximately 15 hours and 59 minutes. This journey would require 52 charging stops from 7% to 72%, with a total charging time of 1900 minutes.
 
 ### Onboard Charger
 

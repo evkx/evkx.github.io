@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID.7 GTX Tourer | 610km (381 mile) Long Trip Test</h3>
+<p>Kris Rifa: 29.09.2024</p>
+
+{{< youtube Hw9LMngA5Uk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID.7 GTX Tourer | 610km (381 mile) Long Trip Test</h3>
+<p>Kris Rifa: 29.09.2024</p>
+
+{{< youtube Hw9LMngA5Uk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The VW ID7 GTX is Volkswagen’s large sporty EV with AWD!</h3>
 <p>Autogefühl: 13.03.2024</p>
 

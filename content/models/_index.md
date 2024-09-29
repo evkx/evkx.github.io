@@ -91,6 +91,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="lancia"><img src="https://media.evkx.net/multimedia/models/lancia/logo_xst.png" alt="Lancia" title="Lancia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="leapmotor"><img src="https://media.evkx.net/multimedia/models/leapmotor/logo_xst.png" alt="Leapmotor" title="Leapmotor" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -488,6 +491,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Lancia has 1 models with total 1 variants.
 	</p>
 	<a href="lancia/" class="btn btn-outline-primary" role="button">Go to Lancia EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Leapmotor</h2>
+	<p>
+		Leapmotor is a Chinese electric vehicle (EV) manufacturer, founded in 2015. Known for affordable, tech-driven cars like the T03 city car and C11 SUV, Leapmotor emphasizes in-house development of core EV technologies, including powertrains and autonomous driving, targeting China's growing EV market.
+	</p>
+	<p>
+	Leapmotor has 1 models with total 1 variants.
+	</p>
+	<a href="leapmotor/" class="btn btn-outline-primary" role="button">Go to Leapmotor EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>

@@ -33,7 +33,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				87,7 kW
+				85,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -49,7 +49,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				150,7 kW
+				150,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				175,7 kW
+				175,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -73,7 +73,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Genomsnittlig C-Rate
 			</td>
 			<td>
-				1,67
+				1,60
 			</td>
 		</tr>
 		<tr>
@@ -81,7 +81,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Optimalt laddningsområde
 			</td>
 			<td>
-				2% - 61%
+				8% - 63%
 			</td>
 		</tr>
 		<tr>
@@ -89,7 +89,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				150,6kW
+				146,5kW
 			</td>
 		</tr>
 		<tr>
@@ -97,7 +97,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				21m9s
+				20m16s
 			</td>
 		</tr>
 	</tbody>
@@ -122,7 +122,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Laddningstid 0-100%
 			</td>
 			<td>
-				1 h 1 m 32 s
+				1 h 3 m 15 s
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 21 m 30 s
+				 21 m 31 s
 			</td>
 		</tr>
 	</tbody>
@@ -176,13 +176,13 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				?
 			</td>
 			<td>
-				8,3 km (5,2 mi)
+				8,1 km (5,0 mi)
 			</td>
 			<td>
-				?
+				0,6 km (0,4 mi)
 			</td>
 			<td>
-				4,9 km (3,0 mi)
+				0,6 km (0,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -196,10 +196,10 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				7,9 km (4,9 mi)
 			</td>
 			<td>
-				?
+				0,6 km (0,4 mi)
 			</td>
 			<td>
-				4,6 km (2,9 mi)
+				0,6 km (0,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -213,10 +213,10 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 				16,6 km (10,3 mi)
 			</td>
 			<td>
-				?
+				1,3 km (0,8 mi)
 			</td>
 			<td>
-				9,8 km (6,1 mi)
+				1,2 km (0,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -269,10 +269,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				1%
 			</td>
 			<td>
-				100 kW
+				95 kW
 			</td>
 			<td>
-				 0 m 46 s
+				 0 m 48 s
 			</td>
 			<td>
 				0,9 kWh
@@ -283,10 +283,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				2%
 			</td>
 			<td>
-				190 kW
+				95 kW
 			</td>
 			<td>
-				 1 m 10 s
+				 1 m 24 s
 			</td>
 			<td>
 				1,8 kWh
@@ -297,10 +297,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				3%
 			</td>
 			<td>
-				193 kW
+				95 kW
 			</td>
 			<td>
-				 1 m 28 s
+				 2 m 1 s
 			</td>
 			<td>
 				2,7 kWh
@@ -311,10 +311,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				4%
 			</td>
 			<td>
-				197 kW
+				105 kW
 			</td>
 			<td>
-				 1 m 46 s
+				 2 m 36 s
 			</td>
 			<td>
 				3,6 kWh
@@ -325,10 +325,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				5%
 			</td>
 			<td>
-				200 kW
+				115 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 3 m 7 s
 			</td>
 			<td>
 				4,5 kWh
@@ -339,10 +339,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				6%
 			</td>
 			<td>
-				207 kW
+				115 kW
 			</td>
 			<td>
-				 2 m 21 s
+				 3 m 38 s
 			</td>
 			<td>
 				5,4 kWh
@@ -353,10 +353,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				7%
 			</td>
 			<td>
-				214 kW
+				135 kW
 			</td>
 			<td>
-				 2 m 37 s
+				 4 m 6 s
 			</td>
 			<td>
 				6,3 kWh
@@ -367,10 +367,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				8%
 			</td>
 			<td>
-				221 kW
+				162 kW
 			</td>
 			<td>
-				 2 m 53 s
+				 4 m 29 s
 			</td>
 			<td>
 				7,2 kWh
@@ -381,10 +381,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				9%
 			</td>
 			<td>
-				228 kW
+				190 kW
 			</td>
 			<td>
-				 3 m 9 s
+				 4 m 49 s
 			</td>
 			<td>
 				8,1 kWh
@@ -395,10 +395,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				10%
 			</td>
 			<td>
-				235 kW
+				220 kW
 			</td>
 			<td>
-				 3 m 24 s
+				 5 m 6 s
 			</td>
 			<td>
 				9,0 kWh
@@ -412,7 +412,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				235 kW
 			</td>
 			<td>
-				 3 m 39 s
+				 5 m 21 s
 			</td>
 			<td>
 				9,9 kWh
@@ -426,7 +426,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				235 kW
 			</td>
 			<td>
-				 3 m 53 s
+				 5 m 36 s
 			</td>
 			<td>
 				10,8 kWh
@@ -440,7 +440,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				238 kW
 			</td>
 			<td>
-				 4 m 8 s
+				 5 m 51 s
 			</td>
 			<td>
 				11,7 kWh
@@ -454,7 +454,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				239 kW
 			</td>
 			<td>
-				 4 m 23 s
+				 6 m 5 s
 			</td>
 			<td>
 				12,6 kWh
@@ -468,7 +468,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				239 kW
 			</td>
 			<td>
-				 4 m 37 s
+				 6 m 20 s
 			</td>
 			<td>
 				13,5 kWh
@@ -482,7 +482,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				239 kW
 			</td>
 			<td>
-				 4 m 52 s
+				 6 m 34 s
 			</td>
 			<td>
 				14,4 kWh
@@ -496,7 +496,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				241 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 6 m 49 s
 			</td>
 			<td>
 				15,3 kWh
@@ -510,7 +510,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				240 kW
 			</td>
 			<td>
-				 5 m 21 s
+				 7 m 3 s
 			</td>
 			<td>
 				16,2 kWh
@@ -524,7 +524,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				241 kW
 			</td>
 			<td>
-				 5 m 35 s
+				 7 m 18 s
 			</td>
 			<td>
 				17,1 kWh
@@ -538,7 +538,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				241 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 7 m 32 s
 			</td>
 			<td>
 				18,0 kWh
@@ -552,7 +552,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				242 kW
 			</td>
 			<td>
-				 6 m 4 s
+				 7 m 47 s
 			</td>
 			<td>
 				18,9 kWh
@@ -566,7 +566,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				242 kW
 			</td>
 			<td>
-				 6 m 19 s
+				 8 m 1 s
 			</td>
 			<td>
 				19,8 kWh
@@ -580,7 +580,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 6 m 33 s
+				 8 m 16 s
 			</td>
 			<td>
 				20,7 kWh
@@ -594,7 +594,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 6 m 47 s
+				 8 m 30 s
 			</td>
 			<td>
 				21,6 kWh
@@ -608,7 +608,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 8 m 44 s
 			</td>
 			<td>
 				22,5 kWh
@@ -622,7 +622,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				242 kW
 			</td>
 			<td>
-				 7 m 16 s
+				 8 m 59 s
 			</td>
 			<td>
 				23,4 kWh
@@ -636,7 +636,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 7 m 31 s
+				 9 m 13 s
 			</td>
 			<td>
 				24,3 kWh
@@ -650,7 +650,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 7 m 45 s
+				 9 m 27 s
 			</td>
 			<td>
 				25,2 kWh
@@ -664,7 +664,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 7 m 59 s
+				 9 m 42 s
 			</td>
 			<td>
 				26,1 kWh
@@ -678,7 +678,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				243 kW
 			</td>
 			<td>
-				 8 m 14 s
+				 9 m 56 s
 			</td>
 			<td>
 				27,0 kWh
@@ -692,7 +692,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				242 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 10 m 10 s
 			</td>
 			<td>
 				27,9 kWh
@@ -706,7 +706,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				241 kW
 			</td>
 			<td>
-				 8 m 42 s
+				 10 m 25 s
 			</td>
 			<td>
 				28,8 kWh
@@ -720,7 +720,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				234 kW
 			</td>
 			<td>
-				 8 m 57 s
+				 10 m 39 s
 			</td>
 			<td>
 				29,7 kWh
@@ -734,7 +734,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				229 kW
 			</td>
 			<td>
-				 9 m 12 s
+				 10 m 55 s
 			</td>
 			<td>
 				30,6 kWh
@@ -748,7 +748,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				226 kW
 			</td>
 			<td>
-				 9 m 27 s
+				 11 m 10 s
 			</td>
 			<td>
 				31,5 kWh
@@ -762,7 +762,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				224 kW
 			</td>
 			<td>
-				 9 m 43 s
+				 11 m 25 s
 			</td>
 			<td>
 				32,4 kWh
@@ -776,7 +776,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				220 kW
 			</td>
 			<td>
-				 9 m 59 s
+				 11 m 41 s
 			</td>
 			<td>
 				33,3 kWh
@@ -790,7 +790,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				217 kW
 			</td>
 			<td>
-				 10 m 14 s
+				 11 m 57 s
 			</td>
 			<td>
 				34,2 kWh
@@ -804,7 +804,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				196 kW
 			</td>
 			<td>
-				 10 m 31 s
+				 12 m 14 s
 			</td>
 			<td>
 				35,1 kWh
@@ -818,7 +818,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				196 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 12 m 32 s
 			</td>
 			<td>
 				36,0 kWh
@@ -832,7 +832,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				196 kW
 			</td>
 			<td>
-				 11 m 7 s
+				 12 m 49 s
 			</td>
 			<td>
 				36,9 kWh
@@ -846,7 +846,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				196 kW
 			</td>
 			<td>
-				 11 m 25 s
+				 13 m 7 s
 			</td>
 			<td>
 				37,8 kWh
@@ -860,7 +860,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				196 kW
 			</td>
 			<td>
-				 11 m 42 s
+				 13 m 25 s
 			</td>
 			<td>
 				38,7 kWh
@@ -874,7 +874,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				197 kW
 			</td>
 			<td>
-				 12 m 0 s
+				 13 m 43 s
 			</td>
 			<td>
 				39,6 kWh
@@ -888,7 +888,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				197 kW
 			</td>
 			<td>
-				 12 m 18 s
+				 14 m 0 s
 			</td>
 			<td>
 				40,5 kWh
@@ -902,7 +902,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				197 kW
 			</td>
 			<td>
-				 12 m 36 s
+				 14 m 18 s
 			</td>
 			<td>
 				41,4 kWh
@@ -916,7 +916,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				196 kW
 			</td>
 			<td>
-				 12 m 53 s
+				 14 m 36 s
 			</td>
 			<td>
 				42,3 kWh
@@ -930,7 +930,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				194 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 14 m 54 s
 			</td>
 			<td>
 				43,2 kWh
@@ -944,7 +944,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				193 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 15 m 12 s
 			</td>
 			<td>
 				44,1 kWh
@@ -958,7 +958,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				192 kW
 			</td>
 			<td>
-				 13 m 47 s
+				 15 m 30 s
 			</td>
 			<td>
 				45,0 kWh
@@ -972,7 +972,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				191 kW
 			</td>
 			<td>
-				 14 m 5 s
+				 15 m 48 s
 			</td>
 			<td>
 				45,9 kWh
@@ -986,7 +986,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				190 kW
 			</td>
 			<td>
-				 14 m 24 s
+				 16 m 6 s
 			</td>
 			<td>
 				46,8 kWh
@@ -1000,7 +1000,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				190 kW
 			</td>
 			<td>
-				 14 m 42 s
+				 16 m 25 s
 			</td>
 			<td>
 				47,7 kWh
@@ -1014,7 +1014,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				188 kW
 			</td>
 			<td>
-				 15 m 0 s
+				 16 m 43 s
 			</td>
 			<td>
 				48,6 kWh
@@ -1028,7 +1028,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				186 kW
 			</td>
 			<td>
-				 15 m 19 s
+				 17 m 2 s
 			</td>
 			<td>
 				49,5 kWh
@@ -1042,7 +1042,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				182 kW
 			</td>
 			<td>
-				 15 m 38 s
+				 17 m 21 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1056,7 +1056,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				178 kW
 			</td>
 			<td>
-				 15 m 57 s
+				 17 m 40 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1070,7 +1070,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				175 kW
 			</td>
 			<td>
-				 16 m 17 s
+				 18 m 0 s
 			</td>
 			<td>
 				52,2 kWh
@@ -1084,7 +1084,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				171 kW
 			</td>
 			<td>
-				 16 m 37 s
+				 18 m 20 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1098,7 +1098,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				166 kW
 			</td>
 			<td>
-				 16 m 58 s
+				 18 m 40 s
 			</td>
 			<td>
 				54,0 kWh
@@ -1112,7 +1112,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				162 kW
 			</td>
 			<td>
-				 17 m 19 s
+				 19 m 2 s
 			</td>
 			<td>
 				54,9 kWh
@@ -1126,7 +1126,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				160 kW
 			</td>
 			<td>
-				 17 m 41 s
+				 19 m 23 s
 			</td>
 			<td>
 				55,8 kWh
@@ -1140,7 +1140,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				158 kW
 			</td>
 			<td>
-				 18 m 3 s
+				 19 m 45 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1154,7 +1154,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				156 kW
 			</td>
 			<td>
-				 18 m 25 s
+				 20 m 7 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1168,7 +1168,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				154 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 20 m 30 s
 			</td>
 			<td>
 				58,5 kWh
@@ -1182,7 +1182,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				155 kW
 			</td>
 			<td>
-				 19 m 10 s
+				 20 m 52 s
 			</td>
 			<td>
 				59,4 kWh
@@ -1196,7 +1196,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				156 kW
 			</td>
 			<td>
-				 19 m 32 s
+				 21 m 15 s
 			</td>
 			<td>
 				60,3 kWh
@@ -1210,7 +1210,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				158 kW
 			</td>
 			<td>
-				 19 m 55 s
+				 21 m 37 s
 			</td>
 			<td>
 				61,2 kWh
@@ -1224,7 +1224,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				159 kW
 			</td>
 			<td>
-				 20 m 17 s
+				 21 m 59 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1238,7 +1238,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				160 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 22 m 21 s
 			</td>
 			<td>
 				63,0 kWh
@@ -1252,7 +1252,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				157 kW
 			</td>
 			<td>
-				 21 m 0 s
+				 22 m 43 s
 			</td>
 			<td>
 				63,9 kWh
@@ -1266,7 +1266,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				153 kW
 			</td>
 			<td>
-				 21 m 23 s
+				 23 m 5 s
 			</td>
 			<td>
 				64,8 kWh
@@ -1280,7 +1280,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				150 kW
 			</td>
 			<td>
-				 21 m 46 s
+				 23 m 28 s
 			</td>
 			<td>
 				65,7 kWh
@@ -1294,7 +1294,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				146 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 23 m 52 s
 			</td>
 			<td>
 				66,6 kWh
@@ -1308,7 +1308,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				142 kW
 			</td>
 			<td>
-				 22 m 34 s
+				 24 m 16 s
 			</td>
 			<td>
 				67,5 kWh
@@ -1322,7 +1322,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				137 kW
 			</td>
 			<td>
-				 22 m 59 s
+				 24 m 41 s
 			</td>
 			<td>
 				68,4 kWh
@@ -1336,7 +1336,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				126 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 25 m 8 s
 			</td>
 			<td>
 				69,3 kWh
@@ -1350,7 +1350,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				116 kW
 			</td>
 			<td>
-				 23 m 54 s
+				 25 m 36 s
 			</td>
 			<td>
 				70,2 kWh
@@ -1364,7 +1364,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				114 kW
 			</td>
 			<td>
-				 24 m 24 s
+				 26 m 7 s
 			</td>
 			<td>
 				71,1 kWh
@@ -1378,7 +1378,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				113 kW
 			</td>
 			<td>
-				 24 m 55 s
+				 26 m 37 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1392,7 +1392,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				113 kW
 			</td>
 			<td>
-				 25 m 26 s
+				 27 m 8 s
 			</td>
 			<td>
 				72,9 kWh
@@ -1406,7 +1406,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				108 kW
 			</td>
 			<td>
-				 25 m 57 s
+				 27 m 40 s
 			</td>
 			<td>
 				73,8 kWh
@@ -1420,7 +1420,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				102 kW
 			</td>
 			<td>
-				 26 m 30 s
+				 28 m 13 s
 			</td>
 			<td>
 				74,7 kWh
@@ -1434,7 +1434,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				95 kW
 			</td>
 			<td>
-				 27 m 6 s
+				 28 m 48 s
 			</td>
 			<td>
 				75,6 kWh
@@ -1448,7 +1448,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				89 kW
 			</td>
 			<td>
-				 27 m 44 s
+				 29 m 26 s
 			</td>
 			<td>
 				76,5 kWh
@@ -1462,7 +1462,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				80 kW
 			</td>
 			<td>
-				 28 m 25 s
+				 30 m 7 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1476,7 +1476,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				72 kW
 			</td>
 			<td>
-				 29 m 11 s
+				 30 m 53 s
 			</td>
 			<td>
 				78,3 kWh
@@ -1490,7 +1490,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				65 kW
 			</td>
 			<td>
-				 30 m 2 s
+				 31 m 44 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1504,7 +1504,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				57 kW
 			</td>
 			<td>
-				 30 m 59 s
+				 32 m 41 s
 			</td>
 			<td>
 				80,1 kWh
@@ -1518,7 +1518,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				49 kW
 			</td>
 			<td>
-				 32 m 4 s
+				 33 m 47 s
 			</td>
 			<td>
 				81,0 kWh
@@ -1532,7 +1532,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				48 kW
 			</td>
 			<td>
-				 33 m 16 s
+				 34 m 59 s
 			</td>
 			<td>
 				81,9 kWh
@@ -1546,7 +1546,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				39 kW
 			</td>
 			<td>
-				 34 m 36 s
+				 36 m 19 s
 			</td>
 			<td>
 				82,8 kWh
@@ -1560,7 +1560,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				35 kW
 			</td>
 			<td>
-				 36 m 10 s
+				 37 m 53 s
 			</td>
 			<td>
 				83,7 kWh
@@ -1574,7 +1574,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				30 kW
 			</td>
 			<td>
-				 37 m 58 s
+				 39 m 40 s
 			</td>
 			<td>
 				84,6 kWh
@@ -1588,7 +1588,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				26 kW
 			</td>
 			<td>
-				 40 m 2 s
+				 41 m 45 s
 			</td>
 			<td>
 				85,5 kWh
@@ -1602,7 +1602,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				21 kW
 			</td>
 			<td>
-				 42 m 30 s
+				 44 m 13 s
 			</td>
 			<td>
 				86,4 kWh
@@ -1616,7 +1616,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				15 kW
 			</td>
 			<td>
-				 45 m 44 s
+				 47 m 26 s
 			</td>
 			<td>
 				87,3 kWh
@@ -1630,7 +1630,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				11 kW
 			</td>
 			<td>
-				 50 m 12 s
+				 51 m 54 s
 			</td>
 			<td>
 				88,2 kWh
@@ -1644,7 +1644,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				10 kW
 			</td>
 			<td>
-				 55 m 44 s
+				 57 m 26 s
 			</td>
 			<td>
 				89,1 kWh
@@ -1658,7 +1658,7 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				10 kW
 			</td>
 			<td>
-				1 h 1 m 32 s
+				1 h 3 m 15 s
 			</td>
 			<td>
 				90,0 kWh
@@ -1837,10 +1837,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				6,0 km (3,7 mi)
 			</td>
 			<td>
-				?
+				0,5 km (0,3 mi)
 			</td>
 			<td>
-				3,6 km (2,2 mi)
+				0,4 km (0,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1854,10 +1854,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				6,1 km (3,8 mi)
 			</td>
 			<td>
-				?
+				0,5 km (0,3 mi)
 			</td>
 			<td>
-				3,6 km (2,2 mi)
+				0,4 km (0,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1871,10 +1871,10 @@ Nio EL8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				8,1 km (5,0 mi)
 			</td>
 			<td>
-				?
+				0,6 km (0,4 mi)
 			</td>
 			<td>
-				4,7 km (2,9 mi)
+				0,6 km (0,4 mi)
 			</td>
 		</tr>
 	</tbody>

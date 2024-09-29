@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE 53 4Matic+ SUV 90-10 % acceleration and noise test</h3>
+<p>Bjørn Nyland: 28.09.2024</p>
+
+{{< youtube wf5XcAfYMZQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE 53 4Matic+ SUV range test</h3>
+<p>Bjørn Nyland: 27.09.2024</p>
+
+{{< youtube uH1a7gt_nEk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mercedes EQE SUV REVIEW 53 AMG vs 500 4Matic AMG-Line - how good is the GLE EV?</h3>
 <p>Autogefühl: 16.10.2022</p>
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mini Countryman SE All4 interior review</h3>
+<p>Bjørn Nyland: 29.09.2024</p>
+
+{{< youtube eBDLTUbkKNk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mini Countryman SE All4 1000 km challenge</h3>
 <p>Bjørn Nyland: 26.09.2024</p>
 
