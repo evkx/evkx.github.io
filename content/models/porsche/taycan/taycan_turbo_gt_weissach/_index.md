@@ -130,6 +130,10 @@ Available in:
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
+#### Second Row Seat
+
+The following functionalities are available on the **** seat:
+
 ## Climate System
 
 There is one climate system available:

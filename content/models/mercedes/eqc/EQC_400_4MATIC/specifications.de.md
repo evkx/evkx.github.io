@@ -695,6 +695,111 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 	</tbody>
 </table>
 
+### Sitze der zweiten Reihe
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sitztyp
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höhenverstellbare Kopfstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Längenverstellbare Kopfstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Oberschenkelstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze der Rückenlehne
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze des Sitzkissens
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fußstütze für Passagiere
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstütze für Passagiere
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrische Lendenwirbelstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sitzbelüftung
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Fahrerassistenz
 
 <table class="table table-striped border">

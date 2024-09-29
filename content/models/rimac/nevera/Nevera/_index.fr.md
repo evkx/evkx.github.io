@@ -116,6 +116,14 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
+#### Siège de deuxième rangée
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+- Black [Revêtement Alcantara](../../../../technology/seats/materials/#alcantara)
+
 ## Système de climatisation
 
 Un système climatique est disponible.

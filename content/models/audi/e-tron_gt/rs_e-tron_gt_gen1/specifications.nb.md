@@ -1223,6 +1223,111 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
+### Seter på andre rad
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Sjåførassistanse
 
 <table class="table table-striped border">

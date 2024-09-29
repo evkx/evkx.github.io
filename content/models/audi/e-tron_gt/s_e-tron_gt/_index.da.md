@@ -149,6 +149,10 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
+#### Sæde på anden række
+
+Følgende funktioner er tilgængelige på **** sædet.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

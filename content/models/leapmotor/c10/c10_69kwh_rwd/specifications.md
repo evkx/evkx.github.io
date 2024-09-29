@@ -72,6 +72,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Basic trim CLTC range
 			</td>
 			<td>
@@ -245,6 +261,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				375 kg (827 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
+			</td>
+			<td>
+				425 liter (15 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
+			</td>
+			<td>
+				1410 liter (50 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Not available
+				Yes, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Not available
+				Yes, 14,6"
 			</td>
 		</tr>
 		<tr>

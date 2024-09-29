@@ -104,6 +104,12 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
+#### Sæde på anden række
+
+Følgende funktioner er tilgængelige på **** sædet.
+
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

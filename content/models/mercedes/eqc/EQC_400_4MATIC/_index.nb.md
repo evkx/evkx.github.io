@@ -104,6 +104,12 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
+#### Seter på andre rad
+
+Følgende funksjoner er tilgjengelige på **** setet.
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.

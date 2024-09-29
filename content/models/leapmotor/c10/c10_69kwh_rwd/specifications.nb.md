@@ -72,6 +72,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				CLTC rekkevidde for minimum utstyrsnivå
 			</td>
 			<td>
@@ -245,6 +261,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				375 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Størrelse bagasjerom
+			</td>
+			<td>
+				425 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse med alle bakseter lagt ned
+			</td>
+			<td>
+				1410 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setetype
 			</td>
 			<td>
-				None
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setetype
 			</td>
 			<td>
-				None
+				Tre-seters benk
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Digital driver display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 14,6
 			</td>
 		</tr>
 		<tr>

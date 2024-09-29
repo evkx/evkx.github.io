@@ -149,6 +149,10 @@ Verfügbar in:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
+#### Rücksitzreihe
+
+Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

@@ -1223,6 +1223,111 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
+### Asientos de la segunda fila
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Asistencia al conductor
 
 <table class="table table-striped border">

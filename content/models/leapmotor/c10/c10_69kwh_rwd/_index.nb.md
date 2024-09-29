@@ -1,7 +1,7 @@
 ---
 title: Leapmotor C10 69kWh RWD
 linktitle: "C10 69kWh RWD"
-description: "Leapmotor C10 69kWh RWD er en helelektrisk SUV med en CLTC rekkevidde på opptil 530 km. EVKX.net har alle detaljene."
+description: "Leapmotor C10 69kWh RWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 420 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,13 @@ Leapmotor C10 69kWh RWD har en maksimal effekt på 170 KW (231hk). Totalt dreiem
 
 Høykapasitetsbatteriet har en brutto kapasitet på 69,9 kWh og en netto brukbar kapasitet på 67,0 kWh, som gir en buffer på 2,9 kWh (4,1%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 530 km (329 miles). Forbruket er 12,6kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 420 km, med et energiforbruk på 16,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 80 kW. En full lading fra 0 - 100 % vil ta 137 minutter, mens et mer vanlig scenario på 10-80 % vil ta 60 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 13% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 51kW. Hver ladeøkt vil ta 28 minutter og 27 sekunder.
 
 ### Ombordlader
+
+Den standard ombordladeren støtter opptil 6,7 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 10 timer og 0 minutter med en hjemmelader.
 
 ### Toveis lading
 
@@ -63,15 +65,17 @@ Leapmotor C10 69kWh RWD, med dimensjoner på 4739 mm i lengde, 1900 mm i bredde 
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Det er bare ett tak for denne modellen.
+Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
+Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/exterior_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+Interiøret i Leapmotor C10 69kWh RWD er designet med en minimalistisk estetikk, med materialer av middels kvalitet gjennom hele. Den delt nivå midtkonsollen skiller fører og passasjer, og tilbyr praktiske lagringsalternativer og forbedret funksjonalitet.
 
 ### Seter
 
@@ -87,9 +91,9 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
@@ -105,12 +109,17 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Leapmotor C10 69kWh RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
 
 Viktige skjermdetaljer:
 
+- -skjermen bak rattet montert i dashbordet er 10,3 tommer stor
+- touch-skjermen i midten av midtkonsollen er 14,6 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
 
@@ -126,17 +135,19 @@ Leapmotor C10 69kWh RWD er utstyrt med en enkelt type ratt:
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+
 ## Infotainment
 
 ### Lydsystem
 
 Én type lydsystem er tilgjengelig for Leapmotor C10 69kWh RWD.
 
-- Med  får du 12 høyttalere med en maksimal systemeffekt på  watt.
+- Med Leapmotor sound system får du 12 høyttalere med en maksimal systemeffekt på 840 watt.
 
 ## Lys
 
-lights.technology.standard
+**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -155,6 +166,8 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
+
+Bagasjerommet tilbyr en lastekapasitet på 425 liter. Med baksetene nedfelt, utvides dette til 1410 liter.
 
 Kjøretøyets maksimale vekt er 2315 kg, med en basisvekt på 1940 kg. Dette gir en maksimal lastekapasitet på 375 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 375 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 

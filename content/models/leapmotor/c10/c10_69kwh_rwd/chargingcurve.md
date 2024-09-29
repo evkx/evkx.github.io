@@ -175,7 +175,7 @@ The charging curve for this model is derived from manufacturer data and insights
 				?
 			</td>
 			<td>
-				?
+				3,1 km (1,9 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ The charging curve for this model is derived from manufacturer data and insights
 				?
 			</td>
 			<td>
-				?
+				3,4 km (2,1 mi)
 			</td>
 			<td>
 				?
@@ -209,7 +209,7 @@ The charging curve for this model is derived from manufacturer data and insights
 				?
 			</td>
 			<td>
-				?
+				4,9 km (3,0 mi)
 			</td>
 			<td>
 				?

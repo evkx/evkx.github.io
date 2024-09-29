@@ -72,6 +72,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Rango WLTP
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>
@@ -245,6 +261,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				375 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero
+			</td>
+			<td>
+				425 litro
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1410 litro
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control por voz
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla del controlador digital
 			</td>
 			<td>
-				No disponible
+				Sí, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				No disponible
+				Sí, 14,6"
 			</td>
 		</tr>
 		<tr>

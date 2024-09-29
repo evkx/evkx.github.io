@@ -147,6 +147,12 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/frontseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
+#### Sæde på anden række
+
+Følgende funktioner er tilgængelige på **** sædet.
+
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/secondrowseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

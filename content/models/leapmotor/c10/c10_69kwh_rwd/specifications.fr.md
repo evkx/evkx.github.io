@@ -72,6 +72,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
+				Gamme WLTP
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Gamme CLTC de finition de base
 			</td>
 			<td>
@@ -245,6 +261,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				375 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Capacité du coffre
+			</td>
+			<td>
+				425 litre
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacité du coffre avec tous les sièges arrière rabattus
+			</td>
+			<td>
+				1410 litre
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de siège
 			</td>
 			<td>
-				None
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de siège
 			</td>
 			<td>
-				None
+				Banquette trois places
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle vocal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Affichage numérique du pilote
 			</td>
 			<td>
-				Non disponible
+				Oui, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Non disponible
+				Oui, 14,6"
 			</td>
 		</tr>
 		<tr>

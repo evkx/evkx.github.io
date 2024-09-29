@@ -116,6 +116,14 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
+#### Seter på andre rad
+
+Følgende funksjoner er tilgjengelige på **** setet.
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+- Black [polstring av Alcantara](../../../../technology/seats/materials/#alcantara)
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.

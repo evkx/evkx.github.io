@@ -149,6 +149,10 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
+#### Siège de deuxième rangée
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

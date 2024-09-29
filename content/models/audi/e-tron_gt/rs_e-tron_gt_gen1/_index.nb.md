@@ -143,6 +143,10 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/frontseats_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2250"  >}}
 
+#### Seter på andre rad
+
+Følgende funksjoner er tilgjengelige på **** setet.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.

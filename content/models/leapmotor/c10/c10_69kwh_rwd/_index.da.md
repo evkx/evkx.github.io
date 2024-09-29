@@ -1,7 +1,7 @@
 ---
 title: Leapmotor C10 69kWh RWD
 linktitle: "C10 69kWh RWD"
-description: "Leapmotor C10 69kWh RWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 530 km (329 miles). EVKX.net har alle detaljerne."
+description: "Leapmotor C10 69kWh RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 420 km (261 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,13 @@ Leapmotor C10 69kWh RWD har en maksimal effekt på 170 KW (231 hk/228 hk). Det s
 
 Det højkapacitetsbatteri har en bruttokapacitet på 69,9 kWh og en nettoanvendelig kapacitet på 67,0 kWh, hvilket giver en buffer på 2,9 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 530 km (329 miles). Forbruget er 12,6kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 420 km, med et energiforbrugsrate på 16,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 80kW. En fuld opladning fra 0 - 100 % ville tage 137 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 60 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 13% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 51kW. Hver opladningssession ville tage 28 minutter og 27 sekunder.
 
 ### Ombordlader
+
+Den standard ombordlader understøtter op til 6,7 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 10 timer og 0 minutter ved brug af en hjemmeoplader.
 
 ### Bidirektionel opladning
 
@@ -63,15 +65,17 @@ Den Leapmotor C10 69kWh RWD, med dimensioner på 4739 mm i længde, 1900 mm i br
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Der er kun ét tag til denne model.
+Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
+Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/exterior_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+Interiøret i Leapmotor C10 69kWh RWD er designet med en minimalistisk æstetik og har materialer af medium kvalitet overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet.
 
 ### Sæder
 
@@ -87,9 +91,9 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-Følgende funktioner er tilgængelige på **** sædet.
+Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
@@ -105,12 +109,17 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Leapmotor C10 69kWh RWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
 
 Vigtige skærmdetaljer:
 
+- Skærmen  bag rattet monteret i instrumentbrættet er 10,3 tommer stor
+- Skærmen touch i midten af midterkonsollen er 14,6 tommer stor
 
 Modellen har ikke et head-up display.
 
@@ -126,17 +135,19 @@ Leapmotor C10 69kWh RWD er udstyret med en enkelt type rat:
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
+Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+
 ## Infotainment
 
 ### Lydsystem
 
 Én type lydsystem er tilgængelig for Leapmotor C10 69kWh RWD.
 
-- Med  får du 12 højttalere med en maksimal systemeffekt på  watt.
+- Med Leapmotor sound system får du 12 højttalere med en maksimal systemeffekt på 840 watt.
 
 ## Lys
 
-lights.technology.standard
+**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -155,6 +166,8 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
+
+Bagagerummet har en lastekapacitet på 425 liter. Med det bageste sæde foldet ned, udvides dette til 1410 liter.
 
 Køretøjets maksimale vægt er 2315 kg, med en basisvægt på 1940 kg. Dette giver en maksimal last på 375 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 375 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 

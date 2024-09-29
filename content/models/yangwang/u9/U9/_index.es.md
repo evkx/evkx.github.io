@@ -114,6 +114,14 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 - Black [tapizado Alcantara](../../../../technology/seats/materials/#alcantara)
 
+#### Asiento de segunda fila
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado Alcantara](../../../../technology/seats/materials/#alcantara)
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

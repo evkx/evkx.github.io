@@ -141,6 +141,12 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
+#### Säten på andra raden
+
+Följande funktioner är tillgängliga på **** sätet.
+
+{{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/secondrowseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

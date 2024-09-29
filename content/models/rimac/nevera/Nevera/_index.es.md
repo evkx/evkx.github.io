@@ -116,6 +116,14 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
+#### Asiento de segunda fila
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado Alcantara](../../../../technology/seats/materials/#alcantara)
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

@@ -143,6 +143,10 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/frontseats_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2250"  >}}
 
+#### Siège de deuxième rangée
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

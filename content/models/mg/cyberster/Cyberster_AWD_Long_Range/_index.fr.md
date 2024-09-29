@@ -103,6 +103,15 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
+#### Siège de deuxième rangée
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
+Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Red [Alcantara/revêtement en similicuir](../../../../technology/seats/materials/#alcantara)
+
 ## Système de climatisation
 
 Un système climatique est disponible.

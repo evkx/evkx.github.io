@@ -103,6 +103,15 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
+#### Asiento de segunda fila
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Red [Alcantara/tapicería de polipiel](../../../../technology/seats/materials/#alcantara)
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

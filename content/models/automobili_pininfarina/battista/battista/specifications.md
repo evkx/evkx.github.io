@@ -614,6 +614,111 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	</tbody>
 </table>
 
+### Second row seats
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/seats/types/">Seat type</a>
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Driver Assistance
 
 <table class="table table-striped border">

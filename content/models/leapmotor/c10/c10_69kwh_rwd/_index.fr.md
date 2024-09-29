@@ -1,7 +1,7 @@
 ---
 title: Leapmotor C10 69kWh RWD
 linktitle: "C10 69kWh RWD"
-description: "Leapmotor C10 69kWh RWD est un SUV entièrement électrique avec une autonomie CLTC allant jusqu'à 530 km (329 miles). EVKX.net a tous les détails."
+description: "Leapmotor C10 69kWh RWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 420 km (261 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,13 @@ Le Leapmotor C10 69kWh RWD a une puissance maximale de 170 KW (231 ch/228 ch). L
 
 La batterie haute capacité a une capacité brute de 69,9 kWh et une capacité nette utilisable de 67,0 kWh, offrant une réserve de 2,9 kWh (4,1%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 530 km (329 miles). La consommation est de 12,6kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 420 km, avec une consommation d'énergie de 16,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 80kW. Une charge complète de 0 à 100 % prendrait 137 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 60 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 13 % et 49 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 51kW. Chaque session de charge prendrait 28 minutes et 27 secondes.
 
 ### Chargeur embarqué
+
+Le chargeur embarqué standard prend en charge jusqu'à 6,7 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 10 heures et 0 minutes à domicile.
 
 ### Recharge bidirectionnelle
 
@@ -63,15 +65,17 @@ La Leapmotor C10 69kWh RWD, avec des dimensions de 4739 mm de longueur, 1900 mm 
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
-Il n'y a qu'un seul toit pour ce modèle.
+Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/exterior_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
+
+L'intérieur du Leapmotor C10 69kWh RWD est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité moyenne. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée.
 
 ### Sièges
 
@@ -87,9 +91,9 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
@@ -105,12 +109,17 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'Leapmotor C10 69kWh RWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
 
 Détails clés de l'écran :
 
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,3 pouces
+- L'écran touch au milieu de la console centrale mesure 14,6 pouces
 
 Le modèle n'a pas d'affichage tête haute.
 
@@ -126,17 +135,19 @@ Le Leapmotor C10 69kWh RWD est équipé d'un seul type de volant :
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
 
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+
 ## Infodivertissement
 
 ### Système audio
 
 Un type de système audio est disponible pour le Leapmotor C10 69kWh RWD.
 
-- Avec le , vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Leapmotor sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 840 watts.
 
 ## Lumières
 
-lights.technology.standard
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
@@ -155,6 +166,8 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
+
+Le coffre offre une capacité de chargement de 425 litres. Avec les sièges arrière rabattus, cette capacité passe à 1410 litres.
 
 Le poids maximum du véhicule est de 2315 kg, avec un poids de base de 1940 kg. Cela permet une charge maximale de 375 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 375 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 

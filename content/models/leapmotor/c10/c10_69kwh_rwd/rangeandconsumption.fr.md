@@ -35,6 +35,32 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Garniture de base de la gamme WLTP
+				</a>
+			</td>
+			<td>
+				420 km / 261 mi
+			</td>
+			<td>
+				15,95kWh/100km / 3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Garniture haut de gamme WLTP
+				</a>
+			</td>
+			<td>
+				420 km / 261 mi
+			</td>
+			<td>
+				15,95 kWh/100km / 3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
 					Gamme CLTC
 				</a>
@@ -43,7 +69,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				530 km / 329 mi 
 			</td>
 			<td>
-				12,64kWh/100km /  mi/kWh
+				12,64kWh/100km / 3,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -69,6 +95,28 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Garniture de base de la gamme WLTP avec 2KW AC
+			</td>
+			<td>
+				 331km / 206 mi 
+			</td>
+			<td>
+				-21,2%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garniture supérieure de gamme WLTP avec 2KW AC
+			</td>
+			<td>
+				331 km / 206 mi
+			</td>
+			<td>
+				-21,2%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

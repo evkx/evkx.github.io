@@ -123,6 +123,10 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
+#### Siège de deuxième rangée
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

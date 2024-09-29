@@ -103,6 +103,15 @@ Verfügbar in:
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
+#### Rücksitzreihe
+
+Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+
+Verfügbar in:
+
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Red [Alcantara/Kunstleder-Polsterung](../../../../technology/seats/materials/#alcantara)
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

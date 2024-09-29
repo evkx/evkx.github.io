@@ -175,7 +175,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 				?
 			</td>
 			<td>
-				?
+				3,1 km (1,9 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 				?
 			</td>
 			<td>
-				?
+				3,4 km (2,1 mi)
 			</td>
 			<td>
 				?
@@ -209,7 +209,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 				?
 			</td>
 			<td>
-				?
+				4,9 km (3,0 mi)
 			</td>
 			<td>
 				?

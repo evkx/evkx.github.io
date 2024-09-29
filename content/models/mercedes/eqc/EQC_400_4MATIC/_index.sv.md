@@ -104,6 +104,12 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
+#### Säten på andra raden
+
+Följande funktioner är tillgängliga på **** sätet.
+
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

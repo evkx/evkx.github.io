@@ -148,6 +148,12 @@ Available in:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/frontseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
+#### Second Row Seat
+
+The following functionalities are available on the **** seat:
+
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/secondrowseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
+
 ## Climate System
 
 There is one climate system available:

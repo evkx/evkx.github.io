@@ -72,6 +72,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
+				WLTP-Reichweite
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				CLTC-Reichweite der Basisausstattung
 			</td>
 			<td>
@@ -245,6 +261,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				375 kg (827 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen
+			</td>
+			<td>
+				425 Liter (15 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
+			</td>
+			<td>
+				1410 Liter (50 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitztyp
 			</td>
 			<td>
-				None
+				Fahrer- und Beifahrersitz
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitztyp
 			</td>
 			<td>
-				None
+				Dreisitzbank
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sprachsteuerung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Digitales Fahrerdisplay
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Infotainment-Bildschirm
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 14,6"
 			</td>
 		</tr>
 		<tr>

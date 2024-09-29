@@ -147,6 +147,12 @@ Verfügbar in:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
+#### Rücksitzreihe
+
+Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/secondrowseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

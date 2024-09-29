@@ -72,6 +72,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
+				WLTP-område
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Basic trim CLTC range
 			</td>
 			<td>
@@ -245,6 +261,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				375 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trunkkapacitet
+			</td>
+			<td>
+				425 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagumskapacitet med alle bagsæder foldet
+			</td>
+			<td>
+				1410 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædetype
 			</td>
 			<td>
-				None
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædetype
 			</td>
 			<td>
-				None
+				Tre-sædet bænk
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Digital drivervisning
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Infotainmentskærm
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 14,6"
 			</td>
 		</tr>
 		<tr>

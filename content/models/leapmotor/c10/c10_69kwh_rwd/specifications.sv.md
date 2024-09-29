@@ -72,6 +72,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
+				WLTP-räckvidd
+			</td>
+			<td>
+				420 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-förbrukning
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				CLTC räckvidd
 			</td>
 			<td>
@@ -245,6 +261,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				375 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym
+			</td>
+			<td>
+				425 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				1410 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -287,7 +319,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +464,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>
@@ -736,6 +768,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Röststyrning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -743,6 +776,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Gestkontroll
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -779,7 +813,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +821,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 14,6
 			</td>
 		</tr>
 		<tr>

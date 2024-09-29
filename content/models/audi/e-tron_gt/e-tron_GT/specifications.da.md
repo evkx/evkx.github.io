@@ -1223,6 +1223,111 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
+### Sæder på anden række
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sædetype
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Højdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Længdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets sidestøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af sædehyndes sidestøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fodstøttepassagerer
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassager
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk lændejustering
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædeventilation
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Førerassistent
 
 <table class="table table-striped border">

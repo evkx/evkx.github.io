@@ -1,7 +1,7 @@
 ---
 title: Leapmotor C10 69kWh RWD
 linktitle: "C10 69kWh RWD"
-description: "Leapmotor C10 69kWh RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 530 km (329 Meilen). EVKX.net hat alle Details."
+description: "Leapmotor C10 69kWh RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 420 km (261 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,13 @@ Der Leapmotor C10 69kWh RWD hat eine maximale Leistung von 170 kW (231 PS/228 bh
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 69,9 kWh und eine nutzbare Nettokapazität von 67,0 kWh, was einen Puffer von 2,9 kWh (4,1%) zum Schutz der Batterie bietet. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 530 km (329 Meilen). Der Energieverbrauch beträgt 12,6 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 420 km (261 Meilen) mit einem Energieverbrauch von 16,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 80 kW. Das Laden von 0% auf 100% dauert etwa 137 Minuten, während ein typischer Ladevorgang von 10% auf 80% 60 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 47 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 13% und 49%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 51 kW, wobei jede Ladesitzung etwa 28 Minuten und 27 Sekunden dauert.
 
 ### Bordladegerät
+
+Das  Onboard-Ladegerät unterstützt bis zu 6,7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 10 Stunden und 0 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Bidirektionales Laden
 
@@ -63,15 +65,17 @@ Der Leapmotor C10 69kWh RWD, mit Abmessungen von 4739 mm Länge, 1900 mm Breite 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 
-Es gibt nur eine Dachoption für dieses Modell.
+Es gibt nur eine Dachoption für dieses Modell. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
-Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hinten bestellen, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/exterior_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Das Interieur des Leapmotor C10 69kWh RWD ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer, bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität.
 
 ### Sitze
 
@@ -87,9 +91,9 @@ Verfügbar in:
 
 #### Rücksitzreihe
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-Verfügbar in:
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
@@ -105,12 +109,17 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der Leapmotor C10 69kWh RWD umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
+- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
+- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
 
 Wichtige Bildschirmdetails:
 
+- Der -Bildschirm hinter dem Lenkrad im Armaturenbrett montiert ist 10,3 Zoll groß.
+- Der touch-Bildschirm in der Mitte der Mittelkonsole ist 14,6 Zoll groß.
 
 Das Modell verfügt nicht über ein Head-up-Display.
 
@@ -126,17 +135,19 @@ Der Leapmotor C10 69kWh RWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
 ## Infotainment
 
 ### Soundsystem
 
 Der Leapmotor C10 69kWh RWD ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Leapmotor sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von 840 Watt.
 
 ## Lichter
 
-lights.technology.standard
+**Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -155,6 +166,8 @@ Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
+
+Der Kofferraum bietet ein Ladevolumen von 425 Litern (15,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1410 Liter (49,8 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2315 kg (5104 lbs) bei einem Leergewicht von 1940 kg (4277 lbs). Dies ermöglicht eine maximale Zuladung von 375 kg (827 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 375 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 

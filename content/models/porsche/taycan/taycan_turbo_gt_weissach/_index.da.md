@@ -123,6 +123,10 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
+#### Sæde på anden række
+
+Følgende funktioner er tilgængelige på **** sædet.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

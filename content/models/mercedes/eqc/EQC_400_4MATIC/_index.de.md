@@ -104,6 +104,12 @@ Verfügbar in:
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
+#### Rücksitzreihe
+
+Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+
+Verfügbar in:
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
