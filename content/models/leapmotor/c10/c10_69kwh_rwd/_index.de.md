@@ -79,6 +79,8 @@ Das Interieur des Leapmotor C10 69kWh RWD ist mit einer minimalistischen Ästhet
 
 ### Sitze
 
+Der Leapmotor C10 69kWh RWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Leapmotor C10 69kWh RWD bietet nur einen Typ von Vordersitz.
@@ -91,7 +93,7 @@ Verfügbar in:
 
 #### Rücksitzreihe
 
-Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
@@ -162,6 +164,11 @@ Der Leapmotor C10 69kWh RWD verfügt über eine Reihe von standardmäßigen und 
 ### Fahrautomatisierung
 
 Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

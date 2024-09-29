@@ -79,6 +79,8 @@ L'intérieur du Leapmotor C10 69kWh RWD est conçu avec une esthétique minimali
 
 ### Sièges
 
+Le Leapmotor C10 69kWh RWD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Leapmotor C10 69kWh RWD propose un seul type de siège avant.
@@ -91,7 +93,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
@@ -162,6 +164,11 @@ Le Leapmotor C10 69kWh RWD comprend plusieurs [systèmes avancés d'assistance a
 ### Automatisation de la Conduite
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

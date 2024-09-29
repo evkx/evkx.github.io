@@ -15,6 +15,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube Y41gKSFmL7U >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Maserati-Tuned €16.5k Family SUV - Leapmotor C10 Review</h3>
+<p>Telescope: 15.08.2024</p>
+
+{{< youtube Ap6mufIuywc >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>

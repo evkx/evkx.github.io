@@ -79,6 +79,8 @@ Interiøret i Leapmotor C10 69kWh RWD er designet med en minimalistisk æstetik 
 
 ### Sæder
 
+Leapmotor C10 69kWh RWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Leapmotor C10 69kWh RWD tilbyder kun én type forreste sæde.
@@ -91,7 +93,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
@@ -162,6 +164,11 @@ Den Leapmotor C10 69kWh RWD inkluderer flere standard- og valgfri [avancerede f�
 ### Køreautomatisering
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
