@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/bmw/ix/ix_xdrive40/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/bmw/ix/ix_xdrive40/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladetid 0-100%
+			</td>
+			<td>
+				1 h 1 m 25 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-100%
+			</td>
+			<td>
+				 57 m 56 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-80%
+			</td>
+			<td>
+				 34 m 22 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

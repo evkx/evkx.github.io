@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/volvo/xc40/xc40_recharge_single_motor_er/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/volvo/xc40/xc40_recharge_single_motor_er/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				1 h 4 m 41 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				1 h 1 m 48 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 27 m 59 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

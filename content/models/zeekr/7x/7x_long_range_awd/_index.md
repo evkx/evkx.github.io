@@ -223,7 +223,10 @@ The Zeekr 7X Long Range AWD comes with a dedicated mobile app, available for bot
 
 ## Lights
 
-lights.technology.standard.led.drlsignatures
+You can choose between two types of headlights for the Zeekr 7X Long Range AWD.
+
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- The optional LED headlights feature multiple LED segments, allowing you to customize your preferred daytime running light (DRL) signature.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 

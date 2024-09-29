@@ -106,6 +106,44 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <img src="/images/models/nio/el6/el6/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/el6/el6/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladetid 0-100%
+			</td>
+			<td>
+				1 h 15 m 20 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-100%
+			</td>
+			<td>
+				1 h 10 m 10 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-80%
+			</td>
+			<td>
+				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
@@ -1645,6 +1683,44 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 <img src="/images/models/nio/el6/el6/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/el6/el6/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladetid 0-100%
+			</td>
+			<td>
+				1 h 4 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-100%
+			</td>
+			<td>
+				 57 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-80%
+			</td>
+			<td>
+				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

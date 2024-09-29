@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/porsche/taycan/taycan_turbo_gt/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/taycan/taycan_turbo_gt/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				 46 m 5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				 43 m 52 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 15 m 22 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

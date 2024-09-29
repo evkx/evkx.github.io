@@ -109,6 +109,44 @@ The charging curve for this model is derived from manufacturer data and insights
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/onvo/l60/l60_rwd/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Charging time 0 - 100%
+			</td>
+			<td>
+				 36 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-100%
+			</td>
+			<td>
+				 34 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-80%
+			</td>
+			<td>
+				 20 m 11 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
@@ -1651,6 +1689,44 @@ The charging curve for this model is derived from manufacturer data and insights
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/onvo/l60/l60_rwd/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Charging time 0 - 100%
+			</td>
+			<td>
+				 46 m 39 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-100%
+			</td>
+			<td>
+				 41 m 14 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-80%
+			</td>
+			<td>
+				 24 m 36 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

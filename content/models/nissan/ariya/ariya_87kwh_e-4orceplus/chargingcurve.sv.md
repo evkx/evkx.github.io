@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/nissan/ariya/ariya_87kwh_e-4orceplus/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nissan/ariya/ariya_87kwh_e-4orceplus/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningstid 0-100%
+			</td>
+			<td>
+				1 h 3 m 20 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-100%
+			</td>
+			<td>
+				 57 m 17 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-80%
+			</td>
+			<td>
+				 34 m 4 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

@@ -106,6 +106,44 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				 51 m 43 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 49 m 32 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 27 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -1648,6 +1686,44 @@ Tesla Model Y Standard Range verfügt über eine Batterieheizung, die das Laden 
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				 36 m 49 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 34 m 39 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 17 m 53 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -3190,6 +3266,44 @@ Tesla Model Y Standard Range verfügt über eine Batterieheizung, die das Laden 
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_3.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime3.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				1 h 24 m 6 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				1 h 21 m 48 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 40 m 50 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -4732,6 +4846,44 @@ Tesla Model Y Standard Range verfügt über eine Batterieheizung, die das Laden 
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_4.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime4.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				 40 m 10 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 37 m 28 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 23 m 28 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

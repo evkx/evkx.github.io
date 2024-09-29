@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/mg/cyberster/cyberster_awd_long_range/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/mg/cyberster/cyberster_awd_long_range/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Temps de charge 0-100%
+			</td>
+			<td>
+				1 h 40 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-100%
+			</td>
+			<td>
+				1 h 35 m 28 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-80%
+			</td>
+			<td>
+				 32 m 25 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

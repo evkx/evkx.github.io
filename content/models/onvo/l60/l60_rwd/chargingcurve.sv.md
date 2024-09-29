@@ -109,6 +109,44 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/onvo/l60/l60_rwd/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningstid 0-100%
+			</td>
+			<td>
+				 36 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-100%
+			</td>
+			<td>
+				 34 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-80%
+			</td>
+			<td>
+				 20 m 11 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
@@ -1651,6 +1689,44 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/onvo/l60/l60_rwd/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningstid 0-100%
+			</td>
+			<td>
+				 46 m 39 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-100%
+			</td>
+			<td>
+				 41 m 14 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-80%
+			</td>
+			<td>
+				 24 m 36 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

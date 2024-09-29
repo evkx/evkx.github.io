@@ -109,6 +109,44 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/onvo/l60/l60_rwd/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				 36 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				 34 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 20 m 11 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
@@ -1651,6 +1689,44 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/onvo/l60/l60_rwd/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				 46 m 39 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				 41 m 14 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 24 m 36 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

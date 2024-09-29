@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/jaguar/i-pace/i-pace_ev400/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/jaguar/i-pace/i-pace_ev400/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tiempo de carga 0-100%
+			</td>
+			<td>
+				1 h 44 m 36 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tiempo de carga 10-100%
+			</td>
+			<td>
+				1 h 32 m 40 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tiempo de carga 10-80%
+			</td>
+			<td>
+				 49 m 19 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

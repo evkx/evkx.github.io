@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/porsche/taycan/taycan_turbo_cross_turismo/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/taycan/taycan_turbo_cross_turismo/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Charging time 0 - 100%
+			</td>
+			<td>
+				 46 m 5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-100%
+			</td>
+			<td>
+				 43 m 52 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-80%
+			</td>
+			<td>
+				 15 m 22 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

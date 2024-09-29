@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/audi/q8_e-tron/q8_sportback_50_e-tron/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/audi/q8_e-tron/q8_sportback_50_e-tron/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				 45 m 53 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				 41 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 26 m 54 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

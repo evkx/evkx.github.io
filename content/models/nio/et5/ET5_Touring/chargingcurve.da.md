@@ -106,6 +106,44 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 <img src="/images/models/nio/et5/et5_touring/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/et5/et5_touring/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				1 h 15 m 20 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				1 h 10 m 10 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
@@ -1648,6 +1686,44 @@ Nio ET5 Touring har batteriopvarmning, hvilket gør opladning ved en optimal bat
 <img src="/images/models/nio/et5/et5_touring/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/et5/et5_touring/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Opladningstid 0 - 100%
+			</td>
+			<td>
+				1 h 4 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-100%
+			</td>
+			<td>
+				 57 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Opladningstid 10-80%
+			</td>
+			<td>
+				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

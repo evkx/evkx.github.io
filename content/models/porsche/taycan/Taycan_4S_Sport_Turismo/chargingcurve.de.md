@@ -106,6 +106,44 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 <img src="/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				 50 m 21 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 47 m 25 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 17 m 57 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -1648,6 +1686,44 @@ Porsche Taycan 4S Sport Turismo verfügt über eine Batterieheizung, die das Lad
 <img src="/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				 46 m 5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 43 m 52 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 15 m 22 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

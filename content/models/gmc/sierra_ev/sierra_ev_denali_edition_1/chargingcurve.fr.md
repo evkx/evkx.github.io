@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/gmc/sierra_ev/sierra_ev_denali_edition_1/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/gmc/sierra_ev/sierra_ev_denali_edition_1/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Temps de charge 0-100%
+			</td>
+			<td>
+				2 h 19 m 48 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-100%
+			</td>
+			<td>
+				2 h 15 m 39 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-80%
+			</td>
+			<td>
+				 48 m 40 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

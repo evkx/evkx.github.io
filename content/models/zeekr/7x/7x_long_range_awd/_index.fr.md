@@ -223,7 +223,10 @@ Le Zeekr 7X Long Range AWD est accompagné de son application mobile dédiée, d
 
 ## Lumières
 
-lights.technology.standard.led.drlsignatures
+Vous pouvez choisir entre deux types de phares pour le Zeekr 7X Long Range AWD.
+
+- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+- Les phares LED optionnels comportent plusieurs segments LED, vous permettant de personnaliser votre signature de feux de jour (DRL).
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

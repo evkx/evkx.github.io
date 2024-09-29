@@ -106,6 +106,44 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 <img src="/images/models/porsche/taycan/taycan_4s_sport_turismo_gen1/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo_gen1/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Temps de charge 0-100%
+			</td>
+			<td>
+				 45 m 17 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-100%
+			</td>
+			<td>
+				 43 m 10 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-80%
+			</td>
+			<td>
+				 19 m 3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
@@ -1648,6 +1686,44 @@ Porsche Taycan 4S Sport Turismo (GEN1) dispose d'un chauffage de batterie, ce qu
 <img src="/images/models/porsche/taycan/taycan_4s_sport_turismo_gen1/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo_gen1/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Temps de charge 0-100%
+			</td>
+			<td>
+				 50 m 24 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-100%
+			</td>
+			<td>
+				 47 m 29 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-80%
+			</td>
+			<td>
+				 17 m 58 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

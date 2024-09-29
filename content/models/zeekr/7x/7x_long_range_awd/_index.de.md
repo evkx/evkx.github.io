@@ -223,7 +223,10 @@ Der Zeekr 7X Long Range AWD wird mit einer speziellen mobilen App geliefert, die
 
 ## Lichter
 
-lights.technology.standard.led.drlsignatures
+Sie können zwischen zwei Scheinwerfertypen für den Zeekr 7X Long Range AWD wählen.
+
+- **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
+- Die optionalen LED-Scheinwerfer verfügen über mehrere LED-Segmente, die es Ihnen ermöglichen, Ihre bevorzugte Tagfahrlicht (DRL)-Signatur anzupassen.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 

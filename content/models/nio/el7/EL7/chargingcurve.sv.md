@@ -106,6 +106,44 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 <img src="/images/models/nio/el7/el7/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/el7/el7/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningstid 0-100%
+			</td>
+			<td>
+				1 h 15 m 20 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-100%
+			</td>
+			<td>
+				1 h 10 m 10 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-80%
+			</td>
+			<td>
+				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
@@ -1648,6 +1686,44 @@ Nio EL7 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 <img src="/images/models/nio/el7/el7/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/el7/el7/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningstid 0-100%
+			</td>
+			<td>
+				1 h 4 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-100%
+			</td>
+			<td>
+				 57 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-80%
+			</td>
+			<td>
+				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

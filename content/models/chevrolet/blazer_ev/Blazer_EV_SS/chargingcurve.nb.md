@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/chevrolet/blazer_ev/blazer_ev_ss/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/chevrolet/blazer_ev/blazer_ev_ss/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladetid 0-100%
+			</td>
+			<td>
+				2 h 26 m 45 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-100%
+			</td>
+			<td>
+				2 h 20 m 51 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-80%
+			</td>
+			<td>
+				 26 m 20 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

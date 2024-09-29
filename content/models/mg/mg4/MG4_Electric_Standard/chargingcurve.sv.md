@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/mg/mg4/mg4_electric_standard/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/mg/mg4/mg4_electric_standard/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningstid 0-100%
+			</td>
+			<td>
+				 44 m 32 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-100%
+			</td>
+			<td>
+				 41 m 4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Laddningstid 10-80%
+			</td>
+			<td>
+				 20 m 19 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

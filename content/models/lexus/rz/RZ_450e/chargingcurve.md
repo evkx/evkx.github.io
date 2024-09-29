@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/lexus/rz/rz_450e/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/lexus/rz/rz_450e/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Charging time 0 - 100%
+			</td>
+			<td>
+				2 h 21 m 25 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-100%
+			</td>
+			<td>
+				2 h 17 m 26 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-80%
+			</td>
+			<td>
+				 34 m 28 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

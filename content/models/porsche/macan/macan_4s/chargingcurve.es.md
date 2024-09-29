@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/porsche/macan/macan_4s/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/porsche/macan/macan_4s/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tiempo de carga 0-100%
+			</td>
+			<td>
+				 58 m 55 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tiempo de carga 10-100%
+			</td>
+			<td>
+				 56 m 23 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tiempo de carga 10-80%
+			</td>
+			<td>
+				 20 m 21 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

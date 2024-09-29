@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/honda/prologue/prologue_fwd/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/honda/prologue/prologue_fwd/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Temps de charge 0-100%
+			</td>
+			<td>
+				1 h 6 m 9 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-100%
+			</td>
+			<td>
+				1 h 0 m 15 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temps de charge 10-80%
+			</td>
+			<td>
+				 31 m 32 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

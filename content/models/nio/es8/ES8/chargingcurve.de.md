@@ -106,6 +106,44 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 <img src="/images/models/nio/es8/es8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/es8/es8/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				1 h 22 m 38 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				1 h 13 m 3 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 43 m 24 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -1648,6 +1686,44 @@ Nio ES8 verfügt über eine Batterieheizung, die das Laden bei optimaler Batteri
 <img src="/images/models/nio/es8/es8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/es8/es8/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				1 h 4 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 57 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

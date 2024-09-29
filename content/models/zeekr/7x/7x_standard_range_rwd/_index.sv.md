@@ -225,7 +225,10 @@ Zeekr 7X Standard Range RWD kommer med en egen dedikerad mobilapp, tillgänglig 
 
 ## Ljus
 
-lights.technology.standard.led.drlsignatures
+Du kan välja mellan två typer av strålkastare för Zeekr 7X Standard Range RWD.
+
+- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- De valfria LED-strålkastarna har flera LED-segment, vilket gör att du kan anpassa din föredragna dagsljussignatur (DRL).
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 

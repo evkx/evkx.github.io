@@ -105,6 +105,44 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 <img src="/images/models/fiat/grande_panda/grande_panda/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/fiat/grande_panda/grande_panda/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tiempo de carga 0-100%
+			</td>
+			<td>
+				1 h 5 m 45 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tiempo de carga 10-100%
+			</td>
+			<td>
+				 51 m 58 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tiempo de carga 10-80%
+			</td>
+			<td>
+				 25 m 10 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

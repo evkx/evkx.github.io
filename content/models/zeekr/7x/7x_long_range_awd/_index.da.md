@@ -223,7 +223,10 @@ Den Zeekr 7X Long Range AWD kommer med sin dedikerede mobilapp, tilgængelig til
 
 ## Lys
 
-lights.technology.standard.led.drlsignatures
+Du kan vælge mellem to typer forlygter til Zeekr 7X Long Range AWD.
+
+- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+- De valgfrie LED-forlygter har flere LED-segmenter, hvilket giver dig mulighed for at tilpasse din foretrukne kørelys (DRL) signatur.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 

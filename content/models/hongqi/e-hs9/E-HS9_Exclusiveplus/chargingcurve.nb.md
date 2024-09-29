@@ -102,6 +102,44 @@ navicon: bi-battery-charging
 <img src="/images/models/hongqi/e-hs9/e-hs9_exclusiveplus/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/hongqi/e-hs9/e-hs9_exclusiveplus/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladetid 0-100%
+			</td>
+			<td>
+				1 h 54 m 18 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-100%
+			</td>
+			<td>
+				1 h 48 m 18 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladetid 10-80%
+			</td>
+			<td>
+				1 h 2 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

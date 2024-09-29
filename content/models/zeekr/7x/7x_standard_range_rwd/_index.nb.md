@@ -225,7 +225,10 @@ Zeekr 7X Standard Range RWD kommer med sin egen dedikerte mobilapp, tilgjengelig
 
 ## Lys
 
-lights.technology.standard.led.drlsignatures
+Du kan velge mellom to typer frontlykter for Zeekr 7X Standard Range RWD.
+
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+- De valgfrie LED-frontlyktene har flere LED-segmenter, som lar deg tilpasse din foretrukne signatur for kjørelys (DRL).
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 

@@ -106,6 +106,44 @@ This model is available with multiple batteries. Below you find the performance 
 <img src="/images/models/nio/et5/et5_touring/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/et5/et5_touring/chargingtime1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Charging time 0 - 100%
+			</td>
+			<td>
+				1 h 15 m 20 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-100%
+			</td>
+			<td>
+				1 h 10 m 10 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-80%
+			</td>
+			<td>
+				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
@@ -1648,6 +1686,44 @@ Nio ET5 Touring have battery heating, making charging at an optimum battery temp
 <img src="/images/models/nio/et5/et5_touring/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/nio/et5/et5_touring/chargingtime2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Charging time 0 - 100%
+			</td>
+			<td>
+				1 h 4 m 44 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-100%
+			</td>
+			<td>
+				 57 m 13 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charging time 10-80%
+			</td>
+			<td>
+				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

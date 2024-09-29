@@ -105,6 +105,44 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 <img src="/images/models/hyundai/inster/inster_long_range/chargingtime.svg" alt="Charging time" class="img-fluid">
 
 [Full screen](/images/models/hyundai/inster/inster_long_range/chargingtime.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladezeit 0-100%
+			</td>
+			<td>
+				1 h 3 m 59 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-100%
+			</td>
+			<td>
+				 59 m 39 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladezeit 10-80%
+			</td>
+			<td>
+				 29 m 50 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
