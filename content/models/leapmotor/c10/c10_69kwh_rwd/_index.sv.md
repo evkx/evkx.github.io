@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av Leapmotor C10 69kWh RWD i avsnitt. Om du vil
 
 ## Prestanda
 
-Leapmotor C10 69kWh RWD har en maximal effekt på 170 KW (231hk). Totalt vridmoment är 320 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder.
+Leapmotor C10 69kWh RWD har en maximal effekt på 170 KW (231hk). Totalt vridmoment är 320 Nm. Den gör sprinten 0-100 km/h på 7,29 sekunder.
 
 ## Batteri, räckvidd och laddning
 
@@ -52,7 +52,7 @@ Leapmotor C10 69kWh RWD har ett bakhjulsdriftssystem som stöds av en motor på 
 
 ### Hjulupphängning
 
-Fjädringen  har en fast höjd och dämpning.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
 
 ### Bromsar
 
@@ -61,7 +61,14 @@ Fjädringen  har en fast höjd och dämpning.
 
 ## Exteriör
 
-Leapmotor C10 69kWh RWD, med dimensioner på 4739 mm i längd, 1900 mm i bredd och 1680 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
+Leapmotor C10 69kWh RWD, med dimensioner på 4739 mm i längd, 1900 mm i bredd och 1680 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Leapmotor C10 69kWh RWD finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Leapmotor C10 69kWh RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 däck på 18" fälgar
+- 245/45 däck på 20" fälgar
+
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -75,7 +82,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Leapmotor C10 69kWh RWD är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. Den delade mittkonsolen separerar föraren och passageraren, vilket erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet.
+Interiören i Leapmotor C10 69kWh RWD är minimalistisk och har högkvalitativa material i flera områden istället för hårdplast. Den delade mittkonsolen separerar föraren och passageraren, vilket erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -87,7 +94,14 @@ Leapmotor C10 69kWh RWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar för förare, inte tillgänglig för passagerare)
+
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
+- Purple [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Orange [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/frontseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
@@ -131,7 +145,7 @@ Modellen är inte tillgänglig med head-up display.
 
 Leapmotor C10 69kWh RWD är utrustad med en enda typ av ratt:
 
-- uicontrols.steeringwheel.infotainment
+- uicontrols.steeringwheel.optionalheating.infotainment
 
 ### Speglar
 
@@ -161,14 +175,31 @@ Leapmotor C10 69kWh RWD inkluderar flera [avancerade förarassistanssystem](../.
 
 ### Säkerhetssystem
 
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Leapmotor C10 69kWh RWD, detta system förhindrar att hjulen låser sig under bromsning.
+
+[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Leapmotor C10 69kWh RWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Leapmotor C10 69kWh RWD, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Leapmotor C10 69kWh RWD, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Leapmotor C10 69kWh RWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Valfritt på Leapmotor C10 69kWh RWD, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+
 ### Körautomatisering
 
-Med standardutrustningen erbjuder modellen ingen körautomatisering.
+Med Leapmotor Pilot   nivå 2-systemet får du följande funktioner för körautomatisering.
+
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 
-Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
-Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för sina förarassistanssystem.
+driverassistance.CameraRadarLidarUltrasonic.TrueFalseTrueTrue
 
 {{<evkxdisplayaddarticle />}}
 

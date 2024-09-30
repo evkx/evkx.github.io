@@ -114,14 +114,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 - Black [Revêtement Alcantara](../../../../technology/seats/materials/#alcantara)
 
-#### Siège de deuxième rangée
-
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
-
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
-- Black [Revêtement Alcantara](../../../../technology/seats/materials/#alcantara)
-
 ## Système de climatisation
 
 Un système climatique est disponible.

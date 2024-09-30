@@ -103,15 +103,6 @@ Available in:
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
-#### Second Row Seat
-
-The following functionalities are available on the **** seat:
-
-Available in:
-
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Red [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
-
 ## Climate System
 
 There is one climate system available:

@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Leapmotor
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7,3 s
+				7,29 s
 			</td>
 		</tr>
 	</tbody>
@@ -294,6 +294,110 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Suspension adaptative
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement réglable avant
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement arrière réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant réglable en hauteur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hauteur arrière réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol maximale
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol minimale
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur avant
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur arrière
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant à ressort
+			</td>
+			<td>
+				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type à ressort arrière
+			</td>
+			<td>
+				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -328,7 +432,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -336,7 +440,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -344,7 +448,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +528,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -570,6 +674,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Maintien de la voie
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -577,6 +682,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de sortie de voie
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -584,6 +690,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -591,6 +698,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméra de recul
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -598,6 +706,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméra 360
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -605,6 +714,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de trafic transversal arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -612,6 +722,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -619,6 +730,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -626,6 +738,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -633,6 +746,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à la descente
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -640,6 +754,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -647,6 +762,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Système de freinage antiblocage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +770,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Freinage d'urgence automatique
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -661,6 +778,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au freinage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -668,6 +786,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle de traction
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -717,6 +836,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -724,6 +844,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -731,6 +852,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -738,6 +860,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Vision nocturne
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -762,6 +885,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage tête haute
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

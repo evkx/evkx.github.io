@@ -114,14 +114,6 @@ Verfügbar in:
 
 - Black [Alcantara-Polsterung](../../../../technology/seats/materials/#alcantara)
 
-#### Rücksitzreihe
-
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
-Verfügbar in:
-
-- Black [Alcantara-Polsterung](../../../../technology/seats/materials/#alcantara)
-
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

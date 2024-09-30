@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Leapmotor C10 69kW
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7,3 s
+				7,29 s
 			</td>
 		</tr>
 	</tbody>
@@ -294,6 +294,110 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Suspensión adaptativa
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortiguación delantera ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortiguación trasera ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frente regulable en altura
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Altura trasera ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia máxima al suelo
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia mínima al suelo
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de amortiguador delantero
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de amortiguador trasero
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Delantero tipo resorte
+			</td>
+			<td>
+				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trasero tipo resorte
+			</td>
+			<td>
+				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -328,7 +432,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -336,7 +440,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -344,7 +448,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +528,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -570,6 +674,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Mantenerse en el carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -577,6 +682,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de cambio de carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -584,6 +690,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -591,6 +698,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámara de marcha atrás
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -598,6 +706,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámara 360
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -605,6 +714,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -612,6 +722,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -619,6 +730,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -626,6 +738,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -633,6 +746,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -640,6 +754,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -647,6 +762,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +770,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Frenado automático de emergencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -661,6 +778,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -668,6 +786,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -717,6 +836,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -724,6 +844,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -731,6 +852,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -738,6 +860,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Visión nocturna
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -762,6 +885,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla frontal
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

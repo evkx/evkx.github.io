@@ -114,14 +114,6 @@ Available in:
 
 - Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
 
-#### Second Row Seat
-
-The following functionalities are available on the **** seat:
-
-Available in:
-
-- Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
-
 ## Climate System
 
 There is one climate system available:

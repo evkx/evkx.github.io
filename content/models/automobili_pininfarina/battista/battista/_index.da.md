@@ -114,14 +114,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 - Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)
 
-#### Sæde på anden række
-
-Følgende funktioner er tilgængelige på **** sædet.
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
-- Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

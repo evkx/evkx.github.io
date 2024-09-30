@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Leapmotor C10 69kWh 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7,3 s
+				7,29 s
 			</td>
 		</tr>
 	</tbody>
@@ -294,6 +294,110 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adaptive suspension</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable damping front</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable damping rear</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable height front</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable height rear</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Max ground clearance</a>
+			</td>
+			<td>
+				180 mm (7,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Minimum ground clearance</a>
+			</td>
+			<td>
+				180 mm (7,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Damper type front</a>
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Damper type rear</a>
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Spring type front</a>
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Spring type rear</a>
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -328,7 +432,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -336,7 +440,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -344,7 +448,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +528,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -570,6 +674,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanekeepingassist/">Lane keeping</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -577,6 +682,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -584,6 +690,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -591,6 +698,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -598,6 +706,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -605,6 +714,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -612,6 +722,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -619,6 +730,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -626,6 +738,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -633,6 +746,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -640,6 +754,7 @@ This model is available with a seat configuration with five seats.
 				Hill start assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -647,6 +762,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +770,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -661,6 +778,7 @@ This model is available with a seat configuration with five seats.
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -668,6 +786,7 @@ This model is available with a seat configuration with five seats.
 				Traction control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -717,6 +836,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -724,6 +844,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -731,6 +852,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -738,6 +860,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 	</tbody>
@@ -762,6 +885,7 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

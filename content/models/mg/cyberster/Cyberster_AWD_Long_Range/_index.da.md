@@ -103,15 +103,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
-#### Sæde på anden række
-
-Følgende funktioner er tilgængelige på **** sædet.
-
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
-- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Red [Alcantara/læderbetræk](../../../../technology/seats/materials/#alcantara)
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

@@ -116,14 +116,6 @@ Verfügbar in:
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
-#### Rücksitzreihe
-
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
-Verfügbar in:
-
-- Black [Alcantara-Polsterung](../../../../technology/seats/materials/#alcantara)
-
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

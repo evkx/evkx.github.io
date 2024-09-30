@@ -116,14 +116,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
-#### Säten på andra raden
-
-Följande funktioner är tillgängliga på **** sätet.
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
-- Black [Alcantara klädsel](../../../../technology/seats/materials/#alcantara)
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

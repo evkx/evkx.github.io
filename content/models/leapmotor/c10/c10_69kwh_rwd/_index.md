@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Leapmotor C10 69kWh RWD has a maximum power of 170 KW (231 hp/228 bhp) and a total torque of 320 nm (236 lb-ft). It can sprint from 0 to 100km/h (0 to 62mph) in 7.3 seconds
+The Leapmotor C10 69kWh RWD has a maximum power of 170 KW (231 hp/228 bhp) and a total torque of 320 nm (236 lb-ft). It can sprint from 0 to 100km/h (0 to 62mph) in 7.29 seconds
 
 ## Battery, Range, and Charging
 
@@ -52,7 +52,7 @@ The Leapmotor C10 69kWh RWD has a rear-wheel drive system supported by one motor
 
 ### Suspension
 
-The  suspension has a fixed height and damping.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm.
 
 ### Brakes
 
@@ -61,7 +61,14 @@ The  suspension has a fixed height and damping.
 
 ## Exterior
 
-The Leapmotor C10 69kWh RWD, with dimensions of 4739 mm in length, 1900 mm in width, and 1680 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 1 different paint colors when ordering this model.
+The Leapmotor C10 69kWh RWD, with dimensions of 4739 mm in length, 1900 mm in width, and 1680 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Leapmotor C10 69kWh RWD is available in a total of 6 paint colors, including both solid and metallic options.
+
+The Leapmotor C10 69kWh RWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 18" rims
+- 245/45 tires on 20" rims
+
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -75,7 +82,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Leapmotor C10 69kWh RWD is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
+The interior of the Leapmotor C10 69kWh RWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -87,7 +94,14 @@ The Leapmotor C10 69kWh RWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, not available for passenger)
+
 Available in:
+
+- Purple [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Orange [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/frontseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
@@ -131,7 +145,7 @@ The model does not include a head-up display.
 
 The Leapmotor C10 69kWh RWD is equipped with a single type of steering wheel:
 
-- uicontrols.steeringwheel.infotainment
+- uicontrols.steeringwheel.optionalheating.infotainment
 
 ### Mirrors
 
@@ -161,14 +175,31 @@ The Leapmotor C10 69kWh RWD features a range of standard and optional [advanced 
 
 ### Safety Systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Leapmotor C10 69kWh RWD, this system prevents the wheels from locking during braking.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Leapmotor C10 69kWh RWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Leapmotor C10 69kWh RWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Leapmotor C10 69kWh RWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Leapmotor C10 69kWh RWD, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Optional on the Leapmotor C10 69kWh RWD, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
-With the standard system the model offers no driving automation.
+With the Leapmotor Pilot   level 2 system, you get the following driving automation features.
+
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 
-This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+This model uses cameras, radar, LiDAR and ultrasonic sensors for its driver assist systems.
+driverassistance.CameraRadarLidarUltrasonic.TrueFalseTrueTrue
 
 {{<evkxdisplayaddarticle />}}
 

@@ -116,14 +116,6 @@ Available in:
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
-#### Second Row Seat
-
-The following functionalities are available on the **** seat:
-
-Available in:
-
-- Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
-
 ## Climate System
 
 There is one climate system available:
