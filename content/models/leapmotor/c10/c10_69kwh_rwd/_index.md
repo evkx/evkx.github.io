@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 69.9 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 420 km (261 miles), with an energy consumption rate of 16.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 80 kW. Charging from 0% to 100% takes approximately 119 minutes, while a more typical scenario from 10% to 80% takes 45 minutes with an average charging speed of 63 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 16% to 65%. This results in an effective charging speed, including time lost, of 60 kW, with each charging session taking about 33 minutes and 35 seconds.
+The vehicle supports fast DC charging with a maximum power of 80 kW. Charging from 0% to 100% takes approximately 109 minutes, while a more typical scenario from 10% to 80% takes 41 minutes with an average charging speed of 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 16% to 80%. This results in an effective charging speed, including time lost, of 63 kW, with each charging session taking about 41 minutes and 50 seconds.
 
 ### Onboard Charger
 
@@ -64,6 +64,7 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
 ## Exterior
 
@@ -158,7 +159,7 @@ The model does not include a head-up display.
 
 The Leapmotor C10 69kWh RWD is equipped with a single type of steering wheel:
 
-- uicontrols.steeringwheel.oval.optionalheating.infotainment
+- **Oval Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also includes two multifunctional scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -173,6 +174,8 @@ This model comes equipped with voice control as standard, allowing you to manage
 The Leapmotor C10 69kWh RWD comes equipped with one sound system option:
 
 - **Leapmotor sound system:** Features 12 speakers and delivers a maximum output of 840 watts.
+
+Additionally, the model includes 1 USB-C connections as standard. As an option, you can get additional 1 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 1 USB-C connections.
 
 ## Lights
 
@@ -218,7 +221,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), one
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 425 liters (15.0 CU FT). With the rear seat folded down, this expands to 1410 liters (49.8 CU FT).
+The trunk offers a cargo capacity of 425 liters (15.0 CU FT). With the rear seat folded down, this expands to 1410 liters (49.8 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2315 kg (5104 lbs), with a base weight of 1940 kg (4277 lbs). This allows for a maximum load of 375 kg (827 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 375kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 

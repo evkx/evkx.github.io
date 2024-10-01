@@ -34,7 +34,7 @@ Høykapasitetsbatteriet har en brutto kapasitet på 69,9 kWh og en netto brukbar
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 420 km, med et energiforbruk på 16,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 80 kW. En full lading fra 0 - 100 % vil ta 119 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 16% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 60kW. Hver ladeøkt vil ta 33 minutter og 35 sekunder.
+Maksimal DC-ladehastighet er 80 kW. En full lading fra 0 - 100 % vil ta 109 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 16% til 80%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 41 minutter og 50 sekunder.
 
 ### Ombordlader
 
@@ -64,6 +64,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
 
 ## Eksteriør
 
@@ -158,7 +159,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 Leapmotor C10 69kWh RWD er utstyrt med en enkelt type ratt:
 
-- uicontrols.steeringwheel.oval.optionalheating.infotainment
+- **Ovalt ratt:** Dette rattet har valgfri integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også to multifunksjonelle rullehjul, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet.
 
 ### Speil
 
@@ -173,6 +174,8 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 Én type lydsystem er tilgjengelig for Leapmotor C10 69kWh RWD.
 
 - Med Leapmotor sound system får du 12 høyttalere med en maksimal systemeffekt på 840 watt.
+
+Modellen har 1 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 1 USB-C-tilkoblinger. Modellen har 1 USB-A-tilkoblinger som standard. Som et alternativ kan du få ytterligere 1 USB-C-tilkoblinger.
 
 ## Lys
 
@@ -218,7 +221,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), en 
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 425 liter. Med baksetene nedfelt, utvides dette til 1410 liter.
+Bagasjerommet tilbyr en lastekapasitet på 425 liter. Med baksetene nedfelt, utvides dette til 1410 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 2315 kg, med en basisvekt på 1940 kg. Dette gir en maksimal lastekapasitet på 375 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 375 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 

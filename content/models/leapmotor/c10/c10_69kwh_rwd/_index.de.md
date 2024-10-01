@@ -34,7 +34,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 69,9 kWh und eine nutz
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 420 km (261 Meilen) mit einem Energieverbrauch von 16,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 80 kW. Das Laden von 0% auf 100% dauert etwa 119 Minuten, während ein typischer Ladevorgang von 10% auf 80% 45 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 63 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 16% und 65%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 60 kW, wobei jede Ladesitzung etwa 33 Minuten und 35 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 80 kW. Das Laden von 0% auf 100% dauert etwa 109 Minuten, während ein typischer Ladevorgang von 10% auf 80% 41 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 69 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 16% und 80%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 63 kW, wobei jede Ladesitzung etwa 41 Minuten und 50 Sekunden dauert.
 
 ### Bordladegerät
 
@@ -64,6 +64,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ### Rekuperatives Bremsen
 
+[Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
 
 ## Exterieur
 
@@ -158,7 +159,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Leapmotor C10 69kWh RWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- uicontrols.steeringwheel.oval.optionalheating.infotainment
+- **Ovales Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch zwei multifunktionale Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
 
 ### Spiegel
 
@@ -173,6 +174,8 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 Der Leapmotor C10 69kWh RWD ist mit einer Soundsystemoption ausgestattet:
 
 - **Leapmotor sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von 840 Watt.
+
+Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse. Optional können Sie zusätzliche 1 USB-C-Anschlüsse erhalten. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse. Optional können Sie zusätzliche 1 USB-C-Anschlüsse erhalten.
 
 ## Lichter
 
@@ -218,7 +221,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), e
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 425 Litern (15,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1410 Liter (49,8 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 425 Litern (15,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1410 Liter (49,8 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2315 kg (5104 lbs) bei einem Leergewicht von 1940 kg (4277 lbs). Dies ermöglicht eine maximale Zuladung von 375 kg (827 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 375 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 

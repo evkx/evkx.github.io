@@ -34,7 +34,7 @@ La batterie haute capacité a une capacité brute de 69,9 kWh et une capacité n
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 420 km, avec une consommation d'énergie de 16,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 80kW. Une charge complète de 0 à 100 % prendrait 119 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 45 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 16 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 60kW. Chaque session de charge prendrait 33 minutes et 35 secondes.
+La vitesse de charge DC maximale est de 80kW. Une charge complète de 0 à 100 % prendrait 109 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 16 % et 80 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 63kW. Chaque session de charge prendrait 41 minutes et 50 secondes.
 
 ### Chargeur embarqué
 
@@ -64,6 +64,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
+[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
 ## Extérieur
 
@@ -158,7 +159,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Leapmotor C10 69kWh RWD est équipé d'un seul type de volant :
 
-- uicontrols.steeringwheel.oval.optionalheating.infotainment
+- **Volant Ovale :** Ce volant est équipé d'un chauffage intégré en option pour plus de confort par temps froid. Il comprend également deux molettes multifonctions, vous permettant de contrôler le système d'infodivertissement, d'ajuster le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
@@ -173,6 +174,8 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 Un type de système audio est disponible pour le Leapmotor C10 69kWh RWD.
 
 - Avec le Leapmotor sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 840 watts.
+
+Le modèle dispose de 1 connexions USB-C en standard. En option, vous pouvez obtenir des 1 connexions USB-C supplémentaires. Le modèle dispose de 1 connexions USB-A en standard. En option, vous pouvez obtenir des 1 connexions USB-C supplémentaires.
 
 ## Lumières
 
@@ -218,7 +221,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 425 litres. Avec les sièges arrière rabattus, cette capacité passe à 1410 litres.
+Le coffre offre une capacité de chargement de 425 litres. Avec les sièges arrière rabattus, cette capacité passe à 1410 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 2315 kg, avec un poids de base de 1940 kg. Cela permet une charge maximale de 375 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 375 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 

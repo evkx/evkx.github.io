@@ -34,7 +34,7 @@ La batería de alta capacidad tiene una capacidad bruta de 69,9 kWh y una capaci
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 420 km, con una tasa de consumo de energía de 16,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % tardaría 119 minutos, mientras que un escenario más común del 10 al 80 % tardaría 45 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 16% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 60kW. Cada sesión de carga tardaría 33 minutos y 35 segundos.
+La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % tardaría 109 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 16% al 80%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 63kW. Cada sesión de carga tardaría 41 minutos y 50 segundos.
 
 ### Cargador a bordo
 
@@ -64,6 +64,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
+[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
 
 ## Exterior
 
@@ -158,7 +159,7 @@ El modelo no tiene head-up display.
 
 El Leapmotor C10 69kWh RWD está equipado con un solo tipo de volante:
 
-- uicontrols.steeringwheel.oval.optionalheating.infotainment
+- **Volante Ovalado:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También incluye dos ruedas de desplazamiento multifuncionales, que te permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
@@ -173,6 +174,8 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 Un tipo de sistema de sonido está disponible para el Leapmotor C10 69kWh RWD.
 
 - Con el Leapmotor sound system, obtienes 12 parlantes con una salida máxima del sistema de 840 vatios.
+
+El modelo tiene 1 conexiones USB-C de serie. Como opción, puedes obtener 1 conexiones USB-C adicionales. El modelo tiene 1 conexiones USB-A de serie. Como opción, puedes obtener 1 conexiones USB-C adicionales.
 
 ## Luces
 
@@ -218,7 +221,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 425 litros. Con el asiento trasero plegado, esto se expande a 1410 litros.
+El maletero ofrece una capacidad de carga de 425 litros. Con el asiento trasero plegado, esto se expande a 1410 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2315 kg, con un peso base de 1940 kg. Esto permite una carga máxima de 375 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 375 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 

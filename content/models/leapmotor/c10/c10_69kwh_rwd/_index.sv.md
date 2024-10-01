@@ -34,7 +34,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 69,9 kWh och en nettoanvändb
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 420 km (199 miles), med en energiförbrukningshastighet på 16,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 119 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 16% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 33 minuter och 35 sekunder.
+Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 109 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 16% till 80%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 41 minuter och 50 sekunder.
 
 ### Ombordladdare
 
@@ -64,6 +64,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
 
 ## Exteriör
 
@@ -158,7 +159,7 @@ Modellen är inte tillgänglig med head-up display.
 
 Leapmotor C10 69kWh RWD är utrustad med en enda typ av ratt:
 
-- uicontrols.steeringwheel.oval.optionalheating.infotainment
+- **Oval Ratt:** Denna ratt har valfri integrerad uppvärmning för ökad komfort under kalla väderförhållanden. Den inkluderar också två multifunktionella rullhjul, vilket gör att du kan styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 
@@ -173,6 +174,8 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 En typ av ljudsystem är tillgänglig för Leapmotor C10 69kWh RWD.
 
 - Med Leapmotor sound system får du 12 högtalare med en maximal systemeffekt på 840 watt.
+
+Modellen har 1 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 1 USB-C-anslutningar. Modellen har 1 USB-A-anslutningar som standard. Som ett alternativ kan du få ytterligare 1 USB-C-anslutningar.
 
 ## Ljus
 
@@ -218,7 +221,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), e
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 425 liter. Med baksätena nedfällda ökar detta till 1410 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 425 liter. Med baksätena nedfällda ökar detta till 1410 liter. På taket kan du lasta upp till 75 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 2315 kg, med en grundvikt på 1940 kg. Detta tillåter en maximal last på 375 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 375 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
