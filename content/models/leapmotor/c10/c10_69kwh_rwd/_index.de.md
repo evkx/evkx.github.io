@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Leapmotor C10 69kWh RWD hat eine maximale Leistung von 170 kW (231 PS/228 bhp) und ein Gesamtdrehmoment von 320 Nm (236 lb-ft). Er kann in 7,29 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten.
+Der Leapmotor C10 69kWh RWD bietet eine bescheidene Leistung mit einer maximalen Leistung von 170 kW (231 PS / 228 bhp) und einem Gesamtdrehmoment von 320 Nm (236 lb-ft). Er beschleunigt in 7,29 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 170 km/h (106 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -34,7 +34,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 69,9 kWh und eine nutz
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 420 km (261 Meilen) mit einem Energieverbrauch von 16,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 80 kW. Das Laden von 0% auf 100% dauert etwa 137 Minuten, während ein typischer Ladevorgang von 10% auf 80% 60 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 47 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 13% und 49%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 51 kW, wobei jede Ladesitzung etwa 28 Minuten und 27 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 80 kW. Das Laden von 0% auf 100% dauert etwa 119 Minuten, während ein typischer Ladevorgang von 10% auf 80% 45 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 63 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 16% und 65%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 60 kW, wobei jede Ladesitzung etwa 33 Minuten und 35 Sekunden dauert.
 
 ### Bordladegerät
 
@@ -54,7 +54,13 @@ Der Leapmotor C10 69kWh RWD hat ein Heckantriebssystem, das von einem Motor an d
 
 Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 180 mm.
 
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Leapmotor C10 69kWh RWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
 ### Bremsen
+
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -97,6 +103,8 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Verfügbar in:
 
@@ -109,6 +117,8 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment)
+- Höhenverstellbare Kopfstütze
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
@@ -131,6 +141,8 @@ Der Leapmotor C10 69kWh RWD umfasst mehrere Funktionen, um Komfort und Bequemlic
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des Leapmotor C10 69kWh RWD konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
 
 Wichtige Bildschirmdetails:
 
@@ -199,7 +211,7 @@ Mit dem Leapmotor Pilot   Level 2 System erhalten Sie die folgenden Fahrautomati
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-driverassistance.CameraRadarLidarUltrasonic.TrueFalseTrueTrue
+driverassistance.CameraRadarLidarUltrasonic.TrueTrueTrueTrue
 
 {{<evkxdisplayaddarticle />}}
 

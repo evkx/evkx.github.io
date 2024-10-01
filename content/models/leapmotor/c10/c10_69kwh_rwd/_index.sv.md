@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av Leapmotor C10 69kWh RWD i avsnitt. Om du vil
 
 ## Prestanda
 
-Leapmotor C10 69kWh RWD har en maximal effekt på 170 KW (231hk). Totalt vridmoment är 320 Nm. Den gör sprinten 0-100 km/h på 7,29 sekunder.
+Leapmotor C10 69kWh RWD erbjuder blygsamma prestanda med en maximal effekt på 170 kW (231 hk) och ett totalt vridmoment på 320 Nm. Den accelererar från 0 till 100 km/h på 7,29 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 
@@ -34,7 +34,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 69,9 kWh och en nettoanvändb
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 420 km (199 miles), med en energiförbrukningshastighet på 16,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 137 minuter, medan ett vanligare scenario på 10-80 % tar 60 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 13% till 49%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 51kW. Varje laddningssession tar 28 minuter och 27 sekunder.
+Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 119 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 16% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 33 minuter och 35 sekunder.
 
 ### Ombordladdare
 
@@ -54,7 +54,13 @@ Leapmotor C10 69kWh RWD har ett bakhjulsdriftssystem som stöds av en motor på 
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
 
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Leapmotor C10 69kWh RWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
 ### Bromsar
+
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
 ### Regenerativ bromsning
 
@@ -97,6 +103,8 @@ Följande funktioner är tillgängliga på **** sätet.
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar för förare, inte tillgänglig för passagerare)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -109,6 +117,8 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment)
+- höjdjusterbart nackstöd
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
@@ -131,6 +141,8 @@ Leapmotor C10 69kWh RWD inkluderar flera funktioner för att förbättra komfort
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
 
 Viktiga skärmdetaljer:
 
@@ -199,7 +211,7 @@ Med Leapmotor Pilot   nivå 2-systemet får du följande funktioner för köraut
 ### Sensorer & Kameror
 
 Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för sina förarassistanssystem.
-driverassistance.CameraRadarLidarUltrasonic.TrueFalseTrueTrue
+driverassistance.CameraRadarLidarUltrasonic.TrueTrueTrueTrue
 
 {{<evkxdisplayaddarticle />}}
 

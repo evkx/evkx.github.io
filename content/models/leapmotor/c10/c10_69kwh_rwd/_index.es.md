@@ -26,7 +26,7 @@ Hemos separado nuestro artículo Leapmotor C10 69kWh RWD en secciones. Si desea 
 
 ## Rendimiento
 
-El Leapmotor C10 69kWh RWD tiene una potencia máxima de 170 KW (231 hp/228 bhp). El par total es 320 nm (236 lb-ft). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,29 segundos.
+El Leapmotor C10 69kWh RWD ofrece un rendimiento modesto con una potencia máxima de 170 kW (231 hp) y un par total de 320 Nm. Acelera de 0 a 100 km/h en 7,29 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 
@@ -34,7 +34,7 @@ La batería de alta capacidad tiene una capacidad bruta de 69,9 kWh y una capaci
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 420 km, con una tasa de consumo de energía de 16,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % tardaría 137 minutos, mientras que un escenario más común del 10 al 80 % tardaría 60 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 13% al 49%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 51kW. Cada sesión de carga tardaría 28 minutos y 27 segundos.
+La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % tardaría 119 minutos, mientras que un escenario más común del 10 al 80 % tardaría 45 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 16% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 60kW. Cada sesión de carga tardaría 33 minutos y 35 segundos.
 
 ### Cargador a bordo
 
@@ -54,7 +54,13 @@ Leapmotor C10 69kWh RWD tiene un sistema de tracción trasera sostenido por un m
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 180 mm.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Leapmotor C10 69kWh RWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
 ### Frenos
+
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
 ### Frenado regenerativo
 
@@ -97,6 +103,8 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente para el conductor, no disponible para el pasajero)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
@@ -109,6 +117,8 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment)
+- reposacabezas ajustable en altura
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
@@ -131,6 +141,8 @@ El Leapmotor C10 69kWh RWD incluye varias características para mejorar la comod
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico está centrada en la interacción con la pantalla y solo tiene una funcionalidad limitada disponible en botones y palancas. Para algunos, esto puede resultar en una experiencia de usuario y usabilidad menos que ideal.
 
 Detalles clave de la pantalla:
 
@@ -199,7 +211,7 @@ Con el sistema Leapmotor Pilot   de nivel 2, obtienes las siguientes funciones d
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-driverassistance.CameraRadarLidarUltrasonic.TrueFalseTrueTrue
+driverassistance.CameraRadarLidarUltrasonic.TrueTrueTrueTrue
 
 {{<evkxdisplayaddarticle />}}
 
