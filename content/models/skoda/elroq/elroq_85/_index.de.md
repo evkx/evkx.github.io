@@ -56,7 +56,7 @@ Der SKODA Elroq 85 hat ein Heckantriebssystem, das von einem Motor an der Hinter
 
 ### Federung
 
-Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
+Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 186 mm.
 
 ### Lenkung
 
@@ -72,7 +72,7 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 ## Exterieur
 
-Der SKODA Elroq 85, mit Abmessungen von 4488 mm Länge, 1879 mm Breite und 1625 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der SKODA Elroq 85 ist in insgesamt 9 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen.
+Der SKODA Elroq 85, mit Abmessungen von 4488 mm Länge, 1884 mm Breite und 1625 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der SKODA Elroq 85 ist in insgesamt 9 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen.
 
 Der SKODA Elroq 85 bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -155,7 +155,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der SKODA Elroq 85 ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
 
 ### Spiegel
 

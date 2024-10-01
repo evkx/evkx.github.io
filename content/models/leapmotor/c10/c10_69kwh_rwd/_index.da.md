@@ -212,7 +212,7 @@ Med Leapmotor Pilot   niveau 2-systemet får du følgende funktioner til køreau
 ### Sensorer & Kameraer
 
 Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til sine førerassistentsystemer.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueTrueTrue
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

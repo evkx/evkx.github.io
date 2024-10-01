@@ -56,7 +56,7 @@ SKODA Elroq 85 har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
 ### Hjuloppheng
 
-Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 173 mm.
+Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 186 mm.
 
 ### Styring
 
@@ -72,7 +72,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-SKODA Elroq 85, med dimensjoner på 4488 mm i lengde, 1879 mm i bredde og 1625 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. SKODA Elroq 85 er tilgjengelig i totalt 9 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
+SKODA Elroq 85, med dimensjoner på 4488 mm i lengde, 1884 mm i bredde og 1625 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. SKODA Elroq 85 er tilgjengelig i totalt 9 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på SKODA Elroq 85, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -155,7 +155,7 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 SKODA Elroq 85 er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
 
 ### Speil
 

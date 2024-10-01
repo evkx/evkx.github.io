@@ -274,7 +274,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd exklusive speglar
 			</td>
 			<td>
-				1879 mm
+				1884 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Axelavstånd
 			</td>
 			<td>
-				2766 mm
+				2765 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd fram
 			</td>
 			<td>
-				1600 mm
+				1587 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				1573 mm
+				1562 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				173 mm
+				186 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				173 mm
+				186 mm
 			</td>
 		</tr>
 		<tr>

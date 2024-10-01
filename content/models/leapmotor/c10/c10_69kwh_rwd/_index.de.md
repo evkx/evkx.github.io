@@ -212,7 +212,7 @@ Mit dem Leapmotor Pilot   Level 2 System erhalten Sie die folgenden Fahrautomati
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueTrueTrue
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/), und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

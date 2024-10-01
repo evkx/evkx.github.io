@@ -274,7 +274,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite ohne Spiegel
 			</td>
 			<td>
-				1879 mm (74,0")
+				1884 mm (74,2")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Radstand
 			</td>
 			<td>
-				2766 mm (108,9")
+				2765 mm (108,9")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite vorne
 			</td>
 			<td>
-				1600 mm (63,0")
+				1587 mm (62,5")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite hinten
 			</td>
 			<td>
-				1573 mm (61,9")
+				1562 mm (61,5")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				173 mm (6,8")
+				186 mm (7,3")
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				173 mm (6,8")
+				186 mm (7,3")
 			</td>
 		</tr>
 		<tr>

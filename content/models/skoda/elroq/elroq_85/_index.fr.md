@@ -56,7 +56,7 @@ SKODA Elroq 85 dispose d'un système de propulsion arrière pris en charge par u
 
 ### Suspension
 
-La suspension Sport a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 173 mm.
+La suspension Sport a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 186 mm.
 
 ### Pilotage
 
@@ -72,7 +72,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La SKODA Elroq 85, avec des dimensions de 4488 mm de longueur, 1879 mm de largeur et 1625 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La SKODA Elroq 85 est disponible en un total de 9 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
+La SKODA Elroq 85, avec des dimensions de 4488 mm de longueur, 1884 mm de largeur et 1625 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La SKODA Elroq 85 est disponible en un total de 9 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'SKODA Elroq 85, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -155,7 +155,7 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le SKODA Elroq 85 est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
 
 ### Rétroviseurs
 

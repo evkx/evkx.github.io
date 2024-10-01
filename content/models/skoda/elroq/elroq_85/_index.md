@@ -56,7 +56,7 @@ The SKODA Elroq 85 has a rear-wheel drive system supported by one motor on the r
 
 ### Suspension
 
-The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm.
+The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 186 mm.
 
 ### Steering
 
@@ -72,7 +72,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The SKODA Elroq 85, with dimensions of 4488 mm in length, 1879 mm in width, and 1625 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The SKODA Elroq 85 is available in a total of 9 paint colors, including solid, metallic, and pearlescent options.
+The SKODA Elroq 85, with dimensions of 4488 mm in length, 1884 mm in width, and 1625 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The SKODA Elroq 85 is available in a total of 9 paint colors, including solid, metallic, and pearlescent options.
 
 The SKODA Elroq 85 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -155,7 +155,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The SKODA Elroq 85 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
 
 ### Mirrors
 

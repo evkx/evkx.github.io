@@ -56,7 +56,7 @@ SKODA Elroq 85 tiene un sistema de tracción trasera sostenido por un motor en e
 
 ### Suspensión
 
-La suspensión Sport tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 173 mm.
+La suspensión Sport tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 186 mm.
 
 ### Dirección
 
@@ -72,7 +72,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El SKODA Elroq 85, con dimensiones de 4488 mm de longitud, 1879 mm de anchura y 1625 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El SKODA Elroq 85 está disponible en un total de 9 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
+El SKODA Elroq 85, con dimensiones de 4488 mm de longitud, 1884 mm de anchura y 1625 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El SKODA Elroq 85 está disponible en un total de 9 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el SKODA Elroq 85, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -155,7 +155,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El SKODA Elroq 85 está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
 
 ### Espejos
 
