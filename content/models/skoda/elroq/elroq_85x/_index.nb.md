@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/main_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/main_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1687"  >}}
 
 Vi har delt vår beskrivelse av SKODA Elroq 85x i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
@@ -42,7 +42,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 0 minutter med en hjemmelader.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/charging_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2002"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/charging_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ### Ladeport
 
@@ -87,7 +87,7 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/exterior_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/exterior_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -112,9 +112,13 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/frontseats_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
+
 #### Seter på andre rad
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/secondrowseats_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ## Klimasystem
 
@@ -144,6 +148,8 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 13,0 tommer stor
 
 Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/screens_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ### Ratt
 
@@ -182,7 +188,7 @@ Du kan velge mellom to typer frontlykter for SKODA Elroq 85x.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/headlights_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/headlights_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ## Avanserte førerassistentsystemer
 
@@ -225,6 +231,8 @@ Bagasjerommet tilbyr en lastekapasitet på 490 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2350 kg, med en basisvekt på 1800 kg. Dette gir en maksimal lastekapasitet på 550 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1200 kg, mens for en ubremset tilhenger er det 750 kg.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/trunk_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1744"  >}}
 
 ## Tilgjengelighet & pris
 

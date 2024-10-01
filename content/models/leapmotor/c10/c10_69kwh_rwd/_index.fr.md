@@ -137,6 +137,7 @@ L'Leapmotor C10 69kWh RWD comprend plusieurs fonctionnalités pour améliorer le
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +158,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Leapmotor C10 69kWh RWD est équipé d'un seul type de volant :
 
-- uicontrols.steeringwheel.optionalheating.infotainment
+- uicontrols.steeringwheel.oval.optionalheating.infotainment
 
 ### Rétroviseurs
 

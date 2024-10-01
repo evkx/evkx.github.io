@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/main_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/main_1_st.jpg" title="SKODA Elroq 50" width="3000" height="1687"  >}}
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
@@ -42,7 +42,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 43 minutes using a home charging setup.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/charging_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2002"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/charging_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ### Charge Port
 
@@ -87,7 +87,7 @@ There is only one roof option for this model. The standard roof includes a large
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/exterior_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/exterior_1_st.jpg" title="SKODA Elroq 50" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -112,9 +112,13 @@ The following functionalities are available on the **Sport** seat:
 
 Available in:
 
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
+
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/secondrowseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ## Climate System
 
@@ -144,6 +148,8 @@ Key screen details:
 - The touch screen on the dashboard's center is 13.0 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/screens_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ### Steering Wheel
 
@@ -182,7 +188,7 @@ You can choose between two types of headlights for the SKODA Elroq 50.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/headlights_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/headlights_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ## Advanced Driver Assistance Systems
 
@@ -225,6 +231,8 @@ The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat
 The vehicle’s maximum weight is 2200 kg (4850 lbs), with a base weight of 1650 kg (3638 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1200 kg (2646 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/trunk_1_st.jpg" title="SKODA Elroq 50" width="3000" height="1744"  >}}
 
 ## Availability & Pricing
 

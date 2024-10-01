@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="1687"  >}}
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
@@ -42,7 +42,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/charging_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2002"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/charging_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
 ### Ladeanschluss
 
@@ -87,7 +87,7 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein gro
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/exterior_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/exterior_1_st.jpg" title="SKODA Elroq 60" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -112,9 +112,13 @@ Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
 
 Verfügbar in:
 
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/frontseats_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
+
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/secondrowseats_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
 ## Klimaanlage
 
@@ -144,6 +148,8 @@ Wichtige Bildschirmdetails:
 - Der touch-Bildschirm in der Mitte des Armaturenbretts ist 13,0 Zoll groß.
 
 Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/screens_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
 ### Lenkrad
 
@@ -182,7 +188,7 @@ Sie können zwischen zwei Scheinwerfertypen für den SKODA Elroq 60 wählen.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/headlights_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/headlights_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -225,6 +231,8 @@ Der Kofferraum bietet ein Ladevolumen von 490 Litern (17,3 CU FT). Mit umgeklapp
 Das maximale Gewicht des Fahrzeugs beträgt 2250 kg (4960 lbs) bei einem Leergewicht von 1700 kg (3748 lbs). Dies ermöglicht eine maximale Zuladung von 550 kg (1213 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1200 kg (2646 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/trunk_1_st.jpg" title="SKODA Elroq 60" width="3000" height="1744"  >}}
 
 ## Verfügbarkeit & Preise
 

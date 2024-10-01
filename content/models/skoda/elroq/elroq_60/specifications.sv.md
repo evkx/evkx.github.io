@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001" >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="1687" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för SKODA Elroq 60. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av SKODA Elroq 60, gå till [chargeinfo](../chargecurve/) för SKODA Elroq 60 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 

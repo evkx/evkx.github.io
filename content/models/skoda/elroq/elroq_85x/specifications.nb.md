@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/main_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001" >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/main_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1687" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA Elroq 85x. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av SKODA Elroq 85x, gå til [chargeinfo](../chargecurve/) for SKODA Elroq 85x med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 

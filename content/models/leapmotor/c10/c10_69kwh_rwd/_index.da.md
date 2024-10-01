@@ -137,6 +137,7 @@ Leapmotor C10 69kWh RWD inkluderer flere funktioner, der forbedrer komfort og be
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +158,7 @@ Modellen har ikke et head-up display.
 
 Leapmotor C10 69kWh RWD er udstyret med en enkelt type rat:
 
-- uicontrols.steeringwheel.optionalheating.infotainment
+- uicontrols.steeringwheel.oval.optionalheating.infotainment
 
 ### Spejle
 

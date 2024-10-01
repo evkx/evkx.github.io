@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/main_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/main_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo SKODA Elroq 85x en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -42,7 +42,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 0 minutos usando un cargador en casa.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/charging_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2002"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/charging_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ### Puerto de carga
 
@@ -87,7 +87,7 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/exterior_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/exterior_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -112,9 +112,13 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/frontseats_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
+
 #### Asiento de segunda fila
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/secondrowseats_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ## Sistema de climatización
 
@@ -144,6 +148,8 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 13,0 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/screens_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ### Volante
 
@@ -182,7 +188,7 @@ Puedes elegir entre dos tipos de faros para el SKODA Elroq 85x.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/headlights_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/headlights_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
@@ -225,6 +231,8 @@ El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero 
 El peso máximo del vehículo es 2350 kg, con un peso base de 1800 kg. Esto permite una carga máxima de 550 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1200 kg, mientras que para un tráiler sin freno es de 750 kg.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/trunk_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="1744"  >}}
 
 ## Disponibilidad y precios
 

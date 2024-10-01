@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/main_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001" >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_50/main_1_st.jpg" title="SKODA Elroq 50" width="3000" height="1687" >}}
 EVKX.net strebt an, die vollständigsten Spezifikationen für SKODA Elroq 50 zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von SKODA Elroq 50, besuchen Sie die [Ladeinformationen](../chargecurve/) für SKODA Elroq 50 mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 

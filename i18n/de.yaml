@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-23e9b22b
+  translation: SKODA Elroq 85x ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 550 km (342 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-267ea0ae
   translation: Leapmotor C10 69kWh RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 420 km (261 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4bb6a764
   translation: Volkswagen ID.7 GTX ist eine vollelektrische Limousine mit einer Reichweite von bis zu 595 km (370 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-6d138500
-  translation: Volkswagen ID.3 GTX Performance ist ein vollelektrisches Schrägheck mit einer Reichweite von bis zu 601 km (374 Meilen). EVKX.net hat alle Details.
 

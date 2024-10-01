@@ -10,7 +10,7 @@ weight: 30
 <h3>SKODA Elroq 50</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="elroq_50/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_50/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Elroq 50" ></a>
+			<a href="elroq_50/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_50/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Elroq 50" ></a>
 <i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 55 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
@@ -29,7 +29,7 @@ weight: 30
 <h3>SKODA Elroq 60</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="elroq_60/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_60/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Elroq 60" ></a>
+			<a href="elroq_60/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_60/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Elroq 60" ></a>
 <i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 63 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
@@ -48,7 +48,7 @@ weight: 30
 <h3>SKODA Elroq 85</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="elroq_85/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_85/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Elroq 85" ></a>
+			<a href="elroq_85/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_85/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Elroq 85" ></a>
 <i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
@@ -67,7 +67,7 @@ weight: 30
 <h3>SKODA Elroq 85x</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="elroq_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_85x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Elroq 85x" ></a>
+			<a href="elroq_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_85x/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Elroq 85x" ></a>
 <i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">

@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001" >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for SKODA Elroq 60. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA Elroq 60, visit the [chargeinfo](../chargecurve/) for SKODA Elroq 60 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 

@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/main_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/main_1_st.jpg" title="SKODA Elroq 85" width="3000" height="1687"  >}}
 
 Vi har delat in vår beskrivning av SKODA Elroq 85 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
@@ -42,7 +42,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 0 minuter med en hemmaladdare.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/charging_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2002"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/charging_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
 ### Laddningsport
 
@@ -87,7 +87,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/exterior_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/exterior_1_st.jpg" title="SKODA Elroq 85" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -112,9 +112,13 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/frontseats_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
+
 #### Säten på andra raden
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/secondrowseats_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
 ## Klimatsystem
 
@@ -144,6 +148,8 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 13,0 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/screens_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
 ### Ratt
 
@@ -182,7 +188,7 @@ Du kan välja mellan två typer av strålkastare för SKODA Elroq 85.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
-{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/headlights_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/headlights_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
 ## Avancerade förarassistanssystem
 
@@ -225,6 +231,8 @@ Bagageutrymmet erbjuder en lastkapacitet på 490 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2300 kg, med en grundvikt på 1750 kg. Detta tillåter en maximal last på 550 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_85/trunk_1_st.jpg" title="SKODA Elroq 85" width="3000" height="1744"  >}}
 
 ## Tillgänglighet och pris
 

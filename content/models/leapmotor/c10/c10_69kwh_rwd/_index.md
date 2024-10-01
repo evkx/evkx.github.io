@@ -137,6 +137,7 @@ The Leapmotor C10 69kWh RWD includes several features to enhance comfort and con
 
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +158,7 @@ The model does not include a head-up display.
 
 The Leapmotor C10 69kWh RWD is equipped with a single type of steering wheel:
 
-- uicontrols.steeringwheel.optionalheating.infotainment
+- uicontrols.steeringwheel.oval.optionalheating.infotainment
 
 ### Mirrors
 

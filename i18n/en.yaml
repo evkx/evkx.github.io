@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-23e9b22b
+  translation: SKODA Elroq 85x is an all-electric coupe SUV with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details.
+
 - id: frontpage-description-267ea0ae
   translation: Leapmotor C10 69kWh RWD is an all-electric SUV with a WLTP range of up to 420 km (261 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4bb6a764
   translation: Volkswagen ID.7 GTX is an all-electric sedan with a WLTP range of up to 595 km (370 miles). EVKX.net has all the details.
-
-- id: frontpage-description-6d138500
-  translation: Volkswagen ID.3 GTX Performance is an all-electric hatchback with a WLTP range of up to 601 km (374 miles). EVKX.net has all the details.
 
