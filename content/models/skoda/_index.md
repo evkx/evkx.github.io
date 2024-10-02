@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Elroq is a Coupe SUV available in 4 variants.
+SKODA Elroq is a Coupe SUV available in 3 variants.
 </p>
 	<a href="elroq/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
