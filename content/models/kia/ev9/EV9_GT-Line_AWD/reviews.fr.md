@@ -10,7 +10,7 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>How Fast Does The Kia EV9 Charge?</h3>
-<p>State of Charge: 02.09.2024</p>
+<p>State of Charge: 02.10.2024</p>
 
 {{< youtube bHn_oBaCmRs >}}
 
