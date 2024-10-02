@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 350 km (218 millas). EVKX.net tiene todos los detalles."
+description: "SKODA Elroq 50 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 375 km (233 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,9 +32,9 @@ El SKODA Elroq 50 ofrece un rendimiento modesto con una potencia máxima de 125 
 
 La batería de alta capacidad tiene una capacidad bruta de 55,0 kWh y una capacidad neta utilizable de 52,0 kWh, proporcionando un buffer de 3,0 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 350 km, con una tasa de consumo de energía de 14,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 375 km, con una tasa de consumo de energía de 13,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 58 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 74kW. Cada sesión de carga tardaría 19 minutos y 5 segundos.
+La velocidad máxima de carga de CC es 145kW. Una carga completa del 0 al 100 % tardaría 58 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 74kW. Cada sesión de carga tardaría 19 minutos y 5 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 29 minutos. Este viaje requeriría dos paradas de carga del 1% al 39%, con un tiempo total de carga de 130 minutos.
 
@@ -93,6 +93,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El SKODA Elroq 50 cuenta con un interior centrado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en varias áreas en lugar de plástico duro. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada. Puedes elegir entre varios diseños de interiores.
+
 ### Asientos
 
 El SKODA Elroq 50 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -110,6 +112,12 @@ Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (estándar para asiento del pasajero)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+
 Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
@@ -117,6 +125,12 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (estándar para asiento del pasajero)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
+
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -149,6 +163,8 @@ El SKODA Elroq 50 incluye varias características para mejorar la comodidad y co
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
 
 El SKODA Elroq 50 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -236,7 +252,7 @@ Con el sistema MAX  de nivel 2, obtienes las siguientes funciones de automatizac
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero plegado, esto se expande a 1610 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 470 litros. Con el asiento trasero plegado, esto se expande a 1580 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2200 kg, con un peso base de 1650 kg. Esto permite una carga máxima de 550 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

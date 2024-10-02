@@ -76,14 +76,14 @@ Der SKODA Elroq 85, mit Abmessungen von 4488 mm Länge, 1884 mm Breite und 1625 
 
 Der SKODA Elroq 85 bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
+- 235/55 Reifen auf 19" Felgen vorne und 255/50 Reifen auf 19" Felgen hinten
 - 235/50 Reifen auf 20" Felgen vorne und 255/45 Reifen auf 20" Felgen hinten
-- 235/45 Reifen auf 21" Felgen vorne und 255/40 Reifen auf 21" Felgen hinten
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
-Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein großes Panoramaglasdach, das sich von vorne bis hinten erstreckt und das Raum- und Helligkeitsgefühl im Innenraum verbessert, wodurch die Stimmung und der Komfort der Insassen verbessert werden. Dieses Glas ist getönt, um vor der Hitze der Sonne zu schützen.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach ist einfach ein normales Dach.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -93,24 +93,44 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
+Der SKODA Elroq 85 verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet. Sie können zwischen mehreren Innenraumdesigns wählen.
+
 ### Sitze
 
 Der SKODA Elroq 85 bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 
-Der SKODA Elroq 85 bietet nur einen Typ von Vordersitz.
+Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
-Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
+Die folgenden Funktionen sind für den **Standard**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
-- [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- Höhenverstellbare Kopfstütze
+- [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (Standard für Beifahrersitz)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Gray [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+
+Die folgenden Funktionen sind für den **Comfort**-Sitz verfügbar:
+
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (Standard für Beifahrersitz)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
+
+Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Gray [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/frontseats_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
@@ -118,15 +138,19 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/secondrowseats_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
 ## Klimaanlage
 
-Es gibt ein Klimasystem verfügbar:
+Zwei Klimasystemoptionen sind verfügbar:
 
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 - **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
-Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
 
 ## Komfortfunktionen
 
@@ -139,6 +163,8 @@ Der SKODA Elroq 85 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu 
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des SKODA Elroq 85 kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
 
 Der SKODA Elroq 85 hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), das an der Lenksäule montiert ist, und oben auf dem Armaturenbrett befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -155,7 +181,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der SKODA Elroq 85 ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
+- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -226,7 +252,7 @@ Mit dem MAX  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunkt
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 490 Litern (17,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1610 Liter (56,9 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
+Der Kofferraum bietet ein Ladevolumen von 490 Litern (17,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1610 Liter (56,9 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2300 kg (5071 lbs) bei einem Leergewicht von 1750 kg (3858 lbs). Dies ermöglicht eine maximale Zuladung von 550 kg (1213 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

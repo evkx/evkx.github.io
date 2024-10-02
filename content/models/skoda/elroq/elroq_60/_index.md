@@ -76,14 +76,14 @@ The SKODA Elroq 60, with dimensions of 4488 mm in length, 1879 mm in width, and 
 
 The SKODA Elroq 60 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
-- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
-There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard is just a regular roof.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -93,24 +93,44 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The SKODA Elroq 60 boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
+
 ### Seats
 
 The SKODA Elroq 60 accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-The SKODA Elroq 60 offers a single type of front seat.
+The front row offers two seat types to cater to various comfort and style preferences:
 
-The following functionalities are available on the **Sport** seat:
+The following functionalities are available on the **Standard** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
-- [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- Height adjustable headrest
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (standard for passenger seat)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
+The following functionalities are available on the **Comfort** seat:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passenger seat)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
+
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/frontseats_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
@@ -118,15 +138,19 @@ Available in:
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/secondrowseats_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
 ## Climate System
 
-There is one climate system available:
+Two climate system options are available:
 
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
-A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
 ## Comfort Features
 
@@ -139,6 +163,8 @@ The SKODA Elroq 60 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the SKODA Elroq 60 combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The SKODA Elroq 60 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -226,7 +252,7 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2250 kg (4960 lbs), with a base weight of 1700 kg (3748 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

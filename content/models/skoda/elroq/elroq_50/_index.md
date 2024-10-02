@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 is an all-electric coupe SUV with a WLTP range of up to 350 km (218 miles). EVKX.net has all the details."
+description: "SKODA Elroq 50 is an all-electric coupe SUV with a WLTP range of up to 375 km (233 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,9 +32,9 @@ The SKODA Elroq 50 offers modest performance with a maximum power of 125 kW (170
 
 The high-capacity battery has a gross capacity of 55.0 kWh and a net usable capacity of 52.0 kWh, providing a 3.0 kWh buffer (5.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 350 km (218 miles), with an energy consumption rate of 14.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 375 km (233 miles), with an energy consumption rate of 13.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 74 kW, with each charging session taking about 19 minutes and 5 seconds.
+The vehicle supports fast DC charging with a maximum power of 145 kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 74 kW, with each charging session taking about 19 minutes and 5 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 10 hours and 29 minutes. This journey would require eight charging stops from 1% to 39%, with a total charging time of 130 minutes.
 
@@ -93,6 +93,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The SKODA Elroq 50 boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
+
 ### Seats
 
 The SKODA Elroq 50 accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -110,6 +112,12 @@ The following functionalities are available on the **Standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (standard for passenger seat)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
 The following functionalities are available on the **Comfort** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -117,6 +125,12 @@ The following functionalities are available on the **Comfort** seat:
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passenger seat)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
+
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -149,6 +163,8 @@ The SKODA Elroq 50 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the SKODA Elroq 50 combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The SKODA Elroq 50 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -236,7 +252,7 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 470 liters (16.6 CU FT). With the rear seat folded down, this expands to 1580 liters (55.8 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2200 kg (4850 lbs), with a base weight of 1650 kg (3638 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

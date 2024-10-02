@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite
 			</td>
 			<td>
-				350 km
+				375 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch
 			</td>
 			<td>
-				14,9 kWh/100km
+				13,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				135 kW
+				145 kW
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				490 Liter (17 cu-ft)
+				470 Liter (17 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1610 Liter (57 cu-ft)
+				1580 Liter (56 cu-ft)
 			</td>
 		</tr>
 		<tr>

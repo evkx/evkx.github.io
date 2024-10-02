@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 350 km (218 miles). EVKX.net har alle detaljerne."
+description: "SKODA Elroq 50 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 375 km (233 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,9 +32,9 @@ SKODA Elroq 50 tilbyder beskedne præstationer med en maksimal effekt på 125 kW
 
 Det højkapacitetsbatteri har en bruttokapacitet på 55,0 kWh og en nettoanvendelig kapacitet på 52,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 350 km, med et energiforbrugsrate på 14,9 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 375 km, med et energiforbrugsrate på 13,9 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 58 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 74kW. Hver opladningssession ville tage 19 minutter og 5 sekunder.
+Den maksimale DC-opladningshastighed er 145kW. En fuld opladning fra 0 - 100 % ville tage 58 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 74kW. Hver opladningssession ville tage 19 minutter og 5 sekunder.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 10 timer og 29 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 39%, med en samlet opladningstid på 130 minutter
 
@@ -93,6 +93,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+SKODA Elroq 50 har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af høj kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, samtidig med at den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
+
 ### Sæder
 
 SKODA Elroq 50 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -110,6 +112,12 @@ Følgende funktioner er tilgængelige på **Standard** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passagersæde)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+
 Følgende funktioner er tilgængelige på **Comfort** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
@@ -117,6 +125,12 @@ Følgende funktioner er tilgængelige på **Comfort** sædet.
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passagersæde)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
+
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -149,6 +163,8 @@ SKODA Elroq 50 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
 
 SKODA Elroq 50 har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
@@ -236,7 +252,7 @@ Med MAX  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet ned, udvides dette til 1610 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
+Bagagerummet har en lastekapacitet på 470 liter. Med det bageste sæde foldet ned, udvides dette til 1580 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 2200 kg, med en basisvægt på 1650 kg. Dette giver en maksimal last på 550 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

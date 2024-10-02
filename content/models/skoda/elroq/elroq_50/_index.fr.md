@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 350 km (218 miles). EVKX.net a tous les détails."
+description: "SKODA Elroq 50 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 375 km (233 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,9 +32,9 @@ L'SKODA Elroq 50 offre des performances modestes avec une puissance maximale de 
 
 La batterie haute capacité a une capacité brute de 55,0 kWh et une capacité nette utilisable de 52,0 kWh, offrant une réserve de 3,0 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 350 km, avec une consommation d'énergie de 14,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 375 km, avec une consommation d'énergie de 13,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 58 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 74kW. Chaque session de charge prendrait 19 minutes et 5 secondes.
+La vitesse de charge DC maximale est de 145kW. Une charge complète de 0 à 100 % prendrait 58 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 74kW. Chaque session de charge prendrait 19 minutes et 5 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 10 heures et 29 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 39%, avec un temps de recharge total de 130 minutes.
 
@@ -93,6 +93,8 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+Le SKODA Elroq 50 dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+
 ### Sièges
 
 Le SKODA Elroq 50 peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
@@ -110,6 +112,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (standard pour siège passager)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -117,6 +125,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard pour siège passager)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
+
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -149,6 +163,8 @@ L'SKODA Elroq 50 comprend plusieurs fonctionnalités pour améliorer le confort 
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
 
 Le SKODA Elroq 50 dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -236,7 +252,7 @@ Avec le système MAX  de niveau 2, vous obtenez les fonctionnalités suivantes d
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 490 litres. Avec les sièges arrière rabattus, cette capacité passe à 1610 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 470 litres. Avec les sièges arrière rabattus, cette capacité passe à 1580 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 2200 kg, avec un poids de base de 1650 kg. Cela permet une charge maximale de 550 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

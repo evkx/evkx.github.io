@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 350 km. EVKX.net har alle detaljene."
+description: "SKODA Elroq 50 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 375 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,9 +32,9 @@ SKODA Elroq 50 tilbyr beskjedne ytelser med en maksimal effekt på 125 kW (170 h
 
 Høykapasitetsbatteriet har en brutto kapasitet på 55,0 kWh og en netto brukbar kapasitet på 52,0 kWh, som gir en buffer på 3,0 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 350 km, med et energiforbruk på 14,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 375 km, med et energiforbruk på 13,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 58 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 19 minutter og 5 sekunder.
+Maksimal DC-ladehastighet er 145 kW. En full lading fra 0 - 100 % vil ta 58 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 19 minutter og 5 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 10 timer og 29 minutter. Denne reisen ville kreve to ladestopp fra 1% til 39%, med en total ladetid på 130 minutter.
 
@@ -93,6 +93,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+SKODA Elroq 50 har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan velge mellom flere interiørdesign.
+
 ### Seter
 
 SKODA Elroq 50 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
@@ -110,6 +112,12 @@ Følgende funksjoner er tilgjengelige på **Standard** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passasjersete)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+
 Følgende funksjoner er tilgjengelige på **Comfort** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
@@ -117,6 +125,12 @@ Følgende funksjoner er tilgjengelige på **Comfort** setet.
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passasjersete)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
+
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -149,6 +163,8 @@ SKODA Elroq 50 inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
 
 SKODA Elroq 50 har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
@@ -236,7 +252,7 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 490 liter. Med baksetene nedfelt, utvides dette til 1610 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
+Bagasjerommet tilbyr en lastekapasitet på 470 liter. Med baksetene nedfelt, utvides dette til 1580 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 2200 kg, med en basisvekt på 1650 kg. Dette gir en maksimal lastekapasitet på 550 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

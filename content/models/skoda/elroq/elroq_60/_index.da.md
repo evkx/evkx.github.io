@@ -76,14 +76,14 @@ Den SKODA Elroq 60, med dimensioner på 4488 mm i længde, 1879 mm i bredde og 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på SKODA Elroq 60, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+- 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
 - 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
-- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
 
-Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
+Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
@@ -93,24 +93,44 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+SKODA Elroq 60 har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af høj kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, samtidig med at den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
+
 ### Sæder
 
 SKODA Elroq 60 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
 
 #### Første række sæder
 
-SKODA Elroq 60 tilbyder kun én type forreste sæde.
+For første række tilbyder SKODA Elroq 60 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
-Følgende funktioner er tilgængelige på **Sport** sædet.
+Følgende funktioner er tilgængelige på **Standard** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- højdejusterbar nakkestøtte
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passagersæde)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+
+Følgende funktioner er tilgængelige på **Comfort** sædet.
+
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passagersæde)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
+
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/frontseats_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
@@ -118,15 +138,19 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/secondrowseats_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+To klimaanlægsmuligheder er tilgængelige:
 
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
 
@@ -139,6 +163,8 @@ SKODA Elroq 60 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
 
 SKODA Elroq 60 har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
@@ -226,7 +252,7 @@ Med MAX  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet ned, udvides dette til 1610 liter. På taget kan du laste op til 75 kg.
+Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet ned, udvides dette til 1610 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 2250 kg, med en basisvægt på 1700 kg. Dette giver en maksimal last på 550 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

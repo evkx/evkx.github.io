@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 350 km (218 Meilen). EVKX.net hat alle Details."
+description: "SKODA Elroq 50 ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 375 km (233 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,9 +32,9 @@ Der SKODA Elroq 50 bietet eine bescheidene Leistung mit einer maximalen Leistung
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 55,0 kWh und eine nutzbare Nettokapazität von 52,0 kWh, was einen Puffer von 3,0 kWh (5,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 350 km (218 Meilen) mit einem Energieverbrauch von 14,9 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 375 km (233 Meilen) mit einem Energieverbrauch von 13,9 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 135 kW. Das Laden von 0% auf 100% dauert etwa 58 Minuten, während ein typischer Ladevorgang von 10% auf 80% 31 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 70 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 74 kW, wobei jede Ladesitzung etwa 19 Minuten und 5 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 145 kW. Das Laden von 0% auf 100% dauert etwa 58 Minuten, während ein typischer Ladevorgang von 10% auf 80% 31 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 70 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 74 kW, wobei jede Ladesitzung etwa 19 Minuten und 5 Sekunden dauert.
 
 In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 10 Stunden und 29 Minuten dauern. Diese Reise würde acht Ladestopps von 1% auf 39% erfordern, mit einer gesamten Ladezeit von 130 Minuten.
 
@@ -93,6 +93,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
+Der SKODA Elroq 50 verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet. Sie können zwischen mehreren Innenraumdesigns wählen.
+
 ### Sitze
 
 Der SKODA Elroq 50 bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
@@ -110,6 +112,12 @@ Die folgenden Funktionen sind für den **Standard**-Sitz verfügbar:
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (Standard für Beifahrersitz)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
+Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Gray [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+
 Die folgenden Funktionen sind für den **Comfort**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
@@ -117,6 +125,12 @@ Die folgenden Funktionen sind für den **Comfort**-Sitz verfügbar:
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (Standard für Beifahrersitz)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
+
+Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Gray [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -149,6 +163,8 @@ Der SKODA Elroq 50 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu 
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des SKODA Elroq 50 kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
 
 Der SKODA Elroq 50 hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), das an der Lenksäule montiert ist, und oben auf dem Armaturenbrett befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -236,7 +252,7 @@ Mit dem MAX  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunkt
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 490 Litern (17,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1610 Liter (56,9 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
+Der Kofferraum bietet ein Ladevolumen von 470 Litern (16,6 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1580 Liter (55,8 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2200 kg (4850 lbs) bei einem Leergewicht von 1650 kg (3638 lbs). Dies ermöglicht eine maximale Zuladung von 550 kg (1213 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

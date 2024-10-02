@@ -76,14 +76,14 @@ El SKODA Elroq 85, con dimensiones de 4488 mm de longitud, 1884 mm de anchura y 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el SKODA Elroq 85, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+- Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
-- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). La puerta levadiza es eléctrica y tiene un sensor de patada de serie.
 
-Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
+Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
@@ -93,24 +93,44 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El SKODA Elroq 85 cuenta con un interior centrado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en varias áreas en lugar de plástico duro. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada. Puedes elegir entre varios diseños de interiores.
+
 ### Asientos
 
 El SKODA Elroq 85 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
 
 #### Asientos de primera fila
 
-El SKODA Elroq 85 ofrece un único tipo de asiento delantero.
+Para la primera fila, el SKODA Elroq 85 ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
-Las siguientes funcionalidades están disponibles en el asiento **Sport**.
+Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- reposacabezas ajustable en altura
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (estándar para asiento del pasajero)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+
+Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
+
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (estándar para asiento del pasajero)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
+
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/frontseats_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
@@ -118,15 +138,19 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/secondrowseats_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
 ## Sistema de climatización
 
-Hay un sistema climático disponible.
+Hay dos opciones de sistema de climatización disponibles:
 
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Características de confort
 
@@ -139,6 +163,8 @@ El SKODA Elroq 85 incluye varias características para mejorar la comodidad y co
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
 
 El SKODA Elroq 85 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -155,7 +181,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El SKODA Elroq 85 está equipado con un solo tipo de volante:
 
-- uicontrols.steeringwheel.circular.twinscrollwheel.infotainment
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
@@ -226,7 +252,7 @@ Con el sistema MAX  de nivel 2, obtienes las siguientes funciones de automatizac
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero plegado, esto se expande a 1610 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero plegado, esto se expande a 1610 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2300 kg, con un peso base de 1750 kg. Esto permite una carga máxima de 550 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
