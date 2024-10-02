@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 99,8 kWh og en nettoanvende
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 563 km, med et energiforbrugsrate på 17,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 72%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 147kW. Hver opladningssession ville tage 28 minutter og 21 sekunder. Denne effektive opladningskapacitet gør Kia EV9 Long Range RWD til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 150kW. Hver opladningssession ville tage 27 minutter og 58 sekunder. Denne effektive opladningskapacitet gør Kia EV9 Long Range RWD til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 23 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 78%, med en samlet opladningstid på 64 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 23 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 79%, med en samlet opladningstid på 63 minutter
 
 ### Ombordlader
 
