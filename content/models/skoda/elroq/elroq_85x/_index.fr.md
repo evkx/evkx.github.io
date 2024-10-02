@@ -76,14 +76,14 @@ La SKODA Elroq 85x, avec des dimensions de 4488 mm de longueur, 1879 mm de large
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'SKODA Elroq 85x, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+- Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
-- Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
-Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
+Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinaire.
 
 Les vitres du montant B et de l'arrière sont teintées.
 
@@ -93,24 +93,44 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+Le SKODA Elroq 85x dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+
 ### Sièges
 
 Le SKODA Elroq 85x peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
 
 #### Sièges de première rangée
 
-Le SKODA Elroq 85x propose un seul type de siège avant.
+Pour la première rangée, l'SKODA Elroq 85x propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
+- appui-tête réglable en hauteur
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (standard pour siège passager)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+
+Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
+
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard pour siège passager)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
+
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/frontseats_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
@@ -118,15 +138,19 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- appui-tête réglable en hauteur
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/secondrowseats_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
 
 ## Système de climatisation
 
-Un système climatique est disponible.
+Deux options de système de climatisation sont disponibles :
 
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
@@ -139,6 +163,8 @@ L'SKODA Elroq 85x comprend plusieurs fonctionnalités pour améliorer le confort
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
 
 Le SKODA Elroq 85x dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -226,7 +252,7 @@ Avec le système MAX  de niveau 2, vous obtenez les fonctionnalités suivantes d
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 490 litres. Avec les sièges arrière rabattus, cette capacité passe à 1610 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
+Le coffre offre une capacité de chargement de 490 litres. Avec les sièges arrière rabattus, cette capacité passe à 1610 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 2350 kg, avec un poids de base de 1800 kg. Cela permet une charge maximale de 550 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
