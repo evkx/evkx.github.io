@@ -76,14 +76,14 @@ The SKODA Elroq 50, with dimensions of 4488 mm in length, 1879 mm in width, and 
 
 The SKODA Elroq 50 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
-- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
-There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard is just a regular roof.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -99,18 +99,24 @@ The SKODA Elroq 50 accommodates five passengers with two front seats and a three
 
 #### First Row Seats
 
-The SKODA Elroq 50 offers a single type of front seat.
+The front row offers two seat types to cater to various comfort and style preferences:
 
-The following functionalities are available on the **Sport** seat:
+The following functionalities are available on the **Standard** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
-- [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- Height adjustable headrest
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (standard for passenger seat)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
-Available in:
+The following functionalities are available on the **Comfort** seat:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passenger seat)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -118,15 +124,19 @@ Available in:
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/secondrowseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ## Climate System
 
-There is one climate system available:
+Two climate system options are available:
 
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
-A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
 ## Comfort Features
 
@@ -226,7 +236,7 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2200 kg (4850 lbs), with a base weight of 1650 kg (3638 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
@@ -236,5 +246,23 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 01.07.2024, with deliveries anticipated to begin in February 2025.
+This model made its world premiere on 01.07.2024, with deliveries anticipated to begin in March 2025. Please note that this model is available exclusively in Europe.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 299 900,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the SKODA Elroq 50 that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Volvo EX30 Single Motor](/models/volvo/ex30/ex30_single_motor/)
+- [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
+- [Smart #1](/models/smart/hash1/hash1/)
+- [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+
+<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Range" >}}

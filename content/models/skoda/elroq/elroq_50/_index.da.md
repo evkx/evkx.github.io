@@ -76,14 +76,14 @@ Den SKODA Elroq 50, med dimensioner på 4488 mm i længde, 1879 mm i bredde og 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på SKODA Elroq 50, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+- 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
 - 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
-- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
 
-Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
+Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
@@ -99,18 +99,24 @@ SKODA Elroq 50 har plads til fem passagerer med to sæder foran og en tre-person
 
 #### Første række sæder
 
-SKODA Elroq 50 tilbyder kun én type forreste sæde.
+For første række tilbyder SKODA Elroq 50 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
-Følgende funktioner er tilgængelige på **Sport** sædet.
+Følgende funktioner er tilgængelige på **Standard** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- højdejusterbar nakkestøtte
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passagersæde)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Følgende funktioner er tilgængelige på **Comfort** sædet.
+
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passagersæde)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -118,15 +124,19 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/secondrowseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+To klimaanlægsmuligheder er tilgængelige:
 
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
 
@@ -226,7 +236,7 @@ Med MAX  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet ned, udvides dette til 1610 liter. På taget kan du laste op til 75 kg.
+Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet ned, udvides dette til 1610 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 2200 kg, med en basisvægt på 1650 kg. Dette giver en maksimal last på 550 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
@@ -236,5 +246,23 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 01.07.2024, og leveringer forventes at starte om February 2025.
+Denne model havde verdenspremiere den 01.07.2024, og leveringer forventes at starte om March 2025. Denne model er kun tilgængelig i Europa.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 299 900,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til SKODA Elroq 50, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Volvo EX30 Single Motor](/models/volvo/ex30/ex30_single_motor/)
+- [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
+- [Smart #1](/models/smart/hash1/hash1/)
+- [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+
+<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Range" >}}

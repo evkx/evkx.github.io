@@ -595,7 +595,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
-	Skoda hat 2 Modelle mit insgesamt 15 Varianten.
+	Skoda hat 2 Modelle mit insgesamt 16 Varianten.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Gehe zu Skoda EV-Modellübersicht</a>
 </div>

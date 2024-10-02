@@ -76,14 +76,14 @@ El SKODA Elroq 50, con dimensiones de 4488 mm de longitud, 1879 mm de anchura y 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el SKODA Elroq 50, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+- Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
-- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). La puerta levadiza es eléctrica y tiene un sensor de patada de serie.
 
-Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
+Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
@@ -99,18 +99,24 @@ El SKODA Elroq 50 tiene capacidad para cinco pasajeros con dos asientos delanter
 
 #### Asientos de primera fila
 
-El SKODA Elroq 50 ofrece un único tipo de asiento delantero.
+Para la primera fila, el SKODA Elroq 50 ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
-Las siguientes funcionalidades están disponibles en el asiento **Sport**.
+Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- reposacabezas ajustable en altura
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (estándar para asiento del pasajero)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
+
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (estándar para asiento del pasajero)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/frontseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -118,15 +124,19 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/secondrowseats_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 ## Sistema de climatización
 
-Hay un sistema climático disponible.
+Hay dos opciones de sistema de climatización disponibles:
 
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Características de confort
 
@@ -226,7 +236,7 @@ Con el sistema MAX  de nivel 2, obtienes las siguientes funciones de automatizac
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero plegado, esto se expande a 1610 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero plegado, esto se expande a 1610 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2200 kg, con un peso base de 1650 kg. Esto permite una carga máxima de 550 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
@@ -236,5 +246,23 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 01.07.2024 y se espera que las entregas comiencen en February 2025.
+Este modelo tuvo un estreno mundial el 01.07.2024 y se espera que las entregas comiencen en March 2025. Este modelo sólo está disponible en Europa.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- 299 900,00 NOK (Noruega)
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al SKODA Elroq 50 que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Volvo EX30 Single Motor](/models/volvo/ex30/ex30_single_motor/)
+- [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
+- [Smart #1](/models/smart/hash1/hash1/)
+- [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+
+<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082" target="_blank">Explora una comparación detallada de estos modelos.</a>
+
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Rango" >}}
