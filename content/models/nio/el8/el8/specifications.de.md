@@ -708,7 +708,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Optionale Ausstattung
+				Unbekannt
 			</td>
 		</tr>
 	</tbody>
@@ -1275,7 +1275,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Sprachsteuerung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

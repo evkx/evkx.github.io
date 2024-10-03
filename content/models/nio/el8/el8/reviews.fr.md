@@ -9,6 +9,41 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio EL8 Sunday driving</h3>
+<p>Bjørn Nyland: 03.10.2024</p>
+
+{{< youtube noCEQSHL42c >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>How good is the Nio EL8 as a family car?</h3>
+<p>Bjørn Nyland: 02.10.2024</p>
+
+{{< youtube yxNZ86E5q00 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio EL8 Executive 6 seater banana box test</h3>
+<p>Bjørn Nyland: 02.10.2024</p>
+
+{{< youtube qvqJKwrC0fU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio EL8 LED matrix headlights test</h3>
+<p>Bjørn Nyland: 30.09.2024</p>
+
+{{< youtube EsJRWsbptJ4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio EL8 acceleration, braking and noise test</h3>
+<p>Bjørn Nyland: 30.09.2024</p>
+
+{{< youtube VbopVOBi1Gg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nio EL8 charging test vs BMW, Audi and Mercedes</h3>
 <p>Bjørn Nyland: 29.09.2024</p>
 

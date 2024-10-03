@@ -74,6 +74,8 @@ Nio EL8 har et firehjulstræk, der understøttes af to motorer, en på hver akse
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 110 mm, og maksimum er 200 mm.
 
+For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
+
 ### Styring
 
 Dynamisk styring er en standard-funktion på Nio EL8. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
@@ -84,7 +86,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her. Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
 
 Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
@@ -99,9 +101,11 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Nio EL8, så du ka
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene. Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+
+Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -121,6 +125,8 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
@@ -143,15 +149,14 @@ Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -191,13 +196,13 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 Nio EL8 er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
-Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment
 
@@ -212,7 +217,13 @@ Du kan vælge mellem to lydsystemer på Nio EL8.
 - Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt.
 - Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
 
-Modellen har 3 USB-A-forbindelser som standard.
+Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard.
+
+## Mobilapp
+
+Den Nio EL8 kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
 
 ## Lys
 
@@ -246,17 +257,12 @@ Den Nio EL8 inkluderer flere standard- og valgfri [avancerede førerassistentsys
 
 ### Køreautomatisering
 
-Nio EL8 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
-
-Med NIO Pilot Selected Pack  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med NIO Pilot Complete Pack  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
-
-Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
-
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 ### Sensorer & Kameraer
 
@@ -275,5 +281,22 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
+Denne model havde verdenspremiere den 13.06.2024, og leveringerne startede i October 2024.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 894 000,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Nio EL8, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=44c9b9%2c94534b%2c8201b2%2c45dd09" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Range" >}}

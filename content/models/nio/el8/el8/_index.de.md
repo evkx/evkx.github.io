@@ -74,6 +74,8 @@ Der Nio EL8 verfügt über ein Allradantriebssystem, das von zwei Motoren angetr
 
 Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 110 mm und die maximale 200 mm.
 
+Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
+
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Nio EL8, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
@@ -84,7 +86,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Bei niedrigen Geschwindigkeiten hält der Ein-Pedal-Fahrmodus das Fahrzeug kriechend in Bewegung.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Bei niedrigen Geschwindigkeiten hält der Ein-Pedal-Fahrmodus das Fahrzeug kriechend in Bewegung.
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
@@ -99,9 +101,11 @@ Der Nio EL8 bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Soft-Close ist eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -121,6 +125,8 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
@@ -143,15 +149,14 @@ Die standard-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -191,13 +196,13 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Nio EL8 ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
-Dieses Modell verfügt über ein optionales Sprachsteuerungssystem. Mit der Sprachsteuerung können Sie einige Funktionen über Sprachbefehle steuern.
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
 ## Infotainment
 
@@ -212,7 +217,13 @@ Sie können zwischen zwei Soundsystemen für den Nio EL8 wählen:
 - **Surroundsystem:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
 - **Premium sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
 
-Das Modell verfügt standardmäßig über 3 USB-A-Anschlüsse.
+Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Optional können Sie zusätzliche 2 USB-C-Anschlüsse erhalten. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
+
+## Mobile App
+
+Der Nio EL8 wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
 
 ## Lichter
 
@@ -246,17 +257,12 @@ Der Nio EL8 verfügt über eine Reihe von standardmäßigen und optionalen [fort
 
 ### Fahrautomatisierung
 
-Der Nio EL8 bietet [Fahrautomatisierung
-
-Mit dem NIO Pilot Selected Pack  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem NIO Pilot Complete Pack  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
-
-Mit dem NIO Pilot Complete Pack  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
-
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - Erweiterte Geschwindigkeitsregelung, die der Navigation folgt und auf Hauptstraßen ein- und ausschaltet, um das Ziel zu erreichen.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 ### Sensoren & Kameras
 
@@ -275,5 +281,22 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
+Der Nio EL8 feierte seine Weltpremiere am 13.06.2024, mit Lieferungen ab October 2024.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 894 000,00 NOK (Norwegen)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Nio EL8 identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=44c9b9%2c94534b%2c8201b2%2c45dd09" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Reichweite" >}}

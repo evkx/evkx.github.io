@@ -708,7 +708,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Inconnu
 			</td>
 		</tr>
 	</tbody>
@@ -1275,7 +1275,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Contrôle vocal
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

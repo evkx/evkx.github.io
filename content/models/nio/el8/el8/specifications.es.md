@@ -708,7 +708,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Función de masaje
 			</td>
 			<td>
-				Función opcional
+				Desconocido
 			</td>
 		</tr>
 	</tbody>
@@ -1275,7 +1275,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Control por voz
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

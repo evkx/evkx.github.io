@@ -708,7 +708,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ukjent
 			</td>
 		</tr>
 	</tbody>
@@ -1275,7 +1275,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Stemmestyring
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

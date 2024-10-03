@@ -708,7 +708,7 @@ This model is available with a seat configuration with six seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ This model is available with a seat configuration with six seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Optional feature
+				Unknown
 			</td>
 		</tr>
 	</tbody>
@@ -1275,7 +1275,7 @@ This model is available with a seat configuration with six seats.
 				Voice control
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

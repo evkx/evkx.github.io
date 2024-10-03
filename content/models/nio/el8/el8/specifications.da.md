@@ -708,7 +708,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Valgfri funktion
+				Ukendt
 			</td>
 		</tr>
 	</tbody>
@@ -1275,7 +1275,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Stemmestyring
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
