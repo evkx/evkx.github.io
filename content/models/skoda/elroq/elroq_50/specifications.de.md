@@ -556,7 +556,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Standardfunktion, optional elektrisch
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Standardfunktion, optional elektrisch
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Standardfunktion, optional elektrisch
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +701,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Standardfunktion, optional elektrisch
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Standardfunktion, optional elektrisch
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +717,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Standardfunktion, optional elektrisch
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +797,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

@@ -556,7 +556,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +701,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +717,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +797,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

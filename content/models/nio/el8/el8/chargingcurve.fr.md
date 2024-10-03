@@ -179,10 +179,10 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				8,1 km (5,0 mi)
 			</td>
 			<td>
-				0,6 km (0,4 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				0,6 km (0,4 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -196,10 +196,10 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				7,9 km (4,9 mi)
 			</td>
 			<td>
-				0,6 km (0,4 mi)
+				6,1 km (3,8 mi)
 			</td>
 			<td>
-				0,6 km (0,4 mi)
+				5,7 km (3,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -213,10 +213,10 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 				16,6 km (10,3 mi)
 			</td>
 			<td>
-				1,3 km (0,8 mi)
+				12,7 km (7,9 mi)
 			</td>
 			<td>
-				1,2 km (0,7 mi)
+				11,9 km (7,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1837,10 +1837,10 @@ Nio EL8 dispose d'un chauffage de batterie, ce qui facilite la charge à une tem
 				6,0 km (3,7 mi)
 			</td>
 			<td>
-				0,5 km (0,3 mi)
+				4,6 km (2,9 mi)
 			</td>
 			<td>
-				0,4 km (0,2 mi)
+				4,4 km (2,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1854,10 +1854,10 @@ Nio EL8 dispose d'un chauffage de batterie, ce qui facilite la charge à une tem
 				6,1 km (3,8 mi)
 			</td>
 			<td>
-				0,5 km (0,3 mi)
+				4,7 km (2,9 mi)
 			</td>
 			<td>
-				0,4 km (0,2 mi)
+				4,4 km (2,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -1871,10 +1871,10 @@ Nio EL8 dispose d'un chauffage de batterie, ce qui facilite la charge à une tem
 				8,1 km (5,0 mi)
 			</td>
 			<td>
-				0,6 km (0,4 mi)
+				6,2 km (3,9 mi)
 			</td>
 			<td>
-				0,6 km (0,4 mi)
+				5,8 km (3,6 mi)
 			</td>
 		</tr>
 	</tbody>

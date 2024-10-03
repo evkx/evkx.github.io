@@ -556,7 +556,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +701,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +717,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +797,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>

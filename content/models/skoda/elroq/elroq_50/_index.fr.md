@@ -105,9 +105,9 @@ Pour la première rangée, l'SKODA Elroq 50 propose deux types de sièges diffé
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
-- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (standard pour siège passager)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
@@ -120,9 +120,10 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
-- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable manuellement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard pour siège passager)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 

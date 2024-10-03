@@ -556,7 +556,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonction standard, option électrique
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Fonction standard, option électrique
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Fonction standard, option électrique
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +701,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonction standard, option électrique
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Fonction standard, option électrique
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +717,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Fonction standard, option électrique
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +797,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Non disponible
+				Fonction standard
 			</td>
 		</tr>
 		<tr>

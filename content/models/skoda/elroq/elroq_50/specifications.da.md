@@ -556,7 +556,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Standardfunktion, valgfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Standardfunktion, valgfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Standardfunktion, valgfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +701,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Standardfunktion, valgfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Standardfunktion, valgfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +717,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Standardfunktion, valgfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +797,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

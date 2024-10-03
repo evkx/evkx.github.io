@@ -556,7 +556,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering sätesdjup
 			</td>
 			<td>
-				Standardfunktion, valfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				Standardfunktion, valfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				Standardfunktion, valfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +701,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering sätesdjup
 			</td>
 			<td>
-				Standardfunktion, valfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				Standardfunktion, valfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +717,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				Standardfunktion, valfri elektrisk
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +797,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

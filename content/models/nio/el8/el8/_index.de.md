@@ -40,7 +40,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 240 kW. Das Laden von 0% auf 100% dauert etwa 63 Minuten, während ein typischer Ladevorgang von 10% auf 80% 22 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 176 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 8% und 63%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 147 kW, wobei jede Ladesitzung etwa 20 Minuten und 16 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Nio EL8 zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 245 kWh/100 km, würde die Fahrt etwa 0 Stunden und 27 Minuten dauern. Diese Reise würde 43 Ladestopps von 8% auf 69% erfordern, mit einer gesamten Ladezeit von 968 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 24 Minuten dauern. Diese Reise würde drei Ladestopps von 8% auf 66% erfordern, mit einer gesamten Ladezeit von 64 Minuten.
 
 ### 75kWh
 
@@ -50,7 +50,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 140 kW. Das Laden von 0% auf 100% dauert etwa 66 Minuten, während ein typischer Ladevorgang von 10% auf 80% 35 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 85 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 74%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 75 kW, wobei jede Ladesitzung etwa 38 Minuten und 39 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 245 kWh/100 km, würde die Fahrt etwa 15 Stunden und 59 Minuten dauern. Diese Reise würde 52 Ladestopps von 7% auf 72% erfordern, mit einer gesamten Ladezeit von 1900 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 10 Stunden und 39 Minuten dauern. Diese Reise würde vier Ladestopps von 7% auf 69% erfordern, mit einer gesamten Ladezeit von 140 Minuten.
 
 ### Bordladegerät
 
