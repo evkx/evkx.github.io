@@ -139,7 +139,7 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 ## Klimasystem

@@ -109,7 +109,7 @@ Følgende funktioner er tilgængelige på **Standard** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passagersæde)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passagersæde)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.

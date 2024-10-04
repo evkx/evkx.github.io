@@ -109,7 +109,7 @@ The following functionalities are available on the **Standard** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (standard for passenger seat)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (standard for passenger seat)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:

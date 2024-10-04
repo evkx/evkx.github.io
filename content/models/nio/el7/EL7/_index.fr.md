@@ -139,7 +139,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 ## Système de climatisation

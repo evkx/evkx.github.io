@@ -119,7 +119,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
@@ -133,7 +133,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 - appui-tête réglable en hauteur (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)

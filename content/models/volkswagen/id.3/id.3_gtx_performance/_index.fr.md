@@ -123,7 +123,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)

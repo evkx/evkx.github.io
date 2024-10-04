@@ -139,7 +139,7 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 ## Climate System

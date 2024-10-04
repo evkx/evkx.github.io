@@ -109,7 +109,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (estándar para asiento del pasajero)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (estándar para asiento del pasajero)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.

@@ -95,7 +95,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.

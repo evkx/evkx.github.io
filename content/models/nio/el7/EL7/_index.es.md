@@ -139,7 +139,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 ## Sistema de climatización

@@ -109,7 +109,7 @@ Följande funktioner är tillgängliga på **Standard** sätet.
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (standard för passagerarsäte)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (standard för passagerarsäte)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.

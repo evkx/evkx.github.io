@@ -109,7 +109,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (standard pour siège passager)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (standard pour siège passager)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.

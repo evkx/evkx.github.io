@@ -109,7 +109,7 @@ Følgende funksjoner er tilgjengelige på **Standard** setet.
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passasjersete)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (standard for passasjersete)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
@@ -123,7 +123,7 @@ Følgende funksjoner er tilgjengelige på **Comfort** setet.
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (manuelt justerbar)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (manuelt justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (standard for passasjersete)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
