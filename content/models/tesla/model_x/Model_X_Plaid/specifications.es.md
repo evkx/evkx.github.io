@@ -1014,14 +1014,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Limitador de velocidad
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de eficiencia
 			</td>
 			<td>

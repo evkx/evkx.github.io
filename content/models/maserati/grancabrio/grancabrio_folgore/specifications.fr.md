@@ -921,14 +921,6 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 		</tr>
 		<tr>
 			<td>
-				Limiteur de vitesse
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à l'efficacité
 			</td>
 			<td>

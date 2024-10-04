@@ -919,13 +919,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Hastighedsbegrænser
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>

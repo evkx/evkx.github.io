@@ -572,7 +572,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning fram
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning bak
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hastighetsbegränsare
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

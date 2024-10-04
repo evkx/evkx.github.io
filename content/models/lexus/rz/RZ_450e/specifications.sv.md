@@ -975,13 +975,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Hastighetsbegränsare
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				EfficiencyAssist
 			</td>
 			<td>

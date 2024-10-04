@@ -74,11 +74,23 @@ Nio EL8 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axe
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 110 mm, och maximal är 200 mm.
 
+Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vilket underlättar in- och urstigning. När dörren stängs återgår karossen till den tidigare nivån.
+
 För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Nio EL8. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+Nio EL8 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
+
+- Sport+: Dynamisk styrning, låg fjädring med dynamisk gasrespons och fjädring. Låg regenerativ bromsning.
+- Sport: Balanserad styrning, lägsta fjädringshöjd med balanserad gasrespons och dämpning. Låg regenerativ bromsning.
+- Comfort: Komfortstyrning, normal fjädringshöjd med balanserad gasrespons och komfortdämpning. Låg regenerativ bromsning.
+- ECO: Komfortstyrning, normal fjädringshöjd med effektiv gasrespons och komfortdämpning. Medelhög regenerativ bromsning.
+- Custom: Användardefinierade inställningar för styrning, fjädring, gasrespons och regenerativ bromsning.
 
 ### Bromsar
 
@@ -132,6 +144,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support) (standard för passagerarsäte)
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd) (standard för passagerarsäte)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
@@ -156,7 +169,11 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -227,7 +244,7 @@ Nio EL8 kommer med en egen dedikerad mobilapp, tillgänglig för både Android- 
 
 ## Ljus
 
-Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
+Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 

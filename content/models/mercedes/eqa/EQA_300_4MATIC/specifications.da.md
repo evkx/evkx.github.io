@@ -1119,14 +1119,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Hastighedsbegrænser
-			</td>
-			<td>
-				Ja (Speed limit assist), standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>

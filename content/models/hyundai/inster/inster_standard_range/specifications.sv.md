@@ -896,13 +896,6 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Hastighetsbegränsare
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				EfficiencyAssist
 			</td>
 			<td>

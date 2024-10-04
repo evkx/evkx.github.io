@@ -965,13 +965,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Limitador de velocidad
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de eficiencia
 			</td>
 			<td>

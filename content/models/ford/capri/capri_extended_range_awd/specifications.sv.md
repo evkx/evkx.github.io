@@ -1151,14 +1151,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Hastighetsbegränsare
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				EfficiencyAssist
 			</td>
 			<td>

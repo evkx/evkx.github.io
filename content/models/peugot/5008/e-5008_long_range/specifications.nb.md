@@ -965,13 +965,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>

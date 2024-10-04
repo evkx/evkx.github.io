@@ -1108,13 +1108,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Geschwindigkeitsbegrenzer
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effizienzassistent
 			</td>
 			<td>

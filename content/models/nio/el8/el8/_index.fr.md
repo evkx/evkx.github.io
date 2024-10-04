@@ -74,11 +74,23 @@ Nio EL8 dispose d'un système de transmission intégrale pris en charge par deux
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 110 mm et la garde au sol maximale est de 200 mm.
 
+La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
+
 Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
 
 ### Pilotage
 
 La direction dynamique est une fonctionnalité un standard sur le Nio EL8. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+
+### Modes de conduite
+
+Le Nio EL8 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
+
+- Sport+ : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques. Faible freinage régénératif.
+- Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. Faible freinage régénératif.
+- Comfort : Direction confort, hauteur de suspension normale avec accélérateur équilibré et amortissement de suspension confort. Faible freinage régénératif.
+- ECO : Direction confort, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confort. Freinage régénératif moyen.
+- Custom : Paramètres définis par l'utilisateur pour la direction, la suspension, la réponse de l'accélérateur et le freinage régénératif.
 
 ### Freins
 
@@ -132,6 +144,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour siège passager)
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest) (standard pour siège passager)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
@@ -156,7 +169,11 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
+- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -227,7 +244,7 @@ Le Nio EL8 est accompagné de son application mobile dédiée, disponible pour l
 
 ## Lumières
 
-Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
+Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

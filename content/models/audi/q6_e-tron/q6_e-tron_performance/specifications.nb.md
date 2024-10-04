@@ -1604,14 +1604,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>

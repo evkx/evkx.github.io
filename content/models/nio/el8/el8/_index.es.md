@@ -74,11 +74,23 @@ Nio EL8 tiene un sistema de tracción total sostenido por dos motores, uno en ca
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 110 mm y la máxima es 200 mm.
 
+La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
+
 Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
 
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Nio EL8. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
+### Modos de conducción
+
+El Nio EL8 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
+
+- Sport+: Dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. Baja frenada regenerativa.
+- Sport: Dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. Baja frenada regenerativa.
+- Comfort: Dirección de confort, altura de suspensión normal con aceleración equilibrada y amortiguación de confort. Baja frenada regenerativa.
+- ECO: Dirección de confort, altura de suspensión normal con aceleración eficiente y amortiguación de confort. Frenada regenerativa media.
+- Custom: Configuraciones definidas por el usuario para dirección, suspensión, respuesta del acelerador y frenada regenerativa.
 
 ### Frenos
 
@@ -132,6 +144,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asiento del pasajero)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest) (estándar para asiento del pasajero)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
@@ -156,7 +169,11 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [masaje](../../../../technology/seats/adjustment/#massage)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -227,7 +244,7 @@ El Nio EL8 viene con su propia aplicación móvil, disponible para dispositivos 
 
 ## Luces
 
-Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
+Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 

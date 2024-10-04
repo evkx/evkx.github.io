@@ -965,13 +965,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>

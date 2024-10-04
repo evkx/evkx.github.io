@@ -572,7 +572,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement réglable avant
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement arrière réglable
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 			</td>
 			<td>
 				Oui, équipement en option
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Limiteur de vitesse
-			</td>
-			<td>
-				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

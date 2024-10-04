@@ -572,7 +572,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping foran
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping bak
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Standard passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 			</td>
 			<td>
 				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

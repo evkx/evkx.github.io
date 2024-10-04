@@ -877,13 +877,6 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 		</tr>
 		<tr>
 			<td>
-				Hastighedsbegrænser
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>

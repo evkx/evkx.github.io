@@ -883,13 +883,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Limitador de velocidad
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de eficiencia
 			</td>
 			<td>

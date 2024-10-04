@@ -1127,14 +1127,6 @@ This model is available with a seat configuration with five or seven seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes (Speed limit assist), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>

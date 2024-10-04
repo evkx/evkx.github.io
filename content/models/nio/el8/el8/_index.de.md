@@ -74,11 +74,23 @@ Der Nio EL8 verfügt über ein Allradantriebssystem, das von zwei Motoren angetr
 
 Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 110 mm und die maximale 200 mm.
 
+Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie auf ihr vorheriges Niveau zurück.
+
 Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Nio EL8, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der Nio EL8 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
+
+- Sport+: Dynamische Lenkung, niedriges Fahrwerk mit dynamischem Gas und Fahrwerk. Niedrige Rekuperationsbremsung.
+- Sport: Ausgewogene Lenkung, niedrigste Fahrwerkshöhe mit ausgewogenem Gas und Dämpfung. Niedrige Rekuperationsbremsung.
+- Comfort: Komfortlenkung, normale Fahrwerkshöhe mit ausgewogenem Gas und Komfortdämpfung. Niedrige Rekuperationsbremsung.
+- ECO: Komfortlenkung, normale Fahrwerkshöhe mit effizientem Gas und Komfortdämpfung. Mittlere Rekuperationsbremsung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Fahrwerk, Gasannahme und Rekuperationsbremsung.
 
 ### Bremsen
 
@@ -132,6 +144,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für Beifahrersitz)
 - [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für Beifahrersitz)
 
 Verfügbar in:
@@ -156,7 +169,11 @@ Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -227,7 +244,7 @@ Der Nio EL8 wird mit einer speziellen mobilen App geliefert, die sowohl für And
 
 ## Lichter
 
-Der  ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+Die Standardscheinwerfer verwenden LED-Matrix-Technologie. LED-Matrix ist ein adaptives System, das den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen aufteilt, die der Lichtcontroller einzeln ein- und ausschalten kann, um kleine Bereiche vor dem Fahrzeug nicht zu beleuchten. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 

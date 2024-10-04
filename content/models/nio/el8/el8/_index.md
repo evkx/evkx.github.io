@@ -74,11 +74,23 @@ The Nio EL8 features an all-wheel drive system powered by two motors, one on eac
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 110 mm, and the maximum is 200 mm.
 
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
+
 For easier loading, you can lower the air suspension from the rear
 
 ### Steering
 
 Dynamic steering is a standard on the Nio EL8, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Nio EL8 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
+
+- Sport+: Dynamic steering, low suspension with dynamic throttle and suspension. Low regen braking.
+- Sport: Balanced steering, lowest suspension height with balanced throttle and damping. Low regen braking.
+- Comfort: Comfort steering, normal suspension height with balanced throttle, and comfort suspension damping. Low regen braking.
+- ECO: Comfort steering, normal suspension height with efficient throttle, and comfort suspension damping. Medium regen braking.
+- Custom: User-defined settings for steering, suspension, throttle response, and regen braking.
 
 ### Brakes
 
@@ -132,6 +144,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for passenger seat)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest) (standard for passenger seat)
 
 Available in:
@@ -156,7 +169,11 @@ The second option is two captain chairs. Additional functionalities include:
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -227,7 +244,7 @@ The Nio EL8 comes with a dedicated mobile app, available for both Android and iO
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 

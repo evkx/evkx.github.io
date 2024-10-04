@@ -897,13 +897,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Geschwindigkeitsbegrenzer
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effizienzassistent
 			</td>
 			<td>

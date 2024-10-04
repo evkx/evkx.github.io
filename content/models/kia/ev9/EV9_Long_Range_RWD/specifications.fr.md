@@ -1163,13 +1163,6 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 		</tr>
 		<tr>
 			<td>
-				Limiteur de vitesse
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à l'efficacité
 			</td>
 			<td>

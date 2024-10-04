@@ -572,7 +572,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar dæmpning foran
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar dæmpning bagtil
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 			</td>
 			<td>
 				Ja, ekstraudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hastighedsbegrænser
-			</td>
-			<td>
-				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

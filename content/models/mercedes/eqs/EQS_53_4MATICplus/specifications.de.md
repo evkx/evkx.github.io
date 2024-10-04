@@ -1280,14 +1280,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Geschwindigkeitsbegrenzer
-			</td>
-			<td>
-				Ja (Speed limit assist), Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effizienzassistent
 			</td>
 			<td>

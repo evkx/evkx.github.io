@@ -1788,14 +1788,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Limiteur de vitesse
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à l'efficacité
 			</td>
 			<td>

@@ -935,13 +935,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>

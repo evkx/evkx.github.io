@@ -957,14 +957,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Geschwindigkeitsbegrenzer
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effizienzassistent
 			</td>
 			<td>

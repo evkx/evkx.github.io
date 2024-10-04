@@ -1175,14 +1175,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Limitador de velocidad
-			</td>
-			<td>
-				Sí (Speed limit assist), equipo estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de eficiencia
 			</td>
 			<td>

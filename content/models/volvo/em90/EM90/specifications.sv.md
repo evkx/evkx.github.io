@@ -918,13 +918,6 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Hastighetsbegränsare
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				EfficiencyAssist
 			</td>
 			<td>

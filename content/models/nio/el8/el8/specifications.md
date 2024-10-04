@@ -572,7 +572,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard passenger seat
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ This model is available with a seat configuration with six seats.
 			</td>
 			<td>
 				Yes, optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

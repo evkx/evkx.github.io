@@ -572,7 +572,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación delantera ajustable
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación trasera ajustable
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ Este modelo está disponible con una configuración de seis asientos.
 			</td>
 			<td>
 				Sí, equipo opcional
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Limitador de velocidad
-			</td>
-			<td>
-				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

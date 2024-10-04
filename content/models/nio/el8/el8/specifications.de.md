@@ -572,7 +572,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Dämpfung vorne
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Dämpfung hinten
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -788,7 +788,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Standard Beifahrersitz
 			</td>
 		</tr>
 		<tr>
@@ -1001,7 +1001,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 	</tbody>
@@ -1203,14 +1203,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 			</td>
 			<td>
 				Ja, Sonderausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Geschwindigkeitsbegrenzer
-			</td>
-			<td>
-				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
