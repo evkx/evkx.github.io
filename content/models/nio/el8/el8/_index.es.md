@@ -240,7 +240,7 @@ El Nio EL8 cuenta con un sistema de infoentretenimiento llamado NIO SkyOS, dise�
 
 ### Sistema de navegación
 
-El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación avanzada de rutas donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real y mapas satelitales, asegurando un viaje eficiente y sin estrés.
 
 ### Aplicaciones Preinstaladas
 

@@ -240,7 +240,7 @@ Nio EL8 har et infotainmentsystem kaldet NIO SkyOS, designet til at give en brug
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger, der sikrer en effektiv og stressfri rejse.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger og satellitkort, hvilket sikrer en effektiv og stressfri rejse.
 
 ### Forudinstallerede Apps
 

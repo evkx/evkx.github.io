@@ -240,7 +240,7 @@ The Nio EL8 features an infotainment system called NIO SkyOS, designed to provid
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information and satellite maps, ensuring an efficient and stress-free journey.
 
 ### Preinstalled Apps
 
