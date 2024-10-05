@@ -453,6 +453,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				0,25
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendecirkel
+			</td>
+			<td>
+				12,4 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -896,7 +904,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +928,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Valgfri funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1082,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Bakkamera
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1170,7 +1178,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Undgåelse af venstresving
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1178,7 +1186,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1210,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1218,7 +1226,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1226,7 +1234,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Traffic Sign Recognition
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1259,7 +1267,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Head-up display
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1340,64 +1348,6 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Antal tilgængelige lydsystemer
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antal højttalere
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antal højttalere
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

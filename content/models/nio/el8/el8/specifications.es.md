@@ -453,6 +453,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				0,25
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Círculo de giro
+			</td>
+			<td>
+				12,4 metros
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -896,7 +904,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +928,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Función de masaje
 			</td>
 			<td>
-				Función opcional
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1082,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Cámara de marcha atrás
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1170,7 +1178,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
-				Sí, equipo opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1178,7 +1186,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1210,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1218,7 +1226,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
-				Sí, equipo opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1226,7 +1234,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1259,7 +1267,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Pantalla frontal
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1340,64 +1348,6 @@ Este modelo está disponible con una configuración de seis asientos.
 			</td>
 			<td>
 				No disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Número de sistemas de sonido disponibles
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Número de altavoces
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Número de altavoces
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

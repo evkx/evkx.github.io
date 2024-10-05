@@ -125,6 +125,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+Interiøret i Nio EL8 er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet.
+
 ### Sæder
 
 Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
@@ -161,7 +163,6 @@ Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
@@ -185,7 +186,9 @@ Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde
 
 Der er et tilgængeligt klimasystem.
 
-- **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
+- **5-zone klimaanlæg:** Understøtter forskellige temperaturer i fem zoner. Føreren, passageren og to zoner i 2. række og en i 3. række.
+
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
 
@@ -200,12 +203,14 @@ Nio EL8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 ## Brugergrænseflade og kontrol
 
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+
 Vigtige skærmdetaljer:
 
 - Skærmen  bag rattet monteret i instrumentbrættet er 9,8 tommer stor
 - Skærmen touch i midten af midterkonsollen er 11,3 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -229,12 +234,11 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Nio EL8.
+Én type lydsystem er tilgængelig for Nio EL8.
 
-- Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt.
-- Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
+- Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på 2230 watt.
 
-Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard.
+Modellen har 3 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
 ## Mobilapp
 
@@ -260,15 +264,13 @@ Den Nio EL8 inkluderer flere standard- og valgfri [avancerede førerassistentsys
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nio EL8, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfrit på Nio EL8, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Nio EL8, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Nio EL8, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfrit på Nio EL8, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Nio EL8, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nio EL8, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
-
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfrit på Nio EL8, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nio EL8, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
 
@@ -279,7 +281,8 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du følgende funktioner til 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

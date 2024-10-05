@@ -453,6 +453,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				0,25
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				12,4 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -896,7 +904,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +928,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1082,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				ReversingCamera
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1170,7 +1178,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Left Turn Crash Avoidance
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1178,7 +1186,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Kollisionsvarning, front
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1210,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Varning för korstrafik, foran
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1218,7 +1226,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Autonom nödstyrning
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1226,7 +1234,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Skyltigenkänning
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1259,7 +1267,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Head-up display
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1340,64 +1348,6 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Antal tillgängliga ljudsystem
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antal högtalare
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antal högtalare
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

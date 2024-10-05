@@ -453,6 +453,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				0,25
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				12,4 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -896,7 +904,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +928,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1082,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Bryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1170,7 +1178,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1178,7 +1186,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1210,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1218,7 +1226,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1226,7 +1234,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1259,7 +1267,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1340,64 +1348,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Antall tilgjengelige lydsystemer
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antall høyttalere
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antall høyttalere
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

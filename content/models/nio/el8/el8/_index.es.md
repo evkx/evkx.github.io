@@ -125,6 +125,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El interior del Nio EL8 está diseñado con una estética minimalista, con materiales de primera calidad en todo el habitáculo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada.
+
 ### Asientos
 
 La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
@@ -161,7 +163,6 @@ La opción standard son dos sillas estilo capitán. Además, las siguientes func
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
@@ -185,7 +186,9 @@ La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamen
 
 Hay un sistema climático disponible.
 
-- **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+- **Sistema de climatización de 5 zonas:** Soporta diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila.
+
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
 ## Características de confort
 
@@ -200,12 +203,14 @@ El Nio EL8 incluye varias características para mejorar la comodidad y convenien
 
 ## Interfaz de usuario y control
 
+La interfaz de control de este modelo de vehículo eléctrico está centrada en la interacción con la pantalla y solo tiene una funcionalidad limitada disponible en botones y palancas. Para algunos, esto puede resultar en una experiencia de usuario y usabilidad menos que ideal.
+
 Detalles clave de la pantalla:
 
 - La  pantalla detrás del volante montado en el tablero mide 9,8 pulgadas de tamaño
 - La touch pantalla en el medio de la consola central mide 11,3 pulgadas de tamaño
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -229,12 +234,11 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Nio EL8.
+Un tipo de sistema de sonido está disponible para el Nio EL8.
 
-- Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios.
-- Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+- Con el Premium sound system, obtienes 23 parlantes con una salida máxima del sistema de 2230 vatios.
 
-El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales. El modelo tiene 1 conexiones USB-A de serie.
+El modelo tiene 3 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 
 ## Aplicación móvil
 
@@ -260,15 +264,13 @@ El Nio EL8 incluye varios [sistemas avanzados de asistencia al conductor](../../
 
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Nio EL8, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Nio EL8, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Nio EL8, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
 [**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Nio EL8, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Nio EL8, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Nio EL8, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
 
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Nio EL8, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
-
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Nio EL8, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Nio EL8, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
 
@@ -279,7 +281,8 @@ Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes las siguientes func
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
+- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras
 

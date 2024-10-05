@@ -30,6 +30,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Duell: BYD Tang mot Nio EL8 - like store, men store forskjeller</h3>
+<p>Norsk elbilforening: 02.10.2024</p>
+
+{{< youtube kK9DS5NkBWs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nio EL8 LED matrix headlights test</h3>
 <p>Bjørn Nyland: 30.09.2024</p>
 
@@ -55,6 +62,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 <p>Bjørn Nyland: 28.09.2024</p>
 
 {{< youtube yVD7swYIook >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio EL8 - Is NIOs 6-Seater Worth the Price? (ES8) | Review</h3>
+<p>It's Only Electric: 12.09.2024</p>
+
+{{< youtube GCIQnjoXqEk >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

@@ -453,6 +453,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				0,25
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Wendekreis
+			</td>
+			<td>
+				12,4 Meter (488,2")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -896,7 +904,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +928,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Optionale Ausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1082,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Rückfahrkamera
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1170,7 +1178,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1178,7 +1186,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Warnung vor Kollisionen
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1210,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Querverkehrsassistent
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1218,7 +1226,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Automatische Notlenkung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1226,7 +1234,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Verkehrszeichenerkennung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1259,7 +1267,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Head-up-Display
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1340,64 +1348,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Anzahl der verfügbaren Soundsysteme
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Anzahl der Lautsprecher
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Anzahl der Lautsprecher
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

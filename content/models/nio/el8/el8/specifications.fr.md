@@ -453,6 +453,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				0,25
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Cercle de tournage
+			</td>
+			<td>
+				12,4 mètre
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -896,7 +904,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +928,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1082,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Caméra de recul
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1170,7 +1178,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
-				Oui, équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1178,7 +1186,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Avertissement de collision avant
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1210,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Assistance au trafic transversal
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1218,7 +1226,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Direction d'urgence automatique
 			</td>
 			<td>
-				Oui, équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1226,7 +1234,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1259,7 +1267,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Affichage tête haute
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1340,64 +1348,6 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 			</td>
 			<td>
 				Non disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Nombre de systèmes audio disponibles
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Nombre de haut-parleurs
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Nombre de haut-parleurs
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

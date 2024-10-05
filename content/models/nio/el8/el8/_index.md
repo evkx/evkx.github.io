@@ -125,6 +125,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The interior of the Nio EL8 is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
+
 ### Seats
 
 The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
@@ -161,7 +163,6 @@ The standard option is two captain chairs. Additional functionalities include:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 The second option is two captain chairs. Additional functionalities include:
@@ -185,7 +186,9 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
+- **5-zone climate system:** Supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row.
+
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
 
@@ -200,12 +203,14 @@ The Nio EL8 includes several features to enhance comfort and convenience:
 
 ## User Interface and Control
 
+The control interface for the Nio EL8 is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 Key screen details:
 
 - The  screen behind the steering wheel mounted into the dashboard is 9.8 inches large
 - The touch screen in the middle of the center console is 11.3 inches large
 
-A head-up display is an optional system that projects speed and other important driver information onto the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -229,12 +234,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound System
 
-You can choose between two sound systems for the Nio EL8:
+The Nio EL8 comes equipped with one sound system option:
 
-- **Surroundsystem:** Features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 23 speakers and delivers a maximum output of 2230 watts.
 
-Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Mobile App
 
@@ -260,15 +264,13 @@ The Nio EL8 features a range of standard and optional [advanced driver assistanc
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Nio EL8, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Nio EL8, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Nio EL8, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Nio EL8, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optional on the Nio EL8, this driver assist system helps drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Nio EL8, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Nio EL8, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
-
-[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the Nio EL8, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Nio EL8, this side assist system helps to detect traffic in blind spots.
 
@@ -279,7 +281,8 @@ With the NIO Pilot Complete Pack  level 2 system, you get the following driving 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 
