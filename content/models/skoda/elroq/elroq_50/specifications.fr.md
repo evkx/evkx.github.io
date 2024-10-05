@@ -204,38 +204,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				CCS2
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Tapez le port de charge Amérique du Nord
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type port de charge Chine
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tapez chargeport Japon
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -436,7 +404,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Suspension adaptative
 			</td>
 			<td>
-				Oui, équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +412,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement réglable avant
 			</td>
 			<td>
-				Oui (Dynamic Chassis Control), équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +420,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement arrière réglable
 			</td>
 			<td>
-				Oui (Dynamic Chassis Control), équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -519,6 +487,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ressort hélicoïdal
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -580,7 +564,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -725,7 +709,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1042,7 +1026,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Freinage d'urgence automatique
 			</td>
 			<td>
-				Oui (Front assist), équipement standard
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1050,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1074,7 +1058,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de collision avant
 			</td>
 			<td>
-				Oui (Front Assist), équipement standard
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1106,7 +1090,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1114,7 +1098,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
-				Oui (Front assist), équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>

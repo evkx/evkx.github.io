@@ -46,7 +46,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. This model uses the [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) connector for the chargeport.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,7 +56,7 @@ The SKODA Elroq 50 has a rear-wheel drive system supported by one motor on the r
 
 ### Suspension
 
-The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The Sport suspension has a fixed height and damping. The ground clearance with this suspension is 173 mm.
 
 ### Steering
 
@@ -182,7 +182,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The SKODA Elroq 50 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -208,10 +208,7 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the SKODA Elroq 50.
-
-- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -220,8 +217,6 @@ The taillights use LED technology, ensuring both high visibility and energy effi
 ## Advanced Driver Assistance Systems
 
 The SKODA Elroq 50 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
-
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
 ### Safety Systems
 
@@ -236,8 +231,6 @@ The SKODA Elroq 50 features a range of standard and optional [advanced driver as
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the SKODA Elroq 50, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the SKODA Elroq 50, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
-
-[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the SKODA Elroq 50, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the SKODA Elroq 50, this side assist system helps to detect traffic in blind spots.
 
@@ -279,7 +272,8 @@ In the rapidly expanding EV market, EVKX.net has identified several alternatives
 - [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
 - [Smart #1](/models/smart/hash1/hash1/)
 - [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+- [Ford Explorer Standard Range RWD](/models/ford/explorer/explorer_standard_range_rwd/)
 
-<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082%2caec4a1" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -46,7 +46,7 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Denne modellen bruker [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) kontakten for ladeporten.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,7 +56,7 @@ SKODA Elroq 50 har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
 ### Hjuloppheng
 
-Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 173 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 173 mm.
 
 ### Styring
 
@@ -182,7 +182,7 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 SKODA Elroq 50 er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ### Speil
 
@@ -208,10 +208,7 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
-Du kan velge mellom to typer frontlykter for SKODA Elroq 50.
-
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -220,8 +217,6 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 ## Avanserte førerassistentsystemer
 
 SKODA Elroq 50 inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
-
-[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper sjåfører med å forutse kjøreforhold og spare energi.
 
 ### Sikkerhetssystemer
 
@@ -236,8 +231,6 @@ SKODA Elroq 50 inkluderer flere [avanserte førerassistanse systemer](../../../.
 [**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på SKODA Elroq 50, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på SKODA Elroq 50, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
-
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på SKODA Elroq 50, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
 [**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på SKODA Elroq 50, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
@@ -279,7 +272,8 @@ I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer 
 - [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
 - [Smart #1](/models/smart/hash1/hash1/)
 - [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+- [Ford Explorer Standard Range RWD](/models/ford/explorer/explorer_standard_range_rwd/)
 
-<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082%2caec4a1" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

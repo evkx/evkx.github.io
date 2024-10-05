@@ -46,7 +46,7 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Dieses Modell verwendet den [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) Stecker für den Ladeanschluss.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,7 +56,7 @@ Der SKODA Elroq 50 hat ein Heckantriebssystem, das von einem Motor an der Hinter
 
 ### Federung
 
-Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die Sport Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
 
 ### Lenkung
 
@@ -182,7 +182,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der SKODA Elroq 50 ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -208,10 +208,7 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 
 ## Lichter
 
-Sie können zwischen zwei Scheinwerfertypen für den SKODA Elroq 50 wählen.
-
-- **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
-- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
+**Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -220,8 +217,6 @@ Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auc
 ## Erweiterte Fahrerassistenzsysteme
 
 Der SKODA Elroq 50 verfügt über eine Reihe von standardmäßigen und optionalen [fortschrittlichen Fahrerassistenzsystemen](../../../../technology/driverassistance/) (ADAS), die die Sicherheit und den Komfort verbessern sollen.
-
-[**Effizienz-Assistent**](../../../../technology/driverassistance/efficencyassist/): Eine Standard Funktion, die Fahrern hilft, Fahrbedingungen vorherzusehen und Energie zu sparen.
 
 ### Sicherheitssysteme
 
@@ -236,8 +231,6 @@ Der SKODA Elroq 50 verfügt über eine Reihe von standardmäßigen und optionale
 [**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im SKODA Elroq 50, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im SKODA Elroq 50, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
-
-[**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im SKODA Elroq 50, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im SKODA Elroq 50, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
@@ -279,7 +272,8 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum SKODA Elroq
 - [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
 - [Smart #1](/models/smart/hash1/hash1/)
 - [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+- [Ford Explorer Standard Range RWD](/models/ford/explorer/explorer_standard_range_rwd/)
 
-<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082%2caec4a1" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Reichweite" >}}

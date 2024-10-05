@@ -242,13 +242,12 @@ The Nio EL8 features an infotainment system called NIO SkyOS, designed to provid
 
 The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
-### App Store
+### Preinstalled Apps
 
-The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
 
 - **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
-- Tidal
-- NRK
+- **Tidal**
 
 ### Sound System
 
@@ -262,9 +261,14 @@ Additionally, the model includes 3 USB-C connections as standard. As an option, 
 
 The Nio EL8 comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
+- **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Window Control:** Open and close the windows from anywhere.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
 - **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
 
 ## Lights
 
@@ -293,6 +297,8 @@ The Nio EL8 features a range of standard and optional [advanced driver assistanc
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Nio EL8, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Nio EL8, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Nio EL8, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 

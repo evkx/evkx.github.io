@@ -242,13 +242,12 @@ El Nio EL8 cuenta con un sistema de infoentretenimiento llamado NIO SkyOS, dise�
 
 El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
-### App Store
+### Aplicaciones Preinstaladas
 
-El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
 
 - **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
-- Tidal
-- NRK
+- **Tidal**
 
 ### Sistema de sonido
 
@@ -262,9 +261,14 @@ El modelo tiene 3 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 
 El Nio EL8 viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
 
+- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
 - **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
 - **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Control de ventanas**: Abre y cierra las ventanas desde cualquier lugar.
+- **Programar carga**: Planifica y programa sesiones de carga antes de tus viajes.
+- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
 - **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
+- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
 
 ## Luces
 
@@ -293,6 +297,8 @@ El Nio EL8 incluye varios [sistemas avanzados de asistencia al conductor](../../
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Nio EL8, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Nio EL8, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Nio EL8, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 

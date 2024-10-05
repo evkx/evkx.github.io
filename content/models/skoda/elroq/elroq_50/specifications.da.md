@@ -204,38 +204,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				CCS2
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Typ ladeport Nordamerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Oceanien (Australien, New Zealand ++)
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -436,7 +404,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Adaptiv suspension
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +412,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar dæmpning foran
 			</td>
 			<td>
-				Ja (Dynamic Chassis Control), ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +420,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar dæmpning bagtil
 			</td>
 			<td>
-				Ja (Dynamic Chassis Control), ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -519,6 +487,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Spiralfjeder
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -580,7 +564,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -725,7 +709,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1042,7 +1026,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødbremse
 			</td>
 			<td>
-				Ja (Front assist), standardudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1050,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Undgåelse af venstresving
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1074,7 +1058,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja (Front Assist), standardudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1106,7 +1090,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1114,7 +1098,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Front assist), standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

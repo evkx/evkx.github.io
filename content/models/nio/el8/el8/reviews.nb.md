@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Family trip to Oslo with Nio EL8</h3>
+<p>Bjørn Nyland: 05.10.2024</p>
+
+{{< youtube HJv1cjRe8Jo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio EL8 autoparking test</h3>
+<p>Bjørn Nyland: 04.10.2024</p>
+
+{{< youtube JpNPSHVKqZs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nio EL8 Sunday driving</h3>
 <p>Bjørn Nyland: 03.10.2024</p>
 

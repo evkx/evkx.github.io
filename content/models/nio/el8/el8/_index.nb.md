@@ -242,13 +242,12 @@ Nio EL8 har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukerve
 
 Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
-### App store
+### Forhåndsinstallerte Apper
 
-Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et utvalg av forhåndsinstallerte tredjepartsapper som kjører direkte på bilens skjerm, uavhengig av en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
 
 - **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
-- Tidal
-- NRK
+- **Tidal**
 
 ### Lydsystem
 
@@ -262,9 +261,14 @@ Modellen har 3 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 Nio EL8 kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
 
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
 - **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
 - **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Vinduskontroll**: Åpne og lukk vinduene fra hvor som helst.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
 - **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
 
 ## Lys
 
@@ -293,6 +297,8 @@ Nio EL8 inkluderer flere [avanserte førerassistanse systemer](../../../../techn
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nio EL8, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 [**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nio EL8, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Nio EL8, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
