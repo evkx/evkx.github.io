@@ -313,8 +313,8 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du följande funktioner för 
 
 ### Sensorer & Kameror
 
-Denna modell använder kameror, LiDAR och ultraljudssensorer för sina förarassistanssystem.
-Upp till en [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/), och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivningar.
 
 {{<evkxdisplayaddarticle />}}
 
