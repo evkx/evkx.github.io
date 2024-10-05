@@ -240,7 +240,7 @@ Le Nio EL8 est équipé d'un système d'infodivertissement appelé NIO SkyOS, co
 
 ### Système de navigation
 
-Le système de navigation intégré utilise des cartes détaillées et offre une planification avancée des itinéraires où vous pouvez définir le niveau de charge cible à votre destination ou lors des arrêts de charge. Le système fournit des informations sur le trafic en temps réel et des cartes satellites, garantissant un voyage efficace et sans stress.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée où vous pouvez définir le niveau de charge cible à votre destination ou pendant les arrêts de recharge. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### Applications Préinstallées
 
@@ -248,6 +248,7 @@ Bien que le système d'infodivertissement ne comprenne pas de boutique d'applica
 
 - **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
 - **Tidal**
+- **ScreenhitsTV**
 
 ### Système audio
 

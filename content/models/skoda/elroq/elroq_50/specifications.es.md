@@ -1098,7 +1098,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
-				No disponible
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>

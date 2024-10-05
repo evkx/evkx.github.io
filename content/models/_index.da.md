@@ -428,7 +428,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
 	<h2>Lexus</h2>
 	<p>
-	Lexus har 2 modeller med i alt 2 varianter.
+	Lexus har 2 modeller med i alt 3 varianter.
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Gå til Lexus EV-modeloversigt</a>
 </div>

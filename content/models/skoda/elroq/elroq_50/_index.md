@@ -232,15 +232,25 @@ The SKODA Elroq 50 features a range of standard and optional [advanced driver as
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the SKODA Elroq 50, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the SKODA Elroq 50, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the SKODA Elroq 50, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-With the MAX  level 2 system, you get the following driving automation features.
+With the standard system the model offers no driving automation.
+
+- Cruise control.
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+With the MAX  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), two [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

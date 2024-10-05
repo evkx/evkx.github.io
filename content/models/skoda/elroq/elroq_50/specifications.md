@@ -1098,7 +1098,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				Not available
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>

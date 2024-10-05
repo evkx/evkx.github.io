@@ -46,7 +46,7 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Dieses Modell verwendet den [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) Stecker für den Ladeanschluss.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,7 +56,7 @@ Der SKODA Elroq 60 hat ein Heckantriebssystem, das von einem Motor an der Hinter
 
 ### Federung
 
-Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
 
 ### Lenkung
 
@@ -105,9 +105,9 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **Standard**-Sitz verfügbar:
 
-- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
-- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (Standard für Beifahrersitz)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
@@ -220,8 +220,6 @@ Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auc
 
 Der SKODA Elroq 60 verfügt über eine Reihe von standardmäßigen und optionalen [fortschrittlichen Fahrerassistenzsystemen](../../../../technology/driverassistance/) (ADAS), die die Sicherheit und den Komfort verbessern sollen.
 
-[**Effizienz-Assistent**](../../../../technology/driverassistance/efficencyassist/): Eine Standard Funktion, die Fahrern hilft, Fahrbedingungen vorherzusehen und Energie zu sparen.
-
 ### Sicherheitssysteme
 
 [**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im SKODA Elroq 60, dieses System verhindert das Blockieren der Räder beim Bremsen.
@@ -236,23 +234,31 @@ Der SKODA Elroq 60 verfügt über eine Reihe von standardmäßigen und optionale
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im SKODA Elroq 60, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
-[**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im SKODA Elroq 60, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
+[**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional im SKODA Elroq 60, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im SKODA Elroq 60, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
 ### Fahrautomatisierung
 
-Mit dem MAX  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
+
+- Geschwindigkeitsregelung.
+- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+Mit dem MAX  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), zwei [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 490 Litern (17,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1610 Liter (56,9 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
+Der Kofferraum bietet ein Ladevolumen von 470 Litern (16,6 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1580 Liter (55,8 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2250 kg (4960 lbs) bei einem Leergewicht von 1700 kg (3748 lbs). Dies ermöglicht eine maximale Zuladung von 550 kg (1213 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
@@ -262,5 +268,18 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Dieses Modell feierte seine Weltpremiere am 01.07.2024, mit erwarteten Lieferungen ab February 2025.
+Dieses Modell feierte seine Weltpremiere am 01.07.2024, mit erwarteten Lieferungen ab February 2025. Bitte beachten Sie, dass dieses Modell ausschließlich in Europa erhältlich ist.
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum SKODA Elroq 60 identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Volvo EX30 Single Motor](/models/volvo/ex30/ex30_single_motor/)
+- [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
+- [Smart #1](/models/smart/hash1/hash1/)
+- [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
+- [Ford Explorer Standard Range RWD](/models/ford/explorer/explorer_standard_range_rwd/)
+
+<a href="https://db.evkx.net/evcompare?evs=6e08f9%2c2cac11%2cc7765f%2c76d819%2c914082%2caec4a1" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Reichweite" >}}

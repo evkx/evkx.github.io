@@ -1098,7 +1098,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>

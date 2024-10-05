@@ -1098,7 +1098,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>

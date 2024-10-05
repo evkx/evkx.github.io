@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-eaf82671
+  translation: Lexus RZ 300e es un SUV totalmente eléctrico con una autonomía WLTP de hasta 480 km (298 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-23e9b22b
   translation: SKODA Elroq 85x es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-f349adfd
   translation: Porsche Taycan Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 678 km (421 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-4bb6a764
-  translation: Volkswagen ID.7 GTX es un sedán totalmente eléctrico con un WLTP alcance de hasta 595 km (370 millas). EVKX.net tiene todos los detalles.
 

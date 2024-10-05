@@ -180,38 +180,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				CCS2
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Type chargeport North America
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport China
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport Oceania (Australia, New Zealand ++)
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -355,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				490 liter (17 cu-ft)
+				470 liter (17 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1610 liter (57 cu-ft)
+				1580 liter (56 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -495,6 +463,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Coil Spring
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -532,7 +516,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -540,7 +524,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -548,7 +532,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature, optional electric
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +540,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +757,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1018,7 +1002,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
-				Yes (Front assist), standard equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1042,7 +1026,7 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1050,7 +1034,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				Yes (Front Assist), standard equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1066,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1074,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				Yes (Front assist), standard equipment
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>

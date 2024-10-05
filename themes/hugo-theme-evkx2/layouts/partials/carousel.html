@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/lexus/rz/rz_300e/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_300e/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Lexus RZ 300e</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-eaf82671"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/skoda/elroq/elroq_85x/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_85x/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Kia EV6 Long Range AWD</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-f0ccad59"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/onvo/l60/l60_rwd/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_rwd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Onvo L60 RWD</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-b687c14e"}}</p>
 				</div>
 			</div>
 		</div>

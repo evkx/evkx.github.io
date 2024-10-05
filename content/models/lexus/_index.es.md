@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lexus RZ es un SUV disponible en 1 variantes.
+Lexus RZ es un SUV disponible en 2 variantes.
 </p>
 	<a href="rz/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

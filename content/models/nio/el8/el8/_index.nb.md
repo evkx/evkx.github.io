@@ -240,7 +240,7 @@ Nio EL8 har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukerve
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon og satellittkart, noe som sikrer en effektiv og stressfri reise.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
 ### Forhåndsinstallerte Apper
 
@@ -248,6 +248,7 @@ Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et ut
 
 - **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
 - **Tidal**
+- **ScreenhitsTV**
 
 ### Lydsystem
 

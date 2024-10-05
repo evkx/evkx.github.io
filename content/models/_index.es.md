@@ -431,7 +431,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
 	<h2>Lexus</h2>
 	<p>
-	Lexus tiene 2 modelos con un total de 2 variantes.
+	Lexus tiene 2 modelos con un total de 3 variantes.
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Ir a Lexus descripción general del modelo EV</a>
 </div>

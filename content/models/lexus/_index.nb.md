@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lexus RZ er en SUV tilgjengelig i 1 varianter.
+Lexus RZ er en SUV tilgjengelig i 2 varianter.
 </p>
 	<a href="rz/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

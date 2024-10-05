@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-eaf82671
+  translation: Lexus RZ 300e er en helelektrisk SUV med en WLTP rekkevidde på opptil 480 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-23e9b22b
   translation: SKODA Elroq 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 550 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-f349adfd
   translation: Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 678 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-4bb6a764
-  translation: Volkswagen ID.7 GTX er en helelektrisk sedan med en WLTP rekkevidde på opptil 595 km. EVKX.net har alle detaljene.
 

@@ -431,7 +431,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
 	<h2>Lexus</h2>
 	<p>
-	Lexus har 2 modell(er) med totalt 2 varianter.
+	Lexus har 2 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Gå till Lexus modellöversikt</a>
 </div>
