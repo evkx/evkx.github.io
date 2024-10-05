@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4805 mm
+				4910 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1860 mm
+				1895 mm
 			</td>
 		</tr>
 		<tr>
@@ -691,7 +691,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -715,7 +715,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -748,7 +748,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -756,7 +756,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -764,7 +764,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -812,7 +812,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -820,7 +820,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -845,6 +845,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Mantenerse en el carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -852,6 +853,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de cambio de carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +861,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -882,6 +885,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -920,6 +924,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -943,6 +948,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -973,6 +979,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -980,6 +987,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -987,6 +995,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -994,6 +1003,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1009,7 +1019,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1088,7 +1098,39 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Diseños de pantalla disponibles
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla del controlador digital
+			</td>
+			<td>
+				Sí, 7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento
+			</td>
+			<td>
+				Sí, 14"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento del pasajero delantero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento del pasajero trasero
+			</td>
+			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1121,7 +1163,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Número de altavoces
 			</td>
 			<td>
-				14
+				10
 			</td>
 		</tr>
 	</tbody>
@@ -1146,7 +1188,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Número de altavoces
 			</td>
 			<td>
-				14
+				13
 			</td>
 		</tr>
 	</tbody>

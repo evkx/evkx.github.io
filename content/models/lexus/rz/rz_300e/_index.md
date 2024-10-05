@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 6.6 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 41 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 11 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 5 hours and 49 minutes at home.
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 49 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/charging_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -72,7 +72,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Lexus RZ 300e, with dimensions of 4805 mm in length, 1860 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Lexus RZ 300e is available in a total of 6 paint colors, including both solid and metallic options.
+The Lexus RZ 300e, with dimensions of 4910 mm in length, 1895 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Lexus RZ 300e is available in a total of 6 paint colors, including both solid and metallic options.
 
 The Lexus RZ 300e offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -116,6 +116,8 @@ Available in:
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/secondrowseats_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -131,27 +133,21 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 
 The Lexus RZ 300e includes several features to enhance comfort and convenience:
 
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
+- **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
 
-Two different screen setups are available on the Lexus RZ 300e.
-
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+The Lexus RZ 300e has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
 Key screen details:
 
 - The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large
 - The touch screen at the top of the center console is 14.0 inches large
-
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
-Key screen details:
-
-- The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large
-- The touch screen at the top of the center console is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
@@ -181,8 +177,8 @@ The Lexus RZ 300e supports Android Auto and Apple CarPlay, allowing you to mirro
 
 You can choose between two sound systems for the Lexus RZ 300e:
 
-- **Standard:** Features 14 speakers and delivers a maximum output of  watts.
-- **Mark Levinson Premium Surround Sound:** Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features ten speakers and delivers a maximum output of  watts.
+- **Mark Levinson Premium Surround Sound:** Features 13 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -205,19 +201,32 @@ The Lexus RZ 300e features a range of standard and optional [advanced driver ass
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Lexus RZ 300e, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Lexus RZ 300e, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Lexus RZ 300e, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Lexus RZ 300e, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Lexus RZ 300e, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Lexus RZ 300e, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Lexus RZ 300e, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Lexus RZ 300e, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Lexus RZ 300e, this side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Lexus RZ 300e, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Lexus RZ 300e, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
-With the standard system the model offers no driving automation.
+With the   level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 {{<evkxdisplayaddarticle />}}
 
@@ -233,5 +242,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-
+The Lexus RZ 300e had its world premiere on 20.05.2024, with deliveries starting in June 2024.
 {{< pagenavigation b_url="../" b_title="Lexus RZ" f_url="rangeandconsumption/" f_title="Range" >}}

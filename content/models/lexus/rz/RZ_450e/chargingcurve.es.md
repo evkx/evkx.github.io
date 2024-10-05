@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				26,6 kW
+				45,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				24,6 kW
+				43,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				37,9 kW
+				59,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				76,3 kW
+				69,9 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Velocidad C máxima
 			</td>
 			<td>
-				2,03
+				1,92
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Tasa C promedio
 			</td>
 			<td>
-				1,13
+				1,06
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				3% - 47%
+				4% - 48%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				86,8kW
+				78,4kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				19m28s
+				22m33s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				2 h 24 m 28 s
+				1 h 23 m 39 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				2 h 20 m 23 s
+				1 h 18 m 40 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 35 m 13 s
+				 38 m 27 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Rango por minuto 0-100%
 			</td>
 			<td>
-				2,2 km (1,4 mi)
+				3,8 km (2,4 mi)
 			</td>
 			<td>
-				3,0 km (1,9 mi)
+				5,3 km (3,3 mi)
 			</td>
 			<td>
-				1,9 km (1,2 mi)
+				3,3 km (2,1 mi)
 			</td>
 			<td>
-				1,8 km (1,1 mi)
+				3,1 km (1,9 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Rango por minuto 10-100%
 			</td>
 			<td>
-				2,0 km (1,2 mi)
+				3,6 km (2,2 mi)
 			</td>
 			<td>
-				2,8 km (1,7 mi)
+				5,0 km (3,1 mi)
 			</td>
 			<td>
-				1,8 km (1,1 mi)
+				3,2 km (2,0 mi)
 			</td>
 			<td>
-				1,6 km (1,0 mi)
+				2,9 km (1,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rango por minuto 10-80%
 			</td>
 			<td>
-				6,3 km (3,9 mi)
+				5,7 km (3,5 mi)
 			</td>
 			<td>
-				8,7 km (5,4 mi)
-			</td>
-			<td>
-				5,5 km (3,4 mi)
+				8,0 km (5,0 mi)
 			</td>
 			<td>
 				5,1 km (3,2 mi)
+			</td>
+			<td>
+				4,7 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -279,10 +279,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				2%
 			</td>
 			<td>
-				88 kW
+				82 kW
 			</td>
 			<td>
-				 1 m 7 s
+				 1 m 8 s
 			</td>
 			<td>
 				1,3 kWh
@@ -293,10 +293,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				3%
 			</td>
 			<td>
-				94 kW
+				83 kW
 			</td>
 			<td>
-				 1 m 34 s
+				 1 m 38 s
 			</td>
 			<td>
 				1,9 kWh
@@ -307,10 +307,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				4%
 			</td>
 			<td>
-				101 kW
+				84 kW
 			</td>
 			<td>
-				 1 m 59 s
+				 2 m 7 s
 			</td>
 			<td>
 				2,6 kWh
@@ -321,10 +321,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				5%
 			</td>
 			<td>
-				107 kW
+				85 kW
 			</td>
 			<td>
-				 2 m 23 s
+				 2 m 37 s
 			</td>
 			<td>
 				3,2 kWh
@@ -335,10 +335,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				6%
 			</td>
 			<td>
-				114 kW
+				86 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 3 m 6 s
 			</td>
 			<td>
 				3,8 kWh
@@ -349,10 +349,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				7%
 			</td>
 			<td>
-				120 kW
+				87 kW
 			</td>
 			<td>
-				 3 m 7 s
+				 3 m 34 s
 			</td>
 			<td>
 				4,5 kWh
@@ -363,10 +363,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				8%
 			</td>
 			<td>
-				127 kW
+				88 kW
 			</td>
 			<td>
-				 3 m 27 s
+				 4 m 3 s
 			</td>
 			<td>
 				5,1 kWh
@@ -377,10 +377,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				9%
 			</td>
 			<td>
-				133 kW
+				89 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 4 m 31 s
 			</td>
 			<td>
 				5,8 kWh
@@ -391,10 +391,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				10%
 			</td>
 			<td>
-				140 kW
+				90 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 58 s
 			</td>
 			<td>
 				6,4 kWh
@@ -405,10 +405,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				11%
 			</td>
 			<td>
-				140 kW
+				90 kW
 			</td>
 			<td>
-				 4 m 22 s
+				 5 m 26 s
 			</td>
 			<td>
 				7,0 kWh
@@ -419,10 +419,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				12%
 			</td>
 			<td>
-				140 kW
+				111 kW
 			</td>
 			<td>
-				 4 m 39 s
+				 5 m 51 s
 			</td>
 			<td>
 				7,7 kWh
@@ -433,10 +433,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				13%
 			</td>
 			<td>
-				140 kW
+				121 kW
 			</td>
 			<td>
-				 4 m 57 s
+				 6 m 12 s
 			</td>
 			<td>
 				8,3 kWh
@@ -447,10 +447,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				14%
 			</td>
 			<td>
-				140 kW
+				129 kW
 			</td>
 			<td>
-				 5 m 15 s
+				 6 m 32 s
 			</td>
 			<td>
 				9,0 kWh
@@ -461,10 +461,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				15%
 			</td>
 			<td>
-				140 kW
+				132 kW
 			</td>
 			<td>
-				 5 m 33 s
+				 6 m 51 s
 			</td>
 			<td>
 				9,6 kWh
@@ -475,10 +475,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				16%
 			</td>
 			<td>
-				140 kW
+				133 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 7 m 9 s
 			</td>
 			<td>
 				10,2 kWh
@@ -489,10 +489,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				17%
 			</td>
 			<td>
-				140 kW
+				135 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 7 m 28 s
 			</td>
 			<td>
 				10,9 kWh
@@ -503,10 +503,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				18%
 			</td>
 			<td>
-				140 kW
+				134 kW
 			</td>
 			<td>
-				 6 m 26 s
+				 7 m 46 s
 			</td>
 			<td>
 				11,5 kWh
@@ -517,10 +517,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				19%
 			</td>
 			<td>
-				140 kW
+				133 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 8 m 5 s
 			</td>
 			<td>
 				12,2 kWh
@@ -531,10 +531,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				20%
 			</td>
 			<td>
-				140 kW
+				135 kW
 			</td>
 			<td>
-				 7 m 1 s
+				 8 m 23 s
 			</td>
 			<td>
 				12,8 kWh
@@ -545,10 +545,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				21%
 			</td>
 			<td>
-				141 kW
+				134 kW
 			</td>
 			<td>
-				 7 m 19 s
+				 8 m 42 s
 			</td>
 			<td>
 				13,4 kWh
@@ -559,10 +559,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				22%
 			</td>
 			<td>
-				142 kW
+				132 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 9 m 0 s
 			</td>
 			<td>
 				14,1 kWh
@@ -573,10 +573,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				23%
 			</td>
 			<td>
-				143 kW
+				134 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 9 m 19 s
 			</td>
 			<td>
 				14,7 kWh
@@ -587,10 +587,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				24%
 			</td>
 			<td>
-				144 kW
+				134 kW
 			</td>
 			<td>
-				 8 m 11 s
+				 9 m 37 s
 			</td>
 			<td>
 				15,4 kWh
@@ -601,10 +601,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				25%
 			</td>
 			<td>
-				145 kW
+				137 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 9 m 56 s
 			</td>
 			<td>
 				16,0 kWh
@@ -615,10 +615,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				26%
 			</td>
 			<td>
-				143 kW
+				135 kW
 			</td>
 			<td>
-				 8 m 45 s
+				 10 m 14 s
 			</td>
 			<td>
 				16,6 kWh
@@ -629,10 +629,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				27%
 			</td>
 			<td>
-				141 kW
+				136 kW
 			</td>
 			<td>
-				 9 m 3 s
+				 10 m 32 s
 			</td>
 			<td>
 				17,3 kWh
@@ -643,10 +643,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				28%
 			</td>
 			<td>
-				139 kW
+				133 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 10 m 51 s
 			</td>
 			<td>
 				17,9 kWh
@@ -657,10 +657,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				29%
 			</td>
 			<td>
-				137 kW
+				132 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 11 m 9 s
 			</td>
 			<td>
 				18,6 kWh
@@ -671,10 +671,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				30%
 			</td>
 			<td>
-				135 kW
+				129 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 11 m 28 s
 			</td>
 			<td>
 				19,2 kWh
@@ -685,10 +685,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				31%
 			</td>
 			<td>
-				133 kW
+				126 kW
 			</td>
 			<td>
-				 10 m 15 s
+				 11 m 48 s
 			</td>
 			<td>
 				19,8 kWh
@@ -699,10 +699,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				32%
 			</td>
 			<td>
-				131 kW
+				123 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 12 m 8 s
 			</td>
 			<td>
 				20,5 kWh
@@ -713,10 +713,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				33%
 			</td>
 			<td>
-				129 kW
+				120 kW
 			</td>
 			<td>
-				 10 m 53 s
+				 12 m 28 s
 			</td>
 			<td>
 				21,1 kWh
@@ -727,10 +727,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				34%
 			</td>
 			<td>
-				127 kW
+				119 kW
 			</td>
 			<td>
-				 11 m 12 s
+				 12 m 49 s
 			</td>
 			<td>
 				21,8 kWh
@@ -741,10 +741,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				35%
 			</td>
 			<td>
-				125 kW
+				113 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 13 m 10 s
 			</td>
 			<td>
 				22,4 kWh
@@ -755,10 +755,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				36%
 			</td>
 			<td>
-				123 kW
+				111 kW
 			</td>
 			<td>
-				 11 m 52 s
+				 13 m 32 s
 			</td>
 			<td>
 				23,0 kWh
@@ -769,10 +769,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				37%
 			</td>
 			<td>
-				121 kW
+				109 kW
 			</td>
 			<td>
-				 12 m 12 s
+				 13 m 55 s
 			</td>
 			<td>
 				23,7 kWh
@@ -783,10 +783,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				38%
 			</td>
 			<td>
-				119 kW
+				106 kW
 			</td>
 			<td>
-				 12 m 33 s
+				 14 m 18 s
 			</td>
 			<td>
 				24,3 kWh
@@ -797,10 +797,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				39%
 			</td>
 			<td>
-				117 kW
+				103 kW
 			</td>
 			<td>
-				 12 m 54 s
+				 14 m 42 s
 			</td>
 			<td>
 				25,0 kWh
@@ -811,10 +811,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				40%
 			</td>
 			<td>
-				115 kW
+				104 kW
 			</td>
 			<td>
-				 13 m 15 s
+				 15 m 6 s
 			</td>
 			<td>
 				25,6 kWh
@@ -825,10 +825,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				41%
 			</td>
 			<td>
-				112 kW
+				99 kW
 			</td>
 			<td>
-				 13 m 37 s
+				 15 m 30 s
 			</td>
 			<td>
 				26,2 kWh
@@ -839,10 +839,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				42%
 			</td>
 			<td>
-				109 kW
+				96 kW
 			</td>
 			<td>
-				 13 m 59 s
+				 15 m 55 s
 			</td>
 			<td>
 				26,9 kWh
@@ -853,10 +853,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				43%
 			</td>
 			<td>
-				106 kW
+				97 kW
 			</td>
 			<td>
-				 14 m 22 s
+				 16 m 21 s
 			</td>
 			<td>
 				27,5 kWh
@@ -867,10 +867,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				44%
 			</td>
 			<td>
-				103 kW
+				91 kW
 			</td>
 			<td>
-				 14 m 46 s
+				 16 m 47 s
 			</td>
 			<td>
 				28,2 kWh
@@ -881,10 +881,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				45%
 			</td>
 			<td>
-				100 kW
+				91 kW
 			</td>
 			<td>
-				 15 m 10 s
+				 17 m 15 s
 			</td>
 			<td>
 				28,8 kWh
@@ -895,10 +895,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				46%
 			</td>
 			<td>
-				97 kW
+				87 kW
 			</td>
 			<td>
-				 15 m 36 s
+				 17 m 42 s
 			</td>
 			<td>
 				29,4 kWh
@@ -909,10 +909,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				47%
 			</td>
 			<td>
-				94 kW
+				86 kW
 			</td>
 			<td>
-				 16 m 2 s
+				 18 m 11 s
 			</td>
 			<td>
 				30,1 kWh
@@ -923,10 +923,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				48%
 			</td>
 			<td>
-				91 kW
+				83 kW
 			</td>
 			<td>
-				 16 m 28 s
+				 18 m 40 s
 			</td>
 			<td>
 				30,7 kWh
@@ -937,10 +937,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				49%
 			</td>
 			<td>
-				88 kW
+				81 kW
 			</td>
 			<td>
-				 16 m 56 s
+				 19 m 11 s
 			</td>
 			<td>
 				31,4 kWh
@@ -951,10 +951,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				50%
 			</td>
 			<td>
-				85 kW
+				83 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 19 m 41 s
 			</td>
 			<td>
 				32,0 kWh
@@ -965,10 +965,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				51%
 			</td>
 			<td>
-				83 kW
+				78 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 20 m 12 s
 			</td>
 			<td>
 				32,6 kWh
@@ -979,10 +979,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				52%
 			</td>
 			<td>
-				82 kW
+				75 kW
 			</td>
 			<td>
-				 18 m 24 s
+				 20 m 44 s
 			</td>
 			<td>
 				33,3 kWh
@@ -993,10 +993,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				53%
 			</td>
 			<td>
-				80 kW
+				73 kW
 			</td>
 			<td>
-				 18 m 55 s
+				 21 m 17 s
 			</td>
 			<td>
 				33,9 kWh
@@ -1007,10 +1007,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				54%
 			</td>
 			<td>
-				78 kW
+				72 kW
 			</td>
 			<td>
-				 19 m 26 s
+				 21 m 52 s
 			</td>
 			<td>
 				34,6 kWh
@@ -1021,10 +1021,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				55%
 			</td>
 			<td>
-				77 kW
+				69 kW
 			</td>
 			<td>
-				 19 m 58 s
+				 22 m 27 s
 			</td>
 			<td>
 				35,2 kWh
@@ -1035,10 +1035,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				56%
 			</td>
 			<td>
-				75 kW
+				69 kW
 			</td>
 			<td>
-				 20 m 31 s
+				 23 m 3 s
 			</td>
 			<td>
 				35,8 kWh
@@ -1049,10 +1049,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				57%
 			</td>
 			<td>
-				73 kW
+				65 kW
 			</td>
 			<td>
-				 21 m 4 s
+				 23 m 40 s
 			</td>
 			<td>
 				36,5 kWh
@@ -1063,10 +1063,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				58%
 			</td>
 			<td>
-				71 kW
+				63 kW
 			</td>
 			<td>
-				 21 m 39 s
+				 24 m 18 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1077,10 +1077,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				59%
 			</td>
 			<td>
-				70 kW
+				61 kW
 			</td>
 			<td>
-				 22 m 14 s
+				 24 m 58 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1091,10 +1091,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				60%
 			</td>
 			<td>
-				68 kW
+				60 kW
 			</td>
 			<td>
-				 22 m 50 s
+				 25 m 39 s
 			</td>
 			<td>
 				38,4 kWh
@@ -1105,10 +1105,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				61%
 			</td>
 			<td>
-				67 kW
+				58 kW
 			</td>
 			<td>
-				 23 m 27 s
+				 26 m 21 s
 			</td>
 			<td>
 				39,0 kWh
@@ -1119,10 +1119,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				62%
 			</td>
 			<td>
-				65 kW
+				57 kW
 			</td>
 			<td>
-				 24 m 4 s
+				 27 m 4 s
 			</td>
 			<td>
 				39,7 kWh
@@ -1133,10 +1133,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				63%
 			</td>
 			<td>
-				64 kW
+				53 kW
 			</td>
 			<td>
-				 24 m 42 s
+				 27 m 49 s
 			</td>
 			<td>
 				40,3 kWh
@@ -1147,10 +1147,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				64%
 			</td>
 			<td>
-				63 kW
+				53 kW
 			</td>
 			<td>
-				 25 m 21 s
+				 28 m 36 s
 			</td>
 			<td>
 				41,0 kWh
@@ -1161,10 +1161,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				65%
 			</td>
 			<td>
-				62 kW
+				54 kW
 			</td>
 			<td>
-				 26 m 1 s
+				 29 m 22 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1175,10 +1175,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				66%
 			</td>
 			<td>
-				60 kW
+				52 kW
 			</td>
 			<td>
-				 26 m 42 s
+				 30 m 9 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1189,10 +1189,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				67%
 			</td>
 			<td>
-				59 kW
+				53 kW
 			</td>
 			<td>
-				 27 m 24 s
+				 30 m 56 s
 			</td>
 			<td>
 				42,9 kWh
@@ -1203,10 +1203,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				68%
 			</td>
 			<td>
-				58 kW
+				52 kW
 			</td>
 			<td>
-				 28 m 6 s
+				 31 m 44 s
 			</td>
 			<td>
 				43,5 kWh
@@ -1217,10 +1217,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				69%
 			</td>
 			<td>
-				56 kW
+				47 kW
 			</td>
 			<td>
-				 28 m 50 s
+				 32 m 34 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1231,10 +1231,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				70%
 			</td>
 			<td>
-				55 kW
+				47 kW
 			</td>
 			<td>
-				 29 m 34 s
+				 33 m 26 s
 			</td>
 			<td>
 				44,8 kWh
@@ -1245,10 +1245,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				71%
 			</td>
 			<td>
-				53 kW
+				46 kW
 			</td>
 			<td>
-				 30 m 20 s
+				 34 m 20 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1259,10 +1259,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				72%
 			</td>
 			<td>
-				50 kW
+				44 kW
 			</td>
 			<td>
-				 31 m 8 s
+				 35 m 15 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1273,10 +1273,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				73%
 			</td>
 			<td>
-				48 kW
+				43 kW
 			</td>
 			<td>
-				 31 m 59 s
+				 36 m 12 s
 			</td>
 			<td>
 				46,7 kWh
@@ -1287,10 +1287,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				74%
 			</td>
 			<td>
-				46 kW
+				44 kW
 			</td>
 			<td>
-				 32 m 51 s
+				 37 m 9 s
 			</td>
 			<td>
 				47,4 kWh
@@ -1301,10 +1301,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				75%
 			</td>
 			<td>
-				44 kW
+				42 kW
 			</td>
 			<td>
-				 33 m 47 s
+				 38 m 6 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1315,10 +1315,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				76%
 			</td>
 			<td>
-				41 kW
+				40 kW
 			</td>
 			<td>
-				 34 m 45 s
+				 39 m 7 s
 			</td>
 			<td>
 				48,6 kWh
@@ -1332,7 +1332,7 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				39 kW
 			</td>
 			<td>
-				 35 m 47 s
+				 40 m 9 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1343,10 +1343,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				78%
 			</td>
 			<td>
-				37 kW
+				39 kW
 			</td>
 			<td>
-				 36 m 53 s
+				 41 m 13 s
 			</td>
 			<td>
 				49,9 kWh
@@ -1357,10 +1357,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				79%
 			</td>
 			<td>
-				34 kW
+				37 kW
 			</td>
 			<td>
-				 38 m 3 s
+				 42 m 18 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1371,10 +1371,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				80%
 			</td>
 			<td>
-				32 kW
+				36 kW
 			</td>
 			<td>
-				 39 m 17 s
+				 43 m 26 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1385,10 +1385,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				81%
 			</td>
 			<td>
-				9 kW
+				34 kW
 			</td>
 			<td>
-				 41 m 18 s
+				 44 m 37 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1399,10 +1399,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				82%
 			</td>
 			<td>
-				9 kW
+				35 kW
 			</td>
 			<td>
-				 45 m 55 s
+				 45 m 48 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1413,10 +1413,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				83%
 			</td>
 			<td>
-				9 kW
+				34 kW
 			</td>
 			<td>
-				 50 m 36 s
+				 47 m 0 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1427,10 +1427,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				84%
 			</td>
 			<td>
-				9 kW
+				33 kW
 			</td>
 			<td>
-				 55 m 20 s
+				 48 m 14 s
 			</td>
 			<td>
 				53,8 kWh
@@ -1441,10 +1441,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				85%
 			</td>
 			<td>
-				9 kW
+				33 kW
 			</td>
 			<td>
-				1 h 0 m 7 s
+				 49 m 29 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1455,10 +1455,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				86%
 			</td>
 			<td>
-				8 kW
+				31 kW
 			</td>
 			<td>
-				1 h 4 m 59 s
+				 50 m 47 s
 			</td>
 			<td>
 				55,0 kWh
@@ -1469,10 +1469,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				87%
 			</td>
 			<td>
-				8 kW
+				31 kW
 			</td>
 			<td>
-				1 h 9 m 54 s
+				 52 m 7 s
 			</td>
 			<td>
 				55,7 kWh
@@ -1483,10 +1483,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				88%
 			</td>
 			<td>
-				8 kW
+				29 kW
 			</td>
 			<td>
-				1 h 14 m 53 s
+				 53 m 29 s
 			</td>
 			<td>
 				56,3 kWh
@@ -1497,10 +1497,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				89%
 			</td>
 			<td>
-				8 kW
+				28 kW
 			</td>
 			<td>
-				1 h 19 m 57 s
+				 54 m 56 s
 			</td>
 			<td>
 				57,0 kWh
@@ -1511,10 +1511,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				90%
 			</td>
 			<td>
-				8 kW
+				27 kW
 			</td>
 			<td>
-				1 h 25 m 4 s
+				 56 m 26 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1525,10 +1525,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				91%
 			</td>
 			<td>
-				8 kW
+				26 kW
 			</td>
 			<td>
-				1 h 30 m 18 s
+				 58 m 0 s
 			</td>
 			<td>
 				58,2 kWh
@@ -1539,10 +1539,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				92%
 			</td>
 			<td>
-				8 kW
+				25 kW
 			</td>
 			<td>
-				1 h 35 m 40 s
+				 59 m 37 s
 			</td>
 			<td>
 				58,9 kWh
@@ -1553,10 +1553,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				93%
 			</td>
 			<td>
-				7 kW
+				25 kW
 			</td>
 			<td>
-				1 h 41 m 10 s
+				1 h 1 m 16 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1567,10 +1567,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				94%
 			</td>
 			<td>
-				7 kW
+				24 kW
 			</td>
 			<td>
-				1 h 46 m 49 s
+				1 h 2 m 57 s
 			</td>
 			<td>
 				60,2 kWh
@@ -1581,10 +1581,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				95%
 			</td>
 			<td>
-				7 kW
+				20 kW
 			</td>
 			<td>
-				1 h 52 m 38 s
+				1 h 4 m 50 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1595,10 +1595,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				96%
 			</td>
 			<td>
-				7 kW
+				17 kW
 			</td>
 			<td>
-				1 h 58 m 37 s
+				1 h 7 m 4 s
 			</td>
 			<td>
 				61,4 kWh
@@ -1609,10 +1609,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				97%
 			</td>
 			<td>
-				7 kW
+				14 kW
 			</td>
 			<td>
-				2 h 4 m 47 s
+				1 h 9 m 43 s
 			</td>
 			<td>
 				62,1 kWh
@@ -1623,10 +1623,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				98%
 			</td>
 			<td>
-				6 kW
+				10 kW
 			</td>
 			<td>
-				2 h 11 m 8 s
+				1 h 13 m 10 s
 			</td>
 			<td>
 				62,7 kWh
@@ -1637,10 +1637,10 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				99%
 			</td>
 			<td>
-				6 kW
+				8 kW
 			</td>
 			<td>
-				2 h 17 m 42 s
+				1 h 17 m 45 s
 			</td>
 			<td>
 				63,4 kWh
@@ -1654,7 +1654,7 @@ Lexus RZ 450e tiene calefacción de batería, lo que facilita la carga a una tem
 				6 kW
 			</td>
 			<td>
-				2 h 24 m 28 s
+				1 h 23 m 39 s
 			</td>
 			<td>
 				64,0 kWh
