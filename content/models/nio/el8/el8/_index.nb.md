@@ -155,8 +155,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 - DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

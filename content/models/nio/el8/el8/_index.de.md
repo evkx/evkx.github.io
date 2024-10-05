@@ -155,8 +155,8 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 Verfügbar in:
 
 - DarkGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- DarkGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- DarkGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

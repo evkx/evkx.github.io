@@ -155,8 +155,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 - DarkGray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- DarkGray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- DarkGray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Brown [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

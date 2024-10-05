@@ -155,8 +155,8 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 - DarkGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- DarkGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- DarkGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

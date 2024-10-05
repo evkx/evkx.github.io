@@ -155,8 +155,8 @@ The following functionalities are available on the **standard** seat:
 Available in:
 
 - DarkGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- DarkGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- DarkGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
