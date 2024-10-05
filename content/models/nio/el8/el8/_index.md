@@ -32,7 +32,7 @@ The Nio EL8 packs an impressive punch with a maximum power of 480 kW (653 hp / 6
 
 Nio EL8 has two battery options with different specifications. Below you see how this affects range and charging.
 
-### 100kWh
+### 100kWh CALB NCM
 
 The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 90.0 kWh, providing a 10.0 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
@@ -110,6 +110,7 @@ The Nio EL8 offers multiple wheel options in different sizes, allowing you to cu
 
 - 265/50 tires on 20" rims
 - 265/45 tires on 21" rims
+- 265/40 tires on 22" rims
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
@@ -125,7 +126,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Nio EL8 is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
+The interior of the Nio EL8 is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -141,15 +142,21 @@ The following functionalities are available on the **standard** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
-- Height adjustable headrest
+- Height adjustable headrest (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for passenger seat)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest) (standard for passenger seat)
 
 Available in:
+
+- DarkGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- DarkGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- DarkGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -159,10 +166,10 @@ You can choose two seat types for the second row in the Nio EL8.
 
 The standard option is two captain chairs. Additional functionalities include:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Heating](../../../../technology/seats/adjustment/#heating)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 The second option is two captain chairs. Additional functionalities include:
@@ -197,6 +204,7 @@ The Nio EL8 includes several features to enhance comfort and convenience:
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -228,9 +236,19 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Nio EL8 features an infotainment system called NIO SkyOS, designed to provide a user-friendly interface with a range of features and functions to enhance the driving experience. This system includes various apps and services, such as navigation, music streaming, and vehicle settings, all accessible through the touchscreen display. It also supports over-the-air updates, ensuring that the vehicle remains up-to-date with the latest features and improvements.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- Tidal
+- NRK
 
 ### Sound System
 
@@ -244,7 +262,9 @@ Additionally, the model includes 3 USB-C connections as standard. As an option, 
 
 The Nio EL8 comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
 
 ## Lights
 

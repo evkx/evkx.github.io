@@ -10,7 +10,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD010 -->
 Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskellige batteripakker.
 
-### 100 kWh 100kWh
+### 100 kWh 100kWh CALB NCM
 
 <img src="/images/models/nio/el8/el8/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 

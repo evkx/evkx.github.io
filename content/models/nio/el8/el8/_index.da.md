@@ -32,7 +32,7 @@ Nio EL8 imponerer med en maksimal effekt på 480 kW (653 hk) og et imponerende s
 
 Nio EL8 har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 
-### 100kWh
+### 100kWh CALB NCM
 
 Det højkapacitetsbatteri har en bruttokapacitet på 100,0 kWh og en nettoanvendelig kapacitet på 90,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 358 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
@@ -110,6 +110,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Nio EL8, så du ka
 
 - 265/50 dæk on 20" fælge
 - 265/45 dæk on 21" fælge
+- 265/40 dæk on 22" fælge
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
@@ -125,7 +126,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i Nio EL8 er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet.
+Interiøret i Nio EL8 er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -141,15 +142,21 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
+- højdejusterbar nakkestøtte (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for passagersæde)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest) (standard for passagersæde)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
+- DarkGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- DarkGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- DarkGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -159,10 +166,10 @@ Du kan vælge to sædetyper til anden række i Nio EL8.
 
 Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
@@ -197,6 +204,7 @@ Nio EL8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -228,9 +236,19 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+Nio EL8 har et infotainmentsystem kaldet NIO SkyOS, designet til at give en brugervenlig grænseflade med en række funktioner og tjenester for at forbedre køreoplevelsen. Dette system inkluderer forskellige apps og tjenester, såsom navigation, musikstreaming og køretøjsindstillinger, som alle er tilgængelige via touchskærmen. Det understøtter også over-the-air opdateringer, hvilket sikrer, at køretøjet forbliver opdateret med de nyeste funktioner og forbedringer.
+
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger, der sikrer en effektiv og stressfri rejse.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- Tidal
+- NRK
 
 ### Lydsystem
 
@@ -244,7 +262,9 @@ Modellen har 3 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 
 Den Nio EL8 kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
 
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
 - **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
 
 ## Lys
 

@@ -238,7 +238,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1668 mm (65,7")
+				1692 mm (66,6")
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1672 mm (65,8")
+				1702 mm (67,0")
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>

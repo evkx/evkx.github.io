@@ -238,7 +238,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Configuration du pack
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1668 mm
+				1692 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1672 mm
+				1702 mm
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux avant
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux arrière
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Ventilation du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>

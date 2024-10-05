@@ -32,7 +32,7 @@ Der Nio EL8 bietet eine beeindruckende Leistung mit einer maximalen Leistung von
 
 Nio EL8 hat zwei Batterieoptionen mit unterschiedlichen Spezifikationen. Unten sehen Sie, wie sich dies auf Reichweite und Laden auswirkt.
 
-### 100kWh
+### 100kWh CALB NCM
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 90,0 kWh, was einen Puffer von 10,0 kWh (10,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 358 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
@@ -110,6 +110,7 @@ Der Nio EL8 bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr
 
 - 265/50 Reifen auf 20" Felgen
 - 265/45 Reifen auf 21" Felgen
+- 265/40 Reifen auf 22" Felgen
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
@@ -125,7 +126,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Das Interieur des Nio EL8 ist mit einer minimalistischen Ästhetik gestaltet und verfügt über hochwertige Materialien. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität.
+Das Interieur des Nio EL8 ist mit einer minimalistischen Ästhetik gestaltet und verfügt über hochwertige Materialien. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -141,15 +142,21 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
-- Höhenverstellbare Kopfstütze
+- Höhenverstellbare Kopfstütze (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für Beifahrersitz)
 - [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- DarkGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- DarkGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- DarkGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -159,10 +166,10 @@ Sie können zwei Sitztypen für die zweite Reihe im Nio EL8 wählen.
 
 Die standard-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
@@ -197,6 +204,7 @@ Der Nio EL8 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbess
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -228,9 +236,19 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ## Infotainment
 
+Der Nio EL8 verfügt über ein Infotainmentsystem namens NIO SkyOS, das eine benutzerfreundliche Oberfläche mit einer Vielzahl von Funktionen und Features bietet, um das Fahrerlebnis zu verbessern. Dieses System umfasst verschiedene Apps und Dienste wie Navigation, Musik-Streaming und Fahrzeugeinstellungen, die alle über das Touchscreen-Display zugänglich sind. Es unterstützt auch Over-the-Air-Updates, um sicherzustellen, dass das Fahrzeug immer auf dem neuesten Stand der Technik bleibt.
+
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine erweiterte Routenplanung, mit der Sie das Ziel-Ladelevel an Ihrem Zielort oder während der Ladestopps definieren können. Das System bietet Echtzeit-Verkehrsinformationen und sorgt für eine effiziente und stressfreie Reise.
+
+### App Store
+
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- Tidal
+- NRK
 
 ### Soundsystem
 
@@ -244,7 +262,9 @@ Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Optio
 
 Der Nio EL8 wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
 
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
 - **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
 
 ## Lichter
 

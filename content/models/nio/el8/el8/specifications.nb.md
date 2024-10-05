@@ -238,7 +238,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde foran
 			</td>
 			<td>
-				1668 mm
+				1692 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde bak
 			</td>
 			<td>
-				1672 mm
+				1702 mm
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

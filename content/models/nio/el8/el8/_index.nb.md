@@ -32,7 +32,7 @@ Nio EL8 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig d
 
 Nio EL8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 
-### 100kWh
+### 100kWh CALB NCM
 
 Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en buffer på 10,0 kWh (10,0%) for batteribeskyttelse. Med en nominell spenning på 358 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
@@ -110,6 +110,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nio EL
 
 - 265/50 dekk på 20" felger
 - 265/45 dekk på 21" felger
+- 265/40 dekk på 22" felger
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
@@ -125,7 +126,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Interiøret i Nio EL8 er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet.
+Interiøret i Nio EL8 er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -141,15 +142,21 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
+- høydejusterbar hodestøtte (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for passasjersete)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
+- DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -159,10 +166,10 @@ Du kan velge to setetyper for den andre raden i Nio EL8.
 
 Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
@@ -197,6 +204,7 @@ Nio EL8 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 - **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -228,9 +236,19 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Nio EL8 har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukervennlig grensesnitt med en rekke funksjoner og tjenester for å forbedre kjøreopplevelsen. Dette systemet inkluderer ulike apper og tjenester, som navigasjon, musikkstrømming og kjøretøyinnstillinger, alt tilgjengelig via berøringsskjermen. Det støtter også over-the-air oppdateringer, som sikrer at kjøretøyet forblir oppdatert med de nyeste funksjonene og forbedringene.
+
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- Tidal
+- NRK
 
 ### Lydsystem
 
@@ -244,7 +262,9 @@ Modellen har 3 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 Nio EL8 kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
 
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
 - **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
 
 ## Lys
 

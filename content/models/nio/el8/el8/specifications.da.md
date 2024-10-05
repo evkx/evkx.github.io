@@ -238,7 +238,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Pakkekonfiguration
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1668 mm
+				1692 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1672 mm
+				1702 mm
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhængsvinkel foran
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				OverhangAngleRear
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

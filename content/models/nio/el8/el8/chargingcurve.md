@@ -10,7 +10,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD010 -->
 This model is available with multiple batteries. Below you find the performance for the different battery packs.
 
-### 100 kWh 100kWh
+### 100 kWh 100kWh CALB NCM
 
 <img src="/images/models/nio/el8/el8/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 

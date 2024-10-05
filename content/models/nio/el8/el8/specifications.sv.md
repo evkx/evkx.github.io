@@ -238,7 +238,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Packkonfiguration
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd fram
 			</td>
 			<td>
-				1668 mm
+				1692 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				1672 mm
+				1702 mm
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

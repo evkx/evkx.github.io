@@ -238,7 +238,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Packkonfiguration
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite vorne
 			</td>
 			<td>
-				1668 mm (65,7")
+				1692 mm (66,6")
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite hinten
 			</td>
 			<td>
-				1672 mm (65,8")
+				1702 mm (67,0")
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

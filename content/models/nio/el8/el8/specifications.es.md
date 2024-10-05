@@ -238,7 +238,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				96s1p
+				96s2p
 			</td>
 		</tr>
 		<tr>
@@ -247,6 +247,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				358
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -303,6 +311,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				386
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -434,7 +450,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1668 mm
+				1692 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +458,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1672 mm
+				1702 mm
 			</td>
 		</tr>
 		<tr>
@@ -451,6 +467,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				0,25
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +780,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -772,7 +804,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				No disponible
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +836,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				No disponible
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +952,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
