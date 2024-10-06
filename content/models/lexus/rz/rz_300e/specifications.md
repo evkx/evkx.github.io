@@ -209,6 +209,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -403,7 +411,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
-				80 kg (176 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>

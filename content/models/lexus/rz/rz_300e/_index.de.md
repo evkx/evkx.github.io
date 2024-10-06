@@ -269,7 +269,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 522 Litern (18,4 CU FT). Mit umgeklappter dritter Sitzreihe erweitert sich dies auf 1451 Liter (51,2 CU FT). Auf dem Dach können Sie bis zu 80 kg (176,4 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
+Der Kofferraum bietet ein Ladevolumen von 522 Litern (18,4 CU FT). Mit umgeklappter dritter Sitzreihe erweitert sich dies auf 1451 Liter (51,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2520 kg (5556 lbs) bei einem Leergewicht von 1960 kg (4321 lbs). Dies ermöglicht eine maximale Zuladung von 560 kg (1235 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

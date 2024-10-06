@@ -209,6 +209,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -346,7 +354,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Luftwiderstandsbeiwert
 			</td>
 			<td>
-				0,263
+				0,293
 			</td>
 		</tr>
 		<tr>

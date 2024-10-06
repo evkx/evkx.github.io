@@ -269,7 +269,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 522 liters (18.4 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 522 liters (18.4 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2520 kg (5556 lbs), with a base weight of 1960 kg (4321 lbs). This allows for a maximum load of 560 kg (1235 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

@@ -209,6 +209,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -346,7 +354,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,263
+				0,293
 			</td>
 		</tr>
 		<tr>

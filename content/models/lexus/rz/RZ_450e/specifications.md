@@ -209,6 +209,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -346,7 +354,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,263
+				0,293
 			</td>
 		</tr>
 		<tr>

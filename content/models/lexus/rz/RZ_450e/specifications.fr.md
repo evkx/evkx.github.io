@@ -209,6 +209,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -346,7 +354,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,263
+				0,293
 			</td>
 		</tr>
 		<tr>

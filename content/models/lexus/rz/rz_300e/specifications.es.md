@@ -209,6 +209,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -403,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				80 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>

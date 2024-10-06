@@ -269,7 +269,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 522 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 1451 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 522 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 1451 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 2520 kg, avec un poids de base de 1960 kg. Cela permet une charge maximale de 560 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

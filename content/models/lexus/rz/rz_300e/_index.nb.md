@@ -269,7 +269,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 522 liter. Med tredje seterad nedfelt, utvides dette til 1451 liter. På taket kan du laste opptil 80 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
+Bagasjerommet tilbyr en lastekapasitet på 522 liter. Med tredje seterad nedfelt, utvides dette til 1451 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 2520 kg, med en basisvekt på 1960 kg. Dette gir en maksimal lastekapasitet på 560 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

@@ -269,7 +269,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 522 litros. Con el asiento de la tercera fila plegado, esto se expande a 1451 litros. En el techo, puedes cargar hasta 80 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 522 litros. Con el asiento de la tercera fila plegado, esto se expande a 1451 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2520 kg, con un peso base de 1960 kg. Esto permite una carga máxima de 560 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
