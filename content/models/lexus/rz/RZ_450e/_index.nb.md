@@ -52,11 +52,11 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 ## Drivverk
 
-Lexus RZ 450e har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
+Lexus RZ 450e har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
+Standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 200 mm.
 
 ### Styring
 
@@ -159,6 +159,7 @@ Lexus RZ 450e inkluderer flere funksjoner for å forbedre komfort og bekvemmelig
 - **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -189,11 +190,13 @@ Du kan velge mellom flere forskjellige ratt.
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+
 ## Infotainment
 
 ### Navigasjonssystem
 
-I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet hjelper deg med å navigere til din destinasjon med letthet. Det gir også sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise. Imidlertid støtter det ikke ruteplanlegging med ladestopp, noe som krever at du planlegger ladestoppene dine manuelt.
 
 ### Telefonspeiling
 
@@ -204,7 +207,7 @@ I tillegg støtter Lexus RZ 450e Android Auto og Apple CarPlay. Denne funksjonal
 Du kan velge mellom to lydsystemer på Lexus RZ 450e.
 
 - Med Standard får du ti høyttalere med en maksimal systemeffekt på  watt.
-- Med Mark Levinson Premium Surround Sound får du 13 høyttalere med en maksimal systemeffekt på  watt.
+- Med Mark Levinson Premium Surround Sound får du 13 høyttalere med en maksimal systemeffekt på 1800 watt.
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 
@@ -213,13 +216,17 @@ Modellen har 5 USB-C-tilkoblinger som standard.
 Lexus RZ 450e kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
 
 - **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Lexus RZ 450e.
 
 - **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **LED Matrix Frontlykter:** Tilgjengelig som en oppgradering, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan aktivere eller deaktivere individuelt. Dette optimaliserer belysningen ved selektivt å dempe spesifikke områder for å unngå å blende møtende trafikk. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -253,7 +260,7 @@ Lexus RZ 450e inkluderer flere [avanserte førerassistanse systemer](../../../..
 
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Lane Tracing Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
@@ -279,5 +286,14 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Lexus RZ 450e som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+
+<a href="https://db.evkx.net/evcompare?evs=503db1%2c7a651b%2cfcf585%2c224873" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Lexus RZ" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

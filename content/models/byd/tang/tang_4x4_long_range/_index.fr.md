@@ -203,7 +203,7 @@ Le BYD Tang 4x4 Long Range dispose d'un système d'infodivertissement appelé BY
 
 ### Système de navigation
 
-Le système de navigation intégré vous aide à naviguer jusqu'à votre destination avec facilité. Cependant, il ne prend pas en charge la planification des itinéraires avec des arrêts de recharge, ce qui vous oblige à planifier vos arrêts de recharge manuellement. De plus, il ne fournit pas d'informations sur le trafic en temps réel, ce qui le rend moins précieux par rapport aux systèmes de navigation de nombreux autres véhicules électriques.
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
 ### Applications Préinstallées
 

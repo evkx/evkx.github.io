@@ -52,11 +52,11 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Lexus RZ 300e har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
+Lexus RZ 300e har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
+Fjädringen Standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 200 mm.
 
 ### Styrning
 
@@ -159,6 +159,7 @@ Lexus RZ 300e inkluderar flera funktioner för att förbättra komfort och bekv�
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
+- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -189,11 +190,13 @@ Du kan välja mellan flera olika rattar.
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 ## Infotainment
 
 ### Navigationssystem
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet hjälper dig att navigera till din destination med lätthet. Det ger också realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa. Det stöder dock inte ruttplanering med laddstopp, vilket kräver att du planerar dina laddstopp manuellt.
 
 ### Telefon spegling
 
@@ -204,7 +207,7 @@ Dessutom stöder Lexus RZ 300e Android Auto och Apple CarPlay. Denna funktion g�
 Du kan välja mellan två ljudsystem på Lexus RZ 300e.
 
 - Med Standard får du tio högtalare med en maximal systemeffekt på  watt.
-- Med Mark Levinson Premium Surround Sound får du 13 högtalare med en maximal systemeffekt på  watt.
+- Med Mark Levinson Premium Surround Sound får du 13 högtalare med en maximal systemeffekt på 1800 watt.
 
 Modellen har 5 USB-C-anslutningar som standard.
 
@@ -213,13 +216,17 @@ Modellen har 5 USB-C-anslutningar som standard.
 Lexus RZ 300e kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
 
 - **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Fjärrparkering**: Styr din bil på distans för att parkera eller lämna en parkeringsplats.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
 
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Lexus RZ 300e.
 
 - **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
@@ -253,7 +260,7 @@ Lexus RZ 300e inkluderar flera [avancerade förarassistanssystem](../../../../te
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med Lane Tracing Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.

@@ -52,11 +52,11 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 ## Antriebsstrang
 
-Der Lexus RZ 300e hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird.
+Der Lexus RZ 300e hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
+Die Standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 200 mm.
 
 ### Lenkung
 
@@ -159,6 +159,7 @@ Der Lexus RZ 300e umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu v
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -189,11 +190,13 @@ Sie können aus mehreren Lenkrädern wählen.
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
 ## Infotainment
 
 ### Navigationssystem
 
-Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das eingebaute Navigationssystem hilft Ihnen, Ihr Ziel mühelos zu erreichen. Es bietet auch Echtzeit-Verkehrsinformationen, die eine effiziente und stressfreie Reise gewährleisten. Es unterstützt jedoch keine Routenplanung mit Ladestopps, sodass Sie Ihre Ladestopps manuell planen müssen.
 
 ### Telefonspiegelung
 
@@ -204,7 +207,7 @@ Der Lexus RZ 300e unterstützt Android Auto und Apple CarPlay, sodass Sie den Bi
 Sie können zwischen zwei Soundsystemen für den Lexus RZ 300e wählen:
 
 - **Standard:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Mark Levinson Premium Surround Sound:** Verfügt über 13 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Mark Levinson Premium Surround Sound:** Verfügt über 13 Lautsprecher und liefert eine maximale Ausgangsleistung von 1800 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 
@@ -213,13 +216,17 @@ Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 Der Lexus RZ 300e wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
 
 - **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Fernparken:** Steuern Sie Ihr Auto mühelos, um es aus der Ferne zu parken oder aus einer Parklücke herauszufahren.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Geplantes Laden:** Planen und terminieren Sie Ladesitzungen im Voraus.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
 
 ## Lichter
 
 Sie können zwischen zwei Scheinwerfertypen für den Lexus RZ 300e wählen.
 
 - **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
-- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
+- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist als Upgrade erhältlich und teilt den traditionellen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln aktivieren oder deaktivieren kann. Dies optimiert die Beleuchtung, indem bestimmte Bereiche selektiv gedimmt werden, um entgegenkommenden Verkehr nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -253,7 +260,7 @@ Der Lexus RZ 300e verfügt über eine Reihe von standardmäßigen und optionalen
 
 ### Fahrautomatisierung
 
-Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Lane Tracing Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.

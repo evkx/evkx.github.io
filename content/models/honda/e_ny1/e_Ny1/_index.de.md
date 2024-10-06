@@ -175,7 +175,7 @@ Der Honda e:Ny1 verfügt über ein fortschrittliches Infotainmentsystem, das auf
 
 ### Navigationssystem
 
-Das eingebaute Navigationssystem hilft Ihnen, Ihr Ziel mühelos zu erreichen. Es unterstützt jedoch keine Routenplanung mit Ladestopps, sodass Sie Ihre Ladestopps manuell planen müssen. Darüber hinaus bietet es keine Echtzeit-Verkehrsinformationen, was es im Vergleich zu Navigationssystemen in vielen anderen Elektrofahrzeugen weniger wertvoll macht.
+Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
 
 ### Telefonspiegelung
 

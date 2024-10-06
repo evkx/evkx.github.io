@@ -200,7 +200,7 @@ BYD Tang EV600 har et infotainmentsystem kalt BYD DiLink, som er basert på Andr
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet hjelper deg med å navigere til din destinasjon med letthet. Det støtter imidlertid ikke ruteplanlegging med ladestopp, noe som krever at du planlegger ladestoppene dine manuelt. I tillegg gir det ikke sanntids trafikkinformasjon, noe som gjør det mindre verdifullt sammenlignet med navigasjonssystemer i mange andre elbiler.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Forhåndsinstallerte Apper
 

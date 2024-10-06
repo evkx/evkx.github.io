@@ -203,7 +203,7 @@ The BYD Tang 4x4 Long Range features an infotainment system called BYD DiLink, w
 
 ### Navigation System
 
-The built-in navigation system helps you navigate to your destination with ease. However, it does not support route planning with charging stops, requiring you to plan your charging stops manually. Additionally, it does not provide real-time traffic information, making it less valuable compared to navigation systems in many other EVs.
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Preinstalled Apps
 

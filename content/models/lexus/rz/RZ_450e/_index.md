@@ -52,11 +52,11 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-The Lexus RZ 450e features an all-wheel drive system powered by two motors, one on each axle.
+The Lexus RZ 450e features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
+The Standard suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm.
 
 ### Steering
 
@@ -159,6 +159,7 @@ The Lexus RZ 450e includes several features to enhance comfort and convenience:
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -189,11 +190,13 @@ You can select from several steeringwheels.
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 ## Infotainment
 
 ### Navigation System
 
-With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system helps you navigate to your destination with ease. It also provides real-time traffic information, ensuring an efficient and stress-free journey. However, it does not support route planning with charging stops, requiring you to plan your charging stops manually.
 
 ### Phone Mirroring
 
@@ -204,7 +207,7 @@ The Lexus RZ 450e supports Android Auto and Apple CarPlay, allowing you to mirro
 You can choose between two sound systems for the Lexus RZ 450e:
 
 - **Standard:** Features ten speakers and delivers a maximum output of  watts.
-- **Mark Levinson Premium Surround Sound:** Features 13 speakers and delivers a maximum output of  watts.
+- **Mark Levinson Premium Surround Sound:** Features 13 speakers and delivers a maximum output of 1800 watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -213,13 +216,17 @@ Additionally, the model includes 5 USB-C connections as standard.
 The Lexus RZ 450e comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
 
 ## Lights
 
 You can choose between two types of headlights for the Lexus RZ 450e.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -253,7 +260,7 @@ The Lexus RZ 450e features a range of standard and optional [advanced driver ass
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the Lane Tracing Assist  level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
@@ -279,5 +286,14 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Lexus RZ 450e that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+
+<a href="https://db.evkx.net/evcompare?evs=503db1%2c7a651b%2cfcf585%2c224873" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Lexus RZ" f_url="rangeandconsumption/" f_title="Range" >}}

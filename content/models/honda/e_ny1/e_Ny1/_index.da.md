@@ -175,7 +175,7 @@ Honda e:Ny1 har et avanceret infotainmentsystem bygget på Android Automotive OS
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem hjælper dig med at navigere til din destination med lethed. Det understøtter dog ikke ruteplanlægning med ladestop, hvilket kræver, at du planlægger dine ladestop manuelt. Derudover giver det ikke realtids trafikoplysninger, hvilket gør det mindre værdifuldt sammenlignet med navigationssystemer i mange andre elbiler.
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
 ### Telefon spejling
 
