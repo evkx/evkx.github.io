@@ -62,6 +62,16 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 Dynamic steering is a standard on the Lexus RZ 300e, varying the steering ratio based on driving speed for enhanced control and comfort.
 
+### Drive Modes
+
+The Lexus RZ 300e lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
+
+- : Balanced steering and throttle.
+- : Dynamic steering and throttle.
+- : Balanced steering and efficent throttle.
+- : Balanced steering and efficent throttle.
+- : User-defined settings for steering and throttle.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 328 mm, while the rear discs are 317 mm.
@@ -85,7 +95,7 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
-There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
+There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -95,7 +105,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-interior.intro.functional.highquality.splitlevel You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
+The Lexus RZ 300e boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -168,9 +178,10 @@ A head-up display is an optional system that projects speed and other important 
 
 ### Steering Wheel
 
-The Lexus RZ 300e is equipped with a single type of steering wheel:
+You can select from several steeringwheels.
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Yoke Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -256,7 +267,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 522 liters (18.4 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 522 liters (18.4 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2520 kg (5556 lbs), with a base weight of 1960 kg (4321 lbs). This allows for a maximum load of 560 kg (1235 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

@@ -1098,7 +1098,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Automatische Notlenkung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

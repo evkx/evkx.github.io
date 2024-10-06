@@ -248,7 +248,6 @@ Obwohl das Infotainmentsystem keinen App-Store enthält, kommt es mit einer Ausw
 
 - **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
 - **Tidal**
-- **ScreenhitsTV**
 
 ### Soundsystem
 
@@ -313,8 +312,8 @@ Mit dem NIO Pilot Complete Pack  Level 2 System erhalten Sie die folgenden Fahra
 
 ### Sensoren & Kameras
 
-Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/), und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+Dieses Modell verwendet Kameras, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

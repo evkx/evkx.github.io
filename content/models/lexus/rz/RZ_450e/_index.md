@@ -62,6 +62,16 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 Dynamic steering is a standard on the Lexus RZ 450e, varying the steering ratio based on driving speed for enhanced control and comfort.
 
+### Drive Modes
+
+The Lexus RZ 450e lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
+
+- : Balanced steering and throttle.
+- : Dynamic steering and throttle.
+- : Balanced steering and efficent throttle.
+- : Balanced steering and efficent throttle.
+- : User-defined settings for steering and throttle.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 328 mm, while the rear discs are 317 mm.
@@ -74,7 +84,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Lexus RZ 450e, with dimensions of 4910 mm in length, 1895 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Lexus RZ 450e is available in a total of 6 paint colors, including both solid and metallic options.
+The Lexus RZ 450e, with dimensions of 4910 mm in length, 1895 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Lexus RZ 450e is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and hood are painted in a different color, providing a distinctive and stylish look.
 
 The Lexus RZ 450e offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -85,7 +95,7 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
-There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
+There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -94,6 +104,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The Lexus RZ 450e boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -105,11 +117,18 @@ The following functionalities are available on the **standard** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
+
+- DarkGray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- DarkGray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Brown/Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Blue/Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -129,7 +148,7 @@ There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
 
@@ -144,6 +163,8 @@ The Lexus RZ 450e includes several features to enhance comfort and convenience:
 
 ## User Interface and Control
 
+The control interface for the Lexus RZ 450e combines buttons, stalks, and screens for a seamless and user-friendly experience.
+
 The Lexus RZ 450e has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
 Key screen details:
@@ -157,9 +178,10 @@ A head-up display is an optional system that projects speed and other important 
 
 ### Steering Wheel
 
-The Lexus RZ 450e is equipped with a single type of steering wheel:
+You can select from several steeringwheels.
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Yoke Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -183,6 +205,12 @@ You can choose between two sound systems for the Lexus RZ 450e:
 - **Mark Levinson Premium Surround Sound:** Features 13 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
+
+## Mobile App
+
+The Lexus RZ 450e comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 
 ## Lights
 
@@ -239,9 +267,9 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 522 liters (18.4 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 522 liters (18.4 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
-The vehicle’s maximum weight is 2530 kg (5578 lbs), with a base weight of 1980 kg (4365 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2645 kg (5831 lbs), with a base weight of 2110 kg (4652 lbs). This allows for a maximum load of 535 kg (1179 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

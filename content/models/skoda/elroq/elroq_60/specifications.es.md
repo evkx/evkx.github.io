@@ -180,6 +180,38 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				CCS2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Norteamérica
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Japón
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				470 litro
+				490 litro
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1580 litro
+				1610 litro
 			</td>
 		</tr>
 		<tr>
@@ -463,22 +495,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Resorte helicoidal
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión delantera
-			</td>
-			<td>
-				MacPhersonStrut
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión trasera
-			</td>
-			<td>
-				Multienlace
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -516,7 +532,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -524,7 +540,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -532,7 +548,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -540,7 +556,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +773,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1002,7 +1018,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Frenado automático de emergencia
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				Sí (Front assist), equipo estándar
 			</td>
 		</tr>
 		<tr>
@@ -1026,7 +1042,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1034,7 +1050,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				Sí (Front Assist), equipo estándar
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1082,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1074,7 +1090,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí (Front assist), equipo estándar
 			</td>
 		</tr>
 		<tr>

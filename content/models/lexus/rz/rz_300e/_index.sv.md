@@ -62,6 +62,16 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 Dynamisk styrning är standard-funktionen för Lexus RZ 300e. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
 
+### Körlägen
+
+Lexus RZ 300e låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
+
+- : Balanserad styrning och gaspedal.
+- : Dynamisk styrning och gaspedal.
+- : Balanserad styrning och effektiv gaspedal.
+- : Balanserad styrning och effektiv gaspedal.
+- : Användardefinierade inställningar för styrning och gaspådrag.
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 328mm och de bakre skivorna är 317mm.
@@ -85,7 +95,7 @@ Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, med
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna fronten del. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för passageraren. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som ett alternativ kan du beställa denna modell med ett panoramatak. Glaset har två paneler. En över första och andra raden. Detta glas gör bilens interiör mer rymlig och ljus, vilket kan förbättra passagerarnas humör och komfort. Glaset har en elektrochromisk funktion som låter dig tona glaset för att skydda mot solen.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
@@ -95,7 +105,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-interior.intro.functional.highquality.splitlevel Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
+Lexus RZ 300e har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -168,9 +178,10 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ### Ratt
 
-Lexus RZ 300e är utrustad med en enda typ av ratt:
+Du kan välja mellan flera olika rattar.
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har integrerad uppvärmning för ökad komfort under kalla väderförhållanden. Den inkluderar även fysiska knappar och paddelväxlare, vilket gör att du kan styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
+- **Yoke Ratt:** Denna ratt har integrerad uppvärmning för ökad komfort under kalla väderförhållanden. Den inkluderar även fysiska knappar och paddelväxlare, vilket gör att du kan styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 
@@ -256,7 +267,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 522 liter. Med tredje raden säten nedfällda ökar detta till 1451 liter. På taket kan du lasta upp till 80 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet erbjuder en lastkapacitet på 522 liter. Med tredje raden säten nedfällda ökar detta till 1451 liter. På taket kan du lasta upp till 80 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 2520 kg, med en grundvikt på 1960 kg. Detta tillåter en maximal last på 560 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

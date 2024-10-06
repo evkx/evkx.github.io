@@ -248,7 +248,6 @@ While the infotainment system does not include an app store, it comes with a sel
 
 - **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
 - **Tidal**
-- **ScreenhitsTV**
 
 ### Sound System
 
@@ -313,8 +312,8 @@ With the NIO Pilot Complete Pack  level 2 system, you get the following driving 
 
 ### Sensors & Cameras
 
-This model uses cameras, radar, LiDAR and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+This model uses cameras, LiDAR, and ultrasonic sensors for its driver assist systems.
+Up to one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

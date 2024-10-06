@@ -46,7 +46,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. This model uses the [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) connector for the chargeport.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,7 +56,7 @@ The SKODA Elroq 60 has a rear-wheel drive system supported by one motor on the r
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm.
+The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm.
 
 ### Steering
 
@@ -105,9 +105,9 @@ The front row offers two seat types to cater to various comfort and style prefer
 
 The following functionalities are available on the **Standard** seat:
 
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
-- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (standard for passenger seat)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
@@ -181,7 +181,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The SKODA Elroq 60 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -220,6 +220,8 @@ The taillights use LED technology, ensuring both high visibility and energy effi
 
 The SKODA Elroq 60 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
+
 ### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the SKODA Elroq 60, this system prevents the wheels from locking during braking.
@@ -234,31 +236,23 @@ The SKODA Elroq 60 features a range of standard and optional [advanced driver as
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the SKODA Elroq 60, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the SKODA Elroq 60, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the SKODA Elroq 60, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the SKODA Elroq 60, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-With the standard system the model offers no driving automation.
-
-- Cruise control.
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-
-With the MAX  level 2 system, you get additional driving automation features to the ones listed above:
+With the MAX  level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-
-### Sensors & Cameras
-
-This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), two [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 470 liters (16.6 CU FT). With the rear seat folded down, this expands to 1580 liters (55.8 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2250 kg (4960 lbs), with a base weight of 1700 kg (3748 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
@@ -268,18 +262,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 01.07.2024, with deliveries anticipated to begin in February 2025. Please note that this model is available exclusively in Europe.
-
-## Alternative Models
-
-In the rapidly expanding EV market, EVKX.net has identified several alternatives to the SKODA Elroq 60 that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
-
-- [Volvo EX30 Single Motor](/models/volvo/ex30/ex30_single_motor/)
-- [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
-- [Smart #1](/models/smart/hash1/hash1/)
-- [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
-- [Ford Explorer Standard Range RWD](/models/ford/explorer/explorer_standard_range_rwd/)
-
-<a href="https://db.evkx.net/evcompare?evs=6e08f9%2c2cac11%2cc7765f%2c76d819%2c914082%2caec4a1" target="_blank">Explore a detailed comparison of these models.</a>
-
+This model made its world premiere on 01.07.2024, with deliveries anticipated to begin in February 2025.
 {{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Range" >}}

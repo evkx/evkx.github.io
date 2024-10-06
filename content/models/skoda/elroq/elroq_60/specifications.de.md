@@ -180,6 +180,38 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				CCS2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Nordamerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Ozeanien (Australien, Neuseeland usw.)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				470 Liter (17 cu-ft)
+				490 Liter (17 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1580 Liter (56 cu-ft)
+				1610 Liter (57 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -463,22 +495,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Schraubenfeder
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Federungstyp vorne
-			</td>
-			<td>
-				MacPhersonStrut
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Federungstyp hinten
-			</td>
-			<td>
-				Mehrlenker
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -516,7 +532,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Standardfunktion
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>
@@ -524,7 +540,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Standardfunktion
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>
@@ -532,7 +548,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Standardfunktion
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>
@@ -540,7 +556,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +773,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1002,7 +1018,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Automatische Notbremsung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Ja (Front assist), Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1026,7 +1042,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1034,7 +1050,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Warnung vor Kollisionen
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Ja (Front Assist), Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1082,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Effizienzassistent
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1074,7 +1090,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Automatische Notlenkung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja (Front assist), Serienausstattung
 			</td>
 		</tr>
 		<tr>

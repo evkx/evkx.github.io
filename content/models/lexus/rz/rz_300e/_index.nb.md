@@ -62,6 +62,16 @@ Lexus RZ 300e har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 Dynamisk styring er en standard-funksjonen på Lexus RZ 300e. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Lexus RZ 300e lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
+
+- : Balansert styring og gasspedal.
+- : Dynamisk styring og gasspedal.
+- : Balansert styring og effektiv gasspedal.
+- : Balansert styring og effektiv gasspedal.
+- : Brukerdefinerte innstillinger for styring og gasspådrag.
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 328mm, og de bakre skivene er 317mm.
@@ -85,7 +95,7 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne fronten del. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til passasjeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som et alternativ kan du bestille denne modellen med panoramatak. Glassene har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør mer romslig og lyst, noe som kan forbedre humøret og komforten til passasjerene. Glassene har en elektrokromisk funksjon som lar deg blende glasset for å beskytte mot solen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
@@ -95,7 +105,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-interior.intro.functional.highquality.splitlevel Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+Lexus RZ 300e har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -168,9 +178,10 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 ### Ratt
 
-Lexus RZ 300e er utstyrt med en enkelt type ratt:
+Du kan velge mellom flere forskjellige ratt.
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt:** Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også fysiske knapper og girhendler, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og håndtere andre viktige funksjoner enkelt.
+- **Yoke Ratt:** Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også fysiske knapper og girhendler, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og håndtere andre viktige funksjoner enkelt.
 
 ### Speil
 
@@ -256,7 +267,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 522 liter. Med tredje seterad nedfelt, utvides dette til 1451 liter. På taket kan du laste opptil 80 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+Bagasjerommet tilbyr en lastekapasitet på 522 liter. Med tredje seterad nedfelt, utvides dette til 1451 liter. På taket kan du laste opptil 80 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 2520 kg, med en basisvekt på 1960 kg. Dette gir en maksimal lastekapasitet på 560 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

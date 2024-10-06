@@ -16,6 +16,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lexus RZ 450e range test</h3>
+<p>Bjørn Nyland: 01.06.2024</p>
+
+{{< youtube Pies_oYKDLI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drive The Electric Lexus RZ 450e For The First Time! Is This A Joke?</h3>
 <p>Out of Spec Reviews: 06.10.2023</p>
 
@@ -41,6 +48,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 <p>InsideEVs: 13.03.2023</p>
 
 {{< youtube qOWBIzfvr7g >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Lexus RZ 450e review – better than a BMW iX3?</h3>
+<p>What Car?: 13.03.2023</p>
+
+{{< youtube NSrKEncNGoo >}}
 
 </div>
 <div class="mt-3 mb-3">

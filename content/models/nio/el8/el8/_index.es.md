@@ -248,7 +248,6 @@ Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, 
 
 - **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
 - **Tidal**
-- **ScreenhitsTV**
 
 ### Sistema de sonido
 
@@ -313,8 +312,8 @@ Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes las siguientes func
 
 ### Sensores y Cámaras
 
-Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
+Este modelo utiliza cámaras, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 
