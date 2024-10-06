@@ -81,6 +81,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
+The Subaru Solterra AWD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Subaru Solterra AWD offers a single type of front seat.

@@ -36,7 +36,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 
 La velocidad máxima de carga de CC es 147kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 22 minutos y 33 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 44 minutos. Este viaje requeriría dos paradas de carga del 5% al 47%, con un tiempo total de carga de 144 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 28 minutos. Este viaje requeriría dos paradas de carga del 1% al 53%, con un tiempo total de carga de 128 minutos.
 
 ### Cargador a bordo
 
@@ -66,11 +66,11 @@ La dirección dinámica es una característica un estándar en el Lexus RZ 450e.
 
 El Lexus RZ 450e permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- : Dirección y acelerador equilibrados.
-- : Dirección y acelerador dinámicos.
-- : Dirección equilibrada y acelerador eficiente.
-- : Dirección equilibrada y acelerador eficiente.
-- : Configuraciones definidas por el usuario para la dirección y el acelerador.
+- Normal: Dirección y acelerador equilibrados.
+- Sport: Dirección y acelerador dinámicos.
+- Eco: Dirección equilibrada y acelerador eficiente.
+- Range: Dirección equilibrada y acelerador eficiente.
+- Custom: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 
@@ -108,6 +108,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 El Lexus RZ 450e cuenta con un interior centrado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en varias áreas en lugar de plástico duro. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada. Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
+
+El Lexus RZ 450e tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
 
 #### Asientos de primera fila
 

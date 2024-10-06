@@ -89,6 +89,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
+El Hyundai Ioniq 6 Long Range RWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Hyundai Ioniq 6 Long Range RWD ofrece un único tipo de asiento delantero.

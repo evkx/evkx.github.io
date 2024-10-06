@@ -36,7 +36,7 @@ Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../g
 
 Maximal DC-laddningshastighet är 147 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 78kW. Varje laddningssession tar 22 minuter och 33 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 44 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 47%, med en total laddningstid på 144 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22,5 kWh/100 km, skulle resan ta ungefär 10 timmar och 23 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 47%, med en total laddningstid på 123 minuter.
 
 ### Ombordladdare
 
@@ -66,11 +66,11 @@ Dynamisk styrning är standard-funktionen för Lexus RZ 300e. Dynamisk styrning 
 
 Lexus RZ 300e låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- : Balanserad styrning och gaspedal.
-- : Dynamisk styrning och gaspedal.
-- : Balanserad styrning och effektiv gaspedal.
-- : Balanserad styrning och effektiv gaspedal.
-- : Användardefinierade inställningar för styrning och gaspådrag.
+- Normal: Balanserad styrning och gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Eco: Balanserad styrning och effektiv gaspedal.
+- Range: Balanserad styrning och effektiv gaspedal.
+- Custom: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 
@@ -108,6 +108,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 Lexus RZ 300e har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
+
+Lexus RZ 300e rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
 
 #### Framsäten
 

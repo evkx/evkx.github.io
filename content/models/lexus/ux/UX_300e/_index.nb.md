@@ -91,6 +91,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ### Seter
 
+Lexus UX 300e har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Lexus UX 300e Long Range tilbyr kun én type forsete.

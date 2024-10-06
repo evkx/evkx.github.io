@@ -93,6 +93,8 @@ Il existe un type de siège que vous pouvez sélectionner dans différents maté
 
 ### Sièges
 
+Le Kia Niro EV peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Kia Niro EV propose un seul type de siège avant.

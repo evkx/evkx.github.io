@@ -93,6 +93,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Genesis Electrified GV70 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Genesis Electrified GV70 tilbyder kun én type forreste sæde.

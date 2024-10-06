@@ -89,6 +89,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ### Seter
 
+Hyundai Ioniq 6 Long Range RWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Hyundai Ioniq 6 Long Range RWD Long Range tilbyr kun én type forsete.

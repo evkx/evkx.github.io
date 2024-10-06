@@ -92,6 +92,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+Genesis GV60 AWD Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Genesis GV60 AWD Performance Long Range tilbyr kun én type forsete.

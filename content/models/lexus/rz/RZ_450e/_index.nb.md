@@ -36,7 +36,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 
 Maksimal DC-ladehastighet er 147 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 48%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 78kW. Hver ladeøkt vil ta 22 minutter og 33 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 10 timer og 44 minutter. Denne reisen ville kreve to ladestopp fra 5% til 47%, med en total ladetid på 144 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 10 timer og 28 minutter. Denne reisen ville kreve to ladestopp fra 1% til 53%, med en total ladetid på 128 minutter.
 
 ### Ombordlader
 
@@ -66,11 +66,11 @@ Dynamisk styring er en standard-funksjonen på Lexus RZ 450e. Dynamisk styring v
 
 Lexus RZ 450e lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- : Balansert styring og gasspedal.
-- : Dynamisk styring og gasspedal.
-- : Balansert styring og effektiv gasspedal.
-- : Balansert styring og effektiv gasspedal.
-- : Brukerdefinerte innstillinger for styring og gasspådrag.
+- Normal: Balansert styring og gasspedal.
+- Sport: Dynamisk styring og gasspedal.
+- Eco: Balansert styring og effektiv gasspedal.
+- Range: Balansert styring og effektiv gasspedal.
+- Custom: Brukerdefinerte innstillinger for styring og gasspådrag.
 
 ### Bremser
 
@@ -108,6 +108,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 Lexus RZ 450e har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
+
+Lexus RZ 450e har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
 
 #### Forseter
 

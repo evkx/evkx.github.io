@@ -91,6 +91,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Genesis GV60 2WD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Genesis GV60 2WD erbjuder endast en typ av framsäte.

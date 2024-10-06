@@ -91,6 +91,8 @@ Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge me
 
 ### Seter
 
+Hyundai Kona Standard Range har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Hyundai Kona Standard Range Long Range tilbyr kun én type forsete.

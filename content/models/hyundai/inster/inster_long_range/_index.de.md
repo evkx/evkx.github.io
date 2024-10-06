@@ -91,6 +91,8 @@ Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
+Die Sitzanordnung besteht aus zwei Sitzen vorne und zwei Sitzen hinten.
+
 #### Vordersitze
 
 Der Hyundai INSTER Long Range bietet nur einen Typ von Vordersitz.

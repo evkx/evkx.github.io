@@ -36,7 +36,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de 147kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 38 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 48 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 78kW. Chaque session de charge prendrait 22 minutes et 33 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 10 heures et 44 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 47%, avec un temps de recharge total de 144 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22,5 kWh/100 km, le voyage prendrait environ 10 heures et 23 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 47%, avec un temps de recharge total de 123 minutes.
 
 ### Chargeur embarqué
 
@@ -66,11 +66,11 @@ La direction dynamique est une fonctionnalité un standard sur le Lexus RZ 300e.
 
 Le Lexus RZ 300e permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- : Direction et accélérateur équilibrés.
-- : Direction et accélérateur dynamiques.
-- : Direction équilibrée et accélérateur efficace.
-- : Direction équilibrée et accélérateur efficace.
--  : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+- Normal: Direction et accélérateur équilibrés.
+- Sport: Direction et accélérateur dynamiques.
+- Eco: Direction équilibrée et accélérateur efficace.
+- Range: Direction équilibrée et accélérateur efficace.
+- Custom : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 
@@ -108,6 +108,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 Le Lexus RZ 300e dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
+
+Le Lexus RZ 300e peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
 
 #### Sièges de première rangée
 

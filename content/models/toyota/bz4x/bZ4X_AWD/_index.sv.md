@@ -81,6 +81,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
+Toyota bZ4X AWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Toyota bZ4X AWD erbjuder endast en typ av framsäte.

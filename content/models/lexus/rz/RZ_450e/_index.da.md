@@ -36,7 +36,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 
 Den maksimale DC-opladningshastighed er 147kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 78kW. Hver opladningssession ville tage 22 minutter og 33 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 10 timer og 44 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 47%, med en samlet opladningstid på 144 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 10 timer og 28 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 53%, med en samlet opladningstid på 128 minutter
 
 ### Ombordlader
 
@@ -66,11 +66,11 @@ Dynamisk styring er en standard-funktion på Lexus RZ 450e. Dynamisk styring var
 
 Lexus RZ 450e lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- : Afbalanceret styring og speeder.
-- : Dynamisk styring og speeder.
-- : Afbalanceret styring og effektiv speeder.
-- : Afbalanceret styring og effektiv speeder.
-- : Brugerdefinerede indstillinger for styring og speeder.
+- Normal: Afbalanceret styring og speeder.
+- Sport: Dynamisk styring og speeder.
+- Eco: Afbalanceret styring og effektiv speeder.
+- Range: Afbalanceret styring og effektiv speeder.
+- Custom: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 
@@ -108,6 +108,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 Lexus RZ 450e har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af høj kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, samtidig med at den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
+
+Lexus RZ 450e har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
 
 #### Første række sæder
 

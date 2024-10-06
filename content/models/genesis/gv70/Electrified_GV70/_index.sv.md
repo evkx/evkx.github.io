@@ -93,6 +93,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Genesis Electrified GV70 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Genesis Electrified GV70 erbjuder endast en typ av framsäte.

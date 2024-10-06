@@ -88,6 +88,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+Hyundai Ioniq 5 N har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Hyundai Ioniq 5 N Long Range tilbyr kun én type forsete.

@@ -91,6 +91,8 @@ Du kan v채lja mellan olika typer av sitsmaterial och inredningsstilar. Du kan v�
 
 ### S채ten
 
+Hyundai Kona Long Range rymmer fem passagerare med tv책 s채ten fram och en tre-sitsig b채nk bak.
+
 #### Frams채ten
 
 Hyundai Kona Long Range erbjuder endast en typ av frams채te.

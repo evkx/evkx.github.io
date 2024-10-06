@@ -468,6 +468,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Innenraum
 
+Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 
 ### Vordersitze
 

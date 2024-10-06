@@ -91,6 +91,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Kia EV3 Long Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Kia EV3 Long Range tilbyder kun én type forreste sæde.

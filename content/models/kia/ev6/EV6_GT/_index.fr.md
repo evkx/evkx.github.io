@@ -86,6 +86,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ### Sièges
 
+Le Kia EV6 GT peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Kia EV6 GT propose un seul type de siège avant.

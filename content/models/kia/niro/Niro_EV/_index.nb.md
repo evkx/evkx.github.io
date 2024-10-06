@@ -93,6 +93,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+Kia Niro EV har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Kia Niro EV Long Range tilbyr kun én type forsete.

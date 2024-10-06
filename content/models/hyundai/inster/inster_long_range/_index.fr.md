@@ -91,6 +91,8 @@ Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
+La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
+
 #### Sièges de première rangée
 
 Le Hyundai INSTER Long Range propose un seul type de siège avant.

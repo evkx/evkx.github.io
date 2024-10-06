@@ -81,6 +81,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ### Sitze
 
+Der Subaru Solterra AWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Subaru Solterra AWD bietet nur einen Typ von Vordersitz.

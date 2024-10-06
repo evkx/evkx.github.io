@@ -93,6 +93,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Kia Niro EV har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Kia Niro EV tilbyder kun én type forreste sæde.

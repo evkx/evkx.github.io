@@ -91,6 +91,8 @@ Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior
 
 ### Asientos
 
+El Hyundai Kona Standard Range tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Hyundai Kona Standard Range ofrece un único tipo de asiento delantero.

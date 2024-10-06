@@ -88,6 +88,8 @@ Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
+El Hyundai Ioniq 5 N tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Hyundai Ioniq 5 N ofrece un único tipo de asiento delantero.

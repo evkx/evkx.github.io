@@ -89,6 +89,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
+Hyundai Ioniq 6 Long Range RWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Hyundai Ioniq 6 Long Range RWD erbjuder endast en typ av framsäte.

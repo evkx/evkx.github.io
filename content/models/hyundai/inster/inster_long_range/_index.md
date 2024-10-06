@@ -91,6 +91,8 @@ You can choose between several interior designs.
 
 ### Seats
 
+The seat layout is the two seats in front and two seats in the rear.
+
 #### First Row Seats
 
 The Hyundai INSTER Long Range offers a single type of front seat.

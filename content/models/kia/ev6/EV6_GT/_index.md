@@ -86,6 +86,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
+The Kia EV6 GT accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Kia EV6 GT offers a single type of front seat.

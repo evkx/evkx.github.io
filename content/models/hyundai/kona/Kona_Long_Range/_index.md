@@ -91,6 +91,8 @@ You can choose between different types of seat materials and interior styling. Y
 
 ### Seats
 
+The Hyundai Kona Long Range accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Hyundai Kona Long Range offers a single type of front seat.

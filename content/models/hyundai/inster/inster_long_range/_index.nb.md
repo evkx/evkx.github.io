@@ -91,6 +91,8 @@ Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
+Seteoppsettet er to seter foran og to seter bak.
+
 #### Forseter
 
 Hyundai INSTER Long Range Long Range tilbyr kun én type forsete.

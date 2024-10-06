@@ -91,6 +91,8 @@ Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du ka
 
 ### Sæder
 
+Hyundai Kona Long Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Hyundai Kona Long Range tilbyder kun én type forreste sæde.

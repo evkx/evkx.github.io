@@ -91,6 +91,8 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
+Der Kia EV3 Long Range bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Kia EV3 Long Range bietet nur einen Typ von Vordersitz.

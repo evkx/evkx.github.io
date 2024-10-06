@@ -91,6 +91,8 @@ Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
+Sittlayouten är två säten fram och två säten bak.
+
 #### Framsäten
 
 Hyundai INSTER Long Range erbjuder endast en typ av framsäte.

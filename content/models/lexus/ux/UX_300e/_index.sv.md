@@ -91,6 +91,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
+Lexus UX 300e rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Lexus UX 300e erbjuder endast en typ av framsäte.

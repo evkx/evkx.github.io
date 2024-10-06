@@ -91,6 +91,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
+Lexus UX 300e har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Lexus UX 300e tilbyder kun én type forreste sæde.

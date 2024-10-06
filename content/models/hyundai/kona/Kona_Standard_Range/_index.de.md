@@ -91,6 +91,8 @@ Sie können zwischen verschiedenen Sitzmaterialien und Innenraumstilen wählen. 
 
 ### Sitze
 
+Der Hyundai Kona Standard Range bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Hyundai Kona Standard Range bietet nur einen Typ von Vordersitz.

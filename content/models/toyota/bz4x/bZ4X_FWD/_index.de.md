@@ -81,6 +81,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ### Sitze
 
+Der Toyota bZ4X FWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Toyota bZ4X FWD bietet nur einen Typ von Vordersitz.

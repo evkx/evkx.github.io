@@ -89,6 +89,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
+The Hyundai Ioniq 6 Long Range RWD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Hyundai Ioniq 6 Long Range RWD offers a single type of front seat.

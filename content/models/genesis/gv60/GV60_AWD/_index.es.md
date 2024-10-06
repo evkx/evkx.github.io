@@ -92,6 +92,8 @@ Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
+El Genesis GV60 AWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Genesis GV60 AWD ofrece un único tipo de asiento delantero.

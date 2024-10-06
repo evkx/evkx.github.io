@@ -81,6 +81,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ### Seter
 
+Toyota bZ4X FWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Toyota bZ4X FWD Long Range tilbyr kun én type forsete.

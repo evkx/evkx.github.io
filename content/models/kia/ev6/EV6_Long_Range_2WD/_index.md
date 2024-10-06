@@ -93,6 +93,8 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
+The Kia EV6 Long Range 2WD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Kia EV6 Long Range 2WD offers a single type of front seat.

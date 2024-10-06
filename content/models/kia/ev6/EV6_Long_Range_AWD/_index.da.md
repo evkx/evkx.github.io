@@ -91,6 +91,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Kia EV6 Long Range AWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Kia EV6 Long Range AWD tilbyder kun én type forreste sæde.

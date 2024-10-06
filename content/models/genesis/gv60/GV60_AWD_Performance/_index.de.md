@@ -92,6 +92,8 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
+Der Genesis GV60 AWD Performance bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Genesis GV60 AWD Performance bietet nur einen Typ von Vordersitz.

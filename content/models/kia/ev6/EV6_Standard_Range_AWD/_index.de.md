@@ -93,6 +93,8 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
+Der Kia EV6 Standard Range AWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Kia EV6 Standard Range AWD bietet nur einen Typ von Vordersitz.

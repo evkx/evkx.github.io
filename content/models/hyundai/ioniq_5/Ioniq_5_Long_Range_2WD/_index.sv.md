@@ -93,6 +93,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Hyundai Ioniq 5 Long Range 2WD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Hyundai Ioniq 5 Long Range 2WD erbjuder endast en typ av framsäte.

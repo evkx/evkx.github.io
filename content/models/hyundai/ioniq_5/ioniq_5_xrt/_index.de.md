@@ -88,6 +88,8 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
+Der Hyundai Ioniq 5 XRT bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Hyundai Ioniq 5 XRT bietet nur einen Typ von Vordersitz.

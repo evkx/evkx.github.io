@@ -91,6 +91,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+Kia EV6 Long Range AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Kia EV6 Long Range AWD Long Range tilbyr kun én type forsete.

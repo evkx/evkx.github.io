@@ -92,6 +92,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Genesis GV60 AWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Genesis GV60 AWD tilbyder kun én type forreste sæde.

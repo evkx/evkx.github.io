@@ -36,7 +36,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 147 kW. Das Laden von 0% auf 100% dauert etwa 84 Minuten, während ein typischer Ladevorgang von 10% auf 80% 38 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 70 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 48%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 78 kW, wobei jede Ladesitzung etwa 22 Minuten und 33 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 10 Stunden und 44 Minuten dauern. Diese Reise würde sieben Ladestopps von 5% auf 47% erfordern, mit einer gesamten Ladezeit von 144 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22,5 kWh/100 km, würde die Fahrt etwa 10 Stunden und 23 Minuten dauern. Diese Reise würde sechs Ladestopps von 5% auf 47% erfordern, mit einer gesamten Ladezeit von 123 Minuten.
 
 ### Bordladegerät
 
@@ -66,11 +66,11 @@ Die dynamische Lenkung ist eine standard im Lexus RZ 300e, wobei das Lenkverhäl
 
 Der Lexus RZ 300e ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- : Ausgewogene Lenkung und Gas.
-- : Dynamische Lenkung und Gas.
-- : Ausgewogene Lenkung und effizientes Gas.
-- : Ausgewogene Lenkung und effizientes Gas.
-- : Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+- Normal: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
+- Range: Ausgewogene Lenkung und effizientes Gas.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
 ### Bremsen
 
@@ -108,6 +108,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 Der Lexus RZ 300e verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet. Sie können zwischen verschiedenen Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
+
+Der Lexus RZ 300e bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 

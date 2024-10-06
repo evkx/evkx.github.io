@@ -81,6 +81,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
+The Toyota bZ4X FWD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Toyota bZ4X FWD offers a single type of front seat.

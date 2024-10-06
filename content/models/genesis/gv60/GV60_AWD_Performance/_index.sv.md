@@ -92,6 +92,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Genesis GV60 AWD Performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Genesis GV60 AWD Performance erbjuder endast en typ av framsäte.

@@ -81,6 +81,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ### Seter
 
+Subaru Solterra AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Subaru Solterra AWD Long Range tilbyr kun én type forsete.

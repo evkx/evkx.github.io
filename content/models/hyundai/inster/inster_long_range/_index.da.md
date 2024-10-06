@@ -91,6 +91,8 @@ Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
+Sædeopsætningen er to sæder foran og to sæder bagved.
+
 #### Første række sæder
 
 Hyundai INSTER Long Range tilbyder kun én type forreste sæde.

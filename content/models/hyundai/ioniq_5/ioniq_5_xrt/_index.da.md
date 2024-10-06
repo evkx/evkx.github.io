@@ -88,6 +88,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Hyundai Ioniq 5 XRT har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Hyundai Ioniq 5 XRT tilbyder kun én type forreste sæde.

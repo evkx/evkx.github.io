@@ -93,6 +93,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Kia EV6 Standard Range AWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Kia EV6 Standard Range AWD erbjuder endast en typ av framsäte.

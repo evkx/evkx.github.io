@@ -468,6 +468,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cuatro asientos.
 
 ### Asientos delanteros
 

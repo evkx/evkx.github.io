@@ -93,6 +93,8 @@ Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
+El Genesis Electrified GV70 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Genesis Electrified GV70 ofrece un único tipo de asiento delantero.

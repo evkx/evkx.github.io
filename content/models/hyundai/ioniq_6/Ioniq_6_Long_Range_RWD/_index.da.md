@@ -89,6 +89,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
+Hyundai Ioniq 6 Long Range RWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Hyundai Ioniq 6 Long Range RWD tilbyder kun én type forreste sæde.

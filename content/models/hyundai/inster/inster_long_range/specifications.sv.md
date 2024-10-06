@@ -468,6 +468,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Interiör
 
+Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 
 ### Framsäten
 

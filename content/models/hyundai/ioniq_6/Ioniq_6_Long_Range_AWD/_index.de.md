@@ -89,6 +89,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ### Sitze
 
+Der Hyundai Ioniq 6 Long Range AWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Hyundai Ioniq 6 Long Range AWD bietet nur einen Typ von Vordersitz.

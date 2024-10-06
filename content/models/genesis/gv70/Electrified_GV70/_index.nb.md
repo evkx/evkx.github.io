@@ -93,6 +93,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+Genesis Electrified GV70 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Genesis Electrified GV70 Long Range tilbyr kun én type forsete.

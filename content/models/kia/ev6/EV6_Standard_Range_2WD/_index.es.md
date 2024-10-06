@@ -93,6 +93,8 @@ Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
+El Kia EV6 Standard Range 2WD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Kia EV6 Standard Range 2WD ofrece un único tipo de asiento delantero.

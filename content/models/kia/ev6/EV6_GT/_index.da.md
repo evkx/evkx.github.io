@@ -86,6 +86,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
+Kia EV6 GT har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Kia EV6 GT tilbyder kun én type forreste sæde.

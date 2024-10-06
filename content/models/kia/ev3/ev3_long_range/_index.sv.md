@@ -91,6 +91,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Kia EV3 Long Range rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Kia EV3 Long Range erbjuder endast en typ av framsäte.
