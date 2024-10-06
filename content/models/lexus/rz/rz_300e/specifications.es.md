@@ -611,7 +611,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -627,7 +627,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica opcional
 			</td>
 		</tr>
 		<tr>

@@ -74,7 +74,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Lexus RZ 300e, avec des dimensions de 4910 mm de longueur, 1895 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Lexus RZ 300e est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Lexus RZ 300e, avec des dimensions de 4910 mm de longueur, 1895 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Lexus RZ 300e est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et le capot sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lexus RZ 300e, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -95,6 +95,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
+interior.intro.functional.highquality.splitlevel Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+
 ### Sièges
 
 #### Sièges de première rangée
@@ -105,11 +107,18 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
+- DarkGray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- DarkGray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Brown/Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Blue/Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/frontseats_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -129,7 +138,7 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
@@ -143,6 +152,8 @@ L'Lexus RZ 300e comprend plusieurs fonctionnalités pour améliorer le confort e
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
 
 Le Lexus RZ 300e possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
@@ -183,6 +194,12 @@ Vous pouvez choisir entre deux systèmes audio sur le Lexus RZ 300e.
 - Avec le Mark Levinson Premium Surround Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de  watts.
 
 Le modèle dispose de 5 connexions USB-C en standard.
+
+## Application mobile
+
+Le Lexus RZ 300e est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
 
 ## Lumières
 

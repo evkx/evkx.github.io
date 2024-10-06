@@ -611,7 +611,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>
@@ -627,7 +627,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Optional electric feature
 			</td>
 		</tr>
 		<tr>

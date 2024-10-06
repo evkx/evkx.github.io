@@ -74,7 +74,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Lexus RZ 300e, med dimensjoner på 4910 mm i lengde, 1895 mm i bredde og 1635 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Lexus RZ 300e er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
+Lexus RZ 300e, med dimensjoner på 4910 mm i lengde, 1895 mm i bredde og 1635 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Lexus RZ 300e er tilgjengelig i totalt 10 lakkfarger, inkludert både solide og metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og panseret er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lexus RZ 300e, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -95,6 +95,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
+interior.intro.functional.highquality.splitlevel Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+
 ### Seter
 
 #### Forseter
@@ -105,11 +107,18 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
+- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
+- DarkGray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- DarkGray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Brown/Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Blue/Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/frontseats_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -129,7 +138,7 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
 
@@ -143,6 +152,8 @@ Lexus RZ 300e inkluderer flere funksjoner for å forbedre komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
 
 Lexus RZ 300e har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
 
@@ -183,6 +194,12 @@ Du kan velge mellom to lydsystemer på Lexus RZ 300e.
 - Med Mark Levinson Premium Surround Sound får du 13 høyttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 5 USB-C-tilkoblinger som standard.
+
+## Mobilapp
+
+Lexus RZ 300e kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
 
 ## Lys
 
