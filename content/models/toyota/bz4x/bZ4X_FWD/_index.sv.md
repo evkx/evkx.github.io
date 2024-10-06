@@ -50,13 +50,19 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Toyota bZ4X FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
+Toyota bZ4X FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
+Fjädringen Standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 200 mm.
+
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Toyota bZ4X FWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
 
 ### Bromsar
+
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 328mm och de bakre skivorna är 317mm.
 
 ### Regenerativ bromsning
 

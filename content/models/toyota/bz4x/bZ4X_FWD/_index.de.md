@@ -50,13 +50,19 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 ## Antriebsstrang
 
-Der Toyota bZ4X FWD hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird.
+Der Toyota bZ4X FWD hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
+Die Standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 200 mm.
+
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Toyota bZ4X FWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
 ### Bremsen
+
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 328 mm, während die hinteren Scheiben 317 mm groß sind.
 
 ### Rekuperatives Bremsen
 

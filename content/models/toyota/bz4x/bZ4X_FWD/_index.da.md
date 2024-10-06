@@ -50,13 +50,19 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på forakslen.
+Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulophæng
 
--ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 177 mm.
+Standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 200 mm.
+
+### Styring
+
+Dynamisk styring er en standard-funktion på Toyota bZ4X FWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
 ### Bremser
+
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 328mm, og de bagerste skiver er 317mm.
 
 ### Regenerativ bremsning
 

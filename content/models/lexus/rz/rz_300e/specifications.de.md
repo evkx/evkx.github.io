@@ -306,7 +306,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Länge
 			</td>
 			<td>
-				4910 mm (193,3")
+				4805 mm (189,2")
 			</td>
 		</tr>
 		<tr>

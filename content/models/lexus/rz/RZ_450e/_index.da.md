@@ -84,7 +84,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Den Lexus RZ 450e, med dimensioner på 4910 mm i længde, 1895 mm i bredde og 1635 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Lexus RZ 450e fås i alt 10 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og motorhjelmen er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
+Den Lexus RZ 450e, med dimensioner på 4805 mm i længde, 1895 mm i bredde og 1635 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Lexus RZ 450e fås i alt 10 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og motorhjelmen er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lexus RZ 450e, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 

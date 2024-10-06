@@ -50,13 +50,19 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 ## Transmission
 
-Toyota bZ4X FWD dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
+Toyota bZ4X FWD dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
+La suspension Standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 200 mm.
+
+### Pilotage
+
+La direction dynamique est une fonctionnalité un standard sur le Toyota bZ4X FWD. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
 ### Freins
+
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 328 mm et les disques arrière mesurent 317 mm.
 
 ### Freinage régénératif
 

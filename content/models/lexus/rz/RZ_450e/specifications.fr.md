@@ -306,7 +306,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4910 mm
+				4805 mm
 			</td>
 		</tr>
 		<tr>

@@ -50,13 +50,19 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 ## Tren de transmisión
 
-Toyota bZ4X FWD tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
+Toyota bZ4X FWD tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 177 mm.
+La suspensión Standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 200 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Toyota bZ4X FWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
 ### Frenos
+
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 328 mm y los discos traseros de 317 mm.
 
 ### Frenado regenerativo
 

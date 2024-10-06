@@ -84,7 +84,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Lexus RZ 300e, con dimensiones de 4910 mm de longitud, 1895 mm de anchura y 1635 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Lexus RZ 300e está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y el capó están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
+El Lexus RZ 300e, con dimensiones de 4805 mm de longitud, 1895 mm de anchura y 1635 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Lexus RZ 300e está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y el capó están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lexus RZ 300e, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

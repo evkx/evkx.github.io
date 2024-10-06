@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4910 mm
+				4805 mm
 			</td>
 		</tr>
 		<tr>

@@ -50,13 +50,19 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-The Toyota bZ4X FWD has a front-wheel drive system supported by one motor on the front axle.
+The Toyota bZ4X FWD has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
+The Standard suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm.
+
+### Steering
+
+Dynamic steering is a standard on the Toyota bZ4X FWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 328 mm, while the rear discs are 317 mm.
 
 ### Regenerative Braking
 

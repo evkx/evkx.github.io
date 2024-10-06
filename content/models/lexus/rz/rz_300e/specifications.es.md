@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4910 mm
+				4805 mm
 			</td>
 		</tr>
 		<tr>

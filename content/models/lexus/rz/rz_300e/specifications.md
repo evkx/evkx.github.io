@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4910 mm (193,3")
+				4805 mm (189,2")
 			</td>
 		</tr>
 		<tr>

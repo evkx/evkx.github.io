@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Längd
 			</td>
 			<td>
-				4910 mm
+				4805 mm
 			</td>
 		</tr>
 		<tr>
