@@ -266,7 +266,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite ohne Spiegel
 			</td>
 			<td>
-				1953 mm (76,9")
+				1954 mm (76,9")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite inklusive Spiegel
 			</td>
 			<td>
-				2156 mm (84,9")
+				2155 mm (84,8")
 			</td>
 		</tr>
 		<tr>
@@ -287,10 +287,42 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1612 mm (63,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1618 mm (63,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				17,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				23,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
-				12,1 Meter (476,4")
+				11,6 Meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +444,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				193 mm (7,6")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				193 mm (7,6")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +492,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Federungstyp vorne
 			</td>
 			<td>
-				Multilink
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -476,6 +508,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Innenraum
 
+Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 
 ### Vordersitze
 
@@ -793,6 +826,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Hintere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -800,6 +834,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Vordere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -807,6 +842,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Seitliche Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +865,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Antiblockiersystem
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -844,6 +881,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bremsassistent
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +889,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Traktionskontrolle
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +911,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Elektronische Stabilitätskontrolle
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +934,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Effizienzassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +998,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +1006,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Android Auto Unterstützung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +1014,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Apple Carplay Unterstützung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

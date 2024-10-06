@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1953 mm (76,9")
+				1954 mm (76,9")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2156 mm (84,9")
+				2155 mm (84,8")
 			</td>
 		</tr>
 		<tr>
@@ -287,10 +287,42 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1612 mm (63,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1618 mm (63,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				17,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				23,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
-				12,1 meter (476,4")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				193 mm (7,6")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				193 mm (7,6")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Suspension type front</a>
 			</td>
 			<td>
-				Multilink
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -476,6 +508,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
@@ -793,6 +826,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -800,6 +834,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -807,6 +842,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +865,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -844,6 +881,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +889,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Traction control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +911,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +934,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +998,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +1006,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +1014,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

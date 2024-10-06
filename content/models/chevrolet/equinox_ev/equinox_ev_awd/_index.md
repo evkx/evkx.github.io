@@ -54,11 +54,15 @@ The Chevrolet Equinox EV AWD features an all-wheel drive system powered by two m
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 193 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
+
+### Steering
+
+Dynamic steering is a standard on the Chevrolet Equinox EV AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
 
 ### Regenerative Braking
 
@@ -66,7 +70,7 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ## Exterior
 
-The Chevrolet Equinox EV AWD, with dimensions of 4867 mm in length, 1953 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV AWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
+The Chevrolet Equinox EV AWD, with dimensions of 4867 mm in length, 1954 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV AWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
 
 The Chevrolet Equinox EV AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -101,7 +105,7 @@ The following functionalities are available on the **** seat:
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
-- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
@@ -126,8 +130,8 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 Two climate system options are available:
 
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -157,7 +161,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Chevrolet Equinox EV AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -179,10 +183,6 @@ The infotainment system includes an App Store where you can download third-party
 
 - **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
 - Waze
-
-### Phone Mirroring
-
-The Chevrolet Equinox EV AWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
@@ -206,8 +206,6 @@ The taillights use LED technology, ensuring both high visibility and energy effi
 The Chevrolet Equinox EV AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
-
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Chevrolet Equinox EV AWD, this system prevents the wheels from locking during braking.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Chevrolet Equinox EV AWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
@@ -241,4 +239,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/trunk_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 
+## Availability & Pricing
+
+The Chevrolet Equinox EV AWD had its world premiere on 08.09.2022, with deliveries starting in April 2024. Please note that this model is available exclusively in North America.
 {{< pagenavigation b_url="../" b_title="Chevrolet Equinox EV" f_url="rangeandconsumption/" f_title="Range" >}}

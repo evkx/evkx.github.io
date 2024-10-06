@@ -54,11 +54,15 @@ Chevrolet Equinox EV AWD har et firehjulstræk, der understøttes af to motorer,
 
 ### Hjulophæng
 
--ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 193 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 163 mm.
+
+### Styring
+
+Dynamisk styring er en standard-funktion på Chevrolet Equinox EV AWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 345mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 314mm.
 
 ### Regenerativ bremsning
 
@@ -66,7 +70,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Chevrolet Equinox EV AWD, med dimensioner på 4867 mm i længde, 1953 mm i bredde og 1646 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Chevrolet Equinox EV AWD fås i alt 8 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
+Den Chevrolet Equinox EV AWD, med dimensioner på 4867 mm i længde, 1954 mm i bredde og 1646 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Chevrolet Equinox EV AWD fås i alt 8 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Chevrolet Equinox EV AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -101,7 +105,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
@@ -126,8 +130,8 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 To klimaanlægsmuligheder er tilgængelige:
 
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-- **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -157,7 +161,7 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 Chevrolet Equinox EV AWD er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ### Spejle
 
@@ -179,10 +183,6 @@ Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsa
 
 - **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
 - Waze
-
-### Telefon spejling
-
-Yderligere understøtter Chevrolet Equinox EV AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
 ### Lydsystem
 
@@ -206,8 +206,6 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 Den Chevrolet Equinox EV AWD inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
-
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Chevrolet Equinox EV AWD, dette system forhindrer hjulene i at låse under opbremsning.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Chevrolet Equinox EV AWD, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
 
@@ -241,4 +239,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/trunk_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 08.09.2022, og leveringerne startede i April 2024. Denne model er kun tilgængelig i Nordamerika.
 {{< pagenavigation b_url="../" b_title="Chevrolet Equinox EV" f_url="rangeandconsumption/" f_title="Range" >}}

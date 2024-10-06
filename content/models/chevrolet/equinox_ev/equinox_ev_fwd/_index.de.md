@@ -54,11 +54,15 @@ Der Chevrolet Equinox EV FWD hat ein Frontantriebssystem, das von einem Motor an
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 193 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 163 mm.
+
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Chevrolet Equinox EV FWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 345 mm groß sind.
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 314 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -66,7 +70,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ## Exterieur
 
-Der Chevrolet Equinox EV FWD, mit Abmessungen von 4867 mm Länge, 1953 mm Breite und 1646 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der Chevrolet Equinox EV FWD ist in insgesamt 8 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen.
+Der Chevrolet Equinox EV FWD, mit Abmessungen von 4867 mm Länge, 1954 mm Breite und 1646 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der Chevrolet Equinox EV FWD ist in insgesamt 8 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen.
 
 Der Chevrolet Equinox EV FWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -86,7 +90,11 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach
 
 ## Interieur
 
+Der Chevrolet Equinox EV FWD verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl mit mittelmäßigen Materialien im gesamten Fahrzeug verbessert. Ein herausragendes Merkmal ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet.
+
 ### Sitze
+
+Der Chevrolet Equinox EV FWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 
@@ -114,6 +122,7 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -136,6 +145,8 @@ Der Chevrolet Equinox EV FWD umfasst mehrere Funktionen, um Komfort und Bequemli
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des Chevrolet Equinox EV FWD kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
 
 Der Chevrolet Equinox EV FWD hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -162,13 +173,18 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ## Infotainment
 
+Die Chevrolet Equinox EV FWD verfügt über ein fortschrittliches Infotainmentsystem, das auf Android Automotive OS mit Google Automotive Services basiert und eine nahtlose Integration von Google-Apps und -Diensten direkt ins Fahrzeug ermöglicht. Dieses leistungsstarke System beinhaltet integrierte Google Maps für die Navigation, Google Assistant für Sprachbefehle und Zugang zu einer Vielzahl von Apps über den Google Play Store. Chevrolet hat diese Plattform zusätzlich durch die Integration eigener Anwendungen erweitert, die umfassende Fahrzeugeinstellungen und zusätzliche, auf das Chevrolet-Fahrerlebnis abgestimmte Funktionen bieten.
+
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
-### Telefonspiegelung
+### App Store
 
-Der Chevrolet Equinox EV FWD unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- Waze
 
 ### Soundsystem
 
@@ -192,6 +208,10 @@ Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auc
 Der Chevrolet Equinox EV FWD verfügt über eine Reihe von standardmäßigen und optionalen [fortschrittlichen Fahrerassistenzsystemen](../../../../technology/driverassistance/) (ADAS), die die Sicherheit und den Komfort verbessern sollen.
 
 ### Sicherheitssysteme
+
+[**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im Chevrolet Equinox EV FWD, dieses System verhindert das Blockieren der Räder beim Bremsen.
+
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im Chevrolet Equinox EV FWD, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Chevrolet Equinox EV FWD, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
 
@@ -224,7 +244,10 @@ Der Kofferraum bietet ein Ladevolumen von 748 Litern (26,4 CU FT). Mit umgeklapp
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 680 kg (1499 lbs), während es für einen ungebremsten Anhänger 680 kg (1499 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
-Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
+
+## Verfügbarkeit & Preise
+
+Der Chevrolet Equinox EV FWD feierte seine Weltpremiere am 08.09.2022, mit Lieferungen ab April 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
 
 ### Preise
 

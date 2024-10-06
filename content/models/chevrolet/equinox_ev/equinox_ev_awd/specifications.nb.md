@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1953 mm
+				1954 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde inkludert speil
 			</td>
 			<td>
-				2156 mm
+				2155 mm
 			</td>
 		</tr>
 		<tr>
@@ -287,10 +287,42 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1612 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1618 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				17,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				23,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
-				12,1 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +444,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				193 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				193 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +492,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hjuloppheng foran
 			</td>
 			<td>
-				Multilink
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -529,7 +561,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standardfunksjon, valgfri elektrisk
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +577,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +585,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +625,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -830,7 +862,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				AntiLock Braking System
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -846,7 +877,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Bremseassistent
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -911,6 +941,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -967,7 +998,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Android Auto-støtte
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -975,7 +1006,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

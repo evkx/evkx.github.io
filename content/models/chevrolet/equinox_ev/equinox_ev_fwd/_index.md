@@ -54,11 +54,15 @@ The Chevrolet Equinox EV FWD has a front-wheel drive system supported by one mot
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 193 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
+
+### Steering
+
+Dynamic steering is a standard on the Chevrolet Equinox EV FWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
 
 ### Regenerative Braking
 
@@ -66,7 +70,7 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ## Exterior
 
-The Chevrolet Equinox EV FWD, with dimensions of 4867 mm in length, 1953 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV FWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
+The Chevrolet Equinox EV FWD, with dimensions of 4867 mm in length, 1954 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV FWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
 
 The Chevrolet Equinox EV FWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -86,7 +90,11 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
+The Chevrolet Equinox EV FWD boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+
 ### Seats
+
+The Chevrolet Equinox EV FWD accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -114,6 +122,7 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -136,6 +145,8 @@ The Chevrolet Equinox EV FWD includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the Chevrolet Equinox EV FWD combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The Chevrolet Equinox EV FWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -162,13 +173,18 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Chevrolet Equinox EV FWD features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Chevrolet has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Chevrolet driving experience.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
-### Phone Mirroring
+### App Store
 
-The Chevrolet Equinox EV FWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- Waze
 
 ### Sound System
 
@@ -192,6 +208,10 @@ The taillights use LED technology, ensuring both high visibility and energy effi
 The Chevrolet Equinox EV FWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
+
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Chevrolet Equinox EV FWD, this system prevents the wheels from locking during braking.
+
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Chevrolet Equinox EV FWD, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Chevrolet Equinox EV FWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
@@ -224,7 +244,10 @@ The trunk offers a cargo capacity of 748 liters (26.4 CU FT). With the rear seat
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 680 kg (1499 lbs), while for an unbraked trailer, it is 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
-Please note that this model is available exclusively in North America.
+
+## Availability & Pricing
+
+The Chevrolet Equinox EV FWD had its world premiere on 08.09.2022, with deliveries starting in April 2024. Please note that this model is available exclusively in North America.
 
 ### Pricing
 

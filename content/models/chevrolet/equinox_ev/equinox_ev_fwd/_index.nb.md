@@ -54,11 +54,15 @@ Chevrolet Equinox EV FWD har et forhjulsdriftssystem støttet av én motor på f
 
 ### Hjuloppheng
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 193 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
+
+### Styring
+
+Dynamisk styring er en standard-funksjonen på Chevrolet Equinox EV FWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 345mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 314mm.
 
 ### Regenerativ bremsing
 
@@ -66,7 +70,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Chevrolet Equinox EV FWD, med dimensjoner på 4867 mm i lengde, 1953 mm i bredde og 1646 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Chevrolet Equinox EV FWD er tilgjengelig i totalt 8 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
+Chevrolet Equinox EV FWD, med dimensjoner på 4867 mm i lengde, 1954 mm i bredde og 1646 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Chevrolet Equinox EV FWD er tilgjengelig i totalt 8 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Chevrolet Equinox EV FWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -86,7 +90,11 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
+Chevrolet Equinox EV FWD har et førerfokusert interiør som forbedrer cockpitfølelsen med materialer av middels kvalitet brukt overalt. Et fremtredende trekk er den todelte midtkonsollen, som skiller fører og passasjer samtidig som den tilbyr praktisk oppbevaring og forbedret funksjonalitet.
+
 ### Seter
+
+Chevrolet Equinox EV FWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
 
 #### Forseter
 
@@ -114,6 +122,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -136,6 +145,8 @@ Chevrolet Equinox EV FWD inkluderer flere funksjoner for å forbedre komfort og 
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
 
 Chevrolet Equinox EV FWD har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
@@ -162,13 +173,18 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Chevrolet Equinox EV FWD er utstyrt med et avansert infotainmentsystem som kjører på Android Automotive OS med Google Automotive Services, som gir en sømløs integrasjon av Google-apper og -tjenester direkte i kjøretøyet. Dette robuste systemet inkluderer innebygd Google Maps for navigasjon, Google Assistant for talekommandoer, og tilgang til et bredt spekter av apper via Google Play Store. Chevrolet har ytterligere forbedret denne plattformen ved å integrere sin egen suite av applikasjoner, som gir omfattende bilinnstillinger og tilleggsegenskaper skreddersydd for Chevrolet kjøreopplevelse.
+
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
-### Telefonspeiling
+### App store
 
-I tillegg støtter Chevrolet Equinox EV FWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- Waze
 
 ### Lydsystem
 
@@ -192,6 +208,10 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 Chevrolet Equinox EV FWD inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
 
 ### Sikkerhetssystemer
+
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Chevrolet Equinox EV FWD, dette systemet forhindrer hjulene i å låse seg under bremsing.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Chevrolet Equinox EV FWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Chevrolet Equinox EV FWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
@@ -224,7 +244,10 @@ Bagasjerommet tilbyr en lastekapasitet på 748 liter. Med baksetene nedfelt, utv
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 680 kg, mens for en ubremset tilhenger er det 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
-Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
+
+## Tilgjengelighet & pris
+
+Chevrolet Equinox EV FWD hadde sin verdenspremiere den 08.09.2022, med leveranser som startet i April 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 
 ### Priser
 

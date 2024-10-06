@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1953 mm
+				1954 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2156 mm
+				2155 mm
 			</td>
 		</tr>
 		<tr>
@@ -287,10 +287,42 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1612 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1618 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				17,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				23,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
-				12,1 metros
+				11,6 metros
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +444,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				193 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				193 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +492,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de suspensión delantera
 			</td>
 			<td>
-				Multilink
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -476,6 +508,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -793,6 +826,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -800,6 +834,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -807,6 +842,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +865,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -844,6 +881,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +889,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +911,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +934,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +998,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +1006,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Android Auto
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +1014,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Apple Carplay
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
