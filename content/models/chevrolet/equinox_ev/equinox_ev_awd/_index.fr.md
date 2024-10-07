@@ -146,6 +146,8 @@ L'Chevrolet Equinox EV AWD comprend plusieurs fonctionnalités pour améliorer l
 
 ## Interface utilisateur et contrôle
 
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
+
 Le Chevrolet Equinox EV AWD dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
@@ -206,6 +208,10 @@ Les feux arrière standard utilisent la technologie LED, assurant visibilité et
 Le Chevrolet Equinox EV AWD comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
 
 ### Systèmes de Sécurité
+
+[**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Chevrolet Equinox EV AWD, ce système empêche les roues de se bloquer lors du freinage.
+
+[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Chevrolet Equinox EV AWD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
 
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Chevrolet Equinox EV AWD, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
 

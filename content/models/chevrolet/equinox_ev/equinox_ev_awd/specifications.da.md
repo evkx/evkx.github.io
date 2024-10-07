@@ -826,6 +826,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer bagpå
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -833,6 +834,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -840,6 +842,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer fra siden
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -862,6 +865,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -877,6 +881,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -884,6 +889,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Traction control
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -905,6 +911,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektronisk stabilitetskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -927,6 +934,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

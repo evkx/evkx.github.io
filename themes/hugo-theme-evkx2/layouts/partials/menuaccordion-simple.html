@@ -61,6 +61,15 @@
           </div>
         </div>
         </div>
+
+        <div id="search" style="margin: auto;" class="col-sm-12 col-lg-8"></div>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <script>
+          window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search", showSubResults: true });
+          });
+        </script>
     </nav>
   </div>
 </div>

@@ -826,6 +826,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -833,6 +834,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -840,6 +842,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -862,6 +865,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -877,6 +881,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -884,6 +889,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Traksjonskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -905,6 +911,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -927,6 +934,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

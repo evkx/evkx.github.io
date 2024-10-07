@@ -146,6 +146,8 @@ Chevrolet Equinox EV AWD inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
 Chevrolet Equinox EV AWD har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
 Viktiga skärmdetaljer:
@@ -206,6 +208,10 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 Chevrolet Equinox EV AWD inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
 
 ### Säkerhetssystem
+
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Chevrolet Equinox EV AWD, detta system förhindrar att hjulen låser sig under bromsning.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Chevrolet Equinox EV AWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
 
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Chevrolet Equinox EV AWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 

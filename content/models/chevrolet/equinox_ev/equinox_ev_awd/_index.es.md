@@ -146,6 +146,8 @@ El Chevrolet Equinox EV AWD incluye varias características para mejorar la como
 
 ## Interfaz de usuario y control
 
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
+
 El Chevrolet Equinox EV AWD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
@@ -206,6 +208,10 @@ Las luces traseras estándar usan tecnología LED, asegurando visibilidad y efic
 El Chevrolet Equinox EV AWD incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
 
 ### Sistemas de Seguridad
+
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Chevrolet Equinox EV AWD, este sistema evita que las ruedas se bloqueen durante el frenado.
+
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Chevrolet Equinox EV AWD, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
 
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Chevrolet Equinox EV AWD, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 

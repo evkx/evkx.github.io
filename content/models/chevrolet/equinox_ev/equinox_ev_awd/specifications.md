@@ -826,6 +826,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -833,6 +834,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -840,6 +842,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -862,6 +865,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -877,6 +881,7 @@ This model is available with a seat configuration with five seats.
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -884,6 +889,7 @@ This model is available with a seat configuration with five seats.
 				Traction control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -905,6 +911,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -927,6 +934,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
