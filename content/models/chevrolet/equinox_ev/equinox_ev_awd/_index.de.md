@@ -235,11 +235,18 @@ Mit dem Super Cruise  Level 2 System erhalten Sie zusätzliche Fahrautomatisieru
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 748 Litern (26,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1614 Liter (57,0 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 748 Litern (26,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1614 Liter (57,0 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren.
+
+Das maximale Gewicht des Fahrzeugs beträgt 2850 kg (6283 lbs) bei einem Leergewicht von 2286 kg (5040 lbs). Dies ermöglicht eine maximale Zuladung von 564 kg (1243 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 680 kg (1499 lbs), während es für einen ungebremsten Anhänger 680 kg (1499 lbs) beträgt.
 

@@ -347,7 +347,31 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2626 kg
+				2286 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal totalvægt
+			</td>
+			<td>
+				2850 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal belastning inklusive vægtdriver
+			</td>
+			<td>
+				564 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Masser taglast
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,6 +404,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal trækkuglevægt
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -795,6 +827,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Døsighedsalarm
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

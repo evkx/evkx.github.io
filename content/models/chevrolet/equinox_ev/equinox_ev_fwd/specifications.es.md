@@ -347,7 +347,31 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2626 kg
+				2233 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso total máximo
+			</td>
+			<td>
+				2750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga máxima incluido el controlador de peso
+			</td>
+			<td>
+				517 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hace carga en el techo
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,6 +404,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -795,6 +827,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

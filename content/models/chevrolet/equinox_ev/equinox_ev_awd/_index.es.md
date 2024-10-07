@@ -235,11 +235,18 @@ Con el sistema Super Cruise  de nivel 2, obtienes funciones adicionales de autom
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 748 litros. Con el asiento trasero plegado, esto se expande a 1614 litros.
+El maletero ofrece una capacidad de carga de 748 litros. Con el asiento trasero plegado, esto se expande a 1614 litros. En el techo, puedes cargar hasta 100 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+
+El peso máximo del vehículo es 2850 kg, con un peso base de 2286 kg. Esto permite una carga máxima de 564 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 680 kg, mientras que para un tráiler sin freno es de 680 kg.
 

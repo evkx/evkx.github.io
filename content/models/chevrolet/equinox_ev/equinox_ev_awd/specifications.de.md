@@ -347,7 +347,31 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2286 kg (5040 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximales Gesamtgewicht
+			</td>
+			<td>
+				2850 kg (6283 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Zuladung inklusive Fahrergewicht
+			</td>
+			<td>
+				564 kg (1243 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Dachlast
+			</td>
+			<td>
+				100 kg (220 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -380,6 +404,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				680 kg (1499 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Stützlast
+			</td>
+			<td>
+				68 kg (150 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -795,6 +827,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Müdigkeitswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

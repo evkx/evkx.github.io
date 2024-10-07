@@ -347,7 +347,31 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2626 kg
+				2286 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids total maximum
+			</td>
+			<td>
+				2850 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charge maximale incluant le poids du conducteur
+			</td>
+			<td>
+				564 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Faire du chargement sur le toit
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,6 +404,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids maximum de la boule de remorquage
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -795,6 +827,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

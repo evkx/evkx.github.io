@@ -347,7 +347,31 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2626 kg
+				2286 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten totalvikt
+			</td>
+			<td>
+				2850 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max nyttolast inklusive förarens vikt
+			</td>
+			<td>
+				564 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten taklast
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,6 +404,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Släpvagnskopplingens maximala vikt
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -795,6 +827,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Trötthetsvarnare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

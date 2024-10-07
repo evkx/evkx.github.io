@@ -235,11 +235,18 @@ Med Super Cruise  nivå 2-systemet får du ytterligare funktioner för körautom
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 748 liter. Med baksätena nedfällda ökar detta till 1614 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 748 liter. Med baksätena nedfällda ökar detta till 1614 liter. På taket kan du lasta upp till 100 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+
+Fordonets maximala vikt är 2850 kg, med en grundvikt på 2286 kg. Detta tillåter en maximal last på 564 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 680 kg, medan för en obromsad släpvagn är den 680 kg.
 

@@ -235,11 +235,18 @@ Med Super Cruise  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjone
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 748 liter. Med baksetene nedfelt, utvides dette til 1614 liter.
+Bagasjerommet tilbyr en lastekapasitet på 748 liter. Med baksetene nedfelt, utvides dette til 1614 liter. På taket kan du laste opptil 100 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+
+Kjøretøyets maksimale vekt er 2750 kg, med en basisvekt på 2233 kg. Dette gir en maksimal lastekapasitet på 517 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 680 kg, mens for en ubremset tilhenger er det 680 kg.
 

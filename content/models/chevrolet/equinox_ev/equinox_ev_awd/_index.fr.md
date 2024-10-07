@@ -235,11 +235,18 @@ Avec le système Super Cruise  de niveau 2, vous obtenez des fonctionnalités su
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 748 litres. Avec les sièges arrière rabattus, cette capacité passe à 1614 litres.
+Le coffre offre une capacité de chargement de 748 litres. Avec les sièges arrière rabattus, cette capacité passe à 1614 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+
+Le poids maximum du véhicule est de 2850 kg, avec un poids de base de 2286 kg. Cela permet une charge maximale de 564 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 680 kg, tandis que pour une remorque non freinée, il est de 680 kg.
 

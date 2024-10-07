@@ -347,7 +347,31 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2233 kg (4923 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
+			</td>
+			<td>
+				2750 kg (6063 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
+			</td>
+			<td>
+				517 kg (1140 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
+			</td>
+			<td>
+				100 kg (220 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -380,6 +404,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				680 kg (1499 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
+			</td>
+			<td>
+				68 kg (150 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -795,6 +827,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

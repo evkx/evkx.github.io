@@ -235,11 +235,18 @@ With the Super Cruise  level 2 system, you get additional driving automation fea
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 748 liters (26.4 CU FT). With the rear seat folded down, this expands to 1614 liters (57.0 CU FT).
+The trunk offers a cargo capacity of 748 liters (26.4 CU FT). With the rear seat folded down, this expands to 1614 liters (57.0 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+
+The vehicle’s maximum weight is 2750 kg (6063 lbs), with a base weight of 2233 kg (4923 lbs). This allows for a maximum load of 517 kg (1140 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 680 kg (1499 lbs), while for an unbraked trailer, it is 680 kg (1499 lbs).
 

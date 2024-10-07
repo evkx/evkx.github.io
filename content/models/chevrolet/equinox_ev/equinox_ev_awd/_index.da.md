@@ -235,11 +235,18 @@ Med Super Cruise  niveau 2-systemet får du yderligere funktioner til køreautom
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 748 liter. Med det bageste sæde foldet ned, udvides dette til 1614 liter.
+Bagagerummet har en lastekapacitet på 748 liter. Med det bageste sæde foldet ned, udvides dette til 1614 liter. På taget kan du laste op til 100 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+
+Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2286 kg. Dette giver en maksimal last på 564 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 680 kg, mens den for en ubremset trailer er 680 kg.
 
