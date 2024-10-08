@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model 3 Long
 				Popeffekt
 			</td>
 			<td>
-				324 KW (441 hk)
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model 3 Long
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,4 s
+				5,2 s
 			</td>
 		</tr>
 	</tbody>

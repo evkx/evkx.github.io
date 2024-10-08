@@ -26,7 +26,7 @@ Vi har opdelt vores Tesla Model 3 Long Range RWD artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Tesla Model 3 Long Range RWD leverer en solid præstation med en maksimal effekt på 324 kW (441 hk) og et totalt drejningsmoment på 493 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 201 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Tesla Model 3 Long Range RWD leverer en solid præstation med en maksimal effekt på 220 kW (299 hk) og et totalt drejningsmoment på 493 Nm. Den kan accelerere fra 0 til 100 km/t på 5,2 sekunder og når en topfart på 201 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

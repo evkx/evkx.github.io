@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Mod
 				Puissance de pointe
 			</td>
 			<td>
-				324 KW (441 ch)
+				220 KW (299 ch)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Mod
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,4 s
+				5,2 s
 			</td>
 		</tr>
 	</tbody>

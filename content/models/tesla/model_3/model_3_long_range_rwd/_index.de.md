@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Tesla Model 3 Long Range RWD liefert eine solide Leistung mit einer maximalen Leistung von 324 kW (441 PS / 435 bhp) und einem Gesamtdrehmoment von 493 Nm (364 lb-ft). Er beschleunigt in 4,4 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 201 km/h (125 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der Tesla Model 3 Long Range RWD liefert eine solide Leistung mit einer maximalen Leistung von 220 kW (299 PS / 295 bhp) und einem Gesamtdrehmoment von 493 Nm (364 lb-ft). Er beschleunigt in 5,2 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 201 km/h (125 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 

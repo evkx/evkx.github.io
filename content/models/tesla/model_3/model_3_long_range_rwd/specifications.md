@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 				Peak power
 			</td>
 			<td>
-				324 KW (441 hp /434 bhp)
+				220 KW (299 hp /295 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,4 s
+				5,2 s
 			</td>
 		</tr>
 	</tbody>

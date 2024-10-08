@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model 3 Long
 				Potencia máxima
 			</td>
 			<td>
-				324 KW (441 hp)
+				220 KW (299 hp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model 3 Long
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,4 s
+				5,2 s
 			</td>
 		</tr>
 	</tbody>
