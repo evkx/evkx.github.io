@@ -36,7 +36,7 @@ I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental P
 
 Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 85 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 249kW. Hver ladeøkt vil ta 27 minutter og 56 sekunder. Denne eksepsjonelt raske ladeevnen gjør Chevrolet Silverado EV SRT til en av de mest effektive og praktiske elbilene for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 38 kWh/100 km, ville turen ta omtrent 9 timer og 1 minutter. Denne reisen ville kreve to ladestopp fra 1% til 40%, med en total ladetid på 41 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 33 kWh/100 km, ville turen ta omtrent 8 timer og 47 minutter. Denne reisen ville kreve to ladestopp fra 1% til 55%, med en total ladetid på 28 minutter.
 
 ### Ombordlader
 

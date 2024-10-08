@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range
 linktitle: "Model 3 Long Range"
-description: "Tesla Model 3 Long Range est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 629 km (391 miles). EVKX.net a tous les détails."
+description: "Tesla Model 3 Long Range est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 678 km (421 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ La Tesla Model 3 Long Range offre des performances solides avec une puissance ma
 
 La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 75,0 kWh, offrant une réserve de 7,0 kWh (8,5%) pour la protection de la batterie. Avec une tension nominale de 357 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 629 km, avec une consommation d'énergie de 11,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 678 et 629 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 11,1 kWh/100 km pour le modèle de base et à 11,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 70 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 33 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 117kW. Chaque session de charge prendrait 15 minutes et 35 secondes.
 

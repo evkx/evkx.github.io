@@ -36,7 +36,7 @@ According to the [EPA](../../../../guides/understandingrange/epa/) (Environmenta
 
 The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 85 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 260 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 53%. This results in an effective charging speed, including time lost, of 249 kW, with each charging session taking about 27 minutes and 56 seconds. This exceptionally fast charging capability makes the Chevrolet Silverado EV SRT one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 38 kWh/100 km, the trip would take approximately 9 hours and 1 minutes. This journey would require two charging stops from 1% to 40%, with a total charging time of 41 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 33 kWh/100 km, the trip would take approximately 8 hours and 47 minutes. This journey would require one charging stops from 1% to 55%, with a total charging time of 28 minutes.
 
 ### Onboard Charger
 

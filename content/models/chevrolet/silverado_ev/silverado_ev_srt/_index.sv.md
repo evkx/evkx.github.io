@@ -36,7 +36,7 @@ Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protecti
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 85 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 249kW. Varje laddningssession tar 27 minuter och 56 sekunder. Denna exceptionellt snabba laddningskapacitet gör Chevrolet Silverado EV SRT till en av de mest effektiva och bekväma elbilarna för långresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 38 kWh/100 km, skulle resan ta ungefär 9 timmar och 1 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 40%, med en total laddningstid på 41 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 33 kWh/100 km, skulle resan ta ungefär 8 timmar och 47 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 55%, med en total laddningstid på 28 minuter.
 
 ### Ombordladdare
 

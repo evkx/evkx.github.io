@@ -622,7 +622,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid mb-2" alt="Tesla" ></a>
 	<h2>Tesla</h2>
 	<p>
-	Tesla har 5 modeller med i alt 18 varianter.
+	Tesla har 5 modeller med i alt 19 varianter.
 	</p>
 	<a href="tesla/" class="btn btn-outline-primary" role="button">Gå til Tesla EV-modeloversigt</a>
 </div>

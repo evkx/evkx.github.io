@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range
 linktitle: "Model 3 Long Range"
-description: "Tesla Model 3 Long Range ist eine vollelektrische Limousine mit einer Reichweite von bis zu 629 km (391 Meilen). EVKX.net hat alle Details."
+description: "Tesla Model 3 Long Range ist eine vollelektrische Limousine mit einer Reichweite von bis zu 678 km (421 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Der Tesla Model 3 Long Range liefert eine solide Leistung mit einer maximalen Le
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 75,0 kWh, was einen Puffer von 7,0 kWh (8,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 357 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 629 km (391 Meilen) mit einem Energieverbrauch von 11,9 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 678 und 629 km (421-391 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 11,1 kWh/100 km für das Basismodell und 11,9 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 250 kW. Das Laden von 0% auf 100% dauert etwa 70 Minuten, während ein typischer Ladevorgang von 10% auf 80% 33 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 95 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 5% und 43%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 117 kW, wobei jede Ladesitzung etwa 15 Minuten und 35 Sekunden dauert.
 

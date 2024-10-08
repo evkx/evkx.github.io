@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-2c5cba1f
+  translation: Tesla Model 3 Long Range RWD er en fuldelektrisk sedan med en WLTP rækkevidde på op til 702 km (436 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-eaf82671
   translation: Lexus RZ 300e er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 480 km (298 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4305a898
   translation: GMC Hummer EV SUV 3x er en fuldelektrisk SUV med en rækkevidde på EPA på op til 505 km (314 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-f349adfd
-  translation: Porsche Taycan Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 678 km (421 miles). EVKX.net har alle detaljerne.
 

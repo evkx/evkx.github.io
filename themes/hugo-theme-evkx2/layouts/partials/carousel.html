@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/tesla/model_3/model_3_long_range_rwd/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_rwd/main_1_mt.jpeg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Tesla Model 3 Long Range RWD</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-2c5cba1f"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/lexus/rz/rz_300e/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_300e/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Zeekr 7X Standard Range RWD</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-99e44cf9"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/kia/ev6/ev6_long_range_awd/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Kia EV6 Long Range AWD</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-f0ccad59"}}</p>
 				</div>
 			</div>
 		</div>

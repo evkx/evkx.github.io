@@ -619,7 +619,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid mb-2" alt="Tesla" ></a>
 	<h2>Tesla</h2>
 	<p>
-	Tesla hat 5 Modelle mit insgesamt 18 Varianten.
+	Tesla hat 5 Modelle mit insgesamt 19 Varianten.
 	</p>
 	<a href="tesla/" class="btn btn-outline-primary" role="button">Gehe zu Tesla EV-Modellübersicht</a>
 </div>

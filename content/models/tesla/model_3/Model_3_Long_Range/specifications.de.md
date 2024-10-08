@@ -80,7 +80,31 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
-				WLTP-Reichweite
+				WLTP-Reichweite der Basisausstattung
+			</td>
+			<td>
+				678 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch der Basisausstattung
+			</td>
+			<td>
+				11,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
+			</td>
+			<td>
+				14,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Reichweite der Top-Ausstattung
 			</td>
 			<td>
 				629 km
@@ -88,7 +112,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				WLTP-Verbrauch
+				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
 				11,9 kWh/100km
@@ -96,10 +120,10 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				WLTP-Verbrauch mit Ladeverlust
+				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,8 kwh/100km
 			</td>
 		</tr>
 		<tr>

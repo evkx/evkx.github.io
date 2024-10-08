@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range
 linktitle: "Model 3 Long Range"
-description: "Tesla Model 3 Long Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 629 km. EVKX.net har alle detaljene."
+description: "Tesla Model 3 Long Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 678 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Tesla Model 3 Long Range leverer solid ytelse med en maksimal effekt på 324 kW 
 
 Høykapasitetsbatteriet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 75,0 kWh, som gir en buffer på 7,0 kWh (8,5%) for batteribeskyttelse. Med en nominell spenning på 357 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 629 km, med et energiforbruk på 11,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 678 og 629 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 11,1 kWh/100 km for basismodellen og 11,9 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 117kW. Hver ladeøkt vil ta 15 minutter og 35 sekunder.
 

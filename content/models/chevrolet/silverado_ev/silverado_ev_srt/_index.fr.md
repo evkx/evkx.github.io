@@ -36,7 +36,7 @@ Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental 
 
 La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 85 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 53 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 249kW. Chaque session de charge prendrait 27 minutes et 56 secondes. Cette capacité de charge exceptionnellement rapide fait de la Chevrolet Silverado EV SRT l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 38 kWh/100 km, le voyage prendrait environ 9 heures et 1 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 40%, avec un temps de recharge total de 41 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 33 kWh/100 km, le voyage prendrait environ 8 heures et 47 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 55%, avec un temps de recharge total de 28 minutes.
 
 ### Chargeur embarqué
 

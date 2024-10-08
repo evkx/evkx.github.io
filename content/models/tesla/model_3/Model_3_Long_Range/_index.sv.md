@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range
 linktitle: "Model 3 Long Range"
-description: "Tesla Model 3 Long Range är en helelektrisk sedan med en WLTP räckvidd på upp till 629 km. EVKX.net har alla detaljer."
+description: "Tesla Model 3 Long Range är en helelektrisk sedan med en WLTP räckvidd på upp till 678 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Tesla Model 3 Long Range levererar en solid prestanda med en maximal effekt på 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 75,0 kWh, vilket ger en buffert på 7,0 kWh (8,5%) för batteriskydd. Med en nominell spänning på 357 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 629 km (199 miles), med en energiförbrukningshastighet på 11,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 678 och 629 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 11,1 kWh/100 km för basmodellen och 11,9 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 70 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 117kW. Varje laddningssession tar 15 minuter och 35 sekunder.
 

@@ -80,7 +80,31 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				Rango WLTP
+				Rango WLTP de equipamiento básico
+			</td>
+			<td>
+				678 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP de ajuste básico
+			</td>
+			<td>
+				11,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP de ajuste básico con pérdida de carga
+			</td>
+			<td>
+				14,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango WLTP de acabado superior
 			</td>
 			<td>
 				629 km
@@ -88,7 +112,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP
+				Consumo WLTP superior
 			</td>
 			<td>
 				11,9 kWh/100km
@@ -96,10 +120,10 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP con pérdida de carga
+				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,8 kwh/100km
 			</td>
 		</tr>
 		<tr>

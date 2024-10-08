@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range
 linktitle: "Model 3 Long Range"
-description: "Tesla Model 3 Long Range es un sedán totalmente eléctrico con un WLTP alcance de hasta 629 km (391 millas). EVKX.net tiene todos los detalles."
+description: "Tesla Model 3 Long Range es un sedán totalmente eléctrico con un WLTP alcance de hasta 678 km (421 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ El Tesla Model 3 Long Range ofrece un rendimiento sólido con una potencia máxi
 
 La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 75,0 kWh, proporcionando un buffer de 7,0 kWh (8,5%) para la protección de la batería. Con un voltaje nominal de 357 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 629 km, con una tasa de consumo de energía de 11,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 678 y 629 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 11,1 kWh/100 km para el modelo base y 11,9 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 70 minutos, mientras que un escenario más común del 10 al 80 % tardaría 33 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 117kW. Cada sesión de carga tardaría 15 minutos y 35 segundos.
 

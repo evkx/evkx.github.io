@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-2c5cba1f
+  translation: Tesla Model 3 Long Range RWD es un sedán totalmente eléctrico con un WLTP alcance de hasta 702 km (436 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-eaf82671
   translation: Lexus RZ 300e es un SUV totalmente eléctrico con una autonomía WLTP de hasta 480 km (298 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4305a898
   translation: GMC Hummer EV SUV 3x es un SUV totalmente eléctrico con una autonomía EPA de hasta 505 km (314 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-f349adfd
-  translation: Porsche Taycan Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 678 km (421 millas). EVKX.net tiene todos los detalles.
 

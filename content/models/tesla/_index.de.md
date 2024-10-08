@@ -41,7 +41,7 @@ Tesla Cybertruck ist ein Pickup-Truck, der in 2 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model 3 ist eine Limousine, die in 6 Varianten erhältlich ist.
+Tesla Model 3 ist eine Limousine, die in 7 Varianten erhältlich ist.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

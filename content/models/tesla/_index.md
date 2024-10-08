@@ -41,7 +41,7 @@ Tesla Cybertruck is a pickup truck available in 2 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model 3 is a sedan available in 6 variants.
+Tesla Model 3 is a sedan available in 7 variants.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

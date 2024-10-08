@@ -41,7 +41,7 @@ Tesla Cybertruck er en pick-up som er tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model 3 er en sedan tilgjengelig i 6 varianter.
+Tesla Model 3 er en sedan tilgjengelig i 7 varianter.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
