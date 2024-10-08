@@ -30,7 +30,7 @@ La Chevrolet Equinox EV AWD offre des performances solides avec une puissance ma
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 4,0 kWh (4,5%) pour la protection de la batterie. Avec une tension nominale de 330 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 4,0 kWh (4,5%) pour la protection de la batterie. Avec une tension nominale de 288 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 459 km avec un taux de consommation d'énergie de 18,5 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -45,6 +45,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge C
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+
+### Recharge bidirectionnelle
 
 {{<evkxdisplayaddarticle />}}
 
@@ -70,7 +72,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La Chevrolet Equinox EV AWD, avec des dimensions de 4867 mm de longueur, 1954 mm de largeur et 1646 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Chevrolet Equinox EV AWD est disponible en un total de 8 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
+La Chevrolet Equinox EV AWD, avec des dimensions de 4867 mm de longueur, 1954 mm de largeur et 1646 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Chevrolet Equinox EV AWD est disponible en un total de 15 couleurs de peinture, comprenant des options solides, métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Chevrolet Equinox EV AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -90,7 +92,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 ## Intérieur
 
-Le Chevrolet Equinox EV AWD dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de qualité moyenne utilisés partout. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée.
+Le Chevrolet Equinox EV AWD dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de qualité moyenne utilisés partout. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -107,13 +109,14 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
 
@@ -141,6 +144,7 @@ L'Chevrolet Equinox EV AWD comprend plusieurs fonctionnalités pour améliorer l
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,6 +199,17 @@ Vous pouvez choisir entre deux systèmes audio sur le Chevrolet Equinox EV AWD.
 
 Le modèle dispose de 5 connexions USB-C en standard.
 
+## Application mobile
+
+Le Chevrolet Equinox EV AWD est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+
 ## Lumières
 
 **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
@@ -218,6 +233,8 @@ Le Chevrolet Equinox EV AWD comprend plusieurs [systèmes avancés d'assistance 
 [**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Facultatif sur le Chevrolet Equinox EV AWD, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
 
 [**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Chevrolet Equinox EV AWD, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+
+[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Chevrolet Equinox EV AWD, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
 
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Chevrolet Equinox EV AWD, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 

@@ -30,7 +30,7 @@ Chevrolet Equinox EV AWD leverer solid ytelse med en maksimal effekt på 215 kW 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 89,0 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en buffer på 4,0 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 330 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 89,0 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en buffer på 4,0 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 288 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 459 km med en energiforbrukshastighet på 18,5 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -45,6 +45,8 @@ Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lad
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+
+### Toveis lading
 
 {{<evkxdisplayaddarticle />}}
 
@@ -70,7 +72,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Chevrolet Equinox EV AWD, med dimensjoner på 4867 mm i lengde, 1954 mm i bredde og 1646 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Chevrolet Equinox EV AWD er tilgjengelig i totalt 8 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
+Chevrolet Equinox EV AWD, med dimensjoner på 4867 mm i lengde, 1954 mm i bredde og 1646 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Chevrolet Equinox EV AWD er tilgjengelig i totalt 15 lakkfarger, inkludert solide, metalliske og perlemorsalternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Chevrolet Equinox EV AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -90,7 +92,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Chevrolet Equinox EV AWD har et førerfokusert interiør som forbedrer cockpitfølelsen med materialer av middels kvalitet brukt overalt. Et fremtredende trekk er den todelte midtkonsollen, som skiller fører og passasjer samtidig som den tilbyr praktisk oppbevaring og forbedret funksjonalitet.
+Chevrolet Equinox EV AWD har et førerfokusert interiør som forbedrer cockpitfølelsen med materialer av middels kvalitet brukt overalt. Et fremtredende trekk er den todelte midtkonsollen, som skiller fører og passasjer samtidig som den tilbyr praktisk oppbevaring og forbedret funksjonalitet. Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -107,13 +109,14 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som et alternativ)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
 
@@ -141,6 +144,7 @@ Chevrolet Equinox EV AWD inkluderer flere funksjoner for å forbedre komfort og 
 
 - **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,6 +199,17 @@ Du kan velge mellom to lydsystemer på Chevrolet Equinox EV AWD.
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 
+## Mobilapp
+
+Chevrolet Equinox EV AWD kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+
 ## Lys
 
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
@@ -218,6 +233,8 @@ Chevrolet Equinox EV AWD inkluderer flere [avanserte førerassistanse systemer](
 [**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Chevrolet Equinox EV AWD, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
 [**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Chevrolet Equinox EV AWD, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Chevrolet Equinox EV AWD, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Chevrolet Equinox EV AWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 

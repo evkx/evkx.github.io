@@ -30,7 +30,7 @@ The Chevrolet Equinox EV FWD offers modest performance with a maximum power of 1
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. With a nominal voltage of 288 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 319 miles (513 km) with an energy consumption rate of 3.8 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -45,6 +45,8 @@ The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC c
 ### Charge Port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
+### Bidirectional Charging
 
 {{<evkxdisplayaddarticle />}}
 
@@ -70,7 +72,7 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ## Exterior
 
-The Chevrolet Equinox EV FWD, with dimensions of 4867 mm in length, 1954 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV FWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
+The Chevrolet Equinox EV FWD, with dimensions of 4867 mm in length, 1954 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV FWD is available in a total of 15 paint colors, including solid, metallic, and pearlescent options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
 The Chevrolet Equinox EV FWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -90,7 +92,7 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-The Chevrolet Equinox EV FWD boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The Chevrolet Equinox EV FWD boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -107,13 +109,14 @@ The following functionalities are available on the **** seat:
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
 
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/frontseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="1999"  >}}
 
@@ -141,6 +144,7 @@ The Chevrolet Equinox EV FWD includes several features to enhance comfort and co
 
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,6 +199,17 @@ You can choose between two sound systems for the Chevrolet Equinox EV FWD:
 
 Additionally, the model includes 5 USB-C connections as standard.
 
+## Mobile App
+
+The Chevrolet Equinox EV FWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
@@ -218,6 +233,8 @@ The Chevrolet Equinox EV FWD features a range of standard and optional [advanced
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Chevrolet Equinox EV FWD, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Chevrolet Equinox EV FWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Chevrolet Equinox EV FWD, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Chevrolet Equinox EV FWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
