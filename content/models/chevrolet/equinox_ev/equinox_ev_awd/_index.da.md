@@ -62,6 +62,14 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Dynamisk styring er en standard-funktion på Chevrolet Equinox EV AWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
+### Køretilstande
+
+Chevrolet Equinox EV AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
+
+- Normal: Afbalanceret styring og effektiv speeder.
+- Sport: Afbalanceret styring og speeder.
+- My Mode: Brugerdefinerede indstillinger for styring og speeder.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 314mm.
@@ -85,6 +93,8 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+
+Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/exterior_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2099"  >}}
 
@@ -145,6 +155,7 @@ Chevrolet Equinox EV AWD inkluderer flere funktioner, der forbedrer komfort og b
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
+- **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +208,7 @@ Du kan vælge mellem to lydsystemer på Chevrolet Equinox EV AWD.
 - Med Lyric sound system får du syv højttalere med en maksimal systemeffekt på  watt.
 - Med Lyric sound system får du syv højttalere med en maksimal systemeffekt på  watt.
 
-Modellen har 5 USB-C-forbindelser som standard.
+Modellen har 4 USB-C-forbindelser som standard.
 
 ## Mobilapp
 
@@ -272,4 +283,19 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 08.09.2022, og leveringerne startede i April 2024. Denne model er kun tilgængelig i Nordamerika.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- $40 295,00 (USA)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Chevrolet Equinox EV AWD, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
+
+<a href="https://db.evkx.net/evcompare?evs=3ed2cf%2c98b6e9" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Equinox EV" f_url="rangeandconsumption/" f_title="Range" >}}

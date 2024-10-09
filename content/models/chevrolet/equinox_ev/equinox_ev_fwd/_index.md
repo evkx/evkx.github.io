@@ -62,6 +62,14 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 Dynamic steering is a standard on the Chevrolet Equinox EV FWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
+### Drive Modes
+
+The Chevrolet Equinox EV FWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Normal: Balanced steering and efficent throttle.
+- Sport: Balanced steering and throttle.
+- My Mode: User-defined settings for steering and throttle.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
@@ -85,6 +93,8 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
 
@@ -145,6 +155,7 @@ The Chevrolet Equinox EV FWD includes several features to enhance comfort and co
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +208,7 @@ You can choose between two sound systems for the Chevrolet Equinox EV FWD:
 - **Lyric sound system:** Features seven speakers and delivers a maximum output of  watts.
 - **Lyric sound system:** Features seven speakers and delivers a maximum output of  watts.
 
-Additionally, the model includes 5 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Mobile App
 

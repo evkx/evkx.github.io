@@ -62,6 +62,14 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 La direction dynamique est une fonctionnalité un standard sur le Chevrolet Equinox EV AWD. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
+### Modes de conduite
+
+Le Chevrolet Equinox EV AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
+
+- Normal: Direction équilibrée et accélérateur efficace.
+- Sport: Direction et accélérateur équilibrés.
+- My Mode : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 314 mm.
@@ -85,6 +93,8 @@ Des roues plus étroites amélioreront la consommation et donneront une plus gra
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Vous pouvez choisir une option pour que le hayon soit alimenté électriquement. Vous pouvez également avoir le hayon avec un capteur de coup de pied, permettant de l'ouvrir en donnant simplement un coup de pied sous le hayon.
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+
+Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/exterior_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2099"  >}}
 
@@ -145,6 +155,7 @@ L'Chevrolet Equinox EV AWD comprend plusieurs fonctionnalités pour améliorer l
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
+- **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +208,7 @@ Vous pouvez choisir entre deux systèmes audio sur le Chevrolet Equinox EV AWD.
 - Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 - Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 
-Le modèle dispose de 5 connexions USB-C en standard.
+Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Application mobile
 
@@ -272,4 +283,19 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 08.09.2022 et les livraisons ont commencé en April 2024. Ce modèle est uniquement disponible en Amérique du Nord.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- $40 295,00 (États-Unis)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Chevrolet Equinox EV AWD qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
+
+<a href="https://db.evkx.net/evcompare?evs=3ed2cf%2c98b6e9" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Equinox EV" f_url="rangeandconsumption/" f_title="Plage" >}}

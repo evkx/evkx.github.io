@@ -154,6 +154,28 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				70mph/112kmh parfait état
 			</td>
 			<td>
+				535 km / 332 mi
+			</td>
+			<td>
+				19 kWh/100km / 3,3 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh avec chauffage 2KW
+			</td>
+			<td>
+				489km / 304mi
+			</td>
+			<td>
+				20,8 kWh/100km / 3,0 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120kmh/75mph parfait état
+			</td>
+			<td>
 				462 km / 287 mi
 			</td>
 			<td>
@@ -162,35 +184,13 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 		</tr>
 		<tr>
 			<td>
-				70mph/112kmh avec chauffage 2KW
-			</td>
-			<td>
-				427km / 265mi
-			</td>
-			<td>
-				23,8 kWh/100km / 2,6 mi/kWh  
-			</td>
-		</tr>
-		<tr>
-			<td>
-				120kmh/75mph parfait état
-			</td>
-			<td>
-				407 km / 253 mi
-			</td>
-			<td>
-				25 kWh/100km / 2,5 mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
 				120kmh/75mph avec chauffage 2KW
 			</td>
 			<td>
-				382 km /237mi
+				429 km /267mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				23,7 kWh/100km /2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>

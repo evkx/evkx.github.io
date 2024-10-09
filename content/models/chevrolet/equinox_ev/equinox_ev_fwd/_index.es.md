@@ -62,6 +62,14 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 La dirección dinámica es una característica un estándar en el Chevrolet Equinox EV FWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
+### Modos de conducción
+
+El Chevrolet Equinox EV FWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
+
+- Normal: Dirección equilibrada y acelerador eficiente.
+- Sport: Dirección y acelerador equilibrados.
+- My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 321 mm y los discos traseros de 314 mm.
@@ -85,6 +93,8 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Puedes elegir una opción para que la puerta levadiza funcione eléctricamente. También puedes tener la puerta levadiza con un sensor de patada, lo que permite abrirla con solo patear el pie debajo de la puerta trasera.
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+
+Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
 
@@ -145,6 +155,7 @@ El Chevrolet Equinox EV FWD incluye varias características para mejorar la como
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
+- **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +208,7 @@ Puedes elegir entre dos sistemas de sonido en el Chevrolet Equinox EV FWD.
 - Con el Lyric sound system, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 - Con el Lyric sound system, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 
-El modelo tiene 5 conexiones USB-C de serie.
+El modelo tiene 4 conexiones USB-C de serie.
 
 ## Aplicación móvil
 

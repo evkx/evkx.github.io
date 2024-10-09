@@ -36,7 +36,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 195 kW. Charging from 0% to 100% takes approximately 57 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 138 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 53%. This results in an effective charging speed, including time lost, of 133 kW, with each charging session taking about 23 minutes and 28 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 27 minutes. This journey would require three charging stops from 3% to 52%, with a total charging time of 68 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 14 minutes. This journey would require two charging stops from 2% to 61%, with a total charging time of 55 minutes.
 
 ### Onboard Charger
 

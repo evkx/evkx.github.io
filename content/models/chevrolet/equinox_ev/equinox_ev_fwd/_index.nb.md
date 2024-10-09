@@ -62,6 +62,14 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 Dynamisk styring er en standard-funksjonen på Chevrolet Equinox EV FWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Chevrolet Equinox EV FWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
+
+- Normal: Balansert styring og effektiv gasspedal.
+- Sport: Balansert styring og gasspedal.
+- My Mode: Brukerdefinerte innstillinger for styring og gasspådrag.
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 314mm.
@@ -85,6 +93,8 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan velge et alternativ for å ha bakluken elektrisk drevet. Du kan også ha bakluken med sparkesensor, som gjør det mulig å åpne den ved å bare sparke foten under bakluken.
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+
+Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
 
@@ -145,6 +155,7 @@ Chevrolet Equinox EV FWD inkluderer flere funksjoner for å forbedre komfort og 
 - **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
+- **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +208,7 @@ Du kan velge mellom to lydsystemer på Chevrolet Equinox EV FWD.
 - Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
 - Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
 
-Modellen har 5 USB-C-tilkoblinger som standard.
+Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Mobilapp
 

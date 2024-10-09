@@ -62,6 +62,14 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 Die dynamische Lenkung ist eine standard im Chevrolet Equinox EV AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
+### Fahrmodi
+
+Der Chevrolet Equinox EV AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
+
+- Normal: Ausgewogene Lenkung und effizientes Gas.
+- Sport: Ausgewogene Lenkung und Gas.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 314 mm groß sind.
@@ -85,6 +93,8 @@ Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, w
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Sie können eine Option wählen, um die Heckklappe elektrisch zu betreiben. Sie können die Heckklappe auch mit einem Tritt-Sensor ausstatten, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas erstreckt sich über den größten Teil des Dachs und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/exterior_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2099"  >}}
 
@@ -145,6 +155,7 @@ Der Chevrolet Equinox EV AWD umfasst mehrere Funktionen, um Komfort und Bequemli
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
+- **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +208,7 @@ Sie können zwischen zwei Soundsystemen für den Chevrolet Equinox EV AWD wähle
 - **Lyric sound system:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
 - **Lyric sound system:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
 
-Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
+Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 
 ## Mobile App
 
@@ -272,4 +283,19 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 ## Verfügbarkeit & Preise
 
 Der Chevrolet Equinox EV AWD feierte seine Weltpremiere am 08.09.2022, mit Lieferungen ab April 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- $40 295,00 (USA)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Chevrolet Equinox EV AWD identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
+
+<a href="https://db.evkx.net/evcompare?evs=3ed2cf%2c98b6e9" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Equinox EV" f_url="rangeandconsumption/" f_title="Reichweite" >}}
