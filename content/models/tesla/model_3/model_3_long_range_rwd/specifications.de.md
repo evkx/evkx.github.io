@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Tesla Model 3 Long
 				Spitzenleistung
 			</td>
 			<td>
-				220 KW (299 PS /295 bhp)
+				208 KW (283 PS /279 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Tesla Model 3 Long
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				493 nm (364 lb-ft)
+				450 nm (332 lb-ft)
 			</td>
 		</tr>
 		<tr>

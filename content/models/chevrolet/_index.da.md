@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Blazer EV er en SUV tilgængelig i 2 varianter.
+Chevrolet Blazer EV er en SUV tilgængelig i 3 varianter.
 </p>
 	<a href="blazer_ev/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

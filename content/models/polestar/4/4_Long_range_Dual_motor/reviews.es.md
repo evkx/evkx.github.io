@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 LR DM range test part 2</h3>
+<p>Bjørn Nyland: 10.10.2024</p>
+
+{{< youtube Wf2RlfMDWVE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 LR DM banana box test</h3>
+<p>Bjørn Nyland: 10.10.2024</p>
+
+{{< youtube SzRVBZmtPeQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 LR DM range test part 1</h3>
+<p>Bjørn Nyland: 09.10.2024</p>
+
+{{< youtube HsouZvStbOY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 LED matrix headlights test</h3>
 <p>Bjørn Nyland: 08.10.2024</p>
 

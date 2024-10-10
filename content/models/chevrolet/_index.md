@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Blazer EV is a SUV available in 2 variants.
+Chevrolet Blazer EV is a SUV available in 3 variants.
 </p>
 	<a href="blazer_ev/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

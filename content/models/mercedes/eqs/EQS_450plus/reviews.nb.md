@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i7 vs Mercedes EQS 70-MPH Highway Range Test! We Ran Them Until They Died</h3>
+<p>Out of Spec Reviews: 09.10.2024</p>
+
+{{< youtube Og-EQ7z7dnI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mercedes EQS 450+ 1000 km challenge</h3>
 <p>Bjørn Nyland: 02.09.2022</p>
 

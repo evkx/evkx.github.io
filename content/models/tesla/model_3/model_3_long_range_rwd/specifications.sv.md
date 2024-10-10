@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model 3 Long Ran
 				Max effekt
 			</td>
 			<td>
-				220 KW (299 hk)
+				208 KW (283 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model 3 Long Ran
 				Vridmoment
 			</td>
 			<td>
-				493 nm
+				450 nm
 			</td>
 		</tr>
 		<tr>

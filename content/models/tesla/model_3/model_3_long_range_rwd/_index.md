@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Tesla Model 3 Long Range RWD delivers a solid performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 493 Nm (364 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.2 seconds and reaches a top speed of 201 km/h (125 mph), making it competitive within its class.
+The Tesla Model 3 Long Range RWD offers modest performance with a maximum power of 208 kW (283 hp / 279 bhp) and a total torque of 450 Nm (332 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.2 seconds and has a top speed of 201 km/h (125 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, Range, and Charging
 

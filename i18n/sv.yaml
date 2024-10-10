@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-59a38dcc
+  translation: Chevrolet Blazer EV RS RWD är en helelektrisk SUV med en EPA räckvidd på upp till 449 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-2c5cba1f
   translation: Tesla Model 3 Long Range RWD är en helelektrisk sedan med en WLTP räckvidd på upp till 702 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a859ed65
   translation: GMC Hummer EV SUV 2x är en helelektrisk SUV med en EPA räckvidd på upp till 48 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-4305a898
-  translation: GMC Hummer EV SUV 3x är en helelektrisk SUV med en EPA räckvidd på upp till 505 km. EVKX.net har alla detaljer.
 

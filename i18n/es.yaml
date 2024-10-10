@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-59a38dcc
+  translation: Chevrolet Blazer EV RS RWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 449 km (279 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-2c5cba1f
   translation: Tesla Model 3 Long Range RWD es un sedán totalmente eléctrico con un WLTP alcance de hasta 702 km (436 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a859ed65
   translation: GMC Hummer EV SUV 2x es un SUV totalmente eléctrico con una autonomía EPA de hasta 48 km (30 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-4305a898
-  translation: GMC Hummer EV SUV 3x es un SUV totalmente eléctrico con una autonomía EPA de hasta 505 km (314 millas). EVKX.net tiene todos los detalles.
 
