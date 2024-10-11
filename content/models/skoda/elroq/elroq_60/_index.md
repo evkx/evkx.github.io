@@ -56,7 +56,7 @@ The SKODA Elroq 60 has a rear-wheel drive system supported by one motor on the r
 
 ### Suspension
 
-The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm.
+The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 186 mm.
 
 ### Steering
 

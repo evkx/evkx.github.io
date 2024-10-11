@@ -56,7 +56,7 @@ SKODA Elroq 50 har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen Sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 173 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen Sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 186 mm.
 
 ### Styrning
 

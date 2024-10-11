@@ -56,7 +56,7 @@ SKODA Elroq 85x tiene un sistema de tracción total sostenido por dos motores, u
 
 ### Suspensión
 
-La suspensión Sport tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 173 mm.
+La suspensión Sport tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 186 mm.
 
 ### Dirección
 

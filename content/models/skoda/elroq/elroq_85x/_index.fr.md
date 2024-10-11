@@ -56,7 +56,7 @@ SKODA Elroq 85x dispose d'un système de transmission intégrale pris en charge 
 
 ### Suspension
 
-La suspension Sport a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 173 mm.
+La suspension Sport a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 186 mm.
 
 ### Pilotage
 

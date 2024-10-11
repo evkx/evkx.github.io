@@ -56,7 +56,7 @@ Der SKODA Elroq 60 hat ein Heckantriebssystem, das von einem Motor an der Hinter
 
 ### Federung
 
-Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
+Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 186 mm.
 
 ### Lenkung
 

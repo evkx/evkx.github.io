@@ -56,7 +56,7 @@ The SKODA Elroq 50 has a rear-wheel drive system supported by one motor on the r
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The Sport suspension has a fixed height and damping. The ground clearance with this suspension is 173 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The Sport suspension has a fixed height and damping. The ground clearance with this suspension is 186 mm.
 
 ### Steering
 

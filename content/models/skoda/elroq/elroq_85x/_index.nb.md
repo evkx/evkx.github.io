@@ -56,7 +56,7 @@ SKODA Elroq 85x har et firehjulsdriftssystem som støttes av to motorer, en på 
 
 ### Hjuloppheng
 
-Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 173 mm.
+Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 186 mm.
 
 ### Styring
 

@@ -56,7 +56,7 @@ The SKODA Elroq 85x features an all-wheel drive system powered by two motors, on
 
 ### Suspension
 
-The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm.
+The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 186 mm.
 
 ### Steering
 

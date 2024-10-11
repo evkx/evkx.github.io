@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				149,1kW
+				150,4kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				22m20s
+				23m3s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				 38 m 42 s
+				 40 m 17 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 36 m 21 s
+				 37 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 16 m 34 s
+				 17 m 14 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,10 +172,10 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				15,9 km (9,9 mi)
+				15,2 km (9,4 mi)
 			</td>
 			<td>
-				11,2 km (7,0 mi)
+				13,5 km (8,4 mi)
 			</td>
 			<td>
 				10,1 km (6,3 mi)
@@ -189,10 +189,10 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				15,2 km (9,4 mi)
+				14,6 km (9,1 mi)
 			</td>
 			<td>
-				10,8 km (6,7 mi)
+				12,9 km (8,0 mi)
 			</td>
 			<td>
 				9,6 km (6,0 mi)
@@ -206,10 +206,10 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				25,9 km (16,1 mi)
+				24,9 km (15,5 mi)
 			</td>
 			<td>
-				18,4 km (11,4 mi)
+				22,0 km (13,7 mi)
 			</td>
 			<td>
 				16,5 km (10,3 mi)
@@ -268,10 +268,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				205 kW
 			</td>
 			<td>
-				 0 m 22 s
+				 0 m 23 s
 			</td>
 			<td>
-				0,7 kWh
+				0,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				213 kW
 			</td>
 			<td>
-				 0 m 36 s
+				 0 m 37 s
 			</td>
 			<td>
 				1,5 kWh
@@ -296,10 +296,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				215 kW
 			</td>
 			<td>
-				 0 m 49 s
+				 0 m 51 s
 			</td>
 			<td>
-				2,2 kWh
+				2,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				215 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 5 s
 			</td>
 			<td>
-				3,0 kWh
+				3,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				217 kW
 			</td>
 			<td>
-				 1 m 16 s
+				 1 m 19 s
 			</td>
 			<td>
-				3,7 kWh
+				3,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				218 kW
 			</td>
 			<td>
-				 1 m 29 s
+				 1 m 32 s
 			</td>
 			<td>
-				4,4 kWh
+				4,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				219 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 1 m 46 s
 			</td>
 			<td>
-				5,2 kWh
+				5,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				219 kW
 			</td>
 			<td>
-				 1 m 55 s
+				 2 m 0 s
 			</td>
 			<td>
-				5,9 kWh
+				6,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				220 kW
 			</td>
 			<td>
-				 2 m 8 s
+				 2 m 13 s
 			</td>
 			<td>
-				6,7 kWh
+				6,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				221 kW
 			</td>
 			<td>
-				 2 m 21 s
+				 2 m 27 s
 			</td>
 			<td>
-				7,4 kWh
+				7,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				221 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 2 m 40 s
 			</td>
 			<td>
-				8,1 kWh
+				8,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				222 kW
 			</td>
 			<td>
-				 2 m 47 s
+				 2 m 54 s
 			</td>
 			<td>
-				8,9 kWh
+				9,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				222 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 7 s
 			</td>
 			<td>
-				9,6 kWh
+				10,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				223 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 21 s
 			</td>
 			<td>
-				10,4 kWh
+				10,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				223 kW
 			</td>
 			<td>
-				 3 m 26 s
+				 3 m 34 s
 			</td>
 			<td>
-				11,1 kWh
+				11,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				222 kW
 			</td>
 			<td>
-				 3 m 38 s
+				 3 m 47 s
 			</td>
 			<td>
-				11,8 kWh
+				12,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				223 kW
 			</td>
 			<td>
-				 3 m 51 s
+				 4 m 1 s
 			</td>
 			<td>
-				12,6 kWh
+				13,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				224 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 14 s
 			</td>
 			<td>
-				13,3 kWh
+				13,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				224 kW
 			</td>
 			<td>
-				 4 m 17 s
+				 4 m 27 s
 			</td>
 			<td>
-				14,1 kWh
+				14,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				224 kW
 			</td>
 			<td>
-				 4 m 30 s
+				 4 m 41 s
 			</td>
 			<td>
-				14,8 kWh
+				15,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				224 kW
 			</td>
 			<td>
-				 4 m 42 s
+				 4 m 54 s
 			</td>
 			<td>
-				15,5 kWh
+				16,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				224 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 7 s
 			</td>
 			<td>
-				16,3 kWh
+				16,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,29 +576,15 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				225 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 21 s
 			</td>
 			<td>
-				17,0 kWh
+				17,7 kWh
 			</td>
 		</tr>
 		<tr>
 			<td>
 				24%
-			</td>
-			<td>
-				225 kW
-			</td>
-			<td>
-				 5 m 21 s
-			</td>
-			<td>
-				17,8 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				25%
 			</td>
 			<td>
 				225 kW
@@ -612,16 +598,30 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 		</tr>
 		<tr>
 			<td>
+				25%
+			</td>
+			<td>
+				225 kW
+			</td>
+			<td>
+				 5 m 47 s
+			</td>
+			<td>
+				19,2 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				26%
 			</td>
 			<td>
 				225 kW
 			</td>
 			<td>
-				 5 m 46 s
+				 6 m 0 s
 			</td>
 			<td>
-				19,2 kWh
+				20,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				226 kW
 			</td>
 			<td>
-				 5 m 59 s
+				 6 m 14 s
 			</td>
 			<td>
-				20,0 kWh
+				20,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				225 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 27 s
 			</td>
 			<td>
-				20,7 kWh
+				21,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				226 kW
 			</td>
 			<td>
-				 6 m 24 s
+				 6 m 40 s
 			</td>
 			<td>
-				21,5 kWh
+				22,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				226 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 6 m 53 s
 			</td>
 			<td>
-				22,2 kWh
+				23,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				226 kW
 			</td>
 			<td>
-				 6 m 50 s
+				 7 m 6 s
 			</td>
 			<td>
-				22,9 kWh
+				23,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				227 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 19 s
 			</td>
 			<td>
-				23,7 kWh
+				24,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				227 kW
 			</td>
 			<td>
-				 7 m 15 s
+				 7 m 33 s
 			</td>
 			<td>
-				24,4 kWh
+				25,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				227 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 7 m 46 s
 			</td>
 			<td>
-				25,2 kWh
+				26,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				227 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 7 m 59 s
 			</td>
 			<td>
-				25,9 kWh
+				27,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				230 kW
 			</td>
 			<td>
-				 7 m 53 s
+				 8 m 12 s
 			</td>
 			<td>
-				26,6 kWh
+				27,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				230 kW
 			</td>
 			<td>
-				 8 m 5 s
+				 8 m 25 s
 			</td>
 			<td>
-				27,4 kWh
+				28,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				230 kW
 			</td>
 			<td>
-				 8 m 18 s
+				 8 m 38 s
 			</td>
 			<td>
-				28,1 kWh
+				29,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				230 kW
 			</td>
 			<td>
-				 8 m 30 s
+				 8 m 51 s
 			</td>
 			<td>
-				28,9 kWh
+				30,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				232 kW
 			</td>
 			<td>
-				 8 m 42 s
+				 9 m 4 s
 			</td>
 			<td>
-				29,6 kWh
+				30,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				231 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 17 s
 			</td>
 			<td>
-				30,3 kWh
+				31,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				232 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 29 s
 			</td>
 			<td>
-				31,1 kWh
+				32,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				233 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 9 m 42 s
 			</td>
 			<td>
-				31,8 kWh
+				33,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				233 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 9 m 55 s
 			</td>
 			<td>
-				32,6 kWh
+				33,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				233 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 10 m 8 s
 			</td>
 			<td>
-				33,3 kWh
+				34,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				234 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 21 s
 			</td>
 			<td>
-				34,0 kWh
+				35,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				210 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 34 s
 			</td>
 			<td>
-				34,8 kWh
+				36,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				186 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 10 m 49 s
 			</td>
 			<td>
-				35,5 kWh
+				37,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				186 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 11 m 5 s
 			</td>
 			<td>
-				36,3 kWh
+				37,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				186 kW
 			</td>
 			<td>
-				 10 m 55 s
+				 11 m 21 s
 			</td>
 			<td>
-				37,0 kWh
+				38,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				186 kW
 			</td>
 			<td>
-				 11 m 10 s
+				 11 m 37 s
 			</td>
 			<td>
-				37,7 kWh
+				39,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				187 kW
 			</td>
 			<td>
-				 11 m 25 s
+				 11 m 53 s
 			</td>
 			<td>
-				38,5 kWh
+				40,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				187 kW
 			</td>
 			<td>
-				 11 m 41 s
+				 12 m 9 s
 			</td>
 			<td>
-				39,2 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				188 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 12 m 25 s
 			</td>
 			<td>
-				40,0 kWh
+				41,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				188 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 41 s
 			</td>
 			<td>
-				40,7 kWh
+				42,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				189 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 12 m 57 s
 			</td>
 			<td>
-				41,4 kWh
+				43,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				180 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 13 m 13 s
 			</td>
 			<td>
-				42,2 kWh
+				43,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				182 kW
 			</td>
 			<td>
-				 12 m 58 s
+				 13 m 29 s
 			</td>
 			<td>
-				42,9 kWh
+				44,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				184 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 46 s
 			</td>
 			<td>
-				43,7 kWh
+				45,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				185 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 14 m 2 s
 			</td>
 			<td>
-				44,4 kWh
+				46,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				187 kW
 			</td>
 			<td>
-				 13 m 44 s
+				 14 m 18 s
 			</td>
 			<td>
-				45,1 kWh
+				47,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				189 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 14 m 34 s
 			</td>
 			<td>
-				45,9 kWh
+				47,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				189 kW
 			</td>
 			<td>
-				 14 m 15 s
+				 14 m 49 s
 			</td>
 			<td>
-				46,6 kWh
+				48,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				190 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 15 m 5 s
 			</td>
 			<td>
-				47,4 kWh
+				49,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				190 kW
 			</td>
 			<td>
-				 14 m 45 s
+				 15 m 21 s
 			</td>
 			<td>
-				48,1 kWh
+				50,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				191 kW
 			</td>
 			<td>
-				 15 m 0 s
+				 15 m 36 s
 			</td>
 			<td>
-				48,8 kWh
+				50,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				192 kW
 			</td>
 			<td>
-				 15 m 15 s
+				 15 m 52 s
 			</td>
 			<td>
-				49,6 kWh
+				51,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				193 kW
 			</td>
 			<td>
-				 15 m 30 s
+				 16 m 7 s
 			</td>
 			<td>
-				50,3 kWh
+				52,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				184 kW
 			</td>
 			<td>
-				 15 m 45 s
+				 16 m 23 s
 			</td>
 			<td>
-				51,1 kWh
+				53,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				184 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 16 m 39 s
 			</td>
 			<td>
-				51,8 kWh
+				53,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				168 kW
 			</td>
 			<td>
-				 16 m 17 s
+				 16 m 56 s
 			</td>
 			<td>
-				52,5 kWh
+				54,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				168 kW
 			</td>
 			<td>
-				 16 m 34 s
+				 17 m 14 s
 			</td>
 			<td>
-				53,3 kWh
+				55,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				168 kW
 			</td>
 			<td>
-				 16 m 51 s
+				 17 m 32 s
 			</td>
 			<td>
-				54,0 kWh
+				56,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				169 kW
 			</td>
 			<td>
-				 17 m 8 s
+				 17 m 50 s
 			</td>
 			<td>
-				54,8 kWh
+				57,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				169 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 18 m 7 s
 			</td>
 			<td>
-				55,5 kWh
+				57,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				157 kW
 			</td>
 			<td>
-				 17 m 42 s
+				 18 m 26 s
 			</td>
 			<td>
-				56,2 kWh
+				58,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				158 kW
 			</td>
 			<td>
-				 18 m 1 s
+				 18 m 44 s
 			</td>
 			<td>
-				57,0 kWh
+				59,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				158 kW
 			</td>
 			<td>
-				 18 m 19 s
+				 19 m 3 s
 			</td>
 			<td>
-				57,7 kWh
+				60,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				157 kW
 			</td>
 			<td>
-				 18 m 37 s
+				 19 m 22 s
 			</td>
 			<td>
-				58,5 kWh
+				60,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				158 kW
 			</td>
 			<td>
-				 18 m 55 s
+				 19 m 41 s
 			</td>
 			<td>
-				59,2 kWh
+				61,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				157 kW
 			</td>
 			<td>
-				 19 m 13 s
+				 20 m 0 s
 			</td>
 			<td>
-				59,9 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				140 kW
 			</td>
 			<td>
-				 19 m 33 s
+				 20 m 20 s
 			</td>
 			<td>
-				60,7 kWh
+				63,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				122 kW
 			</td>
 			<td>
-				 19 m 55 s
+				 20 m 43 s
 			</td>
 			<td>
-				61,4 kWh
+				63,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				122 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 21 m 7 s
 			</td>
 			<td>
-				62,2 kWh
+				64,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				122 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 21 m 32 s
 			</td>
 			<td>
-				62,9 kWh
+				65,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				97 kW
 			</td>
 			<td>
-				 21 m 8 s
+				 21 m 59 s
 			</td>
 			<td>
-				63,6 kWh
+				66,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				82 kW
 			</td>
 			<td>
-				 21 m 40 s
+				 22 m 32 s
 			</td>
 			<td>
-				64,4 kWh
+				67,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				73 kW
 			</td>
 			<td>
-				 22 m 17 s
+				 23 m 11 s
 			</td>
 			<td>
-				65,1 kWh
+				67,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				68 kW
 			</td>
 			<td>
-				 22 m 57 s
+				 23 m 53 s
 			</td>
 			<td>
-				65,9 kWh
+				68,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				63 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 24 m 39 s
 			</td>
 			<td>
-				66,6 kWh
+				69,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				59 kW
 			</td>
 			<td>
-				 24 m 28 s
+				 25 m 28 s
 			</td>
 			<td>
-				67,3 kWh
+				70,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				53 kW
 			</td>
 			<td>
-				 25 m 19 s
+				 26 m 21 s
 			</td>
 			<td>
-				68,1 kWh
+				70,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				50 kW
 			</td>
 			<td>
-				 26 m 15 s
+				 27 m 19 s
 			</td>
 			<td>
-				68,8 kWh
+				71,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				44 kW
 			</td>
 			<td>
-				 27 m 16 s
+				 28 m 22 s
 			</td>
 			<td>
-				69,6 kWh
+				72,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				40 kW
 			</td>
 			<td>
-				 28 m 24 s
+				 29 m 33 s
 			</td>
 			<td>
-				70,3 kWh
+				73,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				36 kW
 			</td>
 			<td>
-				 29 m 39 s
+				 30 m 51 s
 			</td>
 			<td>
-				71,0 kWh
+				73,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				31 kW
 			</td>
 			<td>
-				 31 m 5 s
+				 32 m 20 s
 			</td>
 			<td>
-				71,8 kWh
+				74,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				23 kW
 			</td>
 			<td>
-				 32 m 51 s
+				 34 m 11 s
 			</td>
 			<td>
-				72,5 kWh
+				75,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				16 kW
 			</td>
 			<td>
-				 35 m 18 s
+				 36 m 44 s
 			</td>
 			<td>
-				73,3 kWh
+				76,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Hyundai Ioniq 6 Long Range RWD har batterivärme, vilket gör det lättare att l
 				12 kW
 			</td>
 			<td>
-				 38 m 42 s
+				 40 m 17 s
 			</td>
 			<td>
-				74,0 kWh
+				77,0 kWh
 			</td>
 		</tr>
 	</tbody>

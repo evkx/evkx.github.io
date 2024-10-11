@@ -56,7 +56,7 @@ Der SKODA Elroq 85x verfügt über ein Allradantriebssystem, das von zwei Motore
 
 ### Federung
 
-Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 173 mm.
+Die Sport Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 186 mm.
 
 ### Lenkung
 

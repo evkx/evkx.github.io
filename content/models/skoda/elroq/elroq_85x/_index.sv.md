@@ -56,7 +56,7 @@ SKODA Elroq 85x har ett fyrhjulsdriftsystem som stöds av två motorer, en på v
 
 ### Hjulupphängning
 
-Sport-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 173 mm.
+Sport-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 186 mm.
 
 ### Styrning
 

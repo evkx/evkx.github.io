@@ -56,7 +56,7 @@ SKODA Elroq 85x har et firehjulstræk, der understøttes af to motorer, en på h
 
 ### Hjulophæng
 
-Sport-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 173 mm.
+Sport-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 186 mm.
 
 ### Styring
 

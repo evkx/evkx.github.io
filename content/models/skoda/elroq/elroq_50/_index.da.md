@@ -56,7 +56,7 @@ SKODA Elroq 50 har et baghjulstræksystem, der understøttes af en motor på bag
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 173 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 186 mm.
 
 ### Styring
 

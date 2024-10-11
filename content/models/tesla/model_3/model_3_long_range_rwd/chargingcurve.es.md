@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				5% - 43%
+				5% - 42%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				117,3kW
+				119,9kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				15m35s
+				15m49s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				1 h 9 m 33 s
+				1 h 14 m 11 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				1 h 6 m 10 s
+				1 h 10 m 35 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 33 m 10 s
+				 35 m 23 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Rango por minuto 0-100%
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				7,9 km (4,9 mi)
 			</td>
 			<td>
-				10,1 km (6,3 mi)
+				9,5 km (5,9 mi)
 			</td>
 			<td>
-				?
+				8,3 km (5,2 mi)
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				7,4 km (4,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,16 +186,16 @@ navicon: bi-battery-charging
 				Rango por minuto 10-100%
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,4 km (4,6 mi)
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				8,9 km (5,5 mi)
 			</td>
 			<td>
-				?
+				7,9 km (4,9 mi)
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				7,0 km (4,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -203,16 +203,16 @@ navicon: bi-battery-charging
 				Rango por minuto 10-80%
 			</td>
 			<td>
-				12,4 km (7,7 mi)
+				11,6 km (7,2 mi)
 			</td>
 			<td>
-				14,8 km (9,2 mi)
+				13,9 km (8,6 mi)
 			</td>
 			<td>
-				?
+				12,2 km (7,6 mi)
 			</td>
 			<td>
-				9,1 km (5,7 mi)
+				10,9 km (6,8 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,7 +268,7 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				103 kW
 			</td>
 			<td>
-				 0 m 28 s
+				 0 m 30 s
 			</td>
 			<td>
 				0,8 kWh
@@ -282,10 +282,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				108 kW
 			</td>
 			<td>
-				 0 m 56 s
+				 0 m 59 s
 			</td>
 			<td>
-				1,5 kWh
+				1,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				108 kW
 			</td>
 			<td>
-				 1 m 23 s
+				 1 m 28 s
 			</td>
 			<td>
-				2,2 kWh
+				2,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				108 kW
 			</td>
 			<td>
-				 1 m 49 s
+				 1 m 57 s
 			</td>
 			<td>
-				3,0 kWh
+				3,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				108 kW
 			</td>
 			<td>
-				 2 m 16 s
+				 2 m 25 s
 			</td>
 			<td>
-				3,8 kWh
+				4,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				230 kW
 			</td>
 			<td>
-				 2 m 33 s
+				 2 m 44 s
 			</td>
 			<td>
-				4,5 kWh
+				4,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				235 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 57 s
 			</td>
 			<td>
-				5,2 kWh
+				5,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				240 kW
 			</td>
 			<td>
-				 2 m 58 s
+				 3 m 10 s
 			</td>
 			<td>
-				6,0 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				245 kW
 			</td>
 			<td>
-				 3 m 10 s
+				 3 m 23 s
 			</td>
 			<td>
-				6,8 kWh
+				7,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				249 kW
 			</td>
 			<td>
-				 3 m 22 s
+				 3 m 35 s
 			</td>
 			<td>
-				7,5 kWh
+				8,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				249 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 48 s
 			</td>
 			<td>
-				8,2 kWh
+				8,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				249 kW
 			</td>
 			<td>
-				 3 m 45 s
+				 4 m 0 s
 			</td>
 			<td>
-				9,0 kWh
+				9,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				249 kW
 			</td>
 			<td>
-				 3 m 57 s
+				 4 m 13 s
 			</td>
 			<td>
-				9,8 kWh
+				10,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				249 kW
 			</td>
 			<td>
-				 4 m 9 s
+				 4 m 25 s
 			</td>
 			<td>
-				10,5 kWh
+				11,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				249 kW
 			</td>
 			<td>
-				 4 m 20 s
+				 4 m 38 s
 			</td>
 			<td>
-				11,2 kWh
+				12,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				241 kW
 			</td>
 			<td>
-				 4 m 32 s
+				 4 m 50 s
 			</td>
 			<td>
-				12,0 kWh
+				12,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				238 kW
 			</td>
 			<td>
-				 4 m 44 s
+				 5 m 3 s
 			</td>
 			<td>
-				12,8 kWh
+				13,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				234 kW
 			</td>
 			<td>
-				 4 m 56 s
+				 5 m 16 s
 			</td>
 			<td>
-				13,5 kWh
+				14,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				231 kW
 			</td>
 			<td>
-				 5 m 9 s
+				 5 m 30 s
 			</td>
 			<td>
-				14,2 kWh
+				15,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				228 kW
 			</td>
 			<td>
-				 5 m 22 s
+				 5 m 43 s
 			</td>
 			<td>
-				15,0 kWh
+				16,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				224 kW
 			</td>
 			<td>
-				 5 m 34 s
+				 5 m 57 s
 			</td>
 			<td>
-				15,8 kWh
+				16,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				219 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 6 m 11 s
 			</td>
 			<td>
-				16,5 kWh
+				17,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				215 kW
 			</td>
 			<td>
-				 6 m 1 s
+				 6 m 25 s
 			</td>
 			<td>
-				17,2 kWh
+				18,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				208 kW
 			</td>
 			<td>
-				 6 m 15 s
+				 6 m 40 s
 			</td>
 			<td>
-				18,0 kWh
+				19,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				207 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 6 m 55 s
 			</td>
 			<td>
-				18,8 kWh
+				20,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				202 kW
 			</td>
 			<td>
-				 6 m 43 s
+				 7 m 10 s
 			</td>
 			<td>
-				19,5 kWh
+				20,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				196 kW
 			</td>
 			<td>
-				 6 m 57 s
+				 7 m 25 s
 			</td>
 			<td>
-				20,2 kWh
+				21,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				191 kW
 			</td>
 			<td>
-				 7 m 12 s
+				 7 m 41 s
 			</td>
 			<td>
-				21,0 kWh
+				22,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				186 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 7 m 58 s
 			</td>
 			<td>
-				21,8 kWh
+				23,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				184 kW
 			</td>
 			<td>
-				 7 m 44 s
+				 8 m 14 s
 			</td>
 			<td>
-				22,5 kWh
+				24,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				179 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 8 m 32 s
 			</td>
 			<td>
-				23,2 kWh
+				24,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				175 kW
 			</td>
 			<td>
-				 8 m 16 s
+				 8 m 49 s
 			</td>
 			<td>
-				24,0 kWh
+				25,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				169 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 9 m 7 s
 			</td>
 			<td>
-				24,8 kWh
+				26,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				165 kW
 			</td>
 			<td>
-				 8 m 50 s
+				 9 m 26 s
 			</td>
 			<td>
-				25,5 kWh
+				27,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				159 kW
 			</td>
 			<td>
-				 9 m 8 s
+				 9 m 45 s
 			</td>
 			<td>
-				26,2 kWh
+				28,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				156 kW
 			</td>
 			<td>
-				 9 m 27 s
+				 10 m 4 s
 			</td>
 			<td>
-				27,0 kWh
+				28,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				152 kW
 			</td>
 			<td>
-				 9 m 45 s
+				 10 m 24 s
 			</td>
 			<td>
-				27,8 kWh
+				29,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				147 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 45 s
 			</td>
 			<td>
-				28,5 kWh
+				30,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				143 kW
 			</td>
 			<td>
-				 10 m 25 s
+				 11 m 7 s
 			</td>
 			<td>
-				29,2 kWh
+				31,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				140 kW
 			</td>
 			<td>
-				 10 m 45 s
+				 11 m 28 s
 			</td>
 			<td>
-				30,0 kWh
+				32,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				135 kW
 			</td>
 			<td>
-				 11 m 6 s
+				 11 m 51 s
 			</td>
 			<td>
-				30,8 kWh
+				32,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				130 kW
 			</td>
 			<td>
-				 11 m 28 s
+				 12 m 14 s
 			</td>
 			<td>
-				31,5 kWh
+				33,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				125 kW
 			</td>
 			<td>
-				 11 m 51 s
+				 12 m 39 s
 			</td>
 			<td>
-				32,2 kWh
+				34,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				121 kW
 			</td>
 			<td>
-				 12 m 15 s
+				 13 m 4 s
 			</td>
 			<td>
-				33,0 kWh
+				35,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				116 kW
 			</td>
 			<td>
-				 12 m 39 s
+				 13 m 30 s
 			</td>
 			<td>
-				33,8 kWh
+				36,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				112 kW
 			</td>
 			<td>
-				 13 m 5 s
+				 13 m 57 s
 			</td>
 			<td>
-				34,5 kWh
+				36,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				108 kW
 			</td>
 			<td>
-				 13 m 31 s
+				 14 m 25 s
 			</td>
 			<td>
-				35,2 kWh
+				37,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				104 kW
 			</td>
 			<td>
-				 13 m 59 s
+				 14 m 54 s
 			</td>
 			<td>
-				36,0 kWh
+				38,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				100 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 15 m 25 s
 			</td>
 			<td>
-				36,8 kWh
+				39,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				96 kW
 			</td>
 			<td>
-				 14 m 57 s
+				 15 m 56 s
 			</td>
 			<td>
-				37,5 kWh
+				40,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				92 kW
 			</td>
 			<td>
-				 15 m 27 s
+				 16 m 29 s
 			</td>
 			<td>
-				38,2 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				89 kW
 			</td>
 			<td>
-				 16 m 0 s
+				 17 m 4 s
 			</td>
 			<td>
-				39,0 kWh
+				41,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				87 kW
 			</td>
 			<td>
-				 16 m 33 s
+				 17 m 39 s
 			</td>
 			<td>
-				39,8 kWh
+				42,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				85 kW
 			</td>
 			<td>
-				 17 m 6 s
+				 18 m 15 s
 			</td>
 			<td>
-				40,5 kWh
+				43,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				84 kW
 			</td>
 			<td>
-				 17 m 41 s
+				 18 m 51 s
 			</td>
 			<td>
-				41,2 kWh
+				44,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				82 kW
 			</td>
 			<td>
-				 18 m 16 s
+				 19 m 29 s
 			</td>
 			<td>
-				42,0 kWh
+				44,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				80 kW
 			</td>
 			<td>
-				 18 m 51 s
+				 20 m 7 s
 			</td>
 			<td>
-				42,8 kWh
+				45,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				80 kW
 			</td>
 			<td>
-				 19 m 28 s
+				 20 m 46 s
 			</td>
 			<td>
-				43,5 kWh
+				46,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				79 kW
 			</td>
 			<td>
-				 20 m 4 s
+				 21 m 25 s
 			</td>
 			<td>
-				44,2 kWh
+				47,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				78 kW
 			</td>
 			<td>
-				 20 m 41 s
+				 22 m 4 s
 			</td>
 			<td>
-				45,0 kWh
+				48,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				77 kW
 			</td>
 			<td>
-				 21 m 19 s
+				 22 m 44 s
 			</td>
 			<td>
-				45,8 kWh
+				48,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				75 kW
 			</td>
 			<td>
-				 21 m 57 s
+				 23 m 25 s
 			</td>
 			<td>
-				46,5 kWh
+				49,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				74 kW
 			</td>
 			<td>
-				 22 m 36 s
+				 24 m 6 s
 			</td>
 			<td>
-				47,2 kWh
+				50,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				73 kW
 			</td>
 			<td>
-				 23 m 15 s
+				 24 m 48 s
 			</td>
 			<td>
-				48,0 kWh
+				51,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				71 kW
 			</td>
 			<td>
-				 23 m 56 s
+				 25 m 31 s
 			</td>
 			<td>
-				48,8 kWh
+				52,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				69 kW
 			</td>
 			<td>
-				 24 m 37 s
+				 26 m 16 s
 			</td>
 			<td>
-				49,5 kWh
+				52,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				67 kW
 			</td>
 			<td>
-				 25 m 20 s
+				 27 m 1 s
 			</td>
 			<td>
-				50,2 kWh
+				53,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				64 kW
 			</td>
 			<td>
-				 26 m 4 s
+				 27 m 49 s
 			</td>
 			<td>
-				51,0 kWh
+				54,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				64 kW
 			</td>
 			<td>
-				 26 m 50 s
+				 28 m 37 s
 			</td>
 			<td>
-				51,8 kWh
+				55,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				62 kW
 			</td>
 			<td>
-				 27 m 36 s
+				 29 m 26 s
 			</td>
 			<td>
-				52,5 kWh
+				56,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				61 kW
 			</td>
 			<td>
-				 28 m 23 s
+				 30 m 16 s
 			</td>
 			<td>
-				53,2 kWh
+				56,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				59 kW
 			</td>
 			<td>
-				 29 m 11 s
+				 31 m 8 s
 			</td>
 			<td>
-				54,0 kWh
+				57,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				58 kW
 			</td>
 			<td>
-				 30 m 1 s
+				 32 m 1 s
 			</td>
 			<td>
-				54,8 kWh
+				58,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				57 kW
 			</td>
 			<td>
-				 30 m 51 s
+				 32 m 55 s
 			</td>
 			<td>
-				55,5 kWh
+				59,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				55 kW
 			</td>
 			<td>
-				 31 m 43 s
+				 33 m 50 s
 			</td>
 			<td>
-				56,2 kWh
+				60,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				54 kW
 			</td>
 			<td>
-				 32 m 36 s
+				 34 m 47 s
 			</td>
 			<td>
-				57,0 kWh
+				60,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				52 kW
 			</td>
 			<td>
-				 33 m 31 s
+				 35 m 45 s
 			</td>
 			<td>
-				57,8 kWh
+				61,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				49 kW
 			</td>
 			<td>
-				 34 m 29 s
+				 36 m 47 s
 			</td>
 			<td>
-				58,5 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				47 kW
 			</td>
 			<td>
-				 35 m 29 s
+				 37 m 51 s
 			</td>
 			<td>
-				59,2 kWh
+				63,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				45 kW
 			</td>
 			<td>
-				 36 m 32 s
+				 38 m 59 s
 			</td>
 			<td>
-				60,0 kWh
+				64,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				43 kW
 			</td>
 			<td>
-				 37 m 38 s
+				 40 m 9 s
 			</td>
 			<td>
-				60,8 kWh
+				64,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				42 kW
 			</td>
 			<td>
-				 38 m 47 s
+				 41 m 22 s
 			</td>
 			<td>
-				61,5 kWh
+				65,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				40 kW
 			</td>
 			<td>
-				 39 m 57 s
+				 42 m 37 s
 			</td>
 			<td>
-				62,2 kWh
+				66,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				39 kW
 			</td>
 			<td>
-				 41 m 11 s
+				 43 m 56 s
 			</td>
 			<td>
-				63,0 kWh
+				67,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				37 kW
 			</td>
 			<td>
-				 42 m 27 s
+				 45 m 17 s
 			</td>
 			<td>
-				63,8 kWh
+				68,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				37 kW
 			</td>
 			<td>
-				 43 m 46 s
+				 46 m 41 s
 			</td>
 			<td>
-				64,5 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				35 kW
 			</td>
 			<td>
-				 45 m 6 s
+				 48 m 7 s
 			</td>
 			<td>
-				65,2 kWh
+				69,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				34 kW
 			</td>
 			<td>
-				 46 m 31 s
+				 49 m 37 s
 			</td>
 			<td>
-				66,0 kWh
+				70,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				32 kW
 			</td>
 			<td>
-				 47 m 59 s
+				 51 m 11 s
 			</td>
 			<td>
-				66,8 kWh
+				71,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				30 kW
 			</td>
 			<td>
-				 49 m 32 s
+				 52 m 50 s
 			</td>
 			<td>
-				67,5 kWh
+				72,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				29 kW
 			</td>
 			<td>
-				 51 m 11 s
+				 54 m 35 s
 			</td>
 			<td>
-				68,2 kWh
+				72,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				28 kW
 			</td>
 			<td>
-				 52 m 53 s
+				 56 m 24 s
 			</td>
 			<td>
-				69,0 kWh
+				73,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				28 kW
 			</td>
 			<td>
-				 54 m 36 s
+				 58 m 15 s
 			</td>
 			<td>
-				69,8 kWh
+				74,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				27 kW
 			</td>
 			<td>
-				 56 m 22 s
+				1 h 0 m 7 s
 			</td>
 			<td>
-				70,5 kWh
+				75,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				26 kW
 			</td>
 			<td>
-				 58 m 11 s
+				1 h 2 m 4 s
 			</td>
 			<td>
-				71,2 kWh
+				76,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				26 kW
 			</td>
 			<td>
-				1 h 0 m 3 s
+				1 h 4 m 3 s
 			</td>
 			<td>
-				72,0 kWh
+				76,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				25 kW
 			</td>
 			<td>
-				1 h 1 m 57 s
+				1 h 6 m 5 s
 			</td>
 			<td>
-				72,8 kWh
+				77,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				22 kW
 			</td>
 			<td>
-				1 h 4 m 0 s
+				1 h 8 m 16 s
 			</td>
 			<td>
-				73,5 kWh
+				78,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				18 kW
 			</td>
 			<td>
-				1 h 6 m 26 s
+				1 h 10 m 51 s
 			</td>
 			<td>
-				74,2 kWh
+				79,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Tesla Model 3 Long Range RWD tiene calefacción de batería, lo que facilita la 
 				13 kW
 			</td>
 			<td>
-				1 h 9 m 33 s
+				1 h 14 m 11 s
 			</td>
 			<td>
-				75,0 kWh
+				80,0 kWh
 			</td>
 		</tr>
 	</tbody>
