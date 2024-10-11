@@ -30,17 +30,17 @@ Cadillac ESCALADE IQ imponerer med en maksimal effekt på 560 kW (761 hk) og et 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 215,0 kWh og en nettoanvendelig kapacitet på 200,0 kWh, hvilket giver en buffer på 15,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 225,0 kWh og en nettoanvendelig kapacitet på 215,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 740 km med en energiforbrugsrate på 27,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 740 km med en energiforbrugsrate på 29,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 133 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 46 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 53%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 238kW. Hver opladningssession ville tage 26 minutter og 16 sekunder. Denne effektive opladningskapacitet gør Cadillac ESCALADE IQ til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 143 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 50 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 241kW. Hver opladningssession ville tage 25 minutter og 10 sekunder. Denne effektive opladningskapacitet gør Cadillac ESCALADE IQ til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 35 kWh/100 km, ville turen tage cirka 8 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 39%, med en samlet opladningstid på 39 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 35 kWh/100 km, ville turen tage cirka 8 timer og 53 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 63%, med en samlet opladningstid på 34 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 17 timer og 23 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 19,2 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 10 timer og 25 minutter derhjemme.
+Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 18 timer og 41 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 19,2 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 11 timer og 11 minutter derhjemme.
 
 ### Ladeport
 

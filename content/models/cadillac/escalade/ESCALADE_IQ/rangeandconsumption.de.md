@@ -43,7 +43,7 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				740 km / 460 mi
 			</td>
 			<td>
-				27,0 kWh/100km / 2,3 mi/kWh
+				29,1 kWh/100km / 2,1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				740 km / 460 mi
 			</td>
 			<td>
-				27,0 kWh/100km / 2,3 mi/kWh
+				29,1 kWh/100km / 2,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				EPA Reichweite Basisausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				638 km / 396 mi
+				645 km / 401 mi
 			</td>
 			<td>
-				-13,8%
+				-12,8%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				EPA Reichweite Top-Ausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				638 km / 396 mi
+				645 km / 401 mi
 			</td>
 			<td>
-				-13,8%
+				-12,8%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				90 km/h/56 mph perfekte Bedingungen
 			</td>
 			<td>
-				667km / 414 mi
+				717km / 446 mi
 			</td>
 			<td>
 				30 kWh/100km / 2,1 mi/kWh
@@ -143,7 +143,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				90 km/h/56 mph mit 2KW Heizung
 			</td>
 			<td>
-				632km /386mi
+				679km /415mi
 			</td>
 			<td>
 				32,2 kWh/100km /1,9 mi/kWh 
@@ -154,7 +154,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				70 mph/112 km/h perfekte Bedingungen
 			</td>
 			<td>
-				625 km / 388 mi
+				672 km / 418 mi
 			</td>
 			<td>
 				32 kWh/100km / 1,9 mi/kWh
@@ -165,7 +165,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				70 mph/112 km/h mit 2KW Heizung
 			</td>
 			<td>
-				592km / 368mi
+				637km / 396mi
 			</td>
 			<td>
 				33,8 kWh/100km / 1,8 mi/kWh  
@@ -176,7 +176,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph perfekte Bedingungen
 			</td>
 			<td>
-				571 km / 355 mi
+				614 km / 382 mi
 			</td>
 			<td>
 				35 kWh/100km / 1,8 mi/kWh
@@ -187,7 +187,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph mit 2KW Heizung
 			</td>
 			<td>
-				545 km /339mi
+				586 km /364mi
 			</td>
 			<td>
 				36,7 kWh/100km /1,7 mi/kWh

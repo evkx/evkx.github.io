@@ -30,17 +30,17 @@ The GMC Hummer EV SUV 3x delivers a jaw-dropping maximum power of 619 KW (842 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 225.0 kWh and a net usable capacity of 215.0 kWh, providing a 10.0 kWh buffer (4.4%) for battery protection. With a nominal voltage of 355 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 314 miles (505 km) with an energy consumption rate of 1.7 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 314 miles (505 km) with an energy consumption rate of 1.5 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 126 minutes, while a more typical scenario from 10% to 80% takes 44 minutes with an average charging speed of 182 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 235 kW, with each charging session taking about 30 minutes and 33 seconds. This efficient charging capability makes the GMC Hummer EV SUV 3x a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 143 minutes, while a more typical scenario from 10% to 80% takes 50 minutes with an average charging speed of 182 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 48%. This results in an effective charging speed, including time lost, of 241 kW, with each charging session taking about 25 minutes and 10 seconds. This efficient charging capability makes the GMC Hummer EV SUV 3x a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 43 kWh/100 km, the trip would take approximately 9 hours and 22 minutes. This journey would require two charging stops from 0% to 64%, with a total charging time of 62 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 43 kWh/100 km, the trip would take approximately 9 hours and 13 minutes. This journey would require two charging stops from 1% to 51%, with a total charging time of 54 minutes.
 
 ### Onboard Charger
 
-The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 53 minutes using a home charging setup.
+The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 11 minutes using a home charging setup.
 
 ### Charge Port
 

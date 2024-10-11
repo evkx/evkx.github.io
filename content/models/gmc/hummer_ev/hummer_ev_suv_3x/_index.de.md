@@ -30,17 +30,17 @@ Der GMC Hummer EV SUV 3x liefert eine atemberaubende maximale Leistung von 619 k
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 200,0 kWh und eine nutzbare Nettokapazität von 190,0 kWh, was einen Puffer von 10,0 kWh (5,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 225,0 kWh und eine nutzbare Nettokapazität von 215,0 kWh, was einen Puffer von 10,0 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 314 Meilen (505 km) mit einem Energieverbrauch von 1,7 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 314 Meilen (505 km) mit einem Energieverbrauch von 1,5 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 126 Minuten, während ein typischer Ladevorgang von 10% auf 80% 44 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 182 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 62%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 235 kW, wobei jede Ladesitzung etwa 30 Minuten und 33 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV SUV 3x zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 143 Minuten, während ein typischer Ladevorgang von 10% auf 80% 50 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 182 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 48%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 241 kW, wobei jede Ladesitzung etwa 25 Minuten und 10 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV SUV 3x zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 43 kWh/100 km, würde die Fahrt etwa 9 Stunden und 22 Minuten dauern. Diese Reise würde zwei Ladestopps von 0% auf 64% erfordern, mit einer gesamten Ladezeit von 62 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 43 kWh/100 km, würde die Fahrt etwa 9 Stunden und 13 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 51% erfordern, mit einer gesamten Ladezeit von 54 Minuten.
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 53 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 11 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

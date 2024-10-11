@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maximale C-Rate
 			</td>
 			<td>
-				1,60
+				1,53
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Durchschnittliche C-Rate
 			</td>
 			<td>
-				1,02
+				0,97
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimales Ladegebiet
 			</td>
 			<td>
-				1% - 53%
+				1% - 48%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				237,5kW
+				240,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				26m16s
+				25m10s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				2 h 12 m 50 s
+				2 h 22 m 48 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				2 h 8 m 54 s
+				2 h 18 m 34 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 46 m 14 s
+				 49 m 42 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Reichweite pro Minute 0-100%
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,2 km (3,2 mi)
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Reichweite pro Minute 10-100%
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				4,8 km (3,0 mi)
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Reichweite pro Minute 10-80%
 			</td>
 			<td>
-				11,2 km (7,0 mi)
+				10,4 km (6,5 mi)
 			</td>
 			<td>
 				?
@@ -268,10 +268,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				335 kW
 			</td>
 			<td>
-				 0 m 31 s
+				 0 m 34 s
 			</td>
 			<td>
-				2 kWh
+				2,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,10 +282,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				338 kW
 			</td>
 			<td>
-				 0 m 54 s
+				 0 m 59 s
 			</td>
 			<td>
-				4 kWh
+				4,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				345 kW
 			</td>
 			<td>
-				 1 m 17 s
+				 1 m 23 s
 			</td>
 			<td>
-				6 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				341 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 47 s
 			</td>
 			<td>
-				8 kWh
+				8,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				344 kW
 			</td>
 			<td>
-				 2 m 2 s
+				 2 m 11 s
 			</td>
 			<td>
-				10 kWh
+				10,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				342 kW
 			</td>
 			<td>
-				 2 m 25 s
+				 2 m 36 s
 			</td>
 			<td>
-				12 kWh
+				12,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				343 kW
 			</td>
 			<td>
-				 2 m 47 s
+				 3 m 0 s
 			</td>
 			<td>
-				14 kWh
+				15,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				345 kW
 			</td>
 			<td>
-				 3 m 10 s
+				 3 m 24 s
 			</td>
 			<td>
-				16 kWh
+				17,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				341 kW
 			</td>
 			<td>
-				 3 m 33 s
+				 3 m 49 s
 			</td>
 			<td>
-				18 kWh
+				19,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				338 kW
 			</td>
 			<td>
-				 3 m 55 s
+				 4 m 13 s
 			</td>
 			<td>
-				20 kWh
+				21,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				338 kW
 			</td>
 			<td>
-				 4 m 18 s
+				 4 m 38 s
 			</td>
 			<td>
-				22 kWh
+				23,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				338 kW
 			</td>
 			<td>
-				 4 m 41 s
+				 5 m 2 s
 			</td>
 			<td>
-				24 kWh
+				25,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				338 kW
 			</td>
 			<td>
-				 5 m 4 s
+				 5 m 27 s
 			</td>
 			<td>
-				26 kWh
+				28,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				340 kW
 			</td>
 			<td>
-				 5 m 27 s
+				 5 m 51 s
 			</td>
 			<td>
-				28 kWh
+				30,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				340 kW
 			</td>
 			<td>
-				 5 m 50 s
+				 6 m 16 s
 			</td>
 			<td>
-				30 kWh
+				32,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				343 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 40 s
 			</td>
 			<td>
-				32 kWh
+				34,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				342 kW
 			</td>
 			<td>
-				 6 m 35 s
+				 7 m 5 s
 			</td>
 			<td>
-				34 kWh
+				36,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				342 kW
 			</td>
 			<td>
-				 6 m 58 s
+				 7 m 29 s
 			</td>
 			<td>
-				36 kWh
+				38,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				342 kW
 			</td>
 			<td>
-				 7 m 20 s
+				 7 m 53 s
 			</td>
 			<td>
-				38 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				342 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 8 m 18 s
 			</td>
 			<td>
-				40 kWh
+				43,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				343 kW
 			</td>
 			<td>
-				 8 m 5 s
+				 8 m 42 s
 			</td>
 			<td>
-				42 kWh
+				45,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				343 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 9 m 6 s
 			</td>
 			<td>
-				44 kWh
+				47,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				345 kW
 			</td>
 			<td>
-				 8 m 51 s
+				 9 m 30 s
 			</td>
 			<td>
-				46 kWh
+				49,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				345 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 9 m 54 s
 			</td>
 			<td>
-				48 kWh
+				51,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				341 kW
 			</td>
 			<td>
-				 9 m 36 s
+				 10 m 19 s
 			</td>
 			<td>
-				50 kWh
+				53,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				337 kW
 			</td>
 			<td>
-				 9 m 58 s
+				 10 m 43 s
 			</td>
 			<td>
-				52 kWh
+				55,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				337 kW
 			</td>
 			<td>
-				 10 m 21 s
+				 11 m 8 s
 			</td>
 			<td>
-				54 kWh
+				58,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				339 kW
 			</td>
 			<td>
-				 10 m 44 s
+				 11 m 33 s
 			</td>
 			<td>
-				56 kWh
+				60,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				337 kW
 			</td>
 			<td>
-				 11 m 7 s
+				 11 m 57 s
 			</td>
 			<td>
-				58 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				338 kW
 			</td>
 			<td>
-				 11 m 30 s
+				 12 m 22 s
 			</td>
 			<td>
-				60 kWh
+				64,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				339 kW
 			</td>
 			<td>
-				 11 m 53 s
+				 12 m 46 s
 			</td>
 			<td>
-				62 kWh
+				66,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				340 kW
 			</td>
 			<td>
-				 12 m 16 s
+				 13 m 11 s
 			</td>
 			<td>
-				64 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				340 kW
 			</td>
 			<td>
-				 12 m 39 s
+				 13 m 35 s
 			</td>
 			<td>
-				66 kWh
+				71,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				340 kW
 			</td>
 			<td>
-				 13 m 1 s
+				 14 m 0 s
 			</td>
 			<td>
-				68 kWh
+				73,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				327 kW
 			</td>
 			<td>
-				 13 m 25 s
+				 14 m 25 s
 			</td>
 			<td>
-				70 kWh
+				75,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				306 kW
 			</td>
 			<td>
-				 13 m 49 s
+				 14 m 51 s
 			</td>
 			<td>
-				72 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				291 kW
 			</td>
 			<td>
-				 14 m 15 s
+				 15 m 19 s
 			</td>
 			<td>
-				74 kWh
+				79,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				291 kW
 			</td>
 			<td>
-				 14 m 42 s
+				 15 m 48 s
 			</td>
 			<td>
-				76 kWh
+				81,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				292 kW
 			</td>
 			<td>
-				 15 m 8 s
+				 16 m 16 s
 			</td>
 			<td>
-				78 kWh
+				83,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				294 kW
 			</td>
 			<td>
-				 15 m 35 s
+				 16 m 45 s
 			</td>
 			<td>
-				80 kWh
+				86,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				291 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 17 m 13 s
 			</td>
 			<td>
-				82 kWh
+				88,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				288 kW
 			</td>
 			<td>
-				 16 m 28 s
+				 17 m 42 s
 			</td>
 			<td>
-				84 kWh
+				90,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				280 kW
 			</td>
 			<td>
-				 16 m 55 s
+				 18 m 11 s
 			</td>
 			<td>
-				86 kWh
+				92,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				281 kW
 			</td>
 			<td>
-				 17 m 23 s
+				 18 m 41 s
 			</td>
 			<td>
-				88 kWh
+				94,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				275 kW
 			</td>
 			<td>
-				 17 m 50 s
+				 19 m 11 s
 			</td>
 			<td>
-				90 kWh
+				96,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				274 kW
 			</td>
 			<td>
-				 18 m 19 s
+				 19 m 41 s
 			</td>
 			<td>
-				92 kWh
+				98,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				261 kW
 			</td>
 			<td>
-				 18 m 48 s
+				 20 m 12 s
 			</td>
 			<td>
-				94 kWh
+				101,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				258 kW
 			</td>
 			<td>
-				 19 m 17 s
+				 20 m 44 s
 			</td>
 			<td>
-				96 kWh
+				103,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				258 kW
 			</td>
 			<td>
-				 19 m 47 s
+				 21 m 17 s
 			</td>
 			<td>
-				98 kWh
+				105,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				257 kW
 			</td>
 			<td>
-				 20 m 17 s
+				 21 m 49 s
 			</td>
 			<td>
-				100 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				259 kW
 			</td>
 			<td>
-				 20 m 47 s
+				 22 m 21 s
 			</td>
 			<td>
-				102 kWh
+				109,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				258 kW
 			</td>
 			<td>
-				 21 m 17 s
+				 22 m 53 s
 			</td>
 			<td>
-				104 kWh
+				111,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				255 kW
 			</td>
 			<td>
-				 21 m 48 s
+				 23 m 26 s
 			</td>
 			<td>
-				106 kWh
+				114,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				253 kW
 			</td>
 			<td>
-				 22 m 18 s
+				 23 m 58 s
 			</td>
 			<td>
-				108 kWh
+				116,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				252 kW
 			</td>
 			<td>
-				 22 m 49 s
+				 24 m 31 s
 			</td>
 			<td>
-				110 kWh
+				118,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				253 kW
 			</td>
 			<td>
-				 23 m 19 s
+				 25 m 4 s
 			</td>
 			<td>
-				112 kWh
+				120,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				254 kW
 			</td>
 			<td>
-				 23 m 50 s
+				 25 m 37 s
 			</td>
 			<td>
-				114 kWh
+				122,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				254 kW
 			</td>
 			<td>
-				 24 m 20 s
+				 26 m 10 s
 			</td>
 			<td>
-				116 kWh
+				124,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				255 kW
 			</td>
 			<td>
-				 24 m 51 s
+				 26 m 43 s
 			</td>
 			<td>
-				118 kWh
+				126,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				255 kW
 			</td>
 			<td>
-				 25 m 21 s
+				 27 m 15 s
 			</td>
 			<td>
-				120 kWh
+				129,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				256 kW
 			</td>
 			<td>
-				 25 m 52 s
+				 27 m 48 s
 			</td>
 			<td>
-				122 kWh
+				131,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				253 kW
 			</td>
 			<td>
-				 26 m 22 s
+				 28 m 21 s
 			</td>
 			<td>
-				124 kWh
+				133,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				229 kW
 			</td>
 			<td>
-				 26 m 54 s
+				 28 m 55 s
 			</td>
 			<td>
-				126 kWh
+				135,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				228 kW
 			</td>
 			<td>
-				 27 m 28 s
+				 29 m 32 s
 			</td>
 			<td>
-				128 kWh
+				137,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				223 kW
 			</td>
 			<td>
-				 28 m 2 s
+				 30 m 8 s
 			</td>
 			<td>
-				130 kWh
+				139,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				169 kW
 			</td>
 			<td>
-				 28 m 42 s
+				 30 m 51 s
 			</td>
 			<td>
-				132 kWh
+				141,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				145 kW
 			</td>
 			<td>
-				 29 m 31 s
+				 31 m 44 s
 			</td>
 			<td>
-				134 kWh
+				144,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				125 kW
 			</td>
 			<td>
-				 30 m 28 s
+				 32 m 46 s
 			</td>
 			<td>
-				136 kWh
+				146,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				115 kW
 			</td>
 			<td>
-				 31 m 33 s
+				 33 m 55 s
 			</td>
 			<td>
-				138 kWh
+				148,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				115 kW
 			</td>
 			<td>
-				 32 m 40 s
+				 35 m 7 s
 			</td>
 			<td>
-				140 kWh
+				150,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				104 kW
 			</td>
 			<td>
-				 33 m 51 s
+				 36 m 23 s
 			</td>
 			<td>
-				142 kWh
+				152,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				99 kW
 			</td>
 			<td>
-				 35 m 7 s
+				 37 m 45 s
 			</td>
 			<td>
-				144 kWh
+				154,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				98 kW
 			</td>
 			<td>
-				 36 m 26 s
+				 39 m 10 s
 			</td>
 			<td>
-				146 kWh
+				157,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				93 kW
 			</td>
 			<td>
-				 37 m 47 s
+				 40 m 37 s
 			</td>
 			<td>
-				148 kWh
+				159,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				74 kW
 			</td>
 			<td>
-				 39 m 20 s
+				 42 m 17 s
 			</td>
 			<td>
-				150 kWh
+				161,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				61 kW
 			</td>
 			<td>
-				 41 m 14 s
+				 44 m 20 s
 			</td>
 			<td>
-				152 kWh
+				163,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				64 kW
 			</td>
 			<td>
-				 43 m 18 s
+				 46 m 33 s
 			</td>
 			<td>
-				154 kWh
+				165,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				65 kW
 			</td>
 			<td>
-				 45 m 18 s
+				 48 m 42 s
 			</td>
 			<td>
-				156 kWh
+				167,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				52 kW
 			</td>
 			<td>
-				 47 m 31 s
+				 51 m 4 s
 			</td>
 			<td>
-				158 kWh
+				169,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				45 kW
 			</td>
 			<td>
-				 50 m 10 s
+				 53 m 56 s
 			</td>
 			<td>
-				160 kWh
+				172,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				34 kW
 			</td>
 			<td>
-				 53 m 26 s
+				 57 m 27 s
 			</td>
 			<td>
-				162 kWh
+				174,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				27 kW
 			</td>
 			<td>
-				 57 m 40 s
+				1 h 2 m 0 s
 			</td>
 			<td>
-				164 kWh
+				176,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				17 kW
 			</td>
 			<td>
-				1 h 3 m 32 s
+				1 h 8 m 18 s
 			</td>
 			<td>
-				166 kWh
+				178,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				19 kW
 			</td>
 			<td>
-				1 h 10 m 42 s
+				1 h 16 m 0 s
 			</td>
 			<td>
-				168 kWh
+				180,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				50 kW
 			</td>
 			<td>
-				1 h 14 m 26 s
+				1 h 20 m 1 s
 			</td>
 			<td>
-				170 kWh
+				182,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				77 kW
 			</td>
 			<td>
-				1 h 16 m 28 s
+				1 h 22 m 13 s
 			</td>
 			<td>
-				172 kWh
+				184,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				55 kW
 			</td>
 			<td>
-				1 h 18 m 26 s
+				1 h 24 m 19 s
 			</td>
 			<td>
-				174 kWh
+				187,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				55 kW
 			</td>
 			<td>
-				1 h 20 m 46 s
+				1 h 26 m 50 s
 			</td>
 			<td>
-				176 kWh
+				189,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				55 kW
 			</td>
 			<td>
-				1 h 23 m 7 s
+				1 h 29 m 21 s
 			</td>
 			<td>
-				178 kWh
+				191,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				51 kW
 			</td>
 			<td>
-				1 h 25 m 33 s
+				1 h 31 m 58 s
 			</td>
 			<td>
-				180 kWh
+				193,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				46 kW
 			</td>
 			<td>
-				1 h 28 m 13 s
+				1 h 34 m 50 s
 			</td>
 			<td>
-				182 kWh
+				195,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				43 kW
 			</td>
 			<td>
-				1 h 31 m 7 s
+				1 h 37 m 57 s
 			</td>
 			<td>
-				184 kWh
+				197,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				39 kW
 			</td>
 			<td>
-				1 h 34 m 16 s
+				1 h 41 m 20 s
 			</td>
 			<td>
-				186 kWh
+				200,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				35 kW
 			</td>
 			<td>
-				1 h 37 m 45 s
+				1 h 45 m 5 s
 			</td>
 			<td>
-				188 kWh
+				202,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				31 kW
 			</td>
 			<td>
-				1 h 41 m 40 s
+				1 h 49 m 17 s
 			</td>
 			<td>
-				190 kWh
+				204,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				28 kW
 			</td>
 			<td>
-				1 h 46 m 2 s
+				1 h 53 m 59 s
 			</td>
 			<td>
-				192 kWh
+				206,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				24 kW
 			</td>
 			<td>
-				1 h 51 m 0 s
+				1 h 59 m 19 s
 			</td>
 			<td>
-				194 kWh
+				208,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				20 kW
 			</td>
 			<td>
-				1 h 56 m 52 s
+				2 h 5 m 38 s
 			</td>
 			<td>
-				196 kWh
+				210,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				15 kW
 			</td>
 			<td>
-				2 h 4 m 14 s
+				2 h 13 m 33 s
 			</td>
 			<td>
-				198 kWh
+				212,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Cadillac ESCALADE IQ verfügt über eine Batterieheizung, die das Laden bei opti
 				15 kW
 			</td>
 			<td>
-				2 h 12 m 50 s
+				2 h 22 m 48 s
 			</td>
 			<td>
-				200 kWh
+				215,0 kWh
 			</td>
 		</tr>
 	</tbody>

@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Verbrauch
 			</td>
 			<td>
-				1,7 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				200 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				190 kWh
+				215 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Anzahl der Module
 			</td>
 			<td>
-				20
+				24
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s6p
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>

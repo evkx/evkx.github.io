@@ -30,7 +30,7 @@ La GMC Hummer EV Edition 1 Pickup délivre une puissance maximale impressionnant
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 225,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 10,0 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 650 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 225,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 10,0 kWh (4,4%) pour la protection de la batterie. Avec une tension nominale de 355 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 529 km avec un taux de consommation d'énergie de 40,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

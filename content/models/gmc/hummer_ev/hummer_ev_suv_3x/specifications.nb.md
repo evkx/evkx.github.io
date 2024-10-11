@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				1,7 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				200 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				190 kWh
+				215 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Antall moduler
 			</td>
 			<td>
-				20
+				24
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				96s6p
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>

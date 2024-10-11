@@ -147,10 +147,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spenning
 			</td>
 			<td>
-				350
+				355
 			</td>
 		</tr>
 		<tr>

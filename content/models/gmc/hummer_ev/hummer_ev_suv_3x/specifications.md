@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				1,7 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				200 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				190 kWh
+				215 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Number of modules
 			</td>
 			<td>
-				20
+				24
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+			</td>
+			<td>
+				96s6p
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>

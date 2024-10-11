@@ -30,17 +30,17 @@ Cadillac ESCALADE IQ imponerer med en imponerende kraft på 560 kW (761 hk) og e
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 215,0 kWh og en netto brukbar kapasitet på 200,0 kWh, som gir en buffer på 15,0 kWh (7,0%) for batteribeskyttelse. Med en nominell spenning på 355 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 225,0 kWh og en netto brukbar kapasitet på 215,0 kWh, som gir en buffer på 10,0 kWh (4,4%) for batteribeskyttelse. Med en nominell spenning på 355 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 740 km med en energiforbrukshastighet på 27,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 740 km med en energiforbrukshastighet på 29,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 133 minutter, mens et mer vanlig scenario på 10-80 % vil ta 46 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 238kW. Hver ladeøkt vil ta 26 minutter og 16 sekunder. Denne effektive ladekapasiteten gjør Cadillac ESCALADE IQ til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 143 minutter, mens et mer vanlig scenario på 10-80 % vil ta 50 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 48%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 241kW. Hver ladeøkt vil ta 25 minutter og 10 sekunder. Denne effektive ladekapasiteten gjør Cadillac ESCALADE IQ til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 35 kWh/100 km, ville turen ta omtrent 8 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 1% til 39%, med en total ladetid på 39 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 35 kWh/100 km, ville turen ta omtrent 8 timer og 53 minutter. Denne reisen ville kreve to ladestopp fra 0% til 63%, med en total ladetid på 34 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 17 timer og 23 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 19,2 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 10 timer og 25 minutter hjemme.
+Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 18 timer og 41 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 19,2 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 11 timer og 11 minutter hjemme.
 
 ### Ladeport
 

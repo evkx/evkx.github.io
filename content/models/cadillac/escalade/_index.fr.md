@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="escalade_iq/"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_xst.jpg" class="img-fluid" width="400px" height="184px" alt="ESCALADE IQ" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 215 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 225 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

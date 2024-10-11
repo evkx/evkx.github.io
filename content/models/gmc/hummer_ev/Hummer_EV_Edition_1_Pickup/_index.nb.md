@@ -30,7 +30,7 @@ GMC Hummer EV Edition 1 Pickup leverer en imponerende maksimal effekt på 746 KW
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 225,0 kWh og en netto brukbar kapasitet på 215,0 kWh, som gir en buffer på 10,0 kWh (4,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 650 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 225,0 kWh og en netto brukbar kapasitet på 215,0 kWh, som gir en buffer på 10,0 kWh (4,4%) for batteribeskyttelse. Med en nominell spenning på 355 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 529 km med en energiforbrukshastighet på 40,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

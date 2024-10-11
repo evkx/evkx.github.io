@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				1,7 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				200 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				190 kWh
+				215 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,15 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Antal moduler
 			</td>
 			<td>
-				20
+				24
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s6p
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>

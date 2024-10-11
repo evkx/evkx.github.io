@@ -30,17 +30,17 @@ Cadillac ESCALADE IQ imponerar med en imponerande kraft på 560 kW (761 hk) och 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 215,0 kWh och en nettoanvändbar kapacitet på 200,0 kWh, vilket ger en buffert på 15,0 kWh (7,0%) för batteriskydd. Med en nominell spänning på 355 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 225,0 kWh och en nettoanvändbar kapacitet på 215,0 kWh, vilket ger en buffert på 10,0 kWh (4,4%) för batteriskydd. Med en nominell spänning på 355 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 740 km med en energiförbrukning på 27,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 740 km med en energiförbrukning på 29,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 133 minuter, medan ett vanligare scenario på 10-80 % tar 46 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 238kW. Varje laddningssession tar 26 minuter och 16 sekunder. Denna effektiva laddningskapacitet gör Cadillac ESCALADE IQ till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 143 minuter, medan ett vanligare scenario på 10-80 % tar 50 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 241kW. Varje laddningssession tar 25 minuter och 10 sekunder. Denna effektiva laddningskapacitet gör Cadillac ESCALADE IQ till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 35 kWh/100 km, skulle resan ta ungefär 8 timmar och 59 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 39%, med en total laddningstid på 39 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 35 kWh/100 km, skulle resan ta ungefär 8 timmar och 53 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 63%, med en total laddningstid på 34 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 17 timmar och 23 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 19,2 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 10 timmar och 25 minuter hemma.
+Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 18 timmar och 41 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 19,2 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 11 timmar och 11 minuter hemma.
 
 ### Laddningsport
 

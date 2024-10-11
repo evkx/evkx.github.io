@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Velocidad C máxima
 			</td>
 			<td>
-				1,72
+				1,53
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Tasa C promedio
 			</td>
 			<td>
-				1,10
+				0,97
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				1% - 62%
+				1% - 48%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				235,3kW
+				240,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				30m33s
+				25m10s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				2 h 6 m 12 s
+				2 h 22 m 48 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				2 h 2 m 28 s
+				2 h 18 m 34 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 43 m 56 s
+				 49 m 42 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Rango por minuto 0-100%
 			</td>
 			<td>
-				4,0 km (2,5 mi)
+				3,5 km (2,2 mi)
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Rango por minuto 10-100%
 			</td>
 			<td>
-				3,7 km (2,3 mi)
+				3,3 km (2,1 mi)
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Rango por minuto 10-80%
 			</td>
 			<td>
-				8,1 km (5,0 mi)
+				7,1 km (4,4 mi)
 			</td>
 			<td>
 				?
@@ -268,10 +268,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				335 kW
 			</td>
 			<td>
-				 0 m 30 s
+				 0 m 34 s
 			</td>
 			<td>
-				1,9 kWh
+				2,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,10 +282,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				338 kW
 			</td>
 			<td>
-				 0 m 52 s
+				 0 m 59 s
 			</td>
 			<td>
-				3,8 kWh
+				4,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				345 kW
 			</td>
 			<td>
-				 1 m 13 s
+				 1 m 23 s
 			</td>
 			<td>
-				5,7 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				341 kW
 			</td>
 			<td>
-				 1 m 35 s
+				 1 m 47 s
 			</td>
 			<td>
-				7,6 kWh
+				8,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				344 kW
 			</td>
 			<td>
-				 1 m 56 s
+				 2 m 11 s
 			</td>
 			<td>
-				9,5 kWh
+				10,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				342 kW
 			</td>
 			<td>
-				 2 m 18 s
+				 2 m 36 s
 			</td>
 			<td>
-				11,4 kWh
+				12,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				343 kW
 			</td>
 			<td>
-				 2 m 39 s
+				 3 m 0 s
 			</td>
 			<td>
-				13,3 kWh
+				15,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				345 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 24 s
 			</td>
 			<td>
-				15,2 kWh
+				17,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				341 kW
 			</td>
 			<td>
-				 3 m 22 s
+				 3 m 49 s
 			</td>
 			<td>
-				17,1 kWh
+				19,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				338 kW
 			</td>
 			<td>
-				 3 m 44 s
+				 4 m 13 s
 			</td>
 			<td>
-				19,0 kWh
+				21,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				338 kW
 			</td>
 			<td>
-				 4 m 5 s
+				 4 m 38 s
 			</td>
 			<td>
-				20,9 kWh
+				23,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				338 kW
 			</td>
 			<td>
-				 4 m 27 s
+				 5 m 2 s
 			</td>
 			<td>
-				22,8 kWh
+				25,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				338 kW
 			</td>
 			<td>
-				 4 m 49 s
+				 5 m 27 s
 			</td>
 			<td>
-				24,7 kWh
+				28,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				340 kW
 			</td>
 			<td>
-				 5 m 11 s
+				 5 m 51 s
 			</td>
 			<td>
-				26,6 kWh
+				30,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				340 kW
 			</td>
 			<td>
-				 5 m 32 s
+				 6 m 16 s
 			</td>
 			<td>
-				28,5 kWh
+				32,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				343 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 6 m 40 s
 			</td>
 			<td>
-				30,4 kWh
+				34,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				342 kW
 			</td>
 			<td>
-				 6 m 15 s
+				 7 m 5 s
 			</td>
 			<td>
-				32,3 kWh
+				36,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				342 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 7 m 29 s
 			</td>
 			<td>
-				34,2 kWh
+				38,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				342 kW
 			</td>
 			<td>
-				 6 m 58 s
+				 7 m 53 s
 			</td>
 			<td>
-				36,1 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				342 kW
 			</td>
 			<td>
-				 7 m 20 s
+				 8 m 18 s
 			</td>
 			<td>
-				38,0 kWh
+				43,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				343 kW
 			</td>
 			<td>
-				 7 m 41 s
+				 8 m 42 s
 			</td>
 			<td>
-				39,9 kWh
+				45,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				343 kW
 			</td>
 			<td>
-				 8 m 3 s
+				 9 m 6 s
 			</td>
 			<td>
-				41,8 kWh
+				47,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				345 kW
 			</td>
 			<td>
-				 8 m 24 s
+				 9 m 30 s
 			</td>
 			<td>
-				43,7 kWh
+				49,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				345 kW
 			</td>
 			<td>
-				 8 m 45 s
+				 9 m 54 s
 			</td>
 			<td>
-				45,6 kWh
+				51,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				341 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 10 m 19 s
 			</td>
 			<td>
-				47,5 kWh
+				53,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				337 kW
 			</td>
 			<td>
-				 9 m 28 s
+				 10 m 43 s
 			</td>
 			<td>
-				49,4 kWh
+				55,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				337 kW
 			</td>
 			<td>
-				 9 m 50 s
+				 11 m 8 s
 			</td>
 			<td>
-				51,3 kWh
+				58,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				339 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 11 m 33 s
 			</td>
 			<td>
-				53,2 kWh
+				60,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				337 kW
 			</td>
 			<td>
-				 10 m 34 s
+				 11 m 57 s
 			</td>
 			<td>
-				55,1 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				338 kW
 			</td>
 			<td>
-				 10 m 56 s
+				 12 m 22 s
 			</td>
 			<td>
-				57,0 kWh
+				64,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				339 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 12 m 46 s
 			</td>
 			<td>
-				58,9 kWh
+				66,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				340 kW
 			</td>
 			<td>
-				 11 m 39 s
+				 13 m 11 s
 			</td>
 			<td>
-				60,8 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				340 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 13 m 35 s
 			</td>
 			<td>
-				62,7 kWh
+				71,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				340 kW
 			</td>
 			<td>
-				 12 m 22 s
+				 14 m 0 s
 			</td>
 			<td>
-				64,6 kWh
+				73,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				327 kW
 			</td>
 			<td>
-				 12 m 44 s
+				 14 m 25 s
 			</td>
 			<td>
-				66,5 kWh
+				75,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				306 kW
 			</td>
 			<td>
-				 13 m 8 s
+				 14 m 51 s
 			</td>
 			<td>
-				68,4 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				291 kW
 			</td>
 			<td>
-				 13 m 32 s
+				 15 m 19 s
 			</td>
 			<td>
-				70,3 kWh
+				79,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				291 kW
 			</td>
 			<td>
-				 13 m 57 s
+				 15 m 48 s
 			</td>
 			<td>
-				72,2 kWh
+				81,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				292 kW
 			</td>
 			<td>
-				 14 m 23 s
+				 16 m 16 s
 			</td>
 			<td>
-				74,1 kWh
+				83,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				294 kW
 			</td>
 			<td>
-				 14 m 48 s
+				 16 m 45 s
 			</td>
 			<td>
-				76,0 kWh
+				86,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				291 kW
 			</td>
 			<td>
-				 15 m 13 s
+				 17 m 13 s
 			</td>
 			<td>
-				77,9 kWh
+				88,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				288 kW
 			</td>
 			<td>
-				 15 m 38 s
+				 17 m 42 s
 			</td>
 			<td>
-				79,8 kWh
+				90,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				280 kW
 			</td>
 			<td>
-				 16 m 4 s
+				 18 m 11 s
 			</td>
 			<td>
-				81,7 kWh
+				92,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				281 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 18 m 41 s
 			</td>
 			<td>
-				83,6 kWh
+				94,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				275 kW
 			</td>
 			<td>
-				 16 m 57 s
+				 19 m 11 s
 			</td>
 			<td>
-				85,5 kWh
+				96,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				274 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 19 m 41 s
 			</td>
 			<td>
-				87,4 kWh
+				98,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				261 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 20 m 12 s
 			</td>
 			<td>
-				89,3 kWh
+				101,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				258 kW
 			</td>
 			<td>
-				 18 m 20 s
+				 20 m 44 s
 			</td>
 			<td>
-				91,2 kWh
+				103,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				258 kW
 			</td>
 			<td>
-				 18 m 48 s
+				 21 m 17 s
 			</td>
 			<td>
-				93,1 kWh
+				105,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				257 kW
 			</td>
 			<td>
-				 19 m 17 s
+				 21 m 49 s
 			</td>
 			<td>
-				95,0 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				259 kW
 			</td>
 			<td>
-				 19 m 45 s
+				 22 m 21 s
 			</td>
 			<td>
-				96,9 kWh
+				109,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				258 kW
 			</td>
 			<td>
-				 20 m 14 s
+				 22 m 53 s
 			</td>
 			<td>
-				98,8 kWh
+				111,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				255 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 23 m 26 s
 			</td>
 			<td>
-				100,7 kWh
+				114,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				253 kW
 			</td>
 			<td>
-				 21 m 11 s
+				 23 m 58 s
 			</td>
 			<td>
-				102,6 kWh
+				116,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				252 kW
 			</td>
 			<td>
-				 21 m 40 s
+				 24 m 31 s
 			</td>
 			<td>
-				104,5 kWh
+				118,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				253 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 25 m 4 s
 			</td>
 			<td>
-				106,4 kWh
+				120,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				254 kW
 			</td>
 			<td>
-				 22 m 38 s
+				 25 m 37 s
 			</td>
 			<td>
-				108,3 kWh
+				122,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				254 kW
 			</td>
 			<td>
-				 23 m 7 s
+				 26 m 10 s
 			</td>
 			<td>
-				110,2 kWh
+				124,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				255 kW
 			</td>
 			<td>
-				 23 m 36 s
+				 26 m 43 s
 			</td>
 			<td>
-				112,1 kWh
+				126,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				255 kW
 			</td>
 			<td>
-				 24 m 5 s
+				 27 m 15 s
 			</td>
 			<td>
-				114,0 kWh
+				129,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				256 kW
 			</td>
 			<td>
-				 24 m 34 s
+				 27 m 48 s
 			</td>
 			<td>
-				115,9 kWh
+				131,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				253 kW
 			</td>
 			<td>
-				 25 m 3 s
+				 28 m 21 s
 			</td>
 			<td>
-				117,8 kWh
+				133,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				229 kW
 			</td>
 			<td>
-				 25 m 33 s
+				 28 m 55 s
 			</td>
 			<td>
-				119,7 kWh
+				135,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				228 kW
 			</td>
 			<td>
-				 26 m 6 s
+				 29 m 32 s
 			</td>
 			<td>
-				121,6 kWh
+				137,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				223 kW
 			</td>
 			<td>
-				 26 m 38 s
+				 30 m 8 s
 			</td>
 			<td>
-				123,5 kWh
+				139,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				169 kW
 			</td>
 			<td>
-				 27 m 16 s
+				 30 m 51 s
 			</td>
 			<td>
-				125,4 kWh
+				141,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				145 kW
 			</td>
 			<td>
-				 28 m 3 s
+				 31 m 44 s
 			</td>
 			<td>
-				127,3 kWh
+				144,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				125 kW
 			</td>
 			<td>
-				 28 m 57 s
+				 32 m 46 s
 			</td>
 			<td>
-				129,2 kWh
+				146,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				115 kW
 			</td>
 			<td>
-				 29 m 58 s
+				 33 m 55 s
 			</td>
 			<td>
-				131,1 kWh
+				148,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				115 kW
 			</td>
 			<td>
-				 31 m 2 s
+				 35 m 7 s
 			</td>
 			<td>
-				133,0 kWh
+				150,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				104 kW
 			</td>
 			<td>
-				 32 m 9 s
+				 36 m 23 s
 			</td>
 			<td>
-				134,9 kWh
+				152,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				99 kW
 			</td>
 			<td>
-				 33 m 22 s
+				 37 m 45 s
 			</td>
 			<td>
-				136,8 kWh
+				154,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				98 kW
 			</td>
 			<td>
-				 34 m 37 s
+				 39 m 10 s
 			</td>
 			<td>
-				138,7 kWh
+				157,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				93 kW
 			</td>
 			<td>
-				 35 m 54 s
+				 40 m 37 s
 			</td>
 			<td>
-				140,6 kWh
+				159,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				74 kW
 			</td>
 			<td>
-				 37 m 22 s
+				 42 m 17 s
 			</td>
 			<td>
-				142,5 kWh
+				161,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				61 kW
 			</td>
 			<td>
-				 39 m 11 s
+				 44 m 20 s
 			</td>
 			<td>
-				144,4 kWh
+				163,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				64 kW
 			</td>
 			<td>
-				 41 m 8 s
+				 46 m 33 s
 			</td>
 			<td>
-				146,3 kWh
+				165,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				65 kW
 			</td>
 			<td>
-				 43 m 2 s
+				 48 m 42 s
 			</td>
 			<td>
-				148,2 kWh
+				167,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				52 kW
 			</td>
 			<td>
-				 45 m 8 s
+				 51 m 4 s
 			</td>
 			<td>
-				150,1 kWh
+				169,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				45 kW
 			</td>
 			<td>
-				 47 m 40 s
+				 53 m 56 s
 			</td>
 			<td>
-				152,0 kWh
+				172,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				34 kW
 			</td>
 			<td>
-				 50 m 46 s
+				 57 m 27 s
 			</td>
 			<td>
-				153,9 kWh
+				174,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				27 kW
 			</td>
 			<td>
-				 54 m 47 s
+				1 h 2 m 0 s
 			</td>
 			<td>
-				155,8 kWh
+				176,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				17 kW
 			</td>
 			<td>
-				1 h 0 m 21 s
+				1 h 8 m 18 s
 			</td>
 			<td>
-				157,7 kWh
+				178,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				19 kW
 			</td>
 			<td>
-				1 h 7 m 10 s
+				1 h 16 m 0 s
 			</td>
 			<td>
-				159,6 kWh
+				180,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				50 kW
 			</td>
 			<td>
-				1 h 10 m 43 s
+				1 h 20 m 1 s
 			</td>
 			<td>
-				161,5 kWh
+				182,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				77 kW
 			</td>
 			<td>
-				1 h 12 m 39 s
+				1 h 22 m 13 s
 			</td>
 			<td>
-				163,4 kWh
+				184,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				55 kW
 			</td>
 			<td>
-				1 h 14 m 30 s
+				1 h 24 m 19 s
 			</td>
 			<td>
-				165,3 kWh
+				187,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				55 kW
 			</td>
 			<td>
-				1 h 16 m 44 s
+				1 h 26 m 50 s
 			</td>
 			<td>
-				167,2 kWh
+				189,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				55 kW
 			</td>
 			<td>
-				1 h 18 m 58 s
+				1 h 29 m 21 s
 			</td>
 			<td>
-				169,1 kWh
+				191,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				51 kW
 			</td>
 			<td>
-				1 h 21 m 17 s
+				1 h 31 m 58 s
 			</td>
 			<td>
-				171,0 kWh
+				193,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				46 kW
 			</td>
 			<td>
-				1 h 23 m 48 s
+				1 h 34 m 50 s
 			</td>
 			<td>
-				172,9 kWh
+				195,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				43 kW
 			</td>
 			<td>
-				1 h 26 m 34 s
+				1 h 37 m 57 s
 			</td>
 			<td>
-				174,8 kWh
+				197,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				39 kW
 			</td>
 			<td>
-				1 h 29 m 33 s
+				1 h 41 m 20 s
 			</td>
 			<td>
-				176,7 kWh
+				200,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				35 kW
 			</td>
 			<td>
-				1 h 32 m 52 s
+				1 h 45 m 5 s
 			</td>
 			<td>
-				178,6 kWh
+				202,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				31 kW
 			</td>
 			<td>
-				1 h 36 m 35 s
+				1 h 49 m 17 s
 			</td>
 			<td>
-				180,5 kWh
+				204,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				28 kW
 			</td>
 			<td>
-				1 h 40 m 44 s
+				1 h 53 m 59 s
 			</td>
 			<td>
-				182,4 kWh
+				206,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				24 kW
 			</td>
 			<td>
-				1 h 45 m 27 s
+				1 h 59 m 19 s
 			</td>
 			<td>
-				184,3 kWh
+				208,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				20 kW
 			</td>
 			<td>
-				1 h 51 m 1 s
+				2 h 5 m 38 s
 			</td>
 			<td>
-				186,2 kWh
+				210,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				15 kW
 			</td>
 			<td>
-				1 h 58 m 1 s
+				2 h 13 m 33 s
 			</td>
 			<td>
-				188,1 kWh
+				212,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ GMC Hummer EV SUV 3x tiene calefacción de batería, lo que facilita la carga a 
 				15 kW
 			</td>
 			<td>
-				2 h 6 m 12 s
+				2 h 22 m 48 s
 			</td>
 			<td>
-				190,0 kWh
+				215,0 kWh
 			</td>
 		</tr>
 	</tbody>

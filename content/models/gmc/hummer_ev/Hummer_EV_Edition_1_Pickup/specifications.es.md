@@ -147,10 +147,18 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Configuración del paquete
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tensión nominal
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>

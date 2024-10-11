@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				1,7 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				200 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				190 kWh
+				215 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Antal moduler
 			</td>
 			<td>
-				20
+				24
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				96s6p
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>

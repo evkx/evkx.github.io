@@ -30,17 +30,17 @@ La GMC Hummer EV SUV 3x délivre une puissance maximale impressionnante de 619 k
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 200,0 kWh et une capacité nette utilisable de 190,0 kWh, offrant une réserve de 10,0 kWh (5,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 650 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 225,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 10,0 kWh (4,4%) pour la protection de la batterie. Avec une tension nominale de 355 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 505 km avec un taux de consommation d'énergie de 37,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 505 km avec un taux de consommation d'énergie de 42,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 126 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 44 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 62 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 235kW. Chaque session de charge prendrait 30 minutes et 33 secondes. Cette capacité de charge efficace fait de l'GMC Hummer EV SUV 3x une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 143 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 50 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 48 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 241kW. Chaque session de charge prendrait 25 minutes et 10 secondes. Cette capacité de charge efficace fait de l'GMC Hummer EV SUV 3x une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 43 kWh/100 km, le voyage prendrait environ 9 heures et 22 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 64%, avec un temps de recharge total de 62 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 43 kWh/100 km, le voyage prendrait environ 9 heures et 13 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 51%, avec un temps de recharge total de 54 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 19,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 53 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 19,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 11 heures et 11 minutes à domicile.
 
 ### Port de recharge
 
