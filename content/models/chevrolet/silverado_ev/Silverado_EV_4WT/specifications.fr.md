@@ -147,10 +147,18 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Configuration du pack
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tension nominale
 			</td>
 			<td>
-				350
+				355
 			</td>
 		</tr>
 		<tr>

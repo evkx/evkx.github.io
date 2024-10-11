@@ -147,10 +147,18 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nennspannung
 			</td>
 			<td>
-				350
+				355
 			</td>
 		</tr>
 		<tr>
