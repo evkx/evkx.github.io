@@ -3,7 +3,7 @@
     <g>
         <path d="M 1090 1102 L 40 1102 L 40 47" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 40 902 L 1090 902" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 40  1100 45  1090 49  1080 53  1070 57  1060 61  1050 65  1040 69  1030 73  1020 77  1010 81  1000 85  990 89  980 94  970 98  960 102  950 106  940 110  930 114  920 118  910 122  900 126  890 130  880 134  870 138  860 142  850 146  840 150  830 154  820 158  810 162  800 166  790 170  780 174  770 178  760 182  750 187  740 191  730 196  720 201  710 205  700 210  690 215  680 220  670 225  660 230  650 235  640 240  630 245  620 250  610 256  600 261  590 266  580 272  570 277  560 283  550 288  540 293  530 299  520 304  510 310  500 315  490 320  480 326  470 332  460 338  450 345  440 354  430 364  420 376  410 388  400 400  390 414  380 428  370 442  360 458  350 479  340 501  330 522  320 546  310 574  300 609  290 654  280 716  270 793  260 832  250 854  240 875  230 900  220 925  210 951  200 979  190 1010  180 1043  170 1081  160 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 40  1100 45  1090 49  1080 53  1070 57  1060 61  1050 66  1040 70  1030 74  1020 78  1010 82  1000 86  990 90  980 94  970 98  960 102  950 106  940 110  930 114  920 118  910 123  900 127  890 131  880 135  870 139  860 143  850 147  840 151  830 155  820 159  810 163  800 167  790 171  780 175  770 180  760 184  750 188  740 193  730 198  720 202  710 207  700 212  690 217  680 221  670 226  660 231  650 236  640 242  630 247  620 252  610 258  600 263  590 268  580 274  570 279  560 285  550 290  540 296  530 301  520 307  510 312  500 318  490 323  480 329  470 335  460 341  450 348  440 357  430 367  420 379  410 391  400 403  390 417  380 431  370 446  360 462  350 483  340 505  330 527  320 550  310 579  300 614  290 660  280 723  270 800  260 840  250 862  240 883  230 908  220 933  210 959  200 988  190 1019  180 1053  170 1090  160 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -348,13 +348,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1147px; margin-left: 61px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging time for GMC Hummer EV Edition 1 Pickup 220 kWh
+                                EVKX.net - Charging time for GMC Hummer EV Edition 1 Pickup 225 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="620" y="1156" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging time for GMC Hummer EV Edition 1 Pickup 220 kWh
+                    EVKX.net - Charging time for GMC Hummer EV Edition 1 Pickup 225 kWh
                 </text>
             </switch>
         </g>

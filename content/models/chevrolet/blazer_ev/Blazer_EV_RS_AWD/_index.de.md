@@ -30,7 +30,7 @@ Der Chevrolet Blazer EV RS AWD liefert eine solide Leistung mit einer maximalen 
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 89,0 kWh und eine nutzbare Nettokapazität von 85,0 kWh, was einen Puffer von 4,0 kWh (4,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 330 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 89,0 kWh und eine nutzbare Nettokapazität von 85,0 kWh, was einen Puffer von 4,0 kWh (4,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 288 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
 Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 279 Meilen (449 km) mit einem Energieverbrauch von 3,3 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -58,7 +58,7 @@ Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser F
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 345 mm groß sind.
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 314 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -213,5 +213,8 @@ Der Kofferraum bietet ein Ladevolumen von 863 Litern (30,5 CU FT). Mit umgeklapp
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1588 kg (3501 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
+
+## Verfügbarkeit & Preise
+
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Reichweite" >}}

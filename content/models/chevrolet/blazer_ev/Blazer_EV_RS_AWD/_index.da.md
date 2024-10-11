@@ -30,7 +30,7 @@ Chevrolet Blazer EV RS AWD leverer en solid præstation med en maksimal effekt p
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 89,0 kWh og en nettoanvendelig kapacitet på 85,0 kWh, hvilket giver en buffer på 4,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 330 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 89,0 kWh og en nettoanvendelig kapacitet på 85,0 kWh, hvilket giver en buffer på 4,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 288 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 449 km med en energiforbrugsrate på 18,9 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -58,7 +58,7 @@ Chevrolet Blazer EV RS AWD har et firehjulstræk, der understøttes af to motore
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 345mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 314mm.
 
 ### Regenerativ bremsning
 
@@ -213,5 +213,8 @@ Bagagerummet har en lastekapacitet på 863 liter. Med det bageste sæde foldet n
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1588 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
+
+## Tilgængelighed og priser
+
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Range" >}}

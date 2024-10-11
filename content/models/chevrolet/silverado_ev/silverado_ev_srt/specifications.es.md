@@ -118,7 +118,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				240 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>

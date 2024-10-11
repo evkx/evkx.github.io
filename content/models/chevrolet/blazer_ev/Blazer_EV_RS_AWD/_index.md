@@ -30,7 +30,7 @@ The Chevrolet Blazer EV RS AWD delivers a solid performance with a maximum power
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. With a nominal voltage of 288 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 279 miles (449 km) with an energy consumption rate of 3.3 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
 
 ### Regenerative Braking
 
@@ -213,5 +213,8 @@ The trunk offers a cargo capacity of 863 liters (30.5 CU FT). With the rear seat
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
+
+## Availability & Pricing
+
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Range" >}}

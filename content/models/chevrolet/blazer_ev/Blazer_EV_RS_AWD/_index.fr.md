@@ -30,7 +30,7 @@ La Chevrolet Blazer EV RS AWD offre des performances solides avec une puissance 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 4,0 kWh (4,5%) pour la protection de la batterie. Avec une tension nominale de 330 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 4,0 kWh (4,5%) pour la protection de la batterie. Avec une tension nominale de 288 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 449 km avec un taux de consommation d'énergie de 18,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -58,7 +58,7 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 345 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 314 mm.
 
 ### Freinage régénératif
 
@@ -213,5 +213,8 @@ Le coffre offre une capacité de chargement de 863 litres. Avec les sièges arri
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1588 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
+
+## Disponibilité et prix
+
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -158,7 +158,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				330
+				288
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCM
 			</td>
 		</tr>
 	</tbody>

@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="sierra_ev_denali_edition_1/"><img src="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Sierra EV Denali Edition 1" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 240 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 225 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

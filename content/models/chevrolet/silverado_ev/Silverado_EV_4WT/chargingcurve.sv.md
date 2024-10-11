@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maximal C-Rate
 			</td>
 			<td>
-				1,51
+				1,61
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Genomsnittlig C-Rate
 			</td>
 			<td>
-				1,05
+				1,12
 			</td>
 		</tr>
 		<tr>

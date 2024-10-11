@@ -30,17 +30,17 @@ Der GMC Hummer EV Edition 1 Pickup liefert eine atemberaubende maximale Leistung
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 220,0 kWh und eine nutzbare Nettokapazität von 213,0 kWh, was einen Puffer von 7,0 kWh (3,2%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 225,0 kWh und eine nutzbare Nettokapazität von 215,0 kWh, was einen Puffer von 10,0 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 329 Meilen (529 km) mit einem Energieverbrauch von 1,5 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 141 Minuten, während ein typischer Ladevorgang von 10% auf 80% 49 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 182 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 48%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 240 kW, wobei jede Ladesitzung etwa 25 Minuten und 59 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV Edition 1 Pickup zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 143 Minuten, während ein typischer Ladevorgang von 10% auf 80% 50 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 182 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 48%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 241 kW, wobei jede Ladesitzung etwa 25 Minuten und 10 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV Edition 1 Pickup zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 43 kWh/100 km, würde die Fahrt etwa 9 Stunden und 14 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 52% erfordern, mit einer gesamten Ladezeit von 54 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 43 kWh/100 km, würde die Fahrt etwa 9 Stunden und 13 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 51% erfordern, mit einer gesamten Ladezeit von 54 Minuten.
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 19 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 19 Stunden und 32 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

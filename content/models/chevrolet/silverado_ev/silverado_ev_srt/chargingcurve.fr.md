@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Taux C maximum
 			</td>
 			<td>
-				1,51
+				1,61
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Taux C moyen
 			</td>
 			<td>
-				1,05
+				1,12
 			</td>
 		</tr>
 		<tr>

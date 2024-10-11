@@ -118,7 +118,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				240 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>

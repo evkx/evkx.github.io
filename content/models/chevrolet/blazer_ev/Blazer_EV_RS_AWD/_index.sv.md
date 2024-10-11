@@ -30,7 +30,7 @@ Chevrolet Blazer EV RS AWD levererar en solid prestanda med en maximal effekt p�
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 4,0 kWh (4,5%) för batteriskydd. Med en nominell spänning på 330 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 4,0 kWh (4,5%) för batteriskydd. Med en nominell spänning på 288 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 449 km med en energiförbrukning på 18,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -58,7 +58,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 321mm och de bakre skivorna är 345mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 321mm och de bakre skivorna är 314mm.
 
 ### Regenerativ bromsning
 
@@ -213,5 +213,8 @@ Bagageutrymmet erbjuder en lastkapacitet på 863 liter. Med baksätena nedfälld
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
+
+## Tillgänglighet och pris
+
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

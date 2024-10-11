@@ -30,7 +30,7 @@ Chevrolet Blazer EV RS AWD leverer solid ytelse med en maksimal effekt på 214 k
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 89,0 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en buffer på 4,0 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 330 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 89,0 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en buffer på 4,0 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 288 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 449 km med en energiforbrukshastighet på 18,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -58,7 +58,7 @@ Chevrolet Blazer EV RS AWD har et firehjulsdriftssystem som støttes av to motor
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 345mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 314mm.
 
 ### Regenerativ bremsing
 
@@ -213,5 +213,8 @@ Bagasjerommet tilbyr en lastekapasitet på 863 liter. Med baksetene nedfelt, utv
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1588 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
+
+## Tilgjengelighet & pris
+
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -82,6 +82,8 @@ There are two different roof options to select from. The standard roof has a lar
 
 ## Interior
 
+The Chevrolet Blazer EV RS RWD boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+
 ### Seats
 
 #### First Row Seats
@@ -127,10 +129,14 @@ The Chevrolet Blazer EV RS RWD includes several features to enhance comfort and 
 
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the Chevrolet Blazer EV RS RWD combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The Chevrolet Blazer EV RS RWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -159,7 +165,14 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- Waze
 
 ### Phone Mirroring
 
@@ -172,6 +185,17 @@ The Chevrolet Blazer EV RS RWD comes equipped with one sound system option:
 - **Lyric sound system:** Features seven speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
+
+## Mobile App
+
+The Chevrolet Blazer EV RS RWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
 
 ## Lights
 

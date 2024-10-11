@@ -82,6 +82,8 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 ## Interiör
 
+Chevrolet Blazer EV RS RWD har en förarfokuserad interiör som förbättrar cockpitkänslan med material av medelkvalitet som används överallt. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet.
+
 ### Säten
 
 #### Framsäten
@@ -127,10 +129,14 @@ Chevrolet Blazer EV RS RWD inkluderar flera funktioner för att förbättra komf
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
+- **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
 
 Chevrolet Blazer EV RS RWD har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
@@ -159,7 +165,14 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
+
+### App store
+
+Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsappar för att köra dem direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- Waze
 
 ### Telefon spegling
 
@@ -172,6 +185,17 @@ En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV RS RWD.
 - Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
 
 Modellen har 5 USB-C-anslutningar som standard.
+
+## Mobilapp
+
+Chevrolet Blazer EV RS RWD kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
 
 ## Ljus
 

@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maximal C-Rate
 			</td>
 			<td>
-				1,57
+				1,53
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Genomsnittlig C-Rate
 			</td>
 			<td>
-				1,00
+				0,97
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				240,4kW
+				240,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				25m59s
+				25m10s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				2 h 21 m 28 s
+				2 h 22 m 48 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				2 h 17 m 17 s
+				2 h 18 m 34 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 49 m 15 s
+				 49 m 42 s
 			</td>
 		</tr>
 	</tbody>
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-100%
 			</td>
 			<td>
-				3,5 km (2,2 mi)
+				3,4 km (2,1 mi)
 			</td>
 			<td>
 				?
@@ -271,7 +271,7 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				 0 m 34 s
 			</td>
 			<td>
-				2,1 kWh
+				2,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				338 kW
 			</td>
 			<td>
-				 0 m 58 s
+				 0 m 59 s
 			</td>
 			<td>
 				4,3 kWh
@@ -296,7 +296,7 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				345 kW
 			</td>
 			<td>
-				 1 m 22 s
+				 1 m 23 s
 			</td>
 			<td>
 				6,4 kWh
@@ -310,10 +310,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				341 kW
 			</td>
 			<td>
-				 1 m 46 s
+				 1 m 47 s
 			</td>
 			<td>
-				8,5 kWh
+				8,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				344 kW
 			</td>
 			<td>
-				 2 m 10 s
+				 2 m 11 s
 			</td>
 			<td>
-				10,6 kWh
+				10,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				342 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 2 m 36 s
 			</td>
 			<td>
-				12,8 kWh
+				12,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				343 kW
 			</td>
 			<td>
-				 2 m 58 s
+				 3 m 0 s
 			</td>
 			<td>
-				14,9 kWh
+				15,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				345 kW
 			</td>
 			<td>
-				 3 m 22 s
+				 3 m 24 s
 			</td>
 			<td>
-				17,0 kWh
+				17,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				341 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 3 m 49 s
 			</td>
 			<td>
-				19,2 kWh
+				19,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				338 kW
 			</td>
 			<td>
-				 4 m 11 s
+				 4 m 13 s
 			</td>
 			<td>
-				21,3 kWh
+				21,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				338 kW
 			</td>
 			<td>
-				 4 m 35 s
+				 4 m 38 s
 			</td>
 			<td>
-				23,4 kWh
+				23,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				338 kW
 			</td>
 			<td>
-				 4 m 59 s
+				 5 m 2 s
 			</td>
 			<td>
-				25,6 kWh
+				25,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				338 kW
 			</td>
 			<td>
-				 5 m 24 s
+				 5 m 27 s
 			</td>
 			<td>
-				27,7 kWh
+				28,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				340 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 5 m 51 s
 			</td>
 			<td>
-				29,8 kWh
+				30,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				340 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 16 s
 			</td>
 			<td>
-				32,0 kWh
+				32,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				343 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 6 m 40 s
 			</td>
 			<td>
-				34,1 kWh
+				34,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				342 kW
 			</td>
 			<td>
-				 7 m 1 s
+				 7 m 5 s
 			</td>
 			<td>
-				36,2 kWh
+				36,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				342 kW
 			</td>
 			<td>
-				 7 m 25 s
+				 7 m 29 s
 			</td>
 			<td>
-				38,3 kWh
+				38,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				342 kW
 			</td>
 			<td>
-				 7 m 49 s
+				 7 m 53 s
 			</td>
 			<td>
-				40,5 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				342 kW
 			</td>
 			<td>
-				 8 m 13 s
+				 8 m 18 s
 			</td>
 			<td>
-				42,6 kWh
+				43,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				343 kW
 			</td>
 			<td>
-				 8 m 37 s
+				 8 m 42 s
 			</td>
 			<td>
-				44,7 kWh
+				45,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				343 kW
 			</td>
 			<td>
-				 9 m 1 s
+				 9 m 6 s
 			</td>
 			<td>
-				46,9 kWh
+				47,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				345 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 30 s
 			</td>
 			<td>
-				49,0 kWh
+				49,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				345 kW
 			</td>
 			<td>
-				 9 m 49 s
+				 9 m 54 s
 			</td>
 			<td>
-				51,1 kWh
+				51,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				341 kW
 			</td>
 			<td>
-				 10 m 13 s
+				 10 m 19 s
 			</td>
 			<td>
-				53,2 kWh
+				53,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				337 kW
 			</td>
 			<td>
-				 10 m 37 s
+				 10 m 43 s
 			</td>
 			<td>
-				55,4 kWh
+				55,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				337 kW
 			</td>
 			<td>
-				 11 m 2 s
+				 11 m 8 s
 			</td>
 			<td>
-				57,5 kWh
+				58,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				339 kW
 			</td>
 			<td>
-				 11 m 26 s
+				 11 m 33 s
 			</td>
 			<td>
-				59,6 kWh
+				60,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				337 kW
 			</td>
 			<td>
-				 11 m 51 s
+				 11 m 57 s
 			</td>
 			<td>
-				61,8 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				338 kW
 			</td>
 			<td>
-				 12 m 15 s
+				 12 m 22 s
 			</td>
 			<td>
-				63,9 kWh
+				64,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				339 kW
 			</td>
 			<td>
-				 12 m 39 s
+				 12 m 46 s
 			</td>
 			<td>
-				66,0 kWh
+				66,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				340 kW
 			</td>
 			<td>
-				 13 m 4 s
+				 13 m 11 s
 			</td>
 			<td>
-				68,2 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				340 kW
 			</td>
 			<td>
-				 13 m 28 s
+				 13 m 35 s
 			</td>
 			<td>
-				70,3 kWh
+				71,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				340 kW
 			</td>
 			<td>
-				 13 m 52 s
+				 14 m 0 s
 			</td>
 			<td>
-				72,4 kWh
+				73,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				327 kW
 			</td>
 			<td>
-				 14 m 17 s
+				 14 m 25 s
 			</td>
 			<td>
-				74,6 kWh
+				75,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				306 kW
 			</td>
 			<td>
-				 14 m 43 s
+				 14 m 51 s
 			</td>
 			<td>
-				76,7 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				291 kW
 			</td>
 			<td>
-				 15 m 11 s
+				 15 m 19 s
 			</td>
 			<td>
-				78,8 kWh
+				79,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				291 kW
 			</td>
 			<td>
-				 15 m 39 s
+				 15 m 48 s
 			</td>
 			<td>
-				80,9 kWh
+				81,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				292 kW
 			</td>
 			<td>
-				 16 m 7 s
+				 16 m 16 s
 			</td>
 			<td>
-				83,1 kWh
+				83,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				294 kW
 			</td>
 			<td>
-				 16 m 35 s
+				 16 m 45 s
 			</td>
 			<td>
-				85,2 kWh
+				86,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				291 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 17 m 13 s
 			</td>
 			<td>
-				87,3 kWh
+				88,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				288 kW
 			</td>
 			<td>
-				 17 m 32 s
+				 17 m 42 s
 			</td>
 			<td>
-				89,5 kWh
+				90,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				280 kW
 			</td>
 			<td>
-				 18 m 1 s
+				 18 m 11 s
 			</td>
 			<td>
-				91,6 kWh
+				92,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				281 kW
 			</td>
 			<td>
-				 18 m 30 s
+				 18 m 41 s
 			</td>
 			<td>
-				93,7 kWh
+				94,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				275 kW
 			</td>
 			<td>
-				 19 m 0 s
+				 19 m 11 s
 			</td>
 			<td>
-				95,8 kWh
+				96,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				274 kW
 			</td>
 			<td>
-				 19 m 30 s
+				 19 m 41 s
 			</td>
 			<td>
-				98,0 kWh
+				98,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				261 kW
 			</td>
 			<td>
-				 20 m 1 s
+				 20 m 12 s
 			</td>
 			<td>
-				100,1 kWh
+				101,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				258 kW
 			</td>
 			<td>
-				 20 m 33 s
+				 20 m 44 s
 			</td>
 			<td>
-				102,2 kWh
+				103,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				258 kW
 			</td>
 			<td>
-				 21 m 5 s
+				 21 m 17 s
 			</td>
 			<td>
-				104,4 kWh
+				105,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				257 kW
 			</td>
 			<td>
-				 21 m 37 s
+				 21 m 49 s
 			</td>
 			<td>
-				106,5 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				259 kW
 			</td>
 			<td>
-				 22 m 9 s
+				 22 m 21 s
 			</td>
 			<td>
-				108,6 kWh
+				109,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				258 kW
 			</td>
 			<td>
-				 22 m 41 s
+				 22 m 53 s
 			</td>
 			<td>
-				110,8 kWh
+				111,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				255 kW
 			</td>
 			<td>
-				 23 m 13 s
+				 23 m 26 s
 			</td>
 			<td>
-				112,9 kWh
+				114,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				253 kW
 			</td>
 			<td>
-				 23 m 45 s
+				 23 m 58 s
 			</td>
 			<td>
-				115,0 kWh
+				116,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				252 kW
 			</td>
 			<td>
-				 24 m 18 s
+				 24 m 31 s
 			</td>
 			<td>
-				117,2 kWh
+				118,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				253 kW
 			</td>
 			<td>
-				 24 m 50 s
+				 25 m 4 s
 			</td>
 			<td>
-				119,3 kWh
+				120,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				254 kW
 			</td>
 			<td>
-				 25 m 23 s
+				 25 m 37 s
 			</td>
 			<td>
-				121,4 kWh
+				122,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				254 kW
 			</td>
 			<td>
-				 25 m 55 s
+				 26 m 10 s
 			</td>
 			<td>
-				123,5 kWh
+				124,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				255 kW
 			</td>
 			<td>
-				 26 m 28 s
+				 26 m 43 s
 			</td>
 			<td>
-				125,7 kWh
+				126,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				255 kW
 			</td>
 			<td>
-				 27 m 0 s
+				 27 m 15 s
 			</td>
 			<td>
-				127,8 kWh
+				129,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				256 kW
 			</td>
 			<td>
-				 27 m 32 s
+				 27 m 48 s
 			</td>
 			<td>
-				129,9 kWh
+				131,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				253 kW
 			</td>
 			<td>
-				 28 m 5 s
+				 28 m 21 s
 			</td>
 			<td>
-				132,1 kWh
+				133,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				229 kW
 			</td>
 			<td>
-				 28 m 39 s
+				 28 m 55 s
 			</td>
 			<td>
-				134,2 kWh
+				135,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				228 kW
 			</td>
 			<td>
-				 29 m 15 s
+				 29 m 32 s
 			</td>
 			<td>
-				136,3 kWh
+				137,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				223 kW
 			</td>
 			<td>
-				 29 m 52 s
+				 30 m 8 s
 			</td>
 			<td>
-				138,4 kWh
+				139,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				169 kW
 			</td>
 			<td>
-				 30 m 34 s
+				 30 m 51 s
 			</td>
 			<td>
-				140,6 kWh
+				141,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				145 kW
 			</td>
 			<td>
-				 31 m 26 s
+				 31 m 44 s
 			</td>
 			<td>
-				142,7 kWh
+				144,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				125 kW
 			</td>
 			<td>
-				 32 m 27 s
+				 32 m 46 s
 			</td>
 			<td>
-				144,8 kWh
+				146,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				115 kW
 			</td>
 			<td>
-				 33 m 36 s
+				 33 m 55 s
 			</td>
 			<td>
-				147,0 kWh
+				148,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				115 kW
 			</td>
 			<td>
-				 34 m 48 s
+				 35 m 7 s
 			</td>
 			<td>
-				149,1 kWh
+				150,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				104 kW
 			</td>
 			<td>
-				 36 m 3 s
+				 36 m 23 s
 			</td>
 			<td>
-				151,2 kWh
+				152,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				99 kW
 			</td>
 			<td>
-				 37 m 24 s
+				 37 m 45 s
 			</td>
 			<td>
-				153,4 kWh
+				154,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				98 kW
 			</td>
 			<td>
-				 38 m 48 s
+				 39 m 10 s
 			</td>
 			<td>
-				155,5 kWh
+				157,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				93 kW
 			</td>
 			<td>
-				 40 m 14 s
+				 40 m 37 s
 			</td>
 			<td>
-				157,6 kWh
+				159,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				74 kW
 			</td>
 			<td>
-				 41 m 53 s
+				 42 m 17 s
 			</td>
 			<td>
-				159,8 kWh
+				161,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				61 kW
 			</td>
 			<td>
-				 43 m 55 s
+				 44 m 20 s
 			</td>
 			<td>
-				161,9 kWh
+				163,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				64 kW
 			</td>
 			<td>
-				 46 m 7 s
+				 46 m 33 s
 			</td>
 			<td>
-				164,0 kWh
+				165,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				65 kW
 			</td>
 			<td>
-				 48 m 15 s
+				 48 m 42 s
 			</td>
 			<td>
-				166,1 kWh
+				167,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				52 kW
 			</td>
 			<td>
-				 50 m 36 s
+				 51 m 4 s
 			</td>
 			<td>
-				168,3 kWh
+				169,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				45 kW
 			</td>
 			<td>
-				 53 m 26 s
+				 53 m 56 s
 			</td>
 			<td>
-				170,4 kWh
+				172,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				34 kW
 			</td>
 			<td>
-				 56 m 55 s
+				 57 m 27 s
 			</td>
 			<td>
-				172,5 kWh
+				174,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				27 kW
 			</td>
 			<td>
-				1 h 1 m 25 s
+				1 h 2 m 0 s
 			</td>
 			<td>
-				174,7 kWh
+				176,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				17 kW
 			</td>
 			<td>
-				1 h 7 m 40 s
+				1 h 8 m 18 s
 			</td>
 			<td>
-				176,8 kWh
+				178,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				19 kW
 			</td>
 			<td>
-				1 h 15 m 18 s
+				1 h 16 m 0 s
 			</td>
 			<td>
-				178,9 kWh
+				180,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				50 kW
 			</td>
 			<td>
-				1 h 19 m 17 s
+				1 h 20 m 1 s
 			</td>
 			<td>
-				181,0 kWh
+				182,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				77 kW
 			</td>
 			<td>
-				1 h 21 m 27 s
+				1 h 22 m 13 s
 			</td>
 			<td>
-				183,2 kWh
+				184,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				55 kW
 			</td>
 			<td>
-				1 h 23 m 32 s
+				1 h 24 m 19 s
 			</td>
 			<td>
-				185,3 kWh
+				187,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				55 kW
 			</td>
 			<td>
-				1 h 26 m 1 s
+				1 h 26 m 50 s
 			</td>
 			<td>
-				187,4 kWh
+				189,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				55 kW
 			</td>
 			<td>
-				1 h 28 m 31 s
+				1 h 29 m 21 s
 			</td>
 			<td>
-				189,6 kWh
+				191,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				51 kW
 			</td>
 			<td>
-				1 h 31 m 7 s
+				1 h 31 m 58 s
 			</td>
 			<td>
-				191,7 kWh
+				193,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				46 kW
 			</td>
 			<td>
-				1 h 33 m 57 s
+				1 h 34 m 50 s
 			</td>
 			<td>
-				193,8 kWh
+				195,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				43 kW
 			</td>
 			<td>
-				1 h 37 m 2 s
+				1 h 37 m 57 s
 			</td>
 			<td>
-				196,0 kWh
+				197,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				39 kW
 			</td>
 			<td>
-				1 h 40 m 23 s
+				1 h 41 m 20 s
 			</td>
 			<td>
-				198,1 kWh
+				200,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				35 kW
 			</td>
 			<td>
-				1 h 44 m 6 s
+				1 h 45 m 5 s
 			</td>
 			<td>
-				200,2 kWh
+				202,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				31 kW
 			</td>
 			<td>
-				1 h 48 m 16 s
+				1 h 49 m 17 s
 			</td>
 			<td>
-				202,4 kWh
+				204,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				28 kW
 			</td>
 			<td>
-				1 h 52 m 56 s
+				1 h 53 m 59 s
 			</td>
 			<td>
-				204,5 kWh
+				206,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				24 kW
 			</td>
 			<td>
-				1 h 58 m 13 s
+				1 h 59 m 19 s
 			</td>
 			<td>
-				206,6 kWh
+				208,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				20 kW
 			</td>
 			<td>
-				2 h 4 m 27 s
+				2 h 5 m 38 s
 			</td>
 			<td>
-				208,7 kWh
+				210,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				15 kW
 			</td>
 			<td>
-				2 h 12 m 19 s
+				2 h 13 m 33 s
 			</td>
 			<td>
-				210,9 kWh
+				212,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 				15 kW
 			</td>
 			<td>
-				2 h 21 m 28 s
+				2 h 22 m 48 s
 			</td>
 			<td>
-				213,0 kWh
+				215,0 kWh
 			</td>
 		</tr>
 	</tbody>

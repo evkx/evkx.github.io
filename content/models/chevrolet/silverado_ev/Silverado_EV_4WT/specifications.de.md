@@ -118,7 +118,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				240 kWh
+				225 kWh
 			</td>
 		</tr>
 		<tr>

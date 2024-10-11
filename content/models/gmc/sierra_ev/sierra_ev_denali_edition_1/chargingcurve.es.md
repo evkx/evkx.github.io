@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Velocidad C máxima
 			</td>
 			<td>
-				1,44
+				1,53
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Tasa C promedio
 			</td>
 			<td>
-				0,91
+				0,97
 			</td>
 		</tr>
 		<tr>

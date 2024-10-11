@@ -30,17 +30,17 @@ El GMC Hummer EV Edition 1 Pickup entrega una impresionante potencia máxima de 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 220,0 kWh y una capacidad neta utilizable de 213,0 kWh, proporcionando un buffer de 7,0 kWh (3,2%) para la protección de la batería. Operando a un voltaje nominal de 650 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 225,0 kWh y una capacidad neta utilizable de 215,0 kWh, proporcionando un buffer de 10,0 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 650 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 529 km con una tasa de consumo de energía de 40,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 529 km con una tasa de consumo de energía de 40,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 141 minutos, mientras que un escenario más común del 10 al 80 % tardaría 49 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 240kW. Cada sesión de carga tardaría 25 minutos y 59 segundos. Esta capacidad de carga eficiente hace que el GMC Hummer EV Edition 1 Pickup sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 143 minutos, mientras que un escenario más común del 10 al 80 % tardaría 50 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 241kW. Cada sesión de carga tardaría 25 minutos y 10 segundos. Esta capacidad de carga eficiente hace que el GMC Hummer EV Edition 1 Pickup sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 43 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 14 minutos. Este viaje requeriría dos paradas de carga del 1% al 52%, con un tiempo total de carga de 54 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 43 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 13 minutos. Este viaje requeriría dos paradas de carga del 1% al 51%, con un tiempo total de carga de 54 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 19 horas y 21 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 19 horas y 32 minutos usando un cargador en casa.
 
 ### Puerto de carga
 

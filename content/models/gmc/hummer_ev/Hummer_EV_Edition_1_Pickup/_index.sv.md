@@ -30,17 +30,17 @@ GMC Hummer EV Edition 1 Pickup levererar en häpnadsväckande maximal effekt på
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 220,0 kWh och en nettoanvändbar kapacitet på 213,0 kWh, vilket ger en buffert på 7,0 kWh (3,2%) för batteriskydd. Vid en nominell spänning på 650 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 225,0 kWh och en nettoanvändbar kapacitet på 215,0 kWh, vilket ger en buffert på 10,0 kWh (4,4%) för batteriskydd. Vid en nominell spänning på 650 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 529 km med en energiförbrukning på 40,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 529 km med en energiförbrukning på 40,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 141 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 240kW. Varje laddningssession tar 25 minuter och 59 sekunder. Denna effektiva laddningskapacitet gör GMC Hummer EV Edition 1 Pickup till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 143 minuter, medan ett vanligare scenario på 10-80 % tar 50 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 241kW. Varje laddningssession tar 25 minuter och 10 sekunder. Denna effektiva laddningskapacitet gör GMC Hummer EV Edition 1 Pickup till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 43 kWh/100 km, skulle resan ta ungefär 9 timmar och 14 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 52%, med en total laddningstid på 54 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 43 kWh/100 km, skulle resan ta ungefär 9 timmar och 13 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 51%, med en total laddningstid på 54 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 19 timmar och 21 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 19 timmar och 32 minuter med en hemmaladdare.
 
 ### Laddningsport
 
