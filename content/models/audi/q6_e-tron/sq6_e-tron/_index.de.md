@@ -338,4 +338,22 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 ## Verfügbarkeit & Preise
 
 Dieses Modell feierte seine Weltpremiere am 18.03.2024, mit erwarteten Lieferungen ab August 2024.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 949 900,00 NOK (Norwegen)
+- $72 900,00 (USA)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi SQ6 e-tron identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Mercedes EQE 53 4MATIC+ SUV](/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/)
+- [BMW iX M60](/models/bmw/ix/ix_m60/)
+- [Porsche Macan 4S](/models/porsche/macan/macan_4s/)
+
+<a href="https://db.evkx.net/evcompare?evs=899448%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q6 e-tron" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -338,4 +338,22 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 18.03.2024, og leveringer forventes at starte om August 2024.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 949 900,00 NOK (Norge)
+- $72 900,00 (USA)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Audi SQ6 e-tron, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Mercedes EQE 53 4MATIC+ SUV](/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/)
+- [BMW iX M60](/models/bmw/ix/ix_m60/)
+- [Porsche Macan 4S](/models/porsche/macan/macan_4s/)
+
+<a href="https://db.evkx.net/evcompare?evs=899448%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q6 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}
