@@ -387,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				1588 kg
+				680 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,15 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, obromsad
 			</td>
 			<td>
-				750 kg
+				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Släpvagnskopplingens maximala vikt
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -665,7 +673,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

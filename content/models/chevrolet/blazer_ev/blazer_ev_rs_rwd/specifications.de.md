@@ -403,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				680 kg (1499 lbs)
+				1588 kg (3501 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht ungebremst
 			</td>
 			<td>
-				680 kg (1499 lbs)
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Stützlast
+			</td>
+			<td>
+				159 kg (351 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -681,7 +689,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>

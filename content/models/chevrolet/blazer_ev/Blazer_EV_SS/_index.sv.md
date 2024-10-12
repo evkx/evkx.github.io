@@ -30,21 +30,23 @@ Chevrolet Blazer EV SS imponerar med en imponerande kraft på 410 kW (557 hk) oc
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 4,0 kWh (4,5%) för batteriskydd. Med en nominell spänning på 296 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 112,5 kWh och en nettoanvändbar kapacitet på 107,5 kWh, vilket ger en buffert på 5,0 kWh (4,4%) för batteriskydd. Med en nominell spänning på 355,2 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 467 km med en energiförbrukning på 18,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 467 km med en energiförbrukning på 23,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 190 kW. En full laddning från 0 - 100 % tar 150 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 114kW. Varje laddningssession tar 27 minuter och 44 sekunder.
+Maximal DC-laddningshastighet är 190 kW. En full laddning från 0 - 100 % tar 91 minuter, medan ett vanligare scenario på 10-80 % tar 48 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 103kW. Varje laddningssession tar 32 minuter och 60 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 47 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 72%, med en total laddningstid på 87 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 44 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 52%, med en total laddningstid på 85 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 23 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 20 minuter med en hemmaladdare.
 
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+
+### Bidirektionell laddning
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,11 +56,19 @@ Chevrolet Blazer EV SS har ett fyrhjulsdriftsystem som stöds av två motorer, e
 
 ### Hjulupphängning
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
+Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 200 mm.
 
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Chevrolet Blazer EV SS. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+Chevrolet Blazer EV SS låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+
+- Normal: Balanserad styrning och effektiv gaspedal.
+- Sport: Balanserad styrning och gaspedal.
+- My Mode: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 
@@ -68,9 +78,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
 
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+
 ## Exteriör
 
-Chevrolet Blazer EV SS, med dimensioner på 5067 mm i längd, 1963 mm i bredd och 1725 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Chevrolet Blazer EV SS finns i totalt 8 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
+Chevrolet Blazer EV SS, med dimensioner på 4883 mm i längd, 1982 mm i bredd och 1651 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Chevrolet Blazer EV SS finns i totalt 11 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Chevrolet Blazer EV SS, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -78,13 +90,17 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad.
 
-Det finns två olika takalternativ att välja mellan. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+
+B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="1928"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
+
+Chevrolet Blazer EV SS har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -105,12 +121,11 @@ Följande funktioner är tillgängliga på **** sätet.
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/Red [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
@@ -119,15 +134,14 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- höjdjusterbart nackstöd
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 ## Klimatsystem
 
-Två klimatsystemalternativ är tillgängliga:
+Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-- **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -137,10 +151,14 @@ Chevrolet Blazer EV SS inkluderar flera funktioner för att förbättra komfort 
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
+- **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
 
 Chevrolet Blazer EV SS har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
@@ -149,7 +167,7 @@ Viktiga skärmdetaljer:
 - Skärmen  bakom ratten på ramens vänstra sida är 11,0 tum
 - Skärmen touch på höger sida av den delade ramen är 17,7 tum
 
-Modellen är inte tillgänglig med head-up display.
+En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
@@ -157,7 +175,7 @@ Modellen är inte tillgänglig med head-up display.
 
 Chevrolet Blazer EV SS är utrustad med en enda typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ### Speglar
 
@@ -167,21 +185,37 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+Chevrolet Blazer EV SS är utrustad med ett avancerat infotainmentsystem som bygger på Android Automotive OS med Google Automotive Services, vilket möjliggör en sömlös integration av Googles appar och tjänster direkt i fordonet. Detta robusta system inkluderar inbyggt Google Maps för navigering, Google Assistant för röstkommandon och tillgång till ett brett utbud av appar via Google Play Store. Chevrolet har ytterligare förbättrat denna plattform genom att integrera sin egen uppsättning applikationer, som erbjuder omfattande bilinställningar och ytterligare funktioner anpassade för Chevrolet-körupplevelsen.
+
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
 
-### Telefon spegling
+### App store
 
-Dessutom stöder Chevrolet Blazer EV SS Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsappar för att köra dem direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- Waze
 
 ### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV SS.
 
-- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+- Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
 
 Modellen har 5 USB-C-anslutningar som standard.
+
+## Mobilapp
+
+Chevrolet Blazer EV SS kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
 
 ## Ljus
 
@@ -215,19 +249,32 @@ Chevrolet Blazer EV SS inkluderar flera [avancerade förarassistanssystem](../..
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Chevrolet Blazer EV SS erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+
+Med   nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+Med Super Cruise  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 863 liter. Med baksätena nedfällda ökar detta till 1676 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 722 liter. Med baksätena nedfällda ökar detta till 1674 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
+## Tillgänglighet och pris
+
+Denna modell hade världspremiär 17.07.2022 och leveranserna startade i November 2024.
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

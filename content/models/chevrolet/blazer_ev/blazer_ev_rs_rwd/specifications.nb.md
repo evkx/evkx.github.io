@@ -403,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				680 kg
+				1588 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt tilhenger m/brems
 			</td>
 			<td>
-				680 kg
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksvekt på tilhengerkobling
+			</td>
+			<td>
+				159 kg
 			</td>
 		</tr>
 	</tbody>
@@ -681,7 +689,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

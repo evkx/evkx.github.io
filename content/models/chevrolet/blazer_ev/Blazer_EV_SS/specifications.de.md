@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Verbrauch
 			</td>
 			<td>
-				3,4 mi/kWh
+				2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				89 kWh
+				112,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				85 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Anzahl der Module
 			</td>
 			<td>
-				10
+				12
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				296
+				355,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -250,7 +258,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Länge
 			</td>
 			<td>
-				5067 mm (199,5")
+				4883 mm (192,2")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +266,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Höhe
 			</td>
 			<td>
-				1725 mm (67,9")
+				1651 mm (65,0")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +274,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite ohne Spiegel
 			</td>
 			<td>
-				1963 mm (77,3")
+				1982 mm (78,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				2197 mm (86,5")
 			</td>
 		</tr>
 		<tr>
@@ -275,6 +291,38 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				3094 mm (121,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1674 mm (65,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1674 mm (65,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				22,7
 			</td>
 		</tr>
 		<tr>
@@ -312,10 +360,18 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Maximale Dachlast
+			</td>
+			<td>
+				100 kg (220 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Kofferraumvolumen
 			</td>
 			<td>
-				863 Liter (30 cu-ft)
+				722 Liter (25 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +379,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1676 Liter (59 cu-ft)
+				1674 Liter (59 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -340,6 +396,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Stützlast
+			</td>
+			<td>
+				159 kg (351 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -404,7 +468,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				178 mm (7,0")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +476,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				178 mm (7,0")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +673,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -642,7 +706,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -682,7 +746,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -771,7 +835,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				360-Grad-Kamera
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -811,6 +875,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Bergabfahrassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -858,6 +923,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +1012,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Head-up-Display
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +1035,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Android Auto Unterstützung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +1043,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Apple Carplay Unterstützung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

@@ -78,6 +78,8 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 [Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Le système arrête complètement la voiture en utilisant les freins à friction.
 
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+
 ## Extérieur
 
 La Chevrolet Blazer EV RS RWD, avec des dimensions de 4883 mm de longueur, 1982 mm de largeur et 1651 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Chevrolet Blazer EV RS RWD est disponible en un total de 11 couleurs de peinture, comprenant des options solides, métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
@@ -119,7 +121,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
@@ -138,10 +139,9 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 ## Système de climatisation
 
-Deux options de système de climatisation sont disponibles :
+Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-- **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -272,7 +272,7 @@ Le coffre offre une capacité de chargement de 722 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 3000 kg, avec un poids de base de 2342 kg. Cela permet une charge maximale de 658 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 680 kg, tandis que pour une remorque non freinée, il est de 680 kg.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1588 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 

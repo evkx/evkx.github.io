@@ -78,6 +78,8 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
 
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
+
 ## Exterior
 
 The Chevrolet Blazer EV RS AWD, with dimensions of 4883 mm in length, 1982 mm in width, and 1651 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Blazer EV RS AWD is available in a total of 11 paint colors, including solid, metallic, and pearlescent options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
@@ -119,7 +121,6 @@ The following functionalities are available on the **** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
 
@@ -138,10 +139,9 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 ## Climate System
 
-Two climate system options are available:
+There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -270,7 +270,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 The trunk offers a cargo capacity of 722 liters (25.5 CU FT). With the rear seat folded down, this expands to 1674 liters (59.1 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 680 kg (1499 lbs), while for an unbraked trailer, it is 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 

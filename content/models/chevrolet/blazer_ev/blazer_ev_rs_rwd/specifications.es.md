@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				680 kg
+				1588 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				680 kg
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				159 kg
 			</td>
 		</tr>
 	</tbody>
@@ -681,7 +689,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 	</tbody>

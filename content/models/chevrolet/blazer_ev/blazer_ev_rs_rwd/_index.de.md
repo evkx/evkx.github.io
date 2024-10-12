@@ -78,6 +78,8 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
 
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
+
 ## Exterieur
 
 Der Chevrolet Blazer EV RS RWD, mit Abmessungen von 4883 mm Länge, 1982 mm Breite und 1651 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der Chevrolet Blazer EV RS RWD ist in insgesamt 11 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
@@ -119,7 +121,6 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Verfügbar in:
 
@@ -138,10 +139,9 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 ## Klimaanlage
 
-Zwei Klimasystemoptionen sind verfügbar:
+Es gibt ein Klimasystem verfügbar:
 
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
-- **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
@@ -272,7 +272,7 @@ Der Kofferraum bietet ein Ladevolumen von 722 Litern (25,5 CU FT). Mit umgeklapp
 
 Das maximale Gewicht des Fahrzeugs beträgt 3000 kg (6614 lbs) bei einem Leergewicht von 2342 kg (5163 lbs). Dies ermöglicht eine maximale Zuladung von 658 kg (1451 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 680 kg (1499 lbs), während es für einen ungebremsten Anhänger 680 kg (1499 lbs) beträgt.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1588 kg (3501 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 

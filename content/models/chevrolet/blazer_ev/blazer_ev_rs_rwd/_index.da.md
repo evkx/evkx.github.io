@@ -78,6 +78,8 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Systemet stopper bilen helt ved brug af friktionsbremser.
 
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+
 ## Udvendig
 
 Den Chevrolet Blazer EV RS RWD, med dimensioner på 4883 mm i længde, 1982 mm i bredde og 1651 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Chevrolet Blazer EV RS RWD fås i alt 11 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
@@ -119,7 +121,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
@@ -138,10 +139,9 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 ## Klimasystem
 
-To klimaanlægsmuligheder er tilgængelige:
+Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-- **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -272,7 +272,7 @@ Bagagerummet har en lastekapacitet på 722 liter. Med det bageste sæde foldet n
 
 Køretøjets maksimale vægt er 3000 kg, med en basisvægt på 2342 kg. Dette giver en maksimal last på 658 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 680 kg, mens den for en ubremset trailer er 680 kg.
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1588 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 
