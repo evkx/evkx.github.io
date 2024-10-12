@@ -279,10 +279,34 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				2197 mm (86,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Radstand
 			</td>
 			<td>
 				3094 mm (121,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1674 mm (65,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1674 mm (65,9")
 			</td>
 		</tr>
 		<tr>
@@ -332,6 +356,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				2626 kg (5789 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Dachlast
+			</td>
+			<td>
+				100 kg (220 lbs)
 			</td>
 		</tr>
 		<tr>

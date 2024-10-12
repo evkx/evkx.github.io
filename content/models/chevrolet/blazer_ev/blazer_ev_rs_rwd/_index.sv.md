@@ -46,6 +46,8 @@ Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC
 
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
+### Bidirektionell laddning
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina
@@ -59,6 +61,14 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Chevrolet Blazer EV RS RWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+Chevrolet Blazer EV RS RWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+
+- Normal: Balanserad styrning och effektiv gaspedal.
+- Sport: Balanserad styrning och gaspedal.
+- My Mode: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 
@@ -175,6 +185,8 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+Chevrolet Blazer EV RS RWD är utrustad med ett avancerat infotainmentsystem som bygger på Android Automotive OS med Google Automotive Services, vilket möjliggör en sömlös integration av Googles appar och tjänster direkt i fordonet. Detta robusta system inkluderar inbyggt Google Maps för navigering, Google Assistant för röstkommandon och tillgång till ett brett utbud av appar via Google Play Store. Chevrolet har ytterligare förbättrat denna plattform genom att integrera sin egen uppsättning applikationer, som erbjuder omfattande bilinställningar och ytterligare funktioner anpassade för Chevrolet-körupplevelsen.
+
 ### Navigationssystem
 
 Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
@@ -256,11 +268,11 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 722 liter. Med baksätena nedfällda ökar detta till 1674 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 722 liter. Med baksätena nedfällda ökar detta till 1674 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 3000 kg, med en grundvikt på 2342 kg. Detta tillåter en maximal last på 658 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 680 kg, medan för en obromsad släpvagn är den 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 

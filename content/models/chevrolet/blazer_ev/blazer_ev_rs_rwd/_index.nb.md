@@ -46,6 +46,8 @@ Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lad
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
+### Toveis lading
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivverk
@@ -59,6 +61,14 @@ Chevrolet Blazer EV RS RWD har et bakhjulsdriftssystem støttet av en motor på 
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på Chevrolet Blazer EV RS RWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
+### Kjøremoduser
+
+Chevrolet Blazer EV RS RWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
+
+- Normal: Balansert styring og effektiv gasspedal.
+- Sport: Balansert styring og gasspedal.
+- My Mode: Brukerdefinerte innstillinger for styring og gasspådrag.
 
 ### Bremser
 
@@ -175,6 +185,8 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Chevrolet Blazer EV RS RWD er utstyrt med et avansert infotainmentsystem som kjører på Android Automotive OS med Google Automotive Services, som gir en sømløs integrasjon av Google-apper og -tjenester direkte i kjøretøyet. Dette robuste systemet inkluderer innebygd Google Maps for navigasjon, Google Assistant for talekommandoer, og tilgang til et bredt spekter av apper via Google Play Store. Chevrolet har ytterligere forbedret denne plattformen ved å integrere sin egen suite av applikasjoner, som gir omfattende bilinnstillinger og tilleggsegenskaper skreddersydd for Chevrolet kjøreopplevelse.
+
 ### Navigasjonssystem
 
 Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
@@ -256,11 +268,11 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 722 liter. Med baksetene nedfelt, utvides dette til 1674 liter.
+Bagasjerommet tilbyr en lastekapasitet på 722 liter. Med baksetene nedfelt, utvides dette til 1674 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 3000 kg, med en basisvekt på 2342 kg. Dette gir en maksimal lastekapasitet på 658 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1588 kg, mens for en ubremset tilhenger er det 750 kg.
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 680 kg, mens for en ubremset tilhenger er det 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 

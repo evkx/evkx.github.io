@@ -46,6 +46,8 @@ El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y N
 
 La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
+### Carga bidireccional
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión
@@ -59,6 +61,14 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Chevrolet Blazer EV RS RWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
+### Modos de conducción
+
+El Chevrolet Blazer EV RS RWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
+
+- Normal: Dirección equilibrada y acelerador eficiente.
+- Sport: Dirección y acelerador equilibrados.
+- My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 
@@ -175,6 +185,8 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+El Chevrolet Blazer EV RS RWD cuenta con un avanzado sistema de infoentretenimiento basado en Android Automotive OS con Google Automotive Services, lo que permite una integración fluida de las aplicaciones y servicios de Google directamente en el vehículo. Este robusto sistema incluye Google Maps integrado para la navegación, Google Assistant para comandos de voz y acceso a una amplia gama de aplicaciones a través de Google Play Store. Chevrolet ha mejorado aún más esta plataforma integrando su propia suite de aplicaciones, que ofrecen configuraciones completas del vehículo y funciones adicionales diseñadas para la experiencia de conducción de Chevrolet.
+
 ### Sistema de navegación
 
 El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
@@ -256,11 +268,11 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 722 litros. Con el asiento trasero plegado, esto se expande a 1674 litros.
+El maletero ofrece una capacidad de carga de 722 litros. Con el asiento trasero plegado, esto se expande a 1674 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 3000 kg, con un peso base de 2342 kg. Esto permite una carga máxima de 658 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1588 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 680 kg, mientras que para un tráiler sin freno es de 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 

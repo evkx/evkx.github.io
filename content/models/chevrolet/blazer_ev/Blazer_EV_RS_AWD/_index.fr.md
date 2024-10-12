@@ -46,6 +46,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge C
 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
+### Recharge bidirectionnelle
+
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission
@@ -56,9 +58,21 @@ Chevrolet Blazer EV RS AWD dispose d'un système de transmission intégrale pris
 
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 200 mm.
 
+### Pilotage
+
+La direction dynamique est une fonctionnalité un standard sur le Chevrolet Blazer EV RS AWD. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+
+### Modes de conduite
+
+Le Chevrolet Blazer EV RS AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
+
+- Normal: Direction équilibrée et accélérateur efficace.
+- Sport: Direction et accélérateur équilibrés.
+- My Mode : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 314 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 345 mm.
 
 ### Freinage régénératif
 
@@ -171,6 +185,8 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+La Chevrolet Blazer EV RS AWD est équipée d'un système d'infodivertissement avancé basé sur Android Automotive OS avec Google Automotive Services, offrant une intégration transparente des applications et services Google directement dans le véhicule. Ce système robuste comprend Google Maps intégré pour la navigation, Google Assistant pour les commandes vocales et un accès à une large gamme d'applications via le Google Play Store. Chevrolet a également amélioré cette plateforme en intégrant sa propre suite d'applications, offrant des réglages complets du véhicule et des fonctionnalités supplémentaires adaptées à l'expérience de conduite Chevrolet.
+
 ### Système de navigation
 
 Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
@@ -252,7 +268,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 722 litres. Avec les sièges arrière rabattus, cette capacité passe à 1674 litres.
+Le coffre offre une capacité de chargement de 722 litres. Avec les sièges arrière rabattus, cette capacité passe à 1674 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1588 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
@@ -261,4 +277,21 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 17.07.2022 et les livraisons ont commencé en August 2023. Ce modèle est uniquement disponible en Amérique du Nord.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- $54 295,00 (États-Unis)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Chevrolet Blazer EV RS AWD qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=31cf92%2ca1c57c%2cad3cd5%2cbf704f" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Plage" >}}

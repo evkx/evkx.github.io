@@ -46,6 +46,8 @@ The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging.
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -59,6 +61,14 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 ### Steering
 
 Dynamic steering is a standard on the Chevrolet Blazer EV RS RWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Chevrolet Blazer EV RS RWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Normal: Balanced steering and efficent throttle.
+- Sport: Balanced steering and throttle.
+- My Mode: User-defined settings for steering and throttle.
 
 ### Brakes
 
@@ -175,6 +185,8 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Chevrolet Blazer EV RS RWD features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Chevrolet has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Chevrolet driving experience.
+
 ### Navigation System
 
 The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
@@ -256,11 +268,11 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 722 liters (25.5 CU FT). With the rear seat folded down, this expands to 1674 liters (59.1 CU FT).
+The trunk offers a cargo capacity of 722 liters (25.5 CU FT). With the rear seat folded down, this expands to 1674 liters (59.1 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3000 kg (6614 lbs), with a base weight of 2342 kg (5163 lbs). This allows for a maximum load of 658 kg (1451 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 680 kg (1499 lbs), while for an unbraked trailer, it is 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2001"  >}}
 

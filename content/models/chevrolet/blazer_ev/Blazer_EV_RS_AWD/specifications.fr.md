@@ -279,10 +279,34 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur incluant les miroirs
+			</td>
+			<td>
+				2197 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Empattement
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de la voie avant
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de voie arrière
+			</td>
+			<td>
+				1674 mm
 			</td>
 		</tr>
 		<tr>
@@ -332,6 +356,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				2626 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Faire du chargement sur le toit
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>

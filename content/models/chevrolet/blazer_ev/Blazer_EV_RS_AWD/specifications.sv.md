@@ -279,10 +279,34 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bredd inklusive speglar
+			</td>
+			<td>
+				2197 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Axelavstånd
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd fram
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1674 mm
 			</td>
 		</tr>
 		<tr>
@@ -332,6 +356,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				2626 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten taklast
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>

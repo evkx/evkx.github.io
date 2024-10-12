@@ -279,10 +279,34 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2197 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Distancia entre ejes
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1674 mm
 			</td>
 		</tr>
 		<tr>
@@ -332,6 +356,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				2626 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hace carga en el techo
+			</td>
+			<td>
+				100 kg
 			</td>
 		</tr>
 		<tr>

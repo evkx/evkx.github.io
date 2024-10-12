@@ -295,6 +295,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1674 mm (65,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1674 mm (65,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Überhangwinkel vorne
 			</td>
 			<td>
@@ -360,6 +376,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Maximale Dachlast
+			</td>
+			<td>
+				100 kg (220 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Kofferraumvolumen
 			</td>
 			<td>
@@ -379,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				1588 kg (3501 lbs)
+				680 kg (1499 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +411,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht ungebremst
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				680 kg (1499 lbs)
 			</td>
 		</tr>
 	</tbody>

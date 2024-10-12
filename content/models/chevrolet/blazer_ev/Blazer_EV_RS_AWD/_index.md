@@ -46,6 +46,8 @@ The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging.
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -56,9 +58,21 @@ The Chevrolet Blazer EV RS AWD features an all-wheel drive system powered by two
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm.
 
+### Steering
+
+Dynamic steering is a standard on the Chevrolet Blazer EV RS AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Chevrolet Blazer EV RS AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Normal: Balanced steering and efficent throttle.
+- Sport: Balanced steering and throttle.
+- My Mode: User-defined settings for steering and throttle.
+
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -171,6 +185,8 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Chevrolet Blazer EV RS AWD features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Chevrolet has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Chevrolet driving experience.
+
 ### Navigation System
 
 The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
@@ -252,7 +268,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 722 liters (25.5 CU FT). With the rear seat folded down, this expands to 1674 liters (59.1 CU FT).
+The trunk offers a cargo capacity of 722 liters (25.5 CU FT). With the rear seat folded down, this expands to 1674 liters (59.1 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
@@ -261,4 +277,21 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The Chevrolet Blazer EV RS AWD had its world premiere on 17.07.2022, with deliveries starting in August 2023. Please note that this model is available exclusively in North America.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $54 295,00 (USA)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Chevrolet Blazer EV RS AWD that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=31cf92%2ca1c57c%2cad3cd5%2cbf704f" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Range" >}}

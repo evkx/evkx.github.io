@@ -46,6 +46,8 @@ Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-
 
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
+### Bidirektionel opladning
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -56,9 +58,21 @@ Chevrolet Blazer EV RS AWD har et firehjulstræk, der understøttes af to motore
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 200 mm.
 
+### Styring
+
+Dynamisk styring er en standard-funktion på Chevrolet Blazer EV RS AWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
+### Køretilstande
+
+Chevrolet Blazer EV RS AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
+
+- Normal: Afbalanceret styring og effektiv speeder.
+- Sport: Afbalanceret styring og speeder.
+- My Mode: Brugerdefinerede indstillinger for styring og speeder.
+
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 314mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 321mm, og de bagerste skiver er 345mm.
 
 ### Regenerativ bremsning
 
@@ -171,6 +185,8 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+Chevrolet Blazer EV RS AWD er udstyret med et avanceret infotainmentsystem, der kører på Android Automotive OS med Google Automotive Services, hvilket giver en problemfri integration af Google-apps og -tjenester direkte i bilen. Dette robuste system inkluderer indbygget Google Maps til navigation, Google Assistant til stemmekommandoer og adgang til et bredt udvalg af apps via Google Play Store. Chevrolet har yderligere forbedret denne platform ved at integrere deres egen suite af applikationer, der giver omfattende bilindstillinger og yderligere funktioner skræddersyet til Chevrolet-køreoplevelsen.
+
 ### Navigationssystem
 
 Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
@@ -252,7 +268,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 722 liter. Med det bageste sæde foldet ned, udvides dette til 1674 liter.
+Bagagerummet har en lastekapacitet på 722 liter. Med det bageste sæde foldet ned, udvides dette til 1674 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1588 kg, mens den for en ubremset trailer er 750 kg.
 
@@ -261,4 +277,21 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 17.07.2022, og leveringerne startede i August 2023. Denne model er kun tilgængelig i Nordamerika.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- $54 295,00 (USA)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Chevrolet Blazer EV RS AWD, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=31cf92%2ca1c57c%2cad3cd5%2cbf704f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Range" >}}
