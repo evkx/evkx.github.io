@@ -96,6 +96,8 @@ Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
+Der VinFast VF8 Plus bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der VinFast VF8 Plus bietet nur einen Typ von Vordersitz.

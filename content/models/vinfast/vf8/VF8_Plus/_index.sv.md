@@ -96,6 +96,8 @@ Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
+VinFast VF8 Plus rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 VinFast VF8 Plus erbjuder endast en typ av framsäte.

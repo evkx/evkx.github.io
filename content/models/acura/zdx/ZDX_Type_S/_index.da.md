@@ -84,6 +84,8 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 ### Sæder
 
+Acura ZDX Type S har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Acura ZDX Type S tilbyder kun én type forreste sæde.

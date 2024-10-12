@@ -91,6 +91,8 @@ Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
+Le Honda Prologue AWD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Honda Prologue AWD propose un seul type de siège avant.

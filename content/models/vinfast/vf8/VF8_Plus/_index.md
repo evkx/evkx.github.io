@@ -96,6 +96,8 @@ You can choose between several interior designs.
 
 ### Seats
 
+The VinFast VF8 Plus accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The VinFast VF8 Plus offers a single type of front seat.

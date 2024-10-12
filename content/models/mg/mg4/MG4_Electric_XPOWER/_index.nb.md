@@ -84,6 +84,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+MG MG4 Electric XPOWER har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 MG MG4 Electric XPOWER Long Range tilbyr kun én type forsete.

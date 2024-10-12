@@ -93,6 +93,8 @@ Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
+Seres 5 4WD Premium rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Seres 5 4WD Premium erbjuder endast en typ av framsäte.

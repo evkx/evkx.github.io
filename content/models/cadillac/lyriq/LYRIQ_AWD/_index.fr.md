@@ -84,6 +84,8 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 ### Sièges
 
+Le Cadillac LYRIQ AWD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Cadillac LYRIQ AWD propose un seul type de siège avant.

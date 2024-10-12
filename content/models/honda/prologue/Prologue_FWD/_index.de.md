@@ -90,6 +90,8 @@ Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
+Der Honda Prologue FWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Honda Prologue FWD bietet nur einen Typ von Vordersitz.

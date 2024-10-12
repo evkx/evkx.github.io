@@ -84,6 +84,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+MG MG4 Electric Standard har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 MG MG4 Electric Standard tilbyder kun én type forreste sæde.

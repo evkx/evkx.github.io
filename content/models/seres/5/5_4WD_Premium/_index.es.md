@@ -93,6 +93,8 @@ Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
+El Seres 5 4WD Premium tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Seres 5 4WD Premium ofrece un único tipo de asiento delantero.

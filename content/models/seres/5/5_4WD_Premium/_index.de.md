@@ -93,6 +93,8 @@ Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
+Der Seres 5 4WD Premium bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Seres 5 4WD Premium bietet nur einen Typ von Vordersitz.

@@ -158,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				330
+				296
 			</td>
 		</tr>
 	</tbody>
@@ -468,6 +468,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -520,7 +521,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Función eléctrica estándar
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +529,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +537,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +545,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +577,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +585,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +650,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +658,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +666,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +674,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +690,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +698,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +706,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +714,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -754,6 +755,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -785,6 +787,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -792,6 +795,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -799,6 +803,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -821,6 +826,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +842,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +850,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +865,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +873,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -871,6 +881,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +897,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -893,6 +905,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -900,6 +913,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

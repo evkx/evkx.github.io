@@ -91,6 +91,8 @@ Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
+Honda Prologue AWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Honda Prologue AWD erbjuder endast en typ av framsäte.

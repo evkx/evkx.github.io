@@ -84,6 +84,8 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach hat ein gro
 
 ### Sitze
 
+Der Acura ZDX Type S bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Acura ZDX Type S bietet nur einen Typ von Vordersitz.

@@ -84,6 +84,8 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
+The MG MG4 Electric Standard accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The MG MG4 Electric Standard offers a single type of front seat.

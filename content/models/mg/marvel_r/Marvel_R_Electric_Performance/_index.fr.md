@@ -86,6 +86,8 @@ Vous pouvez choisir entre différents types de matériaux de siège et de style 
 
 ### Sièges
 
+Le MG Marvel R Electric Performance peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le MG Marvel R Electric Performance propose un seul type de siège avant.

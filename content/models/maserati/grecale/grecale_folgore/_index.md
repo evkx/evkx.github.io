@@ -103,6 +103,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
+The Maserati Grecale Folgore accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Maserati Grecale Folgore offers a single type of front seat.

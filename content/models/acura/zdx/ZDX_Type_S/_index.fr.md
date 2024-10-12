@@ -84,6 +84,8 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 ### Sièges
 
+Le Acura ZDX Type S peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Acura ZDX Type S propose un seul type de siège avant.

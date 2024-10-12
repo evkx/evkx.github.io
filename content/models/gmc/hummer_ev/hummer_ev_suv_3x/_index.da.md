@@ -30,7 +30,7 @@ GMC Hummer EV SUV 3x leverer en imponerende maksimal effekt på 619 KW (842 hk) 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 225,0 kWh og en nettoanvendelig kapacitet på 215,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 225,0 kWh og en nettoanvendelig kapacitet på 215,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 505 km med en energiforbrugsrate på 42,6 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

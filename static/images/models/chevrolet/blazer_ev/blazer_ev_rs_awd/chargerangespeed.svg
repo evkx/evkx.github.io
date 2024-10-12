@@ -12,8 +12,8 @@
 <path d="M 30  1034 40  1020 50  1007 60  994 70  980 80  967 90  954 100  940 110  927 120  914 130  900 140  900 150  899 160  899 170  898 180  898 190  897 200  896 210  898 220  899 230  900 240  901 250  903 260  904 270  905 280  906 290  907 300  909 310  910 320  912 330  915 340  918 350  920 360  923 370  926 380  928 390  931 400  934 410  936 420  938 430  939 440  940 450  940 460  941 470  942 480  942 490  943 500  944 510  944 520  945 530  946 540  946 550  947 560  948 570  949 580  950 590  952 600  953 610  954 620  974 630  995 640  1015 650  1023 660  1024 670  1026 680  1027 690  1028 700  1021 710  1014 720  1007 730  1000 740  999 750  997 760  995 770  994 780  995 790  996 800  998 810  1003 820  1008 830  1014 840  1017 850  1020 860  1023 870  1026 880  1029 890  1032 900  1035 910  1038 920  1041 930  1044 940  1047 950  1050 960  1053 970  1056 980  1059 990  1062 1000  1065 1010  1068 1020  1071 1030  1074 " fill="none" stroke="rgb(155, 89, 182)" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 750 180 L 800 180" fill="none" stroke="rgb(155, 89, 182)" stroke-miterlimit="10" pointer-events="stroke"/><text x="910" y="184" fill="rgb(155, 89, 182)" font-family="Helvetica" font-size="12px" text-anchor="middle">
  120km/h 25 kWh/100km (2,5 mi/kWh) 
         </text>
-<path d="M 30  1012 40  995 50  977 60  959 70  942 80  924 90  906 100  889 110  871 120  854 130  836 140  835 150  834 160  834 170  833 180  832 190  831 200  831 210  832 220  834 230  835 240  837 250  839 260  840 270  842 280  843 290  845 300  847 310  848 320  852 330  855 340  859 350  862 360  866 370  869 380  873 390  877 400  880 410  884 420  885 430  887 440  888 450  889 460  890 470  891 480  892 490  892 500  893 510  894 520  895 530  896 540  896 550  897 560  899 570  900 580  902 590  903 600  905 610  906 620  934 630  961 640  988 650  998 660  1000 670  1002 680  1003 690  1005 700  996 710  987 720  977 730  968 740  966 750  964 760  962 770  959 780  961 790  963 800  965 810  972 820  979 830  986 840  990 850  994 860  998 870  1002 880  1006 890  1010 900  1014 910  1018 920  1022 930  1026 940  1030 950  1033 960  1037 970  1041 980  1045 990  1049 1000  1053 1010  1057 1020  1061 1030  1065 " fill="none" stroke="rgb(51, 161, 253)" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 750 90 L 800 90" fill="none" stroke="rgb(51, 161, 253)" stroke-miterlimit="10" pointer-events="stroke"/><text x="910" y="94" fill="rgb(51, 161, 253)" font-family="Helvetica" font-size="12px" text-anchor="middle">
- EPA 18,9 kWh/100km (3,3 mi/kWh) 
+<path d="M 30  1016 40  999 50  983 60  966 70  949 80  932 90  915 100  898 110  882 120  865 130  848 140  847 150  847 160  846 170  845 180  844 190  844 200  843 210  844 220  846 230  848 240  849 250  851 260  852 270  854 280  855 290  857 300  858 310  860 320  863 330  866 340  870 350  873 360  877 370  880 380  883 390  887 400  890 410  893 420  895 430  897 440  898 450  898 460  899 470  900 480  901 490  902 500  903 510  904 520  904 530  905 540  905 550  907 560  908 570  910 580  911 590  912 600  914 610  915 620  941 630  967 640  993 650  1003 660  1005 670  1006 680  1008 690  1010 700  1001 710  992 720  983 730  974 740  972 750  970 760  968 770  966 780  968 790  969 800  971 810  978 820  984 830  991 840  995 850  999 860  1002 870  1006 880  1010 890  1014 900  1018 910  1021 920  1025 930  1029 940  1033 950  1037 960  1040 970  1044 980  1048 990  1052 1000  1055 1010  1059 1020  1063 1030  1067 " fill="none" stroke="rgb(51, 161, 253)" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 750 90 L 800 90" fill="none" stroke="rgb(51, 161, 253)" stroke-miterlimit="10" pointer-events="stroke"/><text x="910" y="94" fill="rgb(51, 161, 253)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+ EPA 19,8 kWh/100km (3,1 mi/kWh) 
         </text>
  <rect x="1086" y="887" width="100" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
@@ -359,13 +359,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1147px; margin-left: 57px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging range per min for Chevrolet Blazer EV RS AWD 89 kWh
+                                EVKX.net - Charging range per min for Chevrolet Blazer EV RS AWD 93 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="616" y="1156" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging range per min for Chevrolet Blazer EV RS AWD 89 kWh
+                    EVKX.net - Charging range per min for Chevrolet Blazer EV RS AWD 93 kWh
                 </text>
             </switch>
         </g>

@@ -86,6 +86,8 @@ Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du ka
 
 ### Sæder
 
+MG Marvel R Electric Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 MG Marvel R Electric Performance tilbyder kun én type forreste sæde.

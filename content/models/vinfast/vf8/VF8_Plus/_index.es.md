@@ -96,6 +96,8 @@ Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
+El VinFast VF8 Plus tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El VinFast VF8 Plus ofrece un único tipo de asiento delantero.

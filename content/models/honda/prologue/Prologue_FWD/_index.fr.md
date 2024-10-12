@@ -90,6 +90,8 @@ Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
+Le Honda Prologue FWD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Honda Prologue FWD propose un seul type de siège avant.

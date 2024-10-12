@@ -93,6 +93,8 @@ Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
+Seres 5 4WD Premium har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Seres 5 4WD Premium tilbyder kun én type forreste sæde.

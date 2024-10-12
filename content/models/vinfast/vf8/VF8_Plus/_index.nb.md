@@ -96,6 +96,8 @@ Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
+VinFast VF8 Plus har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 VinFast VF8 Plus Long Range tilbyr kun én type forsete.

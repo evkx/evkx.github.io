@@ -103,6 +103,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ### Seter
 
+Maserati Grecale Folgore har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Maserati Grecale Folgore Long Range tilbyr kun én type forsete.

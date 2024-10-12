@@ -96,6 +96,8 @@ Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
+VinFast VF8 Plus har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 VinFast VF8 Plus tilbyder kun én type forreste sæde.

@@ -84,6 +84,8 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 ### Seter
 
+Cadillac LYRIQ AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Cadillac LYRIQ AWD Long Range tilbyr kun én type forsete.

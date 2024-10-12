@@ -96,6 +96,8 @@ Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
+Le VinFast VF8 Plus peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le VinFast VF8 Plus propose un seul type de siège avant.

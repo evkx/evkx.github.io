@@ -84,6 +84,8 @@ There are two different roof options to select from. The standard roof has a lar
 
 ### Seats
 
+The Acura ZDX Type S accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Acura ZDX Type S offers a single type of front seat.

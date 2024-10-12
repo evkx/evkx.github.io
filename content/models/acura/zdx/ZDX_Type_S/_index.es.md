@@ -84,6 +84,8 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 ### Asientos
 
+El Acura ZDX Type S tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Acura ZDX Type S ofrece un único tipo de asiento delantero.

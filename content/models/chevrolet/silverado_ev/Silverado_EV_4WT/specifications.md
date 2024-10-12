@@ -166,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
-				NMC
+				NCMA
 			</td>
 		</tr>
 	</tbody>

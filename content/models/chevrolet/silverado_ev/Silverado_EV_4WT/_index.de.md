@@ -30,7 +30,7 @@ Der Chevrolet Silverado EV 4WT liefert eine solide Leistung mit einer maximalen 
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 225,0 kWh und eine nutzbare Nettokapazität von 215,0 kWh, was einen Puffer von 10,0 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 225,0 kWh und eine nutzbare Nettokapazität von 215,0 kWh, was einen Puffer von 10,0 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
 Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 450 Meilen (724 km) mit einem Energieverbrauch von 2,1 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 

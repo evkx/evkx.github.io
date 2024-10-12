@@ -103,6 +103,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
+El Maserati Grecale Folgore tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Maserati Grecale Folgore ofrece un único tipo de asiento delantero.

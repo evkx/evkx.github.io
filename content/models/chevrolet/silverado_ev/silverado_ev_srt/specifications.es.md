@@ -166,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Materiales del cátodo
 			</td>
 			<td>
-				NMC
+				NCMA
 			</td>
 		</tr>
 	</tbody>

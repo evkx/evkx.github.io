@@ -30,17 +30,17 @@ Der Chevrolet Blazer EV RS AWD liefert eine solide Leistung mit einer maximalen 
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 89,0 kWh und eine nutzbare Nettokapazität von 85,0 kWh, was einen Puffer von 4,0 kWh (4,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 288 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 93,0 kWh und eine nutzbare Nettokapazität von 89,0 kWh, was einen Puffer von 4,0 kWh (4,3%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 296 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 279 Meilen (449 km) mit einem Energieverbrauch von 3,3 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 279 Meilen (449 km) mit einem Energieverbrauch von 3,1 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 150 kW. Das Laden von 0% auf 100% dauert etwa 72 Minuten, während ein typischer Ladevorgang von 10% auf 80% 38 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 95 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 58%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 99 kW, wobei jede Ladesitzung etwa 27 Minuten und 50 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 150 kW. Das Laden von 0% auf 100% dauert etwa 76 Minuten, während ein typischer Ladevorgang von 10% auf 80% 39 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 95 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 58%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 100 kW, wobei jede Ladesitzung etwa 28 Minuten und 52 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 10 Stunden und 1 Minuten dauern. Diese Reise würde vier Ladestopps von 6% auf 55% erfordern, mit einer gesamten Ladezeit von 101 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 9 Stunden und 59 Minuten dauern. Diese Reise würde vier Ladestopps von 6% auf 52% erfordern, mit einer gesamten Ladezeit von 99 Minuten.
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 23 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 44 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -54,7 +54,7 @@ Der Chevrolet Blazer EV RS AWD verfügt über ein Allradantriebssystem, das von 
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 178 mm.
+Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 200 mm.
 
 ### Bremsen
 
@@ -66,7 +66,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ## Exterieur
 
-Der Chevrolet Blazer EV RS AWD, mit Abmessungen von 5067 mm Länge, 1963 mm Breite und 1725 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Chevrolet Blazer EV RS AWD ist in insgesamt 8 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen.
+Der Chevrolet Blazer EV RS AWD, mit Abmessungen von 4883 mm Länge, 1982 mm Breite und 1651 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der Chevrolet Blazer EV RS AWD ist in insgesamt 11 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Chevrolet Blazer EV RS AWD erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -74,7 +74,9 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben.
 
-Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können. Optional können Sie dieses Modell mit einem Panoramadach bestellen, das geöffnet werden kann. Das Glas hat zwei Paneele. Eines über der ersten und eines über der zweiten Reihe, und die Insassen können den vorderen Teil öffnen. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas erstreckt sich über den größten Teil des Dachs und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/exterior_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="1928"  >}}
 
@@ -82,7 +84,11 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach hat ein gro
 
 ## Interieur
 
+Der Chevrolet Blazer EV RS AWD verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet. Sie können zwischen mehreren Innenraumdesigns wählen.
+
 ### Sitze
+
+Der Chevrolet Blazer EV RS AWD bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 
@@ -93,8 +99,10 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
-- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
@@ -102,7 +110,7 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 Verfügbar in:
 
 - Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- Gray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black/Red [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -111,6 +119,8 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 ## Klimaanlage
 
@@ -127,10 +137,14 @@ Der Chevrolet Blazer EV RS AWD umfasst mehrere Funktionen, um Komfort und Bequem
 
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
+- **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des Chevrolet Blazer EV RS AWD kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
 
 Der Chevrolet Blazer EV RS AWD hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -139,7 +153,7 @@ Wichtige Bildschirmdetails:
 - Der -Bildschirm hinter dem Lenkrad auf der linken Seite des Rahmens ist 11,0 Zoll groß.
 - Der touch-Bildschirm auf der rechten Seite des gemeinsamen Rahmens ist 17,7 Zoll groß.
 
-Das Modell verfügt nicht über ein Head-up-Display.
+Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -147,7 +161,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Chevrolet Blazer EV RS AWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -159,19 +173,33 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
-### Telefonspiegelung
+### App Store
 
-Der Chevrolet Blazer EV RS AWD unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- Waze
 
 ### Soundsystem
 
 Der Chevrolet Blazer EV RS AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Lyric sound system:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Chevrolet sound system:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
+
+## Mobile App
+
+Der Chevrolet Blazer EV RS AWD wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Ladeziel anpassen:** Stellen Sie Ihren gewünschten Ladezustand ein, um das Laden nach Bedarf zu starten oder zu stoppen.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+- **Routenplanung:** Planen Sie Ihre Route und senden Sie sie direkt an das Navigationssystem Ihres Autos.
 
 ## Lichter
 
@@ -187,11 +215,17 @@ Der Chevrolet Blazer EV RS AWD verfügt über eine Reihe von standardmäßigen u
 
 ### Sicherheitssysteme
 
+[**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im Chevrolet Blazer EV RS AWD, dieses System verhindert das Blockieren der Räder beim Bremsen.
+
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im Chevrolet Blazer EV RS AWD, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
+
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Chevrolet Blazer EV RS AWD, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Optional im Chevrolet Blazer EV RS AWD, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
 
 [**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Chevrolet Blazer EV RS AWD, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Chevrolet Blazer EV RS AWD, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Chevrolet Blazer EV RS AWD, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
@@ -199,16 +233,26 @@ Der Chevrolet Blazer EV RS AWD verfügt über eine Reihe von standardmäßigen u
 
 ### Fahrautomatisierung
 
-Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Der Chevrolet Blazer EV RS AWD bietet [Fahrautomatisierung
+
+Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+Mit dem Super Cruise  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 863 Litern (30,5 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1676 Liter (59,2 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 722 Litern (25,5 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1674 Liter (59,1 CU FT).
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1588 kg (3501 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
@@ -216,5 +260,5 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-
+Der Chevrolet Blazer EV RS AWD feierte seine Weltpremiere am 17.07.2022, mit Lieferungen ab August 2023. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
 {{< pagenavigation b_url="../" b_title="Chevrolet Blazer EV" f_url="rangeandconsumption/" f_title="Reichweite" >}}

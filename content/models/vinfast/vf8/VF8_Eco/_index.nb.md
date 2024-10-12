@@ -94,6 +94,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ### Seter
 
+VinFast VF8 Eco har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 VinFast VF8 Eco Long Range tilbyr kun én type forsete.

@@ -166,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Katodmaterial
 			</td>
 			<td>
-				NMC
+				NCMA
 			</td>
 		</tr>
 	</tbody>

@@ -86,6 +86,8 @@ Du kan v채lja mellan olika typer av sitsmaterial och inredningsstilar. Du kan v�
 
 ### S채ten
 
+MG Marvel R Electric Performance rymmer fem passagerare med tv책 s채ten fram och en tre-sitsig b채nk bak.
+
 #### Frams채ten
 
 MG Marvel R Electric Performance erbjuder endast en typ av frams채te.

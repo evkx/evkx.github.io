@@ -90,6 +90,8 @@ Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
+Honda Prologue FWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Honda Prologue FWD erbjuder endast en typ av framsäte.

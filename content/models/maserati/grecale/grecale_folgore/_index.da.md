@@ -103,6 +103,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
+Maserati Grecale Folgore har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Maserati Grecale Folgore tilbyder kun én type forreste sæde.

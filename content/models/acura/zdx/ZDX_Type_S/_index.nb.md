@@ -84,6 +84,8 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 ### Seter
 
+Acura ZDX Type S har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Acura ZDX Type S Long Range tilbyr kun én type forsete.

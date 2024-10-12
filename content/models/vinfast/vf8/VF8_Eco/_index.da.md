@@ -94,6 +94,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ### Sæder
 
+VinFast VF8 Eco har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 VinFast VF8 Eco tilbyder kun én type forreste sæde.

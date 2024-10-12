@@ -90,6 +90,8 @@ Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
+Honda Prologue FWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Honda Prologue FWD Long Range tilbyr kun én type forsete.

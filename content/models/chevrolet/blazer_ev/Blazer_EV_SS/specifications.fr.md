@@ -158,7 +158,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				330
+				296
 			</td>
 		</tr>
 	</tbody>
@@ -468,6 +468,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Intérieur
 
+Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
@@ -520,7 +521,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonction électrique standard
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +529,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Mémoire
 			</td>
 			<td>
-				Inconnu
+				Conducteur standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +537,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +545,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +577,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +585,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +650,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +658,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +666,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +674,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +690,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +698,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +706,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +714,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -754,6 +755,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -785,6 +787,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -792,6 +795,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -799,6 +803,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -821,6 +826,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Système de freinage antiblocage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +842,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Assistance au freinage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +850,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle de traction
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +865,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de collision avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +873,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle électronique de stabilité
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -871,6 +881,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +897,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -893,6 +905,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -900,6 +913,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

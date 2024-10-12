@@ -84,6 +84,8 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 ### Asientos
 
+El Cadillac OPTIQ AWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Cadillac OPTIQ AWD ofrece un único tipo de asiento delantero.

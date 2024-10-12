@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo EPA
 			</td>
 			<td>
-				3,3 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				89 kWh
+				112,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				85 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Número de módulos
 			</td>
 			<td>
-				10
+				12
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				330
+				355,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -271,10 +279,34 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2197 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Distancia entre ejes
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				22,7
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2536 kg
+				2342 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				464 kg
+				658 kg
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				178 mm
+				194 mm
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +460,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				178 mm
+				194 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,6 +516,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -536,7 +569,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Función eléctrica estándar
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +577,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +585,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +593,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +625,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +633,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +690,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +698,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +706,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +714,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +722,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +730,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +738,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +746,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +754,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +762,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -770,6 +803,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -785,7 +819,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Cámara 360
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -801,6 +835,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -808,6 +843,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -815,6 +851,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +859,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -837,6 +875,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -852,6 +891,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +899,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -866,6 +907,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +923,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -888,6 +931,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -903,6 +947,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +955,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +963,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +1019,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Android Auto
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +1027,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Apple Carplay
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>

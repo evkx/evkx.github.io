@@ -86,6 +86,8 @@ Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior
 
 ### Asientos
 
+El MG Marvel R Electric tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El MG Marvel R Electric ofrece un único tipo de asiento delantero.

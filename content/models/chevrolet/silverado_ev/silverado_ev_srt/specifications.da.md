@@ -166,7 +166,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Katodematerialer
 			</td>
 			<td>
-				NMC
+				NCMA
 			</td>
 		</tr>
 	</tbody>

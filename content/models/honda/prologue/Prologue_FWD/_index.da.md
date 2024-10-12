@@ -90,6 +90,8 @@ Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
+Honda Prologue FWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Honda Prologue FWD tilbyder kun én type forreste sæde.

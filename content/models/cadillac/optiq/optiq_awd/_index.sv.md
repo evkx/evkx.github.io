@@ -84,6 +84,8 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 ### Säten
 
+Cadillac OPTIQ AWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Cadillac OPTIQ AWD erbjuder endast en typ av framsäte.

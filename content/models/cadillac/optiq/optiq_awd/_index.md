@@ -84,6 +84,8 @@ There are two different roof options to select from. The standard roof has a lar
 
 ### Seats
 
+The Cadillac OPTIQ AWD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Cadillac OPTIQ AWD offers a single type of front seat.

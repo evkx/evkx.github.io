@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				3,3 mi/kWh
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				89 kWh
+				93 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				85 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				288
+				296
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
-				NCM
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5067 mm (199,5")
+				4883 mm (192,2")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1725 mm (67,9")
+				1651 mm (65,0")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1963 mm (77,3")
+				1982 mm (78,0")
 			</td>
 		</tr>
 		<tr>
@@ -283,6 +283,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				3094 mm (121,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				19,1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				23
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				863 liter (30 cu-ft)
+				722 liter (25 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1676 liter (59 cu-ft)
+				1674 liter (59 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				178 mm (7,0")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				178 mm (7,0")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -476,6 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
@@ -528,7 +545,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard electric feature
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +553,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Memory
 			</td>
 			<td>
-				Unknown
+				Standard driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +561,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +569,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +601,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +609,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +666,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +674,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +682,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +690,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +698,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +706,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +714,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +722,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +730,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +738,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -762,6 +779,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -777,7 +795,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -793,6 +811,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -800,6 +819,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -807,6 +827,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -814,6 +835,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Hill descent assist
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +851,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -844,6 +867,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +875,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Traction control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -858,6 +883,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Left turn crash avoidance
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -865,6 +891,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +899,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -879,6 +907,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +923,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -901,6 +931,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -908,6 +939,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -940,7 +972,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Head-up display
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -963,7 +995,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -971,7 +1003,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

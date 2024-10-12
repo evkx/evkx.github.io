@@ -90,6 +90,8 @@ You can choose between several interior designs.
 
 ### Seats
 
+The Honda Prologue FWD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Honda Prologue FWD offers a single type of front seat.

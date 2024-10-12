@@ -103,6 +103,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ### Sièges
 
+Le Maserati Grecale Folgore peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Maserati Grecale Folgore propose un seul type de siège avant.

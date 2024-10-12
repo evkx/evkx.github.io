@@ -93,6 +93,8 @@ You can choose between several interior designs.
 
 ### Seats
 
+The Seres 5 4WD Premium accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The Seres 5 4WD Premium offers a single type of front seat.

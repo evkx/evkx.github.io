@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Max C-Rate
 			</td>
 			<td>
-				1.72
+				1.36
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Average C-Rate
 			</td>
 			<td>
-				1.09
+				0.86
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimum charging area
 			</td>
 			<td>
-				6% - 58%
+				6% - 57%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				98.8kW
+				102.8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				27m50s
+				32m60s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				1 h 12 m 18 s
+				1 h 31 m 26 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				1 h 6 m 17 s
+				1 h 23 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 37 m 34 s
+				 47 m 30 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Range per minute 0-100%
 			</td>
 			<td>
-				6,2 km (3,9 mi)
+				4,9 km (3,0 mi)
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Range per minute 10-100%
 			</td>
 			<td>
-				6,1 km (3,8 mi)
+				4,8 km (3,0 mi)
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Range per minute 10-80%
 			</td>
 			<td>
-				8,4 km (5,2 mi)
+				6,6 km (4,1 mi)
 			</td>
 			<td>
 				?
@@ -268,10 +268,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				60 kW
 			</td>
 			<td>
-				 0 m 59 s
+				 1 m 15 s
 			</td>
 			<td>
-				0.8 kWh
+				1.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,10 +282,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				70 kW
 			</td>
 			<td>
-				 1 m 50 s
+				 2 m 19 s
 			</td>
 			<td>
-				1.7 kWh
+				2.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				80 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 3 m 15 s
 			</td>
 			<td>
-				2.6 kWh
+				3.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				90 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 4 m 4 s
 			</td>
 			<td>
-				3.4 kWh
+				4.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				100 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 4 m 47 s
 			</td>
 			<td>
-				4.2 kWh
+				5.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				110 kW
 			</td>
 			<td>
-				 4 m 18 s
+				 5 m 27 s
 			</td>
 			<td>
-				5.1 kWh
+				6.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				120 kW
 			</td>
 			<td>
-				 4 m 47 s
+				 6 m 3 s
 			</td>
 			<td>
-				6.0 kWh
+				7.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				130 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 6 m 37 s
 			</td>
 			<td>
-				6.8 kWh
+				8.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				140 kW
 			</td>
 			<td>
-				 5 m 38 s
+				 7 m 7 s
 			</td>
 			<td>
-				7.6 kWh
+				9.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				150 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 7 m 36 s
 			</td>
 			<td>
-				8.5 kWh
+				10.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				150 kW
 			</td>
 			<td>
-				 6 m 22 s
+				 8 m 4 s
 			</td>
 			<td>
-				9.4 kWh
+				11.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				151 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 8 m 31 s
 			</td>
 			<td>
-				10.2 kWh
+				12.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				151 kW
 			</td>
 			<td>
-				 7 m 6 s
+				 8 m 59 s
 			</td>
 			<td>
-				11.0 kWh
+				14.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				152 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 9 m 26 s
 			</td>
 			<td>
-				11.9 kWh
+				15.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				152 kW
 			</td>
 			<td>
-				 7 m 49 s
+				 9 m 54 s
 			</td>
 			<td>
-				12.8 kWh
+				16.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				153 kW
 			</td>
 			<td>
-				 8 m 11 s
+				 10 m 21 s
 			</td>
 			<td>
-				13.6 kWh
+				17.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				153 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 10 m 48 s
 			</td>
 			<td>
-				14.4 kWh
+				18.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				152 kW
 			</td>
 			<td>
-				 8 m 54 s
+				 11 m 16 s
 			</td>
 			<td>
-				15.3 kWh
+				19.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				151 kW
 			</td>
 			<td>
-				 9 m 16 s
+				 11 m 43 s
 			</td>
 			<td>
-				16.2 kWh
+				20.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				150 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 12 m 11 s
 			</td>
 			<td>
-				17.0 kWh
+				21.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				149 kW
 			</td>
 			<td>
-				 10 m 0 s
+				 12 m 38 s
 			</td>
 			<td>
-				17.8 kWh
+				22.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				148 kW
 			</td>
 			<td>
-				 10 m 22 s
+				 13 m 6 s
 			</td>
 			<td>
-				18.7 kWh
+				23.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				148 kW
 			</td>
 			<td>
-				 10 m 44 s
+				 13 m 34 s
 			</td>
 			<td>
-				19.6 kWh
+				24.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				147 kW
 			</td>
 			<td>
-				 11 m 6 s
+				 14 m 3 s
 			</td>
 			<td>
-				20.4 kWh
+				25.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				146 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 14 m 31 s
 			</td>
 			<td>
-				21.2 kWh
+				26.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				145 kW
 			</td>
 			<td>
-				 11 m 51 s
+				 15 m 0 s
 			</td>
 			<td>
-				22.1 kWh
+				28.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				144 kW
 			</td>
 			<td>
-				 12 m 14 s
+				 15 m 29 s
 			</td>
 			<td>
-				23.0 kWh
+				29.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				143 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 15 m 58 s
 			</td>
 			<td>
-				23.8 kWh
+				30.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				141 kW
 			</td>
 			<td>
-				 13 m 0 s
+				 16 m 27 s
 			</td>
 			<td>
-				24.6 kWh
+				31.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				139 kW
 			</td>
 			<td>
-				 13 m 24 s
+				 16 m 57 s
 			</td>
 			<td>
-				25.5 kWh
+				32.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				137 kW
 			</td>
 			<td>
-				 13 m 48 s
+				 17 m 27 s
 			</td>
 			<td>
-				26.4 kWh
+				33.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				135 kW
 			</td>
 			<td>
-				 14 m 12 s
+				 17 m 58 s
 			</td>
 			<td>
-				27.2 kWh
+				34.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				133 kW
 			</td>
 			<td>
-				 14 m 36 s
+				 18 m 29 s
 			</td>
 			<td>
-				28.0 kWh
+				35.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				131 kW
 			</td>
 			<td>
-				 15 m 1 s
+				 19 m 0 s
 			</td>
 			<td>
-				28.9 kWh
+				36.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				129 kW
 			</td>
 			<td>
-				 15 m 27 s
+				 19 m 32 s
 			</td>
 			<td>
-				29.8 kWh
+				37.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				127 kW
 			</td>
 			<td>
-				 15 m 52 s
+				 20 m 5 s
 			</td>
 			<td>
-				30.6 kWh
+				38.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				125 kW
 			</td>
 			<td>
-				 16 m 18 s
+				 20 m 38 s
 			</td>
 			<td>
-				31.4 kWh
+				39.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				123 kW
 			</td>
 			<td>
-				 16 m 45 s
+				 21 m 11 s
 			</td>
 			<td>
-				32.3 kWh
+				40.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				122 kW
 			</td>
 			<td>
-				 17 m 12 s
+				 21 m 45 s
 			</td>
 			<td>
-				33.2 kWh
+				41.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				121 kW
 			</td>
 			<td>
-				 17 m 39 s
+				 22 m 19 s
 			</td>
 			<td>
-				34.0 kWh
+				43.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				121 kW
 			</td>
 			<td>
-				 18 m 6 s
+				 22 m 54 s
 			</td>
 			<td>
-				34.8 kWh
+				44.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				120 kW
 			</td>
 			<td>
-				 18 m 34 s
+				 23 m 28 s
 			</td>
 			<td>
-				35.7 kWh
+				45.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				120 kW
 			</td>
 			<td>
-				 19 m 1 s
+				 24 m 3 s
 			</td>
 			<td>
-				36.6 kWh
+				46.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				119 kW
 			</td>
 			<td>
-				 19 m 29 s
+				 24 m 38 s
 			</td>
 			<td>
-				37.4 kWh
+				47.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				119 kW
 			</td>
 			<td>
-				 19 m 56 s
+				 25 m 13 s
 			</td>
 			<td>
-				38.2 kWh
+				48.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				118 kW
 			</td>
 			<td>
-				 20 m 24 s
+				 25 m 48 s
 			</td>
 			<td>
-				39.1 kWh
+				49.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				118 kW
 			</td>
 			<td>
-				 20 m 52 s
+				 26 m 24 s
 			</td>
 			<td>
-				40.0 kWh
+				50.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				117 kW
 			</td>
 			<td>
-				 21 m 20 s
+				 26 m 59 s
 			</td>
 			<td>
-				40.8 kWh
+				51.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				117 kW
 			</td>
 			<td>
-				 21 m 48 s
+				 27 m 35 s
 			</td>
 			<td>
-				41.6 kWh
+				52.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				116 kW
 			</td>
 			<td>
-				 22 m 17 s
+				 28 m 11 s
 			</td>
 			<td>
-				42.5 kWh
+				53.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				116 kW
 			</td>
 			<td>
-				 22 m 45 s
+				 28 m 47 s
 			</td>
 			<td>
-				43.4 kWh
+				54.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				115 kW
 			</td>
 			<td>
-				 23 m 14 s
+				 29 m 23 s
 			</td>
 			<td>
-				44.2 kWh
+				55.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				114 kW
 			</td>
 			<td>
-				 23 m 42 s
+				 29 m 59 s
 			</td>
 			<td>
-				45.0 kWh
+				57.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				113 kW
 			</td>
 			<td>
-				 24 m 11 s
+				 30 m 35 s
 			</td>
 			<td>
-				45.9 kWh
+				58.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				113 kW
 			</td>
 			<td>
-				 24 m 40 s
+				 31 m 12 s
 			</td>
 			<td>
-				46.8 kWh
+				59.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				112 kW
 			</td>
 			<td>
-				 25 m 10 s
+				 31 m 49 s
 			</td>
 			<td>
-				47.6 kWh
+				60.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				111 kW
 			</td>
 			<td>
-				 25 m 39 s
+				 32 m 27 s
 			</td>
 			<td>
-				48.4 kWh
+				61.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				110 kW
 			</td>
 			<td>
-				 26 m 9 s
+				 33 m 4 s
 			</td>
 			<td>
-				49.3 kWh
+				62.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				95 kW
 			</td>
 			<td>
-				 26 m 41 s
+				 33 m 45 s
 			</td>
 			<td>
-				50.2 kWh
+				63.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				79 kW
 			</td>
 			<td>
-				 27 m 19 s
+				 34 m 33 s
 			</td>
 			<td>
-				51.0 kWh
+				64.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				64 kW
 			</td>
 			<td>
-				 28 m 5 s
+				 35 m 31 s
 			</td>
 			<td>
-				51.8 kWh
+				65.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				58 kW
 			</td>
 			<td>
-				 28 m 59 s
+				 36 m 39 s
 			</td>
 			<td>
-				52.7 kWh
+				66.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				57 kW
 			</td>
 			<td>
-				 29 m 56 s
+				 37 m 51 s
 			</td>
 			<td>
-				53.6 kWh
+				67.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				56 kW
 			</td>
 			<td>
-				 30 m 54 s
+				 39 m 5 s
 			</td>
 			<td>
-				54.4 kWh
+				68.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				55 kW
 			</td>
 			<td>
-				 31 m 53 s
+				 40 m 20 s
 			</td>
 			<td>
-				55.2 kWh
+				69.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				54 kW
 			</td>
 			<td>
-				 32 m 54 s
+				 41 m 36 s
 			</td>
 			<td>
-				56.1 kWh
+				71.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				59 kW
 			</td>
 			<td>
-				 33 m 52 s
+				 42 m 50 s
 			</td>
 			<td>
-				57.0 kWh
+				72.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				65 kW
 			</td>
 			<td>
-				 34 m 45 s
+				 43 m 57 s
 			</td>
 			<td>
-				57.8 kWh
+				73.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				70 kW
 			</td>
 			<td>
-				 35 m 34 s
+				 44 m 59 s
 			</td>
 			<td>
-				58.6 kWh
+				74.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				75 kW
 			</td>
 			<td>
-				 36 m 20 s
+				 45 m 57 s
 			</td>
 			<td>
-				59.5 kWh
+				75.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				76 kW
 			</td>
 			<td>
-				 37 m 3 s
+				 46 m 52 s
 			</td>
 			<td>
-				60.4 kWh
+				76.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				78 kW
 			</td>
 			<td>
-				 37 m 46 s
+				 47 m 46 s
 			</td>
 			<td>
-				61.2 kWh
+				77.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				79 kW
 			</td>
 			<td>
-				 38 m 28 s
+				 48 m 39 s
 			</td>
 			<td>
-				62.0 kWh
+				78.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				80 kW
 			</td>
 			<td>
-				 39 m 9 s
+				 49 m 32 s
 			</td>
 			<td>
-				62.9 kWh
+				79.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				79 kW
 			</td>
 			<td>
-				 39 m 51 s
+				 50 m 24 s
 			</td>
 			<td>
-				63.8 kWh
+				80.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				78 kW
 			</td>
 			<td>
-				 40 m 33 s
+				 51 m 17 s
 			</td>
 			<td>
-				64.6 kWh
+				81.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				77 kW
 			</td>
 			<td>
-				 41 m 15 s
+				 52 m 11 s
 			</td>
 			<td>
-				65.4 kWh
+				82.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				73 kW
 			</td>
 			<td>
-				 41 m 59 s
+				 53 m 6 s
 			</td>
 			<td>
-				66.3 kWh
+				83.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				69 kW
 			</td>
 			<td>
-				 42 m 45 s
+				 54 m 5 s
 			</td>
 			<td>
-				67.2 kWh
+				84.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				65 kW
 			</td>
 			<td>
-				 43 m 35 s
+				 55 m 7 s
 			</td>
 			<td>
-				68.0 kWh
+				86.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				63 kW
 			</td>
 			<td>
-				 44 m 26 s
+				 56 m 12 s
 			</td>
 			<td>
-				68.8 kWh
+				87.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				61 kW
 			</td>
 			<td>
-				 45 m 19 s
+				 57 m 19 s
 			</td>
 			<td>
-				69.7 kWh
+				88.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				58 kW
 			</td>
 			<td>
-				 46 m 15 s
+				 58 m 30 s
 			</td>
 			<td>
-				70.6 kWh
+				89.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				56 kW
 			</td>
 			<td>
-				 47 m 12 s
+				 59 m 42 s
 			</td>
 			<td>
-				71.4 kWh
+				90.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				54 kW
 			</td>
 			<td>
-				 48 m 12 s
+				1 h 0 m 58 s
 			</td>
 			<td>
-				72.2 kWh
+				91.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				52 kW
 			</td>
 			<td>
-				 49 m 15 s
+				1 h 2 m 17 s
 			</td>
 			<td>
-				73.1 kWh
+				92.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				49 kW
 			</td>
 			<td>
-				 50 m 20 s
+				1 h 3 m 40 s
 			</td>
 			<td>
-				74.0 kWh
+				93.5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				47 kW
 			</td>
 			<td>
-				 51 m 29 s
+				1 h 5 m 6 s
 			</td>
 			<td>
-				74.8 kWh
+				94.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				45 kW
 			</td>
 			<td>
-				 52 m 40 s
+				1 h 6 m 37 s
 			</td>
 			<td>
-				75.6 kWh
+				95.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				43 kW
 			</td>
 			<td>
-				 53 m 56 s
+				1 h 8 m 12 s
 			</td>
 			<td>
-				76.5 kWh
+				96.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				40 kW
 			</td>
 			<td>
-				 55 m 15 s
+				1 h 9 m 53 s
 			</td>
 			<td>
-				77.4 kWh
+				97.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				38 kW
 			</td>
 			<td>
-				 56 m 39 s
+				1 h 11 m 39 s
 			</td>
 			<td>
-				78.2 kWh
+				98.9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				36 kW
 			</td>
 			<td>
-				 58 m 9 s
+				1 h 13 m 32 s
 			</td>
 			<td>
-				79.0 kWh
+				100.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				34 kW
 			</td>
 			<td>
-				 59 m 44 s
+				1 h 15 m 32 s
 			</td>
 			<td>
-				79.9 kWh
+				101.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				31 kW
 			</td>
 			<td>
-				1 h 1 m 25 s
+				1 h 17 m 41 s
 			</td>
 			<td>
-				80.8 kWh
+				102.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				29 kW
 			</td>
 			<td>
-				1 h 3 m 15 s
+				1 h 19 m 59 s
 			</td>
 			<td>
-				81.6 kWh
+				103.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				27 kW
 			</td>
 			<td>
-				1 h 5 m 13 s
+				1 h 22 m 28 s
 			</td>
 			<td>
-				82.4 kWh
+				104.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				25 kW
 			</td>
 			<td>
-				1 h 7 m 21 s
+				1 h 25 m 11 s
 			</td>
 			<td>
-				83.3 kWh
+				105.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				22 kW
 			</td>
 			<td>
-				1 h 9 m 42 s
+				1 h 28 m 9 s
 			</td>
 			<td>
-				84.2 kWh
+				106.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Chevrolet Blazer EV RS RWD have battery heating, making charging at an optimum b
 				20 kW
 			</td>
 			<td>
-				1 h 12 m 18 s
+				1 h 31 m 26 s
 			</td>
 			<td>
-				85.0 kWh
+				107.5 kWh
 			</td>
 		</tr>
 	</tbody>

@@ -94,6 +94,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ### Sitze
 
+Der VinFast VF8 Eco bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der VinFast VF8 Eco bietet nur einen Typ von Vordersitz.

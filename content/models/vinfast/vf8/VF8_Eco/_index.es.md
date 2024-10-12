@@ -94,6 +94,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ### Asientos
 
+El VinFast VF8 Eco tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El VinFast VF8 Eco ofrece un único tipo de asiento delantero.

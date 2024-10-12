@@ -84,6 +84,8 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
+Der MG MG4 Electric XPOWER bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der MG MG4 Electric XPOWER bietet nur einen Typ von Vordersitz.

@@ -84,6 +84,8 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 ### Säten
 
+Acura ZDX Type S rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Acura ZDX Type S erbjuder endast en typ av framsäte.

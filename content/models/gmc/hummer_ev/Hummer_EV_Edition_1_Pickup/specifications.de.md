@@ -166,7 +166,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kathodenmaterialien
 			</td>
 			<td>
-				NMC
+				NCMA
 			</td>
 		</tr>
 	</tbody>

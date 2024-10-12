@@ -94,6 +94,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ### Seats
 
+The VinFast VF8 Eco accommodates five passengers with two front seats and a three-seat bench in the rear.
+
 #### First Row Seats
 
 The VinFast VF8 Eco offers a single type of front seat.

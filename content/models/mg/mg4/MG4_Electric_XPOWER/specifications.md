@@ -476,6 +476,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 

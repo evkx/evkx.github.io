@@ -84,6 +84,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+MG MG4 Electric Extended Range rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 MG MG4 Electric Extended Range erbjuder endast en typ av framsäte.

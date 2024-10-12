@@ -91,6 +91,8 @@ Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
+Honda Prologue AWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
 #### Første række sæder
 
 Honda Prologue AWD tilbyder kun én type forreste sæde.

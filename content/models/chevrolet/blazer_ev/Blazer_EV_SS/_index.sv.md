@@ -30,7 +30,7 @@ Chevrolet Blazer EV SS imponerar med en imponerande kraft på 410 kW (557 hk) oc
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 4,0 kWh (4,5%) för batteriskydd. Med en nominell spänning på 330 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 4,0 kWh (4,5%) för batteriskydd. Med en nominell spänning på 296 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 467 km med en energiförbrukning på 18,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -55,6 +55,10 @@ Chevrolet Blazer EV SS har ett fyrhjulsdriftsystem som stöds av två motorer, e
 ### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
+
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Chevrolet Blazer EV SS. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
 
 ### Bromsar
 
@@ -84,6 +88,8 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 ### Säten
 
+Chevrolet Blazer EV SS rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 Chevrolet Blazer EV SS erbjuder endast en typ av framsäte.
@@ -93,8 +99,10 @@ Följande funktioner är tillgängliga på **** sätet.
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
-- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar för förare, inte tillgänglig för passagerare)
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -111,6 +119,8 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 ## Klimatsystem
 
@@ -187,11 +197,17 @@ Chevrolet Blazer EV SS inkluderar flera [avancerade förarassistanssystem](../..
 
 ### Säkerhetssystem
 
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Chevrolet Blazer EV SS, detta system förhindrar att hjulen låser sig under bromsning.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Chevrolet Blazer EV SS, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Chevrolet Blazer EV SS, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
 [**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Chevrolet Blazer EV SS, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
 [**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Chevrolet Blazer EV SS, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Chevrolet Blazer EV SS, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
 
 [**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Chevrolet Blazer EV SS, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 

@@ -93,6 +93,8 @@ Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
+Seres 5 4WD Premium har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Seres 5 4WD Premium Long Range tilbyr kun én type forsete.

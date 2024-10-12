@@ -30,7 +30,7 @@ El Chevrolet Blazer EV SS impresiona con una potencia máxima de 410 kW (557 hp)
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 89,0 kWh y una capacidad neta utilizable de 85,0 kWh, proporcionando un buffer de 4,0 kWh (4,5%) para la protección de la batería. Con un voltaje nominal de 330 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 89,0 kWh y una capacidad neta utilizable de 85,0 kWh, proporcionando un buffer de 4,0 kWh (4,5%) para la protección de la batería. Con un voltaje nominal de 296 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 467 km con una tasa de consumo de energía de 18,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -55,6 +55,10 @@ Chevrolet Blazer EV SS tiene un sistema de tracción total sostenido por dos mot
 ### Suspensión
 
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Chevrolet Blazer EV SS. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
 ### Frenos
 
@@ -84,6 +88,8 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 ### Asientos
 
+El Chevrolet Blazer EV SS tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
 #### Asientos de primera fila
 
 El Chevrolet Blazer EV SS ofrece un único tipo de asiento delantero.
@@ -93,8 +99,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente para el conductor, no disponible para el pasajero)
+- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
@@ -111,6 +119,8 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 ## Sistema de climatización
 
@@ -187,11 +197,17 @@ El Chevrolet Blazer EV SS incluye varios [sistemas avanzados de asistencia al co
 
 ### Sistemas de Seguridad
 
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Chevrolet Blazer EV SS, este sistema evita que las ruedas se bloqueen durante el frenado.
+
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Chevrolet Blazer EV SS, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Chevrolet Blazer EV SS, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
 [**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Chevrolet Blazer EV SS, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
 [**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Chevrolet Blazer EV SS, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Chevrolet Blazer EV SS, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
 
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Chevrolet Blazer EV SS, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 

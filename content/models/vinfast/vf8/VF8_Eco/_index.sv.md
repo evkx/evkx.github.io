@@ -94,6 +94,8 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
+VinFast VF8 Eco rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
 #### Framsäten
 
 VinFast VF8 Eco erbjuder endast en typ av framsäte.

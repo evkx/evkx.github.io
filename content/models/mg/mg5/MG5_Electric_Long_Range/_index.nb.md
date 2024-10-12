@@ -84,6 +84,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+MG MG5 Electric Long Range har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 MG MG5 Electric Long Range Long Range tilbyr kun én type forsete.

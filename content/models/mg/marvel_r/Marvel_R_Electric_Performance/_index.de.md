@@ -86,6 +86,8 @@ Sie können zwischen verschiedenen Sitzmaterialien und Innenraumstilen wählen. 
 
 ### Sitze
 
+Der MG Marvel R Electric Performance bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der MG Marvel R Electric Performance bietet nur einen Typ von Vordersitz.

@@ -94,6 +94,8 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ### Sièges
 
+Le VinFast VF8 Eco peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le VinFast VF8 Eco propose un seul type de siège avant.

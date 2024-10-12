@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation EPA
 			</td>
 			<td>
-				3,3 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				89 kWh
+				112,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				85 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Nombre de modules
 			</td>
 			<td>
-				10
+				12
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				330
+				355,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -271,10 +279,34 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur incluant les miroirs
+			</td>
+			<td>
+				2197 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Empattement
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux avant
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux arrière
+			</td>
+			<td>
+				22,7
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2536 kg
+				2342 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				464 kg
+				658 kg
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				178 mm
+				194 mm
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +460,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				178 mm
+				194 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,6 +516,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Intérieur
 
+Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
@@ -536,7 +569,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonction électrique standard
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +577,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Mémoire
 			</td>
 			<td>
-				Inconnu
+				Conducteur standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +585,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +593,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +625,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +633,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +690,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +698,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +706,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +714,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +722,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +730,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +738,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +746,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +754,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +762,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -770,6 +803,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -785,7 +819,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Caméra 360
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -801,6 +835,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -808,6 +843,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -815,6 +851,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +859,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Aide à la descente
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -837,6 +875,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Système de freinage antiblocage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -852,6 +891,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Assistance au freinage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +899,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle de traction
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -866,6 +907,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +923,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle électronique de stabilité
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -888,6 +931,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -903,6 +947,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +955,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +963,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +1019,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support Android Auto
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +1027,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support Apple Carplay
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>

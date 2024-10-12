@@ -166,7 +166,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Matériaux cathodiques
 			</td>
 			<td>
-				NMC
+				NCMA
 			</td>
 		</tr>
 	</tbody>

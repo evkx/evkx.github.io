@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Verbrauch
 			</td>
 			<td>
-				3,3 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				89 kWh
+				112,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				85 kWh
+				107,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Anzahl der Module
 			</td>
 			<td>
-				10
+				12
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				330
+				355,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -271,10 +279,34 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				2197 mm (86,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Radstand
 			</td>
 			<td>
 				3094 mm (121,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				22,7
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +339,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2536 kg (5591 lbs)
+				2342 kg (5163 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				464 kg (1023 lbs)
+				658 kg (1451 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +452,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				178 mm (7,0")
+				194 mm (7,6")
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +460,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				178 mm (7,0")
+				194 mm (7,6")
 			</td>
 		</tr>
 		<tr>
@@ -484,6 +516,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Innenraum
 
+Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 
 ### Vordersitze
 
@@ -536,7 +569,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Standard elektrischer Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +577,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Speicher
 			</td>
 			<td>
-				Unbekannt
+				Standard Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +585,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +593,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +625,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +633,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +690,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +698,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +706,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +714,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +722,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +730,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +738,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +746,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +754,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitzbelüftung
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +762,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -770,6 +803,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Müdigkeitswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -785,7 +819,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				360-Grad-Kamera
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -801,6 +835,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Hintere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -808,6 +843,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Vordere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -815,6 +851,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Seitliche Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +859,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bergabfahrassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -837,6 +875,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Antiblockiersystem
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -852,6 +891,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bremsassistent
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +899,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Traktionskontrolle
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -866,6 +907,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +923,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Elektronische Stabilitätskontrolle
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -888,6 +931,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -903,6 +947,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Effizienzassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +955,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Automatische Notlenkung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +963,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verkehrszeichenerkennung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +1019,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Android Auto Unterstützung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +1027,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Apple Carplay Unterstützung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

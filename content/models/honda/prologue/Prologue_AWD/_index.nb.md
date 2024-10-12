@@ -91,6 +91,8 @@ Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
+Honda Prologue AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 Honda Prologue AWD Long Range tilbyr kun én type forsete.

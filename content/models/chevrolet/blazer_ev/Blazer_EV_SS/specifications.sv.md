@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				330
+				296
 			</td>
 		</tr>
 	</tbody>
@@ -468,6 +468,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Interiör
 
+Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
@@ -520,7 +521,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Standard elektrisk förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +529,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minnesfunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +537,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +545,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +577,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +585,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +650,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +658,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +666,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +674,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +690,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +698,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +706,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +714,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -754,6 +755,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Trötthetsvarnare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -785,6 +787,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -792,6 +795,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer fram
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -799,6 +803,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sidoparkeringssensorer
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -821,6 +826,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +842,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektronisk bromsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +850,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Antispinnsystem (TCS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +865,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Kollisionsvarning, front
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +873,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -871,6 +881,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Temperature Warning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +897,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EfficiencyAssist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -893,6 +905,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Autonom nödstyrning
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -900,6 +913,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Skyltigenkänning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

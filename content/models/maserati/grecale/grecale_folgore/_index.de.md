@@ -103,6 +103,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ### Sitze
 
+Der Maserati Grecale Folgore bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+
 #### Vordersitze
 
 Der Maserati Grecale Folgore bietet nur einen Typ von Vordersitz.

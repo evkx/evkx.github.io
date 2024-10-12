@@ -86,6 +86,8 @@ Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge me
 
 ### Seter
 
+MG Marvel R Electric Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
 #### Forseter
 
 MG Marvel R Electric Performance Long Range tilbyr kun én type forsete.

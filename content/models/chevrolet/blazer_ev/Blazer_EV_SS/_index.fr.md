@@ -30,7 +30,7 @@ La Chevrolet Blazer EV SS impressionne avec une puissance maximale de 410 kW (55
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 4,0 kWh (4,5%) pour la protection de la batterie. Avec une tension nominale de 330 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 4,0 kWh (4,5%) pour la protection de la batterie. Avec une tension nominale de 296 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 467 km avec un taux de consommation d'énergie de 18,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -55,6 +55,10 @@ Chevrolet Blazer EV SS dispose d'un système de transmission intégrale pris en 
 ### Suspension
 
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 178 mm.
+
+### Pilotage
+
+La direction dynamique est une fonctionnalité un standard sur le Chevrolet Blazer EV SS. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
 ### Freins
 
@@ -84,6 +88,8 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 ### Sièges
 
+Le Chevrolet Blazer EV SS peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
 #### Sièges de première rangée
 
 Le Chevrolet Blazer EV SS propose un seul type de siège avant.
@@ -93,8 +99,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
+- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -111,6 +119,8 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 ## Système de climatisation
 
@@ -187,11 +197,17 @@ Le Chevrolet Blazer EV SS comprend plusieurs [systèmes avancés d'assistance au
 
 ### Systèmes de Sécurité
 
+[**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Chevrolet Blazer EV SS, ce système empêche les roues de se bloquer lors du freinage.
+
+[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Chevrolet Blazer EV SS, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Chevrolet Blazer EV SS, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
 
 [**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Facultatif sur le Chevrolet Blazer EV SS, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
 
 [**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Chevrolet Blazer EV SS, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+
+[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Chevrolet Blazer EV SS, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
 
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Chevrolet Blazer EV SS, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
