@@ -116,7 +116,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Audi SQ6 e-tron har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+Audi SQ6 e-tron har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
 
 ### Seter
 
@@ -138,12 +138,9 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
-- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
-- Red [skinntrekk](../../../../technology/seats/materials/#leather)
 
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
@@ -158,11 +155,13 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
 - Black/Red [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
+- Red [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -214,7 +213,7 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 Audi SQ6 e-tron er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ### Speil
 
@@ -309,7 +308,7 @@ Audi SQ6 e-tron inkluderer flere [avanserte førerassistanse systemer](../../../
 
 Audi SQ6 e-tron tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
@@ -322,6 +321,27 @@ Med Adaptive Cruise Assist  nivå 2-systemet får du ekstra kjøreautomatisering
 
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
 Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
+## Sikkerhet
+
+Audi SQ6 e-tron er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- Sidekollisjonsputer for passasjerene i andre rad
+- En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
+I tillegg er setebeltene i første rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
+
+Audi SQ6 e-tron har blitt grundig testet av Euro NCAP, en uavhengig organisasjon som evaluerer kjøretøysikkerhet. Den mottok en 5-stjerners vurdering, med følgende poengsummer:
+
+- Voksne passasjerer: 91%
+- Barn: 92%
+- Utsatte trafikanter: 81%
+- Sikkerhetshjelp: 80%
+
+Du kan se hele krasjtestvideoen [her](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 
@@ -337,7 +357,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde sin verdenspremiere den 18.03.2024, med forventede leveranser som starter i August 2024.
+Audi SQ6 e-tron hadde sin verdenspremiere den 18.03.2024, med leveranser som startet i August 2024.
 
 ### Priser
 

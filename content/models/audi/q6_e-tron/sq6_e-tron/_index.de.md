@@ -116,7 +116,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
-Der Audi SQ6 e-tron verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl verbessert und von hochwertigen Materialien in allen wichtigen Bereichen umgeben ist. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet. Sie können zwischen verschiedenen Sitztypen, Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
+Der Audi SQ6 e-tron verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl verbessert und von hochwertigen Materialien in allen wichtigen Bereichen umgeben ist. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
 
 ### Sitze
 
@@ -140,10 +140,7 @@ Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
 
 Verfügbar in:
 
-- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 - Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Beige [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Red [Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 Die folgenden Funktionen sind für den **Sport Plus**-Sitz verfügbar:
 
@@ -163,6 +160,8 @@ Verfügbar in:
 - Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
 - Black [Dinamica/Leder-Polsterung](../../../../technology/seats/materials/#microfiber)
 - Black/Red [Dinamica/Leder-Polsterung](../../../../technology/seats/materials/#microfiber)
+- Red [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -214,7 +213,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Audi SQ6 e-tron ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -309,7 +308,7 @@ Der Audi SQ6 e-tron verfügt über eine Reihe von standardmäßigen und optional
 
 Der Audi SQ6 e-tron bietet [Fahrautomatisierung
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standard  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -322,6 +321,27 @@ Mit dem Adaptive Cruise Assist  Level 2 System erhalten Sie zusätzliche Fahraut
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Audi SQ6 e-tron ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Seitenairbags für die Passagiere der zweiten Reihe
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
+Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
+
+Der Audi SQ6 e-tron wurde von Euro NCAP, einer unabhängigen Organisation, die die Fahrzeugsicherheit bewertet, gründlich getestet. Er erhielt eine 5-Sterne-Bewertung mit den folgenden Ergebnissen:
+
+- Erwachsene Insassen: 91%
+- Kinder Insassen: 92%
+- Gefährdete Verkehrsteilnehmer: 81%
+- Sicherheitsunterstützung: 80%
+
+Sie können das vollständige Crashtest-Video [hier](https://www.youtube.com/watch?v=H0mlUigYdfk) ansehen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -337,7 +357,7 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Dieses Modell feierte seine Weltpremiere am 18.03.2024, mit erwarteten Lieferungen ab August 2024.
+Der Audi SQ6 e-tron feierte seine Weltpremiere am 18.03.2024, mit Lieferungen ab August 2024.
 
 ### Preise
 

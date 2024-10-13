@@ -337,6 +337,16 @@ Med Adaptive Cruise Assist  niveau 2-systemet får du yderligere funktioner til 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
+## Sikkerhed
+
+Audi Q6 e-tron quattro er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+
+- Frontairbags til føreren og forsædepassageren
+- Sidegardinairbags til både første og anden række
+- Sideairbags til føreren og forsædepassageren
+- Sideairbags til passagererne i anden række
+- En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -351,5 +361,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 18.03.2024, og leveringer forventes at starte om August 2024.
+Denne model havde verdenspremiere den 18.03.2024, og leveringerne startede i August 2024.
 {{< pagenavigation b_url="../" b_title="Audi Q6 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -175,7 +175,7 @@ navicon: bi-battery-charging
 				13,2 km (8,2 mi)
 			</td>
 			<td>
-				10,2 km (6,3 mi)
+				10,5 km (6,5 mi)
 			</td>
 			<td>
 				7,8 km (4,8 mi)
@@ -192,7 +192,7 @@ navicon: bi-battery-charging
 				12,3 km (7,6 mi)
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				9,8 km (6,1 mi)
 			</td>
 			<td>
 				7,3 km (4,5 mi)
@@ -209,7 +209,7 @@ navicon: bi-battery-charging
 				21,8 km (13,5 mi)
 			</td>
 			<td>
-				16,8 km (10,4 mi)
+				17,4 km (10,8 mi)
 			</td>
 			<td>
 				12,9 km (8,0 mi)

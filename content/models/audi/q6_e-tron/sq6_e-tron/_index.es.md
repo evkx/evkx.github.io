@@ -116,7 +116,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-El Audi SQ6 e-tron cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
+El Audi SQ6 e-tron cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
 
 ### Asientos
 
@@ -138,12 +138,9 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
-Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Beige [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
@@ -158,11 +155,13 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
-Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [Tapicería Dinamica/cuero](../../../../technology/seats/materials/#microfiber)
 - Black/Red [Tapicería Dinamica/cuero](../../../../technology/seats/materials/#microfiber)
+- Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -214,7 +213,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Audi SQ6 e-tron está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
@@ -309,7 +308,7 @@ El Audi SQ6 e-tron incluye varios [sistemas avanzados de asistencia al conductor
 
 Audi SQ6 e-tron ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema standard  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
@@ -322,6 +321,27 @@ Con el sistema Adaptive Cruise Assist  de nivel 2, obtienes funciones adicionale
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
+## Seguridad
+
+El Audi SQ6 e-tron está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Airbags laterales para los pasajeros de la segunda fila
+- Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
+
+Además, los cinturones de seguridad delanteros están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
+El Audi SQ6 e-tron ha sido rigurosamente probado por Euro NCAP, una organización independiente que evalúa la seguridad de los vehículos. Recibió una calificación de 5 estrellas, con los siguientes puntajes:
+
+- Ocupante Adulto: 91%
+- Ocupante Infantil: 92%
+- Usuarios Vulnerables de la Vía: 81%
+- Asistencia de Seguridad: 80%
+
+Puedes ver el video completo de la prueba de choque [aquí](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 
@@ -337,7 +357,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 18.03.2024 y se espera que las entregas comiencen en August 2024.
+Este modelo tuvo un estreno mundial el 18.03.2024 y las entregas comenzaron en August 2024.
 
 ### Precios
 

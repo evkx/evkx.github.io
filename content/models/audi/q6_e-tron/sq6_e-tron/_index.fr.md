@@ -116,7 +116,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-L'Audi SQ6 e-tron présente un intérieur axé sur le conducteur qui améliore la sensation de cockpit, avec des matériaux de qualité supérieure dans toutes les zones importantes. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'Audi SQ6 e-tron présente un intérieur axé sur le conducteur qui améliore la sensation de cockpit, avec des matériaux de qualité supérieure dans toutes les zones importantes. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques.
 
 ### Sièges
 
@@ -138,12 +138,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Beige [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 
@@ -158,11 +155,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [Sellerie Dinamica/cuir](../../../../technology/seats/materials/#microfiber)
 - Black/Red [Sellerie Dinamica/cuir](../../../../technology/seats/materials/#microfiber)
+- Red [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -214,7 +213,7 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Audi SQ6 e-tron est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ### Rétroviseurs
 
@@ -309,7 +308,7 @@ Le Audi SQ6 e-tron comprend plusieurs [systèmes avancés d'assistance au conduc
 
 Audi SQ6 e-tron offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
@@ -322,6 +321,27 @@ Avec le système Adaptive Cruise Assist  de niveau 2, vous obtenez des fonctionn
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Audi SQ6 e-tron est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Airbags latéraux pour les passagers de la deuxième rangée
+- Un airbag central avant pour empêcher le conducteur et le passager avant de se heurter lors d'un impact latéral
+
+De plus, les ceintures de sécurité avant sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
+
+Le Audi SQ6 e-tron a été rigoureusement testé par Euro NCAP, une organisation indépendante qui évalue la sécurité des véhicules. Il a reçu une note de 5 étoiles, avec les scores suivants :
+
+- Occupant adulte : 91%
+- Occupant enfant : 92%
+- Usagers vulnérables de la route : 81%
+- Assistance à la sécurité : 80%
+
+Vous pouvez regarder la vidéo complète du crash test [ici](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 
@@ -337,7 +357,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 18.03.2024 et les livraisons devraient commencer en August 2024.
+Ce modèle a été présenté en première mondiale le 18.03.2024 et les livraisons ont commencé en August 2024.
 
 ### Tarification
 
