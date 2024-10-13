@@ -112,6 +112,18 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-3d2dbc1f
+  translation: Audi SQ6 e-tron es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 607 km (377 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-6372714d
+  translation: Audi Q6 Sportback e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 636 km (395 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-cd8a76aa
+  translation: Audi Q6 Sportback e-tron performance es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 655 km (407 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-e7e2b239
+  translation: Audi Q6 Sportback e-tron es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 545 km (339 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-59a38dcc
   translation: Chevrolet Blazer EV RS RWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 449 km (279 millas). EVKX.net tiene todos los detalles.
 
@@ -147,16 +159,4 @@
 
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-0bc8b721
-  translation: BYD Tang 4x4 Long Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 530 km (329 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-cb090444
-  translation: Audi Q6 e-tron es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 533 km (331 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-c81beaa5
-  translation: GMC Sierra EV Denali Edition 1 es una camioneta totalmente eléctrica con un EPA alcance de hasta 708 km (440 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-a859ed65
-  translation: GMC Hummer EV SUV 2x es un SUV totalmente eléctrico con una autonomía EPA de hasta 48 km (30 millas). EVKX.net tiene todos los detalles.
 

@@ -40,10 +40,10 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				598 km / 372 mi
+				607 km / 377 mi
 			</td>
 			<td>
-				15,87kWh/100km / 3,9 mi/kWh
+				15,63kWh/100km / 4,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -113,10 +113,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				 470km / 292 mi 
+				 476km / 296 mi 
 			</td>
 			<td>
-				-21,4%
+				-21,6%
 			</td>
 		</tr>
 		<tr>

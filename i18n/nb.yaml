@@ -112,6 +112,18 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-3d2dbc1f
+  translation: Audi SQ6 e-tron er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 607 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-6372714d
+  translation: Audi Q6 Sportback e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 636 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-cd8a76aa
+  translation: Audi Q6 Sportback e-tron performance er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 655 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-e7e2b239
+  translation: Audi Q6 Sportback e-tron er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 545 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-59a38dcc
   translation: Chevrolet Blazer EV RS RWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km. EVKX.net har alle detaljene.
 
@@ -147,16 +159,4 @@
 
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD er en helelektrisk SUV med en CLTC rekkevidde på opptil 780 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-0bc8b721
-  translation: BYD Tang 4x4 Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 530 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-cb090444
-  translation: Audi Q6 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 533 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-c81beaa5
-  translation: GMC Sierra EV Denali Edition 1 er en helelektrisk pickup med en EPA rekkevidde på opptil 708 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-a859ed65
-  translation: GMC Hummer EV SUV 2x er en helelektrisk SUV med en EPA rekkevidde på opptil 48 km. EVKX.net har alle detaljene.
 
