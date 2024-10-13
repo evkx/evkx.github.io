@@ -188,6 +188,11 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
+### Interiørlagring
+
+- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -346,6 +351,17 @@ Audi Q6 e-tron performance er utstyrt med flere kollisjonsputer for å sikre bes
 - Sidekollisjonsputer for fører og forsetepassasjer
 - Sidekollisjonsputer for passasjerene i andre rad
 - En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
+I tillegg er setebeltene i første rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
+
+Audi Q6 e-tron performance har blitt grundig testet av Euro NCAP, en uavhengig organisasjon som evaluerer kjøretøysikkerhet. Den mottok en 5-stjerners vurdering, med følgende poengsummer:
+
+- Voksne passasjerer: 91%
+- Barn: 92%
+- Utsatte trafikanter: 81%
+- Sikkerhetshjelp: 80%
+
+Du kan se hele krasjtestvideoen [her](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 

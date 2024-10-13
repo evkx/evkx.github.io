@@ -174,6 +174,11 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
+### Rangement Intérieur
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+
 ## Système de climatisation
 
 Deux options de système de climatisation sont disponibles :

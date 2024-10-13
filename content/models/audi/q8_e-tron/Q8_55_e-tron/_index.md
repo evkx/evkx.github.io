@@ -188,6 +188,11 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2250"  >}}
 
+### Interior Storage
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
 ## Climate System
 
 Two climate system options are available:

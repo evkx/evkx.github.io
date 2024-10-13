@@ -147,6 +147,11 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
+### Almacenamiento Interior
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:

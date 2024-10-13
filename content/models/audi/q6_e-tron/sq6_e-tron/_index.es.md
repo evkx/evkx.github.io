@@ -173,6 +173,20 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
+### Almacenamiento Interior
+
+El Audi SQ6 e-tron ofrece amplias soluciones de almacenamiento interior para mejorar la conveniencia y la organización:
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+- **Almacenamiento Bajo el Piso:** El área del maletero cuenta con almacenamiento bajo el piso, perfecto para mantener artículos más pequeños como cables de carga ordenadamente guardados.
+
+### Iluminación Interior
+
+El Audi SQ6 e-tron ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

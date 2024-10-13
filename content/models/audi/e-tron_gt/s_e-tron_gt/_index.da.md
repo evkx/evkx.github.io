@@ -153,6 +153,11 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+### Interiøropbevaring
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

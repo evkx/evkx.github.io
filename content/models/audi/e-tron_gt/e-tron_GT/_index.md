@@ -151,6 +151,11 @@ The following functionalities are available on the **** seat:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/secondrowseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
+### Interior Storage
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
 ## Climate System
 
 There is one climate system available:

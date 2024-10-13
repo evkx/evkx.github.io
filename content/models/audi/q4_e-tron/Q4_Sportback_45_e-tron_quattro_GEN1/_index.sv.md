@@ -145,6 +145,11 @@ Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vik
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
+### Interiör Förvaring
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:

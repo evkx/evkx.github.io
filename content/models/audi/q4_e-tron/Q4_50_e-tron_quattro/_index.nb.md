@@ -141,6 +141,11 @@ Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2000"  >}}
 
+### Interiørlagring
+
+- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:

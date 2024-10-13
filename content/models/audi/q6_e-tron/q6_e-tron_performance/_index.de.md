@@ -188,6 +188,11 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
+### Innenraumaufbewahrung
+
+- **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -346,6 +351,17 @@ Der Audi Q6 e-tron performance ist mit mehreren Airbags ausgestattet, um den Ins
 - Seitenairbags für Fahrer und Beifahrer
 - Seitenairbags für die Passagiere der zweiten Reihe
 - Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
+Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
+
+Der Audi Q6 e-tron performance wurde von Euro NCAP, einer unabhängigen Organisation, die die Fahrzeugsicherheit bewertet, gründlich getestet. Er erhielt eine 5-Sterne-Bewertung mit den folgenden Ergebnissen:
+
+- Erwachsene Insassen: 91%
+- Kinder Insassen: 92%
+- Gefährdete Verkehrsteilnehmer: 81%
+- Sicherheitsunterstützung: 80%
+
+Sie können das vollständige Crashtest-Video [hier](https://www.youtube.com/watch?v=H0mlUigYdfk) ansehen.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -188,6 +188,11 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
+### Interiör Förvaring
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -346,6 +351,17 @@ Audi Q6 e-tron performance är utrustad med flera krockkuddar för att säkerst�
 - Sidokrockkuddar för föraren och främre passageraren
 - Sidokrockkuddar för passagerarna i andra raden
 - En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+
+Dessutom är säkerhetsbältena i första raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
+
+Audi Q6 e-tron performance har noggrant testats av Euro NCAP, en oberoende organisation som utvärderar fordonssäkerhet. Den fick 5-stjärnigt betyg med följande poäng:
+
+- Vuxna passagerare: 91%
+- Barnpassagerare: 92%
+- Osäkra trafikanter: 81%
+- Säkerhetsassistans: 80%
+
+Du kan se hela krocktestvideon [här](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 

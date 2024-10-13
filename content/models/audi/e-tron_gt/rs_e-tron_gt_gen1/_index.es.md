@@ -147,6 +147,11 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+### Almacenamiento Interior
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

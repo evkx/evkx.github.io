@@ -182,6 +182,11 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
+### Rangement Intérieur
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

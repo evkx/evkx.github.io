@@ -188,6 +188,11 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - höjdjusterbart nackstöd
 
+### Interiör Förvaring
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:

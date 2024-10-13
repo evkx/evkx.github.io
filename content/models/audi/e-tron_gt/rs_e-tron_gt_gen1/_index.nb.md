@@ -147,6 +147,11 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+### Interiørlagring
+
+- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.

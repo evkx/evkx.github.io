@@ -173,6 +173,20 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
+### Interiör Förvaring
+
+Audi SQ6 e-tron erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+- **Undergolvsförvaring:** Bagageutrymmet har undergolvsförvaring, perfekt för att hålla mindre föremål som laddkablar prydligt undanlagda.
+
+### Interiör Belysning
+
+Audi SQ6 e-tron erbjuder ett utbud av interiörbelysningsalternativ som är utformade för att skapa en behaglig atmosfär och förbättra synligheten.
+
+- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan, dörrpanelerna och fotutrymmet, vilket skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens, vilket ger en personlig touch till din körupplevelse.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

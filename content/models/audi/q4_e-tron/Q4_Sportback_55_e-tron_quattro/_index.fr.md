@@ -139,6 +139,11 @@ L'option second est une banquette à trois places avec une séparation 40:20:40 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2001"  >}}
 
+### Rangement Intérieur
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+
 ## Système de climatisation
 
 Deux options de système de climatisation sont disponibles :

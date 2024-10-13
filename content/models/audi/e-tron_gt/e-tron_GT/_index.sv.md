@@ -147,6 +147,11 @@ Följande funktioner är tillgängliga på **** sätet.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/secondrowseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
+### Interiör Förvaring
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

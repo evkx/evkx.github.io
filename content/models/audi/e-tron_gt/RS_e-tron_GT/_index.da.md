@@ -153,6 +153,11 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/secondrowseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
+### Interiøropbevaring
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

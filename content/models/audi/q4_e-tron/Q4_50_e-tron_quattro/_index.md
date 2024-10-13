@@ -145,6 +145,11 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2000"  >}}
 
+### Interior Storage
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
 ## Climate System
 
 Two climate system options are available:

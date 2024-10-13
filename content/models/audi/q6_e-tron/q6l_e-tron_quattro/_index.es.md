@@ -182,6 +182,11 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
+### Almacenamiento Interior
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

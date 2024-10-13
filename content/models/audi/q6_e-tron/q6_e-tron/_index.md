@@ -186,6 +186,11 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron/secondrowseats_1_st.jpg" title="Audi Q6 e-tron" width="3000" height="2249"  >}}
 
+### Interior Storage
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
 ## Climate System
 
 There is one climate system available:
@@ -344,6 +349,17 @@ The Audi Q6 e-tron is equipped with multiple airbags to ensure occupant protecti
 - Side airbags for the driver and front passenger
 - Side airbags for the second-row passengers
 - A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+Additionally, the front seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
+
+The Audi Q6 e-tron has been rigorously tested by Euro NCAP, an independent organization that evaluates vehicle safety. It received a 5-star rating, with the following scores:
+
+- Adult Occupant: 91%
+- Child Occupant: 92%
+- Vulnerable Road Users: 81%
+- Safety Assist: 80%
+
+You can watch the full crash test video [here](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 

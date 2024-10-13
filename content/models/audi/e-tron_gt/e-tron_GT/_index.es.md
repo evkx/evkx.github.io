@@ -147,6 +147,11 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/secondrowseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
+### Almacenamiento Interior
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

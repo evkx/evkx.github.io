@@ -147,6 +147,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/secondrowseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
+### Rangement Intérieur
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

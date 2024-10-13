@@ -188,6 +188,11 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
+### Interiøropbevaring
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -346,6 +351,17 @@ Audi Q6 e-tron quattro er udstyret med flere airbags for at sikre beskyttelse af
 - Sideairbags til føreren og forsædepassageren
 - Sideairbags til passagererne i anden række
 - En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+
+Derudover er sikkerhedsselerne i første række udstyret med selestrammere, der strammes automatisk under en kollision for at minimere skaderisikoen.
+
+Audi Q6 e-tron quattro er blevet grundigt testet af Euro NCAP, en uafhængig organisation, der vurderer køretøjers sikkerhed. Den modtog en 5-stjernet vurdering med følgende resultater:
+
+- Voksne passagerer: 91%
+- Børn: 92%
+- Udsatte trafikanter: 81%
+- Sikkerhedshjælp: 80%
+
+Du kan se hele crashtestvideoen [her](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 

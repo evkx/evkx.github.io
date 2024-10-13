@@ -139,6 +139,11 @@ Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_35_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 35 e-tron" width="3000" height="2001"  >}}
 
+### Interiøropbevaring
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:

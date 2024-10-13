@@ -186,6 +186,11 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron/secondrowseats_1_st.jpg" title="Audi Q6 e-tron" width="3000" height="2249"  >}}
 
+### Almacenamiento Interior
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -344,6 +349,17 @@ El Audi Q6 e-tron está equipado con múltiples airbags para garantizar la prote
 - Airbags laterales para el conductor y el pasajero delantero
 - Airbags laterales para los pasajeros de la segunda fila
 - Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
+
+Además, los cinturones de seguridad delanteros están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
+El Audi Q6 e-tron ha sido rigurosamente probado por Euro NCAP, una organización independiente que evalúa la seguridad de los vehículos. Recibió una calificación de 5 estrellas, con los siguientes puntajes:
+
+- Ocupante Adulto: 91%
+- Ocupante Infantil: 92%
+- Usuarios Vulnerables de la Vía: 81%
+- Asistencia de Seguridad: 80%
+
+Puedes ver el video completo de la prueba de choque [aquí](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 {{<evkxdisplayaddarticle />}}
 

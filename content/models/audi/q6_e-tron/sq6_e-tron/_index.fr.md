@@ -173,6 +173,20 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
+### Rangement Intérieur
+
+Le Audi SQ6 e-tron offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+- **Rangement sous le plancher :** Le coffre dispose d'un rangement sous le plancher, parfait pour garder les petits objets comme les câbles de recharge bien rangés.
+
+### Éclairage Intérieur
+
+Le Audi SQ6 e-tron offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
+
+- **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur le tableau de bord, les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

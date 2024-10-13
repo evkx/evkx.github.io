@@ -147,6 +147,11 @@ Verfügbar in:
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+### Innenraumaufbewahrung
+
+- **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

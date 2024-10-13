@@ -190,6 +190,11 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/secondrowseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
+### Almacenamiento Interior
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:

@@ -153,6 +153,11 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/secondrowseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
+### Interiørlagring
+
+- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
