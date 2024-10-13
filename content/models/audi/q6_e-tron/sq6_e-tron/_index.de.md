@@ -1,7 +1,7 @@
 ---
 title: Audi SQ6 e-tron
 linktitle: "SQ6 e-tron"
-description: "Audi SQ6 e-tron ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 607 km (377 Meilen). EVKX.net hat alle Details."
+description: "Audi SQ6 e-tron ist ein vollelektrisches Premium-SUV mit einer Reichweite von bis zu 598 km (372 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Mit Overboost erreicht der Audi SQ6 e-tron eine maximale Leistung von 385 kW (52
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 94,9 kWh, was einen Puffer von 5,1 kWh (5,1%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 662 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 607 und 565 km (377-351 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 15,6 kWh/100 km für das Basismodell und 16,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 598 und 565 km (372-351 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 15,9 kWh/100 km für das Basismodell und 16,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 270 kW. Das Laden von 0% auf 100% dauert etwa 60 Minuten, während ein typischer Ladevorgang von 10% auf 80% 21 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 192 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 62%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 169 kW, wobei jede Ladesitzung etwa 21 Minuten und 36 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Audi SQ6 e-tron zu einer bequemen Option für Langstreckenreisen.
 
@@ -92,7 +92,7 @@ Die maximale regenerative Leistung beträgt 220 kW.
 
 ## Exterieur
 
-Der Audi SQ6 e-tron, mit Abmessungen von 4771 mm Länge, 1939 mm Breite und 1665 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Audi SQ6 e-tron ist in insgesamt 56 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen. Zusätzlich zur Standardpalette stammen einige Farben aus der exklusiven 'Audi exclusive' Palette.
+Der Audi SQ6 e-tron, mit Abmessungen von 4771 mm Länge, 1939 mm Breite und 1685 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Audi SQ6 e-tron ist in insgesamt 56 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen. Zusätzlich zur Standardpalette stammen einige Farben aus der exklusiven 'Audi exclusive' Palette.
 
 Sie können auch aus mehreren Styling-Optionen wählen, um Ihr Auto einzigartiger zu machen.
 
@@ -371,7 +371,7 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Der Audi SQ6 e-tron feierte seine Weltpremiere am 14.10.2024, mit Lieferungen ab March 2025.
+Der Audi SQ6 e-tron feierte seine Weltpremiere am 18.03.2024, mit Lieferungen ab August 2024.
 
 ### Preise
 
@@ -388,6 +388,6 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi SQ6 e-
 - [BMW iX M60](/models/bmw/ix/ix_m60/)
 - [Porsche Macan 4S](/models/porsche/macan/macan_4s/)
 
-<a href="https://db.evkx.net/evcompare?evs=4ec4e6%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=899448%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Audi Q6 e-tron" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -1,7 +1,7 @@
 ---
 title: Audi SQ6 e-tron
 linktitle: "SQ6 e-tron"
-description: "Audi SQ6 e-tron är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 607 km. EVKX.net har alla detaljer."
+description: "Audi SQ6 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 598 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Med overboost når Audi SQ6 e-tron en maximal effekt på 385 kW (524 hk). Utan o
 
 Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en buffert på 5,1 kWh (5,1%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 607 och 565 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,6 kWh/100 km för basmodellen och 16,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 598 och 565 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,9 kWh/100 km för basmodellen och 16,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 21 minuter och 36 sekunder. Denna effektiva laddningskapacitet gör Audi SQ6 e-tron till ett bekvämt alternativ för långdistansresor.
 
@@ -92,7 +92,7 @@ Den maximala regenerativa effekten är 220 kW.
 
 ## Exteriör
 
-Audi SQ6 e-tron, med dimensioner på 4771 mm i längd, 1939 mm i bredd och 1665 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Audi SQ6 e-tron finns i totalt 56 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Utöver standardpaletten är några färger från den exklusiva paletten 'Audi exclusive'.
+Audi SQ6 e-tron, med dimensioner på 4771 mm i längd, 1939 mm i bredd och 1685 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Audi SQ6 e-tron finns i totalt 56 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Utöver standardpaletten är några färger från den exklusiva paletten 'Audi exclusive'.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
@@ -371,7 +371,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.10.2024 och leveranserna startade i March 2025.
+Denna modell hade världspremiär 18.03.2024 och leveranserna startade i August 2024.
 
 ### Prissättning
 
@@ -388,6 +388,6 @@ På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera a
 - [BMW iX M60](/models/bmw/ix/ix_m60/)
 - [Porsche Macan 4S](/models/porsche/macan/macan_4s/)
 
-<a href="https://db.evkx.net/evcompare?evs=4ec4e6%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=899448%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Audi Q6 e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}}
