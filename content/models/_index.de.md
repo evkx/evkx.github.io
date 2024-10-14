@@ -106,6 +106,9 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 			<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="lynk_&_co"><img src="https://media.evkx.net/multimedia/models/lynk_&_co/logo_xst.png" alt="Lynk & Co" title="Lynk & Co" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="maserati"><img src="https://media.evkx.net/multimedia/models/maserati/logo_xst.png" alt="Maserati" title="Maserati" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -454,6 +457,13 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	Lucid hat 2 Modelle mit insgesamt 6 Varianten.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Gehe zu Lucid EV-Modellübersicht</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Lynk & Co</h2>
+	<p>
+	Lynk & Co hat 1 Modelle mit insgesamt 1 Varianten.
+	</p>
+	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Gehe zu Lynk & Co EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>

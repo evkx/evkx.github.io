@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fantastic Result For Tesla Model 3 Long Range RWD In Our 10% EV Road Trip Challenge!</h3>
+<p>Out of Spec Reviews: 14.10.2024</p>
+
+{{< youtube GrExTMES_5o >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 Mega Highway Range Test! Every Highland Refresh Variant Driven From 100% Full To Dead</h3>
+<p>Out of Spec Reviews: 12.10.2024</p>
+
+{{< youtube zmn7gpuAp9E >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Highway Range Test Battle! Tesla Model 3 Long Range RWD vs Hyundai IONIQ 6 SE</h3>
 <p>Out of Spec Reviews: 11.10.2024</p>
 

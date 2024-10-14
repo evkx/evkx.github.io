@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-b36c6b58
+  translation: Lynk & Co 02 es un crossover totalmente eléctrico con un WLTP alcance de hasta 445 km (277 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-3d2dbc1f
   translation: Audi SQ6 Sportback e-tron es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 607 km (377 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6f16b54c
   translation: Hyundai Ioniq 5 XRT es un SUV totalmente eléctrico con una autonomía EPA de hasta 402 km (250 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-f6cf62a4
-  translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
 

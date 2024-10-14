@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/lynk_&_co/02/02/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/lynk_and_co/02/02/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Lynk & Co 02</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-b36c6b58"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/audi/q6_e-tron/sq6_sportback_e-tron/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/sq6_sportback_e-tron/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Chevrolet Blazer EV RS RWD</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-59a38dcc"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/tesla/model_3/model_3_long_range_rwd/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_rwd/main_1_mt.jpeg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Tesla Model 3 Long Range RWD</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-2c5cba1f"}}</p>
 				</div>
 			</div>
 		</div>

@@ -106,6 +106,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 			<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="lynk_&_co"><img src="https://media.evkx.net/multimedia/models/lynk_&_co/logo_xst.png" alt="Lynk & Co" title="Lynk & Co" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="maserati"><img src="https://media.evkx.net/multimedia/models/maserati/logo_xst.png" alt="Maserati" title="Maserati" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -454,6 +457,13 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	Lucid har 2 modeller med i alt 6 varianter.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå til Lucid EV-modeloversigt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Lynk & Co</h2>
+	<p>
+	Lynk & Co har 1 modeller med i alt 1 varianter.
+	</p>
+	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Gå til Lynk & Co EV-modeloversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>

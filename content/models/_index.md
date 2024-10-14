@@ -106,6 +106,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="lynk_&_co"><img src="https://media.evkx.net/multimedia/models/lynk_&_co/logo_xst.png" alt="Lynk & Co" title="Lynk & Co" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="maserati"><img src="https://media.evkx.net/multimedia/models/maserati/logo_xst.png" alt="Maserati" title="Maserati" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -544,6 +547,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Lucid has 2 models with total 6 variants.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Go to Lucid EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Lynk & Co</h2>
+	<p>
+		Lynk & Co is more than a car company; it’s a mobility provider committed to flexibility as its core principle. With a diverse range of car ownership options – from subscription to lease to purchase – Lynk & Co is at the forefront of the car-sharing movement. The brand combines vibrant, innovative design with pioneering connectivity solutions, offering consumers a forward-thinking driving experience.
+	</p>
+	<p>
+	Lynk & Co has 1 models with total 1 variants.
+	</p>
+	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Go to Lynk & Co EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>
