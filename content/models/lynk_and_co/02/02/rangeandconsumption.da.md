@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Rækkevidden vil variere afhængigt af flere faktorer. Som hvor hurtigt du kører, temperaturen, våd eller tør vej og det udstyrede udstyr. På denne side finder du et diagram og tabeller med standard testcyklusresultater som WLTP og EPA og estimeret rækkevidde i den virkelige verden i forskellige miljøer.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/lynk_&_co/02/02/range.svg"/>
-<a href="/images/models/lynk_&_co/02/02/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/lynk_and_co/02/02/range.svg"/>
+<a href="/images/models/lynk_and_co/02/02/range.svg">Full screen</a>
 
 ### Officielle testcyklusresultater
 

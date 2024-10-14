@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 L'autonomie variera en fonction de plusieurs facteurs. Comme la vitesse à laquelle vous conduisez, la température, la route mouillée ou sèche, et l'équipement équipé. Sur cette page, vous trouverez un schéma et des tableaux avec les résultats du cycle de test standard comme WLTP et EPA et autonomie réelle estimée dans différents environnements.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/lynk_&_co/02/02/range.svg"/>
-<a href="/images/models/lynk_&_co/02/02/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/lynk_and_co/02/02/range.svg"/>
+<a href="/images/models/lynk_and_co/02/02/range.svg">Full screen</a>
 
 ### Résultats officiels du cycle de test
 

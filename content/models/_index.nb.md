@@ -106,7 +106,7 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 			<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
-			<a href="lynk_&_co"><img src="https://media.evkx.net/multimedia/models/lynk_&_co/logo_xst.png" alt="Lynk & Co" title="Lynk & Co" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+			<a href="lynk_and_co"><img src="https://media.evkx.net/multimedia/models/lynk_and_co/logo_xst.png" alt="Lynk & Co" title="Lynk & Co" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
 			<a href="maserati"><img src="https://media.evkx.net/multimedia/models/maserati/logo_xst.png" alt="Maserati" title="Maserati" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
