@@ -1,7 +1,7 @@
 ---
 title: How to Extend EV Battery Life
 linktitle: Extending Battery Life
-description: One of the primary concerns for prospective electric vehicle (EV) buyers is battery longevity and the potential cost of replacement.
+description: Learn key strategies to maximize your electric vehicle's battery life and minimize degradation.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -83,6 +83,8 @@ You can see from the graph and table that following the recommended strategy red
 
 While fast charging is convenient, it can accelerate battery degradation if overused. For longevity, opt for slower AC charging whenever possible. Charging your car slowly over 5 hours is gentler on the battery than relying on a fast charger that recharges your vehicle in 20-30 minutes. Use fast chargers only when necessary, such as on long trips.
 
+To learn why fast charging affects battery life, read our [battery article](../../../technology/battery/degredation).
+
 ## Tip 3: Avoid Extreme Heat
 
 Heat is a major enemy of battery health. Whenever possible, park your EV in the shade or in a garage to avoid exposing the battery to extreme temperatures. High heat can increase the rate of degradation, especially if the car is fully charged. In warmer climates, it's even more critical to manage charging schedules and storage to keep the car cool.
@@ -107,12 +109,11 @@ The [2023 Tesla Impact Report](https://www.tesla.com/ns_videos/2023-tesla-impact
 
 {{< sitefiguresized thumb="guides/protectingbattery/degradation_1_st.jpg" width="1568" height="758" title="After 200,000 miles, the Tesla batteries degrade just 15%" >}}
 
+You can find more information about battery degradation in our [battery article](../../../technology/battery/degredation).
 
-You can find more information about battery degradation in our [battery guide](../../../technology/battery/degredation).
+## Learn More
 
-## Learn 
-
-Engineering explained have two great videoes on how degradation works.
+The YouTube channel "Engineering Explained" has three great videos on how degradation works.
 
 ### How To Ruin Your Electric Car's Battery - NMC Edition!
 
@@ -121,3 +122,7 @@ Engineering explained have two great videoes on how degradation works.
 ### How To Ruin Your Electric Car's Battery - LFP Edition!
 
 {{< youtube w1zKfIQUQ-s >}}
+
+### Does Fast Charging Ruin Your Electric Car's Battery?
+
+{{< youtube qYJk1Qljwgg >}}
