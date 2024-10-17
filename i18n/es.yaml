@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-43d72223
+  translation: OMODA E5 es un crossover totalmente eléctrico con un WLTP alcance de hasta 430 km (267 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-b36c6b58
   translation: Lynk & Co 02 es un crossover totalmente eléctrico con un WLTP alcance de hasta 445 km (277 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6d850020
   translation: Onvo L60 AWD es un SUV cupé totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-6f16b54c
-  translation: Hyundai Ioniq 5 XRT es un SUV totalmente eléctrico con una autonomía EPA de hasta 402 km (250 millas). EVKX.net tiene todos los detalles.
 

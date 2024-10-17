@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-43d72223
+  translation: OMODA E5 er en helelektrisk crossover med en WLTP rekkevidde på opptil 430 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-b36c6b58
   translation: Lynk & Co 02 er en helelektrisk crossover med en WLTP rekkevidde på opptil 445 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6d850020
   translation: Onvo L60 AWD er en helelektrisk coupe-SUV med en CLTC rekkevidde på opptil 700 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-6f16b54c
-  translation: Hyundai Ioniq 5 XRT er en helelektrisk SUV med en EPA rekkevidde på opptil 402 km. EVKX.net har alle detaljene.
 

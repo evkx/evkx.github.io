@@ -76,7 +76,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Audi Q4 45 e-tron quattro, with dimensions of 4588 mm in length, 1865 mm in width, and 1632 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 8 different paint colors when ordering this model.
+The Audi Q4 45 e-tron quattro, with dimensions of 4588 mm in length, 1865 mm in width, and 1632 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Audi Q4 45 e-tron quattro is available in a total of 8 paint colors, including both solid and metallic options.
 
 You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 

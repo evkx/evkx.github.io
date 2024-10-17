@@ -76,7 +76,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Den Audi Q4 45 e-tron quattro, med dimensioner på 4588 mm i længde, 1865 mm i bredde og 1632 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Audi Q4 45 e-tron quattro, med dimensioner på 4588 mm i længde, 1865 mm i bredde og 1632 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Audi Q4 45 e-tron quattro fås i alt 8 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
