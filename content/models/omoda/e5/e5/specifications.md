@@ -174,6 +174,47 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 
+### Chargeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Chargeport placement
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Max ground clearance</a>
+			</td>
+			<td>
+				180 mm (7,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Minimum ground clearance</a>
+			</td>
+			<td>
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

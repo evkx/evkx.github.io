@@ -36,9 +36,15 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 80 kW. Charging from 0% to 100% takes approximately 100 minutes, while a more typical scenario from 10% to 80% takes 40 minutes with an average charging speed of 64 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 12% to 71%. This results in an effective charging speed, including time lost, of 60 kW, with each charging session taking about 36 minutes and 36 seconds.
 
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 11 hours and 12 minutes. This journey would require five charging stops from 13% to 70%, with a total charging time of 172 minutes.
+
 ### Onboard Charger
 
 The  onboard charger supports up to 9.9 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 3 minutes using a home charging setup.
+
+### Charge Port
+
+The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in.
 
 ### Bidirectional Charging
 
@@ -52,7 +58,15 @@ The OMODA E5 has a front-wheel drive system supported by one motor on the front 
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm.
+
+### Drive Modes
+
+The OMODA E5 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Normal: Balanced steering and throttle.
+- Sport: Dynamic steering and throttle.
+- Eco: Balanced steering and efficent throttle.
 
 ### Brakes
 
@@ -68,9 +82,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The OMODA E5, with dimensions of 4424 mm in length, 1830 mm in width, and 1588 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The OMODA E5 is available in a total of 10 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has manual curtain that occupants can use to protect against the sun.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/omoda/e5/e5/exterior_1_st.jpg" title="OMODA E5" width="1250" height="703"  >}}
 
@@ -113,12 +129,16 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 There is one climate system available:
 
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
+
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort Features
 
 The OMODA E5 includes several features to enhance comfort and convenience:
 
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -208,6 +228,17 @@ With the Traffic Jam Assist  level 2 system, you get the following driving autom
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The OMODA E5 is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+Additionally, the front and second-row seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -36,9 +36,15 @@ Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized 
 
 Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 100 minuter, medan ett vanligare scenario på 10-80 % tar 40 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 12% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 36 minuter och 36 sekunder.
 
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 12 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 70%, med en total laddningstid på 172 minuter.
+
 ### Ombordladdare
 
 Den standard ombordladdaren stöder upp till 9,9 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 3 minuter med en hemmaladdare.
+
+### Laddningsport
+
+Platsen för laddningsporten är på [fronten](../../../../technology/charging/connectors/#front). Denna plats gör det lättanvända laddstationer där du måste parkera med fronten in.
 
 ### Bidirektionell laddning
 
@@ -52,7 +58,15 @@ OMODA E5 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Mot
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
+
+### Körlägen
+
+OMODA E5 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+
+- Normal: Balanserad styrning och gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 
@@ -68,9 +82,11 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 OMODA E5, med dimensioner på 4424 mm i längd, 1830 mm i bredd och 1588 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. OMODA E5 finns i totalt 10 lackfärger, inklusive flera iögonfallande metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig över endast den främre raden, och passagerarna kan öppna det. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för den åkande. Den har en manuell gardin som de åkande kan använda för att skydda mot solen.
+
+B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/omoda/e5/e5/exterior_1_st.jpg" title="OMODA E5" width="1250" height="703"  >}}
 
@@ -113,12 +129,16 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 Det finns ett tillgängligt klimatsystem.
 
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Komfortfunktioner
 
 OMODA E5 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -208,6 +228,17 @@ Med Traffic Jam Assist  nivå 2-systemet får du följande funktioner för köra
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+OMODA E5 är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+
+- Främre krockkuddar för föraren och främre passageraren
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för föraren och främre passageraren
+- En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+
+Dessutom är säkerhetsbältena i första och andra raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
 
 {{<evkxdisplayaddarticle />}}
 

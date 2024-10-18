@@ -174,6 +174,47 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 
 
+### Ladeanschluss
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeanschlussplatzierung
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Ozeanien (Australien, Neuseeland usw.)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Abmessungen
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Bodenfreiheit
+			</td>
+			<td>
+				180 mm (7,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimale Bodenfreiheit
+			</td>
+			<td>
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Querverkehrsassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

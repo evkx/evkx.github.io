@@ -178,10 +178,10 @@ The charging curve for this model is derived from manufacturer data and insights
 				4,3 km (2,7 mi)
 			</td>
 			<td>
-				?
+				2,7 km (1,7 mi)
 			</td>
 			<td>
-				?
+				2,6 km (1,6 mi)
 			</td>
 		</tr>
 		<tr>
@@ -195,10 +195,10 @@ The charging curve for this model is derived from manufacturer data and insights
 				4,7 km (2,9 mi)
 			</td>
 			<td>
-				?
+				3,0 km (1,9 mi)
 			</td>
 			<td>
-				?
+				2,9 km (1,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -212,10 +212,10 @@ The charging curve for this model is derived from manufacturer data and insights
 				7,6 km (4,7 mi)
 			</td>
 			<td>
-				?
+				4,8 km (3,0 mi)
 			</td>
 			<td>
-				?
+				4,6 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>

@@ -174,6 +174,47 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 
 
+### Laddningsport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningsportplacering
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max markfrigång
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minsta markfrigång
+			</td>
+			<td>
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Varning för korstrafik, foran
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

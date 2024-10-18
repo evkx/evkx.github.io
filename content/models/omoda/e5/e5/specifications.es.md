@@ -174,6 +174,47 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 
 
+### Puerto de carga
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensiones
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia máxima al suelo
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia mínima al suelo
+			</td>
+			<td>
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

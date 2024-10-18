@@ -522,6 +522,9 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>OMODA</h2>
 	<p>
+		Omoda er et relativt nytt bilmerke som har oppstått fra Chery, en av de største kinesiske bilprodusentene. Offisielt lansert i 2022, representerer Omoda Cherys forsøk på å imøtekomme yngre, teknologikyndige forbrukere med fokus på banebrytende design, avansert teknologi og bærekraft. Merket legger vekt på elektriske og hybride kjøretøysalternativer, i tråd med globale trender mot grønnere og mer miljøvennlige transportløsninger.
+	</p>
+	<p>
 	OMODA har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="omoda/" class="btn btn-outline-primary" role="button">Gå til OMODA modelloversikt</a>

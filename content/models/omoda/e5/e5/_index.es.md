@@ -36,9 +36,15 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 
 La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % tardaría 100 minutos, mientras que un escenario más común del 10 al 80 % tardaría 40 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 12% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 60kW. Cada sesión de carga tardaría 36 minutos y 36 segundos.
 
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 12 minutos. Este viaje requeriría dos paradas de carga del 13% al 70%, con un tiempo total de carga de 172 minutos.
+
 ### Cargador a bordo
 
 El cargador a bordo estándar soporta hasta 9,9 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 3 minutos usando un cargador en casa.
+
+### Puerto de carga
+
+La ubicación del puerto de carga está en el [frente](../../../../technology/charging/connectors/#front). Esta ubicación lo hace estaciones de carga fáciles de usar donde es necesario estacionar con la parte delantera hacia adentro.
 
 ### Carga bidireccional
 
@@ -52,7 +58,15 @@ OMODA E5 tiene un sistema de tracción delantera sostenido por un motor en el ej
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 180 mm.
+
+### Modos de conducción
+
+El OMODA E5 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
+
+- Normal: Dirección y acelerador equilibrados.
+- Sport: Dirección y acelerador dinámicos.
+- Eco: Dirección equilibrada y acelerador eficiente.
 
 ### Frenos
 
@@ -68,9 +82,11 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El OMODA E5, con dimensiones de 4424 mm de longitud, 1830 mm de anchura y 1588 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El OMODA E5 está disponible en un total de 10 colores de pintura, incluyendo varias opciones metálicas llamativas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El vidrio se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este vidrio hace que el interior del auto se sienta más cómodo. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de cortina manual que los ocupantes pueden utilizar para protegerse del sol.
+
+Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/omoda/e5/e5/exterior_1_st.jpg" title="OMODA E5" width="1250" height="703"  >}}
 
@@ -113,12 +129,16 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 Hay un sistema climático disponible.
 
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Características de confort
 
 El OMODA E5 incluye varias características para mejorar la comodidad y conveniencia:
 
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -208,6 +228,17 @@ Con el sistema Traffic Jam Assist  de nivel 2, obtienes las siguientes funciones
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y ocho [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
+## Seguridad
+
+El OMODA E5 está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
+
+Además, los cinturones de seguridad de la primera y segunda fila están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
 
 {{<evkxdisplayaddarticle />}}
 

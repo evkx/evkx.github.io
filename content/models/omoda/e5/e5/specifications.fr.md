@@ -174,6 +174,47 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 
 
+### Port de charge
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Placement du port de charge
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol maximale
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol minimale
+			</td>
+			<td>
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au trafic transversal
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

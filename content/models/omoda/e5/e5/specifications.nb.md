@@ -174,6 +174,47 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
+### Ladeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplassering
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensjoner
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks bakkeklaring
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum bakkeklaring
+			</td>
+			<td>
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

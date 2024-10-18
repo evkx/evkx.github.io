@@ -36,9 +36,15 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 80 kW. Das Laden von 0% auf 100% dauert etwa 100 Minuten, während ein typischer Ladevorgang von 10% auf 80% 40 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 64 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 12% und 71%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 60 kW, wobei jede Ladesitzung etwa 36 Minuten und 36 Sekunden dauert.
 
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 11 Stunden und 12 Minuten dauern. Diese Reise würde fünf Ladestopps von 13% auf 70% erfordern, mit einer gesamten Ladezeit von 172 Minuten.
+
 ### Bordladegerät
 
 Das  Onboard-Ladegerät unterstützt bis zu 9,9 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 3 Minuten vollständig von 0 auf 100% aufzuladen.
+
+### Ladeanschluss
+
+Der Ladeanschluss befindet sich an der [Vorderseite](../../../../technology/charging/connectors/#front). Diese Position erleichtert die Nutzung von Ladestationen, bei denen Sie mit der Vorderseite einparken müssen.
 
 ### Bidirektionales Laden
 
@@ -52,7 +58,15 @@ Der OMODA E5 hat ein Frontantriebssystem, das von einem Motor an der Vorderachse
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 180 mm.
+
+### Fahrmodi
+
+Der OMODA E5 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
+
+- Normal: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
 
 ### Bremsen
 
@@ -68,9 +82,11 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 Der OMODA E5, mit Abmessungen von 4424 mm Länge, 1830 mm Breite und 1588 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der OMODA E5 ist in insgesamt 10 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#boot-lid) für den Kofferraum.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Schiebedach bestellen. Das Glas erstreckt sich nur über die vordere Reihe und die Insassen können es öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen manuellen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/omoda/e5/e5/exterior_1_st.jpg" title="OMODA E5" width="1250" height="703"  >}}
 
@@ -113,12 +129,16 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 Es gibt ein Klimasystem verfügbar:
 
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
+
 Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
 
 ## Komfortfunktionen
 
 Der OMODA E5 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
+- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
+- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -208,6 +228,17 @@ Mit dem Traffic Jam Assist  Level 2 System erhalten Sie die folgenden Fahrautoma
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und acht [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der OMODA E5 ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
+Zusätzlich sind die Sicherheitsgurte der ersten und zweiten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
 
 {{<evkxdisplayaddarticle />}}
 

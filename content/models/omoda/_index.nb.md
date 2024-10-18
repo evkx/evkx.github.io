@@ -1,7 +1,7 @@
 ---
 title: OMODA elektriske modeller
 linktitle: "OMODA"
-description: "Omoda is a relatively new automobile brand that emerged from Chery, one of the largest Chinese automotive manufacturers. Officially launched in 2022, Omoda represents Chery's attempt to cater to younger, tech-savvy consumers with a focus on cutting-edge design, advanced technology, and sustainability. The brand emphasizes electric and hybrid vehicle options, aligning with global trends toward greener and more eco-friendly transportation solutions."
+description: "Omoda er et relativt nytt bilmerke som har oppstått fra Chery, en av de største kinesiske bilprodusentene. Offisielt lansert i 2022, representerer Omoda Cherys forsøk på å imøtekomme yngre, teknologikyndige forbrukere med fokus på banebrytende design, avansert teknologi og bærekraft. Merket legger vekt på elektriske og hybride kjøretøysalternativer, i tråd med globale trender mot grønnere og mer miljøvennlige transportløsninger."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

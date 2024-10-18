@@ -174,6 +174,47 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 
 
+### Ladeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplacering
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Oceanien (Australien, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensioner
 
 <table class="table table-striped border">
@@ -364,6 +405,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks frihøjde
+			</td>
+			<td>
+				180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum frihøjde
+			</td>
+			<td>
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -845,6 +902,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Cross traffic assist
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
