@@ -130,6 +130,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="omoda"><img src="https://media.evkx.net/multimedia/models/omoda/logo_xst.png" alt="OMODA" title="OMODA" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="onvo"><img src="https://media.evkx.net/multimedia/models/onvo/logo_xst.png" alt="Onvo" title="Onvo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -632,6 +635,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Nissan has 1 models with total 4 variants.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Go to Nissan EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>OMODA</h2>
+	<p>
+		Omoda is a relatively new automobile brand that emerged from Chery, one of the largest Chinese automotive manufacturers. Officially launched in 2022, Omoda represents Chery's attempt to cater to younger, tech-savvy consumers with a focus on cutting-edge design, advanced technology, and sustainability. The brand emphasizes electric and hybrid vehicle options, aligning with global trends toward greener and more eco-friendly transportation solutions.
+	</p>
+	<p>
+	OMODA has 1 models with total 1 variants.
+	</p>
+	<a href="omoda/" class="btn btn-outline-primary" role="button">Go to OMODA EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>

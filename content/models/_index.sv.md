@@ -130,6 +130,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 			<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="omoda"><img src="https://media.evkx.net/multimedia/models/omoda/logo_xst.png" alt="OMODA" title="OMODA" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="onvo"><img src="https://media.evkx.net/multimedia/models/onvo/logo_xst.png" alt="Onvo" title="Onvo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -521,6 +524,16 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	Nissan har 1 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå till Nissan modellöversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>OMODA</h2>
+	<p>
+		Omoda är ett relativt nytt bilmärke som har uppstått från Chery, en av de största kinesiska biltillverkarna. Officiellt lanserat 2022 representerar Omoda Cherys försök att tillgodose yngre, teknikkunniga konsumenter med fokus på banbrytande design, avancerad teknik och hållbarhet. Märket betonar elektriska och hybrida fordonsalternativ, i linje med globala trender mot grönare och mer miljövänliga transportlösningar.
+	</p>
+	<p>
+	OMODA har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="omoda/" class="btn btn-outline-primary" role="button">Gå till OMODA modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
