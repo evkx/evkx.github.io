@@ -46,6 +46,8 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
+### Bidirektionell laddning
+
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -63,6 +65,15 @@ Du kan beställa Audi Q4 45 e-tron quattro med en alternativ sport-upphängning.
 ### Styrning
 
 Dynamisk styrning är valfritt-funktionen för Audi Q4 45 e-tron quattro. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+Audi Q4 45 e-tron quattro låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
+
+- Dynamic: Dynamisk styrning, fjädring och gaspådrag.
+- Efficiency: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
+- Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
+- Custom: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 
@@ -100,6 +111,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
+Interiören i Audi Q4 45 e-tron quattro är funktionell och har högkvalitativa material i flera områden istället för hård plast. Dessutom inkluderar den en traditionell mittkonsol som separerar föraren och passageraren, vilket ger praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
+
 ### Säten
 
 Audi Q4 45 e-tron quattro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
@@ -111,23 +124,40 @@ För första raden erbjuder Audi Q4 45 e-tron quattro två olika sätestyper att
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 Följande funktioner är tillgängliga på **sport** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/läderimitation klädsel](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1998"  >}}
 
@@ -137,11 +167,19 @@ Du kan välja två sätestyper för den andra raden i Audi Q4 45 e-tron quattro.
 
 Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- höjdjusterbart nackstöd
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+- höjdjusterbart nackstöd
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2000"  >}}
 
 ### Interiör Förvaring
+
+Audi Q4 45 e-tron quattro erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
 
 - **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
@@ -168,6 +206,8 @@ Audi Q4 45 e-tron quattro inkluderar flera funktioner för att förbättra komfo
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
+
 Audi Q4 45 e-tron quattro har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 
 Viktiga skärmdetaljer:
@@ -183,7 +223,7 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 Audi Q4 45 e-tron quattro är utrustad med en enda typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ### Speglar
 
@@ -191,9 +231,11 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ## Infotainment
 
+Audi MIB3 infotainments operativsystem är utformat för att hantera den digitala ryggraden i bilens infotainmentfunktioner, vilket säkerställer smidig prestanda och snabbare svarstider. Det stöder fordonets användargränssnitt (UI), molnbaserade tjänster och realtidsdatabehandling, vilket möjliggör avancerad navigation, multimedia och röststyrningsfunktioner.
+
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera den önskade laddningsnivån vid din destination eller under laddningsstopp. Systemet ger realtids trafikinformation och satellitkartor, vilket säkerställer en effektiv och stressfri resa.
 
 ### Telefon spegling
 
@@ -224,11 +266,11 @@ Audi Q4 45 e-tron quattro kommer med en egen dedikerad mobilapp, tillgänglig f�
 Du kan välja mellan två typer av strålkastare för Audi Q4 45 e-tron quattro.
 
 - **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. Dagsljuslamporna (DRL) för detta alternativ har också flera LED-segment, vilket gör att du kan anpassa din föredragna DRL-signatur. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Dessutom har du två alternativ för bakljus:
 
-- De valfria bakljusen använder LED-teknik.
+- Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 - De valfria bakljusen använder LED-teknik.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2003"  >}}
@@ -263,7 +305,7 @@ Audi Q4 45 e-tron quattro inkluderar flera [avancerade förarassistanssystem](..
 
 Audi Q4 45 e-tron quattro erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Adaptive Cruise Control  nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
@@ -273,6 +315,23 @@ Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+Audi Q4 45 e-tron quattro är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+
+- Främre krockkuddar för föraren och främre passageraren
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för föraren och främre passageraren
+- Sidokrockkuddar för passagerarna i andra raden
+- En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+
+Dessutom är säkerhetsbältena i första raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -289,4 +348,16 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 21.09.2023 och leveranserna startade i December 2023.
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Audi Q4 45 e-tron quattro som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPÉ 85x](/models/skoda/enyaq_iv/enyaq_coupé_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=734a3f%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

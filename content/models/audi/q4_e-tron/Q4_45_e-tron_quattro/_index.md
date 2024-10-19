@@ -46,6 +46,8 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -63,6 +65,15 @@ You can order Audi Q4 45 e-tron quattro with an alternative sport suspension. Th
 ### Steering
 
 Dynamic steering is an optional on the Audi Q4 45 e-tron quattro, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Audi Q4 45 e-tron quattro lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Dynamic: Dynamic steering, suspension and throttle.
+- Efficiency: Balanced steering, with efficient throttle, and balanced suspension.
+- Comfort: Balanced throttle and steering, comfort suspension damping.
+- Custom: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 
@@ -104,6 +115,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+The interior of the Audi Q4 45 e-tron quattro is functional, featuring high-quality materials in several areas instead of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
+
 ### Seats
 
 The Audi Q4 45 e-tron quattro accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -115,23 +128,40 @@ The front row offers two seat types to cater to various comfort and style prefer
 The following functionalities are available on the **standard** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 The following functionalities are available on the **sport** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/leatherette upholstering](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1998"  >}}
 
@@ -141,11 +171,19 @@ You can choose two seat types for the second row in the Audi Q4 45 e-tron quattr
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
+
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2000"  >}}
 
 ### Interior Storage
+
+The Audi Q4 45 e-tron quattro provides ample interior storage solutions to enhance convenience and organization:
 
 - **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
@@ -172,6 +210,8 @@ The Audi Q4 45 e-tron quattro includes several features to enhance comfort and c
 
 ## User Interface and Control
 
+The control interface for the Audi Q4 45 e-tron quattro is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Audi Q4 45 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
 Key screen details:
@@ -187,7 +227,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Audi Q4 45 e-tron quattro is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -195,9 +235,11 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The Audi MIB3 infotainment operating system is designed to handle the digital backbone of the car's infotainment features, ensuring smooth performance and faster response times. It supports the vehicle’s user interface (UI), cloud-based services, and real-time data processing, enabling advanced navigation, multimedia, and voice control functionalities.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information and satellite maps, ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 
@@ -228,7 +270,7 @@ The Audi Q4 45 e-tron quattro comes with a dedicated mobile app, available for b
 You can choose between two types of headlights for the Audi Q4 45 e-tron quattro.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. The daytime running lights (DRL) for this option also feature multiple LED segments, allowing you to customize your preferred DRL signature. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Additionally, you have two options for taillights:
 
@@ -267,7 +309,7 @@ The Audi Q4 45 e-tron quattro features a range of standard and optional [advance
 
 The Audi Q4 45 e-tron quattro offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the Adaptive Cruise Control  level 1 system, you get the following driving automation features.
 
 - Cruise control.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -277,6 +319,23 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Audi Q4 45 e-tron quattro is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- Side airbags for the second-row passengers
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+Additionally, the front seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -293,4 +352,16 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The Audi Q4 45 e-tron quattro had its world premiere on 21.09.2023, with deliveries starting in December 2023.
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Audi Q4 45 e-tron quattro that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPÉ 85x](/models/skoda/enyaq_iv/enyaq_coupé_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=734a3f%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}
