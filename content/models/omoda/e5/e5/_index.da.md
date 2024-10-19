@@ -94,7 +94,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-interior.intro.functional.standard.splitlevel
+Interiøret i OMODA E5 er funktionelt og har materialer af middel kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet.
 
 ### Sæder
 

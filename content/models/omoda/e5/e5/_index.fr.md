@@ -94,7 +94,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-interior.intro.functional.standard.splitlevel
+L'intérieur de la OMODA E5 est fonctionnel, avec des matériaux de qualité moyenne utilisés dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée.
 
 ### Sièges
 

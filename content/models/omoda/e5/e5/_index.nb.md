@@ -94,7 +94,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-interior.intro.functional.standard.splitlevel
+Interiøret i OMODA E5 er funksjonelt, med materialer av middels kvalitet brukt gjennomgående. Den delt nivå midtkonsollen skiller fører og passasjer, og tilbyr praktiske lagringsalternativer og forbedret funksjonalitet.
 
 ### Seter
 

@@ -94,7 +94,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-interior.intro.functional.standard.splitlevel
+El interior del OMODA E5 es funcional, con materiales de calidad media utilizados en todo el vehículo. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
 
 ### Asientos
 

@@ -94,7 +94,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-interior.intro.functional.standard.splitlevel
+Interiören i OMODA E5 är funktionell och har material av medelkvalitet i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet.
 
 ### Säten
 

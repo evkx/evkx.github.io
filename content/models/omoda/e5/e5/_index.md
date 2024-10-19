@@ -94,7 +94,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-interior.intro.functional.standard.splitlevel
+The interior of the OMODA E5 is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
 
 ### Seats
 

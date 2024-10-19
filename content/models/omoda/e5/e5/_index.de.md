@@ -94,7 +94,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-interior.intro.functional.standard.splitlevel
+Das Interieur des OMODA E5 ist funktional, mit mittelmäßigen Materialien im gesamten Fahrzeug. Ein herausragendes Merkmal ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet.
 
 ### Sitze
 
