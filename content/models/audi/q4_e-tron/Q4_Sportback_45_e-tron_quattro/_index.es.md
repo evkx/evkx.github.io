@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron quattro
 linktitle: "Q4 Sportback 45 e-tron quattro"
-description: "Audi Q4 Sportback 45 e-tron quattro es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 539 km (335 millas). EVKX.net tiene todos los detalles."
+description: "Audi Q4 Sportback 45 e-tron quattro es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 541 km (336 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ El Audi Q4 Sportback 45 e-tron quattro ofrece un rendimiento sólido con una pot
 
 La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 76,6 kWh, proporcionando un buffer de 5,4 kWh (6,6%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 539 y 466 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,2 kWh/100 km para el modelo base y 16,4 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 541 y 480 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,2 kWh/100 km para el modelo base y 16,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 175kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 51%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 113kW. Cada sesión de carga tardaría 20 minutos y 33 segundos.
 
@@ -337,7 +337,7 @@ Además, los cinturones de seguridad delanteros están equipados con pretensores
 
 El maletero ofrece una capacidad de carga de 535 litros. Con el asiento trasero plegado, esto se expande a 1460 litros. En el techo, puedes cargar hasta 75 kg.
 
-El peso máximo del vehículo es 2720 kg, con un peso base de 2135 kg. Esto permite una carga máxima de 585 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2750 kg, con un peso base de 2160 kg. Esto permite una carga máxima de 590 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1200 kg, mientras que para un tráiler sin freno es de 750 kg.
 

@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron
 linktitle: "Q4 Sportback 45 e-tron"
-description: "Audi Q4 Sportback 45 e-tron is an all-electric premium coupe SUV with a WLTP range of up to 541 km (336 miles). EVKX.net has all the details."
+description: "Audi Q4 Sportback 45 e-tron is an all-electric premium coupe SUV with a WLTP range of up to 579 km (360 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,17 +26,17 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Audi Q4 Sportback 45 e-tron delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The Audi Q4 Sportback 45 e-tron delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 560 Nm (413 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 76.6 kWh, providing a 5.4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 541 to 466 km (336-290 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.2 kWh/100 km for the base model and 16.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 579 to 516 km (360-321 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.2 kWh/100 km for the base model and 14.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical scenario from 10% to 80% takes 29 minutes with an average charging speed of 113 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 51%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 20 minutes and 33 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 9 hours and 48 minutes. This journey would require five charging stops from 4% to 47%, with a total charging time of 89 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 43 minutes. This journey would require four charging stops from 2% to 53%, with a total charging time of 83 minutes.
 
 ### Onboard Charger
 

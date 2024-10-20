@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron quattro
 linktitle: "Q4 45 e-tron quattro"
-description: "Audi Q4 45 e-tron quattro är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 512 km. EVKX.net har alla detaljer."
+description: "Audi Q4 45 e-tron quattro är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 541 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delat in vår beskrivning av Audi Q4 45 e-tron quattro i avsnitt. Om du v
 
 ## Prestanda
 
-Audi Q4 45 e-tron quattro levererar en solid prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 679 Nm. Den kan accelerera från 0 till 100 km/h på 6,9 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
+Audi Q4 45 e-tron quattro levererar en solid prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 679 Nm. Den kan accelerera från 0 till 100 km/h på 6,6 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
 Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 76,6 kWh, vilket ger en buffert på 5,4 kWh (6,6%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 512 och 434 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,0 kWh/100 km för basmodellen och 17,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 541 och 480 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,2 kWh/100 km för basmodellen och 16,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 51%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 113kW. Varje laddningssession tar 20 minuter och 33 sekunder.
 

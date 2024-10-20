@@ -16,17 +16,17 @@ Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../.
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q4 e-tron 45 Quattro charging test</h3>
+<p>Bjørn Nyland: 08.02.2024</p>
+
+{{< youtube tohEDzwbv-w >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q4 e-tron 45 Quattro range test</h3>
 <p>Bjørn Nyland: 07.02.2024</p>
 
 {{< youtube N68Q674TXWI >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Audi Q4 e-tron 45 Quattro acceleration and noise test</h3>
-<p>Bjørn Nyland: 07.02.2024</p>
-
-{{< youtube tohEDzwbv-w >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

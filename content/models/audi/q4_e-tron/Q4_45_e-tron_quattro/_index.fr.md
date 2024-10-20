@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron quattro
 linktitle: "Q4 45 e-tron quattro"
-description: "Audi Q4 45 e-tron quattro est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 512 km (318 miles). EVKX.net a tous les détails."
+description: "Audi Q4 45 e-tron quattro est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 541 km (336 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Nous avons séparé notre article Audi Q4 45 e-tron quattro en sections. Si vous
 
 ## Performances
 
-La Audi Q4 45 e-tron quattro offre des performances solides avec une puissance maximale de 210 kW (286 ch) et un couple total de 679 Nm. Elle peut accélérer de 0 à 100 km/h en 6,9 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
+La Audi Q4 45 e-tron quattro offre des performances solides avec une puissance maximale de 210 kW (286 ch) et un couple total de 679 Nm. Elle peut accélérer de 0 à 100 km/h en 6,6 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 76,6 kWh, offrant une réserve de 5,4 kWh (6,6%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 512 et 434 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,0 kWh/100 km pour le modèle de base et à 17,6 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 541 et 480 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,2 kWh/100 km pour le modèle de base et à 16,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 175kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 29 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 51 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 113kW. Chaque session de charge prendrait 20 minutes et 33 secondes.
 

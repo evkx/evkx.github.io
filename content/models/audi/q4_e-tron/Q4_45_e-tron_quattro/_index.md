@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron quattro
 linktitle: "Q4 45 e-tron quattro"
-description: "Audi Q4 45 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 512 km (318 miles). EVKX.net has all the details."
+description: "Audi Q4 45 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 541 km (336 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Audi Q4 45 e-tron quattro delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 679 Nm (501 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The Audi Q4 45 e-tron quattro delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 679 Nm (501 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 76.6 kWh, providing a 5.4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 512 to 434 km (318-270 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.0 kWh/100 km for the base model and 17.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 541 to 480 km (336-298 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.2 kWh/100 km for the base model and 16.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical scenario from 10% to 80% takes 29 minutes with an average charging speed of 113 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 51%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 20 minutes and 33 seconds.
 

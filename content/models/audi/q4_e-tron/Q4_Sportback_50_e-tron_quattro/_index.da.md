@@ -24,6 +24,12 @@ Vi har opdelt vores Audi Q4 Sportback 50 e-tron quattro artikel i sektioner. Hvi
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron/).
+
+</div>
+
 ## Ydeevne
 
 Med overboost når Audi Q4 Sportback 50 e-tron quattro en maksimal effekt på 220 kW (299 hk). Uden overboost leverer den 195 kW (265 hk). Det maksimale drejningsmoment er 460 Nm. Den kan accelerere fra 0 til 100 km/t på 6,2 sekunder og når en topfart på 180 km/t, hvilket demonstrerer dens solide præstation.
@@ -343,5 +349,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i January 2022. Denne model er nu udgået.
+Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i January 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron).
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}

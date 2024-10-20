@@ -40,10 +40,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				541 km / 336 mi
+				579 km / 360 mi
 			</td>
 			<td>
-				14,16kWh/100km / 4,4 mi/kWh
+				13,23kWh/100km / 4,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				466 km / 290 mi
+				516 km / 321 mi
 			</td>
 			<td>
-				16,44 kWh/100km / 3,8 mi/kWh
+				14,84 kWh/100km / 4,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range basic trim with 2KW AC
 			</td>
 			<td>
-				 415km / 258 mi 
+				 437km / 272 mi 
 			</td>
 			<td>
-				-23,3%
+				-24,5%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range top trim with 2KW AC
 			</td>
 			<td>
-				369 km / 229 mi
+				400 km / 249 mi
 			</td>
 			<td>
-				-20,8%
+				-22,5%
 			</td>
 		</tr>
 	</tbody>
@@ -132,10 +132,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				90kmh/56mph perfect condition
 			</td>
 			<td>
-				426km / 265 mi
+				451km / 280 mi
 			</td>
 			<td>
-				18 kWh/100km / 3,5 mi/kWh
+				17 kWh/100km / 3,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +143,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				90kmh/56mph with 2KW heating
 			</td>
 			<td>
-				390km /236mi
+				411km /248mi
 			</td>
 			<td>
-				20,2 kWh/100km /3,1 mi/kWh 
+				19,2 kWh/100km /3,2 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -154,10 +154,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				70mph/112kmh perfect condition
 			</td>
 			<td>
-				348 km / 216 mi
+				365 km / 227 mi
 			</td>
 			<td>
-				22 kWh/100km / 2,8 mi/kWh
+				21 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -165,10 +165,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				70mph/112kmh with 2KW heating
 			</td>
 			<td>
-				322km / 200mi
+				337km / 209mi
 			</td>
 			<td>
-				23,8 kWh/100km / 2,6 mi/kWh  
+				22,8 kWh/100km / 2,7 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -176,10 +176,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				120kmh/75mph perfect condition
 			</td>
 			<td>
-				319 km / 198 mi
+				333 km / 207 mi
 			</td>
 			<td>
-				24 kWh/100km / 2,6 mi/kWh
+				23 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -187,10 +187,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				120kmh/75mph with 2KW heating
 			</td>
 			<td>
-				298 km /185mi
+				310 km /193mi
 			</td>
 			<td>
-				25,7 kWh/100km /2,4 mi/kWh
+				24,7 kWh/100km /2,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

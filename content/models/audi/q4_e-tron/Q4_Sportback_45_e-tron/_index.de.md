@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron
 linktitle: "Q4 Sportback 45 e-tron"
-description: "Audi Q4 Sportback 45 e-tron ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 541 km (336 Meilen). EVKX.net hat alle Details."
+description: "Audi Q4 Sportback 45 e-tron ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 579 km (360 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,17 +26,17 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Audi Q4 Sportback 45 e-tron liefert eine solide Leistung mit einer maximalen Leistung von 210 kW (286 PS / 282 bhp) und einem Gesamtdrehmoment von 545 Nm (402 lb-ft). Er beschleunigt in 6,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der Audi Q4 Sportback 45 e-tron liefert eine solide Leistung mit einer maximalen Leistung von 210 kW (286 PS / 282 bhp) und einem Gesamtdrehmoment von 560 Nm (413 lb-ft). Er beschleunigt in 6,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 541 und 466 km (336-290 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,2 kWh/100 km für das Basismodell und 16,4 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 579 und 516 km (360-321 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 13,2 kWh/100 km für das Basismodell und 14,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 175 kW. Das Laden von 0% auf 100% dauert etwa 62 Minuten, während ein typischer Ladevorgang von 10% auf 80% 29 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 113 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 3% und 51%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 113 kW, wobei jede Ladesitzung etwa 20 Minuten und 33 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24 kWh/100 km, würde die Fahrt etwa 9 Stunden und 48 Minuten dauern. Diese Reise würde fünf Ladestopps von 4% auf 47% erfordern, mit einer gesamten Ladezeit von 89 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 9 Stunden und 43 Minuten dauern. Diese Reise würde vier Ladestopps von 2% auf 53% erfordern, mit einer gesamten Ladezeit von 83 Minuten.
 
 ### Bordladegerät
 

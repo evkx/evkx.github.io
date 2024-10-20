@@ -30,7 +30,7 @@ Audi Q4 Sportback 40 e-tron tilbyder beskedne præstationer med en maksimal effe
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 82,0 kWh og en nettoanvendelig kapacitet på 76,6 kWh, hvilket giver en buffer på 5,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 82,0 kWh og en nettoanvendelig kapacitet på 76,6 kWh, hvilket giver en buffer på 5,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 528 og 452 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,5 kWh/100 km for basismodellen og 16,9 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -62,6 +62,15 @@ Du kan bestille Audi Q4 Sportback 40 e-tron med en alternativ sport hjulophæng.
 
 Dynamisk styring er en valgfri-funktion på Audi Q4 Sportback 40 e-tron. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
+### Køretilstande
+
+Audi Q4 Sportback 40 e-tron lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
+
+- Dynamic: Dynamisk styring, affjedring og speeder.
+- Efficiency: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
+- Comfort: Afbalanceret speeder og styring, komfortaffjedring.
+- Custom: Brugerdefinerede indstillinger for styring, speeder og affjedring.
+
 ### Bremser
 
 Audi Q4 Sportback 40 e-tron bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
@@ -74,7 +83,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Den Audi Q4 Sportback 40 e-tron, med dimensioner på 4588 mm i længde, 1865 mm i bredde og 1614 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Audi Q4 Sportback 40 e-tron, med dimensioner på 4588 mm i længde, 1865 mm i bredde og 1614 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Audi Q4 Sportback 40 e-tron fås i alt 8 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
@@ -98,6 +107,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
+Interiøret i Audi Q4 Sportback 40 e-tron er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
+
 ### Sæder
 
 Audi Q4 Sportback 40 e-tron har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -109,23 +120,40 @@ For første række tilbyder Audi Q4 Sportback 40 e-tron to forskellige sædetype
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 Følgende funktioner er tilgængelige på **sport** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/læderbetræk](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2001"  >}}
 
@@ -135,11 +163,19 @@ Du kan vælge to sædetyper til anden række i Audi Q4 Sportback 40 e-tron.
 
 Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+
 Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+
+- højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2001"  >}}
 
 ### Interiøropbevaring
+
+Audi Q4 Sportback 40 e-tron tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
 
 - **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
 - **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
@@ -166,6 +202,8 @@ Audi Q4 Sportback 40 e-tron inkluderer flere funktioner, der forbedrer komfort o
 
 ## Brugergrænseflade og kontrol
 
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+
 Audi Q4 Sportback 40 e-tron har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
 
 Vigtige skærmdetaljer:
@@ -189,9 +227,11 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ## Infotainment
 
+Audi MIB3 infotainment-operativsystemet er designet til at håndtere den digitale rygrad af bilens infotainment-funktioner, hvilket sikrer jævn ydeevne og hurtigere svartider. Det understøtter køretøjets brugergrænseflade (UI), cloud-baserede tjenester og realtidsdatabehandling, hvilket muliggør avanceret navigation, multimedie og stemmestyringsfunktioner.
+
 ### Navigationssystem
 
-Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger og satellitkort, hvilket sikrer en effektiv og stressfri rejse.
 
 ### Telefon spejling
 
@@ -222,11 +262,11 @@ Den Audi Q4 Sportback 40 e-tron kommer med sin dedikerede mobilapp, tilgængelig
 Du kan vælge mellem to typer forlygter til Audi Q4 Sportback 40 e-tron.
 
 - **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+- **LED Matrix Forlygter:** Tilgængelige som en opgradering, dette adaptive system opdeler den traditionelle forlygtebjælke i dusinvis af mindre stråler, som lysstyringen kan aktivere eller deaktivere individuelt. Dette optimerer belysningen ved selektivt at dæmpe specifikke områder for at undgå at blænde modkørende trafik. Kørelysene (DRL) for denne mulighed har også flere LED-segmenter, hvilket giver dig mulighed for at tilpasse din foretrukne DRL-signatur. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
 Derudover har du to muligheder for baglygter:
 
-- De valgfrie baglygter bruger LED-teknologi.
+- Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 - De valgfrie baglygter bruger LED-teknologi.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/headlights_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2000"  >}}
@@ -261,7 +301,7 @@ Den Audi Q4 Sportback 40 e-tron inkluderer flere standard- og valgfri [avancered
 
 Audi Q4 Sportback 40 e-tron tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Adaptive Cruise Control  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - Fartpilot.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
@@ -270,6 +310,24 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til k
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerhed
+
+Audi Q4 Sportback 40 e-tron er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+
+- Frontairbags til føreren og forsædepassageren
+- Sidegardinairbags til både første og anden række
+- Sideairbags til føreren og forsædepassageren
+- Sideairbags til passagererne i anden række
+- En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+
+Derudover er sikkerhedsselerne i første række udstyret med selestrammere, der strammes automatisk under en kollision for at minimere skaderisikoen.
 
 {{<evkxdisplayaddarticle />}}
 

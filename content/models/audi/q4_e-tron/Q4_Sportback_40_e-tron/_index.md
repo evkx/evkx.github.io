@@ -30,7 +30,7 @@ The Audi Q4 Sportback 40 e-tron offers modest performance with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 76.6 kWh, providing a 5.4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 76.6 kWh, providing a 5.4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 528 to 452 km (328-281 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.5 kWh/100 km for the base model and 16.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -62,6 +62,15 @@ You can order Audi Q4 Sportback 40 e-tron with an alternative sport suspension. 
 
 Dynamic steering is an optional on the Audi Q4 Sportback 40 e-tron, varying the steering ratio based on driving speed for enhanced control and comfort.
 
+### Drive Modes
+
+The Audi Q4 Sportback 40 e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Dynamic: Dynamic steering, suspension and throttle.
+- Efficiency: Balanced steering, with efficient throttle, and balanced suspension.
+- Comfort: Balanced throttle and steering, comfort suspension damping.
+- Custom: User-defined settings for steering, throttle, and suspension.
+
 ### Brakes
 
 The Audi Q4 Sportback 40 e-tron uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358 mm.
@@ -74,7 +83,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Audi Q4 Sportback 40 e-tron, with dimensions of 4588 mm in length, 1865 mm in width, and 1614 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 8 different paint colors when ordering this model.
+The Audi Q4 Sportback 40 e-tron, with dimensions of 4588 mm in length, 1865 mm in width, and 1614 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Audi Q4 Sportback 40 e-tron is available in a total of 8 paint colors, including both solid and metallic options.
 
 You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
@@ -102,6 +111,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+The interior of the Audi Q4 Sportback 40 e-tron is functional, featuring high-quality materials in several areas instead of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
+
 ### Seats
 
 The Audi Q4 Sportback 40 e-tron accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -113,23 +124,40 @@ The front row offers two seat types to cater to various comfort and style prefer
 The following functionalities are available on the **standard** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 The following functionalities are available on the **sport** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/leatherette upholstering](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2001"  >}}
 
@@ -139,11 +167,19 @@ You can choose two seat types for the second row in the Audi Q4 Sportback 40 e-t
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
+
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2001"  >}}
 
 ### Interior Storage
+
+The Audi Q4 Sportback 40 e-tron provides ample interior storage solutions to enhance convenience and organization:
 
 - **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
@@ -170,6 +206,8 @@ The Audi Q4 Sportback 40 e-tron includes several features to enhance comfort and
 
 ## User Interface and Control
 
+The control interface for the Audi Q4 Sportback 40 e-tron is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Audi Q4 Sportback 40 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
 Key screen details:
@@ -193,9 +231,11 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The Audi MIB3 infotainment operating system is designed to handle the digital backbone of the car's infotainment features, ensuring smooth performance and faster response times. It supports the vehicle’s user interface (UI), cloud-based services, and real-time data processing, enabling advanced navigation, multimedia, and voice control functionalities.
+
 ### Navigation System
 
-With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information and satellite maps, ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 
@@ -226,7 +266,7 @@ The Audi Q4 Sportback 40 e-tron comes with a dedicated mobile app, available for
 You can choose between two types of headlights for the Audi Q4 Sportback 40 e-tron.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. The daytime running lights (DRL) for this option also feature multiple LED segments, allowing you to customize your preferred DRL signature. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Additionally, you have two options for taillights:
 
@@ -265,7 +305,7 @@ The Audi Q4 Sportback 40 e-tron features a range of standard and optional [advan
 
 The Audi Q4 Sportback 40 e-tron offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the Adaptive Cruise Control  level 1 system, you get the following driving automation features.
 
 - Cruise control.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -274,6 +314,24 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Audi Q4 Sportback 40 e-tron is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- Side airbags for the second-row passengers
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+Additionally, the front seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
 
 {{<evkxdisplayaddarticle />}}
 

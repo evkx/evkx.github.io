@@ -24,6 +24,12 @@ We've organized this article into specific sections for easier navigation. Click
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron/).
+
+</div>
+
 ## Performance
 
 With overboost, the Audi Q4 Sportback 50 e-tron quattro reaches a maximum power of 220 kW (299 hp / 295 bhp). Without overboost, it delivers 195 kW (265 hp / 262 bhp). The maximum torque is 460 Nm (339 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and reaches a top speed of 180 km/h (112 mph), demonstrating its solid performance.
@@ -347,5 +353,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 14.04.2021, and deliveries started in January 2022. This models has now been discontined.
+This model had a world premiere on 14.04.2021, and deliveries started in January 2022. This models has now been discontined. This model has been replaced by [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron).
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}

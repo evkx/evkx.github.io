@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron quattro
 linktitle: "Q4 Sportback 45 e-tron quattro"
-description: "Audi Q4 Sportback 45 e-tron quattro ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 539 km (335 Meilen). EVKX.net hat alle Details."
+description: "Audi Q4 Sportback 45 e-tron quattro ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 541 km (336 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Der Audi Q4 Sportback 45 e-tron quattro liefert eine solide Leistung mit einer m
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 539 und 466 km (335-290 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,2 kWh/100 km für das Basismodell und 16,4 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 541 und 480 km (336-298 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,2 kWh/100 km für das Basismodell und 16,0 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 175 kW. Das Laden von 0% auf 100% dauert etwa 62 Minuten, während ein typischer Ladevorgang von 10% auf 80% 29 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 113 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 3% und 51%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 113 kW, wobei jede Ladesitzung etwa 20 Minuten und 33 Sekunden dauert.
 
@@ -337,7 +337,7 @@ Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgest
 
 Der Kofferraum bietet ein Ladevolumen von 535 Litern (18,9 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1460 Liter (51,6 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2720 kg (5997 lbs) bei einem Leergewicht von 2135 kg (4707 lbs). Dies ermöglicht eine maximale Zuladung von 585 kg (1290 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2750 kg (6063 lbs) bei einem Leergewicht von 2160 kg (4762 lbs). Dies ermöglicht eine maximale Zuladung von 590 kg (1301 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1200 kg (2646 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
