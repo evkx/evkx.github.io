@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				537 km
+				539 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				14,3 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				16,3 kWh/100km
+				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				466 km
+				480 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				16,4 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				18,9 kwh/100km
+				18,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -362,7 +362,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de voladizo frontal
 			</td>
 			<td>
-				16,9
+				17,7
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de voladizo trasero
 			</td>
 			<td>
-				19,4
+				23,3
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2140 kg
+				2160 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2715 kg
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				575 kg
+				590 kg
 			</td>
 		</tr>
 		<tr>

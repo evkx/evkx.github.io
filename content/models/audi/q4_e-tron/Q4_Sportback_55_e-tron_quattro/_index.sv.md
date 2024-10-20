@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 55 e-tron quattro
 linktitle: "Q4 Sportback 55 e-tron quattro"
-description: "Audi Q4 Sportback 55 e-tron quattro är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 537 km. EVKX.net har alla detaljer."
+description: "Audi Q4 Sportback 55 e-tron quattro är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 539 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Audi Q4 Sportback 55 e-tron quattro levererar en solid prestanda med en maximal 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 76,6 kWh, vilket ger en buffert på 5,4 kWh (6,6%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 537 och 466 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,3 kWh/100 km för basmodellen och 16,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 539 och 480 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,2 kWh/100 km för basmodellen och 16,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 61 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 113kW. Varje laddningssession tar 20 minuter och 23 sekunder.
 
@@ -337,7 +337,7 @@ Dessutom är säkerhetsbältena i första raden utrustade med bältessträckare 
 
 Bagageutrymmet erbjuder en lastkapacitet på 535 liter. Med baksätena nedfällda ökar detta till 1460 liter. På taket kan du lasta upp till 75 kg.
 
-Fordonets maximala vikt är 2715 kg, med en grundvikt på 2140 kg. Detta tillåter en maximal last på 575 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2750 kg, med en grundvikt på 2160 kg. Detta tillåter en maximal last på 590 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
 

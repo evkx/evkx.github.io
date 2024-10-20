@@ -337,7 +337,7 @@ Derudover er sikkerhedsselerne i første række udstyret med selestrammere, der 
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 520 liter. Med det bageste sæde foldet ned, udvides dette til 1490 liter. På taget kan du laste op til 75 kg.
+Bagagerummet har en lastekapacitet på 520 liter. Med det bageste sæde foldet ned, udvides dette til 1490 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 2720 kg, med en basisvægt på 2135 kg. Dette giver en maksimal last på 585 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

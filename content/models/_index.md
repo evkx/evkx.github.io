@@ -632,7 +632,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. 
 	</p>
 	<p>
-	Nissan has 1 models with total 4 variants.
+	Nissan has 1 models with total 5 variants.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Go to Nissan EV-model overview</a>
 </div>

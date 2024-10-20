@@ -337,7 +337,7 @@ Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgest
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1490 Liter (52,6 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
+Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1490 Liter (52,6 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2720 kg (5997 lbs) bei einem Leergewicht von 2135 kg (4707 lbs). Dies ermöglicht eine maximale Zuladung von 585 kg (1290 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

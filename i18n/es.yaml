@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-a0da6ccf
+  translation: Nissan Ariya NISMO es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 417 km (259 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-43d72223
   translation: OMODA E5 es un crossover totalmente eléctrico con un WLTP alcance de hasta 430 km (267 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b687c14e
   translation: Onvo L60 RWD es un SUV cupé totalmente eléctrico con un CLTC alcance de hasta 730 km (454 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-6d850020
-  translation: Onvo L60 AWD es un SUV cupé totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
 

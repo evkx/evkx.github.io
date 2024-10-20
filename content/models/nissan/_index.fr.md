@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nissan Ariya est un SUV coupé disponible en 4 variantes.
+Nissan Ariya est un SUV coupé disponible en 5 variantes.
 </p>
 	<a href="ariya/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

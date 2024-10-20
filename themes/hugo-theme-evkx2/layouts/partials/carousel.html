@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/nissan/ariya/ariya_nismo/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_nismo/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Nissan Ariya NISMO</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-a0da6ccf"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/omoda/e5/e5/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/omoda/e5/e5/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Audi Q6 Sportback e-tron performance</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-cd8a76aa"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/audi/q6_e-tron/q6_sportback_e-tron/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6_sportback_e-tron/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Audi Q6 Sportback e-tron</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-e7e2b239"}}</p>
 				</div>
 			</div>
 		</div>

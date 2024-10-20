@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-a0da6ccf
+  translation: Nissan Ariya NISMO is an all-electric coupe SUV with a WLTP range of up to 417 km (259 miles). EVKX.net has all the details.
+
 - id: frontpage-description-43d72223
   translation: OMODA E5 is an all-electric crossover with a WLTP range of up to 430 km (267 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b687c14e
   translation: Onvo L60 RWD is an all-electric coupe SUV with a CLTC range of up to 730 km (454 miles). EVKX.net has all the details.
-
-- id: frontpage-description-6d850020
-  translation: Onvo L60 AWD is an all-electric coupe SUV with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
 

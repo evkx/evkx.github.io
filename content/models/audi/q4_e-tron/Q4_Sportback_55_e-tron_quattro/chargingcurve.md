@@ -206,7 +206,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				13,8 km (8,6 mi)
+				13,9 km (8,6 mi)
 			</td>
 			<td>
 				?

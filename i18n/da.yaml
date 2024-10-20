@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-a0da6ccf
+  translation: Nissan Ariya NISMO er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 417 km (259 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-43d72223
   translation: OMODA E5 er en fuldelektrisk crossover med en WLTP rækkevidde på op til 430 km (267 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b687c14e
   translation: Onvo L60 RWD er en fuldelektrisk coupé-SUV med en CLTC rækkevidde på op til 730 km (454 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-6d850020
-  translation: Onvo L60 AWD er en fuldelektrisk coupé-SUV med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne.
 

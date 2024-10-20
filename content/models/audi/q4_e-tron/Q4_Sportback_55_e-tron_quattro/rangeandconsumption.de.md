@@ -40,10 +40,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				537 km / 334 mi
+				539 km / 335 mi
 			</td>
 			<td>
-				14,26kWh/100km / 4,4 mi/kWh
+				14,21kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				466 km / 290 mi
+				480 km / 298 mi
 			</td>
 			<td>
-				16,44 kWh/100km / 3,8 mi/kWh
+				15,96 kWh/100km / 3,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Basisausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				 413km / 257 mi 
+				 414km / 257 mi 
 			</td>
 			<td>
-				-23,1%
+				-23,2%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Top-Ausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				369 km / 229 mi
+				378 km / 235 mi
 			</td>
 			<td>
-				-20,8%
+				-21,2%
 			</td>
 		</tr>
 	</tbody>

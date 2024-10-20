@@ -515,7 +515,7 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="nissan/"><img src="https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg" class="img-fluid mb-2" alt="Nissan" ></a>
 	<h2>Nissan</h2>
 	<p>
-	Nissan har 1 modell(er) med totalt 4 varianter.
+	Nissan har 1 modell(er) med totalt 5 varianter.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå til Nissan modelloversikt</a>
 </div>

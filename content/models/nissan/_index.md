@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nissan Ariya is a Coupe SUV available in 4 variants.
+Nissan Ariya is a Coupe SUV available in 5 variants.
 </p>
 	<a href="ariya/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				537 km
+				539 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14,3 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16,3 kWh/100km
+				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				466 km
+				480 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				16,4 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18,9 kwh/100km
+				18,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -362,7 +362,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				16,9
+				17,7
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				19,4
+				23,3
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2140 kg
+				2160 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2715 kg
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				575 kg
+				590 kg
 			</td>
 		</tr>
 		<tr>
