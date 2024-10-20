@@ -40,10 +40,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				562 km / 349 mi
+				541 km / 336 mi
 			</td>
 			<td>
-				13,63kWh/100km / 4,6 mi/kWh
+				14,16kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				475 km / 295 mi
+				466 km / 290 mi
 			</td>
 			<td>
-				16,13 kWh/100km / 3,9 mi/kWh
+				16,44 kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række grundlæggende trim med 2KW AC
 			</td>
 			<td>
-				 427km / 265 mi 
+				 415km / 258 mi 
 			</td>
 			<td>
-				-24,0%
+				-23,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				375 km / 233 mi
+				369 km / 229 mi
 			</td>
 			<td>
-				-21,1%
+				-20,8%
 			</td>
 		</tr>
 	</tbody>
@@ -129,7 +129,29 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 	<tbody>
 		<tr>
 			<td>
-				120kmt/75mph perfekt stand
+				90kmt/56mph perfekt stand
+			</td>
+			<td>
+				426km / 265 mi
+			</td>
+			<td>
+				18 kWh/100km / 3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90kmt/56mph med 2KW opvarmning
+			</td>
+			<td>
+				390km /236mi
+			</td>
+			<td>
+				20,2 kWh/100km /3,1 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh perfekt stand
 			</td>
 			<td>
 				348 km / 216 mi
@@ -140,13 +162,35 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
+				70mph/112kmh med 2KW opvarmning
+			</td>
+			<td>
+				322km / 200mi
+			</td>
+			<td>
+				23,8 kWh/100km / 2,6 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120kmt/75mph perfekt stand
+			</td>
+			<td>
+				319 km / 198 mi
+			</td>
+			<td>
+				24 kWh/100km / 2,6 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				323 km /201mi
+				298 km /185mi
 			</td>
 			<td>
-				23,7 kWh/100km /2,6 mi/kWh
+				25,7 kWh/100km /2,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>

@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				562 km
+				541 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				13,6 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				15,6 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				475 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,1 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				18,6 kwh/100km
+				18,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				125 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -761,7 +769,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>
@@ -825,7 +833,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -833,7 +841,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +849,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Optional electric feature
 			</td>
 		</tr>
 		<tr>
@@ -906,7 +914,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +978,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -978,7 +986,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +994,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard electric feature
+				Optional electric feature
 			</td>
 		</tr>
 		<tr>
@@ -1038,7 +1046,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1046,7 +1054,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1062,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1062,7 +1070,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1078,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1086,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1094,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1102,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1102,7 +1110,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1110,7 +1118,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -1143,7 +1151,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1151,7 +1159,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1159,7 +1167,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1167,7 +1175,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1175,7 +1183,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1183,7 +1191,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1191,7 +1199,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1199,7 +1207,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1207,7 +1215,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1215,7 +1223,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -1489,7 +1497,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
-				Yes (MMI Navigation plus), standard equipment
+				Yes (MMI Navigation plus), optional equipment
 			</td>
 		</tr>
 		<tr>

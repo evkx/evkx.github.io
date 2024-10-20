@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				562 km
+				541 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				13,6 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				15,6 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				475 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				16,1 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				18,6 kwh/100km
+				18,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				125 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -761,7 +769,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -825,7 +833,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -833,7 +841,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +849,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				No disponible
+				Función eléctrica opcional
 			</td>
 		</tr>
 		<tr>
@@ -906,7 +914,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +978,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -978,7 +986,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +994,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función eléctrica estándar
+				Función eléctrica opcional
 			</td>
 		</tr>
 		<tr>
@@ -1038,7 +1046,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1046,7 +1054,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1062,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1062,7 +1070,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1078,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1086,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1094,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1102,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1102,7 +1110,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1110,7 +1118,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1143,7 +1151,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1151,7 +1159,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1159,7 +1167,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1167,7 +1175,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1175,7 +1183,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1183,7 +1191,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1191,7 +1199,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1199,7 +1207,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1207,7 +1215,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1215,7 +1223,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1489,7 +1497,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				En navegación del coche
 			</td>
 			<td>
-				Sí (MMI Navigation plus), equipo estándar
+				Sí (MMI Navigation plus), equipo opcional
 			</td>
 		</tr>
 		<tr>

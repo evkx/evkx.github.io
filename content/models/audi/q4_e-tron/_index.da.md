@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q4_45_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q4 45 e-tron quattro" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q4_45_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q4 45 e-tron" ></a>
-<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q4_55_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_55_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q4 55 e-tron quattro" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q4_sportback_45_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q4 Sportback 45 e-tron quattro" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -106,7 +106,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q4_sportback_45_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_45_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q4 Sportback 45 e-tron" ></a>
-<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 125 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -125,7 +125,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q4_sportback_55_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q4 Sportback 55 e-tron quattro" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

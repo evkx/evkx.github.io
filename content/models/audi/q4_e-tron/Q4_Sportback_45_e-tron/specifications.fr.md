@@ -83,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				562 km
+				541 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				13,6 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				15,6 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				475 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				16,1 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				18,6 kwh/100km
+				18,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +166,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				125 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -761,7 +769,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -825,7 +833,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -833,7 +841,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +849,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique optionnelle
 			</td>
 		</tr>
 		<tr>
@@ -906,7 +914,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +978,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -978,7 +986,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +994,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonction électrique standard
+				Fonction électrique optionnelle
 			</td>
 		</tr>
 		<tr>
@@ -1038,7 +1046,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1046,7 +1054,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1062,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1062,7 +1070,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1078,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1086,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1094,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1102,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1102,7 +1110,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1110,7 +1118,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1143,7 +1151,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1151,7 +1159,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1159,7 +1167,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1167,7 +1175,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1175,7 +1183,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1183,7 +1191,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1191,7 +1199,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1199,7 +1207,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1207,7 +1215,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1215,7 +1223,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1489,7 +1497,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Dans la navigation automobile
 			</td>
 			<td>
-				Oui (MMI Navigation plus), équipement standard
+				Oui (MMI Navigation plus), équipement en option
 			</td>
 		</tr>
 		<tr>

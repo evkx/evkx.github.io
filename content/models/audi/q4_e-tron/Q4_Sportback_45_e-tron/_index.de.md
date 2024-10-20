@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron
 linktitle: "Q4 Sportback 45 e-tron"
-description: "Audi Q4 Sportback 45 e-tron ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 562 km (349 Meilen). EVKX.net hat alle Details."
+description: "Audi Q4 Sportback 45 e-tron ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 541 km (336 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,13 +30,13 @@ Der Audi Q4 Sportback 45 e-tron liefert eine solide Leistung mit einer maximalen
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 562 und 475 km (349-295 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 13,6 kWh/100 km für das Basismodell und 16,1 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 541 und 466 km (336-290 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,2 kWh/100 km für das Basismodell und 16,4 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 125 kW. Das Laden von 0% auf 100% dauert etwa 63 Minuten, während ein typischer Ladevorgang von 10% auf 80% 35 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 92 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 2% und 43%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 100 kW, wobei jede Ladesitzung etwa 19 Minuten und 56 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 175 kW. Das Laden von 0% auf 100% dauert etwa 62 Minuten, während ein typischer Ladevorgang von 10% auf 80% 29 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 113 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 3% und 51%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 113 kW, wobei jede Ladesitzung etwa 20 Minuten und 33 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22 kWh/100 km, würde die Fahrt etwa 9 Stunden und 47 Minuten dauern. Diese Reise würde vier Ladestopps von 2% auf 49% erfordern, mit einer gesamten Ladezeit von 88 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24 kWh/100 km, würde die Fahrt etwa 9 Stunden und 48 Minuten dauern. Diese Reise würde fünf Ladestopps von 4% auf 47% erfordern, mit einer gesamten Ladezeit von 89 Minuten.
 
 ### Bordladegerät
 
@@ -62,6 +62,15 @@ Sie können Audi Q4 Sportback 45 e-tron mit einer alternativen sport Federung be
 
 Die dynamische Lenkung ist eine optionale im Audi Q4 Sportback 45 e-tron, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
+### Fahrmodi
+
+Der Audi Q4 Sportback 45 e-tron ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Dynamic: Dynamisches Lenken, Federung und Gas.
+- Efficiency: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
+
 ### Bremsen
 
 Der Audi Q4 Sportback 45 e-tron verwendet [Scheibenbremsen](../../../../technology/brakes/#disc-brakes) vorne für überlegene Bremskraft und Wärmeableitung, während hinten [Trommelbremsen](../../../../technology/brakes/#drum-brakes) für Kosteneffizienz und Haltbarkeit eingesetzt werden. Trommelbremsen bieten eine ausreichende Leistung für die Hinterräder, erfordern weniger Wartung und integrieren sich nahtlos in das regenerative Bremssystem des Fahrzeugs. Diese Kombination sorgt für optimale Bremsleistung und Kosteneffizienz und entspricht den allgemeinen Effizienzzielen des EV. Die vorderen Scheiben sind 358 mm groß.
@@ -74,7 +83,7 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 ## Exterieur
 
-Der Audi Q4 Sportback 45 e-tron, mit Abmessungen von 4588 mm Länge, 1865 mm Breite und 1614 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Sie können zwischen 8 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Audi Q4 Sportback 45 e-tron, mit Abmessungen von 4588 mm Länge, 1865 mm Breite und 1614 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Audi Q4 Sportback 45 e-tron ist in insgesamt 8 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
 Sie können auch aus mehreren Styling-Optionen wählen, um Ihr Auto einzigartiger zu machen.
 
@@ -98,6 +107,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
+Das Interieur des Audi Q4 Sportback 45 e-tron ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Darüber hinaus umfasst es eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet. Sie können zwischen verschiedenen Sitztypen, Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
+
 ### Sitze
 
 Der Audi Q4 Sportback 45 e-tron bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
@@ -109,23 +120,40 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 Die folgenden Funktionen sind für den **sport**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black [Stoff/Kunstleder-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/Lederimitat-Polsterung](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron" width="3000" height="2001"  >}}
 
@@ -135,11 +163,19 @@ Sie können zwei Sitztypen für die zweite Reihe im Audi Q4 Sportback 45 e-tron 
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
 Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+
+- Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron" width="3000" height="2001"  >}}
 
 ### Innenraumaufbewahrung
+
+Der Audi Q4 Sportback 45 e-tron bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
 
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
@@ -166,6 +202,8 @@ Der Audi Q4 Sportback 45 e-tron umfasst mehrere Funktionen, um Komfort und Beque
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des Audi Q4 Sportback 45 e-tron konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
+
 Der Audi Q4 Sportback 45 e-tron hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und in der Mittelkonsole gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) oben in der Mittelkonsole.
 
 Wichtige Bildschirmdetails:
@@ -181,7 +219,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Audi Q4 Sportback 45 e-tron ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -189,9 +227,11 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+Das Audi MIB3 Infotainment-Betriebssystem ist darauf ausgelegt, das digitale Rückgrat der Infotainment-Funktionen des Autos zu verwalten und sorgt für eine reibungslose Leistung und schnellere Reaktionszeiten. Es unterstützt die Benutzeroberfläche (UI) des Fahrzeugs, cloudbasierte Dienste und die Echtzeit-Datenverarbeitung, wodurch fortschrittliche Navigation, Multimedia- und Sprachsteuerungsfunktionen ermöglicht werden.
+
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine erweiterte Routenplanung, mit der Sie das Ziel-Ladelevel an Ihrem Zielort oder während der Ladestopps definieren können. Das System bietet Echtzeit-Verkehrsinformationen und Satellitenkarten und sorgt für eine effiziente und stressfreie Reise.
 
 ### Telefonspiegelung
 
@@ -222,11 +262,11 @@ Der Audi Q4 Sportback 45 e-tron wird mit einer speziellen mobilen App geliefert,
 Sie können zwischen zwei Scheinwerfertypen für den Audi Q4 Sportback 45 e-tron wählen.
 
 - **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
-- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
+- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist als Upgrade erhältlich und teilt den traditionellen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln aktivieren oder deaktivieren kann. Dies optimiert die Beleuchtung, indem bestimmte Bereiche selektiv gedimmt werden, um entgegenkommenden Verkehr nicht zu blenden. Die Tagfahrlichter (DRL) für diese Option verfügen auch über mehrere LED-Segmente, die es Ihnen ermöglichen, Ihre bevorzugte DRL-Signatur anzupassen. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Zusätzlich haben Sie zwei Optionen für Rücklichter:
 
-- Die optionalen Rücklichter verwenden LED-Technologie.
+- Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 - Die optionalen Rücklichter verwenden LED-Technologie.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron" width="3000" height="2000"  >}}
@@ -261,7 +301,7 @@ Der Audi Q4 Sportback 45 e-tron verfügt über eine Reihe von standardmäßigen 
 
 Der Audi Q4 Sportback 45 e-tron bietet [Fahrautomatisierung
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Adaptive Cruise Control  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - Geschwindigkeitsregelung.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -270,6 +310,24 @@ Mit dem Assistantpackage Tour  Level 2 System erhalten Sie zusätzliche Fahrauto
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Audi Q4 Sportback 45 e-tron ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Seitenairbags für die Passagiere der zweiten Reihe
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
+Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -286,4 +344,16 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 ## Verfügbarkeit & Preise
 
 Der Audi Q4 Sportback 45 e-tron feierte seine Weltpremiere am 21.09.2023, mit Lieferungen ab December 2023.
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi Q4 Sportback 45 e-tron identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPE 85x](/models/skoda/enyaq_iv/enyaq_coupe_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=81fe99%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Reichweite" >}}

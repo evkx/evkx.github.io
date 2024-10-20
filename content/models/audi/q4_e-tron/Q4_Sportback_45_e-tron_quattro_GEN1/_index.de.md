@@ -36,7 +36,7 @@ Der Audi Q4 Sportback 45 e-tron quattro (GEN1) bietet eine bescheidene Leistung 
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 524 und 446 km (326-277 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,6 kWh/100 km für das Basismodell und 17,2 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -68,6 +68,15 @@ Sie können Audi Q4 Sportback 45 e-tron quattro (GEN1) mit einer alternativen sp
 
 Die dynamische Lenkung ist eine optionale im Audi Q4 Sportback 45 e-tron quattro (GEN1), wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
+### Fahrmodi
+
+Der Audi Q4 Sportback 45 e-tron quattro (GEN1) ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Dynamic: Dynamisches Lenken, Federung und Gas.
+- Efficiency: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
+
 ### Bremsen
 
 Der Audi Q4 Sportback 45 e-tron quattro (GEN1) verwendet [Scheibenbremsen](../../../../technology/brakes/#disc-brakes) vorne für überlegene Bremskraft und Wärmeableitung, während hinten [Trommelbremsen](../../../../technology/brakes/#drum-brakes) für Kosteneffizienz und Haltbarkeit eingesetzt werden. Trommelbremsen bieten eine ausreichende Leistung für die Hinterräder, erfordern weniger Wartung und integrieren sich nahtlos in das regenerative Bremssystem des Fahrzeugs. Diese Kombination sorgt für optimale Bremsleistung und Kosteneffizienz und entspricht den allgemeinen Effizienzzielen des EV. Die vorderen Scheiben sind 358 mm groß.
@@ -80,7 +89,7 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 ## Exterieur
 
-Der Audi Q4 Sportback 45 e-tron quattro (GEN1), mit Abmessungen von 4588 mm Länge, 1865 mm Breite und 1614 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Sie können zwischen 8 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Audi Q4 Sportback 45 e-tron quattro (GEN1), mit Abmessungen von 4588 mm Länge, 1865 mm Breite und 1614 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Audi Q4 Sportback 45 e-tron quattro (GEN1) ist in insgesamt 8 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
 Sie können auch aus mehreren Styling-Optionen wählen, um Ihr Auto einzigartiger zu machen.
 
@@ -104,6 +113,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
+Das Interieur des Audi Q4 Sportback 45 e-tron quattro (GEN1) ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Darüber hinaus umfasst es eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet. Sie können zwischen verschiedenen Sitztypen, Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
+
 ### Sitze
 
 Der Audi Q4 Sportback 45 e-tron quattro (GEN1) bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
@@ -115,23 +126,40 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 Die folgenden Funktionen sind für den **sport**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black [Stoff/Kunstleder-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/Lederimitat-Polsterung](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
@@ -141,11 +169,19 @@ Sie können zwei Sitztypen für die zweite Reihe im Audi Q4 Sportback 45 e-tron 
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
 Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+
+- Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 ### Innenraumaufbewahrung
+
+Der Audi Q4 Sportback 45 e-tron quattro (GEN1) bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
 
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
@@ -172,12 +208,14 @@ Der Audi Q4 Sportback 45 e-tron quattro (GEN1) umfasst mehrere Funktionen, um Ko
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des Audi Q4 Sportback 45 e-tron quattro (GEN1) konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
+
 Der Audi Q4 Sportback 45 e-tron quattro (GEN1) hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und in der Mittelkonsole gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) oben in der Mittelkonsole.
 
 Wichtige Bildschirmdetails:
 
 - Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 10,2 Zoll groß.
-- Der touch-Bildschirm oben in der Mittelkonsole ist 10,1 Zoll groß.
+- Der touch-Bildschirm oben in der Mittelkonsole ist 11,6 Zoll groß.
 
 Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
@@ -187,7 +225,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Audi Q4 Sportback 45 e-tron quattro (GEN1) ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -195,9 +233,11 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+Das Audi MIB3 Infotainment-Betriebssystem ist darauf ausgelegt, das digitale Rückgrat der Infotainment-Funktionen des Autos zu verwalten und sorgt für eine reibungslose Leistung und schnellere Reaktionszeiten. Es unterstützt die Benutzeroberfläche (UI) des Fahrzeugs, cloudbasierte Dienste und die Echtzeit-Datenverarbeitung, wodurch fortschrittliche Navigation, Multimedia- und Sprachsteuerungsfunktionen ermöglicht werden.
+
 ### Navigationssystem
 
-Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine erweiterte Routenplanung, mit der Sie das Ziel-Ladelevel an Ihrem Zielort oder während der Ladestopps definieren können. Das System bietet Echtzeit-Verkehrsinformationen und Satellitenkarten und sorgt für eine effiziente und stressfreie Reise.
 
 ### Telefonspiegelung
 
@@ -228,11 +268,11 @@ Der Audi Q4 Sportback 45 e-tron quattro (GEN1) wird mit einer speziellen mobilen
 Sie können zwischen zwei Scheinwerfertypen für den Audi Q4 Sportback 45 e-tron quattro (GEN1) wählen.
 
 - **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
-- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
+- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist als Upgrade erhältlich und teilt den traditionellen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln aktivieren oder deaktivieren kann. Dies optimiert die Beleuchtung, indem bestimmte Bereiche selektiv gedimmt werden, um entgegenkommenden Verkehr nicht zu blenden. Die Tagfahrlichter (DRL) für diese Option verfügen auch über mehrere LED-Segmente, die es Ihnen ermöglichen, Ihre bevorzugte DRL-Signatur anzupassen. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Zusätzlich haben Sie zwei Optionen für Rücklichter:
 
-- Die optionalen Rücklichter verwenden LED-Technologie.
+- Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 - Die optionalen Rücklichter verwenden LED-Technologie.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
@@ -267,7 +307,7 @@ Der Audi Q4 Sportback 45 e-tron quattro (GEN1) verfügt über eine Reihe von sta
 
 Der Audi Q4 Sportback 45 e-tron quattro (GEN1) bietet [Fahrautomatisierung
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Adaptive Cruise Control  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - Geschwindigkeitsregelung.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -276,6 +316,24 @@ Mit dem Assistantpackage Tour  Level 2 System erhalten Sie zusätzliche Fahrauto
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Audi Q4 Sportback 45 e-tron quattro (GEN1) ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Seitenairbags für die Passagiere der zweiten Reihe
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
+Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -166,7 +166,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				170 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>

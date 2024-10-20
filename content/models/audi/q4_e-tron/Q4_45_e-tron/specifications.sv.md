@@ -166,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				170 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>

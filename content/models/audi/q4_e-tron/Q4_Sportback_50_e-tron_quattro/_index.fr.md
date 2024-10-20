@@ -30,7 +30,7 @@ Avec overboost, l'Audi Q4 Sportback 50 e-tron quattro atteint une puissance maxi
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 76,6 kWh, offrant une réserve de 5,4 kWh (6,6%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 76,6 kWh, offrant une réserve de 5,4 kWh (6,6%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 522 et 446 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,7 kWh/100 km pour le modèle de base et à 17,2 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -62,6 +62,15 @@ Vous pouvez commander Audi Q4 Sportback 50 e-tron quattro avec une suspension al
 
 La direction dynamique est une fonctionnalité un facultatif sur le Audi Q4 Sportback 50 e-tron quattro. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
+### Modes de conduite
+
+Le Audi Q4 Sportback 50 e-tron quattro permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
+
+- Dynamic: Direction, suspension et accélérateur dynamiques.
+- Efficiency: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
+- Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable.
+- Custom : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
+
 ### Freins
 
 La Audi Q4 Sportback 50 e-tron quattro utilise des [freins à disques](../../../../technology/brakes/#disc-brakes) à l'avant pour une puissance de freinage supérieure et une dissipation thermique, tandis que des [freins à tambour](../../../../technology/brakes/#drum-brakes). sont utilisés à l'arrière pour leur rentabilité et leur durabilité. Les freins à tambour offrent des performances adéquates pour les roues arrière, nécessitent moins d'entretien et s'intègrent parfaitement au système de freinage régénératif du véhicule. Cette combinaison assure des performances de freinage optimales et une rentabilité, en accord avec les objectifs d'efficacité globaux de l'EV. Les disques avant mesurent 358 mm.
@@ -74,7 +83,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Audi Q4 Sportback 50 e-tron quattro, avec des dimensions de 4588 mm de longueur, 1865 mm de largeur et 1614 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 8 couleurs de peinture différentes lors de la commande de ce modèle.
+La Audi Q4 Sportback 50 e-tron quattro, avec des dimensions de 4588 mm de longueur, 1865 mm de largeur et 1614 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Audi Q4 Sportback 50 e-tron quattro est disponible en un total de 8 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 
@@ -98,6 +107,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
+L'intérieur du Audi Q4 Sportback 50 e-tron quattro est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+
 ### Sièges
 
 Le Audi Q4 Sportback 50 e-tron quattro peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
@@ -109,23 +120,40 @@ Pour la première rangée, l'Audi Q4 Sportback 50 e-tron quattro propose deux ty
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Brown [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable manuellement, réglable électriquement en option)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Revêtement Dinamica/cuir synthétique](../../../../technology/seats/materials/#dinamica)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
@@ -135,11 +163,19 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Audi
 
 L'option standard est une banquette à trois places avec une séparation 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- appui-tête réglable en hauteur
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+
 L'option second est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+
+- appui-tête réglable en hauteur
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 ### Rangement Intérieur
+
+Le Audi Q4 Sportback 50 e-tron quattro offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
 
 - **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
 - **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
@@ -166,6 +202,8 @@ L'Audi Q4 Sportback 50 e-tron quattro comprend plusieurs fonctionnalités pour a
 
 ## Interface utilisateur et contrôle
 
+L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
+
 Le Audi Q4 Sportback 50 e-tron quattro possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
@@ -181,7 +219,7 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Audi Q4 Sportback 50 e-tron quattro est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ### Rétroviseurs
 
@@ -189,9 +227,11 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ## Infodivertissement
 
+Le système d'exploitation d'infodivertissement Audi MIB3 est conçu pour gérer l'épine dorsale numérique des fonctionnalités d'infodivertissement de la voiture, garantissant des performances fluides et des temps de réponse plus rapides. Il prend en charge l'interface utilisateur (UI) du véhicule, les services basés sur le cloud et le traitement des données en temps réel, permettant une navigation avancée, des fonctionnalités multimédia et de contrôle vocal.
+
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification avancée des itinéraires où vous pouvez définir le niveau de charge cible à votre destination ou lors des arrêts de charge. Le système fournit des informations sur le trafic en temps réel et des cartes satellites, garantissant un voyage efficace et sans stress.
 
 ### Réplication du téléphone
 
@@ -222,11 +262,11 @@ Le Audi Q4 Sportback 50 e-tron quattro est accompagné de son application mobile
 Vous pouvez choisir entre deux types de phares pour le Audi Q4 Sportback 50 e-tron quattro.
 
 - **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Les feux de jour (DRL) pour cette option comportent également plusieurs segments LED, vous permettant de personnaliser votre signature DRL préférée. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 De plus, vous avez deux options pour les feux arrière :
 
-- Les feux arrière optionnels utilisent la technologie LED.
+- Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 - Les feux arrière optionnels utilisent la technologie LED.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
@@ -261,7 +301,7 @@ Le Audi Q4 Sportback 50 e-tron quattro comprend plusieurs [systèmes avancés d'
 
 Audi Q4 Sportback 50 e-tron quattro offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Adaptive Cruise Control  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - Régulateur de vitesse.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
@@ -270,6 +310,24 @@ Avec le système Assistantpackage Tour  de niveau 2, vous obtenez des fonctionna
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Audi Q4 Sportback 50 e-tron quattro est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Airbags latéraux pour les passagers de la deuxième rangée
+- Un airbag central avant pour empêcher le conducteur et le passager avant de se heurter lors d'un impact latéral
+
+De plus, les ceintures de sécurité avant sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				562 km
+				541 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				13,6 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				15,6 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				475 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				16,1 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18,6 kwh/100km
+				18,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				125 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -761,7 +769,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standardfunktion, valfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -825,7 +833,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -833,7 +841,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +849,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Valfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -906,7 +914,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standardfunktion, valfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +978,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -978,7 +986,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +994,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Valfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -1038,7 +1046,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1046,7 +1054,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1062,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1062,7 +1070,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1078,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1086,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1094,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1102,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1102,7 +1110,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1110,7 +1118,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -1143,7 +1151,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1151,7 +1159,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1159,7 +1167,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1167,7 +1175,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1175,7 +1183,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1183,7 +1191,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1191,7 +1199,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1199,7 +1207,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1207,7 +1215,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1215,7 +1223,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -1489,7 +1497,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Navigation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja (MMI Navigation plus), standardfunktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja (MMI Navigation plus), valfritt
 			</td>
 		</tr>
 		<tr>

@@ -166,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				170 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -761,7 +769,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -825,7 +833,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -833,7 +841,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +849,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Valgfri elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -906,7 +914,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +978,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -978,7 +986,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +994,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standard elektrisk funksjon
+				Valgfri elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -1038,7 +1046,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1046,7 +1054,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1062,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1062,7 +1070,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1078,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1086,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1094,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1102,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1102,7 +1110,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1110,7 +1118,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1143,7 +1151,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1151,7 +1159,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1159,7 +1167,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1167,7 +1175,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1175,7 +1183,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1183,7 +1191,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1191,7 +1199,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1199,7 +1207,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1207,7 +1215,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1215,7 +1223,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1489,7 +1497,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				I bilnavigasjon
 			</td>
 			<td>
-				Ja (MMI Navigation plus), standardutstyr
+				Ja (MMI Navigation plus), tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1513,7 +1521,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10,1
+				Ja, 11,6
 			</td>
 		</tr>
 		<tr>

@@ -217,6 +217,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				350
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -785,7 +793,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -849,7 +857,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -857,7 +865,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +873,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique optionnelle
 			</td>
 		</tr>
 		<tr>
@@ -930,7 +938,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -994,7 +1002,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1002,7 +1010,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1018,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonction électrique standard
+				Fonction électrique optionnelle
 			</td>
 		</tr>
 		<tr>
@@ -1062,7 +1070,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1078,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1086,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1094,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1102,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1102,7 +1110,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1110,7 +1118,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1118,7 +1126,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1126,7 +1134,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1134,7 +1142,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1167,7 +1175,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1175,7 +1183,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1183,7 +1191,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1191,7 +1199,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1199,7 +1207,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1207,7 +1215,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1215,7 +1223,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1223,7 +1231,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1231,7 +1239,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1239,7 +1247,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

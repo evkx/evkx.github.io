@@ -30,13 +30,13 @@ Audi Q4 55 e-tron quattro leverer solid ytelse med en maksimal effekt på 250 kW
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 76,6 kWh, som gir en buffer på 5,4 kWh (6,6%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 76,6 kWh, som gir en buffer på 5,4 kWh (6,6%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 523 og 450 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,6 kWh/100 km for basismodellen og 17,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 100kW. Hver ladeøkt vil ta 19 minutter og 56 sekunder.
+Maksimal DC-ladehastighet er 175 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 113kW. Hver ladeøkt vil ta 20 minutter og 33 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 9 timer og 54 minutter. Denne reisen ville kreve to ladestopp fra 2% til 43%, med en total ladetid på 95 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 9 timer og 43 minutter. Denne reisen ville kreve to ladestopp fra 2% til 53%, med en total ladetid på 83 minutter.
 
 ### Ombordlader
 
@@ -45,6 +45,8 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+
+### Toveis lading
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1766"  >}}
 
@@ -64,6 +66,15 @@ Du kan bestille Audi Q4 55 e-tron quattro med en alternativ sport hjuloppheng. H
 
 Dynamisk styring er en valgfri-funksjonen på Audi Q4 55 e-tron quattro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Audi Q4 55 e-tron quattro lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
+
+- Dynamic: Dynamisk styring, fjæring og gasspådrag.
+- Efficiency: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- Custom: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+
 ### Bremser
 
 Audi Q4 55 e-tron quattro bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 358mm.
@@ -76,7 +87,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Audi Q4 55 e-tron quattro, med dimensjoner på 4588 mm i lengde, 1865 mm i bredde og 1632 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+Audi Q4 55 e-tron quattro, med dimensjoner på 4588 mm i lengde, 1865 mm i bredde og 1632 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Audi Q4 55 e-tron quattro er tilgjengelig i totalt 8 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
@@ -100,6 +111,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
+Interiøret i Audi Q4 55 e-tron quattro er funksjonelt og har materialer av høy kvalitet i flere områder i stedet for hard plast. I tillegg inkluderer det en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+
 ### Seter
 
 Audi Q4 55 e-tron quattro har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
@@ -111,23 +124,40 @@ For første rad tilbyr Audi Q4 55 e-tron quattro to forskjellige setetyper å ve
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som et alternativ)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 Følgende funksjoner er tilgjengelige på **sport** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som et alternativ)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/skinnimitasjon polstring](../../../../technology/seats/materials/#dinamica)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1998"  >}}
 
@@ -137,11 +167,19 @@ Du kan velge to setetyper for den andre raden i Audi Q4 55 e-tron quattro.
 
 Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- høydejusterbar hodestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+
 Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+
+- høydejusterbar hodestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2000"  >}}
 
 ### Interiørlagring
+
+Audi Q4 55 e-tron quattro gir rikelige interiørlagringsløsninger for å forbedre bekvemmelighet og organisering:
 
 - **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
@@ -168,12 +206,14 @@ Audi Q4 55 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og
 
 ## Brukergrensesnitt og kontroll
 
+Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
+
 Audi Q4 55 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor
-- touch-skjermen øverst på midtkonsollen er 10,1 tommer stor
+- touch-skjermen øverst på midtkonsollen er 11,6 tommer stor
 
 Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
@@ -183,7 +223,7 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 Audi Q4 55 e-tron quattro er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ### Speil
 
@@ -191,9 +231,11 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ## Infotainment
 
+Audi MIB3 infotainment operativsystem er designet for å håndtere den digitale ryggraden til bilens infotainment-funksjoner, og sikrer jevn ytelse og raskere responstider. Det støtter kjøretøyets brukergrensesnitt (UI), skybaserte tjenester og sanntidsdatabehandling, og muliggjør avansert navigasjon, multimedia og talekontrollfunksjoner.
+
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon og satellittkart, noe som sikrer en effektiv og stressfri reise.
 
 ### Telefonspeiling
 
@@ -224,11 +266,11 @@ Audi Q4 55 e-tron quattro kommer med sin egen dedikerte mobilapp, tilgjengelig f
 Du kan velge mellom to typer frontlykter for Audi Q4 55 e-tron quattro.
 
 - **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **LED Matrix Frontlykter:** Tilgjengelig som en oppgradering, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan aktivere eller deaktivere individuelt. Dette optimaliserer belysningen ved selektivt å dempe spesifikke områder for å unngå å blende møtende trafikk. Kjørelysene (DRL) for dette alternativet har også flere LED-segmenter, som gjør at du kan tilpasse din foretrukne DRL-signatur. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
 I tillegg har du to alternativer for baklykter:
 
-- De valgfrie baklyktene bruker LED-teknologi.
+- Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 - De valgfrie baklyktene bruker LED-teknologi.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2003"  >}}
@@ -263,7 +305,7 @@ Audi Q4 55 e-tron quattro inkluderer flere [avanserte førerassistanse systemer]
 
 Audi Q4 55 e-tron quattro tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Adaptive Cruise Control  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - Fartsbegrenser.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
@@ -272,12 +314,30 @@ Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
+## Sikkerhet
+
+Audi Q4 55 e-tron quattro er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- Sidekollisjonsputer for passasjerene i andre rad
+- En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
+I tillegg er setebeltene i første rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1490 liter. På taket kan du laste opptil 75 kg.
+Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1490 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 2750 kg, med en basisvekt på 2160 kg. Dette gir en maksimal lastekapasitet på 590 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
@@ -288,4 +348,16 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Audi Q4 55 e-tron quattro hadde sin verdenspremiere den 21.09.2023, med leveranser som startet i December 2023.
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Audi Q4 55 e-tron quattro som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPE 85x](/models/skoda/enyaq_iv/enyaq_coupe_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=5e9046%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -166,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				170 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -191,6 +191,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				350
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
