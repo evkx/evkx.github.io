@@ -178,6 +178,16 @@ You can choose between two sound systems for the Nissan Ariya NISMO:
 - **DAB Audiosystem:** Features six speakers and delivers a maximum output of  watts.
 - **BOSE Premium Sound System:** Features ten speakers and delivers a maximum output of  watts.
 
+## Mobile App
+
+The Nissan Ariya NISMO comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Driving History:** Review the details of your past trips.
+
 ## Lights
 
 You can choose between two types of headlights for the Nissan Ariya NISMO.

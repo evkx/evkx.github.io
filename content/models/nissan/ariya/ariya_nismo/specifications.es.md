@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1587 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				165 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>

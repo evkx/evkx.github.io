@@ -298,7 +298,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite vorne
 			</td>
 			<td>
-				1587 mm (62,5")
+				1585 mm (62,4")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite hinten
 			</td>
 			<td>
-				165 mm (6,5")
+				1585 mm (62,4")
 			</td>
 		</tr>
 		<tr>

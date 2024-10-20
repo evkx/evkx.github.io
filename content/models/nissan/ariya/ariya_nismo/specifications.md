@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1587 mm (62,5")
+				1585 mm (62,4")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				165 mm (6,5")
+				1585 mm (62,4")
 			</td>
 		</tr>
 		<tr>

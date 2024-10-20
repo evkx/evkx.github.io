@@ -298,7 +298,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd fram
 			</td>
 			<td>
-				1587 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				165 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>

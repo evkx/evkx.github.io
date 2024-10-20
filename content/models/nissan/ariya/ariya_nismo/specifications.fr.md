@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1587 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				165 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>

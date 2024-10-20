@@ -178,6 +178,16 @@ Du kan vælge mellem to lydsystemer på Nissan Ariya NISMO.
 - Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt.
 - Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
 
+## Mobilapp
+
+Den Nissan Ariya NISMO kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
+- **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Nissan Ariya NISMO.

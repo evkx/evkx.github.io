@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde foran
 			</td>
 			<td>
-				1587 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde bak
 			</td>
 			<td>
-				165 mm
+				1585 mm
 			</td>
 		</tr>
 		<tr>
