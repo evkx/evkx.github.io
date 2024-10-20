@@ -99,23 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/epa/">EPA range</a>
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/epa/">EPA consumption</a>
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1875 kg (4134 lbs)
+				2293 kg (5055 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2665 kg (5875 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				525 kg (1157 lbs)
+				372 kg (820 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1490 liter (53 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
-			</td>
-			<td>
-				1500 kg (3307 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
-			</td>
-			<td>
-				750 kg (1653 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
-			</td>
-			<td>
-				75 kg (165 lbs)
+				1280 liter (45 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

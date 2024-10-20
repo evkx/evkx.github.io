@@ -99,23 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP avec perte de charge
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Gamme EPA
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation EPA
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1875 kg
+				2293 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2400 kg
+				2665 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				525 kg
+				372 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1490 litre
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Poids maximum de la remorque freinée
-			</td>
-			<td>
-				1500 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Poids maximum de la remorque non freinée
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Poids maximum de la boule de remorquage
-			</td>
-			<td>
-				75 kg
+				1280 litre
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
 			</td>
 		</tr>
 	</tbody>

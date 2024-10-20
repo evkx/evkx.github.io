@@ -99,23 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA räckvidd
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA förbrukning
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1875 kg
+				2293 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2400 kg
+				2665 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				525 kg
+				372 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1490 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max släpvagnsvikt, bromsad
-			</td>
-			<td>
-				1500 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max släpvagnsvikt, obromsad
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Släpvagnskopplingens maximala vikt
-			</td>
-			<td>
-				75 kg
+				1280 liter
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				Skruvfjäder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

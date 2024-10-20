@@ -99,23 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP con pérdida de carga
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				rango EPA
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo EPA
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1875 kg
+				2293 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2400 kg
+				2665 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				525 kg
+				372 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1490 litro
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peso máximo del remolque frenado
-			</td>
-			<td>
-				1500 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peso máximo del remolque sin frenos
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peso máximo de la bola de remolque
-			</td>
-			<td>
-				75 kg
+				1280 litro
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
 			</td>
 		</tr>
 	</tbody>

@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Rango por minuto 0-100%
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				?
 			</td>
 			<td>
 				6,4 km (4,0 mi)
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Rango por minuto 10-100%
 			</td>
 			<td>
-				6,7 km (4,2 mi)
+				?
 			</td>
 			<td>
 				6,4 km (4,0 mi)
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Rango por minuto 10-80%
 			</td>
 			<td>
-				8,8 km (5,5 mi)
+				?
 			</td>
 			<td>
 				8,4 km (5,2 mi)

@@ -40,7 +40,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 12 heures et 4 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 3 heures et 57 minutes à domicile.
 
 ### Port de recharge
 
@@ -54,7 +54,7 @@ Nissan Ariya NISMO dispose d'un système de transmission intégrale pris en char
 
 ### Suspension
 
-La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 170 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 170 mm.
 
 ### Pilotage
 
@@ -70,14 +70,11 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La Nissan Ariya NISMO, avec des dimensions de 4595 mm de longueur, 1850 mm de largeur et 1660 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Nissan Ariya NISMO est disponible en un total de 9 couleurs de peinture, comprenant des options solides, métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
+La Nissan Ariya NISMO, avec des dimensions de 4595 mm de longueur, 1850 mm de largeur et 1660 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Nissan Ariya NISMO est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nissan Ariya NISMO, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Nissan Ariya NISMO, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-- Pneus 235/55 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20"
-
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
@@ -224,12 +221,22 @@ Avec le système ProPILOT  de niveau 2, vous obtenez les fonctionnalités suivan
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 415 litres. Avec les sièges arrière rabattus, cette capacité passe à 1490 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
+Le coffre offre une capacité de chargement de 415 litres. Avec les sièges arrière rabattus, cette capacité passe à 1280 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Le poids maximum du véhicule est de 2400 kg, avec un poids de base de 1875 kg. Cela permet une charge maximale de 525 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2665 kg, avec un poids de base de 2293 kg. Cela permet une charge maximale de 372 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 372 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/trunk_1_st.JPG" title="Nissan Ariya NISMO" width="3000" height="1999"  >}}
+
+## Disponibilité et prix
+
+Ce modèle est uniquement disponible en Amérique du Nord.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- 534 400,00 NOK (Norvège)
 
 {{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Plage" >}}

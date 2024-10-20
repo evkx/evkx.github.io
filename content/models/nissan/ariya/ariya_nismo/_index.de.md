@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 7,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 12 Stunden und 4 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 57 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -54,7 +54,7 @@ Der Nissan Ariya NISMO verfügt über ein Allradantriebssystem, das von zwei Mot
 
 ### Federung
 
-Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 170 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 170 mm.
 
 ### Lenkung
 
@@ -70,14 +70,11 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ## Exterieur
 
-Der Nissan Ariya NISMO, mit Abmessungen von 4595 mm Länge, 1850 mm Breite und 1660 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Nissan Ariya NISMO ist in insgesamt 9 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
+Der Nissan Ariya NISMO, mit Abmessungen von 4595 mm Länge, 1850 mm Breite und 1660 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Nissan Ariya NISMO ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
-Der Nissan Ariya NISMO bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Nissan Ariya NISMO erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 235/55 Reifen auf 19" Felgen
 - 255/45 Reifen auf 20" Felgen
-
-Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
@@ -224,12 +221,22 @@ Mit dem ProPILOT  Level 2 System erhalten Sie die folgenden Fahrautomatisierungs
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 415 Litern (14,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1490 Liter (52,6 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
+Der Kofferraum bietet ein Ladevolumen von 415 Litern (14,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1280 Liter (45,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2400 kg (5291 lbs) bei einem Leergewicht von 1875 kg (4134 lbs). Dies ermöglicht eine maximale Zuladung von 525 kg (1157 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2665 kg (5875 lbs) bei einem Leergewicht von 2293 kg (5055 lbs). Dies ermöglicht eine maximale Zuladung von 372 kg (820 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 372 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1500 kg (3307 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/trunk_1_st.JPG" title="Nissan Ariya NISMO" width="3000" height="1999"  >}}
+
+## Verfügbarkeit & Preise
+
+Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 534 400,00 NOK (Norwegen)
 
 {{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Reichweite" >}}

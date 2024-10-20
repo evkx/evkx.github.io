@@ -40,7 +40,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 7,2 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 12 timmar och 4 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 3 timmar och 57 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -54,7 +54,7 @@ Nissan Ariya NISMO har ett fyrhjulsdriftsystem som stöds av två motorer, en p�
 
 ### Hjulupphängning
 
-Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 170 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 170 mm.
 
 ### Styrning
 
@@ -70,14 +70,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Nissan Ariya NISMO, med dimensioner på 4595 mm i längd, 1850 mm i bredd och 1660 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Nissan Ariya NISMO finns i totalt 9 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
+Nissan Ariya NISMO, med dimensioner på 4595 mm i längd, 1850 mm i bredd och 1660 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Nissan Ariya NISMO finns i totalt 1 lackfärger, inklusive flera iögonfallande metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Nissan Ariya NISMO, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Nissan Ariya NISMO, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 235/55 däck på 19" fälgar
 - 255/45 däck på 20" fälgar
-
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är eldriven och har sparksensor som standard.
 
@@ -224,12 +221,22 @@ Med ProPILOT  nivå 2-systemet får du följande funktioner för körautomatiser
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 415 liter. Med baksätena nedfällda ökar detta till 1490 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet erbjuder en lastkapacitet på 415 liter. Med baksätena nedfällda ökar detta till 1280 liter. På taket kan du lasta upp till 75 kg.
 
-Fordonets maximala vikt är 2400 kg, med en grundvikt på 1875 kg. Detta tillåter en maximal last på 525 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2665 kg, med en grundvikt på 2293 kg. Detta tillåter en maximal last på 372 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 372 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/trunk_1_st.JPG" title="Nissan Ariya NISMO" width="3000" height="1999"  >}}
+
+## Tillgänglighet och pris
+
+Denna modell är endast tillgänglig i Nordamerika.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- 534 400,00 NOK (Norge)
 
 {{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

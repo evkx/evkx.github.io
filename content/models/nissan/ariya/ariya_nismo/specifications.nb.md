@@ -99,23 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA-rekkevidde
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA-forbruk
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				1875 kg
+				2293 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2400 kg
+				2665 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				525 kg
+				372 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1490 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksimum vekt tilhenger med bremse
-			</td>
-			<td>
-				1500 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt på tilhengerkobling
-			</td>
-			<td>
-				75 kg
+				1280 liter
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				Spiralfjær
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

@@ -99,23 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA-område
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA-forbrug
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1875 kg
+				2293 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2400 kg
+				2665 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				525 kg
+				372 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1490 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max trailervægt bremset
-			</td>
-			<td>
-				1500 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks. anhængervægt uden bremse
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksimal trækkuglevægt
-			</td>
-			<td>
-				75 kg
+				1280 liter
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				Spiralfjeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

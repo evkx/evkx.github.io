@@ -99,23 +99,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch mit Ladeverlust
 			</td>
 			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA-Reichweite
-			</td>
-			<td>
-				272 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				EPA-Verbrauch
-			</td>
-			<td>
-				3,1 mi/kWh
+				24,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				1875 kg (4134 lbs)
+				2293 kg (5055 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2665 kg (5875 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				525 kg (1157 lbs)
+				372 kg (820 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,31 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1490 Liter (53 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximales Anhängergewicht gebremst
-			</td>
-			<td>
-				1500 kg (3307 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximales Anhängergewicht ungebremst
-			</td>
-			<td>
-				750 kg (1653 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximale Stützlast
-			</td>
-			<td>
-				75 kg (165 lbs)
+				1280 Liter (45 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -533,6 +493,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				Schraubenfeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp vorne
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp hinten
+			</td>
+			<td>
+				Mehrlenker
 			</td>
 		</tr>
 	</tbody>
