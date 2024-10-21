@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008
 linktitle: "E-5008"
-description: "Peugot E-5008 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 668 km. EVKX.net har alla detaljer."
+description: "Peugot E-5008 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 502 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Peugot E-5008 erbjuder blygsamma prestanda med en maximal effekt på 157 kW (214
 
 Högkapacitetsbatteriet har en bruttokapacitet på 77,0 kWh och en nettoanvändbar kapacitet på 73,0 kWh, vilket ger en buffert på 4,0 kWh (5,2%) för batteriskydd. Med en nominell spänning på 377 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 668 och 637 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 10,9 kWh/100 km för basmodellen och 11,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 502 och 488 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,5 kWh/100 km för basmodellen och 15,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 160 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 69kW. Varje laddningssession tar 32 minuter och 12 sekunder.
 

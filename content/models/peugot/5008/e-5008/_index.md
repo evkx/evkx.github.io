@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008
 linktitle: "E-5008"
-description: "Peugot E-5008 is an all-electric coupe SUV with a WLTP range of up to 668 km (415 miles). EVKX.net has all the details."
+description: "Peugot E-5008 is an all-electric coupe SUV with a WLTP range of up to 502 km (312 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ The Peugot E-5008 offers modest performance with a maximum power of 157 kW (214 
 
 The high-capacity battery has a gross capacity of 77.0 kWh and a net usable capacity of 73.0 kWh, providing a 4.0 kWh buffer (5.2%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 668 to 637 km (415-396 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 10.9 kWh/100 km for the base model and 11.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 502 to 488 km (312-303 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.5 kWh/100 km for the base model and 15.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 160 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 72 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 56%. This results in an effective charging speed, including time lost, of 69 kW, with each charging session taking about 32 minutes and 12 seconds.
 

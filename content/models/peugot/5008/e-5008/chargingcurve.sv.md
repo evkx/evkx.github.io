@@ -175,7 +175,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 				?
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				6,0 km (3,7 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 				?
 			</td>
 			<td>
-				7,8 km (4,8 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
 				?
@@ -209,7 +209,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 				?
 			</td>
 			<td>
-				11,0 km (6,8 mi)
+				8,3 km (5,2 mi)
 			</td>
 			<td>
 				?

@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008
 linktitle: "E-5008"
-description: "Peugot E-5008 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 668 km (415 millas). EVKX.net tiene todos los detalles."
+description: "Peugot E-5008 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 502 km (312 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ El Peugot E-5008 ofrece un rendimiento modesto con una potencia máxima de 157 k
 
 La batería de alta capacidad tiene una capacidad bruta de 77,0 kWh y una capacidad neta utilizable de 73,0 kWh, proporcionando un buffer de 4,0 kWh (5,2%) para la protección de la batería. Con un voltaje nominal de 377 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 668 y 637 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 10,9 kWh/100 km para el modelo base y 11,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 502 y 488 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,5 kWh/100 km para el modelo base y 15,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 160kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 56%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 69kW. Cada sesión de carga tardaría 32 minutos y 12 segundos.
 

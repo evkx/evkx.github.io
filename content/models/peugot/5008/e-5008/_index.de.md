@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008
 linktitle: "E-5008"
-description: "Peugot E-5008 ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 668 km (415 Meilen). EVKX.net hat alle Details."
+description: "Peugot E-5008 ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 502 km (312 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Der Peugot E-5008 bietet eine bescheidene Leistung mit einer maximalen Leistung 
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 77,0 kWh und eine nutzbare Nettokapazität von 73,0 kWh, was einen Puffer von 4,0 kWh (5,2%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 377 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 668 und 637 km (415-396 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 10,9 kWh/100 km für das Basismodell und 11,5 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 502 und 488 km (312-303 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,5 kWh/100 km für das Basismodell und 15,0 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 160 kW. Das Laden von 0% auf 100% dauert etwa 84 Minuten, während ein typischer Ladevorgang von 10% auf 80% 42 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 72 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 5% und 56%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 69 kW, wobei jede Ladesitzung etwa 32 Minuten und 12 Sekunden dauert.
 
