@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0 - 100 %
 			</td>
 			<td>
-				67,0 kW
+				36,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100 %
 			</td>
 			<td>
-				65,4 kW
+				35,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90 %
 			</td>
 			<td>
-				85,1 kW
+				47,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80 %
 			</td>
 			<td>
-				102,8 kW
+				59,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maximal C-Rate
 			</td>
 			<td>
-				2,75
+				1,69
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Genomsnittlig C-Rate
 			</td>
 			<td>
-				1,97
+				1,13
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt laddningsområde
 			</td>
 			<td>
-				3% - 61%
+				3% - 60%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				92,1kW
+				59,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal stopptid för laddning
 			</td>
 			<td>
-				19m12s
+				29m18s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				 45 m 29 s
+				1 h 23 m 10 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				 41 m 57 s
+				1 h 17 m 32 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 20 m 45 s
+				 36 m 1 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,7 km (4,8 mi)
+				4,2 km (2,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,3 km (3,3 mi)
+				2,9 km (1,8 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,5 km (4,7 mi)
+				4,1 km (2,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,2 km (3,2 mi)
+				2,8 km (1,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				11,8 km (7,3 mi)
+				6,8 km (4,2 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,2 km (5,1 mi)
+				4,7 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -265,10 +265,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				1%
 			</td>
 			<td>
-				49 kW
+				34 kW
 			</td>
 			<td>
-				 0 m 57 s
+				 1 m 13 s
 			</td>
 			<td>
 				0,5 kWh
@@ -279,10 +279,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				2%
 			</td>
 			<td>
-				78 kW
+				48 kW
 			</td>
 			<td>
-				 1 m 28 s
+				 2 m 1 s
 			</td>
 			<td>
 				1,0 kWh
@@ -293,10 +293,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				3%
 			</td>
 			<td>
-				106 kW
+				61 kW
 			</td>
 			<td>
-				 1 m 49 s
+				 2 m 37 s
 			</td>
 			<td>
 				1,5 kWh
@@ -307,10 +307,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				4%
 			</td>
 			<td>
-				135 kW
+				75 kW
 			</td>
 			<td>
-				 2 m 6 s
+				 3 m 6 s
 			</td>
 			<td>
 				2,0 kWh
@@ -321,10 +321,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				5%
 			</td>
 			<td>
-				136 kW
+				76 kW
 			</td>
 			<td>
-				 2 m 20 s
+				 3 m 32 s
 			</td>
 			<td>
 				2,5 kWh
@@ -335,10 +335,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				6%
 			</td>
 			<td>
-				136 kW
+				77 kW
 			</td>
 			<td>
-				 2 m 35 s
+				 3 m 58 s
 			</td>
 			<td>
 				3,0 kWh
@@ -349,10 +349,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				7%
 			</td>
 			<td>
-				137 kW
+				78 kW
 			</td>
 			<td>
-				 2 m 49 s
+				 4 m 23 s
 			</td>
 			<td>
 				3,6 kWh
@@ -363,10 +363,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				8%
 			</td>
 			<td>
-				137 kW
+				79 kW
 			</td>
 			<td>
-				 3 m 3 s
+				 4 m 48 s
 			</td>
 			<td>
 				4,1 kWh
@@ -377,10 +377,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				9%
 			</td>
 			<td>
-				138 kW
+				80 kW
 			</td>
 			<td>
-				 3 m 18 s
+				 5 m 13 s
 			</td>
 			<td>
 				4,6 kWh
@@ -391,10 +391,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				10%
 			</td>
 			<td>
-				138 kW
+				81 kW
 			</td>
 			<td>
-				 3 m 32 s
+				 5 m 37 s
 			</td>
 			<td>
 				5,1 kWh
@@ -405,10 +405,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				11%
 			</td>
 			<td>
-				138 kW
+				81 kW
 			</td>
 			<td>
-				 3 m 46 s
+				 6 m 2 s
 			</td>
 			<td>
 				5,6 kWh
@@ -419,10 +419,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				12%
 			</td>
 			<td>
-				138 kW
+				84 kW
 			</td>
 			<td>
-				 4 m 0 s
+				 6 m 26 s
 			</td>
 			<td>
 				6,1 kWh
@@ -433,10 +433,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				13%
 			</td>
 			<td>
-				138 kW
+				84 kW
 			</td>
 			<td>
-				 4 m 15 s
+				 6 m 49 s
 			</td>
 			<td>
 				6,6 kWh
@@ -447,10 +447,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				14%
 			</td>
 			<td>
-				138 kW
+				84 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 7 m 12 s
 			</td>
 			<td>
 				7,1 kWh
@@ -461,10 +461,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				15%
 			</td>
 			<td>
-				138 kW
+				85 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 7 m 36 s
 			</td>
 			<td>
 				7,6 kWh
@@ -475,10 +475,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				16%
 			</td>
 			<td>
-				138 kW
+				85 kW
 			</td>
 			<td>
-				 4 m 57 s
+				 7 m 59 s
 			</td>
 			<td>
 				8,1 kWh
@@ -489,10 +489,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				17%
 			</td>
 			<td>
-				138 kW
+				85 kW
 			</td>
 			<td>
-				 5 m 12 s
+				 8 m 22 s
 			</td>
 			<td>
 				8,6 kWh
@@ -503,10 +503,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				18%
 			</td>
 			<td>
-				138 kW
+				85 kW
 			</td>
 			<td>
-				 5 m 26 s
+				 8 m 45 s
 			</td>
 			<td>
 				9,1 kWh
@@ -517,10 +517,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				19%
 			</td>
 			<td>
-				138 kW
+				85 kW
 			</td>
 			<td>
-				 5 m 40 s
+				 9 m 8 s
 			</td>
 			<td>
 				9,7 kWh
@@ -531,10 +531,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				20%
 			</td>
 			<td>
-				139 kW
+				85 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 9 m 31 s
 			</td>
 			<td>
 				10,2 kWh
@@ -545,10 +545,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				21%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 9 m 54 s
 			</td>
 			<td>
 				10,7 kWh
@@ -559,10 +559,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				22%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 6 m 23 s
+				 10 m 17 s
 			</td>
 			<td>
 				11,2 kWh
@@ -573,10 +573,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				23%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 10 m 40 s
 			</td>
 			<td>
 				11,7 kWh
@@ -587,10 +587,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				24%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 6 m 51 s
+				 11 m 3 s
 			</td>
 			<td>
 				12,2 kWh
@@ -601,10 +601,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				25%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 7 m 5 s
+				 11 m 26 s
 			</td>
 			<td>
 				12,7 kWh
@@ -615,10 +615,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				26%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 7 m 19 s
+				 11 m 49 s
 			</td>
 			<td>
 				13,2 kWh
@@ -629,10 +629,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				27%
 			</td>
 			<td>
-				139 kW
+				86 kW
 			</td>
 			<td>
-				 7 m 34 s
+				 12 m 12 s
 			</td>
 			<td>
 				13,7 kWh
@@ -643,10 +643,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				28%
 			</td>
 			<td>
-				139 kW
+				85 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 12 m 35 s
 			</td>
 			<td>
 				14,2 kWh
@@ -657,10 +657,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				29%
 			</td>
 			<td>
-				139 kW
+				84 kW
 			</td>
 			<td>
-				 8 m 2 s
+				 12 m 58 s
 			</td>
 			<td>
 				14,7 kWh
@@ -671,10 +671,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				30%
 			</td>
 			<td>
-				139 kW
+				84 kW
 			</td>
 			<td>
-				 8 m 16 s
+				 13 m 21 s
 			</td>
 			<td>
 				15,2 kWh
@@ -685,10 +685,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				31%
 			</td>
 			<td>
-				139 kW
+				83 kW
 			</td>
 			<td>
-				 8 m 30 s
+				 13 m 45 s
 			</td>
 			<td>
 				15,7 kWh
@@ -699,10 +699,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				32%
 			</td>
 			<td>
-				139 kW
+				82 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 14 m 9 s
 			</td>
 			<td>
 				16,3 kWh
@@ -713,10 +713,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				33%
 			</td>
 			<td>
-				139 kW
+				81 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 14 m 33 s
 			</td>
 			<td>
 				16,8 kWh
@@ -727,10 +727,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				34%
 			</td>
 			<td>
-				139 kW
+				80 kW
 			</td>
 			<td>
-				 9 m 13 s
+				 14 m 57 s
 			</td>
 			<td>
 				17,3 kWh
@@ -741,10 +741,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				35%
 			</td>
 			<td>
-				139 kW
+				79 kW
 			</td>
 			<td>
-				 9 m 27 s
+				 15 m 22 s
 			</td>
 			<td>
 				17,8 kWh
@@ -755,10 +755,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				36%
 			</td>
 			<td>
-				139 kW
+				78 kW
 			</td>
 			<td>
-				 9 m 41 s
+				 15 m 47 s
 			</td>
 			<td>
 				18,3 kWh
@@ -769,10 +769,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				37%
 			</td>
 			<td>
-				139 kW
+				77 kW
 			</td>
 			<td>
-				 9 m 55 s
+				 16 m 12 s
 			</td>
 			<td>
 				18,8 kWh
@@ -783,10 +783,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				38%
 			</td>
 			<td>
-				139 kW
+				76 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 16 m 38 s
 			</td>
 			<td>
 				19,3 kWh
@@ -797,10 +797,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				39%
 			</td>
 			<td>
-				139 kW
+				76 kW
 			</td>
 			<td>
-				 10 m 23 s
+				 17 m 4 s
 			</td>
 			<td>
 				19,8 kWh
@@ -811,10 +811,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				40%
 			</td>
 			<td>
-				140 kW
+				75 kW
 			</td>
 			<td>
-				 10 m 37 s
+				 17 m 30 s
 			</td>
 			<td>
 				20,3 kWh
@@ -825,10 +825,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				41%
 			</td>
 			<td>
-				140 kW
+				74 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 17 m 56 s
 			</td>
 			<td>
 				20,8 kWh
@@ -839,10 +839,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				42%
 			</td>
 			<td>
-				140 kW
+				74 kW
 			</td>
 			<td>
-				 11 m 5 s
+				 18 m 23 s
 			</td>
 			<td>
 				21,3 kWh
@@ -853,10 +853,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				43%
 			</td>
 			<td>
-				140 kW
+				73 kW
 			</td>
 			<td>
-				 11 m 19 s
+				 18 m 50 s
 			</td>
 			<td>
 				21,8 kWh
@@ -867,10 +867,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				44%
 			</td>
 			<td>
-				140 kW
+				73 kW
 			</td>
 			<td>
-				 11 m 34 s
+				 19 m 17 s
 			</td>
 			<td>
 				22,4 kWh
@@ -881,10 +881,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				45%
 			</td>
 			<td>
-				140 kW
+				72 kW
 			</td>
 			<td>
-				 11 m 48 s
+				 19 m 44 s
 			</td>
 			<td>
 				22,9 kWh
@@ -895,10 +895,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				46%
 			</td>
 			<td>
-				140 kW
+				72 kW
 			</td>
 			<td>
-				 12 m 2 s
+				 20 m 11 s
 			</td>
 			<td>
 				23,4 kWh
@@ -909,10 +909,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				47%
 			</td>
 			<td>
-				140 kW
+				71 kW
 			</td>
 			<td>
-				 12 m 16 s
+				 20 m 39 s
 			</td>
 			<td>
 				23,9 kWh
@@ -923,10 +923,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				48%
 			</td>
 			<td>
-				140 kW
+				71 kW
 			</td>
 			<td>
-				 12 m 30 s
+				 21 m 6 s
 			</td>
 			<td>
 				24,4 kWh
@@ -937,10 +937,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				49%
 			</td>
 			<td>
-				140 kW
+				71 kW
 			</td>
 			<td>
-				 12 m 44 s
+				 21 m 34 s
 			</td>
 			<td>
 				24,9 kWh
@@ -951,10 +951,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				50%
 			</td>
 			<td>
-				140 kW
+				70 kW
 			</td>
 			<td>
-				 12 m 58 s
+				 22 m 2 s
 			</td>
 			<td>
 				25,4 kWh
@@ -965,10 +965,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				51%
 			</td>
 			<td>
-				136 kW
+				69 kW
 			</td>
 			<td>
-				 13 m 12 s
+				 22 m 30 s
 			</td>
 			<td>
 				25,9 kWh
@@ -979,10 +979,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				52%
 			</td>
 			<td>
-				132 kW
+				69 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 22 m 59 s
 			</td>
 			<td>
 				26,4 kWh
@@ -993,10 +993,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				53%
 			</td>
 			<td>
-				129 kW
+				68 kW
 			</td>
 			<td>
-				 13 m 42 s
+				 23 m 27 s
 			</td>
 			<td>
 				26,9 kWh
@@ -1007,10 +1007,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				54%
 			</td>
 			<td>
-				125 kW
+				68 kW
 			</td>
 			<td>
-				 13 m 57 s
+				 23 m 56 s
 			</td>
 			<td>
 				27,4 kWh
@@ -1021,10 +1021,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				55%
 			</td>
 			<td>
-				121 kW
+				67 kW
 			</td>
 			<td>
-				 14 m 13 s
+				 24 m 25 s
 			</td>
 			<td>
 				27,9 kWh
@@ -1035,10 +1035,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				56%
 			</td>
 			<td>
-				117 kW
+				67 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 24 m 55 s
 			</td>
 			<td>
 				28,4 kWh
@@ -1049,10 +1049,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				57%
 			</td>
 			<td>
-				113 kW
+				66 kW
 			</td>
 			<td>
-				 14 m 47 s
+				 25 m 24 s
 			</td>
 			<td>
 				29,0 kWh
@@ -1063,10 +1063,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				58%
 			</td>
 			<td>
-				110 kW
+				66 kW
 			</td>
 			<td>
-				 15 m 5 s
+				 25 m 54 s
 			</td>
 			<td>
 				29,5 kWh
@@ -1077,10 +1077,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				59%
 			</td>
 			<td>
-				106 kW
+				65 kW
 			</td>
 			<td>
-				 15 m 23 s
+				 26 m 24 s
 			</td>
 			<td>
 				30,0 kWh
@@ -1091,10 +1091,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				60%
 			</td>
 			<td>
-				102 kW
+				63 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 26 m 55 s
 			</td>
 			<td>
 				30,5 kWh
@@ -1105,10 +1105,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				61%
 			</td>
 			<td>
-				99 kW
+				61 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 27 m 27 s
 			</td>
 			<td>
 				31,0 kWh
@@ -1119,10 +1119,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				62%
 			</td>
 			<td>
-				97 kW
+				58 kW
 			</td>
 			<td>
-				 16 m 21 s
+				 28 m 0 s
 			</td>
 			<td>
 				31,5 kWh
@@ -1133,10 +1133,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				63%
 			</td>
 			<td>
-				94 kW
+				56 kW
 			</td>
 			<td>
-				 16 m 42 s
+				 28 m 34 s
 			</td>
 			<td>
 				32,0 kWh
@@ -1147,10 +1147,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				64%
 			</td>
 			<td>
-				92 kW
+				54 kW
 			</td>
 			<td>
-				 17 m 3 s
+				 29 m 10 s
 			</td>
 			<td>
 				32,5 kWh
@@ -1161,10 +1161,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				65%
 			</td>
 			<td>
-				90 kW
+				51 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 29 m 47 s
 			</td>
 			<td>
 				33,0 kWh
@@ -1175,10 +1175,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				66%
 			</td>
 			<td>
-				88 kW
+				49 kW
 			</td>
 			<td>
-				 17 m 47 s
+				 30 m 27 s
 			</td>
 			<td>
 				33,5 kWh
@@ -1189,10 +1189,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				67%
 			</td>
 			<td>
-				85 kW
+				47 kW
 			</td>
 			<td>
-				 18 m 10 s
+				 31 m 8 s
 			</td>
 			<td>
 				34,0 kWh
@@ -1203,10 +1203,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				68%
 			</td>
 			<td>
-				83 kW
+				45 kW
 			</td>
 			<td>
-				 18 m 33 s
+				 31 m 50 s
 			</td>
 			<td>
 				34,5 kWh
@@ -1217,10 +1217,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				69%
 			</td>
 			<td>
-				81 kW
+				43 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 32 m 35 s
 			</td>
 			<td>
 				35,1 kWh
@@ -1231,10 +1231,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				70%
 			</td>
 			<td>
-				78 kW
+				42 kW
 			</td>
 			<td>
-				 19 m 22 s
+				 33 m 21 s
 			</td>
 			<td>
 				35,6 kWh
@@ -1245,10 +1245,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				71%
 			</td>
 			<td>
-				76 kW
+				42 kW
 			</td>
 			<td>
-				 19 m 47 s
+				 34 m 8 s
 			</td>
 			<td>
 				36,1 kWh
@@ -1259,10 +1259,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				72%
 			</td>
 			<td>
-				74 kW
+				41 kW
 			</td>
 			<td>
-				 20 m 13 s
+				 34 m 56 s
 			</td>
 			<td>
 				36,6 kWh
@@ -1273,10 +1273,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				73%
 			</td>
 			<td>
-				72 kW
+				41 kW
 			</td>
 			<td>
-				 20 m 40 s
+				 35 m 43 s
 			</td>
 			<td>
 				37,1 kWh
@@ -1287,10 +1287,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				74%
 			</td>
 			<td>
-				69 kW
+				41 kW
 			</td>
 			<td>
-				 21 m 8 s
+				 36 m 31 s
 			</td>
 			<td>
 				37,6 kWh
@@ -1301,10 +1301,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				75%
 			</td>
 			<td>
-				67 kW
+				41 kW
 			</td>
 			<td>
-				 21 m 37 s
+				 37 m 19 s
 			</td>
 			<td>
 				38,1 kWh
@@ -1315,10 +1315,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				76%
 			</td>
 			<td>
-				65 kW
+				41 kW
 			</td>
 			<td>
-				 22 m 7 s
+				 38 m 7 s
 			</td>
 			<td>
 				38,6 kWh
@@ -1329,10 +1329,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				77%
 			</td>
 			<td>
-				63 kW
+				40 kW
 			</td>
 			<td>
-				 22 m 38 s
+				 38 m 56 s
 			</td>
 			<td>
 				39,1 kWh
@@ -1343,10 +1343,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				78%
 			</td>
 			<td>
-				60 kW
+				40 kW
 			</td>
 			<td>
-				 23 m 10 s
+				 39 m 45 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1357,10 +1357,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				79%
 			</td>
 			<td>
-				58 kW
+				36 kW
 			</td>
 			<td>
-				 23 m 43 s
+				 40 m 37 s
 			</td>
 			<td>
 				40,1 kWh
@@ -1371,10 +1371,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				80%
 			</td>
 			<td>
-				55 kW
+				27 kW
 			</td>
 			<td>
-				 24 m 18 s
+				 41 m 39 s
 			</td>
 			<td>
 				40,6 kWh
@@ -1385,10 +1385,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				81%
 			</td>
 			<td>
-				53 kW
+				26 kW
 			</td>
 			<td>
-				 24 m 54 s
+				 42 m 53 s
 			</td>
 			<td>
 				41,1 kWh
@@ -1399,10 +1399,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				82%
 			</td>
 			<td>
-				50 kW
+				25 kW
 			</td>
 			<td>
-				 25 m 32 s
+				 44 m 11 s
 			</td>
 			<td>
 				41,7 kWh
@@ -1413,10 +1413,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				83%
 			</td>
 			<td>
-				48 kW
+				25 kW
 			</td>
 			<td>
-				 26 m 12 s
+				 45 m 29 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1427,10 +1427,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				84%
 			</td>
 			<td>
-				45 kW
+				25 kW
 			</td>
 			<td>
-				 26 m 54 s
+				 46 m 48 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1441,10 +1441,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				85%
 			</td>
 			<td>
-				43 kW
+				24 kW
 			</td>
 			<td>
-				 27 m 39 s
+				 48 m 8 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1455,10 +1455,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				86%
 			</td>
 			<td>
-				40 kW
+				22 kW
 			</td>
 			<td>
-				 28 m 26 s
+				 49 m 34 s
 			</td>
 			<td>
 				43,7 kWh
@@ -1469,10 +1469,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				87%
 			</td>
 			<td>
-				38 kW
+				21 kW
 			</td>
 			<td>
-				 29 m 17 s
+				 51 m 5 s
 			</td>
 			<td>
 				44,2 kWh
@@ -1483,10 +1483,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				88%
 			</td>
 			<td>
-				35 kW
+				19 kW
 			</td>
 			<td>
-				 30 m 11 s
+				 52 m 43 s
 			</td>
 			<td>
 				44,7 kWh
@@ -1497,10 +1497,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				89%
 			</td>
 			<td>
-				33 kW
+				17 kW
 			</td>
 			<td>
-				 31 m 9 s
+				 54 m 33 s
 			</td>
 			<td>
 				45,2 kWh
@@ -1511,10 +1511,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				90%
 			</td>
 			<td>
-				30 kW
+				15 kW
 			</td>
 			<td>
-				 32 m 12 s
+				 56 m 36 s
 			</td>
 			<td>
 				45,7 kWh
@@ -1525,10 +1525,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				91%
 			</td>
 			<td>
-				29 kW
+				15 kW
 			</td>
 			<td>
-				 33 m 19 s
+				 58 m 49 s
 			</td>
 			<td>
 				46,2 kWh
@@ -1539,10 +1539,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				92%
 			</td>
 			<td>
-				28 kW
+				14 kW
 			</td>
 			<td>
-				 34 m 28 s
+				1 h 1 m 7 s
 			</td>
 			<td>
 				46,7 kWh
@@ -1553,10 +1553,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				93%
 			</td>
 			<td>
-				27 kW
+				14 kW
 			</td>
 			<td>
-				 35 m 39 s
+				1 h 3 m 30 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1567,10 +1567,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				94%
 			</td>
 			<td>
-				26 kW
+				13 kW
 			</td>
 			<td>
-				 36 m 53 s
+				1 h 5 m 58 s
 			</td>
 			<td>
 				47,8 kWh
@@ -1581,10 +1581,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				95%
 			</td>
 			<td>
-				25 kW
+				13 kW
 			</td>
 			<td>
-				 38 m 10 s
+				1 h 8 m 33 s
 			</td>
 			<td>
 				48,3 kWh
@@ -1595,10 +1595,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				96%
 			</td>
 			<td>
-				24 kW
+				12 kW
 			</td>
 			<td>
-				 39 m 31 s
+				1 h 11 m 13 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1609,10 +1609,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				97%
 			</td>
 			<td>
-				23 kW
+				12 kW
 			</td>
 			<td>
-				 40 m 54 s
+				1 h 14 m 0 s
 			</td>
 			<td>
 				49,3 kWh
@@ -1623,10 +1623,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				98%
 			</td>
 			<td>
-				22 kW
+				11 kW
 			</td>
 			<td>
-				 42 m 22 s
+				1 h 16 m 55 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1637,10 +1637,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				99%
 			</td>
 			<td>
-				21 kW
+				11 kW
 			</td>
 			<td>
-				 43 m 53 s
+				1 h 19 m 58 s
 			</td>
 			<td>
 				50,3 kWh
@@ -1651,10 +1651,10 @@ MG MG4 Electric Standard har batteriuppvärmning, vilket underlättar laddning v
 				100%
 			</td>
 			<td>
-				20 kW
+				10 kW
 			</td>
 			<td>
-				 45 m 29 s
+				1 h 23 m 10 s
 			</td>
 			<td>
 				50,8 kWh
