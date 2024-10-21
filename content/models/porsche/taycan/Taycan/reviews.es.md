@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>EV Road Trip King! Porsche Taycan Goes Insanely Far After Only A 15min Charge In The 10% Challenge</h3>
+<p>Out of Spec Reviews: 21.10.2024</p>
+
+{{< youtube E2sDSnuF_cc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW 2025 Porsche Taycan Review: 510-Mile Range?!</h3>
 <p>AutoTrader: 03.04.2024</p>
 
