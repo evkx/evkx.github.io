@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Peugot E-5008. Click
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				9,6 s
+				9,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2241 kg (4941 lbs)
+				20218 kg (44573 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2940 kg (6482 lbs)
+				2900 kg (6393 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				699 kg (1541 lbs)
+				-17318 kg (-38180 lbs)
 			</td>
 		</tr>
 		<tr>

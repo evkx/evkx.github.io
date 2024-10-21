@@ -115,9 +115,6 @@
 - id: frontpage-description-82f1bd54
   translation: Peugot E-5008 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 502 km (312 miles). EVKX.net har alle detaljerne.
 
-- id: frontpage-description-11b49b23
-  translation: Peugot E-5008 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 668 km (415 miles). EVKX.net har alle detaljerne.
-
 - id: frontpage-description-a0da6ccf
   translation: Nissan Ariya NISMO er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 417 km (259 miles). EVKX.net har alle detaljerne.
 
@@ -159,4 +156,7 @@
 
 - id: frontpage-description-99e44cf9
   translation: Zeekr 7X Standard Range RWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 780 km (485 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-f0ccad59
+  translation: Kia EV6 Long Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 546 km (339 miles). EVKX.net har alle detaljerne.
 

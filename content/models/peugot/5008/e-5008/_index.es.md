@@ -26,7 +26,7 @@ Hemos separado nuestro artículo Peugot E-5008 en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Peugot E-5008 ofrece un rendimiento modesto con una potencia máxima de 157 kW (214 hp) y un par total de 345 Nm. Acelera de 0 a 100 km/h en 9,6 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Peugot E-5008 ofrece un rendimiento modesto con una potencia máxima de 157 kW (214 hp) y un par total de 345 Nm. Acelera de 0 a 100 km/h en 9,7 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 
@@ -136,7 +136,7 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
 ## Características de confort
 
@@ -240,7 +240,7 @@ Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/),
 
 El maletero ofrece una capacidad de carga de 348 litros. Con el asiento trasero plegado, esto se expande a 2232 litros. En el techo, puedes cargar hasta 80 kg.
 
-El peso máximo del vehículo es 2940 kg, con un peso base de 2241 kg. Esto permite una carga máxima de 699 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2900 kg, con un peso base de 20218 kg. Esto permite una carga máxima de -17318 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. -17318 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1000 kg, mientras que para un tráiler sin freno es de 750 kg.
 

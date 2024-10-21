@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Peugot E-5008 bietet eine bescheidene Leistung mit einer maximalen Leistung von 157 kW (214 PS / 211 bhp) und einem Gesamtdrehmoment von 345 Nm (255 lb-ft). Er beschleunigt in 9,6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 170 km/h (106 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+Der Peugot E-5008 bietet eine bescheidene Leistung mit einer maximalen Leistung von 157 kW (214 PS / 211 bhp) und einem Gesamtdrehmoment von 345 Nm (255 lb-ft). Er beschleunigt in 9,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 170 km/h (106 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -136,7 +136,7 @@ Es gibt ein Klimasystem verfügbar:
 
 - **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
-Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
+Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
 ## Komfortfunktionen
 
@@ -240,7 +240,7 @@ Bis zu drei [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f�
 
 Der Kofferraum bietet ein Ladevolumen von 348 Litern (12,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2232 Liter (78,8 CU FT). Auf dem Dach können Sie bis zu 80 kg (176,4 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2940 kg (6482 lbs) bei einem Leergewicht von 2241 kg (4941 lbs). Dies ermöglicht eine maximale Zuladung von 699 kg (1541 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2900 kg (6393 lbs) bei einem Leergewicht von 20218 kg (44573 lbs). Dies ermöglicht eine maximale Zuladung von -17318 kg (-38180 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. -17318 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1000 kg (2205 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

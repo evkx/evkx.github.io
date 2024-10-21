@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Peugot E-5008 offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Peugot E-5008 offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.7 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, Range, and Charging
 
@@ -136,7 +136,7 @@ There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
-This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
 
@@ -240,7 +240,7 @@ Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), fi
 
 The trunk offers a cargo capacity of 348 liters (12.3 CU FT). With the rear seat folded down, this expands to 2232 liters (78.8 CU FT). On the roof, you can load up to 80 kg (176.4 lbs).
 
-The vehicle’s maximum weight is 2940 kg (6482 lbs), with a base weight of 2241 kg (4941 lbs). This allows for a maximum load of 699 kg (1541 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2900 kg (6393 lbs), with a base weight of 20218 kg (44573 lbs). This allows for a maximum load of -17318 kg (-38180 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. -17318kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

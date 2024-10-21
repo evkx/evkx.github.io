@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Peugot E-5008 zu h
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				9,6 s
+				9,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -387,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2241 kg (4941 lbs)
+				20218 kg (44573 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2940 kg (6482 lbs)
+				2900 kg (6393 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				699 kg (1541 lbs)
+				-17318 kg (-38180 lbs)
 			</td>
 		</tr>
 		<tr>

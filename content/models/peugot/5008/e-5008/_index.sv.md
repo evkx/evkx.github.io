@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av Peugot E-5008 i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Peugot E-5008 erbjuder blygsamma prestanda med en maximal effekt på 157 kW (214 hk) och ett totalt vridmoment på 345 Nm. Den accelererar från 0 till 100 km/h på 9,6 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Peugot E-5008 erbjuder blygsamma prestanda med en maximal effekt på 157 kW (214 hk) och ett totalt vridmoment på 345 Nm. Den accelererar från 0 till 100 km/h på 9,7 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 
@@ -136,7 +136,7 @@ Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
 
@@ -240,7 +240,7 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 Bagageutrymmet erbjuder en lastkapacitet på 348 liter. Med baksätena nedfällda ökar detta till 2232 liter. På taket kan du lasta upp till 80 kg.
 
-Fordonets maximala vikt är 2940 kg, med en grundvikt på 2241 kg. Detta tillåter en maximal last på 699 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2900 kg, med en grundvikt på 20218 kg. Detta tillåter en maximal last på −17318 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. −17318 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1000 kg, medan för en obromsad släpvagn är den 750 kg.
 

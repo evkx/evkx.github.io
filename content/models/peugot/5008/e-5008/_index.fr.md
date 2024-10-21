@@ -26,7 +26,7 @@ Nous avons séparé notre article Peugot E-5008 en sections. Si vous souhaitez a
 
 ## Performances
 
-L'Peugot E-5008 offre des performances modestes avec une puissance maximale de 157 kW (214 ch) et un couple total de 345 Nm. Il accélère de 0 à 100 km/h en 9,6 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+L'Peugot E-5008 offre des performances modestes avec une puissance maximale de 157 kW (214 ch) et un couple total de 345 Nm. Il accélère de 0 à 100 km/h en 9,7 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 
@@ -136,7 +136,7 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
-Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
@@ -240,7 +240,7 @@ Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/)
 
 Le coffre offre une capacité de chargement de 348 litres. Avec les sièges arrière rabattus, cette capacité passe à 2232 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg.
 
-Le poids maximum du véhicule est de 2940 kg, avec un poids de base de 2241 kg. Cela permet une charge maximale de 699 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2900 kg, avec un poids de base de 20218 kg. Cela permet une charge maximale de -17318 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. -17318 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 

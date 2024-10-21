@@ -26,7 +26,7 @@ Vi har opdelt vores Peugot E-5008 artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-Peugot E-5008 tilbyder beskedne præstationer med en maksimal effekt på 157 kW (214 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 9,6 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Peugot E-5008 tilbyder beskedne præstationer med en maksimal effekt på 157 kW (214 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 9,7 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 
@@ -136,7 +136,7 @@ Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
 
@@ -240,7 +240,7 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 Bagagerummet har en lastekapacitet på 348 liter. Med det bageste sæde foldet ned, udvides dette til 2232 liter. På taget kan du laste op til 80 kg.
 
-Køretøjets maksimale vægt er 2940 kg, med en basisvægt på 2241 kg. Dette giver en maksimal last på 699 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2900 kg, med en basisvægt på 20218 kg. Dette giver en maksimal last på -17318 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. -17318 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
 

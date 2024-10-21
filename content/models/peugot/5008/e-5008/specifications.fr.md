@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Peugot E-
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				9,6 s
+				9,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -387,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2241 kg
+				20218 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2940 kg
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				699 kg
+				-17318 kg
 			</td>
 		</tr>
 		<tr>

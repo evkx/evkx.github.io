@@ -26,7 +26,7 @@ Vi har delt vår beskrivelse av Peugot E-5008 i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Peugot E-5008 tilbyr beskjedne ytelser med en maksimal effekt på 157 kW (214 hk) og et totalt dreiemoment på 345 Nm. Den akselererer fra 0 til 100 km/t på 9,6 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Peugot E-5008 tilbyr beskjedne ytelser med en maksimal effekt på 157 kW (214 hk) og et totalt dreiemoment på 345 Nm. Den akselererer fra 0 til 100 km/t på 9,7 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 
@@ -136,7 +136,7 @@ Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
 
@@ -240,7 +240,7 @@ Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 Bagasjerommet tilbyr en lastekapasitet på 348 liter. Med baksetene nedfelt, utvides dette til 2232 liter. På taket kan du laste opptil 80 kg.
 
-Kjøretøyets maksimale vekt er 2940 kg, med en basisvekt på 2241 kg. Dette gir en maksimal lastekapasitet på 699 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2900 kg, med en basisvekt på 20218 kg. Dette gir en maksimal lastekapasitet på -17318 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. -17318 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1000 kg, mens for en ubremset tilhenger er det 750 kg.
 
