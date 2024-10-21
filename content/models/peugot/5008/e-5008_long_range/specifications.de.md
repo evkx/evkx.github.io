@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Peugot E-5008 Long
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				9,7 s
+				9,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,26 +80,50 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
-				WLTP-Reichweite
+				WLTP-Reichweite der Basisausstattung
 			</td>
 			<td>
-				660 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch
-			</td>
-			<td>
-				14,8 kWh/100km
+				668 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-Verbrauch mit Ladeverlust
+				WLTP-Verbrauch der Basisausstattung
+			</td>
+			<td>
+				14,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
+			</td>
+			<td>
+				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Reichweite der Top-Ausstattung
+			</td>
+			<td>
+				637 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
 				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
+			</td>
+			<td>
+				19,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				103 kWh
+				101 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				98 kWh
+				96,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +306,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite inklusive Spiegel
 			</td>
 			<td>
-				2108 mm (83,0")
+				1895 mm (74,6")
 			</td>
 		</tr>
 		<tr>
@@ -319,6 +343,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				18,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				24,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -347,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2225 kg (4905 lbs)
+				2241 kg (4941 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +395,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2640 kg (5820 lbs)
+				2940 kg (6482 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				415 kg (915 lbs)
+				699 kg (1541 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +419,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				300 Liter (11 cu-ft)
+				348 Liter (12 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +427,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1815 Liter (64 cu-ft)
+				2232 Liter (79 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +435,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter dritter Sitzreihe
 			</td>
 			<td>
-				738 Liter (26 cu-ft)
+				916 Liter (32 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +516,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				198 mm (7,8")
+				204 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				198 mm (7,8")
+				204 mm (8,0")
 			</td>
 		</tr>
 		<tr>

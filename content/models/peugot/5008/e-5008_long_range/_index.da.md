@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 660 km (410 miles). EVKX.net har alle detaljerne."
+description: "Peugot E-5008 Long Range er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 668 km (415 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Vi har opdelt vores Peugot E-5008 Long Range artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-Peugot E-5008 Long Range tilbyder beskedne præstationer med en maksimal effekt på 170 kW (231 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 9,7 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Peugot E-5008 Long Range tilbyder beskedne præstationer med en maksimal effekt på 170 kW (231 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 9,6 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 103,0 kWh og en nettoanvendelig kapacitet på 98,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 377 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 101,0 kWh og en nettoanvendelig kapacitet på 96,9 kWh, hvilket giver en buffer på 4,1 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 377 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 660 km, med et energiforbrugsrate på 14,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 668 og 637 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,5 kWh/100 km for basismodellen og 15,2 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 160kW. En fuld opladning fra 0 - 100 % ville tage 112 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 57 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 72kW. Hver opladningssession ville tage 41 minutter og 42 sekunder.
+Den maksimale DC-opladningshastighed er 160kW. En fuld opladning fra 0 - 100 % ville tage 111 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 56 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 72kW. Hver opladningssession ville tage 40 minutter og 18 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 10 timer og 27 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 57%, med en samlet opladningstid på 127 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 10 timer og 28 minutter. Denne rejse ville kræve to opladningsstop fra 4% til 57%, med en samlet opladningstid på 128 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 54 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 48 minutter ved brug af en hjemmeoplader.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
@@ -56,7 +56,7 @@ Peugot E-5008 Long Range har et forhjulstræksystem understøttet af en motor p�
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 198 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 204 mm.
 
 ### Bremser
 
@@ -238,9 +238,9 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 300 liter. Med det bageste sæde foldet ned, udvides dette til 1815 liter. På taget kan du laste op til 80 kg.
+Bagagerummet har en lastekapacitet på 348 liter. Med det bageste sæde foldet ned, udvides dette til 2232 liter. På taget kan du laste op til 80 kg.
 
-Køretøjets maksimale vægt er 2640 kg, med en basisvægt på 2225 kg. Dette giver en maksimal last på 415 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 415 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+Køretøjets maksimale vægt er 2940 kg, med en basisvægt på 2241 kg. Dette giver en maksimal last på 699 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
 

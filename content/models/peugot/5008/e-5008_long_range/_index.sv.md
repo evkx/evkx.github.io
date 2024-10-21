@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 660 km. EVKX.net har alla detaljer."
+description: "Peugot E-5008 Long Range är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 668 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Vi har delat in vår beskrivning av Peugot E-5008 Long Range i avsnitt. Om du vi
 
 ## Prestanda
 
-Peugot E-5008 Long Range erbjuder blygsamma prestanda med en maximal effekt på 170 kW (231 hk) och ett totalt vridmoment på 345 Nm. Den accelererar från 0 till 100 km/h på 9,7 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Peugot E-5008 Long Range erbjuder blygsamma prestanda med en maximal effekt på 170 kW (231 hk) och ett totalt vridmoment på 345 Nm. Den accelererar från 0 till 100 km/h på 9,6 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 103,0 kWh och en nettoanvändbar kapacitet på 98,0 kWh, vilket ger en buffert på 5,0 kWh (4,9%) för batteriskydd. Med en nominell spänning på 377 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 101,0 kWh och en nettoanvändbar kapacitet på 96,9 kWh, vilket ger en buffert på 4,1 kWh (4,1%) för batteriskydd. Med en nominell spänning på 377 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 660 km (199 miles), med en energiförbrukningshastighet på 14,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 668 och 637 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,5 kWh/100 km för basmodellen och 15,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 160 kW. En full laddning från 0 - 100 % tar 112 minuter, medan ett vanligare scenario på 10-80 % tar 57 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 72kW. Varje laddningssession tar 41 minuter och 42 sekunder.
+Maximal DC-laddningshastighet är 160 kW. En full laddning från 0 - 100 % tar 111 minuter, medan ett vanligare scenario på 10-80 % tar 56 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 72kW. Varje laddningssession tar 40 minuter och 18 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 27 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 57%, med en total laddningstid på 127 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 28 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 57%, med en total laddningstid på 128 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 54 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 48 minuter med en hemmaladdare.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
@@ -56,7 +56,7 @@ Peugot E-5008 Long Range har ett framhjulsdriftssystem som stöds av en motor p�
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 198 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 204 mm.
 
 ### Bromsar
 
@@ -238,9 +238,9 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 300 liter. Med baksätena nedfällda ökar detta till 1815 liter. På taket kan du lasta upp till 80 kg.
+Bagageutrymmet erbjuder en lastkapacitet på 348 liter. Med baksätena nedfällda ökar detta till 2232 liter. På taket kan du lasta upp till 80 kg.
 
-Fordonets maximala vikt är 2640 kg, med en grundvikt på 2225 kg. Detta tillåter en maximal last på 415 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 415 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 2940 kg, med en grundvikt på 2241 kg. Detta tillåter en maximal last på 699 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1000 kg, medan för en obromsad släpvagn är den 750 kg.
 

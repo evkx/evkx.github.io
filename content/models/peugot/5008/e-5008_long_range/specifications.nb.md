@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-5008 Long 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				9,7 s
+				9,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,26 +80,50 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
-				660 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-forbruk
-			</td>
-			<td>
-				14,8 kWh/100km
+				668 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell
+			</td>
+			<td>
+				14,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk grunnmodell med ladetap
+			</td>
+			<td>
+				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt WLTP-rekkevidde
+			</td>
+			<td>
+				637 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
 				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt WLTP-forbruk med ladetap
+			</td>
+			<td>
+				19,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				103 kWh
+				101 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				98 kWh
+				96,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde inkludert speil
 			</td>
 			<td>
-				2108 mm
+				1895 mm
 			</td>
 		</tr>
 		<tr>
@@ -319,6 +343,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				18,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				24,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
@@ -347,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2225 kg
+				2241 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +395,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2640 kg
+				2940 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				415 kg
+				699 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +419,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				300 liter
+				348 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +427,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1815 liter
+				2232 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +435,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med tredje rad lagt ned
 			</td>
 			<td>
-				738 liter
+				916 liter
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +516,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>

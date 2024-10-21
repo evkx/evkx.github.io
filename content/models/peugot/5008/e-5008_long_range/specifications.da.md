@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Peugot E-5008 Long
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				9,7 s
+				9,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,26 +80,50 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område
+				Basic trim WLTP range
 			</td>
 			<td>
-				660 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-forbrug
-			</td>
-			<td>
-				14,8 kWh/100km
+				668 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbrug med opladningstab
+				Basic trim WLTP-forbrug
+			</td>
+			<td>
+				14,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Grundlæggende trim WLTP-forbrug med opladningstab
+			</td>
+			<td>
+				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-område
+			</td>
+			<td>
+				637 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-forbrug
 			</td>
 			<td>
 				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrimmet WLTP-forbrug med opladningstab
+			</td>
+			<td>
+				19,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				103 kWh
+				101 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				98 kWh
+				96,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2108 mm
+				1895 mm
 			</td>
 		</tr>
 		<tr>
@@ -319,6 +343,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Overhængsvinkel foran
+			</td>
+			<td>
+				18,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				OverhangAngleRear
+			</td>
+			<td>
+				24,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendecirkel
 			</td>
 			<td>
@@ -347,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2225 kg
+				2241 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2640 kg
+				2940 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +403,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				415 kg
+				699 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +419,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				300 liter
+				348 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +427,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1815 liter
+				2232 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +435,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med foldede sæder på tredje række
 			</td>
 			<td>
-				738 liter
+				916 liter
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +516,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>

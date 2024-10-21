@@ -6,8 +6,8 @@
        <path d="M 30  1034 40  1027 50  1020 60  1014 70  1007 80  1000 90  994 100  987 110  980 120  974 130  967 140  967 150  967 160  967 170  967 180  967 190  967 200  967 210  967 220  969 230  971 240  971 250  971 260  971 270  971 280  970 290  970 300  970 310  970 320  970 330  970 340  982 350  994 360  994 370  993 380  993 390  993 400  993 410  993 420  993 430  992 440  992 450  992 460  992 470  992 480  992 490  991 500  991 510  991 520  991 530  991 540  991 550  990 560  990 570  990 580  990 590  998 600  1006 610  1014 620  1014 630  1014 640  1014 650  1014 660  1014 670  1014 680  1014 690  1014 700  1014 710  1014 720  1014 730  1014 740  1014 750  1014 760  1014 770  1014 780  1014 790  1014 800  1014 810  1014 820  1037 830  1060 840  1060 850  1060 860  1060 870  1060 880  1060 890  1060 900  1060 910  1060 920  1060 930  1060 940  1062 950  1063 960  1064 970  1066 980  1067 990  1068 1000  1070 1010  1071 1020  1072 1030  1074 " fill="none" stroke="rgb(155, 89, 182)" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 750 180 L 800 180" fill="none" stroke="rgb(155, 89, 182)" stroke-miterlimit="10" pointer-events="stroke"/><text x="910" y="184" fill="rgb(155, 89, 182)" font-family="Helvetica" font-size="12px" text-anchor="middle">
  120km/h 25 kWh/100km (2,5 mi/kWh) 
         </text>
-<path d="M 30  988 40  977 50  966 60  955 70  943 80  932 90  921 100  910 110  898 120  887 130  876 140  876 150  876 160  876 170  876 180  876 190  876 200  876 210  876 220  879 230  883 240  883 250  882 260  882 270  882 280  882 290  881 300  881 310  881 320  881 330  881 340  901 350  921 360  921 370  920 380  920 390  920 400  919 410  919 420  919 430  919 440  918 450  918 460  918 470  917 480  917 490  917 500  917 510  916 520  916 530  916 540  915 550  915 560  915 570  914 580  914 590  928 600  941 610  955 620  955 630  955 640  955 650  955 660  955 670  955 680  955 690  955 700  955 710  955 720  955 730  955 740  955 750  955 760  955 770  955 780  955 790  955 800  955 810  955 820  994 830  1033 840  1033 850  1033 860  1033 870  1033 880  1033 890  1033 900  1033 910  1033 920  1033 930  1033 940  1035 950  1038 960  1040 970  1042 980  1044 990  1047 1000  1049 1010  1051 1020  1053 1030  1056 " fill="none" stroke="rgb(255, 87, 51)" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 750 50 L 800 50" fill="none" stroke="rgb(255, 87, 51)" stroke-miterlimit="10" pointer-events="stroke"/><text x="910" y="54" fill="rgb(255, 87, 51)" font-family="Helvetica" font-size="12px" text-anchor="middle">
- WLTP 14,85 kWh/100km (4,2 mi/kWh) 
+<path d="M 30  986 40  974 50  963 60  951 70  940 80  928 90  917 100  905 110  894 120  882 130  871 140  871 150  871 160  871 170  871 180  871 190  871 200  871 210  871 220  874 230  878 240  877 250  877 260  877 270  877 280  877 290  876 300  876 310  876 320  876 330  875 340  896 350  917 360  916 370  916 380  916 390  916 400  915 410  915 420  915 430  914 440  914 450  914 460  913 470  913 480  913 490  913 500  912 510  912 520  912 530  911 540  911 550  911 560  910 570  910 580  910 590  924 600  937 610  951 620  951 630  951 640  951 650  951 660  951 670  951 680  951 690  951 700  951 710  951 720  951 730  951 740  951 750  951 760  951 770  951 780  951 790  951 800  951 810  951 820  991 830  1032 840  1032 850  1032 860  1032 870  1032 880  1032 890  1032 900  1032 910  1032 920  1032 930  1032 940  1034 950  1036 960  1038 970  1041 980  1043 990  1045 1000  1048 1010  1050 1020  1052 1030  1055 " fill="none" stroke="rgb(255, 87, 51)" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 750 50 L 800 50" fill="none" stroke="rgb(255, 87, 51)" stroke-miterlimit="10" pointer-events="stroke"/><text x="910" y="54" fill="rgb(255, 87, 51)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+ WLTP 14,51 kWh/100km (4,3 mi/kWh) 
         </text>
  <rect x="1086" y="887" width="100" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
@@ -353,13 +353,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1147px; margin-left: 57px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging range per min for Peugot E-5008 Long Range 103 kWh
+                                EVKX.net - Charging range per min for Peugot E-5008 Long Range 101 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="616" y="1156" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging range per min for Peugot E-5008 Long Range 103 kWh
+                    EVKX.net - Charging range per min for Peugot E-5008 Long Range 101 kWh
                 </text>
             </switch>
         </g>

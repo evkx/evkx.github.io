@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Peugot E-5008 Long Ran
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				9,7 s
+				9,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,26 +80,50 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-räckvidd
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				660 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-förbrukning
-			</td>
-			<td>
-				14,8 kWh/100km
+				668 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-förbrukning med förlust av laddning
+				Basic trim WLTP-förbrukning
+			</td>
+			<td>
+				14,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP-förbrukning med laddningsförlust
+			</td>
+			<td>
+				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topptrim WLTP-räckvidd
+			</td>
+			<td>
+				637 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topptrim WLTP-förbrukning
 			</td>
 			<td>
 				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topp trim WLTP-förbrukning med laddningsförlust
+			</td>
+			<td>
+				19,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				103 kWh
+				101 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				98 kWh
+				96,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd inklusive speglar
 			</td>
 			<td>
-				2108 mm
+				1895 mm
 			</td>
 		</tr>
 		<tr>
@@ -319,6 +343,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				18,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				24,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vändcirkel
 			</td>
 			<td>
@@ -347,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2225 kg
+				2241 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +395,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2640 kg
+				2940 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +403,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				415 kg
+				699 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +419,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				300 liter
+				348 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +427,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1815 liter
+				2232 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +435,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten tredje rad
 			</td>
 			<td>
-				738 liter
+				916 liter
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +516,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>

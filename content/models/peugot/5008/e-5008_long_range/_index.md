@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range is an all-electric coupe SUV with a WLTP range of up to 660 km (410 miles). EVKX.net has all the details."
+description: "Peugot E-5008 Long Range is an all-electric coupe SUV with a WLTP range of up to 668 km (415 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Peugot E-5008 Long Range offers modest performance with a maximum power of 170 kW (231 hp / 228 bhp) and a total torque of 345 Nm (255 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.7 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Peugot E-5008 Long Range offers modest performance with a maximum power of 170 kW (231 hp / 228 bhp) and a total torque of 345 Nm (255 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 103.0 kWh and a net usable capacity of 98.0 kWh, providing a 5.0 kWh buffer (4.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 101.0 kWh and a net usable capacity of 96.9 kWh, providing a 4.1 kWh buffer (4.1%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 660 km (410 miles), with an energy consumption rate of 14.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 668 to 637 km (415-396 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.5 kWh/100 km for the base model and 15.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 160 kW. Charging from 0% to 100% takes approximately 112 minutes, while a more typical scenario from 10% to 80% takes 57 minutes with an average charging speed of 72 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 72 kW, with each charging session taking about 41 minutes and 42 seconds.
+The vehicle supports fast DC charging with a maximum power of 160 kW. Charging from 0% to 100% takes approximately 111 minutes, while a more typical scenario from 10% to 80% takes 56 minutes with an average charging speed of 72 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 72 kW, with each charging session taking about 40 minutes and 18 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 27 minutes. This journey would require three charging stops from 5% to 57%, with a total charging time of 127 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 28 minutes. This journey would require three charging stops from 4% to 57%, with a total charging time of 128 minutes.
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 54 minutes using a home charging setup.
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 48 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
@@ -56,7 +56,7 @@ The Peugot E-5008 Long Range has a front-wheel drive system supported by one mot
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 198 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 204 mm.
 
 ### Brakes
 
@@ -238,9 +238,9 @@ Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), fi
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 300 liters (10.6 CU FT). With the rear seat folded down, this expands to 1815 liters (64.1 CU FT). On the roof, you can load up to 80 kg (176.4 lbs).
+The trunk offers a cargo capacity of 348 liters (12.3 CU FT). With the rear seat folded down, this expands to 2232 liters (78.8 CU FT). On the roof, you can load up to 80 kg (176.4 lbs).
 
-The vehicle’s maximum weight is 2640 kg (5820 lbs), with a base weight of 2225 kg (4905 lbs). This allows for a maximum load of 415 kg (915 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 415kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 2940 kg (6482 lbs), with a base weight of 2241 kg (4941 lbs). This allows for a maximum load of 699 kg (1541 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

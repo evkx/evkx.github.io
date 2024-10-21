@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Peugot E-5008 Long
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				9,7 s
+				9,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,26 +80,50 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				Rango WLTP
+				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				660 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP
-			</td>
-			<td>
-				14,8 kWh/100km
+				668 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP con pérdida de carga
+				Consumo WLTP de ajuste básico
+			</td>
+			<td>
+				14,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP de ajuste básico con pérdida de carga
+			</td>
+			<td>
+				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango WLTP de acabado superior
+			</td>
+			<td>
+				637 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP superior
 			</td>
 			<td>
 				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP superior con pérdida de carga
+			</td>
+			<td>
+				19,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				103 kWh
+				101 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				98 kWh
+				96,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2108 mm
+				1895 mm
 			</td>
 		</tr>
 		<tr>
@@ -319,6 +343,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				18,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				24,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
@@ -347,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2225 kg
+				2241 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2640 kg
+				2940 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				415 kg
+				699 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +419,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				300 litro
+				348 litro
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1815 litro
+				2232 litro
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +435,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con los asientos de la tercera fila plegados
 			</td>
 			<td>
-				738 litro
+				916 litro
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +516,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				198 mm
+				204 mm
 			</td>
 		</tr>
 		<tr>

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lucid Air GT Is An Incredible Road Tripping EV Nearly Topping The Charts In Our 10% Challenge</h3>
+<p>Out of Spec Reviews: 20.10.2024</p>
+
+{{< youtube -RZRLVUIA5Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2025 Lucid Air GT Blows Past 500mi In Our 70-MPH Highway Range Test!</h3>
 <p>Out of Spec Reviews: 01.09.2024</p>
 

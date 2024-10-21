@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 660 km (410 miles). EVKX.net a tous les détails."
+description: "Peugot E-5008 Long Range est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 668 km (415 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Nous avons séparé notre article Peugot E-5008 Long Range en sections. Si vous 
 
 ## Performances
 
-L'Peugot E-5008 Long Range offre des performances modestes avec une puissance maximale de 170 kW (231 ch) et un couple total de 345 Nm. Il accélère de 0 à 100 km/h en 9,7 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+L'Peugot E-5008 Long Range offre des performances modestes avec une puissance maximale de 170 kW (231 ch) et un couple total de 345 Nm. Il accélère de 0 à 100 km/h en 9,6 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 103,0 kWh et une capacité nette utilisable de 98,0 kWh, offrant une réserve de 5,0 kWh (4,9%) pour la protection de la batterie. Avec une tension nominale de 377 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 101,0 kWh et une capacité nette utilisable de 96,9 kWh, offrant une réserve de 4,1 kWh (4,1%) pour la protection de la batterie. Avec une tension nominale de 377 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 660 km, avec une consommation d'énergie de 14,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 668 et 637 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,5 kWh/100 km pour le modèle de base et à 15,2 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 160kW. Une charge complète de 0 à 100 % prendrait 112 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 57 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 56 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 72kW. Chaque session de charge prendrait 41 minutes et 42 secondes.
+La vitesse de charge DC maximale est de 160kW. Une charge complète de 0 à 100 % prendrait 111 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 56 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 56 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 72kW. Chaque session de charge prendrait 40 minutes et 18 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 10 heures et 27 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 57%, avec un temps de recharge total de 127 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 10 heures et 28 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 57%, avec un temps de recharge total de 128 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 54 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 48 minutes à domicile.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
@@ -56,7 +56,7 @@ Peugot E-5008 Long Range dispose d'un système de traction avant pris en charge 
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Torsion Beam](../../../../technology/suspension/#torsion-beam). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 198 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Torsion Beam](../../../../technology/suspension/#torsion-beam). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 204 mm.
 
 ### Freins
 
@@ -238,9 +238,9 @@ Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 300 litres. Avec les sièges arrière rabattus, cette capacité passe à 1815 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg.
+Le coffre offre une capacité de chargement de 348 litres. Avec les sièges arrière rabattus, cette capacité passe à 2232 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg.
 
-Le poids maximum du véhicule est de 2640 kg, avec un poids de base de 2225 kg. Cela permet une charge maximale de 415 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 415 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+Le poids maximum du véhicule est de 2940 kg, avec un poids de base de 2241 kg. Cela permet une charge maximale de 699 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 

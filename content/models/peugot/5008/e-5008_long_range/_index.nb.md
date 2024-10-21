@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 660 km. EVKX.net har alle detaljene."
+description: "Peugot E-5008 Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 668 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Vi har delt vår beskrivelse av Peugot E-5008 Long Range i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Peugot E-5008 Long Range tilbyr beskjedne ytelser med en maksimal effekt på 170 kW (231 hk) og et totalt dreiemoment på 345 Nm. Den akselererer fra 0 til 100 km/t på 9,7 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Peugot E-5008 Long Range tilbyr beskjedne ytelser med en maksimal effekt på 170 kW (231 hk) og et totalt dreiemoment på 345 Nm. Den akselererer fra 0 til 100 km/t på 9,6 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 103,0 kWh og en netto brukbar kapasitet på 98,0 kWh, som gir en buffer på 5,0 kWh (4,9%) for batteribeskyttelse. Med en nominell spenning på 377 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 101,0 kWh og en netto brukbar kapasitet på 96,9 kWh, som gir en buffer på 4,1 kWh (4,1%) for batteribeskyttelse. Med en nominell spenning på 377 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 660 km, med et energiforbruk på 14,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 668 og 637 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,5 kWh/100 km for basismodellen og 15,2 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 160 kW. En full lading fra 0 - 100 % vil ta 112 minutter, mens et mer vanlig scenario på 10-80 % vil ta 57 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 72kW. Hver ladeøkt vil ta 41 minutter og 42 sekunder.
+Maksimal DC-ladehastighet er 160 kW. En full lading fra 0 - 100 % vil ta 111 minutter, mens et mer vanlig scenario på 10-80 % vil ta 56 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 72kW. Hver ladeøkt vil ta 40 minutter og 18 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 10 timer og 27 minutter. Denne reisen ville kreve to ladestopp fra 5% til 57%, med en total ladetid på 127 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 10 timer og 28 minutter. Denne reisen ville kreve to ladestopp fra 4% til 57%, med en total ladetid på 128 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 54 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 48 minutter med en hjemmelader.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
@@ -56,7 +56,7 @@ Peugot E-5008 Long Range har et forhjulsdriftssystem støttet av én motor på f
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 198 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 204 mm.
 
 ### Bremser
 
@@ -238,9 +238,9 @@ Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 300 liter. Med baksetene nedfelt, utvides dette til 1815 liter. På taket kan du laste opptil 80 kg.
+Bagasjerommet tilbyr en lastekapasitet på 348 liter. Med baksetene nedfelt, utvides dette til 2232 liter. På taket kan du laste opptil 80 kg.
 
-Kjøretøyets maksimale vekt er 2640 kg, med en basisvekt på 2225 kg. Dette gir en maksimal lastekapasitet på 415 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 415 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 2940 kg, med en basisvekt på 2241 kg. Dette gir en maksimal lastekapasitet på 699 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1000 kg, mens for en ubremset tilhenger er det 750 kg.
 

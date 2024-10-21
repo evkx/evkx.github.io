@@ -40,10 +40,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				660 km / 410 mi
+				668 km / 415 mi
 			</td>
 			<td>
-				14,85kWh/100km / 4,2 mi/kWh
+				14,51kWh/100km / 4,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				660 km / 410 mi
+				637 km / 396 mi
 			</td>
 			<td>
-				14,85 kWh/100km / 4,2 mi/kWh
+				15,21 kWh/100km / 4,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range basic trim with 2KW AC
 			</td>
 			<td>
-				 512km / 318 mi 
+				 515km / 320 mi 
 			</td>
 			<td>
-				-22,4%
+				-22,9%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range top trim with 2KW AC
 			</td>
 			<td>
-				512 km / 318 mi
+				497 km / 309 mi
 			</td>
 			<td>
-				-22,4%
+				-22,0%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				120kmh/75mph perfect condition
 			</td>
 			<td>
-				392 km / 244 mi
+				388 km / 241 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +143,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				120kmh/75mph with 2KW heating
 			</td>
 			<td>
-				368 km /229mi
+				364 km /226mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

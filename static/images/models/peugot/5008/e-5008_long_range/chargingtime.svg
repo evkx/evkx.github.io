@@ -3,7 +3,7 @@
     <g>
         <path d="M 1090 1102 L 40 1102 L 40 47" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 40 902 L 1090 902" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 40  1100 52  1090 63  1080 73  1070 82  1060 91  1050 99  1040 107  1030 114  1020 121  1010 127  1000 133  990 140  980 146  970 152  960 159  950 165  940 171  930 178  920 184  910 191  900 197  890 204  880 210  870 217  860 223  850 230  840 236  830 242  820 249  810 255  800 262  790 270  780 278  770 285  760 293  750 301  740 309  730 317  720 325  710 332  700 340  690 348  680 356  670 364  660 371  650 379  640 387  630 394  620 402  610 410  600 418  590 425  580 433  570 440  560 448  550 456  540 465  530 474  520 484  510 493  500 503  490 513  480 522  470 532  460 542  450 552  440 561  430 571  420 581  410 591  400 600  390 610  380 620  370 629  360 639  350 649  340 659  330 668  320 680  310 696  300 717  290 738  280 759  270 780  260 801  250 822  240 843  230 865  220 886  210 907  200 928  190 950  180 973  170 997  160 1022  150 1048  140 1075  130 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 40  1100 51  1090 62  1080 72  1070 82  1060 90  1050 98  1040 106  1030 113  1020 120  1010 126  1000 132  990 139  980 145  970 151  960 157  950 164  940 170  930 176  920 182  910 189  900 195  890 202  880 208  870 215  860 221  850 227  840 234  830 240  820 247  810 253  800 260  790 267  780 275  770 283  760 290  750 298  740 306  730 314  720 321  710 329  700 337  690 345  680 352  670 360  660 368  650 375  640 383  630 390  620 398  610 406  600 413  590 421  580 428  570 436  560 443  550 451  540 460  530 469  520 479  510 488  500 498  490 507  480 517  470 527  460 536  450 546  440 556  430 565  420 575  410 584  400 594  390 604  380 613  370 623  360 632  350 642  340 652  330 661  320 672  310 689  300 709  290 730  280 751  270 772  260 793  250 814  240 834  230 855  220 876  210 897  200 918  190 940  180 963  170 986  160 1011  150 1036  140 1063  130 1091  120 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -348,13 +348,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1147px; margin-left: 61px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging time for Peugot E-5008 Long Range 103 kWh
+                                EVKX.net - Charging time for Peugot E-5008 Long Range 101 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="620" y="1156" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging time for Peugot E-5008 Long Range 103 kWh
+                    EVKX.net - Charging time for Peugot E-5008 Long Range 101 kWh
                 </text>
             </switch>
         </g>

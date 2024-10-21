@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Peugot E-5008 Long R
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				9,7 s
+				9,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,26 +80,50 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">WLTP range</a>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				660 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
-			</td>
-			<td>
-				14,8 kWh/100km
+				668 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+			</td>
+			<td>
+				14,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+			</td>
+			<td>
+				637 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
 				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				19,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				103 kWh
+				101 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				98 kWh
+				96,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2108 mm (83,0")
+				1895 mm (74,6")
 			</td>
 		</tr>
 		<tr>
@@ -319,6 +343,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Overhang angle front
+			</td>
+			<td>
+				18,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				24,3
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
@@ -347,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2225 kg (4905 lbs)
+				2241 kg (4941 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2640 kg (5820 lbs)
+				2940 kg (6482 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +403,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				415 kg (915 lbs)
+				699 kg (1541 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +419,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				300 liter (11 cu-ft)
+				348 liter (12 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +427,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1815 liter (64 cu-ft)
+				2232 liter (79 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +435,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
 			</td>
 			<td>
-				738 liter (26 cu-ft)
+				916 liter (32 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +516,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				198 mm (7,8")
+				204 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				198 mm (7,8")
+				204 mm (8,0")
 			</td>
 		</tr>
 		<tr>

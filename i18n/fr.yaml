@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-82f1bd54
+  translation: Peugot E-5008 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 668 km (415 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-11b49b23
+  translation: Peugot E-5008 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 668 km (415 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-a0da6ccf
   translation: Nissan Ariya NISMO est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 417 km (259 miles). EVKX.net a tous les détails.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-99e44cf9
   translation: Zeekr 7X Standard Range RWD est un SUV entièrement électrique avec une autonomie CLTC allant jusqu'à 780 km (485 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-f0ccad59
-  translation: Kia EV6 Long Range AWD est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 546 km (339 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-b687c14e
-  translation: Onvo L60 RWD est un SUV coupé entièrement électrique avec une autonomie de CLTC allant jusqu'à 730 km (454 miles). EVKX.net a tous les détails.
 
