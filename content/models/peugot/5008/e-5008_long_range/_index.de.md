@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 668 km (415 Meilen). EVKX.net hat alle Details."
+description: "Peugot E-5008 Long Range ist ein vollelektrisches SUV mit einer Reichweite von bis zu 668 km (415 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -62,7 +62,7 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Bei niedrigen Geschwindigkeiten hält der Ein-Pedal-Fahrmodus das Fahrzeug kriechend in Bewegung.
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
@@ -89,7 +89,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Der Peugot E-5008 Long Range verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
@@ -104,6 +104,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
@@ -122,8 +123,8 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
@@ -133,8 +134,9 @@ Die dritte Reihe hat eine Zweiersitzbank mit einer 50:50-Teilung. Auch hier kön
 
 ## Klimaanlage
 
-Es gibt ein Klimasystem verfügbar:
+Zwei Klimasystemoptionen sind verfügbar:
 
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 - **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
 Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
@@ -151,6 +153,8 @@ Der Peugot E-5008 Long Range umfasst mehrere Funktionen, um Komfort und Bequemli
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des Peugot E-5008 Long Range konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
+
 Der Peugot E-5008 Long Range hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Wichtige Bildschirmdetails:
@@ -166,7 +170,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Peugot E-5008 Long Range ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad hat einen flachen Boden und eine flache Oberseite, was ein sportliches Aussehen und Gefühl verleiht. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, sodass Sie die Lautstärke leicht anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -190,6 +194,14 @@ Sie können zwischen zwei Soundsystemen für den Peugot E-5008 Long Range wähle
 - **:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von 690 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
+
+## Mobile App
+
+Der Peugot E-5008 Long Range wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Geplantes Laden:** Planen und terminieren Sie Ladesitzungen im Voraus.
+- **Ladeziel anpassen:** Stellen Sie Ihren gewünschten Ladezustand ein, um das Laden nach Bedarf zu starten oder zu stoppen.
 
 ## Lichter
 
@@ -249,5 +261,22 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Der Peugot E-5008 Long Range feierte seine Weltpremiere am 12.09.2023, mit Lieferungen ab February 2024.
+Der Peugot E-5008 Long Range feierte seine Weltpremiere am 12.09.2023, mit Lieferungen ab February 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Europa erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 519 900,00 NOK (Norwegen)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Peugot E-5008 Long Range identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Mercedes EQB 250](/models/mercedes/eqb/eqb_250/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [BYD Tang 4x4 Long Range](/models/byd/tang/tang_4x4_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=881297%2c070e4d%2c7380a8%2cbecb7f" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Peugot 5008" f_url="rangeandconsumption/" f_title="Reichweite" >}}

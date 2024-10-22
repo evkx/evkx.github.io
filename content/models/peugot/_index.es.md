@@ -86,7 +86,7 @@ Peugot 308 es un hatchback/camioneta disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 5008 es un SUV Coupé disponible en 2 variantes.
+Peugot 5008 es un SUV disponible en 2 variantes.
 </p>
 	<a href="5008/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

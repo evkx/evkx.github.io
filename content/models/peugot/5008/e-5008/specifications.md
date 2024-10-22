@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				20218 kg (44573 lbs)
+				2218 kg (4890 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				-17318 kg (-38180 lbs)
+				682 kg (1504 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Not Available
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008 Long Range
 linktitle: "E-5008 Long Range"
-description: "Peugot E-5008 Long Range is an all-electric coupe SUV with a WLTP range of up to 668 km (415 miles). EVKX.net has all the details."
+description: "Peugot E-5008 Long Range is an all-electric SUV with a WLTP range of up to 668 km (415 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -62,7 +62,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
@@ -89,7 +89,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-There is one seat type you can select in different materials.
+The Peugot E-5008 Long Range boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -104,6 +104,7 @@ The following functionalities are available on the **standard** seat:
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
@@ -122,8 +123,8 @@ Available in:
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
@@ -133,8 +134,9 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 ## Climate System
 
-There is one climate system available:
+Two climate system options are available:
 
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
@@ -151,6 +153,8 @@ The Peugot E-5008 Long Range includes several features to enhance comfort and co
 
 ## User Interface and Control
 
+The control interface for the Peugot E-5008 Long Range is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Peugot E-5008 Long Range has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
@@ -166,7 +170,7 @@ The model does not include a head-up display.
 
 The Peugot E-5008 Long Range is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -190,6 +194,14 @@ You can choose between two sound systems for the Peugot E-5008 Long Range:
 - **:** Features ten speakers and delivers a maximum output of 690 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
+
+## Mobile App
+
+The Peugot E-5008 Long Range comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
 
 ## Lights
 
@@ -249,5 +261,22 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Peugot E-5008 Long Range had its world premiere on 12.09.2023, with deliveries starting in February 2024.
+The Peugot E-5008 Long Range had its world premiere on 12.09.2023, with deliveries starting in February 2024. Please note that this model is available exclusively in Europe.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 519 900,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Peugot E-5008 Long Range that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Mercedes EQB 250](/models/mercedes/eqb/eqb_250/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [BYD Tang 4x4 Long Range](/models/byd/tang/tang_4x4_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=881297%2c070e4d%2c7380a8%2cbecb7f" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Peugot 5008" f_url="rangeandconsumption/" f_title="Range" >}}

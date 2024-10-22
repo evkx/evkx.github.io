@@ -1,7 +1,7 @@
 ---
 title: Peugot E-5008
 linktitle: "E-5008"
-description: "Peugot E-5008 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 502 km. EVKX.net har alla detaljer."
+description: "Peugot E-5008 är en helelektrisk SUV med en WLTP räckvidd på upp till 502 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -62,7 +62,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen långsamt framåt.
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
@@ -89,7 +89,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Peugot E-5008 har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
@@ -104,6 +104,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
@@ -122,6 +123,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008/secondrowseats_1_st.jpg" title="Peugot E-5008" width="3000" height="1986"  >}}
@@ -132,11 +134,12 @@ Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du 
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Två klimatsystemalternativ är tillgängliga:
 
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
 
@@ -149,6 +152,8 @@ Peugot E-5008 inkluderar flera funktioner för att förbättra komfort och bekv�
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
 
 Peugot E-5008 har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
@@ -165,7 +170,7 @@ Modellen är inte tillgänglig med head-up display.
 
 Peugot E-5008 är utrustad med en enda typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den ger också intuitiv kontroll över infotainmentsystemet, vilket gör det enkelt att justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ### Speglar
 
@@ -189,6 +194,14 @@ Du kan välja mellan två ljudsystem på Peugot E-5008.
 - Med  får du tio högtalare med en maximal systemeffekt på 690 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
+
+## Mobilapp
+
+Peugot E-5008 kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
 
 ## Ljus
 
@@ -240,7 +253,7 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 Bagageutrymmet erbjuder en lastkapacitet på 348 liter. Med baksätena nedfällda ökar detta till 2232 liter. På taket kan du lasta upp till 80 kg.
 
-Fordonets maximala vikt är 2900 kg, med en grundvikt på 20218 kg. Detta tillåter en maximal last på −17318 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. −17318 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 2900 kg, med en grundvikt på 2218 kg. Detta tillåter en maximal last på 682 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1000 kg, medan för en obromsad släpvagn är den 750 kg.
 
@@ -248,5 +261,22 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 12.09.2023 och leveranserna startade i February 2024.
+Denna modell hade världspremiär 12.09.2023 och leveranserna startade i February 2024. Denna modell är endast tillgänglig i Europa.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- 479 900,00 NOK (Norge)
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Peugot E-5008 som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Mercedes EQB 250](/models/mercedes/eqb/eqb_250/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [BYD Tang 4x4 Long Range](/models/byd/tang/tang_4x4_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=f5ff6e%2c070e4d%2c7380a8%2cbecb7f" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Peugot 5008" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

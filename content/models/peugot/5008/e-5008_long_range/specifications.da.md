@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				360 kamera
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>

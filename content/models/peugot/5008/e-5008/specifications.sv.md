@@ -387,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				20218 kg
+				2218 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				-17318 kg
+				682 kg
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standardfunktion, valfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				360-kamera
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>

@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Non disponible
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				Caméra 360
 			</td>
 			<td>
-				Oui, équipement standard
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>

@@ -86,7 +86,7 @@ Peugot 308 ist ein Schrägheck/Kombi, das in 2 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 5008 ist ein Coupé-SUV, das in 2 Varianten erhältlich ist.
+Peugot 5008 ist ein SUV, der in 2 Varianten erhältlich ist.
 </p>
 	<a href="5008/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

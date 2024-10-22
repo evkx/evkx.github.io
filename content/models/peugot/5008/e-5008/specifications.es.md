@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				20218 kg
+				2218 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				-17318 kg
+				682 kg
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				No disponible
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				Cámara 360
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>

@@ -387,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				20218 kg (44573 lbs)
+				2218 kg (4890 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				-17318 kg (-38180 lbs)
+				682 kg (1504 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Nicht verfügbar
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				360-Grad-Kamera
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Ja, Sonderausstattung
 			</td>
 		</tr>
 		<tr>

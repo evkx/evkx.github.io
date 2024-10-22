@@ -86,7 +86,7 @@ Peugot 308 is a hatcback / station wagon available in 2 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 5008 is a Coupe SUV available in 2 variants.
+Peugot 5008 is a SUV available in 2 variants.
 </p>
 	<a href="5008/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

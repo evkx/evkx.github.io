@@ -86,7 +86,7 @@ Peugot 308 er en hatcback /stasjonsvogn tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 5008 er en Coupe SUV tilgjengelig i 2 varianter.
+Peugot 5008 er en SUV tilgjengelig i 2 varianter.
 </p>
 	<a href="5008/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

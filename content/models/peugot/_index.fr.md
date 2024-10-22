@@ -86,7 +86,7 @@ Peugot 308 est un break / break disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 5008 est un SUV coupé disponible en 2 variantes.
+Peugot 5008 est un SUV disponible en 2 variantes.
 </p>
 	<a href="5008/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
