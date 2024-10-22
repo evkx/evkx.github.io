@@ -48,6 +48,21 @@ Opel Frontera ist ein Crossover, das in 1 Varianten erhältlich ist.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Opel Grandland</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="grandland">
+                    <img src="https://media.evkx.net/multimedia/models/opel/grandland/grandland/main_1_st.jpg" class="img-fluid" alt="Opel Grandland" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Opel Grandland ist ein SUV, der in 1 Varianten erhältlich ist.
+</p>
+	<a href="grandland/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Opel Mokka</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

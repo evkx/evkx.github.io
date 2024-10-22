@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/opel/grandland/grandland/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/opel/grandland/grandland/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Opel Grandland</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-ad6172aa"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/peugot/5008/e-5008/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/peugot/5008/e-5008/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Audi SQ6 Sportback e-tron</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-3d2dbc1f"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/audi/q6_e-tron/q6_sportback_e-tron_quattro/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6_sportback_e-tron_quattro/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Audi Q6 Sportback e-tron quattro</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-6372714d"}}</p>
 				</div>
 			</div>
 		</div>

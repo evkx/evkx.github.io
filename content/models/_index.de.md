@@ -546,7 +546,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
 	<h2>Opel</h2>
 	<p>
-	Opel hat 3 Modelle mit insgesamt 4 Varianten.
+	Opel hat 4 Modelle mit insgesamt 5 Varianten.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Gehe zu Opel EV-Modellübersicht</a>
 </div>

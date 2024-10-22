@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-ad6172aa
+  translation: Opel Grandland es un SUV totalmente eléctrico con una autonomía WLTP de hasta 525 km (326 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-82f1bd54
   translation: Peugot E-5008 es un SUV totalmente eléctrico con una autonomía WLTP de hasta 502 km (312 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-99e44cf9
   translation: Zeekr 7X Standard Range RWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-f0ccad59
-  translation: Kia EV6 Long Range AWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 546 km (339 millas). EVKX.net tiene todos los detalles.
 

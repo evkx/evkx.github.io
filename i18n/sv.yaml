@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-ad6172aa
+  translation: Opel Grandland är en helelektrisk SUV med en WLTP räckvidd på upp till 525 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-82f1bd54
   translation: Peugot E-5008 är en helelektrisk SUV med en WLTP räckvidd på upp till 502 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-99e44cf9
   translation: Zeekr 7X Standard Range RWD är en helelektrisk SUV med en CLTC räckvidd på upp till 780 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-f0ccad59
-  translation: Kia EV6 Long Range AWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 546 km. EVKX.net har alla detaljer.
 
