@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 Vi har opdelt vores Zeekr MIX Standard Range RWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
 - [Ydeevne](#ydeevne)
@@ -80,6 +82,8 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/exterior_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -123,6 +127,8 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Klimasystem
 
@@ -203,6 +209,8 @@ Du kan vælge mellem to typer forlygter til Zeekr MIX Standard Range RWD.
 - De valgfrie LED-forlygter har flere LED-segmenter, hvilket giver dig mulighed for at tilpasse din foretrukne kørelys (DRL) signatur.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/headlights_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
 
 ## Avancerede førerassistentsystemer
 

@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
 - [Leistung](#leistung)
@@ -80,6 +82,8 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/exterior_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
@@ -123,6 +127,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Spl
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Klimaanlage
 
@@ -203,6 +209,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Zeekr MIX Standard Range RW
 - Die optionalen LED-Scheinwerfer verfügen über mehrere LED-Segmente, die es Ihnen ermöglichen, Ihre bevorzugte Tagfahrlicht (DRL)-Signatur anzupassen.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/headlights_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
 
 ## Erweiterte Fahrerassistenzsysteme
 

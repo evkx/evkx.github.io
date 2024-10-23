@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999" >}}
 EVKX.net busca tener las especificaciones más completas para Zeekr MIX Standard Range RWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Zeekr MIX Standard Range RWD, visite [chargeinfo](../chargecurve/) para Zeekr MIX Standard Range RWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 

@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 Vi har delat in vår beskrivning av Zeekr MIX Standard Range RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#prestanda)
@@ -80,6 +82,8 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/exterior_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -123,6 +127,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Klimatsystem
 
@@ -203,6 +209,8 @@ Du kan välja mellan två typer av strålkastare för Zeekr MIX Standard Range R
 - De valfria LED-strålkastarna har flera LED-segment, vilket gör att du kan anpassa din föredragna dagsljussignatur (DRL).
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/headlights_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
 
 ## Avancerade förarassistanssystem
 

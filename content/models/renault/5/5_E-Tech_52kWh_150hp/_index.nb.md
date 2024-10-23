@@ -158,6 +158,8 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Renault 5 E-Tech 52kWh 150hp er utstyrt med et avansert infotainmentsystem som kjører på Android Automotive OS med Google Automotive Services, som gir en sømløs integrasjon av Google-apper og -tjenester direkte i kjøretøyet. Dette robuste systemet inkluderer innebygd Google Maps for navigasjon, Google Assistant for talekommandoer, og tilgang til et bredt spekter av apper via Google Play Store. Renault har ytterligere forbedret denne plattformen ved å integrere sin egen suite av applikasjoner, som gir omfattende bilinnstillinger og tilleggsegenskaper skreddersydd for Renault kjøreopplevelse.
+
 ### Navigasjonssystem
 
 I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.

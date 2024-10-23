@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 Nous avons séparé notre article Zeekr MIX Standard Range RWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
@@ -80,6 +82,8 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 Les vitres du montant B et de l'arrière sont teintées.
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/exterior_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -123,6 +127,8 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Système de climatisation
 
@@ -203,6 +209,8 @@ Vous pouvez choisir entre deux types de phares pour le Zeekr MIX Standard Range 
 - Les phares LED optionnels comportent plusieurs segments LED, vous permettant de personnaliser votre signature de feux de jour (DRL).
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/headlights_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 

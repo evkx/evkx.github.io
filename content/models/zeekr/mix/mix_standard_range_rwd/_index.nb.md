@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 Vi har delt vår beskrivelse av Zeekr MIX Standard Range RWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
@@ -80,6 +82,8 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/exterior_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -123,6 +127,8 @@ Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan fol
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Klimasystem
 
@@ -203,6 +209,8 @@ Du kan velge mellom to typer frontlykter for Zeekr MIX Standard Range RWD.
 - De valgfrie LED-frontlyktene har flere LED-segmenter, som lar deg tilpasse din foretrukne signatur for kjørelys (DRL).
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/headlights_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
 
 ## Avanserte førerassistentsystemer
 

@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 Hemos separado nuestro artículo Zeekr MIX Standard Range RWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -80,6 +82,8 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/exterior_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -123,6 +127,8 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Sistema de climatización
 
@@ -203,6 +209,8 @@ Puedes elegir entre dos tipos de faros para el Zeekr MIX Standard Range RWD.
 - Los faros LED opcionales cuentan con múltiples segmentos LED, lo que te permite personalizar tu firma de luz diurna (DRL) preferida.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+
+{{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/headlights_1_st.JPG" title="Zeekr MIX Standard Range RWD" width="3000" height="1999"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
