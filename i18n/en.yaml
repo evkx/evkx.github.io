@@ -115,9 +115,6 @@
 - id: frontpage-description-bff9fe3d
   translation: Zeekr MIX Standard Range RWD is an all-electric MPV with a CLTC range of up to 550 km (342 miles). EVKX.net has all the details.
 
-- id: frontpage-description-681b896f
-  translation: Zeekr MIX Standard Range RWD is an all-electric MPV with a CLTC range of up to 550 km (342 miles). EVKX.net has all the details.
-
 - id: frontpage-description-ad6172aa
   translation: Opel Grandland is an all-electric SUV with a WLTP range of up to 525 km (326 miles). EVKX.net has all the details.
 
@@ -159,4 +156,7 @@
 
 - id: frontpage-description-267ea0ae
   translation: Leapmotor C10 69kWh RWD is an all-electric SUV with a WLTP range of up to 420 km (261 miles). EVKX.net has all the details.
+
+- id: frontpage-description-8eecb46c
+  translation: Mini Countryman SE ALL4 is an all-electric premium SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details.
 

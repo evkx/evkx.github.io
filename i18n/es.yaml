@@ -115,9 +115,6 @@
 - id: frontpage-description-bff9fe3d
   translation: Zeekr MIX Standard Range RWD es un monovolumen totalmente eléctrico con una autonomía CLTC de hasta 550 km (342 millas). EVKX.net tiene todos los detalles.
 
-- id: frontpage-description-681b896f
-  translation: Zeekr MIX Standard Range RWD es un monovolumen totalmente eléctrico con una autonomía CLTC de hasta 550 km (342 millas). EVKX.net tiene todos los detalles.
-
 - id: frontpage-description-ad6172aa
   translation: Opel Grandland es un SUV totalmente eléctrico con una autonomía WLTP de hasta 525 km (326 millas). EVKX.net tiene todos los detalles.
 
@@ -159,4 +156,7 @@
 
 - id: frontpage-description-267ea0ae
   translation: Leapmotor C10 69kWh RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 420 km (261 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-8eecb46c
+  translation: Mini Countryman SE ALL4 es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 440 km (274 millas). EVKX.net tiene todos los detalles.
 

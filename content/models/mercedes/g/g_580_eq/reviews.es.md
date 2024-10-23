@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes G580 Geländewagen short test drive</h3>
+<p>Bjørn Nyland: 23.10.2024</p>
+
+{{< youtube vxN00bICv_o >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes G580 Geländewagen off-roading</h3>
+<p>Bjørn Nyland: 23.10.2024</p>
+
+{{< youtube oeitI5z6KmE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric G Wagon REVEAL first-ever Mercedes G-Class G580 EQ?</h3>
 <p>Autogefühl: 29.09.2022</p>
 
