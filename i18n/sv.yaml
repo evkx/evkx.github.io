@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-bff9fe3d
+  translation: Zeekr MIX Standard Range RWD är en helelektrisk MPV med en CLTC räckvidd på upp till 550 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-681b896f
+  translation: Zeekr MIX Standard Range RWD är en helelektrisk MPV med en CLTC räckvidd på upp till 550 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-ad6172aa
   translation: Opel Grandland är en helelektrisk SUV med en WLTP räckvidd på upp till 525 km. EVKX.net har alla detaljer.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-267ea0ae
   translation: Leapmotor C10 69kWh RWD är en helelektrisk SUV med en WLTP räckvidd på upp till 420 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-8eecb46c
-  translation: Mini Countryman SE ALL4 är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 440 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-99e44cf9
-  translation: Zeekr 7X Standard Range RWD är en helelektrisk SUV med en CLTC räckvidd på upp till 780 km. EVKX.net har alla detaljer.
 

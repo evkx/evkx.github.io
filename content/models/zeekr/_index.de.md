@@ -78,6 +78,21 @@ Zeekr 7X ist ein SUV, der in 2 Varianten erhältlich ist.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Zeekr MIX</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="mix">
+                    <img src="" class="img-fluid" alt="Zeekr MIX" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Zeekr MIX ist ein MPV, das in 1 Varianten erhältlich ist.
+</p>
+	<a href="mix/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Zeekr X</h3>
         <div class="row">
             <div class="col col-12 col-md-6">
