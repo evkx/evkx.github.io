@@ -10,7 +10,7 @@ weight: 30
 <h3>Zeekr MIX Standard Range RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mix_standard_range_rwd/"><img src="" class="img-fluid" width="400px" height="0px" alt="MIX Standard Range RWD" ></a>
+			<a href="mix_standard_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/mix/mix_standard_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="MIX Standard Range RWD" ></a>
 <i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 76,5 kWh <i class="bi bi-ev-station"></i> 450 kW 
 		</div>
 		<div class="col col-12 col-md-6">

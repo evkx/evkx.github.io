@@ -82,7 +82,7 @@ Zeekr 7X is a SUV available in 2 variants.
         <div class="row">
             <div class="col col-12 col-md-6">
                 <a href="mix">
-                    <img src="" class="img-fluid" alt="Zeekr MIX" >
+                    <img src="https://media.evkx.net/multimedia/models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" class="img-fluid" alt="Zeekr MIX" >
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
