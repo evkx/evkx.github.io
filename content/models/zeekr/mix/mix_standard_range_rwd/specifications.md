@@ -54,7 +54,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr MIX Standard R
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,8 s
+				6,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -362,10 +362,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-The model offers 2 suspension variants
-
-### standar
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -423,7 +419,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +427,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -471,128 +467,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Suspension type front</a>
 			</td>
 			<td>
-				Double wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type rear</a>
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### air suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adaptive suspension</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping front</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height front</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Max ground clearance</a>
-			</td>
-			<td>
-				230 mm (9,1")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Minimum ground clearance</a>
-			</td>
-			<td>
-				160 mm (6,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type front</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type rear</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type front</a>
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type rear</a>
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type front</a>
-			</td>
-			<td>
-				Double wishbone suspension
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +703,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +711,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>

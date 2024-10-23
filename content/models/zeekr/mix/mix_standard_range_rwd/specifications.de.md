@@ -54,7 +54,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Zeekr MIX Standard
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,8 s
+				6,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -362,10 +362,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Federung
 
-Das Modell bietet 2 Federungsvarianten
-
-### standar
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -423,7 +419,7 @@ Das Modell bietet 2 Federungsvarianten
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +427,7 @@ Das Modell bietet 2 Federungsvarianten
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -471,128 +467,7 @@ Das Modell bietet 2 Federungsvarianten
 				Federungstyp vorne
 			</td>
 			<td>
-				Doppelquerlenker-Federung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Federungstyp hinten
-			</td>
-			<td>
-				Mehrlenker
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### air suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive Federung
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Dämpfung vorne
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Dämpfung hinten
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Höhe vorne
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Höhe hinten
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximale Bodenfreiheit
-			</td>
-			<td>
-				230 mm (9,1")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimale Bodenfreiheit
-			</td>
-			<td>
-				160 mm (6,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dämpfertyp vorne
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dämpfertyp hinten
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Federungstyp vorne
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Federungstyp hinten
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Federungstyp vorne
-			</td>
-			<td>
-				Doppelquerlenker-Federung
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +703,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +711,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>

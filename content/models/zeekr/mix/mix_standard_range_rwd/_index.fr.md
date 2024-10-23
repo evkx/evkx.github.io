@@ -24,7 +24,7 @@ Nous avons séparé notre article Zeekr MIX Standard Range RWD en sections. Si v
 
 ## Performances
 
-La Zeekr MIX Standard Range RWD offre des performances solides avec une puissance maximale de 310 kW (422 ch) et un couple total de 440 Nm. Elle peut accélérer de 0 à 100 km/h en 5,8 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
+La Zeekr MIX Standard Range RWD offre des performances solides avec une puissance maximale de 310 kW (422 ch) et un couple total de 440 Nm. Elle peut accélérer de 0 à 100 km/h en 6,8 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -52,11 +52,7 @@ Zeekr MIX Standard Range RWD dispose d'un système de propulsion arrière pris e
 
 ### Suspension
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standar est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 190 mm.
-
-Vous pouvez commander Zeekr MIX Standard Range RWD avec une suspension alternative air suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 160 mm et la garde au sol maximale est de 230 mm.
-
-Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 150 mm.
 
 ### Pilotage
 

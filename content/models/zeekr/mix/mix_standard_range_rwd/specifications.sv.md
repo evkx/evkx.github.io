@@ -54,7 +54,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Zeekr MIX Standard Ran
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,8 s
+				6,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -362,10 +362,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-Modellen erbjuder 2 fjädringsvarianter
-
-### standar
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -423,7 +419,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +427,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -471,128 +467,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Hjulupphängning foran
 			</td>
 			<td>
-				Dubbel länkarmsfjädring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### air suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive Suspension
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning fram
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd fram
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max markfrigång
-			</td>
-			<td>
-				230 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minsta markfrigång
-			</td>
-			<td>
-				160 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre stötdämpare
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre stötdämpare
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre fjädring
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre fjädring
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning foran
-			</td>
-			<td>
-				Dubbel länkarmsfjädring
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +703,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +711,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>

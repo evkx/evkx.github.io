@@ -24,7 +24,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Zeekr MIX Standard Range RWD liefert eine solide Leistung mit einer maximalen Leistung von 310 kW (422 PS / 416 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 5,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der Zeekr MIX Standard Range RWD liefert eine solide Leistung mit einer maximalen Leistung von 310 kW (422 PS / 416 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 6,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -52,11 +52,7 @@ Der Zeekr MIX Standard Range RWD hat ein Heckantriebssystem, das von einem Motor
 
 ### Federung
 
-Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standar Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 190 mm.
-
-Sie können Zeekr MIX Standard Range RWD mit einer alternativen air suspension Federung bestellen. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 160 mm und die maximale 230 mm.
-
-Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 150 mm.
 
 ### Lenkung
 

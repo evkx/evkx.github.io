@@ -24,7 +24,7 @@ Vi har delt vår beskrivelse av Zeekr MIX Standard Range RWD i seksjoner. Hvis d
 
 ## Ytelse
 
-Zeekr MIX Standard Range RWD leverer solid ytelse med en maksimal effekt på 310 kW (422 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 5,8 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Zeekr MIX Standard Range RWD leverer solid ytelse med en maksimal effekt på 310 kW (422 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 6,8 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
@@ -52,11 +52,7 @@ Zeekr MIX Standard Range RWD har et bakhjulsdriftssystem støttet av en motor p�
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standar-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 190 mm.
-
-Du kan bestille Zeekr MIX Standard Range RWD med en alternativ air suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 160 mm, og maksimum er 230 mm.
-
-For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 150 mm.
 
 ### Styring
 

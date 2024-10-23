@@ -54,7 +54,7 @@ EVKX.net busca tener las especificaciones más completas para Zeekr MIX Standard
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,8 s
+				6,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -362,10 +362,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Suspensión
 
-El modelo ofrece 2 variantes de suspensión
-
-### standar
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -423,7 +419,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +427,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -471,128 +467,7 @@ El modelo ofrece 2 variantes de suspensión
 				Tipo de suspensión delantera
 			</td>
 			<td>
-				Suspensión de doble horquilla
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión trasera
-			</td>
-			<td>
-				Multienlace
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### air suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspensión adaptativa
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación delantera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación trasera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frente regulable en altura
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Altura trasera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia máxima al suelo
-			</td>
-			<td>
-				230 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia mínima al suelo
-			</td>
-			<td>
-				160 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador delantero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador trasero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Delantero tipo resorte
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Trasero tipo resorte
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión delantera
-			</td>
-			<td>
-				Suspensión de doble horquilla
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +703,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +711,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>

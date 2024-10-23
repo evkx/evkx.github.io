@@ -24,7 +24,7 @@ Vi har delat in vår beskrivning av Zeekr MIX Standard Range RWD i avsnitt. Om d
 
 ## Prestanda
 
-Zeekr MIX Standard Range RWD levererar en solid prestanda med en maximal effekt på 310 kW (422 hk) och ett totalt vridmoment på 440 Nm. Den kan accelerera från 0 till 100 km/h på 5,8 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
+Zeekr MIX Standard Range RWD levererar en solid prestanda med en maximal effekt på 310 kW (422 hk) och ett totalt vridmoment på 440 Nm. Den kan accelerera från 0 till 100 km/h på 6,8 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
@@ -52,11 +52,7 @@ Zeekr MIX Standard Range RWD har ett bakhjulsdriftssystem som stöds av en motor
 
 ### Hjulupphängning
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standar-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 190 mm.
-
-Du kan beställa Zeekr MIX Standard Range RWD med en alternativ air suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 160 mm, och maximal är 230 mm.
-
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 150 mm.
 
 ### Styrning
 

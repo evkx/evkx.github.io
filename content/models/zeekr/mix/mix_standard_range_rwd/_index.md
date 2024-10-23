@@ -24,7 +24,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Zeekr MIX Standard Range RWD delivers a solid performance with a maximum power of 310 kW (422 hp / 416 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.8 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Zeekr MIX Standard Range RWD delivers a solid performance with a maximum power of 310 kW (422 hp / 416 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -52,11 +52,7 @@ The Zeekr MIX Standard Range RWD has a rear-wheel drive system supported by one 
 
 ### Suspension
 
-The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The standar suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 190 mm.
-
-You can order Zeekr MIX Standard Range RWD with an alternative air suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 160 mm, and the maximum is 230 mm.
-
-For easier loading, you can lower the air suspension from the rear
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 150 mm.
 
 ### Steering
 

@@ -54,7 +54,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr MIX Standard 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,8 s
+				6,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -362,10 +362,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Hjuloppheng
 
-Modellen tilbyr 2 fjæringsvarianter
-
-### standar
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -423,7 +419,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +427,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -471,128 +467,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Hjuloppheng foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### air suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptiv understell
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping foran
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping bak
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde foran
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde bak
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks bakkeklaring
-			</td>
-			<td>
-				230 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum bakkeklaring
-			</td>
-			<td>
-				160 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper foran
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper bak
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring foran
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring bak
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng foran
-			</td>
-			<td>
-				Dobbelt bærearmsoppheng
+				MacPhersonStrut
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +703,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +711,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>

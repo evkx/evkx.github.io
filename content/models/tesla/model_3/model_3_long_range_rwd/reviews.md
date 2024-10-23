@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 Long Range RWD 1 Month & 7,000mi Final Review! Their Best Car Ever</h3>
+<p>Out of Spec Reviews: 23.10.2024</p>
+
+{{< youtube MF5MTo27XPg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Fantastic Result For Tesla Model 3 Long Range RWD In Our 10% EV Road Trip Challenge!</h3>
 <p>Out of Spec Reviews: 14.10.2024</p>
 

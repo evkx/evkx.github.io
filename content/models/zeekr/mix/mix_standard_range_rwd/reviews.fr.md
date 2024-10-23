@@ -10,9 +10,23 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Zeekr MIX Review - The Scenic Renault Should Have Made Is Brilliant</h3>
-<p>Inside China Auto: 23.09.2024</p>
+<p>Inside China Auto: 23.10.2024</p>
 
 {{< youtube vBwoW-PYN9c >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr MIX: This Is Not A Concept Car</h3>
+<p>Wheelsboy: 23.10.2024</p>
+
+{{< youtube JWnUry6mCxs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr MIX: What the VW ID. Buzz Could’ve Been!</h3>
+<p>ChinaDriven: 23.10.2024</p>
+
+{{< youtube OqtmRft-tq0 >}}
 
 </div>
 <div class="mt-3 mb-3">
