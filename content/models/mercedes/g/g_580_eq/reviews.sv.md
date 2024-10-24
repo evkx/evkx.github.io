@@ -9,10 +9,17 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The G-Wagon Greta Thunberg Would drive! Electric G580</h3>
+<p>Kris Rifa: 24.10.2024</p>
+
+{{< youtube cbKsVGeaarc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mercedes G580 Geländewagen short test drive</h3>
 <p>Bjørn Nyland: 23.10.2024</p>
 
-{{< youtube vxN00bICv_o >}}
+{{< youtube pzS-lIPrOc8 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
