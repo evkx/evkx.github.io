@@ -36,7 +36,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 76,5 kWh og en nettoanvende
 
 Den maksimale DC-opladningshastighed er 450kW. En fuld opladning fra 0 - 100 % ville tage 23 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 9 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 80%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 227kW. Hver opladningssession ville tage 15 minutter og 14 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Zeekr MIX Standard Range RWD til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 9 timer og 1 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 74%, med en samlet opladningstid på 42 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 9 timer og 10 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 66%, med en samlet opladningstid på 51 minutter
 
 ### Ombordlader
 
@@ -54,7 +54,7 @@ Zeekr MIX Standard Range RWD har et baghjulstræksystem, der understøttes af en
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 150 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 165 mm.
 
 ### Styring
 

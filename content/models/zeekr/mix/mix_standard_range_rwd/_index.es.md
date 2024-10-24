@@ -36,7 +36,7 @@ El [rango CLTC](../../../../guides/understandingrange/cltc/) es 550 km (342 mill
 
 La velocidad máxima de carga de CC es 450kW. Una carga completa del 0 al 100 % tardaría 23 minutos, mientras que un escenario más común del 10 al 80 % tardaría 9 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 80%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 227kW. Cada sesión de carga tardaría 15 minutos y 14 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Zeekr MIX Standard Range RWD sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 1 minutos. Este viaje requeriría dos paradas de carga del 3% al 74%, con un tiempo total de carga de 42 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 26 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 10 minutos. Este viaje requeriría dos paradas de carga del 3% al 66%, con un tiempo total de carga de 51 minutos.
 
 ### Cargador a bordo
 
@@ -54,7 +54,7 @@ Zeekr MIX Standard Range RWD tiene un sistema de tracción trasera sostenido por
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 150 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 165 mm.
 
 ### Dirección
 

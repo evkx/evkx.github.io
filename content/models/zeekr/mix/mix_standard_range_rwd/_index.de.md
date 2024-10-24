@@ -36,7 +36,7 @@ Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingran
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 450 kW. Das Laden von 0% auf 100% dauert etwa 23 Minuten, während ein typischer Ladevorgang von 10% auf 80% 9 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 336 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 2% und 80%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 227 kW, wobei jede Ladesitzung etwa 15 Minuten und 14 Sekunden dauert. Diese außergewöhnlich schnelle Ladefähigkeit macht den Zeekr MIX Standard Range RWD zu einem der effizientesten und bequemsten EVs für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 9 Stunden und 1 Minuten dauern. Diese Reise würde drei Ladestopps von 3% auf 74% erfordern, mit einer gesamten Ladezeit von 42 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 26 kWh/100 km, würde die Fahrt etwa 9 Stunden und 10 Minuten dauern. Diese Reise würde vier Ladestopps von 3% auf 66% erfordern, mit einer gesamten Ladezeit von 51 Minuten.
 
 ### Bordladegerät
 
@@ -54,7 +54,7 @@ Der Zeekr MIX Standard Range RWD hat ein Heckantriebssystem, das von einem Motor
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 150 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 165 mm.
 
 ### Lenkung
 

@@ -36,7 +36,7 @@ The vehicle's range, according to the [CLTC](../../../../guides/understandingran
 
 The vehicle supports fast DC charging with a maximum power of 450 kW. Charging from 0% to 100% takes approximately 23 minutes, while a more typical scenario from 10% to 80% takes 9 minutes with an average charging speed of 336 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 80%. This results in an effective charging speed, including time lost, of 227 kW, with each charging session taking about 15 minutes and 14 seconds. This exceptionally fast charging capability makes the Zeekr MIX Standard Range RWD one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 1 minutes. This journey would require three charging stops from 3% to 74%, with a total charging time of 42 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 26 kWh/100 km, the trip would take approximately 9 hours and 10 minutes. This journey would require four charging stops from 3% to 66%, with a total charging time of 51 minutes.
 
 ### Onboard Charger
 
@@ -54,7 +54,7 @@ The Zeekr MIX Standard Range RWD has a rear-wheel drive system supported by one 
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 150 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 165 mm.
 
 ### Steering
 

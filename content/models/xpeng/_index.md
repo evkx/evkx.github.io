@@ -63,6 +63,21 @@ XPENG G9 is a SUV available in 3 variants.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>XPENG Mona M03</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="mona_m03">
+                    <img src="https://media.evkx.net/multimedia/models/xpeng/mona_m03/mona_m03_long_range/main_1_st.jpg" class="img-fluid" alt="XPENG Mona M03" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+XPENG Mona M03 is a sedan available in 1 variants.
+</p>
+	<a href="mona_m03/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>XPENG P7</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

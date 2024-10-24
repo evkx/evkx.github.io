@@ -36,7 +36,7 @@ Høykapasitetsbatteriet har en brutto kapasitet på 76,5 kWh og en netto brukbar
 
 Maksimal DC-ladehastighet er 450 kW. En full lading fra 0 - 100 % vil ta 23 minutter, mens et mer vanlig scenario på 10-80 % vil ta 9 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 80%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 227kW. Hver ladeøkt vil ta 15 minutter og 14 sekunder. Denne eksepsjonelt raske ladeevnen gjør Zeekr MIX Standard Range RWD til en av de mest effektive og praktiske elbilene for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 9 timer og 1 minutter. Denne reisen ville kreve to ladestopp fra 3% til 74%, med en total ladetid på 42 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 26 kWh/100 km, ville turen ta omtrent 9 timer og 10 minutter. Denne reisen ville kreve to ladestopp fra 3% til 66%, med en total ladetid på 51 minutter.
 
 ### Ombordlader
 
@@ -54,7 +54,7 @@ Zeekr MIX Standard Range RWD har et bakhjulsdriftssystem støttet av en motor p�
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 150 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 165 mm.
 
 ### Styring
 

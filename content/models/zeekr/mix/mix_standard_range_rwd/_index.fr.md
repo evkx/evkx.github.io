@@ -36,7 +36,7 @@ La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 550 km (342 
 
 La vitesse de charge DC maximale est de 450kW. Une charge complète de 0 à 100 % prendrait 23 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 9 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 80 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 227kW. Chaque session de charge prendrait 15 minutes et 14 secondes. Cette capacité de charge exceptionnellement rapide fait de la Zeekr MIX Standard Range RWD l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 9 heures et 1 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 74%, avec un temps de recharge total de 42 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 26 kWh/100 km, le voyage prendrait environ 9 heures et 10 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 66%, avec un temps de recharge total de 51 minutes.
 
 ### Chargeur embarqué
 
@@ -54,7 +54,7 @@ Zeekr MIX Standard Range RWD dispose d'un système de propulsion arrière pris e
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 150 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 165 mm.
 
 ### Pilotage
 

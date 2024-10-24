@@ -704,7 +704,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
 	<h2>XPENG</h2>
 	<p>
-	XPENG tiene 5 modelos con un total de 9 variantes.
+	XPENG tiene 6 modelos con un total de 10 variantes.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Ir a XPENG descripción general del modelo EV</a>
 </div>

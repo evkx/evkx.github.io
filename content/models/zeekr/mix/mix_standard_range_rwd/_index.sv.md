@@ -36,7 +36,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 76,5 kWh och en nettoanvändb
 
 Maximal DC-laddningshastighet är 450 kW. En full laddning från 0 - 100 % tar 23 minuter, medan ett vanligare scenario på 10-80 % tar 9 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 80%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 227kW. Varje laddningssession tar 15 minuter och 14 sekunder. Denna exceptionellt snabba laddningskapacitet gör Zeekr MIX Standard Range RWD till en av de mest effektiva och bekväma elbilarna för långresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 9 timmar och 1 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 74%, med en total laddningstid på 42 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26 kWh/100 km, skulle resan ta ungefär 9 timmar och 10 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 66%, med en total laddningstid på 51 minuter.
 
 ### Ombordladdare
 
@@ -54,7 +54,7 @@ Zeekr MIX Standard Range RWD har ett bakhjulsdriftssystem som stöds av en motor
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 150 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 165 mm.
 
 ### Styrning
 
