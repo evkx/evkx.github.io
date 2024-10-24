@@ -80,34 +80,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">WLTP range</a>
-			</td>
-			<td>
-				570 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
-			</td>
-			<td>
-				10,7 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				17,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Basic trim CLTC range
 			</td>
 			<td>
-				755 km
+				618 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				8,1 kWh/100km
+				9,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>

@@ -80,34 +80,10 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				Rango WLTP
-			</td>
-			<td>
-				570 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP
-			</td>
-			<td>
-				10,7 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP con pérdida de carga
-			</td>
-			<td>
-				17,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>
-				755 km
+				618 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo CLTC de ajuste básico
 			</td>
 			<td>
-				8,1 kWh/100km
+				9,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>

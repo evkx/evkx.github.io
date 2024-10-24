@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range är en helelektrisk sedan med en WLTP räckvidd på upp till 570 km. EVKX.net har alla detaljer."
+description: "XPENG Mona M03 Long Range är en helelektrisk sedan med en CLTC räckvidd på upp till 618 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ XPENG Mona M03 Long Range levererar en solid prestanda med en maximal effekt på
 
 Högkapacitetsbatteriet har en bruttokapacitet på 62,2 kWh och en nettoanvändbar kapacitet på 61,0 kWh, vilket ger en buffert på 1,2 kWh (1,9%) för batteriskydd. Med en nominell spänning på 473 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 570 km (199 miles), med en energiförbrukningshastighet på 10,7 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 618 km (384 miles). Förbrukningen är 9,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 92 kW. En full laddning från 0 - 100 % tar 99 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 61kW. Varje laddningssession tar 30 minuter och 31 sekunder.
 

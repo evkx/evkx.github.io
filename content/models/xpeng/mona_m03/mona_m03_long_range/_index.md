@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range is an all-electric sedan with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details."
+description: "XPENG Mona M03 Long Range is an all-electric sedan with a CLTC range of up to 618 km (384 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ The XPENG Mona M03 Long Range delivers a solid performance with a maximum power 
 
 The high-capacity battery has a gross capacity of 62.2 kWh and a net usable capacity of 61.0 kWh, providing a 1.2 kWh buffer (1.9%) for battery protection. With a nominal voltage of 473 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 10.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 618 km (384 miles). The energy consumption is 9.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 92 kW. Charging from 0% to 100% takes approximately 99 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 61 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 55%. This results in an effective charging speed, including time lost, of 61 kW, with each charging session taking about 30 minutes and 31 seconds.
 

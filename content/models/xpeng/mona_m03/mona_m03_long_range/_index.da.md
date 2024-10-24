@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range er en fuldelektrisk sedan med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne."
+description: "XPENG Mona M03 Long Range er en fuldelektrisk sedan med en CLTC rækkevidde på op til 618 km (384 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ XPENG Mona M03 Long Range leverer en solid præstation med en maksimal effekt p�
 
 Det højkapacitetsbatteri har en bruttokapacitet på 62,2 kWh og en nettoanvendelig kapacitet på 61,0 kWh, hvilket giver en buffer på 1,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 473 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 570 km, med et energiforbrugsrate på 10,7 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 618 km (384 miles). Forbruget er 9,9kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 92kW. En fuld opladning fra 0 - 100 % ville tage 99 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 42 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 61kW. Hver opladningssession ville tage 30 minutter og 31 sekunder.
 

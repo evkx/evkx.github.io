@@ -80,34 +80,10 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område
-			</td>
-			<td>
-				570 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-forbrug
-			</td>
-			<td>
-				10,7 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-forbrug med opladningstab
-			</td>
-			<td>
-				17,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Basic trim CLTC range
 			</td>
 			<td>
-				755 km
+				618 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC-forbrug
 			</td>
 			<td>
-				8,1 kWh/100km
+				9,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>

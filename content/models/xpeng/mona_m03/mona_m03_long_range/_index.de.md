@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range ist eine vollelektrische Limousine mit einer Reichweite von bis zu 570 km (354 Meilen). EVKX.net hat alle Details."
+description: "XPENG Mona M03 Long Range ist eine vollelektrische Limousine mit einer Reichweite von bis zu 618 km (384 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Der XPENG Mona M03 Long Range liefert eine solide Leistung mit einer maximalen L
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 62,2 kWh und eine nutzbare Nettokapazität von 61,0 kWh, was einen Puffer von 1,2 kWh (1,9%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 473 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 570 km (354 Meilen) mit einem Energieverbrauch von 10,7 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 618 km (384 Meilen). Der Energieverbrauch beträgt 9,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 92 kW. Das Laden von 0% auf 100% dauert etwa 99 Minuten, während ein typischer Ladevorgang von 10% auf 80% 42 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 55%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 61 kW, wobei jede Ladesitzung etwa 30 Minuten und 31 Sekunden dauert.
 

@@ -80,34 +80,10 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
-				WLTP-Reichweite
-			</td>
-			<td>
-				570 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch
-			</td>
-			<td>
-				10,7 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch mit Ladeverlust
-			</td>
-			<td>
-				17,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
 				CLTC-Reichweite der Basisausstattung
 			</td>
 			<td>
-				755 km
+				618 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				CLTC-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				8,1 kWh/100km
+				9,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>

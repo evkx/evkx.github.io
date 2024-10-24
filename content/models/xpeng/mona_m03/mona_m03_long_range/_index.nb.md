@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene."
+description: "XPENG Mona M03 Long Range er en helelektrisk sedan med en CLTC rekkevidde på opptil 618 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ XPENG Mona M03 Long Range leverer solid ytelse med en maksimal effekt på 210 kW
 
 Høykapasitetsbatteriet har en brutto kapasitet på 62,2 kWh og en netto brukbar kapasitet på 61,0 kWh, som gir en buffer på 1,2 kWh (1,9%) for batteribeskyttelse. Med en nominell spenning på 473 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 570 km, med et energiforbruk på 10,7 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 618 km (384 miles). Forbruket er 9,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 92 kW. En full lading fra 0 - 100 % vil ta 99 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 61kW. Hver ladeøkt vil ta 30 minutter og 31 sekunder.
 

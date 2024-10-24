@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 570 km (354 miles). EVKX.net a tous les détails."
+description: "XPENG Mona M03 Long Range est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 618 km (384 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ La XPENG Mona M03 Long Range offre des performances solides avec une puissance m
 
 La batterie haute capacité a une capacité brute de 62,2 kWh et une capacité nette utilisable de 61,0 kWh, offrant une réserve de 1,2 kWh (1,9%) pour la protection de la batterie. Avec une tension nominale de 473 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 570 km, avec une consommation d'énergie de 10,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 618 km (384 miles). La consommation est de 9,9kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 92kW. Une charge complète de 0 à 100 % prendrait 99 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 42 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 55 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 61kW. Chaque session de charge prendrait 30 minutes et 31 secondes.
 
