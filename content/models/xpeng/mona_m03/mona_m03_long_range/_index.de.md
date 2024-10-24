@@ -30,13 +30,13 @@ Der XPENG Mona M03 Long Range liefert eine solide Leistung mit einer maximalen L
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 62,2 kWh und eine nutzbare Nettokapazität von 61,0 kWh, was einen Puffer von 1,2 kWh (1,9%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 550,5 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 62,2 kWh und eine nutzbare Nettokapazität von 61,0 kWh, was einen Puffer von 1,2 kWh (1,9%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 473 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 570 km (354 Meilen) mit einem Energieverbrauch von 10,7 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 300 kW. Das Laden von 0% auf 100% dauert etwa 35 Minuten, während ein typischer Ladevorgang von 10% auf 80% 15 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 175 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 71%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 134 kW, wobei jede Ladesitzung etwa 18 Minuten und 43 Sekunden dauert. Diese effiziente Ladefähigkeit macht den XPENG Mona M03 Long Range zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 92 kW. Das Laden von 0% auf 100% dauert etwa 99 Minuten, während ein typischer Ladevorgang von 10% auf 80% 42 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 55%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 61 kW, wobei jede Ladesitzung etwa 30 Minuten und 31 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22 kWh/100 km, würde die Fahrt etwa 9 Stunden und 32 Minuten dauern. Diese Reise würde vier Ladestopps von 6% auf 72% erfordern, mit einer gesamten Ladezeit von 72 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22 kWh/100 km, würde die Fahrt etwa 10 Stunden und 59 Minuten dauern. Diese Reise würde sechs Ladestopps von 7% auf 51% erfordern, mit einer gesamten Ladezeit von 159 Minuten.
 
 ### Bordladegerät
 
@@ -145,7 +145,7 @@ Es gibt ein Klimasystem verfügbar:
 
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
-Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
 
 ## Komfortfunktionen
 
@@ -266,7 +266,7 @@ Mit dem XPENG Pilot  Level 2 System erhalten Sie die folgenden Fahrautomatisieru
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), neun [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+Bis zu drei [Radarsensoren](../../../../technology/sensorsandcameras/radar/), neun [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -274,31 +274,11 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), n
 
 Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2553 kg (5628 lbs) bei einem Leergewicht von 2025 kg (4464 lbs). Dies ermöglicht eine maximale Zuladung von 528 kg (1164 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
-
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1500 kg (3307 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Das maximale Gewicht des Fahrzeugs beträgt 2114 kg (4661 lbs) bei einem Leergewicht von 1739 kg (3834 lbs). Dies ermöglicht eine maximale Zuladung von 375 kg (827 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/trunk_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
 ## Verfügbarkeit & Preise
 
 Der XPENG Mona M03 Long Range feierte seine Weltpremiere am 29.06.2023, mit Lieferungen ab January 2024.
-
-### Preise
-
-Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
-
-- 476 630,00 NOK (Norwegen)
-
-## Alternative Modelle
-
-Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum XPENG Mona M03 Long Range identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
-
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-
-<a href="https://db.evkx.net/evcompare?evs=0bac52%2c1ee65f%2c0cb6ee%2cbf704f%2ca1c57c" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
-
 {{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Reichweite" >}}

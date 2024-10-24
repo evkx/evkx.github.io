@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				105,2 kW
+				37,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				104,7 kW
+				36,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				147,3 kW
+				51,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				174,8 kW
+				61,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Velocidad C máxima
 			</td>
 			<td>
-				4,58
+				1,61
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Tasa C promedio
 			</td>
 			<td>
-				2,65
+				0,93
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				6% - 71%
+				6% - 55%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				134,3kW
+				60,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				18m43s
+				30m31s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				 34 m 47 s
+				1 h 38 m 49 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				 31 m 27 s
+				1 h 29 m 28 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 14 m 39 s
+				 41 m 49 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				16,4 km (10,2 mi)
+				5,8 km (3,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				2,8 km (1,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				16,3 km (10,1 mi)
+				5,7 km (3,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,9 km (4,9 mi)
+				2,8 km (1,7 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				27,2 km (16,9 mi)
+				9,5 km (5,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				13,2 km (8,2 mi)
+				4,6 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -251,7 +251,7 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				0%
 			</td>
 			<td>
-				50 kW
+				18 kW
 			</td>
 			<td>
 				 0 m 0 s
@@ -265,10 +265,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				1%
 			</td>
 			<td>
-				66 kW
+				24 kW
 			</td>
 			<td>
-				 0 m 40 s
+				 1 m 53 s
 			</td>
 			<td>
 				0,6 kWh
@@ -279,10 +279,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				2%
 			</td>
 			<td>
-				82 kW
+				29 kW
 			</td>
 			<td>
-				 1 m 12 s
+				 3 m 22 s
 			</td>
 			<td>
 				1,2 kWh
@@ -293,10 +293,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				3%
 			</td>
 			<td>
-				98 kW
+				35 kW
 			</td>
 			<td>
-				 1 m 38 s
+				 4 m 36 s
 			</td>
 			<td>
 				1,8 kWh
@@ -307,10 +307,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				4%
 			</td>
 			<td>
-				114 kW
+				40 kW
 			</td>
 			<td>
-				 2 m 1 s
+				 5 m 39 s
 			</td>
 			<td>
 				2,4 kWh
@@ -321,10 +321,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				5%
 			</td>
 			<td>
-				130 kW
+				46 kW
 			</td>
 			<td>
-				 2 m 20 s
+				 6 m 34 s
 			</td>
 			<td>
 				3,0 kWh
@@ -335,10 +335,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				6%
 			</td>
 			<td>
-				133 kW
+				47 kW
 			</td>
 			<td>
-				 2 m 38 s
+				 7 m 24 s
 			</td>
 			<td>
 				3,7 kWh
@@ -349,10 +349,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				7%
 			</td>
 			<td>
-				246 kW
+				86 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 8 m 0 s
 			</td>
 			<td>
 				4,3 kWh
@@ -363,10 +363,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				8%
 			</td>
 			<td>
-				248 kW
+				87 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 8 m 27 s
 			</td>
 			<td>
 				4,9 kWh
@@ -377,10 +377,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				9%
 			</td>
 			<td>
-				250 kW
+				88 kW
 			</td>
 			<td>
-				 3 m 9 s
+				 8 m 54 s
 			</td>
 			<td>
 				5,5 kWh
@@ -391,10 +391,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				10%
 			</td>
 			<td>
-				250 kW
+				88 kW
 			</td>
 			<td>
-				 3 m 19 s
+				 9 m 21 s
 			</td>
 			<td>
 				6,1 kWh
@@ -405,10 +405,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				11%
 			</td>
 			<td>
-				250 kW
+				88 kW
 			</td>
 			<td>
-				 3 m 28 s
+				 9 m 48 s
 			</td>
 			<td>
 				6,7 kWh
@@ -419,10 +419,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				12%
 			</td>
 			<td>
-				250 kW
+				88 kW
 			</td>
 			<td>
-				 3 m 38 s
+				 10 m 15 s
 			</td>
 			<td>
 				7,3 kWh
@@ -433,10 +433,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				13%
 			</td>
 			<td>
-				264 kW
+				92 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 10 m 41 s
 			</td>
 			<td>
 				7,9 kWh
@@ -447,10 +447,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				14%
 			</td>
 			<td>
-				282 kW
+				99 kW
 			</td>
 			<td>
-				 3 m 56 s
+				 11 m 6 s
 			</td>
 			<td>
 				8,5 kWh
@@ -461,10 +461,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				15%
 			</td>
 			<td>
-				282 kW
+				99 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 11 m 30 s
 			</td>
 			<td>
 				9,2 kWh
@@ -475,10 +475,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				16%
 			</td>
 			<td>
-				283 kW
+				99 kW
 			</td>
 			<td>
-				 4 m 12 s
+				 11 m 53 s
 			</td>
 			<td>
 				9,8 kWh
@@ -489,10 +489,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				17%
 			</td>
 			<td>
-				284 kW
+				99 kW
 			</td>
 			<td>
-				 4 m 21 s
+				 12 m 17 s
 			</td>
 			<td>
 				10,4 kWh
@@ -503,10 +503,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				18%
 			</td>
 			<td>
-				284 kW
+				99 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 12 m 41 s
 			</td>
 			<td>
 				11,0 kWh
@@ -517,10 +517,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				19%
 			</td>
 			<td>
-				285 kW
+				100 kW
 			</td>
 			<td>
-				 4 m 37 s
+				 13 m 5 s
 			</td>
 			<td>
 				11,6 kWh
@@ -531,10 +531,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				20%
 			</td>
 			<td>
-				239 kW
+				84 kW
 			</td>
 			<td>
-				 4 m 46 s
+				 13 m 31 s
 			</td>
 			<td>
 				12,2 kWh
@@ -545,10 +545,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				21%
 			</td>
 			<td>
-				240 kW
+				84 kW
 			</td>
 			<td>
-				 4 m 56 s
+				 13 m 59 s
 			</td>
 			<td>
 				12,8 kWh
@@ -559,10 +559,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				22%
 			</td>
 			<td>
-				240 kW
+				84 kW
 			</td>
 			<td>
-				 5 m 6 s
+				 14 m 27 s
 			</td>
 			<td>
 				13,4 kWh
@@ -573,10 +573,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				23%
 			</td>
 			<td>
-				240 kW
+				84 kW
 			</td>
 			<td>
-				 5 m 16 s
+				 14 m 55 s
 			</td>
 			<td>
 				14,0 kWh
@@ -587,10 +587,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				24%
 			</td>
 			<td>
-				241 kW
+				84 kW
 			</td>
 			<td>
-				 5 m 26 s
+				 15 m 23 s
 			</td>
 			<td>
 				14,6 kWh
@@ -601,10 +601,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				25%
 			</td>
 			<td>
-				241 kW
+				84 kW
 			</td>
 			<td>
-				 5 m 35 s
+				 15 m 51 s
 			</td>
 			<td>
 				15,2 kWh
@@ -615,10 +615,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				26%
 			</td>
 			<td>
-				241 kW
+				84 kW
 			</td>
 			<td>
-				 5 m 45 s
+				 16 m 19 s
 			</td>
 			<td>
 				15,9 kWh
@@ -629,10 +629,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				27%
 			</td>
 			<td>
-				241 kW
+				84 kW
 			</td>
 			<td>
-				 5 m 55 s
+				 16 m 47 s
 			</td>
 			<td>
 				16,5 kWh
@@ -643,10 +643,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				28%
 			</td>
 			<td>
-				242 kW
+				85 kW
 			</td>
 			<td>
-				 6 m 5 s
+				 17 m 15 s
 			</td>
 			<td>
 				17,1 kWh
@@ -657,10 +657,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				29%
 			</td>
 			<td>
-				242 kW
+				85 kW
 			</td>
 			<td>
-				 6 m 15 s
+				 17 m 43 s
 			</td>
 			<td>
 				17,7 kWh
@@ -671,10 +671,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				30%
 			</td>
 			<td>
-				242 kW
+				85 kW
 			</td>
 			<td>
-				 6 m 24 s
+				 18 m 11 s
 			</td>
 			<td>
 				18,3 kWh
@@ -685,10 +685,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				31%
 			</td>
 			<td>
-				242 kW
+				85 kW
 			</td>
 			<td>
-				 6 m 34 s
+				 18 m 39 s
 			</td>
 			<td>
 				18,9 kWh
@@ -699,10 +699,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				32%
 			</td>
 			<td>
-				242 kW
+				85 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 19 m 6 s
 			</td>
 			<td>
 				19,5 kWh
@@ -713,10 +713,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				33%
 			</td>
 			<td>
-				243 kW
+				85 kW
 			</td>
 			<td>
-				 6 m 54 s
+				 19 m 34 s
 			</td>
 			<td>
 				20,1 kWh
@@ -727,10 +727,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				34%
 			</td>
 			<td>
-				243 kW
+				85 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 20 m 2 s
 			</td>
 			<td>
 				20,7 kWh
@@ -741,10 +741,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				35%
 			</td>
 			<td>
-				243 kW
+				85 kW
 			</td>
 			<td>
-				 7 m 13 s
+				 20 m 30 s
 			</td>
 			<td>
 				21,4 kWh
@@ -755,10 +755,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				36%
 			</td>
 			<td>
-				244 kW
+				85 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 20 m 58 s
 			</td>
 			<td>
 				22,0 kWh
@@ -769,10 +769,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				37%
 			</td>
 			<td>
-				244 kW
+				85 kW
 			</td>
 			<td>
-				 7 m 32 s
+				 21 m 25 s
 			</td>
 			<td>
 				22,6 kWh
@@ -783,10 +783,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				38%
 			</td>
 			<td>
-				190 kW
+				67 kW
 			</td>
 			<td>
-				 7 m 43 s
+				 21 m 56 s
 			</td>
 			<td>
 				23,2 kWh
@@ -797,10 +797,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				39%
 			</td>
 			<td>
-				190 kW
+				67 kW
 			</td>
 			<td>
-				 7 m 56 s
+				 22 m 32 s
 			</td>
 			<td>
 				23,8 kWh
@@ -811,10 +811,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				40%
 			</td>
 			<td>
-				188 kW
+				66 kW
 			</td>
 			<td>
-				 8 m 8 s
+				 23 m 7 s
 			</td>
 			<td>
 				24,4 kWh
@@ -825,10 +825,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				41%
 			</td>
 			<td>
-				188 kW
+				66 kW
 			</td>
 			<td>
-				 8 m 21 s
+				 23 m 43 s
 			</td>
 			<td>
 				25,0 kWh
@@ -839,10 +839,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				42%
 			</td>
 			<td>
-				190 kW
+				67 kW
 			</td>
 			<td>
-				 8 m 33 s
+				 24 m 18 s
 			</td>
 			<td>
 				25,6 kWh
@@ -853,10 +853,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				43%
 			</td>
 			<td>
-				191 kW
+				67 kW
 			</td>
 			<td>
-				 8 m 46 s
+				 24 m 54 s
 			</td>
 			<td>
 				26,2 kWh
@@ -867,10 +867,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				44%
 			</td>
 			<td>
-				191 kW
+				67 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 25 m 29 s
 			</td>
 			<td>
 				26,8 kWh
@@ -881,10 +881,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				45%
 			</td>
 			<td>
-				191 kW
+				67 kW
 			</td>
 			<td>
-				 9 m 10 s
+				 26 m 4 s
 			</td>
 			<td>
 				27,4 kWh
@@ -895,10 +895,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				46%
 			</td>
 			<td>
-				191 kW
+				67 kW
 			</td>
 			<td>
-				 9 m 23 s
+				 26 m 39 s
 			</td>
 			<td>
 				28,1 kWh
@@ -909,10 +909,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				47%
 			</td>
 			<td>
-				192 kW
+				67 kW
 			</td>
 			<td>
-				 9 m 35 s
+				 27 m 15 s
 			</td>
 			<td>
 				28,7 kWh
@@ -923,10 +923,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				48%
 			</td>
 			<td>
-				192 kW
+				67 kW
 			</td>
 			<td>
-				 9 m 47 s
+				 27 m 50 s
 			</td>
 			<td>
 				29,3 kWh
@@ -937,10 +937,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				49%
 			</td>
 			<td>
-				192 kW
+				67 kW
 			</td>
 			<td>
-				 10 m 0 s
+				 28 m 25 s
 			</td>
 			<td>
 				29,9 kWh
@@ -951,10 +951,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				50%
 			</td>
 			<td>
-				193 kW
+				68 kW
 			</td>
 			<td>
-				 10 m 12 s
+				 29 m 0 s
 			</td>
 			<td>
 				30,5 kWh
@@ -965,10 +965,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				51%
 			</td>
 			<td>
-				193 kW
+				68 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 29 m 35 s
 			</td>
 			<td>
 				31,1 kWh
@@ -979,10 +979,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				52%
 			</td>
 			<td>
-				194 kW
+				68 kW
 			</td>
 			<td>
-				 10 m 36 s
+				 30 m 10 s
 			</td>
 			<td>
 				31,7 kWh
@@ -993,10 +993,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				53%
 			</td>
 			<td>
-				194 kW
+				68 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 30 m 44 s
 			</td>
 			<td>
 				32,3 kWh
@@ -1007,10 +1007,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				54%
 			</td>
 			<td>
-				190 kW
+				67 kW
 			</td>
 			<td>
-				 11 m 1 s
+				 31 m 19 s
 			</td>
 			<td>
 				32,9 kWh
@@ -1021,10 +1021,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				55%
 			</td>
 			<td>
-				186 kW
+				65 kW
 			</td>
 			<td>
-				 11 m 13 s
+				 31 m 55 s
 			</td>
 			<td>
 				33,6 kWh
@@ -1035,10 +1035,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				56%
 			</td>
 			<td>
-				178 kW
+				62 kW
 			</td>
 			<td>
-				 11 m 26 s
+				 32 m 32 s
 			</td>
 			<td>
 				34,2 kWh
@@ -1049,10 +1049,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				57%
 			</td>
 			<td>
-				174 kW
+				61 kW
 			</td>
 			<td>
-				 11 m 40 s
+				 33 m 11 s
 			</td>
 			<td>
 				34,8 kWh
@@ -1063,10 +1063,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				58%
 			</td>
 			<td>
-				170 kW
+				60 kW
 			</td>
 			<td>
-				 11 m 54 s
+				 33 m 50 s
 			</td>
 			<td>
 				35,4 kWh
@@ -1077,10 +1077,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				59%
 			</td>
 			<td>
-				167 kW
+				58 kW
 			</td>
 			<td>
-				 12 m 8 s
+				 34 m 30 s
 			</td>
 			<td>
 				36,0 kWh
@@ -1091,10 +1091,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				60%
 			</td>
 			<td>
-				145 kW
+				51 kW
 			</td>
 			<td>
-				 12 m 23 s
+				 35 m 13 s
 			</td>
 			<td>
 				36,6 kWh
@@ -1105,10 +1105,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				61%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 12 m 39 s
+				 35 m 59 s
 			</td>
 			<td>
 				37,2 kWh
@@ -1119,10 +1119,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				62%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 12 m 55 s
+				 36 m 46 s
 			</td>
 			<td>
 				37,8 kWh
@@ -1133,10 +1133,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				63%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 37 m 32 s
 			</td>
 			<td>
 				38,4 kWh
@@ -1147,10 +1147,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				64%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 38 m 18 s
 			</td>
 			<td>
 				39,0 kWh
@@ -1161,10 +1161,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				65%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 13 m 44 s
+				 39 m 4 s
 			</td>
 			<td>
 				39,6 kWh
@@ -1175,10 +1175,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				66%
 			</td>
 			<td>
-				145 kW
+				51 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 39 m 51 s
 			</td>
 			<td>
 				40,3 kWh
@@ -1189,10 +1189,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				67%
 			</td>
 			<td>
-				145 kW
+				51 kW
 			</td>
 			<td>
-				 14 m 16 s
+				 40 m 37 s
 			</td>
 			<td>
 				40,9 kWh
@@ -1203,10 +1203,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				68%
 			</td>
 			<td>
-				145 kW
+				51 kW
 			</td>
 			<td>
-				 14 m 32 s
+				 41 m 23 s
 			</td>
 			<td>
 				41,5 kWh
@@ -1217,10 +1217,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				69%
 			</td>
 			<td>
-				145 kW
+				51 kW
 			</td>
 			<td>
-				 14 m 49 s
+				 42 m 10 s
 			</td>
 			<td>
 				42,1 kWh
@@ -1231,10 +1231,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				70%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 15 m 5 s
+				 42 m 56 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1245,10 +1245,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				71%
 			</td>
 			<td>
-				146 kW
+				51 kW
 			</td>
 			<td>
-				 15 m 21 s
+				 43 m 42 s
 			</td>
 			<td>
 				43,3 kWh
@@ -1259,10 +1259,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				72%
 			</td>
 			<td>
-				130 kW
+				46 kW
 			</td>
 			<td>
-				 15 m 38 s
+				 44 m 31 s
 			</td>
 			<td>
 				43,9 kWh
@@ -1273,10 +1273,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				73%
 			</td>
 			<td>
-				132 kW
+				46 kW
 			</td>
 			<td>
-				 15 m 56 s
+				 45 m 22 s
 			</td>
 			<td>
 				44,5 kWh
@@ -1287,10 +1287,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				74%
 			</td>
 			<td>
-				135 kW
+				47 kW
 			</td>
 			<td>
-				 16 m 14 s
+				 46 m 13 s
 			</td>
 			<td>
 				45,1 kWh
@@ -1301,10 +1301,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				75%
 			</td>
 			<td>
-				135 kW
+				47 kW
 			</td>
 			<td>
-				 16 m 31 s
+				 47 m 3 s
 			</td>
 			<td>
 				45,8 kWh
@@ -1315,10 +1315,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				76%
 			</td>
 			<td>
-				135 kW
+				47 kW
 			</td>
 			<td>
-				 16 m 49 s
+				 47 m 54 s
 			</td>
 			<td>
 				46,4 kWh
@@ -1329,10 +1329,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				77%
 			</td>
 			<td>
-				136 kW
+				48 kW
 			</td>
 			<td>
-				 17 m 6 s
+				 48 m 43 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1343,10 +1343,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				78%
 			</td>
 			<td>
-				136 kW
+				48 kW
 			</td>
 			<td>
-				 17 m 24 s
+				 49 m 32 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1357,10 +1357,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				79%
 			</td>
 			<td>
-				137 kW
+				48 kW
 			</td>
 			<td>
-				 17 m 41 s
+				 50 m 22 s
 			</td>
 			<td>
 				48,2 kWh
@@ -1371,10 +1371,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				80%
 			</td>
 			<td>
-				137 kW
+				48 kW
 			</td>
 			<td>
-				 17 m 58 s
+				 51 m 11 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1385,10 +1385,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				81%
 			</td>
 			<td>
-				75 kW
+				26 kW
 			</td>
 			<td>
-				 18 m 20 s
+				 52 m 15 s
 			</td>
 			<td>
 				49,4 kWh
@@ -1399,10 +1399,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				82%
 			</td>
 			<td>
-				78 kW
+				27 kW
 			</td>
 			<td>
-				 18 m 51 s
+				 53 m 44 s
 			</td>
 			<td>
 				50,0 kWh
@@ -1413,10 +1413,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				83%
 			</td>
 			<td>
-				85 kW
+				30 kW
 			</td>
 			<td>
-				 19 m 20 s
+				 55 m 7 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1427,10 +1427,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				84%
 			</td>
 			<td>
-				85 kW
+				30 kW
 			</td>
 			<td>
-				 19 m 48 s
+				 56 m 25 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1441,10 +1441,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				85%
 			</td>
 			<td>
-				88 kW
+				31 kW
 			</td>
 			<td>
-				 20 m 15 s
+				 57 m 43 s
 			</td>
 			<td>
 				51,8 kWh
@@ -1455,10 +1455,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				86%
 			</td>
 			<td>
-				65 kW
+				23 kW
 			</td>
 			<td>
-				 20 m 46 s
+				 59 m 10 s
 			</td>
 			<td>
 				52,5 kWh
@@ -1469,10 +1469,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				87%
 			</td>
 			<td>
-				65 kW
+				23 kW
 			</td>
 			<td>
-				 21 m 23 s
+				1 h 0 m 53 s
 			</td>
 			<td>
 				53,1 kWh
@@ -1483,10 +1483,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				88%
 			</td>
 			<td>
-				65 kW
+				23 kW
 			</td>
 			<td>
-				 21 m 59 s
+				1 h 2 m 36 s
 			</td>
 			<td>
 				53,7 kWh
@@ -1497,10 +1497,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				89%
 			</td>
 			<td>
-				65 kW
+				23 kW
 			</td>
 			<td>
-				 22 m 35 s
+				1 h 4 m 18 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1511,10 +1511,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				90%
 			</td>
 			<td>
-				65 kW
+				23 kW
 			</td>
 			<td>
-				 23 m 12 s
+				1 h 6 m 1 s
 			</td>
 			<td>
 				54,9 kWh
@@ -1525,10 +1525,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				91%
 			</td>
 			<td>
-				44 kW
+				15 kW
 			</td>
 			<td>
-				 23 m 55 s
+				1 h 8 m 5 s
 			</td>
 			<td>
 				55,5 kWh
@@ -1539,10 +1539,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				92%
 			</td>
 			<td>
-				44 kW
+				15 kW
 			</td>
 			<td>
-				 24 m 49 s
+				1 h 10 m 43 s
 			</td>
 			<td>
 				56,1 kWh
@@ -1553,10 +1553,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				93%
 			</td>
 			<td>
-				45 kW
+				16 kW
 			</td>
 			<td>
-				 25 m 42 s
+				1 h 13 m 15 s
 			</td>
 			<td>
 				56,7 kWh
@@ -1567,10 +1567,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				94%
 			</td>
 			<td>
-				45 kW
+				16 kW
 			</td>
 			<td>
-				 26 m 34 s
+				1 h 15 m 42 s
 			</td>
 			<td>
 				57,3 kWh
@@ -1581,10 +1581,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				95%
 			</td>
 			<td>
-				43 kW
+				15 kW
 			</td>
 			<td>
-				 27 m 28 s
+				1 h 18 m 15 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1595,10 +1595,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				96%
 			</td>
 			<td>
-				45 kW
+				16 kW
 			</td>
 			<td>
-				 28 m 21 s
+				1 h 20 m 47 s
 			</td>
 			<td>
 				58,6 kWh
@@ -1609,10 +1609,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				97%
 			</td>
 			<td>
-				22 kW
+				8 kW
 			</td>
 			<td>
-				 29 m 32 s
+				1 h 24 m 4 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1623,10 +1623,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				98%
 			</td>
 			<td>
-				22 kW
+				8 kW
 			</td>
 			<td>
-				 31 m 19 s
+				1 h 28 m 59 s
 			</td>
 			<td>
 				59,8 kWh
@@ -1637,10 +1637,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				99%
 			</td>
 			<td>
-				23 kW
+				8 kW
 			</td>
 			<td>
-				 33 m 4 s
+				1 h 33 m 54 s
 			</td>
 			<td>
 				60,4 kWh
@@ -1651,10 +1651,10 @@ XPENG Mona M03 Long Range tiene calefacción de batería, lo que facilita la car
 				100%
 			</td>
 			<td>
-				23 kW
+				8 kW
 			</td>
 			<td>
-				 34 m 47 s
+				1 h 38 m 49 s
 			</td>
 			<td>
 				61,0 kWh

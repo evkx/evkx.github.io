@@ -30,13 +30,13 @@ The XPENG Mona M03 Long Range delivers a solid performance with a maximum power 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 62.2 kWh and a net usable capacity of 61.0 kWh, providing a 1.2 kWh buffer (1.9%) for battery protection. Operating at a nominal voltage of 550.5 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
+The high-capacity battery has a gross capacity of 62.2 kWh and a net usable capacity of 61.0 kWh, providing a 1.2 kWh buffer (1.9%) for battery protection. With a nominal voltage of 473 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 10.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 35 minutes, while a more typical scenario from 10% to 80% takes 15 minutes with an average charging speed of 175 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 71%. This results in an effective charging speed, including time lost, of 134 kW, with each charging session taking about 18 minutes and 43 seconds. This efficient charging capability makes the XPENG Mona M03 Long Range a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 92 kW. Charging from 0% to 100% takes approximately 99 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 61 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 55%. This results in an effective charging speed, including time lost, of 61 kW, with each charging session taking about 30 minutes and 31 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 32 minutes. This journey would require four charging stops from 6% to 72%, with a total charging time of 72 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 10 hours and 59 minutes. This journey would require six charging stops from 7% to 51%, with a total charging time of 159 minutes.
 
 ### Onboard Charger
 
@@ -145,7 +145,7 @@ There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort Features
 
@@ -266,7 +266,7 @@ With the XPENG Pilot  level 2 system, you get the following driving automation f
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), nine [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), nine [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -274,31 +274,11 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), nin
 
 The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-The vehicle’s maximum weight is 2553 kg (5628 lbs), with a base weight of 2025 kg (4464 lbs). This allows for a maximum load of 528 kg (1164 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
-
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+The vehicle’s maximum weight is 2114 kg (4661 lbs), with a base weight of 1739 kg (3834 lbs). This allows for a maximum load of 375 kg (827 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/trunk_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
 ## Availability & Pricing
 
 The XPENG Mona M03 Long Range had its world premiere on 29.06.2023, with deliveries starting in January 2024.
-
-### Pricing
-
-Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
-
-- 476 630,00 NOK (Norway)
-
-## Alternative Models
-
-In the rapidly expanding EV market, EVKX.net has identified several alternatives to the XPENG Mona M03 Long Range that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
-
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-
-<a href="https://db.evkx.net/evcompare?evs=0bac52%2c1ee65f%2c0cb6ee%2cbf704f%2ca1c57c" target="_blank">Explore a detailed comparison of these models.</a>
-
 {{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Range" >}}

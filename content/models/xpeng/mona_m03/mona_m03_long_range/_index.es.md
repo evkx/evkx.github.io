@@ -30,13 +30,13 @@ El XPENG Mona M03 Long Range ofrece un rendimiento sólido con una potencia máx
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 62,2 kWh y una capacidad neta utilizable de 61,0 kWh, proporcionando un buffer de 1,2 kWh (1,9%) para la protección de la batería. Operando a un voltaje nominal de 550,5 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 62,2 kWh y una capacidad neta utilizable de 61,0 kWh, proporcionando un buffer de 1,2 kWh (1,9%) para la protección de la batería. Con un voltaje nominal de 473 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 570 km, con una tasa de consumo de energía de 10,7 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 300kW. Una carga completa del 0 al 100 % tardaría 35 minutos, mientras que un escenario más común del 10 al 80 % tardaría 15 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 134kW. Cada sesión de carga tardaría 18 minutos y 43 segundos. Esta capacidad de carga eficiente hace que el XPENG Mona M03 Long Range sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 92kW. Una carga completa del 0 al 100 % tardaría 99 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 61kW. Cada sesión de carga tardaría 30 minutos y 31 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 32 minutos. Este viaje requeriría dos paradas de carga del 6% al 72%, con un tiempo total de carga de 72 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 59 minutos. Este viaje requeriría dos paradas de carga del 7% al 51%, con un tiempo total de carga de 159 minutos.
 
 ### Cargador a bordo
 
@@ -145,7 +145,7 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Características de confort
 
@@ -266,7 +266,7 @@ Con el sistema XPENG Pilot  de nivel 2, obtienes las siguientes funciones de aut
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -274,31 +274,11 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg.
 
-El peso máximo del vehículo es 2553 kg, con un peso base de 2025 kg. Esto permite una carga máxima de 528 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
-
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
+El peso máximo del vehículo es 2114 kg, con un peso base de 1739 kg. Esto permite una carga máxima de 375 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/trunk_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 29.06.2023 y las entregas comenzaron en January 2024.
-
-### Precios
-
-Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
-
-- 476 630,00 NOK (Noruega)
-
-## Modelos Alternativos
-
-En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al XPENG Mona M03 Long Range que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
-
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-
-<a href="https://db.evkx.net/evcompare?evs=0bac52%2c1ee65f%2c0cb6ee%2cbf704f%2ca1c57c" target="_blank">Explora una comparación detallada de estos modelos.</a>
-
 {{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Rango" >}}

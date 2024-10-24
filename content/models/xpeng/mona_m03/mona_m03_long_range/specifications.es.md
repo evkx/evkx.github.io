@@ -158,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				300 kW
+				92 kW
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				550,5
+				473
 			</td>
 		</tr>
 		<tr>
@@ -295,6 +295,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1628 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1628 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Coeficiente de arrastre
+			</td>
+			<td>
+				0,194
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
@@ -323,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2025 kg
+				1739 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2553 kg
+				2114 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				528 kg
+				375 kg
 			</td>
 		</tr>
 		<tr>
@@ -364,30 +388,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1374 litro
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peso máximo del remolque frenado
-			</td>
-			<td>
-				1500 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peso máximo del remolque sin frenos
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peso máximo de la bola de remolque
-			</td>
-			<td>
-				75 kg
 			</td>
 		</tr>
 	</tbody>

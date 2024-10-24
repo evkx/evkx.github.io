@@ -158,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				300 kW
+				92 kW
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				550,5
+				473
 			</td>
 		</tr>
 		<tr>
@@ -295,6 +295,30 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1628 mm (64,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1628 mm (64,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftwiderstandsbeiwert
+			</td>
+			<td>
+				0,194
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -323,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2025 kg (4464 lbs)
+				1739 kg (3834 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2553 kg (5628 lbs)
+				2114 kg (4661 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				528 kg (1164 lbs)
+				375 kg (827 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -364,30 +388,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				1374 Liter (49 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximales Anhängergewicht gebremst
-			</td>
-			<td>
-				1500 kg (3307 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximales Anhängergewicht ungebremst
-			</td>
-			<td>
-				750 kg (1653 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximale Stützlast
-			</td>
-			<td>
-				75 kg (165 lbs)
 			</td>
 		</tr>
 	</tbody>

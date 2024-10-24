@@ -30,13 +30,13 @@ XPENG Mona M03 Long Range leverer solid ytelse med en maksimal effekt på 210 kW
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 62,2 kWh og en netto brukbar kapasitet på 61,0 kWh, som gir en buffer på 1,2 kWh (1,9%) for batteribeskyttelse. Ved å operere med en nominell spenning på 550,5 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 62,2 kWh og en netto brukbar kapasitet på 61,0 kWh, som gir en buffer på 1,2 kWh (1,9%) for batteribeskyttelse. Med en nominell spenning på 473 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 570 km, med et energiforbruk på 10,7 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 300 kW. En full lading fra 0 - 100 % vil ta 35 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 134kW. Hver ladeøkt vil ta 18 minutter og 43 sekunder. Denne effektive ladekapasiteten gjør XPENG Mona M03 Long Range til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 92 kW. En full lading fra 0 - 100 % vil ta 99 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 61kW. Hver ladeøkt vil ta 30 minutter og 31 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 9 timer og 32 minutter. Denne reisen ville kreve to ladestopp fra 6% til 72%, med en total ladetid på 72 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 10 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 7% til 51%, med en total ladetid på 159 minutter.
 
 ### Ombordlader
 
@@ -145,7 +145,7 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfortfunksjoner
 
@@ -266,7 +266,7 @@ Med XPENG Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjo
 ### Sensorer & Kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -274,31 +274,11 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni 
 
 Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg.
 
-Kjøretøyets maksimale vekt er 2553 kg, med en basisvekt på 2025 kg. Dette gir en maksimal lastekapasitet på 528 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
-
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
+Kjøretøyets maksimale vekt er 2114 kg, med en basisvekt på 1739 kg. Dette gir en maksimal lastekapasitet på 375 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/trunk_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
 ## Tilgjengelighet & pris
 
 XPENG Mona M03 Long Range hadde sin verdenspremiere den 29.06.2023, med leveranser som startet i January 2024.
-
-### Priser
-
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
-
-- 476 630,00 NOK (Norge)
-
-## Alternative Modeller
-
-I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til XPENG Mona M03 Long Range som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
-
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-
-<a href="https://db.evkx.net/evcompare?evs=0bac52%2c1ee65f%2c0cb6ee%2cbf704f%2ca1c57c" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
-
 {{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
