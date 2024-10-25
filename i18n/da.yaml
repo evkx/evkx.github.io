@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-97714ed8
+  translation: VOYAH Courage AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 500 km (311 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-fc827adb
   translation: XPENG Mona M03 Long Range er en fuldelektrisk sedan med en CLTC rækkevidde på op til 618 km (384 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-23e9b22b
   translation: SKODA Elroq 85x er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 550 km (342 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-267ea0ae
-  translation: Leapmotor C10 69kWh RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 420 km (261 miles). EVKX.net har alle detaljerne.
 

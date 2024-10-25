@@ -850,7 +850,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Voyah is a car brand that specializes in designing and developing electric vehicles. Voyah is the premium division of Chinese state-owned automaker Dongfeng Motor Corporation. 
 	</p>
 	<p>
-	VOYAH has 1 models with total 1 variants.
+	VOYAH has 2 models with total 2 variants.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Go to VOYAH EV-model overview</a>
 </div>

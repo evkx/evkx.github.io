@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-97714ed8
+  translation: VOYAH Courage AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 500 km (311 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-fc827adb
   translation: XPENG Mona M03 Long Range es un sedán totalmente eléctrico con un CLTC alcance de hasta 618 km (384 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-23e9b22b
   translation: SKODA Elroq 85x es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-267ea0ae
-  translation: Leapmotor C10 69kWh RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 420 km (261 millas). EVKX.net tiene todos los detalles.
 

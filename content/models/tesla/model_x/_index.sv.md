@@ -44,6 +44,8 @@ weight: 30
 		</div>
 	</div>
 </div>
+<h2>Discontinued variants</h2>
+
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Tesla Model X Standard Range</h3>
 	<div class="row">

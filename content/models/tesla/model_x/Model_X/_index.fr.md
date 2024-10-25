@@ -36,7 +36,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 81 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 141kW. Chaque session de charge prendrait 16 minutes et 23 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 24,0 kWh/100 km, le voyage prendrait environ 9 heures et 22 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 46%, avec un temps de recharge total de 62 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23,0 kWh/100 km, le voyage prendrait environ 9 heures et 17 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 43%, avec un temps de recharge total de 58 minutes.
 
 ### Chargeur embarqué
 

@@ -18,6 +18,21 @@ weight: 30
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>VOYAH Courage</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="courage">
+                    <img src="https://media.evkx.net/multimedia/models/voyah/courage/courage_awd/main_1_st.jpg" class="img-fluid" alt="VOYAH Courage" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+VOYAH Courage er en SUV tilgjengelig i 1 varianter.
+</p>
+	<a href="courage/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>VOYAH FREE</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

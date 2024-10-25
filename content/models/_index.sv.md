@@ -688,7 +688,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
 	<h2>VOYAH</h2>
 	<p>
-	VOYAH har 1 modell(er) med totalt 1 varianter.
+	VOYAH har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå till VOYAH modellöversikt</a>
 </div>

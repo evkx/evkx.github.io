@@ -685,7 +685,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
 	<h2>VOYAH</h2>
 	<p>
-	VOYAH har 1 modeller med i alt 1 varianter.
+	VOYAH har 2 modeller med i alt 2 varianter.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå til VOYAH EV-modeloversigt</a>
 </div>

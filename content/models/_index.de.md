@@ -682,7 +682,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
 	<h2>VOYAH</h2>
 	<p>
-	VOYAH hat 1 Modelle mit insgesamt 1 Varianten.
+	VOYAH hat 2 Modelle mit insgesamt 2 Varianten.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Gehe zu VOYAH EV-Modellübersicht</a>
 </div>
