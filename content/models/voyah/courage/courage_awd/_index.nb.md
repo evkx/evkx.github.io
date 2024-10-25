@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD
 linktitle: "Courage AWD"
-description: "VOYAH Courage AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene."
+description: "VOYAH Courage AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,11 @@ VOYAH Courage AWD leverer solid ytelse med en maksimal effekt på 320 kW (435 hk
 
 Høykapasitetsbatteriet har en brutto kapasitet på 77,0 kWh og en netto brukbar kapasitet på 76,0 kWh, som gir en buffer på 1,0 kWh (1,3%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 500 km, med et energiforbruk på 15,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 440 km, med et energiforbruk på 17,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 73 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 44 minutter og 23 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 10 timer og 42 minutter. Denne reisen ville kreve to ladestopp fra 1% til 78%, med en total ladetid på 143 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 10 timer og 25 minutter. Denne reisen ville kreve to ladestopp fra 5% til 73%, med en total ladetid på 126 minutter.
 
 ### Ombordlader
 
@@ -271,6 +271,6 @@ VOYAH Courage AWD hadde sin verdenspremiere den 01.10.2024, med leveranser som s
 
 Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
 
-- 599 900,00 NOK (Norge)
+- 449 900,00 NOK (Norge)
 
 {{< pagenavigation b_url="../" b_title="VOYAH Courage" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

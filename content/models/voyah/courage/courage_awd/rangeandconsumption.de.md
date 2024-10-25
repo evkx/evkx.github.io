@@ -40,10 +40,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				500 km / 311 mi
+				440 km / 273 mi
 			</td>
 			<td>
-				15,20kWh/100km / 4,1 mi/kWh
+				17,27kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				500 km / 311 mi
+				440 km / 273 mi
 			</td>
 			<td>
-				15,20 kWh/100km / 4,1 mi/kWh
+				17,27 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Basisausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				 390km / 242 mi 
+				 352km / 219 mi 
 			</td>
 			<td>
-				-22,0%
+				-20,0%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Top-Ausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				390 km / 242 mi
+				352 km / 219 mi
 			</td>
 			<td>
-				-22,0%
+				-20,0%
 			</td>
 		</tr>
 	</tbody>
@@ -132,6 +132,28 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				70 mph/112 km/h perfekte Bedingungen
 			</td>
 			<td>
+				362 km / 225 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h mit 2KW Heizung
+			</td>
+			<td>
+				334km / 208mi
+			</td>
+			<td>
+				22,8 kWh/100km / 2,7 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 km/h/75 mph perfekte Bedingungen
+			</td>
+			<td>
 				330 km / 205 mi
 			</td>
 			<td>
@@ -140,35 +162,13 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 		</tr>
 		<tr>
 			<td>
-				70 mph/112 km/h mit 2KW Heizung
-			</td>
-			<td>
-				306km / 190mi
-			</td>
-			<td>
-				24,8 kWh/100km / 2,5 mi/kWh  
-			</td>
-		</tr>
-		<tr>
-			<td>
-				120 km/h/75 mph perfekte Bedingungen
-			</td>
-			<td>
-				304 km / 189 mi
-			</td>
-			<td>
-				25 kWh/100km / 2,5 mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
 				120 km/h/75 mph mit 2KW Heizung
 			</td>
 			<td>
-				285 km /177mi
+				308 km /191mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				24,7 kWh/100km /2,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

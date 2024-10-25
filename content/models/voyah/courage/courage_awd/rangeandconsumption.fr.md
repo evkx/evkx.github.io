@@ -40,10 +40,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				500 km / 311 mi
+				440 km / 273 mi
 			</td>
 			<td>
-				15,20kWh/100km / 4,1 mi/kWh
+				17,27kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				500 km / 311 mi
+				440 km / 273 mi
 			</td>
 			<td>
-				15,20 kWh/100km / 4,1 mi/kWh
+				17,27 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture de base de la gamme WLTP avec 2KW AC
 			</td>
 			<td>
-				 390km / 242 mi 
+				 352km / 219 mi 
 			</td>
 			<td>
-				-22,0%
+				-20,0%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture supérieure de gamme WLTP avec 2KW AC
 			</td>
 			<td>
-				390 km / 242 mi
+				352 km / 219 mi
 			</td>
 			<td>
-				-22,0%
+				-20,0%
 			</td>
 		</tr>
 	</tbody>
@@ -132,6 +132,28 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				70mph/112kmh parfait état
 			</td>
 			<td>
+				362 km / 225 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh avec chauffage 2KW
+			</td>
+			<td>
+				334km / 208mi
+			</td>
+			<td>
+				22,8 kWh/100km / 2,7 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120kmh/75mph parfait état
+			</td>
+			<td>
 				330 km / 205 mi
 			</td>
 			<td>
@@ -140,35 +162,13 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 		</tr>
 		<tr>
 			<td>
-				70mph/112kmh avec chauffage 2KW
-			</td>
-			<td>
-				306km / 190mi
-			</td>
-			<td>
-				24,8 kWh/100km / 2,5 mi/kWh  
-			</td>
-		</tr>
-		<tr>
-			<td>
-				120kmh/75mph parfait état
-			</td>
-			<td>
-				304 km / 189 mi
-			</td>
-			<td>
-				25 kWh/100km / 2,5 mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
 				120kmh/75mph avec chauffage 2KW
 			</td>
 			<td>
-				285 km /177mi
+				308 km /191mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				24,7 kWh/100km /2,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD
 linktitle: "Courage AWD"
-description: "VOYAH Courage AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 500 km (311 miles). EVKX.net har alle detaljerne."
+description: "VOYAH Courage AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 440 km (274 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,11 @@ VOYAH Courage AWD leverer en solid præstation med en maksimal effekt på 320 kW
 
 Det højkapacitetsbatteri har en bruttokapacitet på 77,0 kWh og en nettoanvendelig kapacitet på 76,0 kWh, hvilket giver en buffer på 1,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 500 km, med et energiforbrugsrate på 15,2 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 440 km, med et energiforbrugsrate på 17,3 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 73 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 74kW. Hver opladningssession ville tage 44 minutter og 23 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 10 timer og 42 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 78%, med en samlet opladningstid på 143 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 10 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 73%, med en samlet opladningstid på 126 minutter
 
 ### Ombordlader
 
@@ -271,6 +271,6 @@ Denne model havde verdenspremiere den 01.10.2024, og leveringerne startede i Mar
 
 Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
 
-- 599 900,00 NOK (Norge)
+- 449 900,00 NOK (Norge)
 
 {{< pagenavigation b_url="../" b_title="VOYAH Courage" f_url="rangeandconsumption/" f_title="Range" >}}

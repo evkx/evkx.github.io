@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD
 linktitle: "Courage AWD"
-description: "VOYAH Courage AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 500 km (311 Meilen). EVKX.net hat alle Details."
+description: "VOYAH Courage AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 440 km (274 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,11 @@ Der VOYAH Courage AWD liefert eine solide Leistung mit einer maximalen Leistung 
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 77,0 kWh und eine nutzbare Nettokapazität von 76,0 kWh, was einen Puffer von 1,0 kWh (1,3%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 500 km (311 Meilen) mit einem Energieverbrauch von 15,2 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 440 km (274 Meilen) mit einem Energieverbrauch von 17,3 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 73 Minuten, während ein typischer Ladevorgang von 10% auf 80% 38 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 83 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 2% und 74%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 74 kW, wobei jede Ladesitzung etwa 44 Minuten und 23 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 10 Stunden und 42 Minuten dauern. Diese Reise würde drei Ladestopps von 1% auf 78% erfordern, mit einer gesamten Ladezeit von 143 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 10 Stunden und 25 Minuten dauern. Diese Reise würde drei Ladestopps von 5% auf 73% erfordern, mit einer gesamten Ladezeit von 126 Minuten.
 
 ### Bordladegerät
 
@@ -271,6 +271,6 @@ Der VOYAH Courage AWD feierte seine Weltpremiere am 01.10.2024, mit Lieferungen 
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
-- 599 900,00 NOK (Norwegen)
+- 449 900,00 NOK (Norwegen)
 
 {{< pagenavigation b_url="../" b_title="VOYAH Courage" f_url="rangeandconsumption/" f_title="Reichweite" >}}

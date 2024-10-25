@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD
 linktitle: "Courage AWD"
-description: "VOYAH Courage AWD is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details."
+description: "VOYAH Courage AWD is an all-electric SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,11 @@ The VOYAH Courage AWD delivers a solid performance with a maximum power of 320 k
 
 The high-capacity battery has a gross capacity of 77.0 kWh and a net usable capacity of 76.0 kWh, providing a 1.0 kWh buffer (1.3%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 miles), with an energy consumption rate of 15.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 440 km (274 miles), with an energy consumption rate of 17.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 73 minutes, while a more typical scenario from 10% to 80% takes 38 minutes with an average charging speed of 83 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 74%. This results in an effective charging speed, including time lost, of 74 kW, with each charging session taking about 44 minutes and 23 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 42 minutes. This journey would require three charging stops from 1% to 78%, with a total charging time of 143 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 25 minutes. This journey would require three charging stops from 5% to 73%, with a total charging time of 126 minutes.
 
 ### Onboard Charger
 
@@ -271,6 +271,6 @@ The VOYAH Courage AWD had its world premiere on 01.10.2024, with deliveries star
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- 599 900,00 NOK (Norway)
+- 449 900,00 NOK (Norway)
 
 {{< pagenavigation b_url="../" b_title="VOYAH Courage" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD
 linktitle: "Courage AWD"
-description: "VOYAH Courage AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 500 km (311 miles). EVKX.net a tous les détails."
+description: "VOYAH Courage AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 440 km (274 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,11 @@ La VOYAH Courage AWD offre des performances solides avec une puissance maximale 
 
 La batterie haute capacité a une capacité brute de 77,0 kWh et une capacité nette utilisable de 76,0 kWh, offrant une réserve de 1,0 kWh (1,3%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 500 km, avec une consommation d'énergie de 15,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 440 km, avec une consommation d'énergie de 17,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 100kW. Une charge complète de 0 à 100 % prendrait 73 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 38 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 74kW. Chaque session de charge prendrait 44 minutes et 23 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 10 heures et 42 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 78%, avec un temps de recharge total de 143 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 25 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 73%, avec un temps de recharge total de 126 minutes.
 
 ### Chargeur embarqué
 
@@ -271,6 +271,6 @@ Ce modèle a été présenté en première mondiale le 01.10.2024 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- 599 900,00 NOK (Norvège)
+- 449 900,00 NOK (Norvège)
 
 {{< pagenavigation b_url="../" b_title="VOYAH Courage" f_url="rangeandconsumption/" f_title="Plage" >}}
