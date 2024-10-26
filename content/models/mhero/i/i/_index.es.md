@@ -83,7 +83,18 @@ Sólo hay un techo para este modelo.
 
 El MHERO I ofrece un único tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento **standard**.
+
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
@@ -91,11 +102,9 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 ## Sistema de climatización
 
@@ -107,6 +116,7 @@ El MHERO I incluye varias características para mejorar la comodidad y convenien
 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Volante ajustable eléctricamente**
 
 {{<evkxdisplayaddarticle />}}
 

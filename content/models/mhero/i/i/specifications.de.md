@@ -366,6 +366,9 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ### Vordersitze
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -391,7 +394,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +402,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +410,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +418,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +426,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Speicher
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +434,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +442,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +450,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +458,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -463,7 +466,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +474,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -479,7 +482,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -487,7 +490,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +498,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitzbelüftung
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -503,13 +506,16 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 ### Sitze der zweiten Reihe
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -528,7 +534,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Sitztyp
 			</td>
 			<td>
-				None
+				Dreisitzbank
 			</td>
 		</tr>
 		<tr>

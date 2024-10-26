@@ -83,7 +83,18 @@ Det finns bara ett tak för denna modell.
 
 MHERO I erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **standard** sätet.
+
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -91,11 +102,9 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-Följande funktioner är tillgängliga på **** sätet.
+Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 ## Klimatsystem
 
@@ -107,6 +116,7 @@ MHERO I inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
 
 {{<evkxdisplayaddarticle />}}
 

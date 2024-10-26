@@ -83,7 +83,18 @@ Der er kun ét tag til denne model.
 
 MHERO I tilbyder kun én type forreste sæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet.
+
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
@@ -91,11 +102,9 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-Følgende funktioner er tilgængelige på **** sædet.
+Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 ## Klimasystem
 
@@ -107,6 +116,7 @@ MHERO I inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Elektrisk justerbart rat**
 
 {{<evkxdisplayaddarticle />}}
 

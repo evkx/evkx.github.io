@@ -366,6 +366,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -391,7 +394,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +402,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +410,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +418,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +426,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Memory
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +434,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +442,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +450,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +458,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -463,7 +466,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +474,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -479,7 +482,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -487,7 +490,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +498,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -503,13 +506,16 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 ### Second row seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -528,7 +534,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>

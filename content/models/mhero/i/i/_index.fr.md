@@ -83,7 +83,18 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 Le MHERO I propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
@@ -91,11 +102,9 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
-
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 ## Système de climatisation
 
@@ -107,6 +116,7 @@ L'MHERO I comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Volant réglable électriquement**
 
 {{<evkxdisplayaddarticle />}}
 

@@ -366,6 +366,9 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ### Framsäten
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -391,7 +394,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +402,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +410,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +418,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +426,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minnesfunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +434,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +442,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +450,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +458,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -463,7 +466,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +474,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -479,7 +482,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -487,7 +490,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +498,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -503,13 +506,16 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 ### Sätesrad 2
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -528,7 +534,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>

@@ -83,7 +83,18 @@ There is only one roof option for this model.
 
 The MHERO I offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
 
@@ -91,11 +102,9 @@ Available in:
 
 #### Second Row Seat
 
-The following functionalities are available on the **** seat:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
-
-Available in:
 
 ## Climate System
 
@@ -107,6 +116,7 @@ The MHERO I includes several features to enhance comfort and convenience:
 
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
+- **Electrically Adjustable Steering Wheel**
 
 {{<evkxdisplayaddarticle />}}
 

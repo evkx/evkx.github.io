@@ -366,6 +366,9 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ### Sièges avant
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -391,7 +394,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +402,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +410,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +418,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +426,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Mémoire
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +434,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +442,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +450,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +458,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -463,7 +466,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +474,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -479,7 +482,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -487,7 +490,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +498,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -503,13 +506,16 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 ### Sièges de la deuxième rangée
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -528,7 +534,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de siège
 			</td>
 			<td>
-				None
+				Banquette trois places
 			</td>
 		</tr>
 		<tr>

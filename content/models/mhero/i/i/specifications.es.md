@@ -366,6 +366,9 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ### Asientos delanteros
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -391,7 +394,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +402,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +410,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +418,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +426,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +434,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +442,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +450,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +458,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -463,7 +466,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +474,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -479,7 +482,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -487,7 +490,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +498,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -503,13 +506,16 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 ### Asientos de la segunda fila
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -528,7 +534,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>
