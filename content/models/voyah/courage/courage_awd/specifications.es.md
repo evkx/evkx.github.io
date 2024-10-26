@@ -1050,7 +1050,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				Sí, 15"
+				Sí, 15,4"
 			</td>
 		</tr>
 		<tr>

@@ -1050,7 +1050,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15"
+				Ja, 15,4"
 			</td>
 		</tr>
 		<tr>

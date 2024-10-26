@@ -1050,7 +1050,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15"
+				Yes, 15,4"
 			</td>
 		</tr>
 		<tr>

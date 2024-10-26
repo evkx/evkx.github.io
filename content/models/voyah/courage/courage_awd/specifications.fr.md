@@ -1050,7 +1050,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Oui, 15"
+				Oui, 15,4"
 			</td>
 		</tr>
 		<tr>

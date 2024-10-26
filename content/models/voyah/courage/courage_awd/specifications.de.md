@@ -1050,7 +1050,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Infotainment-Bildschirm
 			</td>
 			<td>
-				Ja, 15"
+				Ja, 15,4"
 			</td>
 		</tr>
 		<tr>
