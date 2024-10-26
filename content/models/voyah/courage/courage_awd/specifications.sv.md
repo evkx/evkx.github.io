@@ -185,7 +185,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Laddningsportplacering
 			</td>
 			<td>
-				LeftRearSide
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -194,14 +194,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Nordamerika
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +380,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Adaptive Suspension
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +388,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning fram
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +396,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning bak
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +404,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd fram
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +412,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd bak
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +436,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre stötdämpare
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +444,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre stötdämpare
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>

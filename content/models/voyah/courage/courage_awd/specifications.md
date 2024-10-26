@@ -185,7 +185,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Chargeport placement
 			</td>
 			<td>
-				LeftRearSide
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -194,14 +194,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport North America
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +380,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adaptive suspension</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +388,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +396,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +404,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +412,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Damper type front</a>
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Damper type rear</a>
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>

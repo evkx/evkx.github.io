@@ -185,7 +185,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Ladeportplassering
 			</td>
 			<td>
-				LeftRearSide
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -194,14 +194,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +380,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Adaptiv understell
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +388,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping foran
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +396,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping bak
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +404,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar høyde foran
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +412,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar høyde bak
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +436,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type demper foran
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +444,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type demper bak
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>

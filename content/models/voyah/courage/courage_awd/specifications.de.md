@@ -185,7 +185,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschlussplatzierung
 			</td>
 			<td>
-				LeftRearSide
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -194,14 +194,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ladeanschluss Typ Nordamerika
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +380,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Adaptive Federung
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +388,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Dämpfung vorne
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +396,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Dämpfung hinten
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +404,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Höhe vorne
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +412,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Höhe hinten
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +436,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Dämpfertyp vorne
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +444,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Dämpfertyp hinten
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>

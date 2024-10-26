@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,22 +54,11 @@ The VOYAH Courage AWD features an all-wheel drive system powered by two motors, 
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 160 mm, and the maximum is 160 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
 ### Steering
 
 Dynamic steering is a standard on the VOYAH Courage AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
-
-### Drive Modes
-
-The VOYAH Courage AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 6 modes:
-
-- Performance: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Eco: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Outing: Balanced steering, high suspension height with balanced throttle and damping.
-- Snow: Balanced steering, max suspension height with balanced throttle and damping.
-- Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
@@ -83,7 +72,7 @@ If you lift away the foot completely the regen is at one fixed level. This can't
 
 ## Exterior
 
-The VOYAH Courage AWD, with dimensions of 4725 mm in length, 1900 mm in width, and 1653 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The VOYAH Courage AWD is available in a total of 6 paint colors, including several striking metallic options.
+The VOYAH Courage AWD, with dimensions of 4725 mm in length, 1900 mm in width, and 1653 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The VOYAH Courage AWD is available in a total of 7 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
 You can select from multiple wheel designs, all available in the same size, on the VOYAH Courage AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -91,7 +80,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
-There is only one roof option for this model. The standard roof has a large panoramic extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
+There is only one roof option for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -101,7 +90,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The VOYAH Courage AWD boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The interior of the VOYAH Courage AWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -126,10 +115,9 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
+- White/Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Beige/Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/frontseats_1_st.jpg" title="VOYAH Courage AWD" width="3000" height="2250"  >}}
 

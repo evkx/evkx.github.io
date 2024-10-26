@@ -44,7 +44,7 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,22 +54,11 @@ VOYAH Courage AWD har et firehjulsdriftssystem som støttes av to motorer, en p�
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 160 mm, og maksimum er 160 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 160 mm.
 
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på VOYAH Courage AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
-
-### Kjøremoduser
-
-VOYAH Courage AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 6 moduser:
-
-- Performance: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Eco: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
-- Outing: Balansert styring, høy fjæringshøyde med balansert gass og demping.
-- Snow: Balansert styring, maks fjæringshøyde med balansert gass og demping.
-- Individual: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 
@@ -83,7 +72,7 @@ Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan 
 
 ## Eksteriør
 
-VOYAH Courage AWD, med dimensjoner på 4725 mm i lengde, 1900 mm i bredde og 1653 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. VOYAH Courage AWD er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+VOYAH Courage AWD, med dimensjoner på 4725 mm i lengde, 1900 mm i bredde og 1653 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. VOYAH Courage AWD er tilgjengelig i totalt 7 lakkfarger, inkludert flere iøynefallende metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på VOYAH Courage AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -91,7 +80,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Løfteporten er elektrisk drevet og har kick-sensor som standard.
 
-Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedres stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.
+Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
@@ -101,7 +90,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-VOYAH Courage AWD har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet.
+Interiøret i VOYAH Courage AWD er minimalistisk, med materialer av høy kvalitet i flere områder i stedet for hard plast. Den todelte midtkonsollen skiller fører og passasjer, og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -124,12 +113,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
+- White/Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Beige/Red [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- White [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/frontseats_1_st.jpg" title="VOYAH Courage AWD" width="3000" height="2250"  >}}
 

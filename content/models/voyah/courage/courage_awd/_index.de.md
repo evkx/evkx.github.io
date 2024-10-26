@@ -44,7 +44,7 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,22 +54,11 @@ Der VOYAH Courage AWD verfügt über ein Allradantriebssystem, das von zwei Moto
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 160 mm und die maximale 160 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 160 mm.
 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im VOYAH Courage AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
-
-### Fahrmodi
-
-Der VOYAH Courage AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 6 Modi wählen:
-
-- Performance: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
-- Eco: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
-- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
-- Outing: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
-- Snow: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
-- Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 
@@ -83,7 +72,7 @@ Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem 
 
 ## Exterieur
 
-Der VOYAH Courage AWD, mit Abmessungen von 4725 mm Länge, 1900 mm Breite und 1653 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der VOYAH Courage AWD ist in insgesamt 6 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der VOYAH Courage AWD, mit Abmessungen von 4725 mm Länge, 1900 mm Breite und 1653 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der VOYAH Courage AWD ist in insgesamt 7 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den VOYAH Courage AWD erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -91,7 +80,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
-Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas hat eine elektrochrome Funktion, die es Ihnen ermöglicht, das Glas in mehreren Stufen abzudunkeln, um sich vor der Sonne zu schützen.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoramadach. Das Glas erstreckt sich über den größten Teil des Dachs und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -101,7 +90,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Der VOYAH Courage AWD verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet.
+Das Interieur des VOYAH Courage AWD ist minimalistisch und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -126,10 +115,9 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 Verfügbar in:
 
+- White/Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 - Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- Blue [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- Beige/Red [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- White [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/frontseats_1_st.jpg" title="VOYAH Courage AWD" width="3000" height="2250"  >}}
 

@@ -185,7 +185,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ubicación del puerto de carga
 			</td>
 			<td>
-				LeftRearSide
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -194,14 +194,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Escriba puerto de carga Norteamérica
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +380,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Suspensión adaptativa
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +388,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación delantera ajustable
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +396,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación trasera ajustable
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Frente regulable en altura
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +412,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura trasera ajustable
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +436,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de amortiguador delantero
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +444,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de amortiguador trasero
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
