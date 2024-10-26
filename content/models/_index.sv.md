@@ -118,6 +118,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="mhero"><img src="https://media.evkx.net/multimedia/models/mhero/logo_xst.png" alt="MHERO" title="MHERO" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="mini"><img src="https://media.evkx.net/multimedia/models/mini/logo_xst.png" alt="Mini" title="Mini" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -493,6 +496,16 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	MG har 5 modell(er) med totalt 11 varianter.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå till MG modellöversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>MHERO</h2>
+	<p>
+		MHERO-märket är en lyxig elektrisk terrängfordonslinje lanserad av Kinas Dongfeng Motor Corporation genom sitt dotterbolag Mengshi. MHERO, som riktar sig mot high-end EV-marknader, introducerades i Europa 2023 och visar upp avancerad ingenjörskonst anpassad för tuff terräng och hållbar rörlighet.
+	</p>
+	<p>
+	MHERO har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="mhero/" class="btn btn-outline-primary" role="button">Gå till MHERO modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>

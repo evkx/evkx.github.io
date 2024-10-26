@@ -118,6 +118,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="mhero"><img src="https://media.evkx.net/multimedia/models/mhero/logo_xst.png" alt="MHERO" title="MHERO" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="mini"><img src="https://media.evkx.net/multimedia/models/mini/logo_xst.png" alt="Mini" title="Mini" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -493,6 +496,16 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	MG a 5 modèles avec un total de 11 variantes.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Aller à la MG présentation du modèle EV</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>MHERO</h2>
+	<p>
+		La marque MHERO est une ligne de véhicules tout-terrain électriques de luxe lancée par la Dongfeng Motor Corporation de Chine via sa filiale Mengshi. Ciblant les marchés de véhicules électriques haut de gamme, MHERO, introduit en Europe en 2023, présente une ingénierie avancée adaptée aux terrains accidentés et à la mobilité durable.
+	</p>
+	<p>
+	MHERO a 1 modèles avec un total de 1 variantes.
+	</p>
+	<a href="mhero/" class="btn btn-outline-primary" role="button">Aller à la MHERO présentation du modèle EV</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>

@@ -1,0 +1,185 @@
+---
+title: MHERO I
+linktitle: "I"
+description: "MHERO I es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta N/A km (0 millas). EVKX.net tiene todos los detalles."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+{{< sitefiguresized thumb="models/mhero/i/i/main_1_st.jpg" title="MHERO I" width="3000" height="2000"  >}}
+
+Hemos separado nuestro artículo MHERO I en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+
+- [Rendimiento](#rendimiento)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Exterior (colores de pintura, ruedas ++)](#exterior)
+- [Interior (asientos++)](#interior)
+- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
+- [Infoentretenimiento](#infoentretenimiento)
+- [Luces](#luces)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+
+## Rendimiento
+
+El MHERO I entrega una impresionante potencia máxima de 800 kW (1088 hp) y un enorme torque de 1400 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 4,2 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 180 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
+
+## Batería, autonomía y carga
+
+La batería de alta capacidad tiene una capacidad bruta de 142,7 kWh y una capacidad neta utilizable de 135,0 kWh, proporcionando un buffer de 7,7 kWh (5,4%) para la protección de la batería.
+
+Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+
+La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 118 minutos, mientras que un escenario más común del 10 al 80 % tardaría 61 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 9% al 82%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 85kW. Cada sesión de carga tardaría 69 minutos y 11 segundos.
+
+### Cargador a bordo
+
+{{< sitefiguresized thumb="models/mhero/i/i/charging_1_st.jpg" title="MHERO I" width="2000" height="1333"  >}}
+
+{{<evkxdisplayaddarticle />}}
+
+## Tren de transmisión
+
+MHERO I tiene un sistema de tracción total sostenido por cuatro motores. Uno para cada rueda. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+### Suspensión
+
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 250 mm y la máxima es 330 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el MHERO I. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+
+### Frenos
+
+### Frenado regenerativo
+
+
+## Exterior
+
+El MHERO I, con dimensiones de 4987 mm de longitud, 2080 mm de anchura y 1935 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
+
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MHERO I, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 275/65 en llantas de 20" delanteras y neumáticos 275/65 en llantas de 20" traseras
+
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
+
+Sólo hay un techo para este modelo.
+
+{{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
+
+{{<evkxdisplayaddarticle />}}
+
+## Interior
+
+### Asientos
+
+#### Asientos de primera fila
+
+El MHERO I ofrece un único tipo de asiento delantero.
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+{{< sitefiguresized thumb="models/mhero/i/i/frontseats_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
+
+#### Asiento de segunda fila
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+## Sistema de climatización
+
+Hay un sistema climático disponible.
+
+## Características de confort
+
+El MHERO I incluye varias características para mejorar la comodidad y conveniencia:
+
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+
+{{<evkxdisplayaddarticle />}}
+
+## Interfaz de usuario y control
+
+Detalles clave de la pantalla:
+
+
+El modelo no tiene head-up display.
+
+{{< sitefiguresized thumb="models/mhero/i/i/screens_1_st.jpg" title="MHERO I" width="1600" height="1067"  >}}
+
+### Volante
+
+El MHERO I está equipado con un solo tipo de volante:
+
+- uicontrols.steeringwheel.infotainment
+
+### Espejos
+
+Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+## Infoentretenimiento
+
+### Sistema de sonido
+
+Un tipo de sistema de sonido está disponible para el MHERO I.
+
+- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
+## Luces
+
+lights.technology.standard
+
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+
+{{< sitefiguresized thumb="models/mhero/i/i/headlights_1_st.jpg" title="MHERO I" width="2000" height="1500"  >}}
+
+## Sistemas avanzados de asistencia al conductor
+
+El MHERO I incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+
+### Sistemas de Seguridad
+
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el MHERO I, este sistema evita que las ruedas se bloqueen durante el frenado.
+
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el MHERO I, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+
+### Automatización de la Conducción
+
+Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+
+## Seguridad
+
+El MHERO I está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+
+Además, los cinturones de seguridad de la primera y segunda fila están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
+{{<evkxdisplayaddarticle />}}
+
+## Capacidad de carga y capacidad de remolque
+
+El peso máximo del vehículo es 3920 kg, con un peso base de 3335 kg. Esto permite una carga máxima de 585 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+
+{{< sitefiguresized thumb="models/mhero/i/i/trunk_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
+
+## Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 19.11.2022 y las entregas comenzaron en October 2024.
+{{< pagenavigation b_url="../" b_title="MHERO I" f_url="rangeandconsumption/" f_title="Rango" >}}

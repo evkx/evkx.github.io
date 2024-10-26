@@ -118,6 +118,9 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="mhero"><img src="https://media.evkx.net/multimedia/models/mhero/logo_xst.png" alt="MHERO" title="MHERO" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="mini"><img src="https://media.evkx.net/multimedia/models/mini/logo_xst.png" alt="Mini" title="Mini" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -487,6 +490,13 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	MG har 5 modell(er) med totalt 11 varianter.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>MHERO</h2>
+	<p>
+	MHERO har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="mhero/" class="btn btn-outline-primary" role="button">Gå til MHERO modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
