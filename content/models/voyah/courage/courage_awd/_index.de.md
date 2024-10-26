@@ -54,11 +54,22 @@ Der VOYAH Courage AWD verfügt über ein Allradantriebssystem, das von zwei Moto
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 160 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer.
 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im VOYAH Courage AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der VOYAH Courage AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 6 Modi wählen:
+
+- Performance: Dynamisches Lenken, Federung und Gas.
+- Eco: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Outing: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Snow: Ausgewogenes Lenken, Gasgeben und Dämpfen.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
 
 ### Bremsen
 

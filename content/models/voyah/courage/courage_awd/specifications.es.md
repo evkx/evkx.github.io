@@ -102,6 +102,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				20,2 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Rango CLTC de equipamiento básico
+			</td>
+			<td>
+				570 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo CLTC de ajuste básico
+			</td>
+			<td>
+				13,3 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -388,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación delantera ajustable
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +412,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación trasera ajustable
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

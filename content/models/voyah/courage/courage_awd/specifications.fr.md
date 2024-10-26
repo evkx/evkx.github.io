@@ -102,6 +102,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				20,2 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Gamme CLTC de finition de base
+			</td>
+			<td>
+				570 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation CLTC de base
+			</td>
+			<td>
+				13,3 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -388,7 +404,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement réglable avant
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +412,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement arrière réglable
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

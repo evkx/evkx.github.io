@@ -54,11 +54,22 @@ VOYAH Courage AWD tiene un sistema de tracción total sostenido por dos motores,
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos.
 
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el VOYAH Courage AWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
+### Modos de conducción
+
+El VOYAH Courage AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 6 modos:
+
+- Performance: Dirección, suspensión y aceleración dinámicas.
+- Eco: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- Outing: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- Snow: Dirección, aceleración y amortiguación equilibradas.
+- Individual: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
 
 ### Frenos
 

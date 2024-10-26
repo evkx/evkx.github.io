@@ -54,11 +54,22 @@ VOYAH Courage AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare.
 
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för VOYAH Courage AWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+VOYAH Courage AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 6 lägen:
+
+- Performance: Dynamisk styrning, fjädring och gaspådrag.
+- Eco: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
+- Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
+- Outing: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
+- Snow: Balanserad styrning, gas och dämpning.
+- Individual: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 

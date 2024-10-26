@@ -236,4 +236,7 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
+## Tillgänglighet och pris
+
+
 {{< pagenavigation b_url="../" b_title="Tesla Model X" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

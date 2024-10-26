@@ -59,6 +59,19 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				17,27 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/cltc/ ">
+					CLTC-räckvidd
+				</a>
+			</td>
+			<td>
+				570 km / 354 mi 
+			</td>
+			<td>
+				13,33kWh/100km / 3,6 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

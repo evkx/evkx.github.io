@@ -236,4 +236,7 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
+## Tilgjengelighet & pris
+
+
 {{< pagenavigation b_url="../" b_title="Tesla Model X" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

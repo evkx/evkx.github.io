@@ -54,11 +54,22 @@ The VOYAH Courage AWD features an all-wheel drive system powered by two motors, 
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers.
 
 ### Steering
 
 Dynamic steering is a standard on the VOYAH Courage AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The VOYAH Courage AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 6 modes:
+
+- Performance: Dynamic steering, suspension and throttle.
+- Eco: Balanced steering, with efficient throttle, and balanced suspension.
+- Comfort: Balanced throttle and steering, comfort suspension damping.
+- Outing: Balanced throttle and steering, comfort suspension damping.
+- Snow: Balanced steering, throttle and damping.
+- Individual: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 

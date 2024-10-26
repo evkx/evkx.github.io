@@ -59,6 +59,19 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				17,27 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/cltc/ ">
+					CLTC range
+				</a>
+			</td>
+			<td>
+				570 km / 354 mi 
+			</td>
+			<td>
+				13,33kWh/100km / 3,6 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

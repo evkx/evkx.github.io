@@ -59,6 +59,19 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				17,27 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/cltc/ ">
+					CLTC Reichweite
+				</a>
+			</td>
+			<td>
+				570 km / 354 mi 
+			</td>
+			<td>
+				13,33kWh/100km / 3,6 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

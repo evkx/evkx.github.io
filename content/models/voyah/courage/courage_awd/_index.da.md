@@ -54,11 +54,22 @@ VOYAH Courage AWD har et firehjulstræk, der understøttes af to motorer, en på
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
 
 ### Styring
 
 Dynamisk styring er en standard-funktion på VOYAH Courage AWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
+### Køretilstande
+
+VOYAH Courage AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 6 tilstande:
+
+- Performance: Dynamisk styring, affjedring og speeder.
+- Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
+- Comfort: Afbalanceret speeder og styring, komfortaffjedring.
+- Outing: Afbalanceret speeder og styring, komfortaffjedring.
+- Snow: Afbalanceret styring, speeder og dæmpning.
+- Individual: Brugerdefinerede indstillinger for styring, speeder og affjedring.
 
 ### Bremser
 

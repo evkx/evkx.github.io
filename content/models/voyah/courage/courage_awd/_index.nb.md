@@ -54,11 +54,22 @@ VOYAH Courage AWD har et firehjulsdriftssystem som støttes av to motorer, en p�
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 160 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
 
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på VOYAH Courage AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
+### Kjøremoduser
+
+VOYAH Courage AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 6 moduser:
+
+- Performance: Dynamisk styring, fjæring og gasspådrag.
+- Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- Outing: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- Snow: Balansert styring, gass og demping.
+- Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 
