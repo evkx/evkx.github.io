@@ -506,6 +506,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -985,6 +986,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control por voz
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -992,6 +994,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

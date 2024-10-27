@@ -506,6 +506,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
@@ -985,6 +986,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -992,6 +994,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

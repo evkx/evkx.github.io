@@ -87,7 +87,7 @@ Der MHERO I ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../tec
 
 ## Exterieur
 
-Der MHERO I, mit Abmessungen von 4987 mm Länge, 2080 mm Breite und 1935 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Sie können zwischen 1 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der MHERO I, mit Abmessungen von 4987 mm Länge, 2080 mm Breite und 1935 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. exterior.paintcolors_matte
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den MHERO I erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -105,9 +105,11 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Der MHERO I verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien im gesamten Fahrzeug verbessert. Ein bemerkenswertes Highlight ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet.
+Der MHERO I verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien im gesamten Fahrzeug verbessert. Ein bemerkenswertes Highlight ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
+
+Der MHERO I bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 
@@ -128,6 +130,9 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 Verfügbar in:
+
+- Black/Brown [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/mhero/i/i/frontseats_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
@@ -153,6 +158,7 @@ Der MHERO I umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbess
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
+- **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,6 +180,8 @@ Der MHERO I ist mit einem einzigen Lenkradtyp ausgestattet:
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
 ## Infotainment
 

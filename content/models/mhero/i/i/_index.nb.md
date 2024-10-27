@@ -87,7 +87,7 @@ MHERO I lar brukeren velge forskjellige [kjøremoduser](../../../../technology/d
 
 ## Eksteriør
 
-MHERO I, med dimensjoner på 4987 mm i lengde, 2080 mm i bredde og 1935 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+MHERO I, med dimensjoner på 4987 mm i lengde, 2080 mm i bredde og 1935 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. exterior.paintcolors_matte
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MHERO I, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -105,9 +105,11 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-MHERO I har et førerfokusert interiør som forbedrer cockpitfølelsen med førsteklasses materialer i alle viktige områder. Et fremtredende trekk er det todelte midtkonsollen, som skiller føreren og passasjeren samtidig som det gir praktisk oppbevaring og forbedret funksjonalitet.
+MHERO I har et førerfokusert interiør som forbedrer cockpitfølelsen med førsteklasses materialer i alle viktige områder. Et fremtredende trekk er det todelte midtkonsollen, som skiller føreren og passasjeren samtidig som det gir praktisk oppbevaring og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
+
+MHERO I har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
 
 #### Forseter
 
@@ -127,7 +129,10 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
+- Black/Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/mhero/i/i/frontseats_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
@@ -153,6 +158,7 @@ MHERO I inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
+- **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,6 +180,8 @@ MHERO I er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
 

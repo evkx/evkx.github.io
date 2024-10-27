@@ -87,7 +87,7 @@ The MHERO I lets the user select different [drive modes](../../../../technology/
 
 ## Exterior
 
-The MHERO I, with dimensions of 4987 mm in length, 2080 mm in width, and 1935 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 1 different paint colors when ordering this model.
+The MHERO I, with dimensions of 4987 mm in length, 2080 mm in width, and 1935 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. exterior.paintcolors_matte
 
 You can select from multiple wheel designs, all available in the same size, on the MHERO I, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -105,9 +105,11 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The MHERO I features a driver-centric interior, designed to enhance the cockpit feel with premium materials throughout. A notable highlight is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The MHERO I features a driver-centric interior, designed to enhance the cockpit feel with premium materials throughout. A notable highlight is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
+
+The MHERO I accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -128,6 +130,9 @@ The following functionalities are available on the **standard** seat:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
+
+- Black/Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/mhero/i/i/frontseats_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
@@ -153,6 +158,7 @@ The MHERO I includes several features to enhance comfort and convenience:
 - **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,6 +180,8 @@ The MHERO I is equipped with a single type of steering wheel:
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

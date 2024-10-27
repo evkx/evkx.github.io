@@ -16,6 +16,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Full Review on the Dongfeng Mengshi M-Hero 1</h3>
+<p>MOBILITY INSIDER: 29.05.2024</p>
+
+{{< youtube LFaPMN7hPgI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Turns Out China Makes The Most American SUV!</h3>
 <p>Wheelsboy: 24.11.2023</p>
 
