@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-0312d4d7
+  translation: MHERO I is an all-electric luxury SUV with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details.
+
 - id: frontpage-description-97714ed8
   translation: VOYAH Courage AWD is an all-electric SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-eaf82671
   translation: Lexus RZ 300e is an all-electric SUV with a WLTP range of up to 480 km (298 miles). EVKX.net has all the details.
-
-- id: frontpage-description-23e9b22b
-  translation: SKODA Elroq 85x is an all-electric coupe SUV with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details.
 

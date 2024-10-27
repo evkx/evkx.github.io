@@ -166,7 +166,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Matériaux cathodiques
 			</td>
 			<td>
-				NCM|
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				200 kg
+				100 kg
 			</td>
 		</tr>
 		<tr>

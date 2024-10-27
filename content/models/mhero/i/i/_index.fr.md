@@ -274,7 +274,7 @@ De plus, les ceintures de sécurité des première et deuxième rangées sont é
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 452 litres. Avec les sièges arrière rabattus, cette capacité passe à 1137 litres. Sur le toit, vous pouvez charger jusqu'à 200 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 452 litres. Avec les sièges arrière rabattus, cette capacité passe à 1137 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 3920 kg, avec un poids de base de 3335 kg. Cela permet une charge maximale de 585 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

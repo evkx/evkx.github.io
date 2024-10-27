@@ -274,7 +274,7 @@ Additionally, the front and second-row seatbelts are equipped with pretensioners
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1137 liters (40.2 CU FT). On the roof, you can load up to 200 kg (440.9 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1137 liters (40.2 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3920 kg (8642 lbs), with a base weight of 3335 kg (7352 lbs). This allows for a maximum load of 585 kg (1290 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

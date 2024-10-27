@@ -166,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Katodematerialer
 			</td>
 			<td>
-				NCM|
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				200 kg
+				100 kg
 			</td>
 		</tr>
 		<tr>

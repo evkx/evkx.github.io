@@ -166,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Katodmaterial
 			</td>
 			<td>
-				NCM|
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten taklast
 			</td>
 			<td>
-				200 kg
+				100 kg
 			</td>
 		</tr>
 		<tr>

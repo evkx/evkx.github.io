@@ -166,7 +166,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kathodenmaterialien
 			</td>
 			<td>
-				NCM|
+				NCM
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Dachlast
 			</td>
 			<td>
-				200 kg (441 lbs)
+				100 kg (220 lbs)
 			</td>
 		</tr>
 		<tr>

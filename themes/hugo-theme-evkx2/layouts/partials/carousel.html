@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/mhero/i/i/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/mhero/i/i/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>MHERO I</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-0312d4d7"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/voyah/courage/courage_awd/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/voyah/courage/courage_awd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Peugot E-5008</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-82f1bd54"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/nissan/ariya/ariya_nismo/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_nismo/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Nissan Ariya NISMO</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-a0da6ccf"}}</p>
 				</div>
 			</div>
 		</div>

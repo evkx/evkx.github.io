@@ -274,7 +274,7 @@ Dessutom är säkerhetsbältena i första och andra raden utrustade med bältess
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 452 liter. Med baksätena nedfällda ökar detta till 1137 liter. På taket kan du lasta upp till 200 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet erbjuder en lastkapacitet på 452 liter. Med baksätena nedfällda ökar detta till 1137 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 3920 kg, med en grundvikt på 3335 kg. Detta tillåter en maximal last på 585 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

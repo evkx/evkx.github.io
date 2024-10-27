@@ -274,7 +274,7 @@ I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som str
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 452 liter. Med baksetene nedfelt, utvides dette til 1137 liter. På taket kan du laste opptil 200 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
+Bagasjerommet tilbyr en lastekapasitet på 452 liter. Med baksetene nedfelt, utvides dette til 1137 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 3920 kg, med en basisvekt på 3335 kg. Dette gir en maksimal lastekapasitet på 585 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

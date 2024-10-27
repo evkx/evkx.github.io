@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-0312d4d7
+  translation: MHERO I es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 450 km (280 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-97714ed8
   translation: VOYAH Courage AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 440 km (274 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-eaf82671
   translation: Lexus RZ 300e es un SUV totalmente eléctrico con una autonomía WLTP de hasta 480 km (298 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-23e9b22b
-  translation: SKODA Elroq 85x es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles.
 
