@@ -685,7 +685,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, sièges extérieurs
 			</td>
 		</tr>
 		<tr>
@@ -725,7 +725,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -733,7 +733,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -749,7 +749,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, sièges extérieurs
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +757,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, sièges extérieurs
 			</td>
 		</tr>
 	</tbody>
@@ -1015,6 +1015,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Dans la navigation automobile
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

@@ -60,6 +60,10 @@ The MHERO I has an all-wheel drive system supported by four motors. One for each
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 250 mm, and the maximum is 326 mm.
 
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
+
+For easier loading, you can lower the air suspension from the rear
+
 ### Steering
 
 Dynamic steering is a standard on the MHERO I, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
@@ -93,11 +97,15 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 
 There is only one roof option for this model. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The MHERO I features a driver-centric interior, designed to enhance the cockpit feel with premium materials throughout. A notable highlight is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
 
 ### Seats
 
@@ -127,6 +135,10 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- Height adjustable headrest (standard for outer seats)
+- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for outer seats)
+- [Massage](../../../../technology/seats/adjustment/#massage) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ## Climate System
@@ -140,6 +152,7 @@ The MHERO I includes several features to enhance comfort and convenience:
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -164,11 +177,17 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+### Navigation System
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
 ### Sound System
 
 The MHERO I comes equipped with one sound system option:
 
 - **:** Features NULL speakers and delivers a maximum output of  watts.
+
+Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
 ## Lights
 
@@ -202,6 +221,11 @@ With the   level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
 
 ## Safety
 

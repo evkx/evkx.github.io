@@ -226,6 +226,9 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
+MHERO I har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+
+
 {{<evkxdisplayaddarticle />}}
 <div class="table-responsive">
 <table class="table table-striped border">

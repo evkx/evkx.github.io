@@ -60,6 +60,10 @@ Der MHERO I hat ein Allradantriebssystem, das von vier Motoren unterstützt wird
 
 Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 250 mm und die maximale 326 mm.
 
+Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie auf ihr vorheriges Niveau zurück.
+
+Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
+
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im MHERO I, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern. Zusätzlich ist die Hinterradlenkung als eine standard Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
@@ -93,11 +97,15 @@ Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heck
 
 Es gibt nur eine Dachoption für dieses Modell. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
+
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Der MHERO I verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien im gesamten Fahrzeug verbessert. Ein bemerkenswertes Highlight ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet.
 
 ### Sitze
 
@@ -127,6 +135,10 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- Höhenverstellbare Kopfstütze (Standard für äußere Sitze)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für äußere Sitze)
+- [Massage](../../../../technology/seats/adjustment/#massage) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 ## Klimaanlage
@@ -140,6 +152,7 @@ Der MHERO I umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbess
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -164,11 +177,17 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+### Navigationssystem
+
+Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+
 ### Soundsystem
 
 Der MHERO I ist mit einer Soundsystemoption ausgestattet:
 
 - **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+
+Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
 
 ## Lichter
 
@@ -202,6 +221,11 @@ Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktion
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
 
 ## Sicherheit
 

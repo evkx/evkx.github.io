@@ -685,7 +685,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar, asientos exteriores
 			</td>
 		</tr>
 		<tr>
@@ -725,7 +725,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -733,7 +733,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -749,7 +749,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar, asientos exteriores
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +757,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				Función estándar, asientos exteriores
 			</td>
 		</tr>
 	</tbody>
@@ -1015,6 +1015,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				En navegación del coche
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

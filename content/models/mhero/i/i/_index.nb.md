@@ -60,6 +60,10 @@ MHERO I har et firehjulsdriftssystem som støttes av fire motorer. En for hvert 
 
 Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 250 mm, og maksimum er 326 mm.
 
+Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
+
+For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
+
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på MHERO I. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
@@ -93,11 +97,15 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](.
 
 Det er bare ett tak for denne modellen. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
+Rutene fra B-stolpen og baksiden er tonet.
+
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+MHERO I har et førerfokusert interiør som forbedrer cockpitfølelsen med førsteklasses materialer i alle viktige områder. Et fremtredende trekk er det todelte midtkonsollen, som skiller føreren og passasjeren samtidig som det gir praktisk oppbevaring og forbedret funksjonalitet.
 
 ### Seter
 
@@ -127,6 +135,10 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- høydejusterbar hodestøtte (standard for ytre seter)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for ytre seter)
+- [massasje](../../../../technology/seats/adjustment/#massage) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 ## Klimasystem
@@ -140,6 +152,7 @@ MHERO I inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 - **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -164,11 +177,17 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ## Infotainment
 
+### Navigasjonssystem
+
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
 ### Lydsystem
 
 Én type lydsystem er tilgjengelig for MHERO I.
 
 - Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+
+Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 
 ## Lys
 
@@ -202,6 +221,11 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
 
 ## Sikkerhet
 

@@ -226,6 +226,9 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
 
 
+MHERO I dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+
+
 {{<evkxdisplayaddarticle />}}
 <div class="table-responsive">
 <table class="table table-striped border">

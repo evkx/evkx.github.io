@@ -60,6 +60,10 @@ MHERO I tiene un sistema de tracción total sostenido por cuatro motores. Uno pa
 
 La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 250 mm y la máxima es 326 mm.
 
+La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
+
+Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
+
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el MHERO I. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
@@ -93,11 +97,15 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 
 Sólo hay un techo para este modelo. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
+Las ventanas del pilar B y la parte trasera están tintadas.
+
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El MHERO I cuenta con un interior enfocado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en todas las áreas clave. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
 
 ### Asientos
 
@@ -127,6 +135,10 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura (estándar para asientos exteriores)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (estándar para asientos exteriores)
+- [masaje](../../../../technology/seats/adjustment/#massage) (estándar para asientos exteriores)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 ## Sistema de climatización
@@ -140,6 +152,7 @@ El MHERO I incluye varias características para mejorar la comodidad y convenien
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
+- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -164,11 +177,17 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ## Infoentretenimiento
 
+### Sistema de navegación
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
 ### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el MHERO I.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
+El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 
 ## Luces
 
@@ -202,6 +221,11 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
 
 ## Seguridad
 
