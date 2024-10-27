@@ -205,7 +205,7 @@ KGM Torres EVX inkluderer flere [avanserte førerassistanse systemer](../../../.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på KGM Torres EVX, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på KGM Torres EVX, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på KGM Torres EVX, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 [**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Valgfri på KGM Torres EVX, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 

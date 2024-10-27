@@ -211,7 +211,7 @@ Kia Niro EV inkluderer flere [avanserte førerassistanse systemer](../../../../t
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Kia Niro EV, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia Niro EV, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia Niro EV, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 

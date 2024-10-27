@@ -213,7 +213,7 @@ Genesis GV60 2WD inkluderer flere [avanserte førerassistanse systemer](../../..
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Genesis GV60 2WD, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Genesis GV60 2WD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Genesis GV60 2WD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 

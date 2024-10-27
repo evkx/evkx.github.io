@@ -206,11 +206,11 @@ HiPhi X 4 Seater inkluderer flere [avanserte førerassistanse systemer](../../..
 
 [**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på HiPhi X 4 Seater, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
-[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på HiPhi X 4 Seater, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på HiPhi X 4 Seater, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på HiPhi X 4 Seater, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på HiPhi X 4 Seater, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på HiPhi X 4 Seater, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 [**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på HiPhi X 4 Seater, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
