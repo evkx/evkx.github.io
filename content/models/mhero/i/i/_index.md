@@ -36,6 +36,8 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 118 minutes, while a more typical scenario from 10% to 80% takes 61 minutes with an average charging speed of 92 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 9% to 82%. This results in an effective charging speed, including time lost, of 85 kW, with each charging session taking about 69 minutes and 11 seconds.
 
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 40 kWh/100 km, the trip would take approximately 11 hours and 28 minutes. This journey would require three charging stops from 15% to 81%, with a total charging time of 188 minutes.
+
 ### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 16 minutes using a home charging setup.
@@ -133,7 +135,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (electrically adjustable)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (electrically adjustable for driver, not available for passenger)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 

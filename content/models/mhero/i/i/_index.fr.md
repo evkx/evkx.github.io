@@ -36,6 +36,8 @@ Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Ha
 
 La vitesse de charge DC maximale est de 100kW. Une charge complète de 0 à 100 % prendrait 118 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 61 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 9 % et 82 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 85kW. Chaque session de charge prendrait 69 minutes et 11 secondes.
 
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 40 kWh/100 km, le voyage prendrait environ 11 heures et 28 minutes. Ce trajet nécessiterait deux arrêts de recharge de 15% à 81%, avec un temps de recharge total de 188 minutes.
+
 ### Chargeur embarqué
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 12 heures et 16 minutes à domicile.
@@ -133,7 +135,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 

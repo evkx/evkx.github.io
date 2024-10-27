@@ -682,7 +682,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Standard electric feature
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>

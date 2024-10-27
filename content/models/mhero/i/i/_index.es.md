@@ -36,6 +36,8 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 
 La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 118 minutos, mientras que un escenario más común del 10 al 80 % tardaría 61 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 9% al 82%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 85kW. Cada sesión de carga tardaría 69 minutos y 11 segundos.
 
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 40 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 28 minutos. Este viaje requeriría dos paradas de carga del 15% al 81%, con un tiempo total de carga de 188 minutos.
+
 ### Cargador a bordo
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 12 horas y 16 minutos usando un cargador en casa.
@@ -133,7 +135,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajustable eléctricamente)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajustable eléctricamente para el conductor, no disponible para el pasajero)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 

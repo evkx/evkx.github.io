@@ -36,6 +36,8 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 118 Minuten, während ein typischer Ladevorgang von 10% auf 80% 61 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 92 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 9% und 82%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 85 kW, wobei jede Ladesitzung etwa 69 Minuten und 11 Sekunden dauert.
 
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 40 kWh/100 km, würde die Fahrt etwa 11 Stunden und 28 Minuten dauern. Diese Reise würde drei Ladestopps von 15% auf 81% erfordern, mit einer gesamten Ladezeit von 188 Minuten.
+
 ### Bordladegerät
 
 Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 12 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
@@ -133,7 +135,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisch verstellbar)
+- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
