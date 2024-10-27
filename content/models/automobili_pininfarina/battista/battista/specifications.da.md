@@ -726,14 +726,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

@@ -78,6 +78,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC rekkevidde for minimum utstyrsnivå
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC-forbruk
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
+
+### Ladeporter
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplassering
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplassering
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensjoner
 
@@ -299,7 +442,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				330 mm
+				326 mm
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hjuloppheng bak
 			</td>
 			<td>
-				Multi-link
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lane keeping
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lane departure warning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Døsighetsvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bryggekamera
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				360-kamera
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Parkeringssensorer bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Parkeringssensorer på siden
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traksjonskontroll
 			</td>
 			<td>
@@ -757,6 +900,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nattsyn
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Android Auto-støtte
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Apple Carplay-støtte
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

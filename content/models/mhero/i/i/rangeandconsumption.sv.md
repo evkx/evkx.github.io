@@ -33,6 +33,45 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP-seriens grundläggande utrustningsnivå
+				</a>
+			</td>
+			<td>
+				450 km / 280 mi
+			</td>
+			<td>
+				30,0kWh/100km / 2,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP-räckvidd max utrustningsnivå
+				</a>
+			</td>
+			<td>
+				450 km / 280 mi
+			</td>
+			<td>
+				30,0 kWh/100km / 2,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/cltc/ ">
+					CLTC-räckvidd
+				</a>
+			</td>
+			<td>
+				505 km / 314 mi 
+			</td>
+			<td>
+				26,73kWh/100km / 2,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -56,6 +95,28 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-seriens grundutrustningsnivå med 2KW AC
+			</td>
+			<td>
+				 394km / 245 mi 
+			</td>
+			<td>
+				-12,4%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-räckvidd max trimnivå med 2KW AC
+			</td>
+			<td>
+				394 km / 245 mi
+			</td>
+			<td>
+				-12,4%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

@@ -997,14 +997,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traksjonskontroll
 			</td>
 			<td>

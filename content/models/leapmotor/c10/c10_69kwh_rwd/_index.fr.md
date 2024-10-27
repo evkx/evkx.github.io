@@ -40,6 +40,10 @@ La vitesse de charge DC maximale est de 80kW. Une charge complète de 0 à 100 %
 
 Le chargeur embarqué standard prend en charge jusqu'à 6,7 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 10 heures et 0 minutes à domicile.
 
+### Port de recharge
+
+Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+
 ### Recharge bidirectionnelle
 
 Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 3,3 kW de puissance, y compris charger d'autres véhicules.

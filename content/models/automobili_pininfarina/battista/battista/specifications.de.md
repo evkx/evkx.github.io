@@ -726,14 +726,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Bremsassistent
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traktionskontrolle
 			</td>
 			<td>

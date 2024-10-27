@@ -166,6 +166,63 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 
 
+### Puerto de carga
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo puerto de carga Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Norteamérica
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Japón
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensiones
 
 <table class="table table-striped border">
@@ -784,14 +841,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		<tr>
 			<td>
 				Frenado automático de emergencia
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Asistencia de frenado
 			</td>
 			<td>
 				Sí, equipamiento estándar

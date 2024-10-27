@@ -958,14 +958,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Asistencia de frenado
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Control de tracción
 			</td>
 			<td>

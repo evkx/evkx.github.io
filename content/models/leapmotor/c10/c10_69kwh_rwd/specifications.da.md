@@ -166,6 +166,63 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 
 
+### Ladeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Typ ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Nordamerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Oceanien (Australien, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensioner
 
 <table class="table table-striped border">
@@ -784,14 +841,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		<tr>
 			<td>
 				Automatisk nødbremse
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bremseassistent
 			</td>
 			<td>
 				Ja, standardudstyr

@@ -78,6 +78,38 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-Reichweite
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC-Reichweite der Basisausstattung
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC-Verbrauch der Basisausstattung
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 </table>
 
 
+
+### Ladeanschlüsse
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeanschlussplatzierung
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Ozeanien (Australien, Neuseeland usw.)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeanschlussplatzierung
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Ozeanien (Australien, Neuseeland usw.)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Abmessungen
 
@@ -299,7 +442,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				330 mm (13,0")
+				326 mm (12,8")
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Federungstyp hinten
 			</td>
 			<td>
-				Mehrlenker
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurhalteassistent
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurverlassenswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Müdigkeitswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Rückfahrkamera
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				360-Grad-Kamera
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Hintere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Vordere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Seitliche Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Bremsassistent
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traktionskontrolle
 			</td>
 			<td>
@@ -757,6 +900,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Warnung vor Kollisionen
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Elektronische Stabilitätskontrolle
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Querverkehrsassistent
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nachtsicht
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Android Auto Unterstützung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Apple Carplay Unterstützung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

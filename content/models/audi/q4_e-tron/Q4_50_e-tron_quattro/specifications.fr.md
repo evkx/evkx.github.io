@@ -1365,14 +1365,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Assistance au freinage
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Contrôle de traction
 			</td>
 			<td>

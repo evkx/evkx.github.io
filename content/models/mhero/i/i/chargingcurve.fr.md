@@ -175,7 +175,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				?
 			</td>
 			<td>
-				?
+				3,8 km (2,4 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				?
 			</td>
 			<td>
-				?
+				3,8 km (2,4 mi)
 			</td>
 			<td>
 				?
@@ -209,7 +209,7 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 				?
 			</td>
 			<td>
-				?
+				5,1 km (3,2 mi)
 			</td>
 			<td>
 				?

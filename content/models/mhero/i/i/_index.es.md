@@ -1,7 +1,7 @@
 ---
 title: MHERO I
 linktitle: "I"
-description: "MHERO I es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta N/A km (0 millas). EVKX.net tiene todos los detalles."
+description: "MHERO I es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 450 km (280 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,13 +32,23 @@ El MHERO I entrega una impresionante potencia máxima de 800 kW (1088 hp) y un e
 
 La batería de alta capacidad tiene una capacidad bruta de 142,7 kWh y una capacidad neta utilizable de 135,0 kWh, proporcionando un buffer de 7,7 kWh (5,4%) para la protección de la batería.
 
-Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 450 km, con una tasa de consumo de energía de 30,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 118 minutos, mientras que un escenario más común del 10 al 80 % tardaría 61 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 9% al 82%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 85kW. Cada sesión de carga tardaría 69 minutos y 11 segundos.
 
 ### Cargador a bordo
 
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 12 horas y 16 minutos usando un cargador en casa.
+
 {{< sitefiguresized thumb="models/mhero/i/i/charging_1_st.jpg" title="MHERO I" width="2000" height="1333"  >}}
+
+### Puerto de carga
+
+La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador. exterior.chargeport.secondlocation.leftrearside
+
+### Carga bidireccional
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 6 kW de potencia, incluida la carga de otros vehículos.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -48,11 +58,23 @@ MHERO I tiene un sistema de tracción total sostenido por cuatro motores. Uno pa
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 250 mm y la máxima es 330 mm.
+La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 250 mm y la máxima es 326 mm.
 
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el MHERO I. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+
+### Modos de conducción
+
+El MHERO I permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 7 modos:
+
+- Watts to Freedom: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Terrain: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
+- Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
+- My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 
@@ -67,9 +89,9 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 - Neumáticos 275/65 en llantas de 20" delanteras y neumáticos 275/65 en llantas de 20" traseras
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
-Sólo hay un techo para este modelo.
+Sólo hay un techo para este modelo. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
@@ -93,6 +115,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajustable eléctricamente)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
@@ -149,7 +172,7 @@ Un tipo de sistema de sonido está disponible para el MHERO I.
 
 ## Luces
 
-lights.technology.standard
+**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
@@ -163,11 +186,22 @@ El MHERO I incluye varios [sistemas avanzados de asistencia al conductor](../../
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el MHERO I, este sistema evita que las ruedas se bloqueen durante el frenado.
 
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el MHERO I, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
+[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el MHERO I, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+
+[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el MHERO I, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el MHERO I, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el MHERO I, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 ## Seguridad
 

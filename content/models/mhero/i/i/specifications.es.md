@@ -78,6 +78,38 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Rango WLTP
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango CLTC de equipamiento básico
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo CLTC de ajuste básico
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 
+
+### Puertos de carga
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Japón
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Japón
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensiones
 
@@ -299,7 +442,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				330 mm
+				326 mm
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de suspensión trasera
 			</td>
 			<td>
-				Multienlace
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				No disponible
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Mantenerse en el carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de cambio de carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Cámara de marcha atrás
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Cámara 360
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Asistencia de frenado
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Control de tracción
 			</td>
 			<td>
@@ -757,6 +900,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Visión nocturna
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Android Auto
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Apple Carplay
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

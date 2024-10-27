@@ -175,7 +175,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				?
 			</td>
 			<td>
-				?
+				3,8 km (2,4 mi)
 			</td>
 			<td>
 				?
@@ -192,7 +192,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				?
 			</td>
 			<td>
-				?
+				3,8 km (2,4 mi)
 			</td>
 			<td>
 				?
@@ -209,7 +209,7 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 				?
 			</td>
 			<td>
-				?
+				5,1 km (3,2 mi)
 			</td>
 			<td>
 				?

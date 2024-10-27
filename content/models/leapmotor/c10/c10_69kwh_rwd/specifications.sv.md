@@ -166,6 +166,63 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 
 
+### Laddningsport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Nordamerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">
@@ -784,14 +841,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Autonom nödbromsning
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektronisk bromsassistans
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion

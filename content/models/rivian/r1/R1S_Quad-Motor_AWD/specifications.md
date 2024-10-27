@@ -846,14 +846,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Brake assist
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

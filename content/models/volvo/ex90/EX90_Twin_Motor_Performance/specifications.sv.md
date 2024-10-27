@@ -1054,14 +1054,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Elektronisk bromsassistans
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Antispinnsystem (TCS)
 			</td>
 			<td>

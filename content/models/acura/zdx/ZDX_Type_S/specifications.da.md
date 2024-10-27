@@ -826,13 +826,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

@@ -166,6 +166,63 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 
 
+### Port de charge
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tapez chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez le port de charge Amérique du Nord
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Chine
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Japon
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">
@@ -784,14 +841,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		<tr>
 			<td>
 				Freinage d'urgence automatique
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Assistance au freinage
 			</td>
 			<td>
 				Oui, équipement standard

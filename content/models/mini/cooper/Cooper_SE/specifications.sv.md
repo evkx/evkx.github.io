@@ -828,13 +828,6 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Elektronisk bromsassistans
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Antispinnsystem (TCS)
 			</td>
 			<td>

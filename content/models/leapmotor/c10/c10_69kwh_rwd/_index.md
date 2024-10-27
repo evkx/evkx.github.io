@@ -40,6 +40,10 @@ The vehicle supports fast DC charging with a maximum power of 80 kW. Charging fr
 
 The  onboard charger supports up to 6.7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 0 minutes using a home charging setup.
 
+### Charge Port
+
+Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
 ### Bidirectional Charging
 
 This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.3 kW of power, including the ability to charge other vehicles.

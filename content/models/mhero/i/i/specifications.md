@@ -78,6 +78,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC range
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC consumption
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 
+
+### Chargeports
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Chargeport placement
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Europe
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Chargeport placement
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensions
 
@@ -299,7 +442,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				330 mm (13,0")
+				326 mm (12,8")
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Suspension type rear</a>
 			</td>
 			<td>
-				Multi-link
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/lanekeepingassist/">Lane keeping</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Brake assist
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>
@@ -757,6 +900,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

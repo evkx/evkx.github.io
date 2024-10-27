@@ -1,7 +1,7 @@
 ---
 title: MHERO I
 linktitle: "I"
-description: "MHERO I ist ein vollelektrisches Luxus-SUV mit einer Reichweite von bis zu N/A km (0 Meilen). EVKX.net hat alle Details."
+description: "MHERO I ist ein vollelektrisches Luxus-SUV mit einer Reichweite von bis zu 450 km (280 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,13 +32,23 @@ Der MHERO I liefert eine atemberaubende maximale Leistung von 800 kW (1088 PS/10
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 142,7 kWh und eine nutzbare Nettokapazität von 135,0 kWh, was einen Puffer von 7,7 kWh (5,4%) zum Schutz der Batterie bietet.
 
-Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 450 km (280 Meilen) mit einem Energieverbrauch von 30,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 118 Minuten, während ein typischer Ladevorgang von 10% auf 80% 61 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 92 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 9% und 82%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 85 kW, wobei jede Ladesitzung etwa 69 Minuten und 11 Sekunden dauert.
 
 ### Bordladegerät
 
+Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 12 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
+
 {{< sitefiguresized thumb="models/mhero/i/i/charging_1_st.jpg" title="MHERO I" width="2000" height="1333"  >}}
+
+### Ladeanschluss
+
+Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side), was den Zugang an Ladestationen erleichtert, bei denen Sie parallel zum Ladegerät parken. exterior.chargeport.secondlocation.leftrearside
+
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 6 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -48,11 +58,23 @@ Der MHERO I hat ein Allradantriebssystem, das von vier Motoren unterstützt wird
 
 ### Federung
 
-Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 250 mm und die maximale 330 mm.
+Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 250 mm und die maximale 326 mm.
 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im MHERO I, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern. Zusätzlich ist die Hinterradlenkung als eine standard Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
+
+### Fahrmodi
+
+Der MHERO I ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 7 Modi wählen:
+
+- Watts to Freedom: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Terrain: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 
@@ -67,9 +89,9 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 275/65 Reifen auf 20" Felgen vorne und 275/65 Reifen auf 20" Felgen hinten
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#boot-lid) für den Kofferraum.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
-Es gibt nur eine Dachoption für dieses Modell.
+Es gibt nur eine Dachoption für dieses Modell. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
@@ -93,6 +115,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -149,7 +172,7 @@ Der MHERO I ist mit einer Soundsystemoption ausgestattet:
 
 ## Lichter
 
-lights.technology.standard
+**Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -163,11 +186,22 @@ Der MHERO I verfügt über eine Reihe von standardmäßigen und optionalen [fort
 
 [**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im MHERO I, dieses System verhindert das Blockieren der Räder beim Bremsen.
 
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im MHERO I, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
+
+[**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im MHERO I, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
+
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard im MHERO I, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
+
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im MHERO I, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im MHERO I, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
 ### Fahrautomatisierung
 
-Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
+Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 ## Sicherheit
 

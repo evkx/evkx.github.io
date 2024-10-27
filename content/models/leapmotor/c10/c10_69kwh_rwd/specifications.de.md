@@ -166,6 +166,63 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 
 
+### Ladeanschluss
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeanschluss Typ Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Nordamerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ladeanschluss Typ Ozeanien (Australien, Neuseeland usw.)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Abmessungen
 
 <table class="table table-striped border">
@@ -784,14 +841,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		<tr>
 			<td>
 				Automatische Notbremsung
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bremsassistent
 			</td>
 			<td>
 				Ja, Serienausstattung

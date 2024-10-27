@@ -828,13 +828,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Bremsassistent
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traktionskontrolle
 			</td>
 			<td>

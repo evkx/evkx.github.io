@@ -828,13 +828,6 @@ This model is available with a seat configuration with four seats.
 		</tr>
 		<tr>
 			<td>
-				Brake assist
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

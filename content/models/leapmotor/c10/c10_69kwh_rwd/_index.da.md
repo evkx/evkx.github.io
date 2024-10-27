@@ -40,6 +40,10 @@ Den maksimale DC-opladningshastighed er 80kW. En fuld opladning fra 0 - 100 % vi
 
 Den standard ombordlader understøtter op til 6,7 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 10 timer og 0 minutter ved brug af en hjemmeoplader.
 
+### Ladeport
+
+Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+
 ### Bidirektionel opladning
 
 Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 3,3 kW effekt, inklusive opladning af andre køretøjer.

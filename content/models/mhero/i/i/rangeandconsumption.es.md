@@ -33,6 +33,45 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Equipamiento básico de la gama WLTP
+				</a>
+			</td>
+			<td>
+				450 km / 280 mi
+			</td>
+			<td>
+				30,0kWh/100km / 2,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Equipamiento superior de gama WLTP
+				</a>
+			</td>
+			<td>
+				450 km / 280 mi
+			</td>
+			<td>
+				30,0 kWh/100km / 2,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/cltc/ ">
+					rango CLTC
+				</a>
+			</td>
+			<td>
+				505 km / 314 mi 
+			</td>
+			<td>
+				26,73kWh/100km / 2,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -56,6 +95,28 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Equipamiento básico gama WLTP con 2KW AC
+			</td>
+			<td>
+				 394km / 245 mi 
+			</td>
+			<td>
+				-12,4%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Equipo superior de gama WLTP con 2KW AC
+			</td>
+			<td>
+				394 km / 245 mi
+			</td>
+			<td>
+				-12,4%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

@@ -893,13 +893,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Elektronisk bromsassistans
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Antispinnsystem (TCS)
 			</td>
 			<td>

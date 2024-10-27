@@ -78,6 +78,38 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Gamme WLTP
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gamme CLTC de finition de base
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation CLTC de base
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 </table>
 
 
+
+### Ports de charge
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Placement du port de charge
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Europe
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Chine
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Japon
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Placement du port de charge
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Chine
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Japon
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensions
 
@@ -299,7 +442,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				330 mm
+				326 mm
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de suspension arrière
 			</td>
 			<td>
-				Multi-liens
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de cuisse réglable
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Maintien de la voie
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de sortie de voie
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Caméra de recul
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Caméra 360
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Assistance au freinage
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Contrôle de traction
 			</td>
 			<td>
@@ -757,6 +900,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de collision avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle électronique de stabilité
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Assistance au trafic transversal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Vision nocturne
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support Android Auto
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support Apple Carplay
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

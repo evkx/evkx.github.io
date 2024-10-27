@@ -828,13 +828,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traksjonskontroll
 			</td>
 			<td>

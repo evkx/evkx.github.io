@@ -993,14 +993,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

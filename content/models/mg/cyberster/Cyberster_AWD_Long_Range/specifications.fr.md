@@ -704,13 +704,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Assistance au freinage
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Contrôle de traction
 			</td>
 			<td>

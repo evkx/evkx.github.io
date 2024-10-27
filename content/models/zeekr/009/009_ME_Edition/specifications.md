@@ -864,14 +864,6 @@ This model is available with a seat configuration with six seats.
 		</tr>
 		<tr>
 			<td>
-				Brake assist
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

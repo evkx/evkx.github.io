@@ -704,13 +704,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traksjonskontroll
 			</td>
 			<td>

@@ -78,6 +78,38 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-område
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC range
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC-forbrug
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 </table>
 
 
+
+### Ladeporte
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplacering
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Oceanien (Australien, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplacering
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Oceanien (Australien, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensioner
 
@@ -299,7 +442,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				330 mm
+				326 mm
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Suspension type bag
 			</td>
 			<td>
-				Multi-link
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Kørebanehold
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Advarsel om vognbaneskift
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Døsighedsalarm
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bakkamera
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				360 kamera
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Parkeringssensorer bagpå
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Parkeringssensorer fra siden
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>
@@ -757,6 +900,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektronisk stabilitetskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Natsyn
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Android Auto-understøttelse
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Apple Carplay support
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

@@ -704,13 +704,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Elektronisk bromsassistans
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Antispinnsystem (TCS)
 			</td>
 			<td>

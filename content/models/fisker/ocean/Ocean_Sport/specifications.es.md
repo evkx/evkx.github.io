@@ -933,14 +933,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Asistencia de frenado
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Control de tracción
 			</td>
 			<td>

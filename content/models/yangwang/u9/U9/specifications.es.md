@@ -718,14 +718,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Asistencia de frenado
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Control de tracción
 			</td>
 			<td>

@@ -718,14 +718,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Brake assist
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Traction control
 			</td>
 			<td>

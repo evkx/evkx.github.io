@@ -40,6 +40,10 @@ Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 10
 
 Den standard ombordladdaren stöder upp till 6,7 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 10 timmar och 0 minuter med en hemmaladdare.
 
+### Laddningsport
+
+Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+
 ### Bidirektionell laddning
 
 Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.

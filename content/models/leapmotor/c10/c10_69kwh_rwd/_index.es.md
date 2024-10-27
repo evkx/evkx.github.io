@@ -40,6 +40,10 @@ La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % t
 
 El cargador a bordo estándar soporta hasta 6,7 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 10 horas y 0 minutos usando un cargador en casa.
 
+### Puerto de carga
+
+Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+
 ### Carga bidireccional
 
 Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 3,3 kW de potencia, incluida la carga de otros vehículos.

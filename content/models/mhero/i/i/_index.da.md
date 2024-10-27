@@ -1,7 +1,7 @@
 ---
 title: MHERO I
 linktitle: "I"
-description: "MHERO I er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til N/A km (0 miles). EVKX.net har alle detaljerne."
+description: "MHERO I er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 450 km (280 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,13 +32,23 @@ MHERO I leverer en imponerende maksimal effekt på 800 KW (1088 hk) og et massiv
 
 Det højkapacitetsbatteri har en bruttokapacitet på 142,7 kWh og en nettoanvendelig kapacitet på 135,0 kWh, hvilket giver en buffer på 7,7 kWh (3%) til batteribeskyttelse.
 
-For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 450 km, med et energiforbrugsrate på 30,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 118 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 61 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 9% til 82%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 85kW. Hver opladningssession ville tage 69 minutter og 11 sekunder.
 
 ### Ombordlader
 
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 12 timer og 16 minutter ved brug af en hjemmeoplader.
+
 {{< sitefiguresized thumb="models/mhero/i/i/charging_1_st.jpg" title="MHERO I" width="2000" height="1333"  >}}
+
+### Ladeport
+
+Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. exterior.chargeport.secondlocation.leftrearside
+
+### Bidirektionel opladning
+
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 6 kW effekt, inklusive opladning af andre køretøjer.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -48,11 +58,23 @@ MHERO I har et firehjulstræksystem understøttet af fire motorer. En til hvert 
 
 ### Hjulophæng
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 250 mm, og maksimum er 330 mm.
+Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 250 mm, og maksimum er 326 mm.
 
 ### Styring
 
 Dynamisk styring er en standard-funktion på MHERO I. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+
+### Køretilstande
+
+MHERO I lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
+
+- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- My Mode: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 
@@ -67,9 +89,9 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 - 275/65 dæk på 20" fælge foran og 275/65 dæk på 20" fælge bagpå
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 
-Der er kun ét tag til denne model.
+Der er kun ét tag til denne model. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
 
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
@@ -93,6 +115,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -149,7 +172,7 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ## Lys
 
-lights.technology.standard
+**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -163,11 +186,22 @@ Den MHERO I inkluderer flere standard- og valgfri [avancerede førerassistentsys
 
 [**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på MHERO I, dette system forhindrer hjulene i at låse under opbremsning.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på MHERO I, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MHERO I, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på MHERO I, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MHERO I, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på MHERO I, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
 ### Køreautomatisering
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ## Sikkerhed
 

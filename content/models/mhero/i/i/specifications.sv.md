@@ -78,6 +78,38 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-räckvidd
+			</td>
+			<td>
+				450 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-förbrukning
+			</td>
+			<td>
+				30,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC räckvidd
+			</td>
+			<td>
+				505 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC förbrukning
+			</td>
+			<td>
+				26,7 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -125,6 +157,117 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 </table>
 
 
+
+### Laddningsportar
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningsportplacering
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningsportplacering
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensions
 
@@ -299,7 +442,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				330 mm
+				326 mm
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +498,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Hjulupphängning bak
 			</td>
 			<td>
-				Multi-link
+				DoubleWishbone
 			</td>
 		</tr>
 	</tbody>
@@ -450,7 +593,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -639,6 +782,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Körfilsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -646,6 +790,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Körfilsassistans avåkningsvarnare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -653,6 +798,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Trötthetsvarnare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -660,6 +806,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				ReversingCamera
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -667,6 +814,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				360-kamera
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -681,6 +829,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -688,6 +837,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer fram
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -695,6 +845,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sidoparkeringssensorer
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -731,14 +882,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Elektronisk bromsassistans
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Antispinnsystem (TCS)
 			</td>
 			<td>
@@ -757,6 +900,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Kollisionsvarning, front
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -764,6 +908,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -771,6 +916,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Temperature Warning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +924,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Varning för korstrafik, foran
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -806,7 +953,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nattseende
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 	</tbody>
@@ -852,6 +999,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Android Auto Support
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -859,6 +1007,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Apple Carplay Support
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
