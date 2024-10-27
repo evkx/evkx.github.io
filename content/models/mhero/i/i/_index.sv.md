@@ -70,13 +70,13 @@ Dynamisk styrning är standard-funktionen för MHERO I. Dynamisk styrning varier
 
 MHERO I låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
 
-- Watts to Freedom: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
 - Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
 - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- My Mode: Anpassad styrning, fjädring och gasrespons.
+- Rock-mode: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
+- Snow mode: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Mud mode: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Individual: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
