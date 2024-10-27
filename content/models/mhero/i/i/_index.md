@@ -155,6 +155,8 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 There is one climate system available:
 
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
+
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
@@ -171,10 +173,15 @@ The MHERO I includes several features to enhance comfort and convenience:
 
 ## User Interface and Control
 
+The control interface for the MHERO I combines buttons, stalks, and screens for a seamless and user-friendly experience.
+
 Key screen details:
 
+- The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
+- The touch screen on the dashboard's center is 15.6 inches large
+- The touch screen in front of the passenger in the dashboard is 12.3 inches large
 
-The model does not include a head-up display.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mhero/i/i/screens_1_st.jpg" title="MHERO I" width="1600" height="1067"  >}}
 

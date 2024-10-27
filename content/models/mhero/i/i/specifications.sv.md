@@ -1020,6 +1020,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Head-up display
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1076,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1083,7 +1084,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 15,6
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1092,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

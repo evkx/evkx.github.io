@@ -155,6 +155,8 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Un système climatique est disponible.
 
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
@@ -171,10 +173,15 @@ L'MHERO I comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 ## Interface utilisateur et contrôle
 
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
+
 Détails clés de l'écran :
 
+- L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces
+- L'écran touch au centre du tableau de bord mesure 15,6 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 12,3 pouces
 
-Le modèle n'a pas d'affichage tête haute.
+Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/mhero/i/i/screens_1_st.jpg" title="MHERO I" width="1600" height="1067"  >}}
 

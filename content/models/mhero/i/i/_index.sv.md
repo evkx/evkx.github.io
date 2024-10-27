@@ -155,6 +155,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 Det finns ett tillgängligt klimatsystem.
 
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
@@ -171,10 +173,15 @@ MHERO I inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
 Viktiga skärmdetaljer:
 
+- Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,6 tum
+- Skärmen touch framför passageraren i instrumentbrädan är 12,3 tum
 
-Modellen är inte tillgänglig med head-up display.
+En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/mhero/i/i/screens_1_st.jpg" title="MHERO I" width="1600" height="1067"  >}}
 

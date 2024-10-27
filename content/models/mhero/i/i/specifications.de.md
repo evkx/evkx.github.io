@@ -1020,6 +1020,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Head-up-Display
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1076,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Digitales Fahrerdisplay
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1083,7 +1084,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Infotainment-Bildschirm
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 15,6"
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1092,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Infotainment-Bildschirm für den Beifahrer
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

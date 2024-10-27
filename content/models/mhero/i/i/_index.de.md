@@ -155,6 +155,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 
 Es gibt ein Klimasystem verfügbar:
 
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
+
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
 ## Komfortfunktionen
@@ -171,10 +173,15 @@ Der MHERO I umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbess
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des MHERO I kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
+
 Wichtige Bildschirmdetails:
 
+- Der -Bildschirm hinter dem Lenkrad im Armaturenbrett montiert ist 12,3 Zoll groß.
+- Der touch-Bildschirm in der Mitte des Armaturenbretts ist 15,6 Zoll groß.
+- Der touch-Bildschirm vor dem Beifahrer im Armaturenbrett ist 12,3 Zoll groß.
 
-Das Modell verfügt nicht über ein Head-up-Display.
+Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
 {{< sitefiguresized thumb="models/mhero/i/i/screens_1_st.jpg" title="MHERO I" width="1600" height="1067"  >}}
 

@@ -1020,6 +1020,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Head-up display
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1076,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1083,7 +1084,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 15,6"
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1092,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Forreste passagerinfotainmentskærm
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

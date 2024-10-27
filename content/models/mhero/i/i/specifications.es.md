@@ -1020,6 +1020,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1076,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla del controlador digital
 			</td>
 			<td>
-				No disponible
+				Sí, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1083,7 +1084,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				No disponible
+				Sí, 15,6"
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1092,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento del pasajero delantero
 			</td>
 			<td>
-				No disponible
+				Sí, 12,3"
 			</td>
 		</tr>
 		<tr>

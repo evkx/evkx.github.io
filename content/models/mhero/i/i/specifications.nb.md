@@ -1020,6 +1020,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1076,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1083,7 +1084,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 15,6
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1092,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm fremre passasjer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

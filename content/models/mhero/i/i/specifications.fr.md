@@ -1020,6 +1020,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage tête haute
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1076,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage numérique du pilote
 			</td>
 			<td>
-				Non disponible
+				Oui, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1083,7 +1084,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Non disponible
+				Oui, 15,6"
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1092,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement du passager avant
 			</td>
 			<td>
-				Non disponible
+				Oui, 12,3"
 			</td>
 		</tr>
 		<tr>

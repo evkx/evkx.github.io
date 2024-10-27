@@ -155,6 +155,8 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 Hay un sistema climático disponible.
 
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
 ## Características de confort
@@ -171,10 +173,15 @@ El MHERO I incluye varias características para mejorar la comodidad y convenien
 
 ## Interfaz de usuario y control
 
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
+
 Detalles clave de la pantalla:
 
+- La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
 
-El modelo no tiene head-up display.
+Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mhero/i/i/screens_1_st.jpg" title="MHERO I" width="1600" height="1067"  >}}
 
