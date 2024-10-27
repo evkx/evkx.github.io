@@ -315,6 +315,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				2950 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				36,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				37,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				10,2 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -354,6 +378,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse bagasjerom
+			</td>
+			<td>
+				452 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse med alle bakseter lagt ned
+			</td>
+			<td>
+				1137 liter
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +482,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				326 mm
+				335 mm
 			</td>
 		</tr>
 		<tr>
@@ -450,7 +490,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				250 mm
+				230 mm
 			</td>
 		</tr>
 		<tr>
@@ -823,6 +863,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1051,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

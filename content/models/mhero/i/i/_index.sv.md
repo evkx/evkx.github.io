@@ -58,7 +58,7 @@ MHERO I har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hj
 
 ### Hjulupphängning
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 250 mm, och maximal är 326 mm.
+Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 230 mm, och maximal är 335 mm.
 
 Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vilket underlättar in- och urstigning. När dörren stängs återgår karossen till den tidigare nivån.
 
@@ -82,8 +82,15 @@ MHERO I låter användaren välja olika [drivemodes](../../../../technology/driv
 
 ### Bromsar
 
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 343mm och de bakre skivorna är 343mm.
+
 ### Regenerativ bromsning
 
+Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+
+Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte justeras.
+
+Den maximala regenerativa effekten är 100 kW.
 
 ## Exteriör
 
@@ -150,6 +157,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 Det finns ett tillgängligt klimatsystem.
 
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
 ## Komfortfunktioner
 
 MHERO I inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -193,7 +202,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 En typ av ljudsystem är tillgänglig för MHERO I.
 
-- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+- Med Dynaudio får du 16 högtalare med en maximal systemeffekt på 500 watt.
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
@@ -219,9 +228,15 @@ MHERO I inkluderar flera [avancerade förarassistanssystem](../../../../technolo
 
 [**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på MHERO I, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på MHERO I, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
 [**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MHERO I, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
 
 [**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på MHERO I, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på MHERO I, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på MHERO I, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
 
 ### Körautomatisering
 
@@ -248,6 +263,8 @@ Dessutom är säkerhetsbältena i första och andra raden utrustade med bältess
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
+
+Bagageutrymmet erbjuder en lastkapacitet på 452 liter. Med baksätena nedfällda ökar detta till 1137 liter.
 
 Fordonets maximala vikt är 3920 kg, med en grundvikt på 3335 kg. Detta tillåter en maximal last på 585 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

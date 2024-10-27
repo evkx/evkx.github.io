@@ -315,6 +315,30 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				2950 mm (116,1")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				36,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				37,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				10,2 meter (401,6")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -354,6 +378,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				585 kg (1290 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
+			</td>
+			<td>
+				452 liter (16 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
+			</td>
+			<td>
+				1137 liter (40 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +482,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				326 mm (12,8")
+				335 mm (13,2")
 			</td>
 		</tr>
 		<tr>
@@ -450,7 +490,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				250 mm (9,8")
+				230 mm (9,1")
 			</td>
 		</tr>
 		<tr>
@@ -823,6 +863,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1051,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

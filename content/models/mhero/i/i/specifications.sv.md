@@ -315,6 +315,30 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				2950 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				36,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				37,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				10,2 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -354,6 +378,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym
+			</td>
+			<td>
+				452 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				1137 liter
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +482,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				326 mm
+				335 mm
 			</td>
 		</tr>
 		<tr>
@@ -450,7 +490,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				250 mm
+				230 mm
 			</td>
 		</tr>
 		<tr>
@@ -823,6 +863,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Varning för korstrafik, bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1051,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Apple Carplay Support
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

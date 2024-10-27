@@ -58,7 +58,7 @@ MHERO I har et firehjulsdriftssystem som støttes av fire motorer. En for hvert 
 
 ### Hjuloppheng
 
-Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 250 mm, og maksimum er 326 mm.
+Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 230 mm, og maksimum er 335 mm.
 
 Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
 
@@ -82,8 +82,15 @@ MHERO I lar brukeren velge forskjellige [kjøremoduser](../../../../technology/d
 
 ### Bremser
 
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 343mm.
+
 ### Regenerativ bremsing
 
+Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
+
+Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
+
+Den maksimale regenerative effekten er 100 kW.
 
 ## Eksteriør
 
@@ -150,6 +157,8 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 Det er ett tilgjengelig klimasystem.
 
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+
 ## Komfortfunksjoner
 
 MHERO I inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -193,7 +202,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for MHERO I.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- Med Dynaudio får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 
@@ -219,9 +228,15 @@ MHERO I inkluderer flere [avanserte førerassistanse systemer](../../../../techn
 
 [**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på MHERO I, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
+[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på MHERO I, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+
 [**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MHERO I, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på MHERO I, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på MHERO I, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på MHERO I, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
@@ -248,6 +263,8 @@ I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som str
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
+
+Bagasjerommet tilbyr en lastekapasitet på 452 liter. Med baksetene nedfelt, utvides dette til 1137 liter.
 
 Kjøretøyets maksimale vekt er 3920 kg, med en basisvekt på 3335 kg. Dette gir en maksimal lastekapasitet på 585 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

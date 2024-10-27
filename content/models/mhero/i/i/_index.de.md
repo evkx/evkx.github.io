@@ -58,7 +58,7 @@ Der MHERO I hat ein Allradantriebssystem, das von vier Motoren unterstützt wird
 
 ### Federung
 
-Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 250 mm und die maximale 326 mm.
+Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 230 mm und die maximale 335 mm.
 
 Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie auf ihr vorheriges Niveau zurück.
 
@@ -82,8 +82,15 @@ Der MHERO I ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../tec
 
 ### Bremsen
 
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 343 mm, während die hinteren Scheiben 343 mm groß sind.
+
 ### Rekuperatives Bremsen
 
+Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
+
+Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem festen Niveau. Dies kann nicht angepasst werden.
+
+Die maximale regenerative Leistung beträgt 100 kW.
 
 ## Exterieur
 
@@ -150,6 +157,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 
 Es gibt ein Klimasystem verfügbar:
 
+Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
 ## Komfortfunktionen
 
 Der MHERO I umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -193,7 +202,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der MHERO I ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Dynaudio:** Verfügt über 16 Lautsprecher und liefert eine maximale Ausgangsleistung von 500 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
 
@@ -219,9 +228,15 @@ Der MHERO I verfügt über eine Reihe von standardmäßigen und optionalen [fort
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard im MHERO I, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
 
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im MHERO I, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
 [**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im MHERO I, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im MHERO I, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
+
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im MHERO I, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im MHERO I, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
 
 ### Fahrautomatisierung
 
@@ -248,6 +263,8 @@ Zusätzlich sind die Sicherheitsgurte der ersten und zweiten Reihe mit Gurtstraf
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
+
+Der Kofferraum bietet ein Ladevolumen von 452 Litern (16,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1137 Liter (40,2 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 3920 kg (8642 lbs) bei einem Leergewicht von 3335 kg (7352 lbs). Dies ermöglicht eine maximale Zuladung von 585 kg (1290 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

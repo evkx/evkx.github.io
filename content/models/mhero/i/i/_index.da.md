@@ -58,7 +58,7 @@ MHERO I har et firehjulstræksystem understøttet af fire motorer. En til hvert 
 
 ### Hjulophæng
 
-Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 250 mm, og maksimum er 326 mm.
+Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 230 mm, og maksimum er 335 mm.
 
 Easy Entry-funktionen hæver bilens karrosseri automatisk, når en dør åbnes, hvilket letter ind- og udstigning. Når døren lukkes, vender karrosseriet tilbage til det forrige niveau.
 
@@ -82,8 +82,15 @@ MHERO I lader brugeren vælge forskellige [drive modes](../../../../technology/d
 
 ### Bremser
 
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 343mm, og de bagerste skiver er 343mm.
+
 ### Regenerativ bremsning
 
+Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+
+Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
+
+Den maksimale regenerative effekt er 100 kW.
 
 ## Udvendig
 
@@ -150,6 +157,8 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 Der er et tilgængeligt klimasystem.
 
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
 ## Komfortfunktioner
 
 MHERO I inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -193,7 +202,7 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 Én type lydsystem er tilgængelig for MHERO I.
 
-- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+- Med Dynaudio får du 16 højttalere med en maksimal systemeffekt på 500 watt.
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 
@@ -219,9 +228,15 @@ Den MHERO I inkluderer flere standard- og valgfri [avancerede førerassistentsys
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på MHERO I, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på MHERO I, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MHERO I, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på MHERO I, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på MHERO I, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på MHERO I, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
@@ -248,6 +263,8 @@ Derudover er sikkerhedsselerne i første og anden række udstyret med selestramm
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
+
+Bagagerummet har en lastekapacitet på 452 liter. Med det bageste sæde foldet ned, udvides dette til 1137 liter.
 
 Køretøjets maksimale vægt er 3920 kg, med en basisvægt på 3335 kg. Dette giver en maksimal last på 585 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

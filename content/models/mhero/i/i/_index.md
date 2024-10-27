@@ -58,7 +58,7 @@ The MHERO I has an all-wheel drive system supported by four motors. One for each
 
 ### Suspension
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 250 mm, and the maximum is 326 mm.
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 230 mm, and the maximum is 335 mm.
 
 The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
@@ -82,8 +82,15 @@ The MHERO I lets the user select different [drive modes](../../../../technology/
 
 ### Brakes
 
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
+
 ### Regenerative Braking
 
+However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+If you lift away the foot completely the regen is at one fixed level. This can't be adjusted.
+
+The maximum regenerative power is 100 kW.
 
 ## Exterior
 
@@ -150,6 +157,8 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 There is one climate system available:
 
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+
 ## Comfort Features
 
 The MHERO I includes several features to enhance comfort and convenience:
@@ -193,7 +202,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The MHERO I comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **Dynaudio:** Features 16 speakers and delivers a maximum output of 500 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -219,9 +228,15 @@ The MHERO I features a range of standard and optional [advanced driver assistanc
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the MHERO I, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the MHERO I, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the MHERO I, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the MHERO I, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the MHERO I, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the MHERO I, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -248,6 +263,8 @@ Additionally, the front and second-row seatbelts are equipped with pretensioners
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
+
+The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1137 liters (40.2 CU FT).
 
 The vehicle’s maximum weight is 3920 kg (8642 lbs), with a base weight of 3335 kg (7352 lbs). This allows for a maximum load of 585 kg (1290 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

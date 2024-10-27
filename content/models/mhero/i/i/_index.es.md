@@ -58,7 +58,7 @@ MHERO I tiene un sistema de tracción total sostenido por cuatro motores. Uno pa
 
 ### Suspensión
 
-La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 250 mm y la máxima es 326 mm.
+La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 230 mm y la máxima es 335 mm.
 
 La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
 
@@ -82,8 +82,15 @@ El MHERO I permite al usuario seleccionar diferentes [modos de conducción](../.
 
 ### Frenos
 
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 343 mm y los discos traseros de 343 mm.
+
 ### Frenado regenerativo
 
+Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+
+Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
+
+La potencia regenerativa máxima es de 100 kW.
 
 ## Exterior
 
@@ -150,6 +157,8 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 Hay un sistema climático disponible.
 
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+
 ## Características de confort
 
 El MHERO I incluye varias características para mejorar la comodidad y conveniencia:
@@ -193,7 +202,7 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Un tipo de sistema de sonido está disponible para el MHERO I.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- Con el Dynaudio, obtienes 16 parlantes con una salida máxima del sistema de 500 vatios.
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 
@@ -219,9 +228,15 @@ El MHERO I incluye varios [sistemas avanzados de asistencia al conductor](../../
 
 [**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el MHERO I, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el MHERO I, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
 [**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el MHERO I, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
 
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el MHERO I, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el MHERO I, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el MHERO I, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
@@ -248,6 +263,8 @@ Además, los cinturones de seguridad de la primera y segunda fila están equipad
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
+
+El maletero ofrece una capacidad de carga de 452 litros. Con el asiento trasero plegado, esto se expande a 1137 litros.
 
 El peso máximo del vehículo es 3920 kg, con un peso base de 3335 kg. Esto permite una carga máxima de 585 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

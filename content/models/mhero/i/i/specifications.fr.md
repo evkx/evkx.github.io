@@ -315,6 +315,30 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				2950 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux avant
+			</td>
+			<td>
+				36,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux arrière
+			</td>
+			<td>
+				37,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cercle de tournage
+			</td>
+			<td>
+				10,2 mètre
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -354,6 +378,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacité du coffre
+			</td>
+			<td>
+				452 litre
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacité du coffre avec tous les sièges arrière rabattus
+			</td>
+			<td>
+				1137 litre
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +482,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				326 mm
+				335 mm
 			</td>
 		</tr>
 		<tr>
@@ -450,7 +490,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				250 mm
+				230 mm
 			</td>
 		</tr>
 		<tr>
@@ -823,6 +863,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de trafic transversal arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1051,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Apple Carplay
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

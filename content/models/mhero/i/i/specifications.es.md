@@ -315,6 +315,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				2950 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				36,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				37,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Círculo de giro
+			</td>
+			<td>
+				10,2 metros
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -354,6 +378,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero
+			</td>
+			<td>
+				452 litro
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1137 litro
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +482,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				326 mm
+				335 mm
 			</td>
 		</tr>
 		<tr>
@@ -450,7 +490,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				250 mm
+				230 mm
 			</td>
 		</tr>
 		<tr>
@@ -823,6 +863,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1051,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte Apple Carplay
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

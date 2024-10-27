@@ -315,6 +315,30 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				2950 mm (116,1")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				36,8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				37,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wendekreis
+			</td>
+			<td>
+				10,2 Meter (401,6")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -354,6 +378,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				585 kg (1290 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen
+			</td>
+			<td>
+				452 Liter (16 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
+			</td>
+			<td>
+				1137 Liter (40 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +482,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				326 mm (12,8")
+				335 mm (13,2")
 			</td>
 		</tr>
 		<tr>
@@ -450,7 +490,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				250 mm (9,8")
+				230 mm (9,1")
 			</td>
 		</tr>
 		<tr>
@@ -823,6 +863,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Warnung vor Querverkehr hinten
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1051,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Apple Carplay Unterstützung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

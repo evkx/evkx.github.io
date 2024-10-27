@@ -58,7 +58,7 @@ MHERO I dispose d'un système de transmission intégrale pris en charge par quat
 
 ### Suspension
 
-La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 250 mm et la garde au sol maximale est de 326 mm.
+La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 230 mm et la garde au sol maximale est de 335 mm.
 
 La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
@@ -82,8 +82,15 @@ Le MHERO I permet à l'utilisateur de sélectionner différents [modes de condui
 
 ### Freins
 
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 343 mm et les disques arrière mesurent 343 mm.
+
 ### Freinage régénératif
 
+Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+
+Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
+
+La puissance régénérative maximale est de 100 kW.
 
 ## Extérieur
 
@@ -150,6 +157,8 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Un système climatique est disponible.
 
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+
 ## Caractéristiques de confort
 
 L'MHERO I comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -193,7 +202,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le MHERO I.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Dynaudio, vous obtenez 16 haut-parleurs avec une puissance système maximale de 500 watts.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 
@@ -219,9 +228,15 @@ Le MHERO I comprend plusieurs [systèmes avancés d'assistance au conducteur](..
 
 [**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le MHERO I, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
 
+[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le MHERO I, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+
 [**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le MHERO I, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
 
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le MHERO I, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+
+[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le MHERO I, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le MHERO I, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la Conduite
 
@@ -248,6 +263,8 @@ De plus, les ceintures de sécurité des première et deuxième rangées sont é
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
+
+Le coffre offre une capacité de chargement de 452 litres. Avec les sièges arrière rabattus, cette capacité passe à 1137 litres.
 
 Le poids maximum du véhicule est de 3920 kg, avec un poids de base de 3335 kg. Cela permet une charge maximale de 585 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
