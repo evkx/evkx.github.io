@@ -18,15 +18,14 @@ This feature uses a camera to track the driver's eye movements and detect signs 
 
 {{<evkxdisplayaddarticle />}}
 
-### Facial Recognition
-
-Facial recognition technology uses a camera to identify the driver's face and monitor for signs of fatigue or distraction. If the system detects that the driver is not alert, it can issue an alert or intervention to prevent accidents.
-
 ### Steering Wheel Sensors
 
-These sensors detect if the driver is holding the steering wheel and making appropriate inputs. If the system senses that the driver is not paying attention or is becoming fatigued, it can provide an alert or intervention to ensure safety.
+These sensors detect if the driver is holding the steering wheel and making appropriate inputs.  There are three types of sensors used
 
-
+- **Capacitive Sensors**: These are commonly used in modern steering wheels, particularly in advanced driver-assistance systems (ADAS). Capacitive sensors detect the presence of a driver’s hands by measuring electrical capacitance, which changes when hands touch the wheel. They’re typically placed around the rim of the wheel to ensure contact is monitored continuously.
+- **Pressure Sensors**: Pressure sensors detect physical force or grip on the wheel, which can confirm if the driver is actively holding it. These sensors are often used for safety systems, where actively gripping the wheel may be required for certain maneuvers or alerts.
+- **Torque Sensors**: While not specifically for touch detection, torque sensors detect the amount of force applied to the wheel. They can help infer driver engagement by measuring how much effort the driver is using, indirectly confirming if they are holding the wheel.
+ 
 ## How does it work
 
 While the specifics of Driver Monitoring Systems (DMS) can vary between manufacturers and models, they generally follow a similar operational pattern.
