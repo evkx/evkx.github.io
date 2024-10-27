@@ -153,6 +153,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		<tr>
 			<td>
 				Largeur hors miroirs
+			</td>
+			<td>
+				2080 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur incluant les miroirs
 			</td>
 			<td>
 				2080 mm

@@ -153,6 +153,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		<tr>
 			<td>
 				Width excluding mirrors
+			</td>
+			<td>
+				2080 mm (81,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width including mirrors
 			</td>
 			<td>
 				2080 mm (81,9")

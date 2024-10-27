@@ -153,6 +153,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nominell spänning
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		<tr>
 			<td>
 				Bredd exklusive speglar
+			</td>
+			<td>
+				2080 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredd inklusive speglar
 			</td>
 			<td>
 				2080 mm

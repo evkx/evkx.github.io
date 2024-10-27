@@ -30,7 +30,7 @@ MHERO I leverer en imponerende maksimal effekt på 800 KW (1088 hk) og et massiv
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 142,7 kWh og en nettoanvendelig kapacitet på 135,0 kWh, hvilket giver en buffer på 7,7 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 142,7 kWh og en nettoanvendelig kapacitet på 135,0 kWh, hvilket giver en buffer på 7,7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 381,68 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 450 km, med et energiforbrugsrate på 30,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -94,9 +94,12 @@ Den maksimale regenerative effekt er 100 kW.
 
 Den MHERO I, med dimensioner på 4987 mm i længde, 2080 mm i bredde og 1935 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. MHERO I fås i alt 3 lakfarver, herunder flere iøjnefaldende matte muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MHERO I, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjul i forskellige størrelser på MHERO I, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
 - 275/65 dæk på 20" fælge foran og 275/65 dæk på 20" fælge bagpå
+- 295/60 dæk on 20" fælge
+
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 

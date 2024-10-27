@@ -153,6 +153,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		<tr>
 			<td>
 				Bredde uten speil
+			</td>
+			<td>
+				2080 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredde inkludert speil
 			</td>
 			<td>
 				2080 mm

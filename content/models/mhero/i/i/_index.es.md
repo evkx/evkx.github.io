@@ -30,7 +30,7 @@ El MHERO I entrega una impresionante potencia máxima de 800 kW (1088 hp) y un e
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 142,7 kWh y una capacidad neta utilizable de 135,0 kWh, proporcionando un buffer de 7,7 kWh (5,4%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 142,7 kWh y una capacidad neta utilizable de 135,0 kWh, proporcionando un buffer de 7,7 kWh (5,4%) para la protección de la batería. Con un voltaje nominal de 381,68 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 450 km, con una tasa de consumo de energía de 30,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -94,9 +94,12 @@ La potencia regenerativa máxima es de 100 kW.
 
 El MHERO I, con dimensiones de 4987 mm de longitud, 2080 mm de anchura y 1935 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El MHERO I está disponible en un total de 3 colores de pintura, incluyendo varias opciones mate llamativas.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MHERO I, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el MHERO I, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
 - Neumáticos 275/65 en llantas de 20" delanteras y neumáticos 275/65 en llantas de 20" traseras
+- Neumáticos 295/60 en llantas de 20
+
+Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 

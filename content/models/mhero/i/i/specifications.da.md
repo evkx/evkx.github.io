@@ -153,6 +153,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		<tr>
 			<td>
 				Bredde ekskl. spejle
+			</td>
+			<td>
+				2080 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredde inklusive spejle
 			</td>
 			<td>
 				2080 mm

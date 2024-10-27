@@ -30,7 +30,7 @@ La MHERO I délivre une puissance maximale impressionnante de 800 kW (1088 ch) e
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 142,7 kWh et une capacité nette utilisable de 135,0 kWh, offrant une réserve de 7,7 kWh (5,4%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 142,7 kWh et une capacité nette utilisable de 135,0 kWh, offrant une réserve de 7,7 kWh (5,4%) pour la protection de la batterie. Avec une tension nominale de 381,68 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 450 km, avec une consommation d'énergie de 30,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -94,9 +94,12 @@ La puissance régénérative maximale est de 100 kW.
 
 La MHERO I, avec des dimensions de 4987 mm de longueur, 2080 mm de largeur et 1935 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Le MHERO I est disponible en un total de 3 couleurs de peinture, y compris plusieurs options mates frappantes.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MHERO I, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'MHERO I, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
 - Pneus 275/65 sur jantes de 20" à l'avant et pneus 275/65 sur jantes de 20" à l'arrière
+- Pneus 295/60 sur jantes de 20"
+
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 

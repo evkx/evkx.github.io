@@ -153,6 +153,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		<tr>
 			<td>
 				Ancho excluyendo espejos
+			</td>
+			<td>
+				2080 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho incluyendo espejos
 			</td>
 			<td>
 				2080 mm

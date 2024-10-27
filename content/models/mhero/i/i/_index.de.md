@@ -30,7 +30,7 @@ Der MHERO I liefert eine atemberaubende maximale Leistung von 800 kW (1088 PS/10
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 142,7 kWh und eine nutzbare Nettokapazität von 135,0 kWh, was einen Puffer von 7,7 kWh (5,4%) zum Schutz der Batterie bietet.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 142,7 kWh und eine nutzbare Nettokapazität von 135,0 kWh, was einen Puffer von 7,7 kWh (5,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 381,68 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 450 km (280 Meilen) mit einem Energieverbrauch von 30,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -94,9 +94,12 @@ Die maximale regenerative Leistung beträgt 100 kW.
 
 Der MHERO I, mit Abmessungen von 4987 mm Länge, 2080 mm Breite und 1935 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Das MHERO I ist in insgesamt 3 Lackfarben erhältlich, darunter mehrere auffällige Mattoptionen.
 
-Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den MHERO I erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+Der MHERO I bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
 - 275/65 Reifen auf 20" Felgen vorne und 275/65 Reifen auf 20" Felgen hinten
+- 295/60 Reifen auf 20" Felgen
+
+Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 

@@ -153,6 +153,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nennspannung
+			</td>
+			<td>
+				381,68
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCM|
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -302,6 +318,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		<tr>
 			<td>
 				Breite ohne Spiegel
+			</td>
+			<td>
+				2080 mm (81,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Breite inklusive Spiegel
 			</td>
 			<td>
 				2080 mm (81,9")

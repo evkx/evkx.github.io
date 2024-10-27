@@ -30,7 +30,7 @@ MHERO I leverer en imponerende maksimal effekt på 800 KW (1088 hk) og et massiv
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 142,7 kWh og en netto brukbar kapasitet på 135,0 kWh, som gir en buffer på 7,7 kWh (5,4%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 142,7 kWh og en netto brukbar kapasitet på 135,0 kWh, som gir en buffer på 7,7 kWh (5,4%) for batteribeskyttelse. Med en nominell spenning på 381,68 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 450 km, med et energiforbruk på 30,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -94,9 +94,12 @@ Den maksimale regenerative effekten er 100 kW.
 
 MHERO I, med dimensjoner på 4987 mm i lengde, 2080 mm i bredde og 1935 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. MHERO I er tilgjengelig i totalt 3 lakkfarger, inkludert flere slående matte alternativer.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MHERO I, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på MHERO I, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 - 275/65 dekk på 20" felger foran og 275/65 dekk på 20" felger bak
+- 295/60 dekk på 20" felger
+
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
 

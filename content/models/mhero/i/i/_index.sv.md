@@ -30,7 +30,7 @@ MHERO I levererar en häpnadsväckande maximal effekt på 800 KW (1088 hk) och e
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 142,7 kWh och en nettoanvändbar kapacitet på 135,0 kWh, vilket ger en buffert på 7,7 kWh (5,4%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 142,7 kWh och en nettoanvändbar kapacitet på 135,0 kWh, vilket ger en buffert på 7,7 kWh (5,4%) för batteriskydd. Med en nominell spänning på 381,68 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 450 km (199 miles), med en energiförbrukningshastighet på 30,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -94,9 +94,12 @@ Den maximala regenerativa effekten är 100 kW.
 
 MHERO I, med dimensioner på 4987 mm i längd, 2080 mm i bredd och 1935 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. MHERO I finns tillgänglig i totalt 3 färger, inklusive flera slående matta alternativ.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MHERO I, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjulalternativ i olika storlekar på MHERO I, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
 - 275/65 däck på 20" fälgar fram och 275/65 däck på 20" fälgar bak
+- 295/60 däck på 20" fälgar
+
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 

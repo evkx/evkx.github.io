@@ -30,7 +30,7 @@ The MHERO I delivers a jaw-dropping maximum power of 800 KW (1088 hp/1073 bhp) a
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 142.7 kWh and a net usable capacity of 135.0 kWh, providing a 7.7 kWh buffer (5.4%) for battery protection.
+The high-capacity battery has a gross capacity of 142.7 kWh and a net usable capacity of 135.0 kWh, providing a 7.7 kWh buffer (5.4%) for battery protection. With a nominal voltage of 381.68 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 450 km (280 miles), with an energy consumption rate of 30.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -94,9 +94,12 @@ The maximum regenerative power is 100 kW.
 
 The MHERO I, with dimensions of 4987 mm in length, 2080 mm in width, and 1935 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The MHERO I is available in a total of 3 paint colors, including several striking matte options.
 
-You can select from multiple wheel designs, all available in the same size, on the MHERO I, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+The MHERO I offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 275/65 tires on 20" rims front and 275/65 tires on 20" rims rear
+- 295/60 tires on 20" rims
+
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
