@@ -317,6 +317,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Spårbredd fram
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Främre överhängsvinkel
 			</td>
 			<td>
@@ -378,6 +394,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten taklast
+			</td>
+			<td>
+				200 kg
 			</td>
 		</tr>
 		<tr>

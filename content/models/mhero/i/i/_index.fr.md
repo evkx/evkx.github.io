@@ -84,7 +84,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
 Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
 
@@ -269,15 +269,31 @@ De plus, les ceintures de sécurité des première et deuxième rangées sont é
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 452 litres. Avec les sièges arrière rabattus, cette capacité passe à 1137 litres.
+Le coffre offre une capacité de chargement de 452 litres. Avec les sièges arrière rabattus, cette capacité passe à 1137 litres. Sur le toit, vous pouvez charger jusqu'à 200 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 3920 kg, avec un poids de base de 3335 kg. Cela permet une charge maximale de 585 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+Un attelage est un équipement standard sur ce modèle. Le poids total maximal pour une remorque freinée est de 2500, et pour une remorque non freinée, il est de 700 kg.
 
 {{< sitefiguresized thumb="models/mhero/i/i/trunk_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 19.11.2022 et les livraisons ont commencé en October 2024.
+Ce modèle a été présenté en première mondiale le 19.11.2022 et les livraisons ont commencé en January 2024.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- 1 699 000,00 NOK (Norvège)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au MHERO I qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Mercedes G 580 EQ](/models/mercedes/g/g_580_eq/)
+- [GMC Hummer EV SUV 3x](/models/gmc/hummer_ev/hummer_ev_suv_3x/)
+
+<a href="https://db.evkx.net/evcompare?evs=b84820%2c773c9a%2ce48527" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="MHERO I" f_url="rangeandconsumption/" f_title="Plage" >}}

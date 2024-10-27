@@ -317,6 +317,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bagtil
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Overhængsvinkel foran
 			</td>
 			<td>
@@ -378,6 +394,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Masser taglast
+			</td>
+			<td>
+				200 kg
 			</td>
 		</tr>
 		<tr>

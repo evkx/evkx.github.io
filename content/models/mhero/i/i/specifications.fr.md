@@ -317,6 +317,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur de la voie avant
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de voie arrière
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Angle de porte-à-faux avant
 			</td>
 			<td>
@@ -378,6 +394,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Faire du chargement sur le toit
+			</td>
+			<td>
+				200 kg
 			</td>
 		</tr>
 		<tr>

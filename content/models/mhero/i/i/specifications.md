@@ -317,6 +317,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1755 mm (69,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1755 mm (69,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Overhang angle front
 			</td>
 			<td>
@@ -378,6 +394,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				585 kg (1290 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
+			</td>
+			<td>
+				200 kg (441 lbs)
 			</td>
 		</tr>
 		<tr>

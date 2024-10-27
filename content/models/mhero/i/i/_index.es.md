@@ -84,7 +84,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
 
 Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
@@ -269,15 +269,31 @@ Además, los cinturones de seguridad de la primera y segunda fila están equipad
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 452 litros. Con el asiento trasero plegado, esto se expande a 1137 litros.
+El maletero ofrece una capacidad de carga de 452 litros. Con el asiento trasero plegado, esto se expande a 1137 litros. En el techo, puedes cargar hasta 200 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 3920 kg, con un peso base de 3335 kg. Esto permite una carga máxima de 585 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+Un enganche es equipo estándar en este modelo. El peso máximo total en un tráiler con freno es de 2500, y en uno sin freno es de 700 kg.
 
 {{< sitefiguresized thumb="models/mhero/i/i/trunk_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 19.11.2022 y las entregas comenzaron en October 2024.
+Este modelo tuvo un estreno mundial el 19.11.2022 y las entregas comenzaron en January 2024.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- 1 699 000,00 NOK (Noruega)
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al MHERO I que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Mercedes G 580 EQ](/models/mercedes/g/g_580_eq/)
+- [GMC Hummer EV SUV 3x](/models/gmc/hummer_ev/hummer_ev_suv_3x/)
+
+<a href="https://db.evkx.net/evcompare?evs=b84820%2c773c9a%2ce48527" target="_blank">Explora una comparación detallada de estos modelos.</a>
+
 {{< pagenavigation b_url="../" b_title="MHERO I" f_url="rangeandconsumption/" f_title="Rango" >}}

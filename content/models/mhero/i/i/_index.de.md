@@ -84,7 +84,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ### Rekuperatives Bremsen
 
-Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
+[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
 
 Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem festen Niveau. Dies kann nicht angepasst werden.
 
@@ -269,15 +269,31 @@ Zusätzlich sind die Sicherheitsgurte der ersten und zweiten Reihe mit Gurtstraf
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 452 Litern (16,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1137 Liter (40,2 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 452 Litern (16,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1137 Liter (40,2 CU FT). Auf dem Dach können Sie bis zu 200 kg (440,9 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 3920 kg (8642 lbs) bei einem Leergewicht von 3335 kg (7352 lbs). Dies ermöglicht eine maximale Zuladung von 585 kg (1290 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
+Eine Anhängerkupplung ist bei diesem Modell serienmäßig. Das maximale Gesamtgewicht eines gebremsten Anhängers beträgt 2500 kg und eines ungebremsten Anhängers 700 kg (5512/1543 lbs).
 
 {{< sitefiguresized thumb="models/mhero/i/i/trunk_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
 ## Verfügbarkeit & Preise
 
-Der MHERO I feierte seine Weltpremiere am 19.11.2022, mit Lieferungen ab October 2024.
+Der MHERO I feierte seine Weltpremiere am 19.11.2022, mit Lieferungen ab January 2024.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 1 699 000,00 NOK (Norwegen)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum MHERO I identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Mercedes G 580 EQ](/models/mercedes/g/g_580_eq/)
+- [GMC Hummer EV SUV 3x](/models/gmc/hummer_ev/hummer_ev_suv_3x/)
+
+<a href="https://db.evkx.net/evcompare?evs=b84820%2c773c9a%2ce48527" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="MHERO I" f_url="rangeandconsumption/" f_title="Reichweite" >}}

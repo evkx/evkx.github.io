@@ -317,6 +317,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1755 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Overhengsvinkel foran
 			</td>
 			<td>
@@ -378,6 +394,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				585 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks taklast
+			</td>
+			<td>
+				200 kg
 			</td>
 		</tr>
 		<tr>

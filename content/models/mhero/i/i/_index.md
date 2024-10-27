@@ -84,7 +84,7 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
-However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
 If you lift away the foot completely the regen is at one fixed level. This can't be adjusted.
 
@@ -269,15 +269,31 @@ Additionally, the front and second-row seatbelts are equipped with pretensioners
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1137 liters (40.2 CU FT).
+The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1137 liters (40.2 CU FT). On the roof, you can load up to 200 kg (440.9 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3920 kg (8642 lbs), with a base weight of 3335 kg (7352 lbs). This allows for a maximum load of 585 kg (1290 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2500 kg, and on and unbraked trailer, it is 700 kg (5512/1543 lbs).
 
 {{< sitefiguresized thumb="models/mhero/i/i/trunk_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
 ## Availability & Pricing
 
-The MHERO I had its world premiere on 19.11.2022, with deliveries starting in October 2024.
+The MHERO I had its world premiere on 19.11.2022, with deliveries starting in January 2024.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 1 699 000,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the MHERO I that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Mercedes G 580 EQ](/models/mercedes/g/g_580_eq/)
+- [GMC Hummer EV SUV 3x](/models/gmc/hummer_ev/hummer_ev_suv_3x/)
+
+<a href="https://db.evkx.net/evcompare?evs=b84820%2c773c9a%2ce48527" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="MHERO I" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -84,7 +84,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her. Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
 
 Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
 
@@ -269,15 +269,31 @@ I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som str
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 452 liter. Med baksetene nedfelt, utvides dette til 1137 liter.
+Bagasjerommet tilbyr en lastekapasitet på 452 liter. Med baksetene nedfelt, utvides dette til 1137 liter. På taket kan du laste opptil 200 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 3920 kg, med en basisvekt på 3335 kg. Dette gir en maksimal lastekapasitet på 585 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt for en bremsesatt tilhenger er 2500, og for en ubremset tilhenger er det 700 kg .
 
 {{< sitefiguresized thumb="models/mhero/i/i/trunk_1_st.jpg" title="MHERO I" width="3000" height="1999"  >}}
 
 ## Tilgjengelighet & pris
 
-MHERO I hadde sin verdenspremiere den 19.11.2022, med leveranser som startet i October 2024.
+MHERO I hadde sin verdenspremiere den 19.11.2022, med leveranser som startet i January 2024.
+
+### Priser
+
+Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+
+- 1 699 000,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til MHERO I som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Mercedes G 580 EQ](/models/mercedes/g/g_580_eq/)
+- [GMC Hummer EV SUV 3x](/models/gmc/hummer_ev/hummer_ev_suv_3x/)
+
+<a href="https://db.evkx.net/evcompare?evs=b84820%2c773c9a%2ce48527" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="MHERO I" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
