@@ -177,7 +177,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Ladeportplacering
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Typ ladeport Europa
 			</td>
 			<td>
-				Type2
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -231,7 +231,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Ladeportplacering
 			</td>
 			<td>
-				LeftRearSide
+				RightFrontSide
 			</td>
 		</tr>
 		<tr>
@@ -239,7 +239,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Typ ladeport Europa
 			</td>
 			<td>
-				CCS2
+				Type2
 			</td>
 		</tr>
 		<tr>

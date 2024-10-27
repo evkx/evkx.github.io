@@ -44,7 +44,7 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side), was den Zugang an Ladestationen erleichtert, bei denen Sie parallel zum Ladegerät parken. exterior.chargeport.secondlocation.leftrearside
+Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen. Ein zweiter Anschluss befindet sich an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side). Dieser zusätzliche Anschluss bietet mehr Parkmöglichkeiten für das AC-Laden.
 
 ### Bidirektionales Laden
 
@@ -58,11 +58,9 @@ Der MHERO I hat ein Allradantriebssystem, das von vier Motoren unterstützt wird
 
 ### Federung
 
-Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 230 mm und die maximale 335 mm.
+Die Vorder- und Hinterradaufhängung ist eine [Doppelquerlenkeraufhängung](../../../../technology/suspension/#double-wishbone). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 230 mm und die maximale 335 mm.
 
-Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie auf ihr vorheriges Niveau zurück.
-
-Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
+Die Easy Entry-Funktion senkt die Karosserie des Fahrzeugs automatisch ab, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie in ihre vorherige Position zurück.
 
 ### Lenkung
 
@@ -94,7 +92,7 @@ Die maximale regenerative Leistung beträgt 100 kW.
 
 ## Exterieur
 
-Der MHERO I, mit Abmessungen von 4987 mm Länge, 2080 mm Breite und 1935 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. exterior.paintcolors_matte
+Der MHERO I, mit Abmessungen von 4987 mm Länge, 2080 mm Breite und 1935 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Das MHERO I ist in insgesamt 3 Lackfarben erhältlich, darunter mehrere auffällige Mattoptionen.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den MHERO I erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -102,7 +100,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
-Es gibt nur eine Dachoption für dieses Modell. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoramadach. Das Glas besteht aus zwei Paneelen. Eines über der ersten und das zweite über der zweiten Reihe, und die Insassen können beide nutzen. Dieses Glas lässt den Innenraum des Fahrzeugs geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Beide Glasscheiben haben einen manuellen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -184,7 +182,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der MHERO I ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- uicontrols.steeringwheel.infotainment
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über einen flachen Boden, der ein sportliches Aussehen und Gefühl vermittelt. Es enthält auch physische Tasten und Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
 
 ### Spiegel
 
@@ -248,7 +246,7 @@ Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktion
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), sechs [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 ## Sicherheit
 

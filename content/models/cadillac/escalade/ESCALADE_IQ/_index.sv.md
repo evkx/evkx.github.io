@@ -60,7 +60,7 @@ Cadillac ESCALADE IQ har ett fyrhjulsdriftsystem som stöds av två motorer, en 
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 152 mm, och maximal är 250 mm.
 
-Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vilket underlättar in- och urstigning. När dörren stängs återgår karossen till den tidigare nivån.
+Easy Entry-funktionen sänker bilens kaross automatiskt när en dörr öppnas, vilket underlättar enklare in- och urstigning. När dörren stängs återgår karossen till sin tidigare nivå.
 
 För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 

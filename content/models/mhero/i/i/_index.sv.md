@@ -44,7 +44,7 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren. exterior.chargeport.secondlocation.leftrearside
+Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. En andra port finns på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning.
 
 ### Bidirektionell laddning
 
@@ -58,11 +58,9 @@ MHERO I har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hj
 
 ### Hjulupphängning
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 230 mm, och maximal är 335 mm.
+Fram- och bakfjädringen är [dubbel wishbone](../../../../technology/suspension/#double-wishbone). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 230 mm, och maximal är 335 mm.
 
-Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vilket underlättar in- och urstigning. När dörren stängs återgår karossen till den tidigare nivån.
-
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
+Easy Entry-funktionen sänker bilens kaross automatiskt när en dörr öppnas, vilket underlättar enklare in- och urstigning. När dörren stängs återgår karossen till sin tidigare nivå.
 
 ### Styrning
 
@@ -94,7 +92,7 @@ Den maximala regenerativa effekten är 100 kW.
 
 ## Exteriör
 
-MHERO I, med dimensioner på 4987 mm i längd, 2080 mm i bredd och 1935 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. exterior.paintcolors_matte
+MHERO I, med dimensioner på 4987 mm i längd, 2080 mm i bredd och 1935 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. MHERO I finns tillgänglig i totalt 3 färger, inklusive flera slående matta alternativ.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MHERO I, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -102,7 +100,7 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 
-Det finns bara ett tak för denna modell. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
+Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset har två paneler. En över första och andra raden, och passagerarna kan båda. Detta glas gör bilens interiör mer rymlig och ljus, vilket kan förbättra passagerarnas humör och komfort. Båda glaspanelerna har en manuell gardin som passagerarna kan använda för att skydda mot solen.
 
 B-stolpen och vyerna bak är tonade.
 
@@ -184,7 +182,7 @@ Modellen är inte tillgänglig med head-up display.
 
 MHERO I är utrustad med en enda typ av ratt:
 
-- uicontrols.steeringwheel.infotainment
+- **Cirkulär Ratt:** Denna ratt har en platt botten, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar och rullhjul, vilket gör att du kan styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 
@@ -248,7 +246,7 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 ### Sensorer & Kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
-driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), sex [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhet
 

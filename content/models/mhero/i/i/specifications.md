@@ -177,7 +177,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Chargeport placement
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport Europe
 			</td>
 			<td>
-				Type2
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -231,7 +231,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Chargeport placement
 			</td>
 			<td>
-				LeftRearSide
+				RightFrontSide
 			</td>
 		</tr>
 		<tr>
@@ -239,7 +239,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport Europe
 			</td>
 			<td>
-				CCS2
+				Type2
 			</td>
 		</tr>
 		<tr>

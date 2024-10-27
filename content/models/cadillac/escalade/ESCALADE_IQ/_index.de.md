@@ -60,7 +60,7 @@ Der Cadillac ESCALADE IQ verfügt über ein Allradantriebssystem, das von zwei M
 
 Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 152 mm und die maximale 250 mm.
 
-Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie auf ihr vorheriges Niveau zurück.
+Die Easy Entry-Funktion senkt die Karosserie des Fahrzeugs automatisch ab, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie in ihre vorherige Position zurück.
 
 Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
 

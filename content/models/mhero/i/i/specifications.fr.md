@@ -177,7 +177,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Placement du port de charge
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tapez chargeport Europe
 			</td>
 			<td>
-				Type2
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -231,7 +231,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Placement du port de charge
 			</td>
 			<td>
-				LeftRearSide
+				RightFrontSide
 			</td>
 		</tr>
 		<tr>
@@ -239,7 +239,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tapez chargeport Europe
 			</td>
 			<td>
-				CCS2
+				Type2
 			</td>
 		</tr>
 		<tr>

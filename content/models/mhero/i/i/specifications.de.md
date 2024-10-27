@@ -177,7 +177,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschlussplatzierung
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschluss Typ Europa
 			</td>
 			<td>
-				Type2
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -231,7 +231,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschlussplatzierung
 			</td>
 			<td>
-				LeftRearSide
+				RightFrontSide
 			</td>
 		</tr>
 		<tr>
@@ -239,7 +239,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschluss Typ Europa
 			</td>
 			<td>
-				CCS2
+				Type2
 			</td>
 		</tr>
 		<tr>

@@ -44,7 +44,7 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador. exterior.chargeport.secondlocation.leftrearside
+La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Hay un segundo puerto en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Este puerto adicional te ofrece más opciones de estacionamiento para la carga de CA.
 
 ### Carga bidireccional
 
@@ -58,11 +58,9 @@ MHERO I tiene un sistema de tracción total sostenido por cuatro motores. Uno pa
 
 ### Suspensión
 
-La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 230 mm y la máxima es 335 mm.
+La suspensión delantera y trasera es de [doble horquilla](../../../../technology/suspension/#double-wishbone). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 230 mm y la máxima es 335 mm.
 
-La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
-
-Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
+La función Easy Entry baja automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que la puerta se cierra, la carrocería vuelve a su nivel anterior.
 
 ### Dirección
 
@@ -94,7 +92,7 @@ La potencia regenerativa máxima es de 100 kW.
 
 ## Exterior
 
-El MHERO I, con dimensiones de 4987 mm de longitud, 2080 mm de anchura y 1935 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. exterior.paintcolors_matte
+El MHERO I, con dimensiones de 4987 mm de longitud, 2080 mm de anchura y 1935 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El MHERO I está disponible en un total de 3 colores de pintura, incluyendo varias opciones mate llamativas.
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MHERO I, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -102,7 +100,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
-Sólo hay un techo para este modelo. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
+Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden ambos. Este vidrio hace que el interior del coche se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de vidrio tienen una cortina manual que los ocupantes pueden usar para protegerse del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
@@ -184,7 +182,7 @@ El modelo no tiene head-up display.
 
 El MHERO I está equipado con un solo tipo de volante:
 
-- uicontrols.steeringwheel.infotainment
+- **Volante Circular:** Este volante presenta un fondo plano, proporcionando un aspecto y sensación deportiva. También incluye botones físicos y ruedas de desplazamiento, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
@@ -248,7 +246,7 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), seis [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 ## Seguridad
 

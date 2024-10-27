@@ -177,7 +177,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ubicación del puerto de carga
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo puerto de carga Europa
 			</td>
 			<td>
-				Type2
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -231,7 +231,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ubicación del puerto de carga
 			</td>
 			<td>
-				LeftRearSide
+				RightFrontSide
 			</td>
 		</tr>
 		<tr>
@@ -239,7 +239,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo puerto de carga Europa
 			</td>
 			<td>
-				CCS2
+				Type2
 			</td>
 		</tr>
 		<tr>

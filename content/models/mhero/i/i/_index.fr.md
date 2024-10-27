@@ -44,7 +44,7 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. exterior.chargeport.secondlocation.leftrearside
+L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Un deuxième port se trouve sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC.
 
 ### Recharge bidirectionnelle
 
@@ -58,11 +58,9 @@ MHERO I dispose d'un système de transmission intégrale pris en charge par quat
 
 ### Suspension
 
-La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 230 mm et la garde au sol maximale est de 335 mm.
+La suspension avant et arrière est à [double triangulation](../../../../technology/suspension/#double-wishbone). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 230 mm et la garde au sol maximale est de 335 mm.
 
-La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
-
-Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
+La fonction Easy Entry abaisse automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
 ### Pilotage
 
@@ -94,7 +92,7 @@ La puissance régénérative maximale est de 100 kW.
 
 ## Extérieur
 
-La MHERO I, avec des dimensions de 4987 mm de longueur, 2080 mm de largeur et 1935 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. exterior.paintcolors_matte
+La MHERO I, avec des dimensions de 4987 mm de longueur, 2080 mm de largeur et 1935 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Le MHERO I est disponible en un total de 3 couleurs de peinture, y compris plusieurs options mates frappantes.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MHERO I, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -102,7 +100,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 
-Il n'y a qu'un seul toit pour ce modèle. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
+Il n'y a qu'un seul toit pour ce modèle. Le toit standard est un toit panoramique. Le verre est composé de deux panneaux. L'un au-dessus des première et deuxième rangées, et les occupants peuvent les utiliser. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau manuel que les occupants peuvent utiliser pour se protéger du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées.
 
@@ -184,7 +182,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le MHERO I est équipé d'un seul type de volant :
 
-- uicontrols.steeringwheel.infotainment
+- **Volant Circulaire:** Ce volant présente un fond plat, offrant un look et une sensation sportive. Il comprend également des boutons physiques et des molettes de défilement, vous permettant de contrôler le système d'infodivertissement, d'ajuster le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
@@ -248,7 +246,7 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 ### Capteurs & Caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), six [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Sécurité
 

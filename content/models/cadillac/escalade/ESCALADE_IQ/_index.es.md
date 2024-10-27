@@ -60,7 +60,7 @@ Cadillac ESCALADE IQ tiene un sistema de tracción total sostenido por dos motor
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 152 mm y la máxima es 250 mm.
 
-La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
+La función Easy Entry baja automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que la puerta se cierra, la carrocería vuelve a su nivel anterior.
 
 Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
 

@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. exterior.chargeport.secondlocation.leftrearside
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging.
 
 ### Bidirectional Charging
 
@@ -58,11 +58,9 @@ The MHERO I has an all-wheel drive system supported by four motors. One for each
 
 ### Suspension
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 230 mm, and the maximum is 335 mm.
+The front and rear suspension is [double wishbone](../../../../technology/suspension/#double-wishbone). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 230 mm, and the maximum is 335 mm.
 
-The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
-
-For easier loading, you can lower the air suspension from the rear
+The Easy Entry function lowers the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
 ### Steering
 
@@ -94,7 +92,7 @@ The maximum regenerative power is 100 kW.
 
 ## Exterior
 
-The MHERO I, with dimensions of 4987 mm in length, 2080 mm in width, and 1935 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. exterior.paintcolors_matte
+The MHERO I, with dimensions of 4987 mm in length, 2080 mm in width, and 1935 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The MHERO I is available in a total of 3 paint colors, including several striking matte options.
 
 You can select from multiple wheel designs, all available in the same size, on the MHERO I, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -102,7 +100,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
-There is only one roof option for this model. exterior.roof.standard.panoramic.TwoSeperatePartPartialFrontOpen.ManualCurtain
+There is only one roof option for this model. The standard roof has a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can both. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have a manual curtain that occupants can use to protect against the sun.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -184,7 +182,7 @@ The model does not include a head-up display.
 
 The MHERO I is equipped with a single type of steering wheel:
 
-- uicontrols.steeringwheel.infotainment
+- **Circular Steering Wheel:** This steering wheel features a flat bottom, providing a sporty look and feel. It also includes physical buttons and scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -248,7 +246,7 @@ With the   level 2 system, you get the following driving automation features.
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-driverassistance.CameraRadarUltrasonic.FalseTrueFalseFalse
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), six [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Safety
 

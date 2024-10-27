@@ -60,7 +60,7 @@ Cadillac ESCALADE IQ har et firehjulsdriftssystem som støttes av to motorer, en
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 152 mm, og maksimum er 250 mm.
 
-Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
+Easy Entry-funksjonen senker bilens karosseri automatisk når en dør åpnes, noe som gjør det lettere å komme inn og ut. Når døren lukkes, går karosseriet tilbake til sitt forrige nivå.
 
 For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
 
