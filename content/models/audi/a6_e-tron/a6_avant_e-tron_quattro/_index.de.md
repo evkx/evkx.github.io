@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 720 km (448 Meilen). EVKX.net hat alle Details."
+description: "Audi A6 Avant e-tron quattro ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 679 km (422 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Mit Overboost erreicht der Audi A6 Avant e-tron quattro eine maximale Leistung v
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 94,9 kWh, was einen Puffer von 5,1 kWh (5,1%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 662 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 720 und 627 km (448-390 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 13,2 kWh/100 km für das Basismodell und 15,1 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 679 und 600 km (422-373 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,0 kWh/100 km für das Basismodell und 15,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 270 kW. Das Laden von 0% auf 100% dauert etwa 60 Minuten, während ein typischer Ladevorgang von 10% auf 80% 21 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 192 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 62%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 169 kW, wobei jede Ladesitzung etwa 21 Minuten und 36 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Audi A6 Avant e-tron quattro zu einer bequemen Option für Langstreckenreisen.
 

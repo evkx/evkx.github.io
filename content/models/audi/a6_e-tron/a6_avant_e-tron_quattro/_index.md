@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro is an all-electric premium station wagon with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details."
+description: "Audi A6 Avant e-tron quattro is an all-electric premium station wagon with a WLTP range of up to 679 km (422 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ With overboost, the Audi A6 Avant e-tron quattro reaches a maximum power of 340 
 
 The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 94.9 kWh, providing a 5.1 kWh buffer (5.1%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 720 to 627 km (448-390 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.2 kWh/100 km for the base model and 15.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 679 to 600 km (422-373 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.0 kWh/100 km for the base model and 15.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 60 minutes, while a more typical scenario from 10% to 80% takes 21 minutes with an average charging speed of 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 169 kW, with each charging session taking about 21 minutes and 36 seconds. This efficient charging capability makes the Audi A6 Avant e-tron quattro a convenient option for long-distance travel.
 

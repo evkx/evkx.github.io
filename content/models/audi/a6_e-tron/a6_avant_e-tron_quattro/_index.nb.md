@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 720 km. EVKX.net har alle detaljene."
+description: "Audi A6 Avant e-tron quattro er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 679 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Med overboost når Audi A6 Avant e-tron quattro en maksimal effekt på 340 kW (4
 
 Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 94,9 kWh, som gir en buffer på 5,1 kWh (5,1%) for batteribeskyttelse. Ved å operere med en nominell spenning på 662 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 720 og 627 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,2 kWh/100 km for basismodellen og 15,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 679 og 600 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,0 kWh/100 km for basismodellen og 15,8 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 60 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 169kW. Hver ladeøkt vil ta 21 minutter og 36 sekunder. Denne effektive ladekapasiteten gjør Audi A6 Avant e-tron quattro til et praktisk valg for langdistansereiser.
 
