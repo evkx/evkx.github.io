@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi A6 e-tron er en premium sedan /stasjonsvogn tilgjengelig i 4 varianter.
+Audi A6 e-tron er en premium sedan /stasjonsvogn tilgjengelig i 5 varianter.
 </p>
 	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

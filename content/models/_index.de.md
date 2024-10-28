@@ -237,7 +237,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 		Audi ist ein deutscher Automobilhersteller, der Teil des Volkswagen-Konzerns ist. Es ist bekannt für seine Premium- und Sportfahrzeuge sowie für seinen Slogan 'Vorsprung durch Technik', was 'Fortschritt durch Technik' bedeutet.
 	</p>
 	<p>
-	Audi hat 6 Modelle mit insgesamt 46 Varianten.
+	Audi hat 6 Modelle mit insgesamt 47 Varianten.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gehe zu Audi EV-Modellübersicht</a>
 </div>

@@ -246,7 +246,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'.
 	</p>
 	<p>
-	Audi has 6 models with total 46 variants.
+	Audi has 6 models with total 47 variants.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Go to Audi EV-model overview</a>
 </div>

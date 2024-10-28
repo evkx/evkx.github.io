@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-23cd8de8
+  translation: Audi A6 Avant e-tron quattro is an all-electric premium station wagon with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details.
+
 - id: frontpage-description-0312d4d7
   translation: MHERO I is an all-electric luxury SUV with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-2c5cba1f
   translation: Tesla Model 3 Long Range RWD is an all-electric sedan with a WLTP range of up to 702 km (436 miles). EVKX.net has all the details.
-
-- id: frontpage-description-eaf82671
-  translation: Lexus RZ 300e is an all-electric SUV with a WLTP range of up to 480 km (298 miles). EVKX.net has all the details.
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-23cd8de8
+  translation: Audi A6 Avant e-tron quattro er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 720 km (448 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-0312d4d7
   translation: MHERO I er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 450 km (280 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-2c5cba1f
   translation: Tesla Model 3 Long Range RWD er en fuldelektrisk sedan med en WLTP rækkevidde på op til 702 km (436 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-eaf82671
-  translation: Lexus RZ 300e er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 480 km (298 miles). EVKX.net har alle detaljerne.
 

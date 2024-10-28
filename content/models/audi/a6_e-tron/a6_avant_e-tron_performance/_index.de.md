@@ -329,7 +329,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 502 Litern (17,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1422 Liter (50,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 27 Litern (1,0 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 502 Litern (17,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1422 Liter (50,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 27 Litern (1,0 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2760 kg (6085 lbs) bei einem Leergewicht von 2185 kg (4817 lbs). Dies ermöglicht eine maximale Zuladung von 575 kg (1268 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

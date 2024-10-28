@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Oh Boy… Hyundai’s Driver Assistance Is Better But Still Needs Major Work! IONIQ 6 Hogback Challenge</h3>
+<p>Out of Spec Reviews: 27.10.2024</p>
+
+{{< youtube H7EPxMVOFCY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai IONIQ 6 SE Has Such Crazy Fast Charging It Scores A Huge Result In Our 10% EV Challenge!</h3>
+<p>Out of Spec Reviews: 26.10.2024</p>
+
+{{< youtube fhNiC6DGZSU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Highway Range Test Battle! Tesla Model 3 Long Range RWD vs Hyundai IONIQ 6 SE</h3>
 <p>Out of Spec Reviews: 11.10.2024</p>
 

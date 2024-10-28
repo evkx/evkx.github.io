@@ -328,7 +328,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 502 liter. Med baksätena nedfällda ökar detta till 1422 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 27 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 502 liter. Med baksätena nedfällda ökar detta till 1422 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 27 liter.
 
 Fordonets maximala vikt är 2880 kg, med en grundvikt på 2335 kg. Detta tillåter en maximal last på 545 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

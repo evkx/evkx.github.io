@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-23cd8de8
+  translation: Audi A6 Avant e-tron quattro est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 720 km (448 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-0312d4d7
   translation: MHERO I est un SUV de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 450 km (280 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-2c5cba1f
   translation: Tesla Model 3 Long Range RWD est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 702 km (436 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-eaf82671
-  translation: Lexus RZ 300e est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 480 km (298 miles). EVKX.net a tous les détails.
 

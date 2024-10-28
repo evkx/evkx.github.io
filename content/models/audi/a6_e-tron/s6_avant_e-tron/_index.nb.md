@@ -328,7 +328,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 502 liter. Med baksetene nedfelt, utvides dette til 1422 liter. På taket kan du laste opptil 75 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 27 liter.
+Bagasjerommet tilbyr en lastekapasitet på 502 liter. Med baksetene nedfelt, utvides dette til 1422 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 27 liter.
 
 Kjøretøyets maksimale vekt er 2880 kg, med en basisvekt på 2335 kg. Dette gir en maksimal lastekapasitet på 545 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

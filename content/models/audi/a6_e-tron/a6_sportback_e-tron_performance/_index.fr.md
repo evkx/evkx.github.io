@@ -331,7 +331,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 502 litres. Avec les sièges arrière rabattus, cette capacité passe à 1330 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 27 litres.
+Le coffre offre une capacité de chargement de 502 litres. Avec les sièges arrière rabattus, cette capacité passe à 1330 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 27 litres.
 
 Le poids maximum du véhicule est de 2750 kg, avec un poids de base de 2175 kg. Cela permet une charge maximale de 575 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
