@@ -346,15 +346,15 @@ Dieses Modell feierte seine Weltpremiere am 31.07.2024, mit erwarteten Lieferung
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
 - €77 250,00 (Deutschland)
-- 777 900,00 NOK (Norwegen)
+- 759 900,00 NOK (Norwegen)
 
 ## Alternative Modelle
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi A6 Avant e-tron quattro identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [BMW i5 eDrive40 Touring](/models/bmw/i5/i5_edrive40_touring/)
-- [Volkswagen ID.7 Tourer Pro S](/models/volkswagen/id.7/id.7_tourer_pro_s/)
+- [BMW i5 xDrive40](/models/bmw/i5/i5_xdrive40/)
+- [Volkswagen ID.7 GTX Tourer](/models/volkswagen/id.7/id.7_gtx_tourer/)
 
-<a href="https://db.evkx.net/evcompare?evs=885ba5%2c0e264c%2ce954a2" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=885ba5%2c362fc0%2c3edb7f" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Reichweite" >}}
