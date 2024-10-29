@@ -112,8 +112,11 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-f4b73295
+  translation: Audi A6 Avant e-tron er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 598 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-23cd8de8
-  translation: Audi A6 Avant e-tron quattro er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 679 km. EVKX.net har alle detaljene.
+  translation: Audi A6 Avant e-tron quattro er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 685 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-0312d4d7
   translation: MHERO I er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-59a38dcc
   translation: Chevrolet Blazer EV RS RWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-2c5cba1f
-  translation: Tesla Model 3 Long Range RWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 702 km. EVKX.net har alle detaljene.
 

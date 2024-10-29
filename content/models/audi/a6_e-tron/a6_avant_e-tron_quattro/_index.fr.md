@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 679 km (422 miles). EVKX.net a tous les détails."
+description: "Audi A6 Avant e-tron quattro est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 685 km (426 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Avec overboost, l'Audi A6 Avant e-tron quattro atteint une puissance maximale de
 
 La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité nette utilisable de 94,9 kWh, offrant une réserve de 5,1 kWh (5,1%) pour la protection de la batterie. Fonctionnant à une tension nominale de 662 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 679 et 600 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,0 kWh/100 km pour le modèle de base et à 15,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 685 et 605 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,9 kWh/100 km pour le modèle de base et à 15,7 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 60 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 21 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 62 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 169kW. Chaque session de charge prendrait 21 minutes et 36 secondes. Cette capacité de charge efficace fait de l'Audi A6 Avant e-tron quattro une option pratique pour les voyages longue distance.
 
@@ -50,7 +50,7 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-Audi A6 Avant e-tron quattro dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Audi A6 Avant e-tron quattro dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 ### Suspension
 
@@ -331,7 +331,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 Le coffre offre une capacité de chargement de 502 litres. Avec les sièges arrière rabattus, cette capacité passe à 1422 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 27 litres.
 
-Le poids maximum du véhicule est de 2760 kg, avec un poids de base de 2185 kg. Cela permet une charge maximale de 575 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2870 kg, avec un poids de base de 2295 kg. Cela permet une charge maximale de 575 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2100 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 

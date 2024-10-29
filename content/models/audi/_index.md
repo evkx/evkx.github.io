@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi A6 e-tron is a premium sedan /station wagon available in 5 variants.
+Audi A6 e-tron is a premium sedan /station wagon available in 6 variants.
 </p>
 	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

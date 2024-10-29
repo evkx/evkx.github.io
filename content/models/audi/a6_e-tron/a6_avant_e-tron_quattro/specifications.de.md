@@ -71,7 +71,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Avant e-tr
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,1 s
+				4,7 s
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Basisausstattung
 			</td>
 			<td>
-				679 km
+				685 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				14,0 kWh/100km
+				13,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
 			</td>
 			<td>
-				14,8 kWh/100km
+				15,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Top-Ausstattung
 			</td>
 			<td>
-				600 km
+				605 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				15,8 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
 			</td>
 			<td>
-				17,0 kwh/100km
+				17,5 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -400,7 +400,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite inklusive Spiegel
 			</td>
 			<td>
-				2193 mm (86,3")
+				2137 mm (84,1")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Radstand
 			</td>
 			<td>
-				2946 mm (116,0")
+				2950 mm (116,1")
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Luftwiderstandsbeiwert
 			</td>
 			<td>
-				0,24
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Überhangwinkel vorne
 			</td>
 			<td>
-				16,3
+				14,3
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Überhangwinkel hinten
 			</td>
 			<td>
-				23,7
+				19,1
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2185 kg (4817 lbs)
+				2295 kg (5060 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2760 kg (6085 lbs)
+				2870 kg (6327 lbs)
 			</td>
 		</tr>
 		<tr>

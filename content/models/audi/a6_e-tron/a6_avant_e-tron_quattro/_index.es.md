@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 679 km (422 millas). EVKX.net tiene todos los detalles."
+description: "Audi A6 Avant e-tron quattro es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 685 km (426 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Con overboost, el Audi A6 Avant e-tron quattro alcanza una potencia máxima de 3
 
 La batería de alta capacidad tiene una capacidad bruta de 100,0 kWh y una capacidad neta utilizable de 94,9 kWh, proporcionando un buffer de 5,1 kWh (5,1%) para la protección de la batería. Operando a un voltaje nominal de 662 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 679 y 600 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,0 kWh/100 km para el modelo base y 15,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 685 y 605 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,9 kWh/100 km para el modelo base y 15,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 60 minutos, mientras que un escenario más común del 10 al 80 % tardaría 21 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 62%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 169kW. Cada sesión de carga tardaría 21 minutos y 36 segundos. Esta capacidad de carga eficiente hace que el Audi A6 Avant e-tron quattro sea una opción conveniente para viajes de larga distancia.
 
@@ -50,7 +50,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 ## Tren de transmisión
 
-Audi A6 Avant e-tron quattro tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Audi A6 Avant e-tron quattro tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
 ### Suspensión
 
@@ -331,7 +331,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 El maletero ofrece una capacidad de carga de 502 litros. Con el asiento trasero plegado, esto se expande a 1422 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 27 litros.
 
-El peso máximo del vehículo es 2760 kg, con un peso base de 2185 kg. Esto permite una carga máxima de 575 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2870 kg, con un peso base de 2295 kg. Esto permite una carga máxima de 575 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2100 kg, mientras que para un tráiler sin freno es de 750 kg.
 

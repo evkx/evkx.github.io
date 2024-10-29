@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 679 km (422 Meilen). EVKX.net hat alle Details."
+description: "Audi A6 Avant e-tron quattro ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 685 km (426 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Mit Overboost erreicht der Audi A6 Avant e-tron quattro eine maximale Leistung v
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 94,9 kWh, was einen Puffer von 5,1 kWh (5,1%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 662 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 679 und 600 km (422-373 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,0 kWh/100 km für das Basismodell und 15,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 685 und 605 km (426-376 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 13,9 kWh/100 km für das Basismodell und 15,7 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 270 kW. Das Laden von 0% auf 100% dauert etwa 60 Minuten, während ein typischer Ladevorgang von 10% auf 80% 21 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 192 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 62%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 169 kW, wobei jede Ladesitzung etwa 21 Minuten und 36 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Audi A6 Avant e-tron quattro zu einer bequemen Option für Langstreckenreisen.
 
@@ -50,7 +50,7 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 
 ## Antriebsstrang
 
-Der Audi A6 Avant e-tron quattro hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
+Der Audi A6 Avant e-tron quattro hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Die verwendeten Motoren sind [Induktionsmotoren](../../../../technology/motors/asm/) an der Vorderachse und [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/) an der Hinterachse.
 
 ### Federung
 
@@ -331,7 +331,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 Der Kofferraum bietet ein Ladevolumen von 502 Litern (17,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1422 Liter (50,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 27 Litern (1,0 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 2760 kg (6085 lbs) bei einem Leergewicht von 2185 kg (4817 lbs). Dies ermöglicht eine maximale Zuladung von 575 kg (1268 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2870 kg (6327 lbs) bei einem Leergewicht von 2295 kg (5060 lbs). Dies ermöglicht eine maximale Zuladung von 575 kg (1268 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2100 kg (4630 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

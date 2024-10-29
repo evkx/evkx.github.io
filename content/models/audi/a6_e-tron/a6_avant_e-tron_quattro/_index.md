@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron quattro
 linktitle: "A6 Avant e-tron quattro"
-description: "Audi A6 Avant e-tron quattro is an all-electric premium station wagon with a WLTP range of up to 679 km (422 miles). EVKX.net has all the details."
+description: "Audi A6 Avant e-tron quattro is an all-electric premium station wagon with a WLTP range of up to 685 km (426 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ With overboost, the Audi A6 Avant e-tron quattro reaches a maximum power of 340 
 
 The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 94.9 kWh, providing a 5.1 kWh buffer (5.1%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 679 to 600 km (422-373 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.0 kWh/100 km for the base model and 15.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 685 to 605 km (426-376 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.9 kWh/100 km for the base model and 15.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 60 minutes, while a more typical scenario from 10% to 80% takes 21 minutes with an average charging speed of 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 169 kW, with each charging session taking about 21 minutes and 36 seconds. This efficient charging capability makes the Audi A6 Avant e-tron quattro a convenient option for long-distance travel.
 
@@ -50,7 +50,7 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ## Drivetrain
 
-The Audi A6 Avant e-tron quattro has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Audi A6 Avant e-tron quattro has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -331,7 +331,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 The trunk offers a cargo capacity of 502 liters (17.7 CU FT). With the rear seat folded down, this expands to 1422 liters (50.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 27 liters (1.0 CU FT).
 
-The vehicle’s maximum weight is 2760 kg (6085 lbs), with a base weight of 2185 kg (4817 lbs). This allows for a maximum load of 575 kg (1268 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2870 kg (6327 lbs), with a base weight of 2295 kg (5060 lbs). This allows for a maximum load of 575 kg (1268 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2100 kg (4630 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
