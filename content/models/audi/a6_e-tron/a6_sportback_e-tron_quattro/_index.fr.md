@@ -56,9 +56,9 @@ Audi A6 Sportback e-tron quattro dispose d'un système de transmission intégral
 
 ### Suspension
 
-La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 105 mm et la garde au sol maximale est de 145 mm.
+La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 143 mm.
 
-Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
+Vous pouvez commander Audi A6 Sportback e-tron quattro avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 105 mm et la garde au sol maximale est de 145 mm.
 
 ### Pilotage
 

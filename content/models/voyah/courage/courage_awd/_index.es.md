@@ -196,6 +196,10 @@ Un sistema de control de gestos que te permite controlar funciones específicas 
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
+### Espejo del teléfono
+
+Además, el VOYAH Courage AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
 ### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el VOYAH Courage AWD.
@@ -262,6 +266,8 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 El maletero ofrece una capacidad de carga de 527 litros. Con el asiento trasero plegado, esto se expande a 1400 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 72 litros.
 
 El peso máximo del vehículo es 2602 kg, con un peso base de 2227 kg. Esto permite una carga máxima de 375 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 375 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1700 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 ## Disponibilidad y precios
 

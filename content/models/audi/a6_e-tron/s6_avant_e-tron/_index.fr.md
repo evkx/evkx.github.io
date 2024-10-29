@@ -58,8 +58,6 @@ Audi S6 Avant e-tron dispose d'un système de transmission intégrale pris en ch
 
 La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 105 mm et la garde au sol maximale est de 145 mm.
 
-Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
-
 ### Pilotage
 
 La direction dynamique est une fonctionnalité un standard sur le Audi S6 Avant e-tron. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.

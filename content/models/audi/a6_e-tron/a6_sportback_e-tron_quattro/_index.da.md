@@ -56,9 +56,9 @@ Audi A6 Sportback e-tron quattro har et firehjulstræk, der understøttes af to 
 
 ### Hjulophæng
 
-Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 105 mm, og maksimum er 145 mm.
+Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 143 mm.
 
-For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
+Du kan bestille Audi A6 Sportback e-tron quattro med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 105 mm, og maksimum er 145 mm.
 
 ### Styring
 

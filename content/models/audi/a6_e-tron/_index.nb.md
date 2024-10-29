@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="a6_avant_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="A6 Avant e-tron quattro" ></a>
-<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

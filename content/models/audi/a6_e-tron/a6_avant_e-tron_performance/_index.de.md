@@ -58,8 +58,6 @@ Die Standard Federung hat Stahlfedern mit einer festen Höhe, aber Sie können d
 
 Sie können Audi A6 Avant e-tron performance mit einer alternativen Adaptive Air Suspension Sport Federung bestellen. Die Vorder- und Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 105 mm und die maximale 145 mm.
 
-Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
-
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Audi A6 Avant e-tron performance, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
@@ -76,7 +74,7 @@ Der Audi A6 Avant e-tron performance ermöglicht es dem Benutzer, verschiedene [
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 350 mm groß sind.
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 345 mm, während die hinteren Scheiben 330 mm groß sind.
 
 ### Rekuperatives Bremsen
 

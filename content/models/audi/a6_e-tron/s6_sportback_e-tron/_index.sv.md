@@ -56,8 +56,6 @@ Audi S6 Sportback e-tron har ett fyrhjulsdriftsystem som stöds av två motorer,
 
 Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
 
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
-
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Audi S6 Sportback e-tron. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.

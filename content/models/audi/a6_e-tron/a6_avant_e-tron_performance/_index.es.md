@@ -58,8 +58,6 @@ La suspensión Standard tiene resortes de acero con una altura fija, pero puedes
 
 Puedes pedir Audi A6 Avant e-tron performance con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
 
-Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
-
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Audi A6 Avant e-tron performance. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
@@ -76,7 +74,7 @@ El Audi A6 Avant e-tron performance permite al usuario seleccionar diferentes [m
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 345 mm y los discos traseros de 330 mm.
 
 ### Frenado regenerativo
 

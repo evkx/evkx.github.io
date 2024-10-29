@@ -58,8 +58,6 @@ Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæ
 
 Du kan bestille Audi A6 Avant e-tron med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 105 mm, og maksimum er 145 mm.
 
-For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
-
 ### Styring
 
 Dynamisk styring er en standard-funktion på Audi A6 Avant e-tron. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
@@ -76,7 +74,7 @@ Audi A6 Avant e-tron lader brugeren vælge forskellige [drive modes](../../../..
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 345mm, og de bagerste skiver er 330mm.
 
 ### Regenerativ bremsning
 

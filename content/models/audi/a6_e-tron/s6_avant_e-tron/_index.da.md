@@ -58,8 +58,6 @@ Audi S6 Avant e-tron har et firehjulstræk, der understøttes af to motorer, en 
 
 Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 105 mm, og maksimum er 145 mm.
 
-For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
-
 ### Styring
 
 Dynamisk styring er en standard-funktion på Audi S6 Avant e-tron. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.

@@ -196,6 +196,10 @@ Ein Gestensteuerungssystem, mit dem Sie bestimmte Funktionen mit Ihren Händen s
 
 Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
 
+### Telefonspiegelung
+
+Der VOYAH Courage AWD unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
+
 ### Soundsystem
 
 Der VOYAH Courage AWD ist mit einer Soundsystemoption ausgestattet:
@@ -262,6 +266,8 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 Der Kofferraum bietet ein Ladevolumen von 527 Litern (18,6 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1400 Liter (49,4 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 72 Litern (2,5 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2602 kg (5736 lbs) bei einem Leergewicht von 2227 kg (4910 lbs). Dies ermöglicht eine maximale Zuladung von 375 kg (827 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 375 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
+
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1700 kg (3748 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 ## Verfügbarkeit & Preise
 

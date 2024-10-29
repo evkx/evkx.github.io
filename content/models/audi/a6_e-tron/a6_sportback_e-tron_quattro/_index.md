@@ -56,9 +56,9 @@ The Audi A6 Sportback e-tron quattro features an all-wheel drive system powered 
 
 ### Suspension
 
-The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 105 mm, and the maximum is 145 mm.
+The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 143 mm.
 
-For easier loading, you can lower the air suspension from the rear
+You can order Audi A6 Sportback e-tron quattro with an alternative Adaptive Air Suspension Sport suspension. The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 105 mm, and the maximum is 145 mm.
 
 ### Steering
 

@@ -553,6 +553,131 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Federung
 
+Das Modell bietet 2 Federungsvarianten
+
+### Standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive Federung
+			</td>
+			<td>
+				Ja, Serienausstattung
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Dämpfung vorne
+			</td>
+			<td>
+				Ja, Serienausstattung
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Dämpfung hinten
+			</td>
+			<td>
+				Ja, Serienausstattung
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Höhe vorne
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Höhe hinten
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Bodenfreiheit
+			</td>
+			<td>
+				143 mm (5,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimale Bodenfreiheit
+			</td>
+			<td>
+				143 mm (5,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dämpfertyp vorne
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dämpfertyp hinten
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp vorne
+			</td>
+			<td>
+				Schraubenfeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp hinten
+			</td>
+			<td>
+				Schraubenfeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp vorne
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp hinten
+			</td>
+			<td>
+				Mehrlenker
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Adaptive Air Suspension Sport
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

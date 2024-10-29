@@ -56,8 +56,6 @@ Audi S6 Sportback e-tron tiene un sistema de tracción total sostenido por dos m
 
 La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
 
-Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
-
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Audi S6 Sportback e-tron. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.

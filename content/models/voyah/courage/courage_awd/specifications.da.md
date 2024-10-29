@@ -374,6 +374,30 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				72 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max trailervægt bremset
+			</td>
+			<td>
+				1700 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks. anhængervægt uden bremse
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal trækkuglevægt
+			</td>
+			<td>
+				75 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1002,7 +1026,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Android Auto-understøttelse
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1034,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Apple Carplay support
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

@@ -374,6 +374,30 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				72 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max släpvagnsvikt, bromsad
+			</td>
+			<td>
+				1700 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max släpvagnsvikt, obromsad
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Släpvagnskopplingens maximala vikt
+			</td>
+			<td>
+				75 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1002,7 +1026,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Android Auto Support
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1034,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Apple Carplay Support
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

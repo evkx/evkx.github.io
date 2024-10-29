@@ -58,8 +58,6 @@ Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpn
 
 Du kan beställa Audi A6 Avant e-tron performance med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
 
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
-
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Audi A6 Avant e-tron performance. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
@@ -76,7 +74,7 @@ Audi A6 Avant e-tron performance låter användaren välja olika [drivemodes](..
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 350mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 345mm och de bakre skivorna är 330mm.
 
 ### Regenerativ bromsning
 

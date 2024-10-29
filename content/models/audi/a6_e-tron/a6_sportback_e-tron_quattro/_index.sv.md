@@ -56,9 +56,9 @@ Audi A6 Sportback e-tron quattro har ett fyrhjulsdriftsystem som stöds av två 
 
 ### Hjulupphängning
 
-Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
+Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 143 mm.
 
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
+Du kan beställa Audi A6 Sportback e-tron quattro med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
 
 ### Styrning
 

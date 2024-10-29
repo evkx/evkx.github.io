@@ -56,9 +56,9 @@ Audi A6 Sportback e-tron quattro tiene un sistema de tracción total sostenido p
 
 ### Suspensión
 
-La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
+La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 143 mm.
 
-Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
+Puedes pedir Audi A6 Sportback e-tron quattro con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
 
 ### Dirección
 

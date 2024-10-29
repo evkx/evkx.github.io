@@ -60,8 +60,6 @@ Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpn
 
 Du kan beställa Audi A6 Sportback e-tron performance med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
 
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
-
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Audi A6 Sportback e-tron performance. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
@@ -78,7 +76,7 @@ Audi A6 Sportback e-tron performance låter användaren välja olika [drivemodes
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 350mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 345mm och de bakre skivorna är 330mm.
 
 ### Regenerativ bromsning
 
@@ -335,7 +333,7 @@ Bagageutrymmet erbjuder en lastkapacitet på 502 liter. Med baksätena nedfälld
 
 Fordonets maximala vikt är 2750 kg, med en grundvikt på 2175 kg. Detta tillåter en maximal last på 575 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2400 kg, medan för en obromsad släpvagn är den 750 kg.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2100 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

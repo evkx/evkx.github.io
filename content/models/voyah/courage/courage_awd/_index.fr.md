@@ -196,6 +196,10 @@ Un système de contrôle gestuel qui vous permet de contrôler des fonctionnalit
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
+### Réplication du téléphone
+
+De plus, le VOYAH Courage AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
 ### Système audio
 
 Un type de système audio est disponible pour le VOYAH Courage AWD.
@@ -262,6 +266,8 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 Le coffre offre une capacité de chargement de 527 litres. Avec les sièges arrière rabattus, cette capacité passe à 1400 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 72 litres.
 
 Le poids maximum du véhicule est de 2602 kg, avec un poids de base de 2227 kg. Cela permet une charge maximale de 375 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 375 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1700 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 ## Disponibilité et prix
 

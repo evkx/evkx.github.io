@@ -58,8 +58,6 @@ The Standard suspension has steel springs with a fixed height, but you can adjus
 
 You can order Audi A6 Avant e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 105 mm, and the maximum is 145 mm.
 
-For easier loading, you can lower the air suspension from the rear
-
 ### Steering
 
 Dynamic steering is a standard on the Audi A6 Avant e-tron, varying the steering ratio based on driving speed for enhanced control and comfort.
@@ -76,7 +74,7 @@ The Audi A6 Avant e-tron lets the user select different [drive modes](../../../.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 345 mm, while the rear discs are 330 mm.
 
 ### Regenerative Braking
 

@@ -50,15 +50,13 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 
 ## Antriebsstrang
 
-Der Audi A6 Avant e-tron quattro hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Die verwendeten Motoren sind [Induktionsmotoren](../../../../technology/motors/asm/) an der Vorderachse und [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/) an der Hinterachse.
+Der Audi A6 Avant e-tron quattro verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Induktionsmotoren](../../../../technology/motors/asm/) an der Vorderachse und [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/) an der Hinterachse.
 
 ### Federung
 
 Die Standard Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 143 mm.
 
 Sie können Audi A6 Avant e-tron quattro mit einer alternativen Adaptive Air Suspension Sport Federung bestellen. Die Vorder- und Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 105 mm und die maximale 145 mm.
-
-Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
 
 ### Lenkung
 

@@ -60,8 +60,6 @@ La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vou
 
 Vous pouvez commander Audi A6 Sportback e-tron avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 105 mm et la garde au sol maximale est de 145 mm.
 
-Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
-
 ### Pilotage
 
 La direction dynamique est une fonctionnalité un standard sur le Audi A6 Sportback e-tron. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
@@ -78,7 +76,7 @@ Le Audi A6 Sportback e-tron permet à l'utilisateur de sélectionner différents
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 345 mm et les disques arrière mesurent 330 mm.
 
 ### Freinage régénératif
 
@@ -335,7 +333,7 @@ Le coffre offre une capacité de chargement de 502 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 2750 kg, avec un poids de base de 2175 kg. Cela permet une charge maximale de 575 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2400 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2100 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron/trunk_1_st.jpg" title="Audi A6 Sportback e-tron" width="3000" height="2249"  >}}
 

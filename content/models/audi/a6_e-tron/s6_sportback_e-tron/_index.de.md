@@ -56,8 +56,6 @@ Der Audi S6 Sportback e-tron verfügt über ein Allradantriebssystem, das von zw
 
 Die Vorder- und Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 105 mm und die maximale 145 mm.
 
-Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
-
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Audi S6 Sportback e-tron, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.

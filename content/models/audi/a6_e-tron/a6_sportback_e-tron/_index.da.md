@@ -60,8 +60,6 @@ Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæ
 
 Du kan bestille Audi A6 Sportback e-tron med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 105 mm, og maksimum er 145 mm.
 
-For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
-
 ### Styring
 
 Dynamisk styring er en standard-funktion på Audi A6 Sportback e-tron. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
@@ -78,7 +76,7 @@ Audi A6 Sportback e-tron lader brugeren vælge forskellige [drive modes](../../.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 345mm, og de bagerste skiver er 330mm.
 
 ### Regenerativ bremsning
 
@@ -335,7 +333,7 @@ Bagagerummet har en lastekapacitet på 502 liter. Med det bageste sæde foldet n
 
 Køretøjets maksimale vægt er 2750 kg, med en basisvægt på 2175 kg. Dette giver en maksimal last på 575 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2400 kg, mens den for en ubremset trailer er 750 kg.
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2100 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron/trunk_1_st.jpg" title="Audi A6 Sportback e-tron" width="3000" height="2249"  >}}
 

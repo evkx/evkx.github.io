@@ -196,6 +196,10 @@ A gesture control system that lets you control specific features using your hand
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
+### Phone Mirroring
+
+The VOYAH Courage AWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
+
 ### Sound System
 
 The VOYAH Courage AWD comes equipped with one sound system option:
@@ -262,6 +266,8 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The trunk offers a cargo capacity of 527 liters (18.6 CU FT). With the rear seat folded down, this expands to 1400 liters (49.4 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 72 liters (2.5 CU FT).
 
 The vehicle’s maximum weight is 2602 kg (5736 lbs), with a base weight of 2227 kg (4910 lbs). This allows for a maximum load of 375 kg (827 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 375kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1700 kg (3748 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 ## Availability & Pricing
 

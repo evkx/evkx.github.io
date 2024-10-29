@@ -529,7 +529,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2400 kg
+				2100 kg
 			</td>
 		</tr>
 		<tr>

@@ -58,8 +58,6 @@ Audi S6 Avant e-tron har et firehjulsdriftssystem som støttes av to motorer, en
 
 Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 105 mm, og maksimum er 145 mm.
 
-For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
-
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på Audi S6 Avant e-tron. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.

@@ -60,8 +60,6 @@ The Standard suspension has steel springs with a fixed height, but you can adjus
 
 You can order Audi A6 Sportback e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 105 mm, and the maximum is 145 mm.
 
-For easier loading, you can lower the air suspension from the rear
-
 ### Steering
 
 Dynamic steering is a standard on the Audi A6 Sportback e-tron, varying the steering ratio based on driving speed for enhanced control and comfort.
@@ -78,7 +76,7 @@ The Audi A6 Sportback e-tron lets the user select different [drive modes](../../
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 345 mm, while the rear discs are 330 mm.
 
 ### Regenerative Braking
 
@@ -335,7 +333,7 @@ The trunk offers a cargo capacity of 502 liters (17.7 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2750 kg (6063 lbs), with a base weight of 2175 kg (4795 lbs). This allows for a maximum load of 575 kg (1268 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2400 kg (5291 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2100 kg (4630 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron/trunk_1_st.jpg" title="Audi A6 Sportback e-tron" width="3000" height="2249"  >}}
 

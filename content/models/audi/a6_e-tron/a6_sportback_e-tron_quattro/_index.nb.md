@@ -56,9 +56,9 @@ Audi A6 Sportback e-tron quattro har et firehjulsdriftssystem som støttes av to
 
 ### Hjuloppheng
 
-Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 105 mm, og maksimum er 145 mm.
+Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 143 mm.
 
-For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
+Du kan bestille Audi A6 Sportback e-tron quattro med en alternativ Adaptive Air Suspension Sport hjuloppheng. Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 105 mm, og maksimum er 145 mm.
 
 ### Styring
 

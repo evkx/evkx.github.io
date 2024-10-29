@@ -58,8 +58,6 @@ Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping
 
 Du kan bestille Audi A6 Avant e-tron performance med en alternativ Adaptive Air Suspension Sport hjuloppheng. Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 105 mm, og maksimum er 145 mm.
 
-For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
-
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på Audi A6 Avant e-tron performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
@@ -76,7 +74,7 @@ Audi A6 Avant e-tron performance lar brukeren velge forskjellige [kjøremoduser]
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 350mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 345mm, og de bakre skivene er 330mm.
 
 ### Regenerativ bremsing
 

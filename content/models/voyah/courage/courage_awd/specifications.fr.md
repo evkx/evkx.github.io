@@ -374,6 +374,30 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				72 litre
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Poids maximum de la remorque freinée
+			</td>
+			<td>
+				1700 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids maximum de la remorque non freinée
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids maximum de la boule de remorquage
+			</td>
+			<td>
+				75 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1002,7 +1026,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Android Auto
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1034,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Apple Carplay
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

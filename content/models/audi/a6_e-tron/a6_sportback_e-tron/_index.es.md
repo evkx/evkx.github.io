@@ -60,8 +60,6 @@ La suspensión Standard tiene resortes de acero con una altura fija, pero puedes
 
 Puedes pedir Audi A6 Sportback e-tron con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
 
-Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
-
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Audi A6 Sportback e-tron. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
@@ -78,7 +76,7 @@ El Audi A6 Sportback e-tron permite al usuario seleccionar diferentes [modos de 
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 345 mm y los discos traseros de 330 mm.
 
 ### Frenado regenerativo
 
@@ -335,7 +333,7 @@ El maletero ofrece una capacidad de carga de 502 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2750 kg, con un peso base de 2175 kg. Esto permite una carga máxima de 575 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2400 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2100 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron/trunk_1_st.jpg" title="Audi A6 Sportback e-tron" width="3000" height="2249"  >}}
 

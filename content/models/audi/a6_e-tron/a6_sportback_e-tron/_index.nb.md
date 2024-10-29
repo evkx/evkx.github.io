@@ -60,8 +60,6 @@ Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping
 
 Du kan bestille Audi A6 Sportback e-tron med en alternativ Adaptive Air Suspension Sport hjuloppheng. Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 105 mm, og maksimum er 145 mm.
 
-For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
-
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på Audi A6 Sportback e-tron. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
@@ -78,7 +76,7 @@ Audi A6 Sportback e-tron lar brukeren velge forskjellige [kjøremoduser](../../.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 350mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 345mm, og de bakre skivene er 330mm.
 
 ### Regenerativ bremsing
 
@@ -335,7 +333,7 @@ Bagasjerommet tilbyr en lastekapasitet på 502 liter. Med baksetene nedfelt, utv
 
 Kjøretøyets maksimale vekt er 2750 kg, med en basisvekt på 2175 kg. Dette gir en maksimal lastekapasitet på 575 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2400 kg, mens for en ubremset tilhenger er det 750 kg.
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2100 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron/trunk_1_st.jpg" title="Audi A6 Sportback e-tron" width="3000" height="2249"  >}}
 

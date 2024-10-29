@@ -58,8 +58,6 @@ La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vou
 
 Vous pouvez commander Audi A6 Avant e-tron avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 105 mm et la garde au sol maximale est de 145 mm.
 
-Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
-
 ### Pilotage
 
 La direction dynamique est une fonctionnalité un standard sur le Audi A6 Avant e-tron. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
@@ -76,7 +74,7 @@ Le Audi A6 Avant e-tron permet à l'utilisateur de sélectionner différents [mo
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 345 mm et les disques arrière mesurent 330 mm.
 
 ### Freinage régénératif
 

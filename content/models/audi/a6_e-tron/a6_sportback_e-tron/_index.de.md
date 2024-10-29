@@ -60,8 +60,6 @@ Die Standard Federung hat Stahlfedern mit einer festen Höhe, aber Sie können d
 
 Sie können Audi A6 Sportback e-tron mit einer alternativen Adaptive Air Suspension Sport Federung bestellen. Die Vorder- und Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 105 mm und die maximale 145 mm.
 
-Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
-
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Audi A6 Sportback e-tron, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
@@ -78,7 +76,7 @@ Der Audi A6 Sportback e-tron ermöglicht es dem Benutzer, verschiedene [Fahrmodi
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 350 mm groß sind.
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 345 mm, während die hinteren Scheiben 330 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -335,7 +333,7 @@ Der Kofferraum bietet ein Ladevolumen von 502 Litern (17,7 CU FT). Mit umgeklapp
 
 Das maximale Gewicht des Fahrzeugs beträgt 2750 kg (6063 lbs) bei einem Leergewicht von 2175 kg (4795 lbs). Dies ermöglicht eine maximale Zuladung von 575 kg (1268 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2400 kg (5291 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2100 kg (4630 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron/trunk_1_st.jpg" title="Audi A6 Sportback e-tron" width="3000" height="2249"  >}}
 

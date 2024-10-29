@@ -374,6 +374,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				72 litro
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Peso máximo del remolque frenado
+			</td>
+			<td>
+				1700 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo del remolque sin frenos
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				75 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1002,7 +1026,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte Android Auto
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1010,7 +1034,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte Apple Carplay
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

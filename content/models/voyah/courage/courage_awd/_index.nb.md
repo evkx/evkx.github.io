@@ -196,6 +196,10 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### Telefonspeiling
+
+I tillegg støtter VOYAH Courage AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
 ### Lydsystem
 
 Én type lydsystem er tilgjengelig for VOYAH Courage AWD.
@@ -262,6 +266,8 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Bagasjerommet tilbyr en lastekapasitet på 527 liter. Med baksetene nedfelt, utvides dette til 1400 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 72 liter.
 
 Kjøretøyets maksimale vekt er 2602 kg, med en basisvekt på 2227 kg. Dette gir en maksimal lastekapasitet på 375 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 375 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1700 kg, mens for en ubremset tilhenger er det 750 kg.
 
 ## Tilgjengelighet & pris
 
