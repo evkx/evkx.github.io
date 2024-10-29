@@ -26,7 +26,7 @@ Vi har opdelt vores Audi A6 Avant e-tron performance artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-Audi A6 Avant e-tron performance leverer en solid præstation med en maksimal effekt på 270 kW (367 hk) og et totalt drejningsmoment på 565 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Med overboost når Audi A6 Avant e-tron performance en maksimal effekt på 280 kW (381 hk). Uden overboost leverer den 270 kW (367 hk). Det maksimale drejningsmoment er 565 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 210 km/t, hvilket demonstrerer dens solide præstation.
 
 ## Batteri, rækkevidde og opladning
 

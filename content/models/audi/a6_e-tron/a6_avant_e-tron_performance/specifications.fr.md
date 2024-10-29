@@ -36,10 +36,26 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 A
 		</tr>
 		<tr>
 			<td>
+				Puissance maximale avec boost
+			</td>
+			<td>
+				280 KW (381 ch)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Couple de sortie électrique
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Augmentation de la sortie de couple électrique
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 A
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
 				5,4 s

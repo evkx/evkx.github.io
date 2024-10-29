@@ -36,10 +36,26 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Avant e-tron
 		</tr>
 		<tr>
 			<td>
+				Peak power with  boost
+			</td>
+			<td>
+				280 KW (381 hp /375 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Electrical torque output
 			</td>
 			<td>
 				565 nm (417 lb-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Avant e-tron
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

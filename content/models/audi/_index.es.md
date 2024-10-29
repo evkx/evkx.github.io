@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi A6 e-tron es un sedán/camioneta premium disponible en 6 variantes.
+Audi A6 e-tron es un sedán/camioneta premium disponible en 8 variantes.
 </p>
 	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

@@ -26,7 +26,7 @@ Hemos separado nuestro artículo Audi A6 Avant e-tron performance en secciones. 
 
 ## Rendimiento
 
-El Audi A6 Avant e-tron performance ofrece un rendimiento sólido con una potencia máxima de 270 kW (367 hp) y un par total de 565 Nm. Puede acelerar de 0 a 100 km/h en 5,4 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
+Con overboost, el Audi A6 Avant e-tron performance alcanza una potencia máxima de 280 kW (381 hp). Sin overboost, entrega 270 kW (367 hp). El par máximo es de 565 Nm. Puede acelerar de 0 a 100 km/h en 5,4 segundos y alcanza una velocidad máxima de 210 km/h, demostrando su sólido rendimiento.
 
 ## Batería, autonomía y carga
 

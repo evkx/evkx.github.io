@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-218d4ea6
+  translation: Audi A6 Sportback e-tron quattro ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 716 km (445 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-db33f944
+  translation: Audi A6 Sportback e-tron ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 756 km (470 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-f4b73295
   translation: Audi A6 Avant e-tron ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 598 km (372 Meilen). EVKX.net hat alle Details.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-cd8a76aa
   translation: Audi Q6 Sportback e-tron performance ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 655 km (407 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-e7e2b239
-  translation: Audi Q6 Sportback e-tron ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 545 km (339 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-59a38dcc
-  translation: Chevrolet Blazer EV RS RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 449 km (279 Meilen). EVKX.net hat alle Details.
 

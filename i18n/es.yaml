@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-218d4ea6
+  translation: Audi A6 Sportback e-tron quattro es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 716 km (445 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-db33f944
+  translation: Audi A6 Sportback e-tron es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 756 km (470 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-f4b73295
   translation: Audi A6 Avant e-tron es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 598 km (372 millas). EVKX.net tiene todos los detalles.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-cd8a76aa
   translation: Audi Q6 Sportback e-tron performance es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 655 km (407 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-e7e2b239
-  translation: Audi Q6 Sportback e-tron es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 545 km (339 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-59a38dcc
-  translation: Chevrolet Blazer EV RS RWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 449 km (279 millas). EVKX.net tiene todos los detalles.
 

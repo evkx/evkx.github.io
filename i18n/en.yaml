@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-218d4ea6
+  translation: Audi A6 Sportback e-tron quattro is an all-electric premium sedan with a WLTP range of up to 716 km (445 miles). EVKX.net has all the details.
+
+- id: frontpage-description-db33f944
+  translation: Audi A6 Sportback e-tron is an all-electric premium sedan with a WLTP range of up to 756 km (470 miles). EVKX.net has all the details.
+
 - id: frontpage-description-f4b73295
   translation: Audi A6 Avant e-tron is an all-electric premium station wagon with a WLTP range of up to 598 km (372 miles). EVKX.net has all the details.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-cd8a76aa
   translation: Audi Q6 Sportback e-tron performance is an all-electric premium coupe SUV with a WLTP range of up to 655 km (407 miles). EVKX.net has all the details.
-
-- id: frontpage-description-e7e2b239
-  translation: Audi Q6 Sportback e-tron is an all-electric premium coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details.
-
-- id: frontpage-description-59a38dcc
-  translation: Chevrolet Blazer EV RS RWD is an all-electric SUV with a EPA range of up to 449 km (279 miles). EVKX.net has all the details.
 

@@ -36,10 +36,26 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Avant e-tr
 		</tr>
 		<tr>
 			<td>
+				Spitzenleistung mit Boost
+			</td>
+			<td>
+				280 KW (381 PS /375 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisches Drehmoment
 			</td>
 			<td>
 				565 nm (417 lb-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisches Drehmoment mit Boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Avant e-tr
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) mit Boost
 			</td>
 			<td>
 				5,4 s

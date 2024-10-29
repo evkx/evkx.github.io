@@ -36,10 +36,26 @@ EVKX.net søger at have de mest komplette specifikationer for Audi A6 Avant e-tr
 		</tr>
 		<tr>
 			<td>
+				Popkraft med boost
+			</td>
+			<td>
+				280 KW (381 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk momentudgang
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forøgelse af elektrisk drejningsmomentoutput
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net søger at have de mest komplette specifikationer for Audi A6 Avant e-tr
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

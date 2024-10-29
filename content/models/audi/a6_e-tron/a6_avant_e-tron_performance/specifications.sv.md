@@ -36,10 +36,26 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Avant e-tron p
 		</tr>
 		<tr>
 			<td>
+				Max effekt med boost
+			</td>
+			<td>
+				280 KW (381 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vridmoment
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vridmoment med boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Avant e-tron p
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

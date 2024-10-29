@@ -36,10 +36,26 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Avant e-tro
 		</tr>
 		<tr>
 			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				280 KW (381 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Dreiemoment
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment med boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Avant e-tro
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

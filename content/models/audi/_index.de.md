@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi A6 e-tron ist eine Premium-Limousine/Kombi, die in 6 Varianten erhältlich ist.
+Audi A6 e-tron ist eine Premium-Limousine/Kombi, die in 8 Varianten erhältlich ist.
 </p>
 	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>
