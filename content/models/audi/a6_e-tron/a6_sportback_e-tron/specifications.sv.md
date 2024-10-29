@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				Max effekt
 			</td>
 			<td>
-				270 KW (367 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				Max effekt med boost
 			</td>
 			<td>
-				280 KW (381 hk)
+				240 KW (326 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				Vridmoment
 			</td>
 			<td>
-				565 nm
+				435 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				Vridmoment med boost
 			</td>
 			<td>
-				565 Nm
+				435 Nm
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				7 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				756 km
+				672 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				10,0 kWh/100km
+				11,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				14,0 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				673 km
+				640 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				11,3 kWh/100km
+				11,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				15,9 kwh/100km
+				15,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -416,7 +416,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,21
+				0,23
 			</td>
 		</tr>
 		<tr>

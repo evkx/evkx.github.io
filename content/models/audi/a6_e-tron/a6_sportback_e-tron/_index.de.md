@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron
 linktitle: "A6 Sportback e-tron"
-description: "Audi A6 Sportback e-tron ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 756 km (470 Meilen). EVKX.net hat alle Details."
+description: "Audi A6 Sportback e-tron ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 672 km (418 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Mit Overboost erreicht der Audi A6 Sportback e-tron eine maximale Leistung von 280 kW (381 PS / 376 bhp). Ohne Overboost liefert er 270 kW (367 PS / 362 bhp). Das maximale Drehmoment beträgt 565 Nm (417 lb-ft). Er beschleunigt in 5,4 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was seine solide Leistung demonstriert.
+Mit Overboost erreicht der Audi A6 Sportback e-tron eine maximale Leistung von 240 kW (326 PS / 322 bhp). Ohne Overboost liefert er 210 kW (286 PS / 282 bhp). Das maximale Drehmoment beträgt 435 Nm (321 lb-ft). Er beschleunigt in 6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was seine solide Leistung demonstriert.
 
 ## Batterie, Reichweite und Laden
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 83,0 kWh und eine nutzbare Nettokapazität von 75,8 kWh, was einen Puffer von 7,2 kWh (8,7%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 662 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 756 und 673 km (470-418 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 10,0 kWh/100 km für das Basismodell und 11,3 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 672 und 640 km (418-398 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 11,3 kWh/100 km für das Basismodell und 11,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 225 kW. Das Laden von 0% auf 100% dauert etwa 58 Minuten, während ein typischer Ladevorgang von 10% auf 80% 20 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 159 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 65%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 138 kW, wobei jede Ladesitzung etwa 21 Minuten und 3 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Audi A6 Sportback e-tron zu einer bequemen Option für Langstreckenreisen.
 

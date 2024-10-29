@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 				Peak power
 			</td>
 			<td>
-				270 KW (367 hp /362 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 				Peak power with  boost
 			</td>
 			<td>
-				280 KW (381 hp /375 bhp)
+				240 KW (326 hp /322 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 				Electrical torque output
 			</td>
 			<td>
-				565 nm (417 lb-ft)
+				435 nm (321 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 				Electrical torque output boost
 			</td>
 			<td>
-				565 Nm
+				435 Nm
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				7 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				756 km
+				672 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				10,0 kWh/100km
+				11,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				14,0 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				673 km
+				640 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				11,3 kWh/100km
+				11,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				15,9 kwh/100km
+				15,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -416,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,21
+				0,23
 			</td>
 		</tr>
 		<tr>

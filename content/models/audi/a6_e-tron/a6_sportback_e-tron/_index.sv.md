@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron
 linktitle: "A6 Sportback e-tron"
-description: "Audi A6 Sportback e-tron är en helelektrisk premium sedan med en WLTP räckvidd på upp till 756 km. EVKX.net har alla detaljer."
+description: "Audi A6 Sportback e-tron är en helelektrisk premium sedan med en WLTP räckvidd på upp till 672 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delat in vår beskrivning av Audi A6 Sportback e-tron i avsnitt. Om du vi
 
 ## Prestanda
 
-Med overboost når Audi A6 Sportback e-tron en maximal effekt på 280 kW (381 hk). Utan overboost levererar den 270 kW (367 hk). Det maximala vridmomentet är 565 Nm. Den kan accelerera från 0 till 100 km/h på 5,4 sekunder och når en topphastighet på 210 km/h, vilket demonstrerar dess solida prestanda.
+Med overboost når Audi A6 Sportback e-tron en maximal effekt på 240 kW (326 hk). Utan overboost levererar den 210 kW (286 hk). Det maximala vridmomentet är 435 Nm. Den kan accelerera från 0 till 100 km/h på 6 sekunder och når en topphastighet på 210 km/h, vilket demonstrerar dess solida prestanda.
 
 ## Batteri, räckvidd och laddning
 
 Högkapacitetsbatteriet har en bruttokapacitet på 83,0 kWh och en nettoanvändbar kapacitet på 75,8 kWh, vilket ger en buffert på 7,2 kWh (8,7%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 756 och 673 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 10,0 kWh/100 km för basmodellen och 11,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 672 och 640 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 11,3 kWh/100 km för basmodellen och 11,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 225 kW. En full laddning från 0 - 100 % tar 58 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 138kW. Varje laddningssession tar 21 minuter och 3 sekunder. Denna effektiva laddningskapacitet gör Audi A6 Sportback e-tron till ett bekvämt alternativ för långdistansresor.
 

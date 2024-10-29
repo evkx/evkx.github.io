@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Potencia máxima
 			</td>
 			<td>
-				270 KW (367 hp)
+				210 KW (286 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				280 KW (381 hp)
+				240 KW (326 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Salida de par eléctrico
 			</td>
 			<td>
-				565 nm
+				435 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				565 Nm
+				435 Nm
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				7 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				756 km
+				672 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				10,0 kWh/100km
+				11,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				14,0 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				673 km
+				640 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				11,3 kWh/100km
+				11,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				15,9 kwh/100km
+				15,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -416,7 +416,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,21
+				0,23
 			</td>
 		</tr>
 		<tr>

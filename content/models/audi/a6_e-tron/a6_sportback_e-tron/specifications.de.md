@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Sportback 
 				Spitzenleistung
 			</td>
 			<td>
-				270 KW (367 PS /362 bhp)
+				210 KW (286 PS /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Sportback 
 				Spitzenleistung mit Boost
 			</td>
 			<td>
-				280 KW (381 PS /375 bhp)
+				240 KW (326 PS /322 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Sportback 
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				565 nm (417 lb-ft)
+				435 nm (321 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Sportback 
 				Elektrisches Drehmoment mit Boost
 			</td>
 			<td>
-				565 Nm
+				435 Nm
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Sportback 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				7 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Audi A6 Sportback 
 				0-100 km/h (0-62 mph) mit Boost
 			</td>
 			<td>
-				5,4 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Basisausstattung
 			</td>
 			<td>
-				756 km
+				672 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				10,0 kWh/100km
+				11,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
 			</td>
 			<td>
-				14,0 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Top-Ausstattung
 			</td>
 			<td>
-				673 km
+				640 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				11,3 kWh/100km
+				11,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
 			</td>
 			<td>
-				15,9 kwh/100km
+				15,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -416,7 +416,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Luftwiderstandsbeiwert
 			</td>
 			<td>
-				0,21
+				0,23
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron
 linktitle: "A6 Sportback e-tron"
-description: "Audi A6 Sportback e-tron is an all-electric premium sedan with a WLTP range of up to 756 km (470 miles). EVKX.net has all the details."
+description: "Audi A6 Sportback e-tron is an all-electric premium sedan with a WLTP range of up to 672 km (418 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-With overboost, the Audi A6 Sportback e-tron reaches a maximum power of 280 kW (381 hp / 376 bhp). Without overboost, it delivers 270 kW (367 hp / 362 bhp). The maximum torque is 565 Nm (417 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 210 km/h (131 mph), demonstrating its solid performance.
+With overboost, the Audi A6 Sportback e-tron reaches a maximum power of 240 kW (326 hp / 322 bhp). Without overboost, it delivers 210 kW (286 hp / 282 bhp). The maximum torque is 435 Nm (321 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 210 km/h (131 mph), demonstrating its solid performance.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 83.0 kWh and a net usable capacity of 75.8 kWh, providing a 7.2 kWh buffer (8.7%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 756 to 673 km (470-418 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 10.0 kWh/100 km for the base model and 11.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 672 to 640 km (418-398 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.3 kWh/100 km for the base model and 11.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 225 kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical scenario from 10% to 80% takes 20 minutes with an average charging speed of 159 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 138 kW, with each charging session taking about 21 minutes and 3 seconds. This efficient charging capability makes the Audi A6 Sportback e-tron a convenient option for long-distance travel.
 

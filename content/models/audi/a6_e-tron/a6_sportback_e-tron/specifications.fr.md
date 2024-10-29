@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				Puissance de pointe
 			</td>
 			<td>
-				270 KW (367 ch)
+				210 KW (286 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				Puissance maximale avec boost
 			</td>
 			<td>
-				280 KW (381 ch)
+				240 KW (326 ch)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				Couple de sortie électrique
 			</td>
 			<td>
-				565 nm
+				435 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				565 Nm
+				435 Nm
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				7 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
-				5,4 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				756 km
+				672 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				10,0 kWh/100km
+				11,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				14,0 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				673 km
+				640 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				11,3 kWh/100km
+				11,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				15,9 kwh/100km
+				15,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -416,7 +416,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,21
+				0,23
 			</td>
 		</tr>
 		<tr>

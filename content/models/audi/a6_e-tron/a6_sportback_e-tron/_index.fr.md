@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron
 linktitle: "A6 Sportback e-tron"
-description: "Audi A6 Sportback e-tron est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 756 km (470 miles). EVKX.net a tous les détails."
+description: "Audi A6 Sportback e-tron est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 672 km (418 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Nous avons séparé notre article Audi A6 Sportback e-tron en sections. Si vous 
 
 ## Performances
 
-Avec overboost, l'Audi A6 Sportback e-tron atteint une puissance maximale de  280 kW (381 ch). Sans overboost, elle délivre 270 kW (367 ch). Le couple maximal est de 565 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteint une vitesse maximale de 210 km/h, démontrant ses performances solides.
+Avec overboost, l'Audi A6 Sportback e-tron atteint une puissance maximale de  240 kW (326 ch). Sans overboost, elle délivre 210 kW (286 ch). Le couple maximal est de 435 Nm. Elle peut accélérer de 0 à 100 km/h en 6 secondes et atteint une vitesse maximale de 210 km/h, démontrant ses performances solides.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 83,0 kWh et une capacité nette utilisable de 75,8 kWh, offrant une réserve de 7,2 kWh (8,7%) pour la protection de la batterie. Fonctionnant à une tension nominale de 662 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 756 et 673 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 10,0 kWh/100 km pour le modèle de base et à 11,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 672 et 640 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 11,3 kWh/100 km pour le modèle de base et à 11,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 225kW. Une charge complète de 0 à 100 % prendrait 58 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 138kW. Chaque session de charge prendrait 21 minutes et 3 secondes. Cette capacité de charge efficace fait de l'Audi A6 Sportback e-tron une option pratique pour les voyages longue distance.
 
