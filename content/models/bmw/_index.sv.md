@@ -41,7 +41,7 @@ BMW i4 är en premium sedan tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 är en premium sedan/kombi som finns i 5 varianter.
+BMW i5 är en premium sedan/kombi som finns i 6 varianter.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

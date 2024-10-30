@@ -41,7 +41,7 @@ BMW i4 est une berline premium disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 est une berline/break premium disponible en 5 variantes.
+BMW i5 est une berline/break premium disponible en 6 variantes.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

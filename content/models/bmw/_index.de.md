@@ -41,7 +41,7 @@ BMW i4 ist eine Premium-Limousine, die in 3 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 ist eine Premium-Limousine/Kombi, die in 5 Varianten erhältlich ist.
+BMW i5 ist eine Premium-Limousine/Kombi, die in 6 Varianten erhältlich ist.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

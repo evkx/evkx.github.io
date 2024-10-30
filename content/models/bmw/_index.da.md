@@ -41,7 +41,7 @@ BMW i4 er en premium sedan tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 er en premium sedan/stationcar tilgængelig i 5 varianter.
+BMW i5 er en premium sedan/stationcar tilgængelig i 6 varianter.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

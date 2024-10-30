@@ -252,7 +252,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
 	<h2>BMW</h2>
 	<p>
-	BMW hat 7 Modelle mit insgesamt 19 Varianten.
+	BMW hat 7 Modelle mit insgesamt 20 Varianten.
 	</p>
 	<a href="bmw/" class="btn btn-outline-primary" role="button">Gehe zu BMW EV-Modellübersicht</a>
 </div>

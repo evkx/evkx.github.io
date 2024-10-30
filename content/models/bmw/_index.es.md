@@ -41,7 +41,7 @@ BMW i4 es un sedán premium disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 es un sedán/camioneta premium disponible en 5 variantes.
+BMW i5 es un sedán/camioneta premium disponible en 6 variantes.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
