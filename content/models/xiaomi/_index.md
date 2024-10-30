@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Xiaomi SU7 is a sedan available in 3 variants.
+Xiaomi SU7 is a sedan available in 4 variants.
 </p>
 	<a href="su7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

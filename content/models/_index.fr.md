@@ -709,7 +709,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
 	<h2>Xiaomi</h2>
 	<p>
-	Xiaomi a 1 modèles avec un total de 3 variantes.
+	Xiaomi a 1 modèles avec un total de 4 variantes.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Aller à la Xiaomi présentation du modèle EV</a>
 </div>

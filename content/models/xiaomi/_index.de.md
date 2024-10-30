@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Xiaomi SU7 ist eine Limousine, die in 3 Varianten erhältlich ist.
+Xiaomi SU7 ist eine Limousine, die in 4 Varianten erhältlich ist.
 </p>
 	<a href="su7/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

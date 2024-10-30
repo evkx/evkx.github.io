@@ -706,7 +706,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
 	<h2>Xiaomi</h2>
 	<p>
-	Xiaomi har 1 modeller med i alt 3 varianter.
+	Xiaomi har 1 modeller med i alt 4 varianter.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gå til Xiaomi EV-modeloversigt</a>
 </div>

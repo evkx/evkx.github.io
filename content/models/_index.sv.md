@@ -709,7 +709,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
 	<h2>Xiaomi</h2>
 	<p>
-	Xiaomi har 1 modell(er) med totalt 3 varianter.
+	Xiaomi har 1 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gå till Xiaomi modellöversikt</a>
 </div>

@@ -703,7 +703,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
 	<h2>Xiaomi</h2>
 	<p>
-	Xiaomi hat 1 Modelle mit insgesamt 3 Varianten.
+	Xiaomi hat 1 Modelle mit insgesamt 4 Varianten.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gehe zu Xiaomi EV-Modellübersicht</a>
 </div>

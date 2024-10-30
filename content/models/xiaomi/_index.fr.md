@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Xiaomi SU7 est une berline disponible en 3 variantes.
+Xiaomi SU7 est une berline disponible en 4 variantes.
 </p>
 	<a href="su7/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

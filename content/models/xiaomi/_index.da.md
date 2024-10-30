@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Xiaomi SU7 er en sedan tilgængelig i 3 varianter.
+Xiaomi SU7 er en sedan tilgængelig i 4 varianter.
 </p>
 	<a href="su7/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
