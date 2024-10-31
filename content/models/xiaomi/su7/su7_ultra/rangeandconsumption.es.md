@@ -40,10 +40,10 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				</a>
 			</td>
 			<td>
-				800 km / 497 mi 
+				700 km / 435 mi 
 			</td>
 			<td>
-				11,71kWh/100km /  mi/kWh
+				13,39kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -97,10 +97,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90kmh/56mph perfecto estado
 			</td>
 			<td>
-				669km / 416 mi
+				586km / 364 mi
 			</td>
 			<td>
-				14 kWh/100km / 4,4 mi/kWh
+				16 kWh/100km / 3,9 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -108,10 +108,32 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90 kmh/56 mph con calefacción de 2 KW
 			</td>
 			<td>
-				598km /359mi
+				531km /320mi
 			</td>
 			<td>
-				16,2 kWh/100km /3,8 mi/kWh 
+				18,2 kWh/100km /3,4 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 kmh perfecto estado
+			</td>
+			<td>
+				446 km / 277 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 kmh con calefacción de 2 KW
+			</td>
+			<td>
+				411km / 255mi
+			</td>
+			<td>
+				22,8 kWh/100km / 2,7 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -119,10 +141,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				551 km / 342 mi
+				426 km / 265 mi
 			</td>
 			<td>
-				17 kWh/100km / 3,7 mi/kWh
+				22 kWh/100km / 2,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -130,10 +152,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				502 km /312mi
+				396 km /246mi
 			</td>
 			<td>
-				18,7 kWh/100km /3,3 mi/kWh
+				23,7 kWh/100km /2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>

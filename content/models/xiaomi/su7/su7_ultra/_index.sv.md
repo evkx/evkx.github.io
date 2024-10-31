@@ -1,7 +1,7 @@
 ---
 title: Xiaomi SU7 Ultra
 linktitle: "SU7 Ultra"
-description: "Xiaomi SU7 Ultra är en helelektrisk sedan med en CLTC räckvidd på upp till 800 km. EVKX.net har alla detaljer."
+description: "Xiaomi SU7 Ultra är en helelektrisk sedan med en CLTC räckvidd på upp till 700 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,13 +30,13 @@ Xiaomi SU7 Ultra levererar en häpnadsväckande maximal effekt på 1138 KW (1547
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 95,0 kWh och en nettoanvändbar kapacitet på 93,7 kWh, vilket ger en buffert på 1,3 kWh (1,4%) för batteriskydd. Vid en nominell spänning på 871 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 95,0 kWh och en nettoanvändbar kapacitet på 93,7 kWh, vilket ger en buffert på 1,3 kWh (1,4%) för batteriskydd. Vid en nominell spänning på 897 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km (497 miles). Förbrukningen är 11,7kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km (435 miles). Förbrukningen är 13,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 39 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 75%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 177kW. Varje laddningssession tar 23 minuter och 55 sekunder. Denna exceptionellt snabba laddningskapacitet gör Xiaomi SU7 Ultra till en av de mest effektiva och bekväma elbilarna för långresor.
+Maximal DC-laddningshastighet är 410 kW. En full laddning från 0 - 100 % tar 29 minuter, medan ett vanligare scenario på 10-80 % tar 12 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 77%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 245kW. Varje laddningssession tar 17 minuter och 1 sekunder. Denna exceptionellt snabba laddningskapacitet gör Xiaomi SU7 Ultra till en av de mest effektiva och bekväma elbilarna för långresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 17 kWh/100 km, skulle resan ta ungefär 8 timmar och 46 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 83%, med en total laddningstid på 27 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 71%, med en total laddningstid på 31 minuter.
 
 ### Ombordladdare
 
@@ -52,7 +52,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Xiaomi SU7 Ultra har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
+Xiaomi SU7 Ultra har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
 ### Hjulupphängning
 
@@ -69,6 +69,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ### Regenerativ bromsning
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+
+Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
@@ -94,7 +96,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Xiaomi SU7 Ultra har en förarfokuserad interiör som förbättrar cockpitkänslan med material av medelkvalitet som används överallt. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
+Xiaomi SU7 Ultra har en förarfokuserad interiör som förbättrar cockpitkänslan med material av medelkvalitet som används överallt. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -114,7 +116,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black/Yellow [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 - Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Purple [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)

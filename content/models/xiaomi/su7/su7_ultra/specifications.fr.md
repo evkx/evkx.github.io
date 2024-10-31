@@ -83,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme CLTC de finition de base
 			</td>
 			<td>
-				800 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation CLTC de base
 			</td>
 			<td>
-				11,7 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -131,10 +131,18 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Charge CC maximale
+			</td>
+			<td>
+				410 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tension nominale
 			</td>
 			<td>
-				871
+				897
 			</td>
 		</tr>
 		<tr>

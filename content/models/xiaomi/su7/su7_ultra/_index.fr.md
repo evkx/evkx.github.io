@@ -1,7 +1,7 @@
 ---
 title: Xiaomi SU7 Ultra
 linktitle: "SU7 Ultra"
-description: "Xiaomi SU7 Ultra est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 800 km (497 miles). EVKX.net a tous les détails."
+description: "Xiaomi SU7 Ultra est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,13 +30,13 @@ La Xiaomi SU7 Ultra délivre une puissance maximale impressionnante de 1138 kW (
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 95,0 kWh et une capacité nette utilisable de 93,7 kWh, offrant une réserve de 1,3 kWh (1,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 871 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 95,0 kWh et une capacité nette utilisable de 93,7 kWh, offrant une réserve de 1,3 kWh (1,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 897 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 800 km (497 miles). La consommation est de 11,7kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 700 km (435 miles). La consommation est de 13,4kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 39 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 177kW. Chaque session de charge prendrait 23 minutes et 55 secondes. Cette capacité de charge exceptionnellement rapide fait de la Xiaomi SU7 Ultra l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
+La vitesse de charge DC maximale est de 410kW. Une charge complète de 0 à 100 % prendrait 29 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 12 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 77 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 245kW. Chaque session de charge prendrait 17 minutes et 1 secondes. Cette capacité de charge exceptionnellement rapide fait de la Xiaomi SU7 Ultra l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 17 kWh/100 km, le voyage prendrait environ 8 heures et 46 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 83%, avec un temps de recharge total de 27 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 8 heures et 51 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 71%, avec un temps de recharge total de 31 minutes.
 
 ### Chargeur embarqué
 
@@ -52,7 +52,7 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-Xiaomi SU7 Ultra dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
+Xiaomi SU7 Ultra dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 ### Suspension
 
@@ -69,6 +69,8 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ### Freinage régénératif
 
 [**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Le système arrête complètement la voiture en utilisant les freins à friction.
+
+La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
@@ -94,7 +96,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Le Xiaomi SU7 Ultra dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de qualité moyenne utilisés partout. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+Le Xiaomi SU7 Ultra dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de qualité moyenne utilisés partout. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -114,7 +116,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Yellow [Alcantara/revêtement en similicuir](../../../../technology/seats/materials/#alcantara)
 - Red [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Purple [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)

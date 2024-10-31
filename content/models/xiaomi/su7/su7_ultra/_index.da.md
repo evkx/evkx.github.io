@@ -1,7 +1,7 @@
 ---
 title: Xiaomi SU7 Ultra
 linktitle: "SU7 Ultra"
-description: "Xiaomi SU7 Ultra er en fuldelektrisk sedan med en CLTC rækkevidde på op til 800 km (497 miles). EVKX.net har alle detaljerne."
+description: "Xiaomi SU7 Ultra er en fuldelektrisk sedan med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,13 +30,13 @@ Xiaomi SU7 Ultra leverer en imponerende maksimal effekt på 1138 KW (1547 hk) og
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 95,0 kWh og en nettoanvendelig kapacitet på 93,7 kWh, hvilket giver en buffer på 1,3 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 871 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 95,0 kWh og en nettoanvendelig kapacitet på 93,7 kWh, hvilket giver en buffer på 1,3 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 897 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 800 km (497 miles). Forbruget er 11,7kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 700 km (435 miles). Forbruget er 13,4kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 39 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 75%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 177kW. Hver opladningssession ville tage 23 minutter og 55 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Xiaomi SU7 Ultra til en af de mest effektive og bekvemme elbiler til langdistancerejser.
+Den maksimale DC-opladningshastighed er 410kW. En fuld opladning fra 0 - 100 % ville tage 29 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 12 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 77%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 245kW. Hver opladningssession ville tage 17 minutter og 1 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Xiaomi SU7 Ultra til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 17 kWh/100 km, ville turen tage cirka 8 timer og 46 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 83%, med en samlet opladningstid på 27 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 8 timer og 51 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 71%, med en samlet opladningstid på 31 minutter
 
 ### Ombordlader
 
@@ -52,7 +52,7 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 ## Drivetrain
 
-Xiaomi SU7 Ultra har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
+Xiaomi SU7 Ultra har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
 ### Hjulophæng
 
@@ -69,6 +69,8 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ### Regenerativ bremsning
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stopper bilen helt ved brug af friktionsbremser.
+
+Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
@@ -94,7 +96,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Xiaomi SU7 Ultra har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af mellem kvalitet brugt overalt. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
+Xiaomi SU7 Ultra har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af mellem kvalitet brugt overalt. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -114,7 +116,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/Yellow [Alcantara/læderbetræk](../../../../technology/seats/materials/#alcantara)
 - Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Purple [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)

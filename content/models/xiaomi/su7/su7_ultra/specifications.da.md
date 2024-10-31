@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC range
 			</td>
 			<td>
-				800 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC-forbrug
 			</td>
 			<td>
-				11,7 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -131,10 +131,18 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Max DC-opladning
+			</td>
+			<td>
+				410 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominel spænding
 			</td>
 			<td>
-				871
+				897
 			</td>
 		</tr>
 		<tr>

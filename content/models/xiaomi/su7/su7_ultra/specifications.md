@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC range
 			</td>
 			<td>
-				800 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				11,7 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -131,10 +131,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				<a href="/technology/battery/charging/">Max DC charging</a>
+			</td>
+			<td>
+				410 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				871
+				897
 			</td>
 		</tr>
 		<tr>

@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				CLTC rekkevidde for minimum utstyrsnivå
 			</td>
 			<td>
-				800 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				11,7 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -131,10 +131,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				410 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spenning
 			</td>
 			<td>
-				871
+				897
 			</td>
 		</tr>
 		<tr>

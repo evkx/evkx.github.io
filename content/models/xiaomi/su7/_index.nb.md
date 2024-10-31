@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="su7_ultra/"><img src="https://media.evkx.net/multimedia/models/xiaomi/su7/su7_ultra/main_1_xst.jpg" class="img-fluid" width="400px" height="222px" alt="SU7 Ultra" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 410 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

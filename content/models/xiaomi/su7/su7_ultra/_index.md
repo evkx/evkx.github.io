@@ -1,7 +1,7 @@
 ---
 title: Xiaomi SU7 Ultra
 linktitle: "SU7 Ultra"
-description: "Xiaomi SU7 Ultra is an all-electric sedan with a CLTC range of up to 800 km (497 miles). EVKX.net has all the details."
+description: "Xiaomi SU7 Ultra is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,13 +30,13 @@ The Xiaomi SU7 Ultra delivers a jaw-dropping maximum power of 1138 KW (1547 hp/1
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 95.0 kWh and a net usable capacity of 93.7 kWh, providing a 1.3 kWh buffer (1.4%) for battery protection. Operating at a nominal voltage of 871 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 95.0 kWh and a net usable capacity of 93.7 kWh, providing a 1.3 kWh buffer (1.4%) for battery protection. Operating at a nominal voltage of 897 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 800 km (497 miles). The energy consumption is 11.7 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). The energy consumption is 13.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 39 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 218 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 75%. This results in an effective charging speed, including time lost, of 177 kW, with each charging session taking about 23 minutes and 55 seconds. This exceptionally fast charging capability makes the Xiaomi SU7 Ultra one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 410 kW. Charging from 0% to 100% takes approximately 29 minutes, while a more typical scenario from 10% to 80% takes 12 minutes with an average charging speed of 336 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 77%. This results in an effective charging speed, including time lost, of 245 kW, with each charging session taking about 17 minutes and 1 seconds. This exceptionally fast charging capability makes the Xiaomi SU7 Ultra one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 17 kWh/100 km, the trip would take approximately 8 hours and 46 minutes. This journey would require one charging stops from 1% to 83%, with a total charging time of 27 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 8 hours and 51 minutes. This journey would require two charging stops from 3% to 71%, with a total charging time of 31 minutes.
 
 ### Onboard Charger
 
@@ -52,7 +52,7 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ## Drivetrain
 
-The Xiaomi SU7 Ultra features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The Xiaomi SU7 Ultra has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -69,6 +69,8 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 ### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). The system stops the car completely using friction brakes.
+
+The maximum regenerative power is 400 kW.
 
 ## Exterior
 
@@ -94,7 +96,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The Xiaomi SU7 Ultra boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
+The Xiaomi SU7 Ultra boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -114,7 +116,7 @@ The following functionalities are available on the **** seat:
 
 Available in:
 
-- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/Yellow [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 - Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Purple [Nappa leather upholstering](../../../../technology/seats/materials/#leather)

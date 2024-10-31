@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC räckvidd
 			</td>
 			<td>
-				800 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				11,7 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -131,10 +131,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Max laddningskapacitet
+			</td>
+			<td>
+				410 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spänning
 			</td>
 			<td>
-				871
+				897
 			</td>
 		</tr>
 		<tr>

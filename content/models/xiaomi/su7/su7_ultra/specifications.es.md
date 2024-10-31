@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>
-				800 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo CLTC de ajuste básico
 			</td>
 			<td>
-				11,7 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -131,10 +131,18 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Carga CC máxima
+			</td>
+			<td>
+				410 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tensión nominal
 			</td>
 			<td>
-				871
+				897
 			</td>
 		</tr>
 		<tr>
