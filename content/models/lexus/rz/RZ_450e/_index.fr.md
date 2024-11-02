@@ -84,7 +84,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Lexus RZ 450e, avec des dimensions de 4805 mm de longueur, 1895 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Lexus RZ 450e est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et le capot sont peints dans une couleur différente, offrant un look distinctif et élégant.
+La Lexus RZ 450e, avec des dimensions de 4805 mm de longueur, 1895 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Lexus RZ 450e est disponible en un total de 9 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et le capot sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lexus RZ 450e, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

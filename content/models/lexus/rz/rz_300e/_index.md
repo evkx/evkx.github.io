@@ -84,7 +84,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Lexus RZ 300e, with dimensions of 4805 mm in length, 1895 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Lexus RZ 300e is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and hood are painted in a different color, providing a distinctive and stylish look.
+The Lexus RZ 300e, with dimensions of 4805 mm in length, 1895 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Lexus RZ 300e is available in a total of 9 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and hood are painted in a different color, providing a distinctive and stylish look.
 
 The Lexus RZ 300e offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 

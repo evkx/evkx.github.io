@@ -84,7 +84,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Lexus RZ 300e, med dimensioner på 4805 mm i längd, 1895 mm i bredd och 1635 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Lexus RZ 300e finns i totalt 10 lackfärger, inklusive både solida och metalliska alternativ. issa av dessa lackalternativ inkluderar tvåtonslack där taket och huven är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
+Lexus RZ 300e, med dimensioner på 4805 mm i längd, 1895 mm i bredd och 1635 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Lexus RZ 300e finns i totalt 9 lackfärger, inklusive både solida och metalliska alternativ. issa av dessa lackalternativ inkluderar tvåtonslack där taket och huven är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lexus RZ 300e, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 

@@ -54,18 +54,29 @@ Der Toyota bZ4X AWD verfügt über ein Allradantriebssystem, das von zwei Motore
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
+Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 210 mm.
+
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Toyota bZ4X AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
 ### Bremsen
 
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 328 mm, während die hinteren Scheiben 317 mm groß sind.
+
 ### Rekuperatives Bremsen
 
+Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell bietet mehrere Modi zur Steigerung der Effizienz und des Fahrerlebnisses. Die effizienteste Option ist der [**Automatische Regenerationsmodus**](../../../../technology/regen/#automatic-regen-adaptive), bei dem das Fahrzeug, wenn möglich, rollt und bei Bedarf durch regenerative Bremsung die Geschwindigkeit reduziert. <br /><br />**Manuelle Regeneration** ist ein weiterer Modus, bei dem die regenerative Bremsung durch Betätigen des Bremspedals gesteuert wird. Das Bremssystem mischt physische Bremsen nur dann ein, wenn es notwendig ist. <br /><br/> Eine weitere Option ist der [**Regen auf dem Gaspedal**](../../../../technology/regen/#one-pedal-driving) Modus, bei dem die regenerative Bremsung aktiviert wird, wenn der Fahrer das Gaspedal loslässt. Dieses System ermöglicht es dem Fahrzeug, langsamer zu werden und Energie zurückzugewinnen, ohne dass der Fahrer das Bremspedal betätigen muss, eine Funktion, die oft als **Ein-Pedal-Fahren** bezeichnet wird. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen vier Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 ## Exterieur
 
-Der Toyota bZ4X AWD, mit Abmessungen von 4690 mm Länge, 1860 mm Breite und 1550 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Sie können zwischen 1 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Toyota bZ4X AWD, mit Abmessungen von 4690 mm Länge, 1860 mm Breite und 1600 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Toyota bZ4X AWD ist in insgesamt 5 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
-Der Toyota bZ4X AWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Toyota bZ4X AWD erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+
+- 235/50 Reifen auf 20" Felgen
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -157,7 +168,7 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ### Navigationssystem
 
-Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das eingebaute Navigationssystem hilft Ihnen, Ihr Ziel mühelos zu erreichen. Es bietet auch Echtzeit-Verkehrsinformationen, die eine effiziente und stressfreie Reise gewährleisten. Es unterstützt jedoch keine Routenplanung mit Ladestopps, sodass Sie Ihre Ladestopps manuell planen müssen.
 
 ### Telefonspiegelung
 
@@ -189,19 +200,37 @@ Der Toyota bZ4X AWD verfügt über eine Reihe von standardmäßigen und optional
 
 [**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im Toyota bZ4X AWD, dieses System verhindert das Blockieren der Räder beim Bremsen.
 
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im Toyota bZ4X AWD, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
+
+[**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Toyota bZ4X AWD, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
+
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard im Toyota bZ4X AWD, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
+
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Toyota bZ4X AWD, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
 [**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Toyota bZ4X AWD, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Toyota bZ4X AWD, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
 [**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im Toyota bZ4X AWD, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
 
-[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Optional im Toyota bZ4X AWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Toyota bZ4X AWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im Toyota bZ4X AWD, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
 
 ### Fahrautomatisierung
 
-Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
+Mit dem Lane Tracing Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,5 +243,17 @@ Das maximale Gewicht des Fahrzeugs beträgt 2530 kg (5578 lbs) bei einem Leergew
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 750 kg (1653 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
+
+## Verfügbarkeit & Preise
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Toyota bZ4X AWD identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+
+<a href="https://db.evkx.net/evcompare?evs=94c894%2c7a651b%2cfcf585%2c224873" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Reichweite" >}}
