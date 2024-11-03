@@ -621,7 +621,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				13
@@ -629,7 +629,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				16,4
