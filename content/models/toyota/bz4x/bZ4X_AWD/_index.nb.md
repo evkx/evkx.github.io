@@ -54,11 +54,19 @@ Toyota bZ4X AWD har et firehjulsdriftssystem som støttes av to motorer, en på 
 
 ### Hjuloppheng
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
+standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
 
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på Toyota bZ4X AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
+### Kjøremoduser
+
+Toyota bZ4X AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
+
+- Normal: Balansert styring og gasspedal.
+- X-Mode: Dynamisk styring og gasspedal.
+- Eco: Balansert styring og effektiv gasspedal.
 
 ### Bremser
 
@@ -201,6 +209,7 @@ Toyota bZ4X AWD kommer med sin egen dedikerte mobilapp, tilgjengelig for både A
 
 - **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
 - **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
 - **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
 - **Vinduskontroll**: Åpne og lukk vinduene fra hvor som helst.
 - **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.

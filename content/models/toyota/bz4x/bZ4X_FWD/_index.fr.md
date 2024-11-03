@@ -54,11 +54,19 @@ Toyota bZ4X FWD dispose d'un système de traction avant pris en charge par un mo
 
 ### Suspension
 
-La suspension Standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 200 mm.
+La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Pilotage
 
 La direction dynamique est une fonctionnalité un standard sur le Toyota bZ4X FWD. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+
+### Modes de conduite
+
+Le Toyota bZ4X FWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
+
+- Normal: Direction et accélérateur équilibrés.
+- X-Mode: Direction et accélérateur dynamiques.
+- Eco: Direction équilibrée et accélérateur efficace.
 
 ### Freins
 
@@ -201,6 +209,7 @@ Le Toyota bZ4X FWD est accompagné de son application mobile dédiée, disponibl
 
 - **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
 - **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
 - **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
 - **Contrôle des fenêtres** : Ouvrez et fermez les fenêtres depuis n'importe où.
 - **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.

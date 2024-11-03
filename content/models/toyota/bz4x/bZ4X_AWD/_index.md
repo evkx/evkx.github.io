@@ -54,11 +54,19 @@ The Toyota bZ4X AWD features an all-wheel drive system powered by two motors, on
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
+The standard suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Steering
 
 Dynamic steering is a standard on the Toyota bZ4X AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Toyota bZ4X AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Normal: Balanced steering and throttle.
+- X-Mode: Dynamic steering and throttle.
+- Eco: Balanced steering and efficent throttle.
 
 ### Brakes
 
@@ -201,6 +209,7 @@ The Toyota bZ4X AWD comes with a dedicated mobile app, available for both Androi
 
 - **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
 - **Window Control:** Open and close the windows from anywhere.
 - **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.

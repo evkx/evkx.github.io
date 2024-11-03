@@ -54,11 +54,19 @@ Der Toyota bZ4X FWD hat ein Frontantriebssystem, das von einem Motor an der Vord
 
 ### Federung
 
-Die Standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 200 mm.
+Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Toyota bZ4X FWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der Toyota bZ4X FWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
+
+- Normal: Ausgewogene Lenkung und Gas.
+- X-Mode: Dynamische Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
 
 ### Bremsen
 
@@ -201,6 +209,7 @@ Der Toyota bZ4X FWD wird mit einer speziellen mobilen App geliefert, die sowohl 
 
 - **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
 - **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Fernparken:** Steuern Sie Ihr Auto mühelos, um es aus der Ferne zu parken oder aus einer Parklücke herauszufahren.
 - **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
 - **Fenstersteuerung:** Öffnen und schließen Sie die Fenster von überall aus.
 - **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.

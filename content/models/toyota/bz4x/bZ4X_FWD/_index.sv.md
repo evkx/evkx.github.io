@@ -54,11 +54,19 @@ Toyota bZ4X FWD har ett framhjulsdriftssystem som stöds av en motor på framaxe
 
 ### Hjulupphängning
 
-Fjädringen Standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 200 mm.
+Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Toyota bZ4X FWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+Toyota bZ4X FWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+
+- Normal: Balanserad styrning och gaspedal.
+- X-Mode: Dynamisk styrning och gaspedal.
+- Eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 
@@ -201,6 +209,7 @@ Toyota bZ4X FWD kommer med en egen dedikerad mobilapp, tillgänglig för både A
 
 - **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
 - **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Fjärrparkering**: Styr din bil på distans för att parkera eller lämna en parkeringsplats.
 - **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
 - **Fönsterkontroll**: Öppna och stäng fönstren varifrån som helst.
 - **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
