@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				470 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				12,3 kWh/100km
+				13,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				16,2 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				14,0 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				58 kWh
+				64 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Overhængsvinkel foran
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				DepartureAngle
+			</td>
+			<td>
+				25,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendecirkel
 			</td>
 			<td>
@@ -355,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2015 kg
+				2010 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2530 kg
+				2550 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				515 kg
+				540 kg
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +492,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				210 mm
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +500,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				210 mm
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -1030,6 +1046,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

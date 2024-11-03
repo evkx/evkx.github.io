@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 470 km (292 millas). EVKX.net tiene todos los detalles."
+description: "Toyota bZ4X AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 466 km (290 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ El Toyota bZ4X AWD ofrece un rendimiento modesto con una potencia máxima de 160
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 71,4 kWh y una capacidad neta utilizable de 58,0 kWh, proporcionando un buffer de 13,4 kWh (18,8%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 71,4 kWh y una capacidad neta utilizable de 64,0 kWh, proporcionando un buffer de 7,4 kWh (10,4%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 470 y 415 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,3 kWh/100 km para el modelo base y 14,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 466 y 415 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,7 kWh/100 km para el modelo base y 15,4 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 147kW. Una carga completa del 0 al 100 % tardaría 76 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 21 minutos y 54 segundos.
+La velocidad máxima de carga de CC es 147kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 22 minutos y 33 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 36 minutos. Este viaje requeriría dos paradas de carga del 1% al 51%, con un tiempo total de carga de 136 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 28 minutos. Este viaje requeriría dos paradas de carga del 1% al 53%, con un tiempo total de carga de 128 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 6,6 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 47 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 11 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 5 horas y 16 minutos en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 49 minutos usando un cargador en casa.
 
 ### Puerto de carga
 
@@ -54,7 +54,7 @@ Toyota bZ4X AWD tiene un sistema de tracción total sostenido por dos motores, u
 
 ### Suspensión
 
-La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 210 mm.
+La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 177 mm.
 
 ### Dirección
 
@@ -74,9 +74,12 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Toyota bZ4X AWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1600 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Toyota bZ4X AWD está disponible en un total de 5 colores de pintura, incluyendo varias opciones metálicas llamativas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Toyota bZ4X AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Toyota bZ4X AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+- Neumáticos 235/60 en llantas de 18
 - Neumáticos 235/50 en llantas de 20
+
+Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -89,6 +92,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El interior del Toyota bZ4X AWD es funcional, con materiales de calidad media utilizados en todo el vehículo. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
 
 ### Asientos
 
@@ -238,7 +243,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 El maletero ofrece una capacidad de carga de 452 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 2530 kg, con un peso base de 2015 kg. Esto permite una carga máxima de 515 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2550 kg, con un peso base de 2010 kg. Esto permite una carga máxima de 540 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 750 kg.
 

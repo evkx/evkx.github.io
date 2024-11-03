@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
-				470 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell
 			</td>
 			<td>
-				12,3 kWh/100km
+				13,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
-				16,2 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				14,0 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				58 kWh
+				64 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				25,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
@@ -355,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2015 kg
+				2010 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2530 kg
+				2550 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				515 kg
+				540 kg
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +492,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				210 mm
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +500,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				210 mm
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -1030,6 +1046,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

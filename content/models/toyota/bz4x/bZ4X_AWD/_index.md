@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details."
+description: "Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 466 km (290 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ The Toyota bZ4X AWD offers modest performance with a maximum power of 160 kW (21
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 71.4 kWh and a net usable capacity of 58.0 kWh, providing a 13.4 kWh buffer (18.8%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 71.4 kWh and a net usable capacity of 64.0 kWh, providing a 7.4 kWh buffer (10.4%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 470 to 415 km (292-258 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.3 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 466 to 415 km (290-258 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.7 kWh/100 km for the base model and 15.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 147 kW. Charging from 0% to 100% takes approximately 76 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 48%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 21 minutes and 54 seconds.
+The vehicle supports fast DC charging with a maximum power of 147 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical scenario from 10% to 80% takes 38 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 48%. This results in an effective charging speed, including time lost, of 78 kW, with each charging session taking about 22 minutes and 33 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 36 minutes. This journey would require six charging stops from 1% to 51%, with a total charging time of 136 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 28 minutes. This journey would require five charging stops from 1% to 53%, with a total charging time of 128 minutes.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 6.6 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 47 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 11 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 5 hours and 16 minutes at home.
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 49 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -54,7 +54,7 @@ The Toyota bZ4X AWD features an all-wheel drive system powered by two motors, on
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 210 mm.
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Steering
 
@@ -74,9 +74,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Toyota bZ4X AWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1600 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Toyota bZ4X AWD is available in a total of 5 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
-You can select from multiple wheel designs, all available in the same size, on the Toyota bZ4X AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+The Toyota bZ4X AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+- 235/60 tires on 18" rims
 - 235/50 tires on 20" rims
+
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -89,6 +92,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The interior of the Toyota bZ4X AWD is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
 
 ### Seats
 
@@ -238,7 +243,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 The trunk offers a cargo capacity of 452 liters (16.0 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
-The vehicle’s maximum weight is 2530 kg (5578 lbs), with a base weight of 2015 kg (4442 lbs). This allows for a maximum load of 515 kg (1135 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2550 kg (5622 lbs), with a base weight of 2010 kg (4431 lbs). This allows for a maximum load of 540 kg (1190 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

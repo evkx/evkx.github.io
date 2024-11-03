@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Basisausstattung
 			</td>
 			<td>
-				470 km
+				466 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				12,3 kWh/100km
+				13,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
 			</td>
 			<td>
-				16,2 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				14,0 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				58 kWh
+				64 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				25,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -355,7 +371,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2015 kg (4442 lbs)
+				2010 kg (4431 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2530 kg (5578 lbs)
+				2550 kg (5622 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				515 kg (1135 lbs)
+				540 kg (1190 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +492,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				210 mm (8,3")
+				177 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +500,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				210 mm (8,3")
+				177 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -1030,6 +1046,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

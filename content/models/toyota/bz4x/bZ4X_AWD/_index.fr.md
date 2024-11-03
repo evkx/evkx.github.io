@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 470 km (292 miles). EVKX.net a tous les détails."
+description: "Toyota bZ4X AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 466 km (290 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ L'Toyota bZ4X AWD offre des performances modestes avec une puissance maximale de
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 71,4 kWh et une capacité nette utilisable de 58,0 kWh, offrant une réserve de 13,4 kWh (18,8%) pour la protection de la batterie. Avec une tension nominale de 355,2 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 71,4 kWh et une capacité nette utilisable de 64,0 kWh, offrant une réserve de 7,4 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 355,2 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 470 et 415 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,3 kWh/100 km pour le modèle de base et à 14,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 466 et 415 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,7 kWh/100 km pour le modèle de base et à 15,4 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 147kW. Une charge complète de 0 à 100 % prendrait 76 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 48 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 77kW. Chaque session de charge prendrait 21 minutes et 54 secondes.
+La vitesse de charge DC maximale est de 147kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 38 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 48 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 78kW. Chaque session de charge prendrait 22 minutes et 33 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 36 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 51%, avec un temps de recharge total de 136 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 28 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 53%, avec un temps de recharge total de 128 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 6,6 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 47 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 11 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 5 heures et 16 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 49 minutes à domicile.
 
 ### Port de recharge
 
@@ -54,7 +54,7 @@ Toyota bZ4X AWD dispose d'un système de transmission intégrale pris en charge 
 
 ### Suspension
 
-La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 210 mm.
+La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Pilotage
 
@@ -74,9 +74,12 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 La Toyota bZ4X AWD, avec des dimensions de 4690 mm de longueur, 1860 mm de largeur et 1600 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Toyota bZ4X AWD est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Toyota bZ4X AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Toyota bZ4X AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+- Pneus 235/60 sur jantes de 18"
 - Pneus 235/50 sur jantes de 20"
+
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -89,6 +92,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
+
+L'intérieur de la Toyota bZ4X AWD est fonctionnel, avec des matériaux de qualité moyenne utilisés dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée.
 
 ### Sièges
 
@@ -238,7 +243,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 Le coffre offre une capacité de chargement de 452 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
-Le poids maximum du véhicule est de 2530 kg, avec un poids de base de 2015 kg. Cela permet une charge maximale de 515 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2550 kg, avec un poids de base de 2010 kg. Cela permet une charge maximale de 540 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 750 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 

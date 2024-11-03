@@ -271,7 +271,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Overhængsvinkel foran
+				Angrebsvinkel
 			</td>
 			<td>
 				19,7
@@ -279,7 +279,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				OverhangAngleRear
+				Afgangsvinkel
 			</td>
 			<td>
 				24,9

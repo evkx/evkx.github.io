@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 470 km. EVKX.net har alla detaljer."
+description: "Toyota bZ4X AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 466 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ Toyota bZ4X AWD erbjuder blygsamma prestanda med en maximal effekt på 160 kW (2
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 71,4 kWh och en nettoanvändbar kapacitet på 58,0 kWh, vilket ger en buffert på 13,4 kWh (18,8%) för batteriskydd. Med en nominell spänning på 355,2 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 71,4 kWh och en nettoanvändbar kapacitet på 64,0 kWh, vilket ger en buffert på 7,4 kWh (10,4%) för batteriskydd. Med en nominell spänning på 355,2 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 470 och 415 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,3 kWh/100 km för basmodellen och 14,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 466 och 415 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,7 kWh/100 km för basmodellen och 15,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 147 kW. En full laddning från 0 - 100 % tar 76 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 21 minuter och 54 sekunder.
+Maximal DC-laddningshastighet är 147 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 78kW. Varje laddningssession tar 22 minuter och 33 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 51%, med en total laddningstid på 136 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 28 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 53%, med en total laddningstid på 128 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 6,6 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 47 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 11 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 5 timmar och 16 minuter hemma.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 49 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -54,7 +54,7 @@ Toyota bZ4X AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på v
 
 ### Hjulupphängning
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 210 mm.
+Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Styrning
 
@@ -74,9 +74,12 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 Toyota bZ4X AWD, med dimensioner på 4690 mm i längd, 1860 mm i bredd och 1600 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Toyota bZ4X AWD finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Toyota bZ4X AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjulalternativ i olika storlekar på Toyota bZ4X AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+- 235/60 däck på 18" fälgar
 - 235/50 däck på 20" fälgar
+
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -89,6 +92,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
+
+Interiören i Toyota bZ4X AWD är funktionell och har material av medelkvalitet i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet.
 
 ### Säten
 
@@ -238,7 +243,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 Bagageutrymmet erbjuder en lastkapacitet på 452 liter. På taket kan du lasta upp till 80 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
 
-Fordonets maximala vikt är 2530 kg, med en grundvikt på 2015 kg. Detta tillåter en maximal last på 515 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2550 kg, med en grundvikt på 2010 kg. Detta tillåter en maximal last på 540 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
 

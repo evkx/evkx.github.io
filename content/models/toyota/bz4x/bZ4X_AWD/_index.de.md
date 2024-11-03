@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 470 km (292 Meilen). EVKX.net hat alle Details."
+description: "Toyota bZ4X AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 466 km (290 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ Der Toyota bZ4X AWD bietet eine bescheidene Leistung mit einer maximalen Leistun
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 71,4 kWh und eine nutzbare Nettokapazität von 58,0 kWh, was einen Puffer von 13,4 kWh (18,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355,2 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 71,4 kWh und eine nutzbare Nettokapazität von 64,0 kWh, was einen Puffer von 7,4 kWh (10,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355,2 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 470 und 415 km (292-258 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 12,3 kWh/100 km für das Basismodell und 14,0 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 466 und 415 km (290-258 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 13,7 kWh/100 km für das Basismodell und 15,4 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 147 kW. Das Laden von 0% auf 100% dauert etwa 76 Minuten, während ein typischer Ladevorgang von 10% auf 80% 35 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 70 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 2% und 48%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 77 kW, wobei jede Ladesitzung etwa 21 Minuten und 54 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 147 kW. Das Laden von 0% auf 100% dauert etwa 84 Minuten, während ein typischer Ladevorgang von 10% auf 80% 38 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 70 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 48%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 78 kW, wobei jede Ladesitzung etwa 22 Minuten und 33 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 10 Stunden und 36 Minuten dauern. Diese Reise würde sechs Ladestopps von 1% auf 51% erfordern, mit einer gesamten Ladezeit von 136 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 10 Stunden und 28 Minuten dauern. Diese Reise würde fünf Ladestopps von 1% auf 53% erfordern, mit einer gesamten Ladezeit von 128 Minuten.
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 6,6 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 47 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Onboard-Ladegerät wählen, das bis zu 11 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 5 Stunden und 16 Minuten vollständig von 0 auf 100% aufladen.
+Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 49 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -54,7 +54,7 @@ Der Toyota bZ4X AWD verfügt über ein Allradantriebssystem, das von zwei Motore
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 210 mm.
+Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
 
 ### Lenkung
 
@@ -74,9 +74,12 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 Der Toyota bZ4X AWD, mit Abmessungen von 4690 mm Länge, 1860 mm Breite und 1600 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Toyota bZ4X AWD ist in insgesamt 5 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
-Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Toyota bZ4X AWD erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+Der Toyota bZ4X AWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
+- 235/60 Reifen auf 18" Felgen
 - 235/50 Reifen auf 20" Felgen
+
+Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -89,6 +92,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Das Interieur des Toyota bZ4X AWD ist funktional, mit mittelmäßigen Materialien im gesamten Fahrzeug. Ein herausragendes Merkmal ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet.
 
 ### Sitze
 
@@ -238,7 +243,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 Der Kofferraum bietet ein Ladevolumen von 452 Litern (16,0 CU FT). Auf dem Dach können Sie bis zu 80 kg (176,4 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2530 kg (5578 lbs) bei einem Leergewicht von 2015 kg (4442 lbs). Dies ermöglicht eine maximale Zuladung von 515 kg (1135 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2550 kg (5622 lbs) bei einem Leergewicht von 2010 kg (4431 lbs). Dies ermöglicht eine maximale Zuladung von 540 kg (1190 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 750 kg (1653 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

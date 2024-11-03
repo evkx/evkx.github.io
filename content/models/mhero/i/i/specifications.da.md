@@ -365,7 +365,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				OverhangAngleRear
+				DepartureAngle
 			</td>
 			<td>
 				37,5
