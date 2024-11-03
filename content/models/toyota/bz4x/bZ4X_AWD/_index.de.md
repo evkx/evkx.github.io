@@ -50,7 +50,7 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 ## Antriebsstrang
 
-Der Toyota bZ4X AWD verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse.
+Der Toyota bZ4X AWD verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/).
 
 ### Federung
 
@@ -72,7 +72,7 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 ## Exterieur
 
-Der Toyota bZ4X AWD, mit Abmessungen von 4690 mm Länge, 1860 mm Breite und 1600 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Toyota bZ4X AWD ist in insgesamt 5 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
+Der Toyota bZ4X AWD, mit Abmessungen von 4690 mm Länge, 1860 mm Breite und 1600 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Toyota bZ4X AWD ist in insgesamt 11 Lackfarben erhältlich, darunter Unilack-, Metallic- und Perlmutt-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
 Der Toyota bZ4X AWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -107,6 +107,8 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
@@ -118,6 +120,7 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
@@ -133,11 +136,15 @@ Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als
 
 Der Toyota bZ4X AWD umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
+- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
+- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des Toyota bZ4X AWD kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
 
 Für den Toyota bZ4X AWD sind zwei verschiedene Bildschirmkonfigurationen verfügbar.
 
@@ -187,6 +194,16 @@ Sie können zwischen zwei Soundsystemen für den Toyota bZ4X AWD wählen:
 - **JBL Premium Sound:** Verfügt über neun Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
+
+## Mobile App
+
+Der Toyota bZ4X AWD wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Fenstersteuerung:** Öffnen und schließen Sie die Fenster von überall aus.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
 
 ## Lichter
 

@@ -50,7 +50,7 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Toyota bZ4X AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
+Toyota bZ4X AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
 
@@ -72,7 +72,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Toyota bZ4X AWD, med dimensioner på 4690 mm i längd, 1860 mm i bredd och 1600 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Toyota bZ4X AWD finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
+Toyota bZ4X AWD, med dimensioner på 4690 mm i längd, 1860 mm i bredd och 1600 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Toyota bZ4X AWD finns i totalt 11 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Toyota bZ4X AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -107,6 +107,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
@@ -118,6 +120,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
@@ -133,11 +136,15 @@ Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som til
 
 Toyota bZ4X AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
 
 Två olika skärmlayouter är tillgängliga på Toyota bZ4X AWD.
 
@@ -187,6 +194,16 @@ Du kan välja mellan två ljudsystem på Toyota bZ4X AWD.
 - Med JBL Premium Sound får du nio högtalare med en maximal systemeffekt på  watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
+
+## Mobilapp
+
+Toyota bZ4X AWD kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Fönsterkontroll**: Öppna och stäng fönstren varifrån som helst.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
 
 ## Ljus
 

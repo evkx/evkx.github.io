@@ -327,7 +327,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Främre överhängsvinkel
+				Anfallsvinkel
 			</td>
 			<td>
 				17,7
@@ -335,7 +335,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre överhängsvinkel
+				Avgångsvinkel
 			</td>
 			<td>
 				25,4
@@ -596,7 +596,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standardfunktion, valfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Valfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

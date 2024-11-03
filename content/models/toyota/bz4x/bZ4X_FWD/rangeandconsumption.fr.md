@@ -43,7 +43,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				516 km / 321 mi
 			</td>
 			<td>
-				11,24kWh/100km / 5,5 mi/kWh
+				12,40kWh/100km / 5,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				442 km / 275 mi
 			</td>
 			<td>
-				13,12 kWh/100km / 4,7 mi/kWh
+				14,48 kWh/100km / 4,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture de base de la gamme WLTP avec 2KW AC
 			</td>
 			<td>
-				 373km / 232 mi 
+				 383km / 238 mi 
 			</td>
 			<td>
-				-27,7%
+				-25,8%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture supérieure de gamme WLTP avec 2KW AC
 			</td>
 			<td>
-				333 km / 207 mi
+				341 km / 212 mi
 			</td>
 			<td>
-				-24,7%
+				-22,9%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				120kmh/75mph parfait état
 			</td>
 			<td>
-				264 km / 164 mi
+				291 km / 181 mi
 			</td>
 			<td>
 				22 kWh/100km / 2,8 mi/kWh
@@ -143,7 +143,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				120kmh/75mph avec chauffage 2KW
 			</td>
 			<td>
-				245 km /152mi
+				271 km /168mi
 			</td>
 			<td>
 				23,7 kWh/100km /2,6 mi/kWh

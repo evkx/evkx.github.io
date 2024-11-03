@@ -327,7 +327,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Angle de porte-à-faux avant
+				Angle d'approche
 			</td>
 			<td>
 				17,7
@@ -335,7 +335,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Angle de porte-à-faux arrière
+				Angle de départ
 			</td>
 			<td>
 				25,4
@@ -596,7 +596,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique optionnelle
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

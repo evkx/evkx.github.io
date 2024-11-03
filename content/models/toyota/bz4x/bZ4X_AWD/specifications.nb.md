@@ -327,7 +327,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				17,7
@@ -335,7 +335,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				25,4
@@ -596,7 +596,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Valgfri elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

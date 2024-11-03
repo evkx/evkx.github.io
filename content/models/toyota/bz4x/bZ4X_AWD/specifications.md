@@ -596,7 +596,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Optional electric feature
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>

@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				11,2 kWh/100km
+				12,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				13,1 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				58 kWh
+				64 kWh
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1550 mm
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1631 mm
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,23 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1641 mm
+				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle d'approche
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de départ
+			</td>
+			<td>
+				25,4
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +596,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +612,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique optionnelle
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +700,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -814,6 +830,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Maintien de la voie
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -821,6 +838,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de sortie de voie
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -828,6 +846,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +870,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de trafic transversal arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -858,7 +878,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement arrière
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -866,7 +886,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement avant
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -874,6 +894,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -889,6 +910,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -920,6 +942,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -935,6 +958,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle électronique de stabilité
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +966,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +974,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au trafic transversal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +982,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -971,7 +998,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -979,6 +1006,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Vision nocturne
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1018,6 +1046,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1041,7 +1070,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Dans la navigation automobile
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

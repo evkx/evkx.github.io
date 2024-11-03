@@ -327,7 +327,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Overhængsvinkel foran
+				Angrebsvinkel
 			</td>
 			<td>
 				17,7
@@ -335,7 +335,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				DepartureAngle
+				Afgangsvinkel
 			</td>
 			<td>
 				25,4
@@ -596,7 +596,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Valgfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>

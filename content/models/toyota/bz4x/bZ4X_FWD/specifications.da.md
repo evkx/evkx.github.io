@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				11,2 kWh/100km
+				12,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				13,1 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				58 kWh
+				64 kWh
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1550 mm
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1631 mm
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,23 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1641 mm
+				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angrebsvinkel
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Afgangsvinkel
+			</td>
+			<td>
+				25,4
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +596,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +612,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Valgfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +700,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -814,6 +830,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kørebanehold
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -821,6 +838,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Advarsel om vognbaneskift
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -828,6 +846,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Døsighedsalarm
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +870,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Alarm bag krydstrafik
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -858,7 +878,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer bagpå
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -866,7 +886,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer foran
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -874,6 +894,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer fra siden
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -889,6 +910,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -920,6 +942,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Undgåelse af venstresving
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -935,6 +958,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektronisk stabilitetskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +966,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +974,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +982,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -971,7 +998,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Traffic Sign Recognition
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -979,6 +1006,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Natsyn
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -1018,6 +1046,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1041,7 +1070,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				I bilnavigation
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

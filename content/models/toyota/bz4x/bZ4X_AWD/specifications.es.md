@@ -327,7 +327,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Ángulo de voladizo frontal
+				Ángulo de aproximación
 			</td>
 			<td>
 				17,7
@@ -335,7 +335,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Ángulo de voladizo trasero
+				Ángulo de salida
 			</td>
 			<td>
 				25,4
@@ -596,7 +596,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica opcional
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>

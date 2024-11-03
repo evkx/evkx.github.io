@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				11,2 kWh/100km
+				12,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				13,1 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				58 kWh
+				64 kWh
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1550 mm
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1631 mm
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,23 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1641 mm
+				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de aproximación
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de salida
+			</td>
+			<td>
+				25,4
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +596,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +612,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica opcional
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +700,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -814,6 +830,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Mantenerse en el carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -821,6 +838,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de cambio de carril
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -828,6 +846,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -851,6 +870,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -858,7 +878,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -866,7 +886,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -874,6 +894,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -889,6 +910,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -920,6 +942,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -935,6 +958,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +966,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +974,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +982,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -971,7 +998,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -979,6 +1006,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Visión nocturna
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1018,6 +1046,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1041,7 +1070,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				En navegación del coche
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

@@ -30,17 +30,17 @@ El Toyota bZ4X FWD ofrece un rendimiento modesto con una potencia máxima de 160
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 71,4 kWh y una capacidad neta utilizable de 58,0 kWh, proporcionando un buffer de 13,4 kWh (18,8%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 71,4 kWh y una capacidad neta utilizable de 64,0 kWh, proporcionando un buffer de 7,4 kWh (10,4%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 516 y 442 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 11,2 kWh/100 km para el modelo base y 13,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 516 y 442 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,4 kWh/100 km para el modelo base y 14,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 147kW. Una carga completa del 0 al 100 % tardaría 76 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 21 minutos y 54 segundos.
+La velocidad máxima de carga de CC es 147kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 22 minutos y 33 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 27 minutos. Este viaje requeriría dos paradas de carga del 6% al 46%, con un tiempo total de carga de 128 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 20 minutos. Este viaje requeriría dos paradas de carga del 1% al 50%, con un tiempo total de carga de 120 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 6,6 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 47 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 11 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 5 horas y 16 minutos en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 49 minutos usando un cargador en casa.
 
 ### Puerto de carga
 
@@ -66,12 +66,20 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay cuatro niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 ## Exterior
 
-El Toyota bZ4X FWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1550 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
+El Toyota bZ4X FWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1600 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Toyota bZ4X FWD está disponible en un total de 11 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Toyota bZ4X FWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/60 en llantas de 18
+- Neumáticos 235/50 en llantas de 20
+
+Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -85,6 +93,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
+El interior del Toyota bZ4X FWD es funcional, con materiales de calidad media utilizados en todo el vehículo. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
+
 ### Asientos
 
 El Toyota bZ4X FWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -97,6 +107,8 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
@@ -108,6 +120,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
@@ -123,11 +136,15 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 
 El Toyota bZ4X FWD incluye varias características para mejorar la comodidad y conveniencia:
 
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
 
 Hay dos configuraciones de pantalla diferentes disponibles en Toyota bZ4X FWD.
 
@@ -163,7 +180,7 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado te ayuda a llegar a tu destino con facilidad. También proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés. Sin embargo, no admite la planificación de rutas con paradas de carga, lo que requiere que planifiques tus paradas de carga manualmente.
 
 ### Espejo del teléfono
 
@@ -177,6 +194,16 @@ Puedes elegir entre dos sistemas de sonido en el Toyota bZ4X FWD.
 - Con el JBL Premium Sound, obtienes nueve parlantes con una salida máxima del sistema de  vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
+
+## Aplicación móvil
+
+El Toyota bZ4X FWD viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Control de ventanas**: Abre y cierra las ventanas desde cualquier lugar.
+- **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
 
 ## Luces
 
@@ -195,19 +222,37 @@ El Toyota bZ4X FWD incluye varios [sistemas avanzados de asistencia al conductor
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Toyota bZ4X FWD, este sistema evita que las ruedas se bloqueen durante el frenado.
 
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Toyota bZ4X FWD, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
+[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Toyota bZ4X FWD, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+
+[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Toyota bZ4X FWD, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Toyota bZ4X FWD, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
 [**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Toyota bZ4X FWD, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
 
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Toyota bZ4X FWD, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 [**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Toyota bZ4X FWD, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Toyota bZ4X FWD, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Toyota bZ4X FWD, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Toyota bZ4X FWD, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+Con el sistema Lane Tracing Assist  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
+- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,5 +265,8 @@ El peso máximo del vehículo es 2195 kg, con un peso base de 1945 kg. Esto perm
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
+
+## Disponibilidad y precios
+
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Rango" >}}

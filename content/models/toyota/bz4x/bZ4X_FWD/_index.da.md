@@ -30,17 +30,17 @@ Toyota bZ4X FWD tilbyder beskedne præstationer med en maksimal effekt på 160 k
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 71,4 kWh og en nettoanvendelig kapacitet på 58,0 kWh, hvilket giver en buffer på 13,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355,2 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 71,4 kWh og en nettoanvendelig kapacitet på 64,0 kWh, hvilket giver en buffer på 7,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355,2 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 516 og 442 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 11,2 kWh/100 km for basismodellen og 13,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 516 og 442 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,4 kWh/100 km for basismodellen og 14,5 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 147kW. En fuld opladning fra 0 - 100 % ville tage 76 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 77kW. Hver opladningssession ville tage 21 minutter og 54 sekunder.
+Den maksimale DC-opladningshastighed er 147kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 78kW. Hver opladningssession ville tage 22 minutter og 33 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 10 timer og 27 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 46%, med en samlet opladningstid på 128 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 10 timer og 20 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 50%, med en samlet opladningstid på 120 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 47 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 11 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 5 timer og 16 minutter derhjemme.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 49 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 
@@ -66,12 +66,20 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
+Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er fire niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 ## Udvendig
 
-Den Toyota bZ4X FWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1550 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
+Den Toyota bZ4X FWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1600 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Toyota bZ4X FWD fås i alt 11 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Toyota bZ4X FWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/60 dæk on 18" fælge
+- 235/50 dæk on 20" fælge
+
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -85,6 +93,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
+Interiøret i Toyota bZ4X FWD er funktionelt og har materialer af middel kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet.
+
 ### Sæder
 
 Toyota bZ4X FWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -97,6 +107,8 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
@@ -108,6 +120,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
@@ -123,11 +136,15 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 
 Toyota bZ4X FWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
 
 To forskellige skærmopsætninger er tilgængelige på Toyota bZ4X FWD.
 
@@ -163,7 +180,7 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem hjælper dig med at navigere til din destination med lethed. Det giver også realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse. Dog understøtter det ikke ruteplanlægning med ladestop, hvilket kræver, at du planlægger dine ladestop manuelt.
 
 ### Telefon spejling
 
@@ -177,6 +194,16 @@ Du kan vælge mellem to lydsystemer på Toyota bZ4X FWD.
 - Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-C-forbindelser som standard.
+
+## Mobilapp
+
+Den Toyota bZ4X FWD kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Vindueskontrol**: Åbn og luk vinduerne hvor som helst fra.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
 
 ## Lys
 
@@ -195,19 +222,37 @@ Den Toyota bZ4X FWD inkluderer flere standard- og valgfri [avancerede førerassi
 
 [**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Toyota bZ4X FWD, dette system forhindrer hjulene i at låse under opbremsning.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Toyota bZ4X FWD, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Toyota bZ4X FWD, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Toyota bZ4X FWD, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Toyota bZ4X FWD, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Toyota bZ4X FWD, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Toyota bZ4X FWD, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Toyota bZ4X FWD, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Toyota bZ4X FWD, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Toyota bZ4X FWD, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Toyota bZ4X FWD, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med Lane Tracing Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,5 +265,8 @@ Køretøjets maksimale vægt er 2195 kg, med en basisvægt på 1945 kg. Dette gi
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 750 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
+
+## Tilgængelighed og priser
+
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -327,7 +327,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Überhangwinkel vorne
+				Böschungswinkel vorne
 			</td>
 			<td>
 				17,7
@@ -335,7 +335,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Überhangwinkel hinten
+				Böschungswinkel hinten
 			</td>
 			<td>
 				25,4
@@ -596,7 +596,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Optionale elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +700,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
