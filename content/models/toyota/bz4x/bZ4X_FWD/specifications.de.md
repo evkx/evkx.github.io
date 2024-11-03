@@ -1070,7 +1070,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				In-Car-Navigation
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Ja, Sonderausstattung
 			</td>
 		</tr>
 		<tr>

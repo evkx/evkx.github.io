@@ -278,14 +278,23 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 507 000,00 NOK (Norge)
+
 ## Alternative Modeller
 
 I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Toyota bZ4X AWD, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
 
-- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
+- [Chevrolet Equinox EV AWD](/models/chevrolet/equinox_ev/equinox_ev_awd/)
 - [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
 - [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Ford Mustang Mach-E Standard Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/)
 
-<a href="https://db.evkx.net/evcompare?evs=94c894%2c7a651b%2cfcf585%2c224873" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=94c894%2c3ed2cf%2cfcf585%2c224873%2c2297fd%2c0cb6ee%2cba4aad" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Range" >}}

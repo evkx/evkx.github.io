@@ -1070,7 +1070,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Dans la navigation automobile
 			</td>
 			<td>
-				Oui, équipement standard
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>

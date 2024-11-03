@@ -278,14 +278,23 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 507 000,00 NOK (Norway)
+
 ## Alternative Models
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Toyota bZ4X AWD that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
+- [Chevrolet Equinox EV AWD](/models/chevrolet/equinox_ev/equinox_ev_awd/)
 - [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
 - [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Ford Mustang Mach-E Standard Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/)
 
-<a href="https://db.evkx.net/evcompare?evs=94c894%2c7a651b%2cfcf585%2c224873" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=94c894%2c3ed2cf%2cfcf585%2c224873%2c2297fd%2c0cb6ee%2cba4aad" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Range" >}}
