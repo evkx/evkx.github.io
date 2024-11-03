@@ -213,6 +213,7 @@ The Toyota bZ4X AWD comes with a dedicated mobile app, available for both Androi
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
 - **Window Control:** Open and close the windows from anywhere.
 - **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Driving History:** Review the details of your past trips.
 
 ## Lights
 

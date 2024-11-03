@@ -213,6 +213,7 @@ El Toyota bZ4X FWD viene con su propia aplicación móvil, disponible para dispo
 - **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
 - **Control de ventanas**: Abre y cierra las ventanas desde cualquier lugar.
 - **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
+- **Historial de conducción**: Revisa los detalles de tus viajes anteriores.
 
 ## Luces
 

@@ -213,6 +213,7 @@ Le Toyota bZ4X AWD est accompagné de son application mobile dédiée, disponibl
 - **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
 - **Contrôle des fenêtres** : Ouvrez et fermez les fenêtres depuis n'importe où.
 - **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Historique de conduite** : Consultez les détails de vos trajets précédents.
 
 ## Lumières
 

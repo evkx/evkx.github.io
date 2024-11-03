@@ -213,6 +213,7 @@ Toyota bZ4X AWD kommer med en egen dedikerad mobilapp, tillgänglig för både A
 - **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
 - **Fönsterkontroll**: Öppna och stäng fönstren varifrån som helst.
 - **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
+- **Körhistorik**: Granska detaljerna för dina tidigare resor.
 
 ## Ljus
 

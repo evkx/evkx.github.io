@@ -213,6 +213,7 @@ Der Toyota bZ4X AWD wird mit einer speziellen mobilen App geliefert, die sowohl 
 - **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
 - **Fenstersteuerung:** Öffnen und schließen Sie die Fenster von überall aus.
 - **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+- **Fahrtenverlauf:** Überprüfen Sie die Details Ihrer vergangenen Fahrten.
 
 ## Lichter
 
