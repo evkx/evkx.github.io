@@ -169,7 +169,7 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ### Navigationssystem
 
-Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine erweiterte Routenplanung, mit der Sie das Ziel-Ladelevel an Ihrem Zielort oder während der Ladestopps definieren können. Das System bietet Echtzeit-Verkehrsinformationen und sorgt für eine effiziente und stressfreie Reise.
 
 ### Telefonspiegelung
 

@@ -169,7 +169,7 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Espejo del teléfono
 

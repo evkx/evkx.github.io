@@ -9,6 +9,34 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5 N 1000 km challenge Part 2</h3>
+<p>Bjørn Nyland: 04.11.2024</p>
+
+{{< youtube XQbbk3HMdOk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5 N 1000 km challenge Part 1</h3>
+<p>Bjørn Nyland: 03.11.2024</p>
+
+{{< youtube lByVe8VpBC0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5 N Trip to Hemsedal</h3>
+<p>Bjørn Nyland: 02.11.2024</p>
+
+{{< youtube _d7RTOoUWFw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5 N Range test</h3>
+<p>Bjørn Nyland: 01.11.2024</p>
+
+{{< youtube A5uI2qkrtSE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The 2025 Hyundai Ioniq5 N Is A Mind Bogglingly Quick Electric Hot Hatch With German Vibes</h3>
 <p>Red Line Reviews: 10.08.2024</p>
 

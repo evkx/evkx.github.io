@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Ford Explorer EV Is A Volkswagen & It’s So Good America Should Get It! Full Tour & First Drive</h3>
+<p>Fully Charged Show: 03.11.2024</p>
+
+{{< youtube Ry09UX7sVwU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The New Ford Explorer Is Finally Here…</h3>
 <p>Fully Charged Show: 09.07.2024</p>
 
