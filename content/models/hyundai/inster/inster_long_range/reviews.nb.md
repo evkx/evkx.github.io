@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Inster: The Best Small Car Ever Made??</h3>
+<p>Fully Charged Show: 01.11.2024</p>
+
+{{< youtube W7IRi0GbRog >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST LOOK: Hyundai INSTER - inside the £22k city car that’s set to be a huge hit</h3>
 <p>Electryfing: 27.06.2024</p>
 
