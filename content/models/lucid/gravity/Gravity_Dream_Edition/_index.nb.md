@@ -72,15 +72,13 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Lucid Gravity Dream Edition, med dimensjoner på 5034 mm i lengde, 1999 mm i bredde og 1656 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Lucid Gravity Dream Edition, med dimensjoner på 5034 mm i lengde, 1999 mm i bredde og 1656 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Lucid Gravity Dream Edition er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Gravity Dream Edition, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-- 245/45 dekk på 20" felger
-- 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
-- 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
-- 265/40 dekk på 22" felger foran og 285/40 dekk på 22" felger bak
-- 265/35 dekk på 23" felger foran og 285/35 dekk på 23" felger bak
+- 265/50 dekk på 20" felger foran og 285/45 dekk på 21" felger bak
+- 265/45 dekk på 21" felger foran og 285/40 dekk på 22" felger bak
+- 265/40 dekk på 21" felger foran og 285/35 dekk på 23" felger bak
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 

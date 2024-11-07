@@ -473,7 +473,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
-	Lucid har 2 modeller med i alt 6 varianter.
+	Lucid har 2 modeller med i alt 7 varianter.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå til Lucid EV-modeloversigt</a>
 </div>

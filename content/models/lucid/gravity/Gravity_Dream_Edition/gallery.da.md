@@ -36,6 +36,24 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_12.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_12.jpeg"
+data-pswp-width="2700"
+data-pswp-height="1801" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_12_xst.jpeg" alt="Lucid Gravity Dream Edition" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_13.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_13.jpeg"
+data-pswp-width="2700"
+data-pswp-height="1801" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_13_xst.jpeg" alt="Lucid Gravity Dream Edition" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_2.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/exterior_2.jpeg"
 data-pswp-width="3000"

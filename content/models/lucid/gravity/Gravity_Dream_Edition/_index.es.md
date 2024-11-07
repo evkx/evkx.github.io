@@ -72,15 +72,13 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Lucid Gravity Dream Edition, con dimensiones de 5034 mm de longitud, 1999 mm de anchura y 1656 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Lucid Gravity Dream Edition, con dimensiones de 5034 mm de longitud, 1999 mm de anchura y 1656 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Lucid Gravity Dream Edition está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lucid Gravity Dream Edition, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 245/45 en llantas de 20
-- Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
-- Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 265/40 en llantas de 21" traseras
-- Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 285/40 en llantas de 22" traseras
-- Neumáticos 265/35 en llantas de 23" delanteras y neumáticos 285/35 en llantas de 23" traseras
+- Neumáticos 265/50 en llantas de 20" delanteras y neumáticos 285/45 en llantas de 21" traseras
+- Neumáticos 265/45 en llantas de 21" delanteras y neumáticos 285/40 en llantas de 22" traseras
+- Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 285/35 en llantas de 23" traseras
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 

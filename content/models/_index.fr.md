@@ -476,7 +476,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
-	Lucid a 2 modèles avec un total de 6 variantes.
+	Lucid a 2 modèles avec un total de 7 variantes.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Aller à la Lucid présentation du modèle EV</a>
 </div>

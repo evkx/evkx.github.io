@@ -476,7 +476,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
-	Lucid har 2 modell(er) med totalt 6 varianter.
+	Lucid har 2 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå till Lucid modellöversikt</a>
 </div>

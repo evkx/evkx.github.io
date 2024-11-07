@@ -72,15 +72,13 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ## Exterieur
 
-Der Lucid Gravity Dream Edition, mit Abmessungen von 5034 mm Länge, 1999 mm Breite und 1656 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Sie können zwischen 7 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Lucid Gravity Dream Edition, mit Abmessungen von 5034 mm Länge, 1999 mm Breite und 1656 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Lucid Gravity Dream Edition ist in insgesamt 6 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
 Der Lucid Gravity Dream Edition bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 245/45 Reifen auf 20" Felgen
-- 245/40 Reifen auf 20" Felgen vorne und 265/40 Reifen auf 20" Felgen hinten
-- 245/40 Reifen auf 21" Felgen vorne und 265/40 Reifen auf 21" Felgen hinten
-- 265/40 Reifen auf 22" Felgen vorne und 285/40 Reifen auf 22" Felgen hinten
-- 265/35 Reifen auf 23" Felgen vorne und 285/35 Reifen auf 23" Felgen hinten
+- 265/50 Reifen auf 20" Felgen vorne und 285/45 Reifen auf 21" Felgen hinten
+- 265/45 Reifen auf 21" Felgen vorne und 285/40 Reifen auf 22" Felgen hinten
+- 265/40 Reifen auf 21" Felgen vorne und 285/35 Reifen auf 23" Felgen hinten
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 

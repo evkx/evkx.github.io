@@ -72,15 +72,13 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ## Exterior
 
-The Lucid Gravity Dream Edition, with dimensions of 5034 mm in length, 1999 mm in width, and 1656 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 7 different paint colors when ordering this model.
+The Lucid Gravity Dream Edition, with dimensions of 5034 mm in length, 1999 mm in width, and 1656 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Lucid Gravity Dream Edition is available in a total of 6 paint colors, including both solid and metallic options.
 
 The Lucid Gravity Dream Edition offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 245/45 tires on 20" rims
-- 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
-- 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
-- 265/40 tires on 22" rims front and 285/40 tires on 22" rims rear
-- 265/35 tires on 23" rims front and 285/35 tires on 23" rims rear
+- 265/50 tires on 20" rims front and 285/45 tires on 21" rims rear
+- 265/45 tires on 21" rims front and 285/40 tires on 22" rims rear
+- 265/40 tires on 21" rims front and 285/35 tires on 23" rims rear
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 

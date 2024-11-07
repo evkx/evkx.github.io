@@ -41,7 +41,7 @@ Lucid Air er en sedan tilgængelig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lucid Gravity er en SUV tilgængelig i 1 varianter.
+Lucid Gravity er en SUV tilgængelig i 2 varianter.
 </p>
 	<a href="gravity/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

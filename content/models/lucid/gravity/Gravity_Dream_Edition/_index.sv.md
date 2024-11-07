@@ -72,15 +72,13 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Lucid Gravity Dream Edition, med dimensioner på 5034 mm i längd, 1999 mm i bredd och 1656 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
+Lucid Gravity Dream Edition, med dimensioner på 5034 mm i längd, 1999 mm i bredd och 1656 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Lucid Gravity Dream Edition finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Gravity Dream Edition, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 245/45 däck på 20" fälgar
-- 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
-- 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
-- 265/40 däck på 22" fälgar fram och 285/40 däck på 22" fälgar bak
-- 265/35 däck på 23" fälgar fram och 285/35 däck på 23" fälgar bak
+- 265/50 däck på 20" fälgar fram och 285/45 däck på 21" fälgar bak
+- 265/45 däck på 21" fälgar fram och 285/40 däck på 22" fälgar bak
+- 265/40 däck på 21" fälgar fram och 285/35 däck på 23" fälgar bak
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 

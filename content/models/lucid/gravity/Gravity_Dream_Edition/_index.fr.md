@@ -72,15 +72,13 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La Lucid Gravity Dream Edition, avec des dimensions de 5034 mm de longueur, 1999 mm de largeur et 1656 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Lucid Gravity Dream Edition, avec des dimensions de 5034 mm de longueur, 1999 mm de largeur et 1656 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Lucid Gravity Dream Edition est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lucid Gravity Dream Edition, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-- Pneus 245/45 sur jantes de 20"
-- Pneus 245/40 sur jantes de 20" à l'avant et pneus 265/40 sur jantes de 20" à l'arrière
-- Pneus 245/40 sur jantes de 21" à l'avant et pneus 265/40 sur jantes de 21" à l'arrière
-- Pneus 265/40 sur jantes de 22" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
-- Pneus 265/35 sur jantes de 23" à l'avant et pneus 285/35 sur jantes de 23" à l'arrière
+- Pneus 265/50 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 21" à l'arrière
+- Pneus 265/45 sur jantes de 21" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
+- Pneus 265/40 sur jantes de 21" à l'avant et pneus 285/35 sur jantes de 23" à l'arrière
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 

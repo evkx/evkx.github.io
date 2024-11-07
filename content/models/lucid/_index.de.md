@@ -41,7 +41,7 @@ Lucid Air ist eine Limousine, die in 5 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lucid Gravity ist ein SUV, der in 1 Varianten erhältlich ist.
+Lucid Gravity ist ein SUV, der in 2 Varianten erhältlich ist.
 </p>
 	<a href="gravity/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

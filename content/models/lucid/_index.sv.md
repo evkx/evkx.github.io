@@ -41,7 +41,7 @@ Lucid Air är en sedan som finns i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lucid Gravity är en SUV tillgänglig i 1 varianter.
+Lucid Gravity är en SUV tillgänglig i 2 varianter.
 </p>
 	<a href="gravity/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

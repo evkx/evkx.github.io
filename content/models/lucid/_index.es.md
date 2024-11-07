@@ -41,7 +41,7 @@ Lucid Air es un sedán disponible en 5 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lucid Gravity es un SUV disponible en 1 variantes.
+Lucid Gravity es un SUV disponible en 2 variantes.
 </p>
 	<a href="gravity/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
