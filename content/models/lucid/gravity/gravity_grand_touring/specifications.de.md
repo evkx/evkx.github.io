@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Lucid Gravity Gran
 				Spitzenleistung
 			</td>
 			<td>
-				600 KW (816 PS /805 bhp)
+				618 KW (840 PS /829 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				2700 kg (5952 lbs)
+				2721 kg (5999 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ Das Modell bietet 2 Federungsvarianten
 
 ## Innenraum
 
-Interior.Seatlayout.OnlySix
+Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhältlich.
 
 ### Vordersitze
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Head-up-Display
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Sonderausstattung
 			</td>
 		</tr>
 		<tr>

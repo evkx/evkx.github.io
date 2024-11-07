@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Lucid Gravity Grand Touring bietet eine beeindruckende Leistung mit einer maximalen Leistung von 600 kW (816 PS / 805 bhp) und einem beachtlichen Gesamtdrehmoment von 1000 Nm (738 lb-ft). Diese Hochleistungsmaschine kann in nur 3,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 250 km/h (155 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
+Der Lucid Gravity Grand Touring liefert eine atemberaubende maximale Leistung von 618 kW (840 PS/829 bhp) und ein massives Gesamtdrehmoment von 1000 Nm (738 lb-ft). Dieser Kraftprotz kann in nur 3,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 250 km/h (155 mph), was seine erstaunliche Beschleunigung zeigt. Zusätzlich erreicht er eine Höchstgeschwindigkeit von 250 km/h (155 mph), was ihn zu einem wahren Wunderwerk der Technik und Leistung macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -84,7 +84,7 @@ Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, w
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 
-Es gibt nur eine Dachoption für dieses Modell. Die Windschutzscheibe ist panoramisch und erstreckt sich über die erste Reihe. Zusätzlich gibt es ein Glasdach über der zweiten Reihe. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
+Es gibt nur eine Dachoption für dieses Modell. Die Windschutzscheibe ist panoramisch und erstreckt sich über die erste Reihe. Zusätzlich gibt es ein Glasdach über der zweiten Reihe. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen. Optional sind doppelt verglaste Seitenfenster erhältlich, die den Kabinenlärm reduzieren und das Fahrerlebnis insgesamt verbessern.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/exterior_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1687"  >}}
 
@@ -96,7 +96,7 @@ Sie können zwischen verschiedenen Sitzmaterialien und Innenraumstilen wählen. 
 
 ### Sitze
 
-Die Sitzanordnung besteht aus sieben Sitzen mit zwei vorne, drei Sitzen in der zweiten Reihe und zwei Sitzen in der dritten Reihe.
+Lucid Gravity Grand Touring ist in einer Standard-Fünfsitz-Konfiguration erhältlich, mit einer optionalen Siebensitz-Anordnung für zusätzliche Vielseitigkeit.
 
 #### Vordersitze
 
@@ -162,7 +162,7 @@ Wichtige Bildschirmdetails:
 - Der touch-Bildschirm hinter dem Lenkrad über die Mitte des Armaturenbretts ist 34,0 Zoll groß.
 - Der touch-Bildschirm in der Mitte der Mittelkonsole ist 12,0 Zoll groß.
 
-Das Modell verfügt nicht über ein Head-up-Display.
+Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/screens_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -170,7 +170,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Lucid Gravity Grand Touring ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -218,10 +218,14 @@ Der Lucid Gravity Grand Touring verfügt über eine Reihe von standardmäßigen 
 
 ### Fahrautomatisierung
 
-Mit dem ADAS  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem DreamDrive  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+Mit dem DreamDrive  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+
+Mit dem DreamDrive Pro  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +235,7 @@ Der Kofferraum bietet ein Ladevolumen von 700 Litern (24,7 CU FT). Mit umgeklapp
 
 Das maximale Gewicht des Fahrzeugs beträgt 3280 kg (7231 lbs) bei einem Leergewicht von 2500 kg (5512 lbs). Dies ermöglicht eine maximale Zuladung von 780 kg (1720 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2700 kg (5952 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2721 kg (5999 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/trunk_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2000"  >}}
 

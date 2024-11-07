@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Grand
 				Maks effekt
 			</td>
 			<td>
-				600 KW (816 hk)
+				618 KW (840 hk)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				2700 kg
+				2721 kg
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Interior.Seatlayout.OnlySix
+Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 
 ### Forseter
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>

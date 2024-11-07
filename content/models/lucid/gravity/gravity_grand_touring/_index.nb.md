@@ -26,7 +26,7 @@ Vi har delt vår beskrivelse av Lucid Gravity Grand Touring i seksjoner. Hvis du
 
 ## Ytelse
 
-Lucid Gravity Grand Touring imponerer med en imponerende kraft på 600 kW (816 hk) og et betydelig dreiemoment på 1000 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,5 sekunder og har en toppfart på 250 km/t, noe som gjør den til en markant modell i sin klasse.
+Lucid Gravity Grand Touring leverer en imponerende maksimal effekt på 618 KW (840 hk) og et massivt dreiemoment på 1000 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,5 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 250 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 
@@ -84,7 +84,7 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over den første raden. I tillegg er det glasspanel over den andre raden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over den første raden. I tillegg er det glasspanel over den andre raden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/exterior_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1687"  >}}
 
@@ -96,7 +96,7 @@ Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge me
 
 ### Seter
 
-Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
 
 #### Forseter
 
@@ -162,7 +162,7 @@ Viktige skjermdetaljer:
 - touch-skjermen bak rattet på tvers av midten av dashbordet er 34,0 tommer stor
 - touch-skjermen i midten av midtkonsollen er 12,0 tommer stor
 
-Modellen er ikke tilgjengelig med head-up display.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/screens_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -170,7 +170,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 Lucid Gravity Grand Touring er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ### Speil
 
@@ -218,10 +218,14 @@ Lucid Gravity Grand Touring inkluderer flere [avanserte førerassistanse systeme
 
 ### Kjøreautomatisering
 
-Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med DreamDrive  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+
+Med DreamDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
+Med DreamDrive Pro  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +235,7 @@ Bagasjerommet tilbyr en lastekapasitet på 700 liter. Med baksetene nedfelt, utv
 
 Kjøretøyets maksimale vekt er 3280 kg, med en basisvekt på 2500 kg. Dette gir en maksimal lastekapasitet på 780 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2700 kg, mens for en ubremset tilhenger er det 750 kg.
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2721 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/trunk_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2000"  >}}
 

@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Lucid Gravity Grand To
 				Max effekt
 			</td>
 			<td>
-				600 KW (816 hk)
+				618 KW (840 hk)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				2700 kg
+				2721 kg
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ Modellen erbjuder 2 fjädringsvarianter
 
 ## Interiör
 
-Interior.Seatlayout.OnlySix
+Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 
 ### Framsäten
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>

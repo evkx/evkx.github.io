@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Lucid Gravity Gran
 				Potencia máxima
 			</td>
 			<td>
-				600 KW (816 hp)
+				618 KW (840 hp)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2700 kg
+				2721 kg
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ El modelo ofrece 2 variantes de suspensión
 
 ## Interior
 
-Interior.Seatlayout.OnlySix
+Este modelo está disponible con una configuración de cinco o siete asientos.
 
 ### Asientos delanteros
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Pantalla frontal
 			</td>
 			<td>
-				No disponible
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>

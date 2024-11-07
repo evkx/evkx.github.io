@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Lucid Gravity Grand Touring packs an impressive punch with a maximum power of 600 kW (816 hp / 805 bhp) and a commanding total torque of 1000 Nm (738 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
+The Lucid Gravity Grand Touring delivers a jaw-dropping maximum power of 618 KW (840 hp/829 bhp) and a massive total torque of 1000 Nm (738 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 250 km/h (155 mph), making it a true marvel of engineering and performance.
 
 ## Battery, Range, and Charging
 
@@ -84,7 +84,7 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof option for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof option for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/exterior_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1687"  >}}
 
@@ -96,7 +96,7 @@ You can choose between different types of seat materials and interior styling. Y
 
 ### Seats
 
-The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+Lucid Gravity Grand Touring is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
 
 #### First Row Seats
 
@@ -162,7 +162,7 @@ Key screen details:
 - The touch screen behind the steering wheel accross the the center of the dash is 34.0 inches large
 - The touch screen in the middle of the center console is 12.0 inches large
 
-The model does not include a head-up display.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/screens_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -170,7 +170,7 @@ The model does not include a head-up display.
 
 The Lucid Gravity Grand Touring is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -218,10 +218,14 @@ The Lucid Gravity Grand Touring features a range of standard and optional [advan
 
 ### Driving Automation
 
-With the ADAS  level 2 system, you get the following driving automation features.
+With the DreamDrive  level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+With the DreamDrive  level 2 system, you get additional driving automation features to the ones listed above:
+
+With the DreamDrive Pro  level 2 system, you get additional driving automation features to the ones listed above:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +235,7 @@ The trunk offers a cargo capacity of 700 liters (24.7 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 3280 kg (7231 lbs), with a base weight of 2500 kg (5512 lbs). This allows for a maximum load of 780 kg (1720 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2700 kg (5952 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2721 kg (5999 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/trunk_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2000"  >}}
 

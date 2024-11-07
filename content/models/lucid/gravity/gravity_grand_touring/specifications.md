@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Gravity Grand 
 				Peak power
 			</td>
 			<td>
-				600 KW (816 hp /805 bhp)
+				618 KW (840 hp /829 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				2700 kg (5952 lbs)
+				2721 kg (5999 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ The model offers 2 suspension variants
 
 ## Interior
 
-Interior.Seatlayout.OnlySix
+This model is available with a seat configuration with five or seven seats.
 
 ### Front seats
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				Not available
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>

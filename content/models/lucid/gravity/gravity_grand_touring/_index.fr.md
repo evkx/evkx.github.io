@@ -26,7 +26,7 @@ Nous avons séparé notre article Lucid Gravity Grand Touring en sections. Si vo
 
 ## Performances
 
-La Lucid Gravity Grand Touring impressionne avec une puissance maximale de 600 kW (816 ch) et un couple total impressionnant de 1000 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,5 secondes, et atteint une vitesse maximale de 250 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
+La Lucid Gravity Grand Touring délivre une puissance maximale impressionnante de 618 kW (840 ch) et un couple massif de 1000 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 3,5 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 250 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
 
 ## Batterie, autonomie et charge
 
@@ -84,7 +84,7 @@ Des roues plus étroites amélioreront la consommation et donneront une plus gra
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
-Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
+Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/exterior_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1687"  >}}
 
@@ -96,7 +96,7 @@ Vous pouvez choisir entre différents types de matériaux de siège et de style 
 
 ### Sièges
 
-La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
+De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
 
 #### Sièges de première rangée
 
@@ -162,7 +162,7 @@ Détails clés de l'écran :
 - L'écran touch derrière le volant en face du centre du tableau de bord mesure 34,0 pouces
 - L'écran touch au milieu de la console centrale mesure 12,0 pouces
 
-Le modèle n'a pas d'affichage tête haute.
+Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/screens_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -170,7 +170,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Lucid Gravity Grand Touring est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ### Rétroviseurs
 
@@ -218,10 +218,14 @@ Le Lucid Gravity Grand Touring comprend plusieurs [systèmes avancés d'assistan
 
 ### Automatisation de la Conduite
 
-Avec le système ADAS  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système DreamDrive  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+
+Avec le système DreamDrive  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
+Avec le système DreamDrive Pro  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +235,7 @@ Le coffre offre une capacité de chargement de 700 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 3280 kg, avec un poids de base de 2500 kg. Cela permet une charge maximale de 780 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2700 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2721 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/trunk_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2000"  >}}
 

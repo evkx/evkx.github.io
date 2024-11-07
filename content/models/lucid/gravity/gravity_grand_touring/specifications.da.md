@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Gravity Gran
 				Popeffekt
 			</td>
 			<td>
-				600 KW (816 hk)
+				618 KW (840 hk)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				2700 kg
+				2721 kg
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ Modellen tilbyder 2 affjedringsvarianter
 
 ## Interiør
 
-Interior.Seatlayout.OnlySix
+Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 
 ### Forsæder
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>

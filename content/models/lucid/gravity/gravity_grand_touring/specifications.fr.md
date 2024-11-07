@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Gra
 				Puissance de pointe
 			</td>
 			<td>
-				600 KW (816 ch)
+				618 KW (840 ch)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2700 kg
+				2721 kg
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ Le modèle propose 2 variantes de suspension
 
 ## Intérieur
 
-Interior.Seatlayout.OnlySix
+Ce modèle est disponible avec une configuration de sièges à cinq ou sept places.
 
 ### Sièges avant
 
@@ -1085,7 +1085,7 @@ Interior.Seatlayout.OnlySix
 				Affichage tête haute
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
