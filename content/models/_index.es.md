@@ -19,6 +19,9 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 			<a href="alfa_romeo"><img src="https://media.evkx.net/multimedia/models/alfa_romeo/logo_xst.png" alt="Alfa Romeo" title="Alfa Romeo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="alpine"><img src="https://media.evkx.net/multimedia/models/alpine/logo_xst.png" alt="Alpine" title="Alpine" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -229,6 +232,16 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	Alfa Romeo tiene 1 modelos con un total de 2 variantes.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Ir a Alfa Romeo descripción general del modelo EV</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Alpine</h2>
+	<p>
+		Alpine es una marca francesa de coches deportivos, fundada en 1955 por Jean Rédélé, inicialmente especializada en coches deportivos ligeros y ágiles. Conocida por su asociación con Renault, Alpine ganó fama en las décadas de 1960 y 1970 con su A110 Berlinette ganadora de rallies, celebrada por su manejo ágil y éxito en el automovilismo, especialmente en eventos como el Rally de Monte Carlo.
+	</p>
+	<p>
+	Alpine tiene 1 modelos con un total de 1 variantes.
+	</p>
+	<a href="alpine/" class="btn btn-outline-primary" role="button">Ir a Alpine descripción general del modelo EV</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>

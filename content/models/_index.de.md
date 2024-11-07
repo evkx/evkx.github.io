@@ -19,6 +19,9 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 			<a href="alfa_romeo"><img src="https://media.evkx.net/multimedia/models/alfa_romeo/logo_xst.png" alt="Alfa Romeo" title="Alfa Romeo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="alpine"><img src="https://media.evkx.net/multimedia/models/alpine/logo_xst.png" alt="Alpine" title="Alpine" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -229,6 +232,16 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	Alfa Romeo hat 1 Modelle mit insgesamt 2 Varianten.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gehe zu Alfa Romeo EV-Modellübersicht</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Alpine</h2>
+	<p>
+		Alpine ist eine französische Sportwagenmarke, die 1955 von Jean Rédélé gegründet wurde und sich zunächst auf leichte, agile Sportwagen spezialisierte. Bekannt für ihre Verbindung mit Renault, erlangte Alpine in den 1960er und 70er Jahren Berühmtheit mit ihrem rallyesiegenden A110 Berlinette, gefeiert für ihr wendiges Handling und ihren Erfolg im Motorsport, insbesondere bei Veranstaltungen wie der Rallye Monte Carlo.
+	</p>
+	<p>
+	Alpine hat 1 Modelle mit insgesamt 1 Varianten.
+	</p>
+	<a href="alpine/" class="btn btn-outline-primary" role="button">Gehe zu Alpine EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>

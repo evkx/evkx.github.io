@@ -319,7 +319,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Främre överhängsvinkel
+				Anfallsvinkel
 			</td>
 			<td>
 				49,7
@@ -327,7 +327,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre överhängsvinkel
+				Avgångsvinkel
 			</td>
 			<td>
 				38,4

@@ -303,7 +303,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Ángulo de voladizo frontal
+				Ángulo de aproximación
 			</td>
 			<td>
 				23,1
@@ -311,7 +311,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Ángulo de voladizo trasero
+				Ángulo de salida
 			</td>
 			<td>
 				20,9

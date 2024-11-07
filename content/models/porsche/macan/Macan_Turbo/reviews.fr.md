@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Porsche Macan Turbo: Porsche&#39;s Bestseller Goes Electric ONLY!</h3>
+<p>Fully Charged Show: 07.11.2024</p>
+
+{{< youtube kKcVOiIAyzk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Driving the all-new Porsche Macan Turbo!</h3>
 <p>Autogefühl: 23.04.2024</p>
 

@@ -367,7 +367,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				14,3
@@ -375,7 +375,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				17,3

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-ec69525c
+  translation: Alpine A290 GT es un hatchback totalmente eléctrico con un WLTP alcance de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-9c3ba335
   translation: Xiaomi SU7 Ultra es un sedán totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b36c6b58
   translation: Lynk & Co 02 es un crossover totalmente eléctrico con un WLTP alcance de hasta 445 km (277 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-3d2dbc1f
-  translation: Audi SQ6 Sportback e-tron es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 607 km (377 millas). EVKX.net tiene todos los detalles.
 

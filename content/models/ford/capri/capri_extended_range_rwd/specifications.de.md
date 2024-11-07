@@ -335,7 +335,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Überhangwinkel vorne
+				Böschungswinkel vorne
 			</td>
 			<td>
 				16,9
@@ -343,7 +343,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Überhangwinkel hinten
+				Böschungswinkel hinten
 			</td>
 			<td>
 				19,4

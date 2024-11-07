@@ -327,7 +327,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Angle de porte-à-faux avant
+				Angle d'approche
 			</td>
 			<td>
 				18,8
@@ -335,7 +335,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Angle de porte-à-faux arrière
+				Angle de départ
 			</td>
 			<td>
 				20,8

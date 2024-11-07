@@ -19,6 +19,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 			<a href="alfa_romeo"><img src="https://media.evkx.net/multimedia/models/alfa_romeo/logo_xst.png" alt="Alfa Romeo" title="Alfa Romeo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="alpine"><img src="https://media.evkx.net/multimedia/models/alpine/logo_xst.png" alt="Alpine" title="Alpine" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -229,6 +232,16 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	Alfa Romeo har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå till Alfa Romeo modellöversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Alpine</h2>
+	<p>
+		Alpine är ett franskt sportbilsmärke, grundat 1955 av Jean Rédélé, som ursprungligen specialiserade sig på lätta, smidiga sportbilar. Känd för sin koppling till Renault, blev Alpine berömt på 1960- och 70-talen med sin rallyvinnande A110 Berlinette, firad för sin smidiga hantering och framgång inom motorsport, särskilt i evenemang som Monte Carlo-rallyt.
+	</p>
+	<p>
+	Alpine har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="alpine/" class="btn btn-outline-primary" role="button">Gå till Alpine modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
