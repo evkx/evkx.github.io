@@ -96,7 +96,7 @@ Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt öv
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
+Interiören i Lucid Gravity Grand Touring är designad med en minimalistisk estetik och har premium material överallt. Den inkluderar också en traditionell mittkonsol som separerar föraren och passageraren, vilket ger praktiska förvaringslösningar och förbättrad funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -140,7 +140,6 @@ Följande funktioner är tillgängliga på **18-way** sätet.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd (standard för yttre säten)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 Lucid Gravity Grand Touring är utrustad med en enda typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Ovalt Ratt:** Detta ratt har valfri integrerad uppvärmning för extra komfort under kallt väder. Det inkluderar också haptiska knappar, som gör att du kan styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment
 
@@ -276,7 +277,7 @@ Med DreamDrive Premium nivå 1-systemet får du ytterligare funktioner för kör
 Med det valfria DreamDrive Pro nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- Trafikljuskontroll - följer trafikljusen.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- Trafikljuskontroll - följer trafikljusen.
 
 ### Sensorer & Kameror
 

@@ -144,7 +144,6 @@ Detalles clave de la pantalla:
 
 - La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
 - La touch pantalla en el centro del tablero mide 17,0 pulgadas de tamaño
-- La touch pantalla en la consola central trasera mide 8,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
 

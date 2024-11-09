@@ -96,7 +96,7 @@ Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første 
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
+Interiøret i Lucid Gravity Grand Touring er designet med en minimalistisk æstetik og har premium materialer overalt. Det inkluderer også en traditionel midterkonsol, der adskiller fører og passager, og giver praktiske opbevaringsløsninger og forbedret funktionalitet. Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -140,7 +140,6 @@ Følgende funktioner er tilgængelige på **18-way** sædet.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte (standard for ydre sæder)
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 Lucid Gravity Grand Touring er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Ovalt Rat:** Dette rat har valgfri integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også haptiske knapper, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
 
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment
 
@@ -276,7 +277,7 @@ Med DreamDrive Premium niveau 1-systemet får du yderligere funktioner til køre
 Med det valgfrie DreamDrive Pro niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- Trafiklys kontrol - følg trafiklysene.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).- Trafiklys kontrol - følg trafiklysene.
 
 ### Sensorer & Kameraer
 

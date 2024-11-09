@@ -144,7 +144,6 @@ Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
 - touch-skjermen i dashbordets sentrum er 17,0 tommer stor
-- touch-skjermen i den bakre midtkonsollen er 8,0 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
 

@@ -96,7 +96,7 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+Interiøret i Lucid Gravity Grand Touring er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Det inkluderer også en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktiske oppbevaringsløsninger og forbedret funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -140,7 +140,6 @@ Følgende funksjoner er tilgjengelige på **18-way** setet.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte (standard for ytre seter)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 Lucid Gravity Grand Touring er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Ovalt Ratt:** Dette rattet har valgfri integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også haptiske knapper, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikkspor og administrere andre viktige funksjoner med letthet.
 
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
 
@@ -276,7 +277,7 @@ Med DreamDrive Premium nivå 1-systemet får du ekstra kjøreautomatiseringsfunk
 Med det valgfrie DreamDrive Pro nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- Trafikklys kontroll - følger trafikklysene.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- Trafikklys kontroll - følger trafikklysene.
 
 ### Sensorer & Kameraer
 

@@ -144,7 +144,6 @@ Wichtige Bildschirmdetails:
 
 - Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 12,3 Zoll groß.
 - Der touch-Bildschirm in der Mitte des Armaturenbretts ist 17,0 Zoll groß.
-- Der touch-Bildschirm in der hinteren Mittelkonsole ist 8,0 Zoll groß.
 
 Das Modell verfügt nicht über ein Head-up-Display.
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5N Vs The WORLD: The Petrol Car Killer?</h3>
+<p>AutoTrader: 09.11.2024</p>
+
+{{< youtube wAWrYIz21aE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai Ioniq 5 N vs Tesla Model Y charging battle</h3>
 <p>Bjørn Nyland: 08.11.2024</p>
 

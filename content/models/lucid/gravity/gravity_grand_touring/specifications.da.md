@@ -1245,7 +1245,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Stemmestyring
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1317,7 +1317,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Bagstpassager Infotainmentskærm
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 8"
 			</td>
 		</tr>
 	</tbody>

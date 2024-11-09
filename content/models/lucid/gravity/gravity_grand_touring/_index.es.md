@@ -96,7 +96,7 @@ Sólo hay un techo para este modelo. El parabrisas es panorámico cubriendo la p
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
+El interior del Lucid Gravity Grand Touring está diseñado con una estética minimalista, con materiales de primera calidad en todo el vehículo. También incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando soluciones de almacenamiento prácticas y una funcionalidad mejorada. Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -140,7 +140,6 @@ Las siguientes funcionalidades están disponibles en el asiento **18-way**.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura (estándar para asientos exteriores)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Lucid Gravity Grand Touring está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Ovalado:** Este volante cuenta con calefacción integrada opcional para mayor comodidad en climas fríos. También incluye botones hápticos, que le permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
 
@@ -276,7 +277,7 @@ Con el sistema DreamDrive Premium de nivel 1, obtienes funciones adicionales de 
 Con el sistema opcional DreamDrive Pro de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- Control de semáforos - sigue los semáforos.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).- Control de semáforos - sigue los semáforos.
 
 ### Sensores y Cámaras
 

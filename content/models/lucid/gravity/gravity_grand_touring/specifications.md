@@ -1245,7 +1245,7 @@ This model is available with a seat configuration with five or seven seats.
 				Voice control
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1317,7 +1317,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Not available
+				Yes, 8"
 			</td>
 		</tr>
 	</tbody>

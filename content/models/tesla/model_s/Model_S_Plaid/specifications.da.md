@@ -1112,7 +1112,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bagstpassager Infotainmentskærm
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 8"
 			</td>
 		</tr>
 	</tbody>

@@ -1245,7 +1245,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Control por voz
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1317,7 +1317,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Pantalla de infoentretenimiento del pasajero trasero
 			</td>
 			<td>
-				No disponible
+				Sí, 8"
 			</td>
 		</tr>
 	</tbody>

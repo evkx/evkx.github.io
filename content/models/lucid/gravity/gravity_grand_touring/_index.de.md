@@ -96,7 +96,7 @@ Es gibt nur eine Dachoption für dieses Modell. Die Windschutzscheibe ist panora
 
 ## Interieur
 
-Sie können zwischen verschiedenen Sitztypen, Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
+Das Interieur des Lucid Gravity Grand Touring ist mit einer minimalistischen Ästhetik gestaltet und verfügt über hochwertige Materialien. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktische Aufbewahrungslösungen sowie verbesserte Funktionalität bietet. Sie können zwischen verschiedenen Sitztypen, Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -140,7 +140,6 @@ Die folgenden Funktionen sind für den **18-way**-Sitz verfügbar:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze (Standard für äußere Sitze)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Lucid Gravity Grand Touring ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Ovales Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch haptische Tasten, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
 
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
 ## Infotainment
 
@@ -276,7 +277,7 @@ Mit dem DreamDrive Premium Level 1 System erhalten Sie zusätzliche Fahrautomati
 Mit dem optionalen DreamDrive Pro Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- Ampelsteuerung - folgen Sie den Ampeln.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).- Ampelsteuerung - folgen Sie den Ampeln.
 
 ### Sensoren & Kameras
 

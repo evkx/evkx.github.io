@@ -1245,7 +1245,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Sprachsteuerung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1317,7 +1317,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Infotainment-Bildschirm für die Rücksitze
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 8"
 			</td>
 		</tr>
 	</tbody>

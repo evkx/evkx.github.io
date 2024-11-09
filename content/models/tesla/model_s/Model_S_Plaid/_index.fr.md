@@ -144,7 +144,6 @@ Détails clés de l'écran :
 
 - L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
 - L'écran touch au centre du tableau de bord mesure 17,0 pouces
-- L'écran touch dans la console centrale arrière mesure 8,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
 

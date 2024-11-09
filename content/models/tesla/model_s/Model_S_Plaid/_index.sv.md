@@ -144,7 +144,6 @@ Viktiga skärmdetaljer:
 
 - Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
 - Skärmen touch i mitten av instrumentbrädan är 17,0 tum
-- Skärmen touch i den bakre mittkonsolen är 8,0 tum
 
 Modellen är inte tillgänglig med head-up display.
 

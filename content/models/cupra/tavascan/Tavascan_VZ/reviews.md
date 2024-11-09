@@ -9,6 +9,34 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Tavascan - Another MEB platform car or something special?</h3>
+<p>Battery Life: 09.11.2024</p>
+
+{{< youtube Uf2tM3Ibviw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Tavascan VZ - Charging at Ionity 6-90%</h3>
+<p>Battery Life: 08.11.2024</p>
+
+{{< youtube H-bE6j47HaQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Tavascan VZ AWD - 110 km/h (68 mph) range test</h3>
+<p>Battery Life: 06.11.2024</p>
+
+{{< youtube PF3po8-Imes >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Tavascan VZ AWD - 130 km/h (81 mph) range test</h3>
+<p>Battery Life: 05.11.2024</p>
+
+{{< youtube Axuu7JKkemE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Cupra Tavascan – Bigger than a Born, but is it better?</h3>
 <p>Electrifying: 20.05.2024</p>
 

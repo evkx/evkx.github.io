@@ -1245,7 +1245,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Contrôle vocal
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1317,7 +1317,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Écran d'infodivertissement passager arrière
 			</td>
 			<td>
-				Non disponible
+				Oui, 8"
 			</td>
 		</tr>
 	</tbody>

@@ -96,7 +96,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remon
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'intérieur du Lucid Gravity Grand Touring est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité supérieure. Il comprend également une console centrale traditionnelle qui sépare le conducteur et le passager, offrant des solutions de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -140,7 +140,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **18-way**.
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur (standard pour sièges extérieurs)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Lucid Gravity Grand Touring est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Ovale:** Ce volant dispose d'un chauffage intégré en option pour plus de confort par temps froid. Il comprend également des boutons haptiques, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
 ## Infodivertissement
 
@@ -276,7 +277,7 @@ Avec le système DreamDrive Premium de niveau 1, vous obtenez des fonctionnalit�
 Avec le système optionnel DreamDrive Pro de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
-- Contrôle des feux de circulation - suit les feux de circulation.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).- Contrôle des feux de circulation - suit les feux de circulation.
 
 ### Capteurs & Caméras
 

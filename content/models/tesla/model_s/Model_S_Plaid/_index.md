@@ -144,7 +144,6 @@ Key screen details:
 
 - The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
 - The touch screen on the dashboard's center is 17.0 inches large
-- The touch screen in the rear center console is 8.0 inches large
 
 The model does not include a head-up display.
 

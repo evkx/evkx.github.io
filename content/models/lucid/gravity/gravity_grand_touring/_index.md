@@ -96,7 +96,7 @@ There is only one roof option for this model. The windshield is panoramic going 
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
+The interior of the Lucid Gravity Grand Touring is designed with a minimalist aesthetic, featuring premium materials throughout. It also includes a traditional center console that separates the driver and passenger, providing practical storage solutions and enhanced functionality. You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -140,7 +140,6 @@ The following functionalities are available on the **18-way** seat:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest (standard for outer seats)
-- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
@@ -186,11 +185,13 @@ A head-up display is an optional system that projects speed and other important 
 
 The Lucid Gravity Grand Touring is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Oval Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also includes haptic buttons, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 
@@ -276,7 +277,7 @@ With the DreamDrive Premium level 1 system, you get thadditional driving automat
 With the optional DreamDrive Pro level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- Traffic light control - follow traffic lights.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- Traffic light control - follow traffic lights.
 
 ### Sensors & Cameras
 

@@ -144,7 +144,6 @@ Vigtige skærmdetaljer:
 
 - Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
 - Skærmen touch i dashboardets midte er 17,0 tommer stor
-- Skærmen touch i den bagerste midterkonsol er 8,0 tommer stor
 
 Modellen har ikke et head-up display.
 
