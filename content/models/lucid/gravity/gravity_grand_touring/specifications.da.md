@@ -1322,6 +1322,72 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 	</tbody>
 </table>
+		<tr>
+			<td>
+				Antal tilgængelige lydsystemer
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal højttalere
+			</td>
+			<td>
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal højttalere
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opladningskurve </strong>

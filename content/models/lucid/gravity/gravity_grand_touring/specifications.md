@@ -1322,6 +1322,72 @@ This model is available with a seat configuration with five or seven seats.
 		</tr>
 	</tbody>
 </table>
+		<tr>
+			<td>
+				Number of avaiable sound systems
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Charging curve </strong>

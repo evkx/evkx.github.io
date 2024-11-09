@@ -211,9 +211,10 @@ El sistema de infoentretenimiento incluye una App Store donde puedes descargar a
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Lucid Gravity Grand Touring.
+Puedes elegir entre dos sistemas de sonido en el Lucid Gravity Grand Touring.
 
-- Con el Surreal Sound Pro System, obtienes 22 parlantes con una salida máxima del sistema de  vatios.
+- Con el Surreal Sound, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+- Con el Surreal Sound Pro System, obtienes 22 parlantes con una salida máxima del sistema de 800 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

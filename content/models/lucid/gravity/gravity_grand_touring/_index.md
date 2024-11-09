@@ -211,9 +211,10 @@ The infotainment system includes an App Store where you can download third-party
 
 ### Sound System
 
-The Lucid Gravity Grand Touring comes equipped with one sound system option:
+You can choose between two sound systems for the Lucid Gravity Grand Touring:
 
-- **Surreal Sound Pro System:** Features 22 speakers and delivers a maximum output of  watts.
+- **Surreal Sound:** Features ten speakers and delivers a maximum output of  watts.
+- **Surreal Sound Pro System:** Features 22 speakers and delivers a maximum output of 800 watts.
 
 Additionally, the model includes 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
