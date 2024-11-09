@@ -476,6 +476,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
+		Lucid Motors, fondée en 2007, est un constructeur américain de véhicules électriques connu pour ses véhicules électriques de luxe, en particulier la berline Lucid Air. Il combine technologie avancée, haute performance et designs éco-responsables, en se concentrant sur l'innovation.
+	</p>
+	<p>
 	Lucid a 2 modèles avec un total de 7 variantes.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Aller à la Lucid présentation du modèle EV</a>

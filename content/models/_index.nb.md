@@ -470,6 +470,9 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
+		Lucid Motors, grunnlagt i 2007, er en amerikansk elbilprodusent kjent for sine luksus EV-er, spesielt Lucid Air sedanen. Det kombinerer avansert teknologi, høy ytelse og miljøbevisste design med fokus på innovasjon.
+	</p>
+	<p>
 	Lucid har 2 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå til Lucid modelloversikt</a>

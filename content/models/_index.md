@@ -560,7 +560,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
-		Lucid is an American manufacturer of electric luxury vehicles that was founded in 2007 as a battery company. It rebranded as Lucid Motors in 2016 and announced its first model, the Lucid Air, a high-performance sedan with a range of up to 516 miles. Lucid also plans to launch an electric SUV, the Lucid Gravity, in 2024.
+		Lucid Motors, founded in 2007, is an American electric vehicle manufacturer known for its luxury EVs, especially the Lucid Air sedan. It combines advanced tech, high performance, and eco-conscious designs, focusing on innovation.
 	</p>
 	<p>
 	Lucid has 2 models with total 7 variants.

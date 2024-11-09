@@ -1,7 +1,7 @@
 ---
 title: Lucid elektriske modeller
 linktitle: "Lucid"
-description: "Lucid is an American manufacturer of electric luxury vehicles that was founded in 2007 as a battery company. It rebranded as Lucid Motors in 2016 and announced its first model, the Lucid Air, a high-performance sedan with a range of up to 516 miles. Lucid also plans to launch an electric SUV, the Lucid Gravity, in 2024."
+description: "Lucid Motors, grundat 2007, är en amerikansk elbilstillverkare känd för sina lyxiga elbilar, särskilt Lucid Air-sedanen. Det kombinerar avancerad teknik, hög prestanda och miljömedvetna designer med fokus på innovation."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -49,4 +49,16 @@ Lucid Gravity är en SUV tillgänglig i 2 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om varumärket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/lucid/company.sv.md" %}}
+</div>
+</div>
+</div>
+</div>
