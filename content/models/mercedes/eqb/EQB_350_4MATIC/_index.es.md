@@ -232,7 +232,7 @@ El Mercedes-EQ EQB 350 4MATIC incluye varios [sistemas avanzados de asistencia a
 
 Mercedes-EQ EQB 350 4MATIC ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Driver Assistance Package  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 16 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 16 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard on the HiPhi Z 4 Seater, varying the steering rat
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The HiPhi Z 4 Seater is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -211,10 +211,9 @@ The HiPhi Z 4 Seater features a range of standard and optional [advanced driver 
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the standard  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}

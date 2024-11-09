@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 11 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 11 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -64,7 +64,7 @@ Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 368 mm, während die hinteren Scheiben 345 mm groß sind.
+Der Chevrolet Silverado EV 4WT ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 368 mm, während die hinteren Scheiben 345 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -235,7 +235,7 @@ Der Chevrolet Silverado EV 4WT verfügt über eine Reihe von standardmäßigen u
 
 Der Chevrolet Silverado EV 4WT bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
 
-Mit dem Super Cruise  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Super Cruise Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

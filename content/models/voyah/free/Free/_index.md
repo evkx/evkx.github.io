@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 5 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 5 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -64,16 +64,11 @@ Dynamic steering is a standard on the VOYAH FREE, varying the steering ratio bas
 
 The VOYAH FREE lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 6 modes:
 
-- Performance: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Eco: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Outing: Balanced steering, high suspension height with balanced throttle and damping.
-- Snow: Balanced steering, max suspension height with balanced throttle and damping.
-- Individual: User-defined settings for steering, suspension, and throttle response.
+- Performance: Dynamic steering, low suspension with dynamic throttle and suspension. - Eco: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Outing: Balanced steering, high suspension height with balanced throttle and damping. - Snow: Balanced steering, max suspension height with balanced throttle and damping. - Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
+The VOYAH FREE is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -239,10 +234,9 @@ The VOYAH FREE features a range of standard and optional [advanced driver assist
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the standard  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensors & Cameras

@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 42 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 42 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -60,7 +60,7 @@ Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 325 mm groß sind.
+Der Jaguar I-Pace EV400 ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 325 mm groß sind.
 
 ### Rekuperatives Bremsen
 

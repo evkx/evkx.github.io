@@ -64,9 +64,7 @@ Dynamisk styrning är standard-funktionen för Honda e:Ny1. Dynamisk styrning va
 
 Honda e:Ny1 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Sport: Dynamisk styrning och gaspedal.
-- Normal: Balanserad styrning och gaspedal.
-- eco: Balanserad styrning och effektiv gaspedal.
+- Sport: Dynamisk styrning och gaspedal. - Normal: Balanserad styrning och gaspedal. - eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 
@@ -227,10 +225,9 @@ Honda e:Ny1 inkluderar flera [avancerade förarassistanssystem](../../../../tech
 
 ### Körautomatisering
 
-Med Honda Sensing  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Honda Sensing nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror
 

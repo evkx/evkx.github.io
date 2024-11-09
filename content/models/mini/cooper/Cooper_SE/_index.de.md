@@ -38,7 +38,7 @@ Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 95
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 27 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 27 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

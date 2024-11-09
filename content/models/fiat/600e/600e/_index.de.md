@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -173,7 +173,7 @@ Das Modell verfügt standardmäßig über 3 USB-A-Anschlüsse.
 
 ## Lichter
 
-Der  ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+Der Fiat 600e ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -195,7 +195,7 @@ Der Fiat 600e verfügt über eine Reihe von standardmäßigen und optionalen [fo
 
 Der Fiat 600e bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
 
-Mit dem DS Drive Assist  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem DS Drive Assist Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

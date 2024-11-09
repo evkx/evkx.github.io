@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 30 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 30 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" title="XPENG G9 RWD Long Range" width="1600" height="1040"  >}}
 
@@ -60,7 +60,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The XPENG G9 RWD Long Range is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -210,10 +210,9 @@ The XPENG G9 RWD Long Range features a range of standard and optional [advanced 
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the standard  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}

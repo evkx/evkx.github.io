@@ -62,10 +62,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 El Fisker Ocean Extreme permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Earth: dirección equilibrada, con aceleración eficiente y fuerte regeneración de elevación.
-- Fun: dirección y acelerador equilibrados y regeneración de elevación media.
-- Hyper: dirección equilibrada, acelerador dinámico y regeneración de elevación media.
-- Snow/Ice: dirección equilibrada, con aceleración eficiente y baja regeneración de elevación.
+- Earth: dirección equilibrada, con aceleración eficiente y fuerte regeneración de elevación. - Fun: dirección y acelerador equilibrados y regeneración de elevación media. - Hyper: dirección equilibrada, acelerador dinámico y regeneración de elevación media. - Snow/Ice: dirección equilibrada, con aceleración eficiente y baja regeneración de elevación.
 
 ### Frenos
 
@@ -220,10 +217,9 @@ El Fisker Ocean Extreme incluye varios [sistemas avanzados de asistencia al cond
 
 ### Automatización de la Conducción
 
-Con el sistema Fisker Intelligent Pilot  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Fisker Intelligent Pilot de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}

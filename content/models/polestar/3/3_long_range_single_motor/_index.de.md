@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 43 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 43 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -58,7 +58,7 @@ Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspensio
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 400 mm, während die hinteren Scheiben 390 mm groß sind.
+Der Polestar 3 Long Range Single Motor ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 400 mm, während die hinteren Scheiben 390 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -205,10 +205,9 @@ Der Polestar 3 Long Range Single Motor verfügt über eine Reihe von standardmä
 
 ### Fahrautomatisierung
 
-Mit dem Pilot Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Pilot Assist Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 {{<evkxdisplayaddarticle />}}
 

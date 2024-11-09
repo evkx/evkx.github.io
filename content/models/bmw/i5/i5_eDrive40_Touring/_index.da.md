@@ -60,7 +60,7 @@ Adaptive M Suspension-ophænget har en fast højde og dæmpning. Mindste frihøj
 
 Du kan bestille BMW i5 eDrive40 Touring med en alternativ M Sport Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
 
-Du kan bestille BMW i5 eDrive40 Touring med en alternativ Adaptives suspension professional hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 140 mm.
+Du kan bestille BMW i5 eDrive40 Touring med en alternativ Adaptives suspension professional hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Adaptives suspension professional-affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 140 mm.
 
 ### Styring
 
@@ -265,15 +265,13 @@ Den BMW i5 eDrive40 Touring inkluderer flere standard- og valgfri [avancerede f�
 
 BMW i5 eDrive40 Touring tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Driving Assistant  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Driving Assistant niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- Fartpilot.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- Fartpilot. - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Driving Assistant Professional niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer
 

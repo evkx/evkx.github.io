@@ -54,7 +54,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -86,15 +86,11 @@ Dynamic steering is a standard on the Nio EL8, varying the steering ratio based 
 
 The Nio EL8 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Sport+: Dynamic steering, low suspension with dynamic throttle and suspension. Low regen braking.
-- Sport: Balanced steering, lowest suspension height with balanced throttle and damping. Low regen braking.
-- Comfort: Comfort steering, normal suspension height with balanced throttle, and comfort suspension damping. Low regen braking.
-- ECO: Comfort steering, normal suspension height with efficient throttle, and comfort suspension damping. Medium regen braking.
-- Custom: User-defined settings for steering, suspension, throttle response, and regen braking.
+- Sport+: Dynamic steering, low suspension with dynamic throttle and suspension. Low regen braking. - Sport: Balanced steering, lowest suspension height with balanced throttle and damping. Low regen braking. - Comfort: Comfort steering, normal suspension height with balanced throttle, and comfort suspension damping. Low regen braking. - ECO: Comfort steering, normal suspension height with efficient throttle, and comfort suspension damping. Medium regen braking. - Custom: User-defined settings for steering, suspension, throttle response, and regen braking.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Nio EL8 is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -302,13 +298,11 @@ The Nio EL8 features a range of standard and optional [advanced driver assistanc
 
 ### Driving Automation
 
-With the NIO Pilot Complete Pack  level 2 system, you get the following driving automation features.
+With the standard NIO Pilot Complete Pack level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 

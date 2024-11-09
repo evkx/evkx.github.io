@@ -64,11 +64,7 @@ Dynamisk styring er en standard-funktion på YangWang U9. Dynamisk styring varie
 
 YangWang U9 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Cruise: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning.
-- Sport: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning.
-- Track: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Drift: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Cruise: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning. - Sport: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning. - Track: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Drift: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
 
 ### Bremser
 
@@ -191,10 +187,9 @@ Den YangWang U9 inkluderer flere standard- og valgfri [avancerede førerassisten
 
 ### Køreautomatisering
 
-Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 {{<evkxdisplayaddarticle />}}
 

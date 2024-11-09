@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 21 minutes using a home charging setup.
+The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 21 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -60,14 +60,11 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The Maserati GranCabrio Folgore lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Max Range: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- GT: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Off Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Max Range: Balanced steering, low suspension with efficient throttle, and balanced suspension. - GT: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Off Road: Balanced steering, max suspension height with balanced throttle and damping.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
+The Maserati GranCabrio Folgore is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -195,7 +192,7 @@ Additionally, the model includes 2 USB-C connections as standard. As an option, 
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The Maserati GranCabrio Folgore comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -227,10 +224,9 @@ The Maserati GranCabrio Folgore features a range of standard and optional [advan
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the standard  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 ### Sensors & Cameras

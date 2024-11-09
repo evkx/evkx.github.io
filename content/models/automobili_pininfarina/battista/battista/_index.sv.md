@@ -64,11 +64,7 @@ Dynamisk styrning är standard-funktionen för Automobili Pininfarina Battista. 
 
 Automobili Pininfarina Battista låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Cruise: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning.
-- Sport: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning.
-- Track: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Drift: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Cruise: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning. - Sport: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning. - Track: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Drift: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
 
 ### Bromsar
 
@@ -191,10 +187,9 @@ Automobili Pininfarina Battista inkluderar flera [avancerade förarassistanssyst
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 {{<evkxdisplayaddarticle />}}
 

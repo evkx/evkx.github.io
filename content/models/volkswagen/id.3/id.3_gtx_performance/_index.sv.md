@@ -248,14 +248,13 @@ Volkswagen ID.3 GTX Performance erbjuder [körautomatisering på nivå 1 eller 2
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
-- Farthållare.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- Farthållare. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-Med   nivå 1-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med  nivå 1-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Assistantpackage plus nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

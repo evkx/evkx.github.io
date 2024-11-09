@@ -72,13 +72,7 @@ Dynamisk styring er en standard-funktion på Audi e-tron 55. Dynamisk styring va
 
 Audi e-tron 55 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
-- Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
-- Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- Custom: Brugerdefineret styring, affjedring og gasrespons.
+- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - Custom: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 
@@ -299,15 +293,13 @@ Den Audi e-tron 55 inkluderer flere standard- og valgfri [avancerede førerassis
 
 Audi e-tron 55 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- Fartpilot.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- Fartpilot. - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Assistantpackage Tour niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer
 

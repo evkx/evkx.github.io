@@ -65,11 +65,7 @@ La direction dynamique est une fonctionnalité un standard sur le Rivian R1S Qua
 
 Le Rivian R1S Quad-Motor AWD MP permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
-- Snow : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
-- All-Purpose : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
-- Soft sand: Direction équilibrée, hauteur maximale de suspension avec accélérateur équilibré et amortissement de suspension confortable.
-- All-Terrain : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Snow : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - All-Purpose : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Soft sand: Direction équilibrée, hauteur maximale de suspension avec accélérateur équilibré et amortissement de suspension confortable. - All-Terrain : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
 
 ### Freins
 
@@ -231,10 +227,9 @@ Le Rivian R1S Quad-Motor AWD MP comprend plusieurs [systèmes avancés d'assista
 
 ### Automatisation de la Conduite
 
-Avec le système Driver+  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Driver+ de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 ### Capteurs & Caméras
 

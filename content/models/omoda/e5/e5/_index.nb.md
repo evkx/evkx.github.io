@@ -64,9 +64,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 OMODA E5 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Normal: Balansert styring og gasspedal.
-- Sport: Dynamisk styring og gasspedal.
-- Eco: Balansert styring og effektiv gasspedal.
+- Normal: Balansert styring og gasspedal. - Sport: Dynamisk styring og gasspedal. - Eco: Balansert styring og effektiv gasspedal.
 
 ### Bremser
 
@@ -219,10 +217,9 @@ OMODA E5 inkluderer flere [avanserte førerassistanse systemer](../../../../tech
 
 ### Kjøreautomatisering
 
-Med Traffic Jam Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Traffic Jam Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 ### Sensorer & Kameraer
 

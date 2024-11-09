@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 23 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Onboard-Ladegerät wählen, das bis zu 19,2 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 4 Stunden und 25 Minuten vollständig von 0 auf 100% aufladen.
+Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 23 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Bordladegerät wählen, das bis zu 19,2 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 4 Stunden und 25 Minuten vollständig von 0 auf 100% aufladen.
 
 ### Ladeanschluss
 
@@ -66,13 +66,11 @@ Die dynamische Lenkung ist eine standard im Chevrolet Equinox EV AWD, wobei das 
 
 Der Chevrolet Equinox EV AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und effizientes Gas.
-- Sport: Ausgewogene Lenkung und Gas.
-- My Mode: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+- Normal: Ausgewogene Lenkung und effizientes Gas. - Sport: Ausgewogene Lenkung und Gas. - My Mode: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 314 mm groß sind.
+Der Chevrolet Equinox EV AWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 321 mm, während die hinteren Scheiben 314 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -257,11 +255,11 @@ Der Chevrolet Equinox EV AWD verfügt über eine Reihe von standardmäßigen und
 
 Der Chevrolet Equinox EV AWD bietet [Fahrautomatisierung
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Mit dem Super Cruise  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Super Cruise Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 

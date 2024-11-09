@@ -245,12 +245,11 @@ Porsche Taycan Turbo Sport Turismo (GEN1) inkluderar flera [avancerade förarass
 
 Porsche Taycan Turbo Sport Turismo (GEN1) erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

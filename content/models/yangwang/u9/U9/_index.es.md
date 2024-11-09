@@ -64,11 +64,7 @@ La dirección dinámica es una característica un estándar en el YangWang U9. L
 
 El YangWang U9 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Cruise: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas.
-- Sport: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas.
-- Track: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
-- Drift: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Cruise: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. - Sport: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. - Track: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Drift: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
 
 ### Frenos
 
@@ -191,10 +187,9 @@ El YangWang U9 incluye varios [sistemas avanzados de asistencia al conductor](..
 
 ### Automatización de la Conducción
 
-Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 {{<evkxdisplayaddarticle />}}
 

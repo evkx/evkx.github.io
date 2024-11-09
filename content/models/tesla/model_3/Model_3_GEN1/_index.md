@@ -46,7 +46,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 21 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 21 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/charging_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
@@ -70,7 +70,7 @@ Dynamic steering is a standard on the Tesla Model 3 (GEN1), varying the steering
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
+The Tesla Model 3 (GEN1) is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 
@@ -213,18 +213,16 @@ The Tesla Model 3 (GEN1) features a range of standard and optional [advanced dri
 
 The Tesla Model 3 (GEN1) offers [driving automation at levels 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Basic Autopilot  level 2 system, you get the following driving automation features.
+With the standard Basic Autopilot level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Enhanced Autopilot level 2 system, you get additional driving automation features to the ones listed above:
 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above:
+With the optional Full Self-Driving Capability level 3 system, you get additional driving automation features to the ones listed above:
 
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.

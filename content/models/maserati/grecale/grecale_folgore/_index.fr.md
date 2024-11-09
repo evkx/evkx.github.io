@@ -62,10 +62,7 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 Le Maserati Grecale Folgore permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
-- Max Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
-- GT : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
-- Off Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Max Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - GT : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Off Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
 
 ### Freins
 
@@ -228,10 +225,9 @@ Le Maserati Grecale Folgore comprend plusieurs [systèmes avancés d'assistance 
 
 ### Automatisation de la Conduite
 
-Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 ### Capteurs & Caméras

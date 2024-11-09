@@ -56,7 +56,7 @@ BMW i5 M60 xDrive har et firehjulstræk, der understøttes af to motorer, en på
 
 ### Hjulophæng
 
--affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 136 mm.
+Adaptive M Suspension-affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 136 mm.
 
 ### Styring
 
@@ -232,15 +232,13 @@ Den BMW i5 M60 xDrive inkluderer flere standard- og valgfri [avancerede føreras
 
 BMW i5 M60 xDrive tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Driving Assistant  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Driving Assistant niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- Fartpilot.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- Fartpilot. - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Driving Assistant Professional niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 {{<evkxdisplayaddarticle />}}
 

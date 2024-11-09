@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -64,7 +64,7 @@ Die dynamische Lenkung ist eine standard im Lucid Gravity Grand Touring, wobei d
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 386 mm, während die hinteren Scheiben 381 mm groß sind.
+Der Lucid Gravity Grand Touring ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 386 mm, während die hinteren Scheiben 381 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -212,20 +212,32 @@ Der Lucid Gravity Grand Touring verfügt über eine Reihe von standardmäßigen 
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard im Lucid Gravity Grand Touring, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
 
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Lucid Gravity Grand Touring, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
+[**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Lucid Gravity Grand Touring, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
+
 [**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im Lucid Gravity Grand Touring, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Lucid Gravity Grand Touring, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im Lucid Gravity Grand Touring, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
+
 ### Fahrautomatisierung
 
-Mit dem DreamDrive  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Der Lucid Gravity Grand Touring bietet [Fahrautomatisierung
+
+Mit dem DreamDrive Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+Mit dem DreamDrive Premium Level 1 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+
+- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+Mit dem optionalen DreamDrive Pro Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-
-Mit dem DreamDrive  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
-
-Mit dem DreamDrive Pro  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+- Ampelsteuerung - folgen Sie den Ampeln.
 
 {{<evkxdisplayaddarticle />}}
 

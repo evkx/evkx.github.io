@@ -72,10 +72,7 @@ La direction dynamique est une fonctionnalité un standard sur le Chevrolet Silv
 
 Le Chevrolet Silverado EV SRT permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
-- Off-Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
-- Tow/Haul : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
-- My Mode : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Off-Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés. - Tow/Haul : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif. - My Mode : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 ### Freins
 
@@ -261,10 +258,9 @@ Le Chevrolet Silverado EV SRT comprend plusieurs [systèmes avancés d'assistanc
 
 ### Automatisation de la Conduite
 
-Avec le système Super Cruise  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Super Cruise de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 ### Capteurs & Caméras

@@ -68,8 +68,7 @@ Dynamisk styring er en standard-funktion på BYD Tang 4x4 Long Range. Dynamisk s
 
 BYD Tang 4x4 Long Range lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 2 tilstande:
 
-- Sport: Dynamisk gasspjæld.
-- eco: Effektiv gas.
+- Sport: Dynamisk gasspjæld. - eco: Effektiv gas.
 
 ### Bremser
 
@@ -266,10 +265,9 @@ Den BYD Tang 4x4 Long Range inkluderer flere standard- og valgfri [avancerede f�
 
 ### Køreautomatisering
 
-Med Intelligent Cruise Control  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Intelligent Cruise Control niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer
 

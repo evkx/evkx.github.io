@@ -246,16 +246,15 @@ Mercedes-EQ G 580 EQ inkluderar flera [avancerade förarassistanssystem](../../.
 
 Mercedes-EQ G 580 EQ erbjuder [körautomatisering på nivå 1, 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Driver Assistance Package  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Driver Assistance Package nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Driver Assistance Package Plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Driver Assistance Package Plus nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-Med DRIVE PILOT  nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria DRIVE PILOT nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

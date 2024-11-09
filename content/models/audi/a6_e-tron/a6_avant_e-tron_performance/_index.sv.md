@@ -66,11 +66,7 @@ Dynamisk styrning är standard-funktionen för Audi A6 Avant e-tron performance.
 
 Audi A6 Avant e-tron performance låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- Individual: Anpassad styrning, fjädring och gasrespons.
+- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - Individual: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -309,12 +305,11 @@ Audi A6 Avant e-tron performance inkluderar flera [avancerade förarassistanssys
 
 Audi A6 Avant e-tron performance erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Standard  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Standard nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Adaptive Cruise Assist  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Adaptive Cruise Assist nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

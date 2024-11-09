@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 16 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 16 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/mhero/i/i/charging_1_st.jpg" title="MHERO I" width="2000" height="1333"  >}}
 
@@ -72,17 +72,11 @@ Dynamic steering is a standard on the MHERO I, varying the steering ratio based 
 
 The MHERO I lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Rock-mode: Balanced steering, high suspension height with balanced throttle and damping.
-- Snow mode: Balanced steering, max suspension height with balanced throttle and damping.
-- Mud mode: Balanced steering, max suspension height with balanced throttle and damping.
-- Individual: User-defined settings for steering, suspension, and throttle response.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Rock-mode: Balanced steering, high suspension height with balanced throttle and damping. - Snow mode: Balanced steering, max suspension height with balanced throttle and damping. - Mud mode: Balanced steering, max suspension height with balanced throttle and damping. - Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
+The MHERO I is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 
@@ -250,10 +244,9 @@ The MHERO I features a range of standard and optional [advanced driver assistanc
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the standard  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras
 

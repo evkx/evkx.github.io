@@ -62,10 +62,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Fisker Ocean Extreme lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Earth: Balanceret styring, med effektiv gasspjæld og stærk løft-up regen.
-- Fun: Balanceret styring og gasspjæld og medium løft-up regen.
-- Hyper: Balanceret styring, dynamisk gashåndtag og medium løft-up regen.
-- Snow/Ice: Balanceret styring, med effektiv gasspjæld og lav løft-up regen.
+- Earth: Balanceret styring, med effektiv gasspjæld og stærk løft-up regen. - Fun: Balanceret styring og gasspjæld og medium løft-up regen. - Hyper: Balanceret styring, dynamisk gashåndtag og medium løft-up regen. - Snow/Ice: Balanceret styring, med effektiv gasspjæld og lav løft-up regen.
 
 ### Bremser
 
@@ -220,10 +217,9 @@ Den Fisker Ocean Extreme inkluderer flere standard- og valgfri [avancerede føre
 
 ### Køreautomatisering
 
-Med Fisker Intelligent Pilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Fisker Intelligent Pilot niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}

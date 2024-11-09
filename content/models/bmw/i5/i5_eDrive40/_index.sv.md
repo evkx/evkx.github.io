@@ -60,7 +60,7 @@ Fjädringen Adaptive M Suspension har en fast höjd och dämpning. Markfrigånge
 
 Du kan beställa BMW i5 eDrive40 med en alternativ M Sport Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare.
 
-Du kan beställa BMW i5 eDrive40 med en alternativ Adaptives suspension professional-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har adaptiv dämpning på fram- och bakaxeln och luftfjädring på bakaxeln som automatiskt håller bilen i nivå beroende på lastvikten. Markfrigången med denna fjädring är 140 mm.
+Du kan beställa BMW i5 eDrive40 med en alternativ Adaptives suspension professional-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen Adaptives suspension professional har adaptiv dämpning på fram- och bakaxeln och luftfjädring på bakaxeln som automatiskt håller bilen i nivå beroende på lastvikten. Markfrigången med denna fjädring är 140 mm.
 
 ### Styrning
 
@@ -232,15 +232,13 @@ BMW i5 eDrive40 inkluderar flera [avancerade förarassistanssystem](../../../../
 
 BMW i5 eDrive40 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Driving Assistant  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Driving Assistant nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- Farthållare.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- Farthållare. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Driving Assistant Professional nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 {{<evkxdisplayaddarticle />}}
 

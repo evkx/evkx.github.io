@@ -64,12 +64,7 @@ La direction dynamique est une fonctionnalité un standard sur le VOYAH Courage 
 
 Le VOYAH Courage AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 6 modes :
 
-- Performance: Direction, suspension et accélérateur dynamiques.
-- Eco: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
-- Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable.
-- Outing: Accélérateur et direction équilibrés, amortissement de suspension confortable.
-- Snow: Direction, accélération et amortissement équilibrés.
-- Individual : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
+- Performance: Direction, suspension et accélérateur dynamiques. - Eco: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée. - Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable. - Outing: Accélérateur et direction équilibrés, amortissement de suspension confortable. - Snow: Direction, accélération et amortissement équilibrés. - Individual : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
 
 ### Freins
 
@@ -248,10 +243,9 @@ Le VOYAH Courage AWD comprend plusieurs [systèmes avancés d'assistance au cond
 
 ### Automatisation de la Conduite
 
-Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Capteurs & Caméras

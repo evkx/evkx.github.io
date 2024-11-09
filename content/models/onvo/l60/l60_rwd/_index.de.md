@@ -50,7 +50,7 @@ Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 15
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -78,7 +78,7 @@ Die dynamische Lenkung ist eine standard im Onvo L60 RWD, wobei das Lenkverhält
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der Onvo L60 RWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -251,10 +251,9 @@ Der Onvo L60 RWD verfügt über eine Reihe von standardmäßigen und optionalen 
 
 ### Fahrautomatisierung
 
-Mit dem Onvo Self Driving  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Onvo Self Driving Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 ### Sensoren & Kameras
 

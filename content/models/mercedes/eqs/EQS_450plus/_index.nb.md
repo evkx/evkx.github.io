@@ -251,16 +251,15 @@ Mercedes-EQ EQS 450+ inkluderer flere [avanserte førerassistanse systemer](../.
 
 Mercedes-EQ EQS 450+ tilbyr [kjøreautomatisering på nivå 1, 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Driver Assistance Package nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
-Med Driver Assistance Package Plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Driver Assistance Package Plus nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-Med DRIVE PILOT  nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie DRIVE PILOT nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

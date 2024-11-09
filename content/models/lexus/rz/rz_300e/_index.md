@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 49 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 49 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/charging_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -66,15 +66,11 @@ Dynamic steering is a standard on the Lexus RZ 300e, varying the steering ratio 
 
 The Lexus RZ 300e lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Normal: Balanced steering and throttle.
-- Sport: Dynamic steering and throttle.
-- Eco: Balanced steering and efficent throttle.
-- Range: Balanced steering and efficent throttle.
-- Custom: User-defined settings for steering and throttle.
+- Normal: Balanced steering and throttle. - Sport: Dynamic steering and throttle. - Eco: Balanced steering and efficent throttle. - Range: Balanced steering and efficent throttle. - Custom: User-defined settings for steering and throttle.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 328 mm, while the rear discs are 317 mm.
+The Lexus RZ 300e is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 328 mm, while the rear discs are 317 mm.
 
 ### Regenerative Braking
 
@@ -260,12 +256,10 @@ The Lexus RZ 300e features a range of standard and optional [advanced driver ass
 
 ### Driving Automation
 
-With the Lane Tracing Assist  level 2 system, you get the following driving automation features.
+With the standard Lane Tracing Assist level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 

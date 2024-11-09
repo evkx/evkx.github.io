@@ -58,7 +58,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 3,3 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
@@ -255,10 +255,9 @@ Onvo L60 AWD inkluderar flera [avancerade förarassistanssystem](../../../../tec
 
 ### Körautomatisering
 
-Med Onvo Self Driving  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Onvo Self Driving nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 ### Sensorer & Kameror
 

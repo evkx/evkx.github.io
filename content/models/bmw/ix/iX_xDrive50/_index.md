@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 33 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 33 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -206,15 +206,13 @@ The BMW iX xDrive50 features a range of standard and optional [advanced driver a
 
 The BMW iX xDrive50 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Driving Assistant  level 1 system, you get the following driving automation features.
+With the Driving Assistant level 1 system, you get the following driving automation features.
 
-- Cruise control.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Driving Assistant Professional level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -38,7 +38,7 @@ The vehicle supports fast DC charging with a maximum power of 110 kW. Charging f
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 58 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 58 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -58,13 +58,11 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The VinFast VF8 Eco lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Eco Mode: Efficent throttle.
-- Normal Mode: Balanced throttle.
-- Sport Mode: Dynamic throttle.
+- Eco Mode: Efficent throttle. - Normal Mode: Balanced throttle. - Sport Mode: Dynamic throttle.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 375 mm, while the rear discs are 341 mm.
+The VinFast VF8 Eco is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 375 mm, while the rear discs are 341 mm.
 
 ### Regenerative Braking
 
@@ -213,10 +211,9 @@ The VinFast VF8 Eco features a range of standard and optional [advanced driver a
 
 ### Driving Automation
 
-With the Highway Assist  level 2 system, you get the following driving automation features.
+With the standard Highway Assist level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras
 

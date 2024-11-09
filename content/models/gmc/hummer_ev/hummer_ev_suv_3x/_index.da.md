@@ -68,13 +68,7 @@ Dynamisk styring er en standard-funktion på GMC Hummer EV SUV 3x. Dynamisk styr
 
 GMC Hummer EV SUV 3x lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
-- Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
-- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- My Mode: Brugerdefineret styring, affjedring og gasrespons.
+- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - My Mode: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 
@@ -248,12 +242,10 @@ Den GMC Hummer EV SUV 3x inkluderer flere standard- og valgfri [avancerede føre
 
 ### Køreautomatisering
 
-Med Super Cruise  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Super Cruise niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

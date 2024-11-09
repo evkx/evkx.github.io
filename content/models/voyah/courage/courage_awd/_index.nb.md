@@ -64,12 +64,7 @@ Dynamisk styring er en standard-funksjonen på VOYAH Courage AWD. Dynamisk styri
 
 VOYAH Courage AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 6 moduser:
 
-- Performance: Dynamisk styring, fjæring og gasspådrag.
-- Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
-- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
-- Outing: Balansert gasspådrag og styring, komfort fjæringsdemping.
-- Snow: Balansert styring, gass og demping.
-- Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+- Performance: Dynamisk styring, fjæring og gasspådrag. - Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring. - Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping. - Outing: Balansert gasspådrag og styring, komfort fjæringsdemping. - Snow: Balansert styring, gass og demping. - Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 
@@ -248,10 +243,9 @@ VOYAH Courage AWD inkluderer flere [avanserte førerassistanse systemer](../../.
 
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer

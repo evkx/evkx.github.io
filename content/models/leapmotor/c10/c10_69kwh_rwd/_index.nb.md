@@ -209,12 +209,10 @@ Leapmotor C10 69kWh RWD inkluderer flere [avanserte førerassistanse systemer](.
 
 ### Kjøreautomatisering
 
-Med Leapmotor Pilot   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Leapmotor Pilot  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

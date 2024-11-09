@@ -198,7 +198,7 @@ Den Opel Astra Sports Tourer Electric inkluderer flere standard- og valgfri [ava
 
 Opel Astra Sports Tourer Electric tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med DS Drive Assist niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

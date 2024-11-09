@@ -925,7 +925,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				360-Grad-Kamera
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Ja, Sonderausstattung
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Vordere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -955,6 +956,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Seitliche Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -985,6 +987,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Automatische Notbremsung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1000,6 +1003,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1007,6 +1011,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Warnung vor Kollisionen
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1042,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Effizienzassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

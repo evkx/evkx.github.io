@@ -216,10 +216,9 @@ BYD Seal RWD inkluderar flera [avancerade förarassistanssystem](../../../../tec
 
 ### Körautomatisering
 
-Med Smart Pilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Smart Pilot nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 {{<evkxdisplayaddarticle />}}
 

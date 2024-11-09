@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -62,7 +62,7 @@ Die dynamische Lenkung ist eine standard im Mercedes-EQ EQC 400 4MATIC, wobei da
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der Mercedes-EQ EQC 400 4MATIC ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -166,7 +166,7 @@ Sie können zwischen drei Soundsystemen für den Mercedes-EQ EQC 400 4MATIC wäh
 
 ## Lichter
 
-Der  ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+Der Mercedes-EQ EQC 400 4MATIC ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -198,10 +198,9 @@ Der Mercedes-EQ EQC 400 4MATIC verfügt über eine Reihe von standardmäßigen u
 
 Der Mercedes-EQ EQC 400 4MATIC bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
 
-Mit dem Driver Assistance Package  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Driver Assistance Package Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}
 

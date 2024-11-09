@@ -50,7 +50,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 6 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -72,13 +72,7 @@ Dynamisk styrning är standard-funktionen för MHERO I. Dynamisk styrning varier
 
 MHERO I låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
 
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Rock-mode: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Snow mode: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Mud mode: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Individual: Anpassad styrning, fjädring och gasrespons.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Rock-mode: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning. - Snow mode: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Mud mode: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Individual: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -250,10 +244,9 @@ MHERO I inkluderar flera [avancerade förarassistanssystem](../../../../technolo
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror
 

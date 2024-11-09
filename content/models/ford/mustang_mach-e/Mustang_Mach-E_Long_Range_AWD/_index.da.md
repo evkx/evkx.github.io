@@ -211,10 +211,9 @@ Den Ford Mustang Mach-E Long Range AWD inkluderer flere standard- og valgfri [av
 
 ### Køreautomatisering
 
-Med Ford BlueCruise  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Ford BlueCruise niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 {{<evkxdisplayaddarticle />}}

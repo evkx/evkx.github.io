@@ -64,12 +64,7 @@ Dynamisk styring er en standard-funksjonen på VOYAH FREE. Dynamisk styring vari
 
 VOYAH FREE lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 6 moduser:
 
-- Performance: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Eco: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
-- Outing: Balansert styring, høy fjæringshøyde med balansert gass og demping.
-- Snow: Balansert styring, maks fjæringshøyde med balansert gass og demping.
-- Individual: Egendefinert styring, fjæring og gassrespons.
+- Performance: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Eco: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Outing: Balansert styring, høy fjæringshøyde med balansert gass og demping. - Snow: Balansert styring, maks fjæringshøyde med balansert gass og demping. - Individual: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 
@@ -239,10 +234,9 @@ VOYAH FREE inkluderer flere [avanserte førerassistanse systemer](../../../../te
 
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer

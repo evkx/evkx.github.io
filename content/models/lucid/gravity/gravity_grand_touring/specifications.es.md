@@ -925,7 +925,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Cámara 360
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -955,6 +956,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -985,6 +987,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Frenado automático de emergencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1000,6 +1003,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1007,6 +1011,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1042,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

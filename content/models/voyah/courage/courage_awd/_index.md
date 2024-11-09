@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 54 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 54 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -64,16 +64,11 @@ Dynamic steering is a standard on the VOYAH Courage AWD, varying the steering ra
 
 The VOYAH Courage AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 6 modes:
 
-- Performance: Dynamic steering, suspension and throttle.
-- Eco: Balanced steering, with efficient throttle, and balanced suspension.
-- Comfort: Balanced throttle and steering, comfort suspension damping.
-- Outing: Balanced throttle and steering, comfort suspension damping.
-- Snow: Balanced steering, throttle and damping.
-- Individual: User-defined settings for steering, throttle, and suspension.
+- Performance: Dynamic steering, suspension and throttle. - Eco: Balanced steering, with efficient throttle, and balanced suspension. - Comfort: Balanced throttle and steering, comfort suspension damping. - Outing: Balanced throttle and steering, comfort suspension damping. - Snow: Balanced steering, throttle and damping. - Individual: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
+The VOYAH Courage AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -248,10 +243,9 @@ The VOYAH Courage AWD features a range of standard and optional [advanced driver
 
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the standard  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras

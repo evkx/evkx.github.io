@@ -231,14 +231,13 @@ Den Li Auto MEGA inkluderer flere standard- og valgfri [avancerede førerassiste
 
 ### Køreautomatisering
 
-Med AD Pro  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard AD Pro niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med AD Max  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie AD Max niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 

@@ -72,10 +72,7 @@ Dynamisk styring er en standard-funksjonen på Tesla Cybertruck AWD. Dynamisk st
 
 Tesla Cybertruck AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
-- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Custom: Egendefinert styring, fjæring og gassrespons.
-- Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Custom: Egendefinert styring, fjæring og gassrespons. - Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
 
 ### Bremser
 
@@ -225,18 +222,16 @@ Tesla Cybertruck AWD inkluderer flere [avanserte førerassistanse systemer](../.
 
 Tesla Cybertruck AWD tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Basic Autopilot nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-Med Enhanced Autopilot  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Enhanced Autopilot nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med Full Self-Driving Capability  nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Full Self-Driving Capability nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - Trafikklys kontroll - følger trafikklysene.
 - Stopp-skiltkontroll - følg stopp-skilt.

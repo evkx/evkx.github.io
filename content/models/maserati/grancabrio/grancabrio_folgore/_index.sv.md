@@ -60,10 +60,7 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Maserati GranCabrio Folgore låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Max Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- GT: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Off Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Max Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - GT: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Off Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
 
 ### Bromsar
 
@@ -227,10 +224,9 @@ Maserati GranCabrio Folgore inkluderar flera [avancerade förarassistanssystem](
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 ### Sensorer & Kameror

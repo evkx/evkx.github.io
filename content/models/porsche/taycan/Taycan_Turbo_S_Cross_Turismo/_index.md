@@ -210,7 +210,7 @@ You can choose between three sound systems for the Porsche Taycan Turbo S Cross 
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The Porsche Taycan Turbo S Cross Turismo comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -246,12 +246,11 @@ The Porsche Taycan Turbo S Cross Turismo features a range of standard and option
 
 The Porsche Taycan Turbo S Cross Turismo offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Porsche InnoDrive level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

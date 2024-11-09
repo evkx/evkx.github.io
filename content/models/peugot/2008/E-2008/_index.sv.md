@@ -190,7 +190,7 @@ Peugot E-2008 inkluderar flera [avancerade förarassistanssystem](../../../../te
 
 Peugot E-2008 erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med DS Drive Assist nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

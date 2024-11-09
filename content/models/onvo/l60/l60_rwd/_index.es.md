@@ -251,10 +251,9 @@ El Onvo L60 RWD incluye varios [sistemas avanzados de asistencia al conductor](.
 
 ### Automatización de la Conducción
 
-Con el sistema Onvo Self Driving  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Onvo Self Driving de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 ### Sensores y Cámaras
 

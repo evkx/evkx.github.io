@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 22 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 22 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
 
@@ -60,7 +60,7 @@ Die Adaptive M Suspension Federung hat eine feste Höhe und Dämpfung. Die Boden
 
 Sie können BMW i5 eDrive40 Touring mit einer alternativen M Sport Suspension Federung bestellen. Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer.
 
-Sie können BMW i5 eDrive40 Touring mit einer alternativen Adaptives suspension professional Federung bestellen. Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine adaptive Dämpfung an der Vorder- und Hinterachse und eine Luftfederung an der Hinterachse, die das Fahrzeug je nach Ladegewicht automatisch nivelliert. Die Bodenfreiheit mit dieser Federung beträgt 140 mm.
+Sie können BMW i5 eDrive40 Touring mit einer alternativen Adaptives suspension professional Federung bestellen. Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die Adaptives suspension professional Federung hat eine adaptive Dämpfung an der Vorder- und Hinterachse und eine Luftfederung an der Hinterachse, die das Fahrzeug je nach Ladegewicht automatisch nivelliert. Die Bodenfreiheit mit dieser Federung beträgt 140 mm.
 
 ### Lenkung
 
@@ -68,7 +68,7 @@ Die dynamische Lenkung ist eine standard im BMW i5 eDrive40 Touring, wobei das L
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 348 mm, während die hinteren Scheiben 345 mm groß sind.
+Der BMW i5 eDrive40 Touring ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 348 mm, während die hinteren Scheiben 345 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -265,15 +265,13 @@ Der BMW i5 eDrive40 Touring verfügt über eine Reihe von standardmäßigen und 
 
 Der BMW i5 eDrive40 Touring bietet [Fahrautomatisierung
 
-Mit dem Driving Assistant  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Driving Assistant Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- Geschwindigkeitsregelung.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Geschwindigkeitsregelung. - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-Mit dem Driving Assistant Professional  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Driving Assistant Professional Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 ### Sensoren & Kameras
 

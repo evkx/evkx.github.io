@@ -246,11 +246,11 @@ Volkswagen ID.4 Pro 4MOTION (GEN1) inkluderer flere [avanserte førerassistanse 
 
 Volkswagen ID.4 Pro 4MOTION (GEN1) tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Assistantpackage plus nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)

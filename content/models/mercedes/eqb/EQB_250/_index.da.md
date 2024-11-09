@@ -232,7 +232,7 @@ Den Mercedes-EQ EQB 250 inkluderer flere standard- og valgfri [avancerede fører
 
 Mercedes-EQ EQB 250 tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Driver Assistance Package  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Driver Assistance Package niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

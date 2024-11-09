@@ -64,12 +64,7 @@ La dirección dinámica es una característica un estándar en el VOYAH FREE. La
 
 El VOYAH FREE permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 6 modos:
 
-- Performance: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
-- Eco: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
-- Outing: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
-- Snow: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
-- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Performance: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Eco: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Outing: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas. - Snow: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados. - Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 
@@ -239,10 +234,9 @@ El VOYAH FREE incluye varios [sistemas avanzados de asistencia al conductor](../
 
 ### Automatización de la Conducción
 
-Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras

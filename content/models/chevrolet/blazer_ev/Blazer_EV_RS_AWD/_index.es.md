@@ -66,9 +66,7 @@ La dirección dinámica es una característica un estándar en el Chevrolet Blaz
 
 El Chevrolet Blazer EV RS AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
-- Normal: Dirección equilibrada y acelerador eficiente.
-- Sport: Dirección y acelerador equilibrados.
-- My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
+- Normal: Dirección equilibrada y acelerador eficiente. - Sport: Dirección y acelerador equilibrados. - My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 
@@ -251,11 +249,11 @@ El Chevrolet Blazer EV RS AWD incluye varios [sistemas avanzados de asistencia a
 
 Chevrolet Blazer EV RS AWD ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Con el sistema Super Cruise  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Super Cruise de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

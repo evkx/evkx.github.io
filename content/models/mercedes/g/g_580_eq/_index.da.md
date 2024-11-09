@@ -246,16 +246,15 @@ Den Mercedes-EQ G 580 EQ inkluderer flere standard- og valgfri [avancerede føre
 
 Mercedes-EQ G 580 EQ tilbyder [køreautomatisering på niveau 1, 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Driver Assistance Package  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Driver Assistance Package niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-Med Driver Assistance Package Plus  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Driver Assistance Package Plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-Med DRIVE PILOT  niveau 3-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie DRIVE PILOT niveau 3-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

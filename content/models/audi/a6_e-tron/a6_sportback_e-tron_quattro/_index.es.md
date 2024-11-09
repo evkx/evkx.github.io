@@ -68,11 +68,7 @@ La dirección dinámica es una característica un estándar en el Audi A6 Sportb
 
 El Audi A6 Sportback e-tron quattro permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Dynamic: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
-- Efficiency: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
-- Balanced: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
-- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Dynamic: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Efficiency: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Balanced: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa. - Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 
@@ -310,12 +306,11 @@ El Audi A6 Sportback e-tron quattro incluye varios [sistemas avanzados de asiste
 
 Audi A6 Sportback e-tron quattro ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Standard  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Standard de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema Adaptive Cruise Assist  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Adaptive Cruise Assist de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

@@ -232,7 +232,7 @@ Le Mercedes-EQ EQB 250 comprend plusieurs [systèmes avancés d'assistance au co
 
 Mercedes-EQ EQB 250 offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Driver Assistance Package  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Driver Assistance Package de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

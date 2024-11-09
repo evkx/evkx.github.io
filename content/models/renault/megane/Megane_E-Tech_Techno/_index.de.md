@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 7,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 20 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 7,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 20 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}
 
@@ -64,7 +64,7 @@ Die dynamische Lenkung ist eine optionale im Renault Megane E-Tech Techno, wobei
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der Renault Megane E-Tech Techno ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -218,10 +218,9 @@ Der Renault Megane E-Tech Techno verfügt über eine Reihe von standardmäßigen
 
 ### Fahrautomatisierung
 
-Mit dem ProPILOT  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen ProPILOT Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}

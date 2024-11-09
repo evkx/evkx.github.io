@@ -233,11 +233,11 @@ El Volkswagen ID.5 Pro incluye varios [sistemas avanzados de asistencia al condu
 
 Volkswagen ID.5 Pro ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Assistantpackage plus de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)

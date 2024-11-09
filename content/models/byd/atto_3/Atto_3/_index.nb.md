@@ -221,7 +221,7 @@ BYD Atto 3 inkluderer flere [avanserte førerassistanse systemer](../../../../te
 
 BYD Atto 3 tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

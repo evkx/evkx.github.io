@@ -207,16 +207,15 @@ Ford F150 Lightning Standard Range inkluderer flere [avanserte førerassistanse 
 
 Ford F150 Lightning Standard Range tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Ford Co-Pilot360™ 2.0 nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - Fartsbegrenser.
 
-Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Ford Co-Pilot360™ Assist 2.0 nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Ford Co-Pilot360™ Active 2.0 nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

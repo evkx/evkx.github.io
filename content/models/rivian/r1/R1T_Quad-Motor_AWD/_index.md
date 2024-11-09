@@ -41,7 +41,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 52 minutes using a home charging setup.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 52 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
@@ -61,7 +61,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
+The Rivian R1T Quad-Motor AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
 
 ### Regenerative Braking
 
@@ -208,10 +208,9 @@ The Rivian R1T Quad-Motor AWD features a range of standard and optional [advance
 
 ### Driving Automation
 
-With the Driver+  level 2 system, you get the following driving automation features.
+With the standard Driver+ level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -235,7 +235,7 @@ Chevrolet Silverado EV 4WT inkluderer flere [avanserte førerassistanse systemer
 
 Chevrolet Silverado EV 4WT tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Super Cruise nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

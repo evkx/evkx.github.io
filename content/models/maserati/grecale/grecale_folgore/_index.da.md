@@ -62,10 +62,7 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 Maserati Grecale Folgore lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Max Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- GT: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Off Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Max Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - GT: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Off Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
 
 ### Bremser
 
@@ -228,10 +225,9 @@ Den Maserati Grecale Folgore inkluderer flere standard- og valgfri [avancerede f
 
 ### Køreautomatisering
 
-Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 ### Sensorer & Kameraer

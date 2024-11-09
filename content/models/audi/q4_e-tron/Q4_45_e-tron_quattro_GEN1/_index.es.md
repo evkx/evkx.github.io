@@ -269,15 +269,13 @@ El Audi Q4 45 e-tron quattro (GEN1) incluye varios [sistemas avanzados de asiste
 
 Audi Q4 45 e-tron quattro (GEN1) ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- Control de crucero.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- Control de crucero. - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema Assistantpackage Tour  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Assistantpackage Tour de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 {{<evkxdisplayaddarticle />}}
 

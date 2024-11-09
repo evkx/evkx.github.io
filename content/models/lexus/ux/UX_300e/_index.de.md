@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 8 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 8 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
@@ -60,7 +60,7 @@ Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser F
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 305 mm, während die hinteren Scheiben 317 mm groß sind.
+Der Lexus UX 300e ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 305 mm, während die hinteren Scheiben 317 mm groß sind.
 
 ### Rekuperatives Bremsen
 

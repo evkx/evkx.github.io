@@ -64,9 +64,7 @@ Dynamisk styring er en standard-funktion på Toyota bZ4X AWD. Dynamisk styring v
 
 Toyota bZ4X AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Normal: Afbalanceret styring og speeder.
-- X-Mode: Dynamisk styring og speeder.
-- Eco: Afbalanceret styring og effektiv speeder.
+- Normal: Afbalanceret styring og speeder. - X-Mode: Dynamisk styring og speeder. - Eco: Afbalanceret styring og effektiv speeder.
 
 ### Bremser
 
@@ -252,12 +250,10 @@ Den Toyota bZ4X AWD inkluderer flere standard- og valgfri [avancerede førerassi
 
 ### Køreautomatisering
 
-Med Lane Tracing Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Lane Tracing Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

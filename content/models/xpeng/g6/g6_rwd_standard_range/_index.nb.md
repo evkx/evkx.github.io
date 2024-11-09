@@ -68,10 +68,7 @@ Dynamisk styring er en standard-funksjonen på XPENG G6 RWD Standard Range. Dyna
 
 XPENG G6 RWD Standard Range lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Comfort: Komfort styring og effektiv gasspådrag.
-- Standard: Balansert styring og gasspedal.
-- Sport: Dynamisk styring og gasspedal.
-- Individual: Brukerdefinerte innstillinger for styring og gasspådrag.
+- Comfort: Komfort styring og effektiv gasspådrag. - Standard: Balansert styring og gasspedal. - Sport: Dynamisk styring og gasspedal. - Individual: Brukerdefinerte innstillinger for styring og gasspådrag.
 
 ### Bremser
 
@@ -255,12 +252,10 @@ XPENG G6 RWD Standard Range inkluderer flere [avanserte førerassistanse systeme
 
 ### Kjøreautomatisering
 
-Med XPENG Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard XPENG Pilot nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

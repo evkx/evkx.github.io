@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 52 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Onboard-Ladegerät wählen, das bis zu 22 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 2 Stunden und 56 Minuten vollständig von 0 auf 100% aufladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 52 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Bordladegerät wählen, das bis zu 22 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 2 Stunden und 56 Minuten vollständig von 0 auf 100% aufladen.
 
 ### Ladeanschluss
 
@@ -229,10 +229,9 @@ Der BMW iX1 xDrive30 verfügt über eine Reihe von standardmäßigen und optiona
 
 ### Fahrautomatisierung
 
-Mit dem Driving Assistant Professional  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Driving Assistant Professional Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}

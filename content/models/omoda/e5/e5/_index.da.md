@@ -64,9 +64,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 OMODA E5 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Normal: Afbalanceret styring og speeder.
-- Sport: Dynamisk styring og speeder.
-- Eco: Afbalanceret styring og effektiv speeder.
+- Normal: Afbalanceret styring og speeder. - Sport: Dynamisk styring og speeder. - Eco: Afbalanceret styring og effektiv speeder.
 
 ### Bremser
 
@@ -219,10 +217,9 @@ Den OMODA E5 inkluderer flere standard- og valgfri [avancerede førerassistentsy
 
 ### Køreautomatisering
 
-Med Traffic Jam Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Traffic Jam Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer
 

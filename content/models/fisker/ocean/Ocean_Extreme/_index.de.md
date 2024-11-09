@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 40 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 40 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/charging_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2250"  >}}
 
@@ -62,14 +62,11 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 Der Fisker Ocean Extreme ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Earth: Ausgewogene Lenkung, mit effizientem Gas und starker Lift-up-Rekuperation.
-- Fun: Ausgewogene Lenkung und Gas, und mittlere Lift-up-Rekuperation.
-- Hyper: Ausgewogene Lenkung, dynamisches Gas und mittlere Lift-up-Rekuperation.
-- Snow/Ice: Ausgewogene Lenkung, mit effizientem Gas und niedriger Lift-up-Rekuperation.
+- Earth: Ausgewogene Lenkung, mit effizientem Gas und starker Lift-up-Rekuperation. - Fun: Ausgewogene Lenkung und Gas, und mittlere Lift-up-Rekuperation. - Hyper: Ausgewogene Lenkung, dynamisches Gas und mittlere Lift-up-Rekuperation. - Snow/Ice: Ausgewogene Lenkung, mit effizientem Gas und niedriger Lift-up-Rekuperation.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der Fisker Ocean Extreme ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -220,10 +217,9 @@ Der Fisker Ocean Extreme verfügt über eine Reihe von standardmäßigen und opt
 
 ### Fahrautomatisierung
 
-Mit dem Fisker Intelligent Pilot  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Fisker Intelligent Pilot Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}

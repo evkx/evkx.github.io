@@ -269,14 +269,13 @@ Audi S e-tron GT inkluderer flere [avanserte førerassistanse systemer](../../..
 
 Audi S e-tron GT tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
-Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Assistantpackage Tour nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 {{<evkxdisplayaddarticle />}}
 

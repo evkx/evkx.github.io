@@ -64,9 +64,7 @@ La dirección dinámica es una característica un estándar en el Honda e:Ny1. L
 
 El Honda e:Ny1 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
-- Sport: Dirección y acelerador dinámicos.
-- Normal: Dirección y acelerador equilibrados.
-- eco: Dirección equilibrada y acelerador eficiente.
+- Sport: Dirección y acelerador dinámicos. - Normal: Dirección y acelerador equilibrados. - eco: Dirección equilibrada y acelerador eficiente.
 
 ### Frenos
 
@@ -227,10 +225,9 @@ El Honda e:Ny1 incluye varios [sistemas avanzados de asistencia al conductor](..
 
 ### Automatización de la Conducción
 
-Con el sistema Honda Sensing  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Honda Sensing de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 ### Sensores y Cámaras
 

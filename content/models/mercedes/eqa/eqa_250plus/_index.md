@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 24 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 24 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/charging_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard on the Mercedes-EQ EQA 250+, varying the steering
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Mercedes-EQ EQA 250+ is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -235,7 +235,7 @@ The Mercedes-EQ EQA 250+ features a range of standard and optional [advanced dri
 
 The Mercedes-EQ EQA 250+ offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Driver Assistance Package  level 1 system, you get the following driving automation features.
+With the Driver Assistance Package level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

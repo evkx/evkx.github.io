@@ -60,7 +60,7 @@ The Adaptive M Suspension suspension has a fixed height and damping. The ground 
 
 You can order BMW i5 xDrive40 with an alternative M Sport Suspension suspension. The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers.
 
-You can order BMW i5 xDrive40 with an alternative Adaptives suspension professional suspension. The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 140 mm.
+You can order BMW i5 xDrive40 with an alternative Adaptives suspension professional suspension. The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The Adaptives suspension professional suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 140 mm.
 
 ### Steering
 
@@ -232,15 +232,13 @@ The BMW i5 xDrive40 features a range of standard and optional [advanced driver a
 
 The BMW i5 xDrive40 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Driving Assistant  level 1 system, you get the following driving automation features.
+With the Driving Assistant level 1 system, you get the following driving automation features.
 
-- Cruise control.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Driving Assistant Professional level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 {{<evkxdisplayaddarticle />}}
 

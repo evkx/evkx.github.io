@@ -86,11 +86,7 @@ Dynamisk styrning är standard-funktionen för Nio EL8. Dynamisk styrning varier
 
 Nio EL8 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Sport+: Dynamisk styrning, låg fjädring med dynamisk gasrespons och fjädring. Låg regenerativ bromsning.
-- Sport: Balanserad styrning, lägsta fjädringshöjd med balanserad gasrespons och dämpning. Låg regenerativ bromsning.
-- Comfort: Komfortstyrning, normal fjädringshöjd med balanserad gasrespons och komfortdämpning. Låg regenerativ bromsning.
-- ECO: Komfortstyrning, normal fjädringshöjd med effektiv gasrespons och komfortdämpning. Medelhög regenerativ bromsning.
-- Custom: Användardefinierade inställningar för styrning, fjädring, gasrespons och regenerativ bromsning.
+- Sport+: Dynamisk styrning, låg fjädring med dynamisk gasrespons och fjädring. Låg regenerativ bromsning. - Sport: Balanserad styrning, lägsta fjädringshöjd med balanserad gasrespons och dämpning. Låg regenerativ bromsning. - Comfort: Komfortstyrning, normal fjädringshöjd med balanserad gasrespons och komfortdämpning. Låg regenerativ bromsning. - ECO: Komfortstyrning, normal fjädringshöjd med effektiv gasrespons och komfortdämpning. Medelhög regenerativ bromsning. - Custom: Användardefinierade inställningar för styrning, fjädring, gasrespons och regenerativ bromsning.
 
 ### Bromsar
 
@@ -302,13 +298,11 @@ Nio EL8 inkluderar flera [avancerade förarassistanssystem](../../../../technolo
 
 ### Körautomatisering
 
-Med NIO Pilot Complete Pack  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard NIO Pilot Complete Pack nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 

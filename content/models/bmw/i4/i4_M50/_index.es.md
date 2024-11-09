@@ -56,7 +56,7 @@ BMW i4 M50 tiene un sistema de tracción total sostenido por dos motores, uno en
 
 ### Suspensión
 
-La suspensión  tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm.
+La suspensión Adaptive M Suspension tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm.
 
 ### Dirección
 
@@ -268,15 +268,13 @@ El BMW i4 M50 incluye varios [sistemas avanzados de asistencia al conductor](../
 
 BMW i4 M50 ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Driving Assistant  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Driving Assistant de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- Control de crucero.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- Control de crucero. - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema Driving Assistant Professional  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Driving Assistant Professional de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 {{<evkxdisplayaddarticle />}}
 

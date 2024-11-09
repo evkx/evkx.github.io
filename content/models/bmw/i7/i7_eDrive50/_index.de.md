@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 14 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 14 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -240,15 +240,13 @@ Der BMW i7 eDrive50 verfügt über eine Reihe von standardmäßigen und optional
 
 Der BMW i7 eDrive50 bietet [Fahrautomatisierung
 
-Mit dem Driving Assistant  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Driving Assistant Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- Geschwindigkeitsregelung.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Geschwindigkeitsregelung. - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-Mit dem Driving Assistant Professional  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Driving Assistant Professional Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 {{<evkxdisplayaddarticle />}}
 

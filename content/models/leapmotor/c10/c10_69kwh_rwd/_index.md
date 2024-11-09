@@ -38,7 +38,7 @@ The vehicle supports fast DC charging with a maximum power of 80 kW. Charging fr
 
 ### Onboard Charger
 
-The  onboard charger supports up to 6.7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 0 minutes using a home charging setup.
+The standard onboard charger supports up to 6.7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 0 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard on the Leapmotor C10 69kWh RWD, varying the steer
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Leapmotor C10 69kWh RWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -209,12 +209,10 @@ The Leapmotor C10 69kWh RWD features a range of standard and optional [advanced 
 
 ### Driving Automation
 
-With the Leapmotor Pilot   level 2 system, you get the following driving automation features.
+With the standard Leapmotor Pilot  level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 

@@ -240,15 +240,13 @@ BMW i7 eDrive50 inkluderar flera [avancerade förarassistanssystem](../../../../
 
 BMW i7 eDrive50 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Driving Assistant  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Driving Assistant nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- Farthållare.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- Farthållare. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Driving Assistant Professional nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 {{<evkxdisplayaddarticle />}}
 

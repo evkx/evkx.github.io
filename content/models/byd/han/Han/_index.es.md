@@ -217,12 +217,11 @@ El BYD Han incluye varios [sistemas avanzados de asistencia al conductor](../../
 
 BYD Han ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema Smart Pilot  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Smart Pilot de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

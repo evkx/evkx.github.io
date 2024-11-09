@@ -72,14 +72,11 @@ Dynamic steering is a standard on the Cadillac ESCALADE IQ, varying the steering
 
 The Cadillac ESCALADE IQ lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Tour: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- My Mode: User-defined settings for steering, suspension, and throttle response.
+- Tour: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - My Mode: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
+The Cadillac ESCALADE IQ is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 
@@ -283,12 +280,10 @@ The Cadillac ESCALADE IQ features a range of standard and optional [advanced dri
 
 ### Driving Automation
 
-With the Super Cruise  level 2 system, you get the following driving automation features.
+With the standard Super Cruise level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 

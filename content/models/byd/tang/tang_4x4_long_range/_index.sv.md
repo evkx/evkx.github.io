@@ -48,7 +48,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 4 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -68,8 +68,7 @@ Dynamisk styrning är standard-funktionen för BYD Tang 4x4 Long Range. Dynamisk
 
 BYD Tang 4x4 Long Range låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 2 lägen:
 
-- Sport: Dynamisk gass.
-- eco: Effektiv gass.
+- Sport: Dynamisk gass. - eco: Effektiv gass.
 
 ### Bromsar
 
@@ -266,10 +265,9 @@ BYD Tang 4x4 Long Range inkluderar flera [avancerade förarassistanssystem](../.
 
 ### Körautomatisering
 
-Med Intelligent Cruise Control  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Intelligent Cruise Control nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror
 

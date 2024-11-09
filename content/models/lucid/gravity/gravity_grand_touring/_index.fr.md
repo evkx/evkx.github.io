@@ -212,20 +212,32 @@ Le Lucid Gravity Grand Touring comprend plusieurs [systèmes avancés d'assistan
 
 [**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Lucid Gravity Grand Touring, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
 
+[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lucid Gravity Grand Touring, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lucid Gravity Grand Touring, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Lucid Gravity Grand Touring, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
 [**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Lucid Gravity Grand Touring, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Lucid Gravity Grand Touring, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+
 ### Automatisation de la Conduite
 
-Avec le système DreamDrive  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Lucid Gravity Grand Touring offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+
+Avec le système DreamDrive de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+Avec le système DreamDrive Premium de niveau 1, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
+- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+Avec le système optionnel DreamDrive Pro de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
-
-Avec le système DreamDrive  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
-
-Avec le système DreamDrive Pro  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+- Contrôle des feux de circulation - suit les feux de circulation.
 
 {{<evkxdisplayaddarticle />}}
 

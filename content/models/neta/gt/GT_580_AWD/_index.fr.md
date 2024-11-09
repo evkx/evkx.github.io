@@ -185,10 +185,9 @@ Le Neta GT 580 AWD comprend plusieurs [systèmes avancés d'assistance au conduc
 
 ### Automatisation de la Conduite
 
-Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}
 

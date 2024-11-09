@@ -58,9 +58,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Le VinFast VF8 Eco permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Eco Mode : Accélérateur efficace.
-- Normal Mode : Accélérateur équilibré.
-- Sport Mode : Accélérateur dynamique.
+- Eco Mode : Accélérateur efficace. - Normal Mode : Accélérateur équilibré. - Sport Mode : Accélérateur dynamique.
 
 ### Freins
 
@@ -213,10 +211,9 @@ Le VinFast VF8 Eco comprend plusieurs [systèmes avancés d'assistance au conduc
 
 ### Automatisation de la Conduite
 
-Avec le système Highway Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Highway Assist de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 ### Capteurs & Caméras
 

@@ -70,17 +70,11 @@ Dynamic steering is a standard on the Audi Q6 e-tron performance, varying the st
 
 The Audi Q6 e-tron performance lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Allroad: Balanced steering, high suspension height with balanced throttle and damping.
-- Offroad: Balanced steering, max suspension height with balanced throttle and damping.
-- Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- Custom: User-defined settings for steering, suspension, and throttle response.
+- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension. - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Allroad: Balanced steering, high suspension height with balanced throttle and damping. - Offroad: Balanced steering, max suspension height with balanced throttle and damping. - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - Custom: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 375 mm, while the rear discs are 350 mm.
+The Audi Q6 e-tron performance is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 375 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -328,12 +322,11 @@ The Audi Q6 e-tron performance features a range of standard and optional [advanc
 
 The Audi Q6 e-tron performance offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Adaptive Cruise Assist  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Adaptive Cruise Assist level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

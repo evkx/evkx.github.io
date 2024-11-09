@@ -70,10 +70,7 @@ Dynamisk styrning är valfritt-funktionen för Audi Q4 55 e-tron quattro. Dynami
 
 Audi Q4 55 e-tron quattro låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Dynamic: Dynamisk styrning, fjädring och gaspådrag.
-- Efficiency: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
-- Custom: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
+- Dynamic: Dynamisk styrning, fjädring och gaspådrag. - Efficiency: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning. - Custom: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 
@@ -305,15 +302,13 @@ Audi Q4 55 e-tron quattro inkluderar flera [avancerade förarassistanssystem](..
 
 Audi Q4 55 e-tron quattro erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Adaptive Cruise Control  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Adaptive Cruise Control nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- Farthållare.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- Farthållare. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Assistantpackage Tour nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror

@@ -66,13 +66,11 @@ Dynamic steering is a standard on the Chevrolet Equinox EV FWD, varying the stee
 
 The Chevrolet Equinox EV FWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Normal: Balanced steering and efficent throttle.
-- Sport: Balanced steering and throttle.
-- My Mode: User-defined settings for steering and throttle.
+- Normal: Balanced steering and efficent throttle. - Sport: Balanced steering and throttle. - My Mode: User-defined settings for steering and throttle.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
+The Chevrolet Equinox EV FWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 314 mm.
 
 ### Regenerative Braking
 
@@ -257,11 +255,11 @@ The Chevrolet Equinox EV FWD features a range of standard and optional [advanced
 
 The Chevrolet Equinox EV FWD offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-With the Super Cruise  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Super Cruise level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

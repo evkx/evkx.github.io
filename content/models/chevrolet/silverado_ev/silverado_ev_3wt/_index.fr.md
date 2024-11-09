@@ -235,7 +235,7 @@ Le Chevrolet Silverado EV 3WT comprend plusieurs [systèmes avancés d'assistanc
 
 Chevrolet Silverado EV 3WT offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Super Cruise  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Super Cruise de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

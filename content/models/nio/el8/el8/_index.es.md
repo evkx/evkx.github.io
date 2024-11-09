@@ -86,11 +86,7 @@ La dirección dinámica es una característica un estándar en el Nio EL8. La di
 
 El Nio EL8 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Sport+: Dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. Baja frenada regenerativa.
-- Sport: Dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. Baja frenada regenerativa.
-- Comfort: Dirección de confort, altura de suspensión normal con aceleración equilibrada y amortiguación de confort. Baja frenada regenerativa.
-- ECO: Dirección de confort, altura de suspensión normal con aceleración eficiente y amortiguación de confort. Frenada regenerativa media.
-- Custom: Configuraciones definidas por el usuario para dirección, suspensión, respuesta del acelerador y frenada regenerativa.
+- Sport+: Dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. Baja frenada regenerativa. - Sport: Dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. Baja frenada regenerativa. - Comfort: Dirección de confort, altura de suspensión normal con aceleración equilibrada y amortiguación de confort. Baja frenada regenerativa. - ECO: Dirección de confort, altura de suspensión normal con aceleración eficiente y amortiguación de confort. Frenada regenerativa media. - Custom: Configuraciones definidas por el usuario para dirección, suspensión, respuesta del acelerador y frenada regenerativa.
 
 ### Frenos
 
@@ -302,13 +298,11 @@ El Nio EL8 incluye varios [sistemas avanzados de asistencia al conductor](../../
 
 ### Automatización de la Conducción
 
-Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar NIO Pilot Complete Pack de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras
 

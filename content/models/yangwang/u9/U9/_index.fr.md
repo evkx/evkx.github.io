@@ -64,11 +64,7 @@ La direction dynamique est une fonctionnalité un standard sur le YangWang U9. L
 
 Le YangWang U9 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
-- Cruise : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés.
-- Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés.
-- Track : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
-- Drift : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Cruise : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. - Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. - Track : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Drift : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 
 ### Freins
 
@@ -191,10 +187,9 @@ Le YangWang U9 comprend plusieurs [systèmes avancés d'assistance au conducteur
 
 ### Automatisation de la Conduite
 
-Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 {{<evkxdisplayaddarticle />}}
 

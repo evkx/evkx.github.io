@@ -221,7 +221,7 @@ Den BYD Dolphin 60.4kWh inkluderer flere standard- og valgfri [avancerede fører
 
 BYD Dolphin 60.4kWh tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

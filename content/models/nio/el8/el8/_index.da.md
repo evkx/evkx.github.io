@@ -86,11 +86,7 @@ Dynamisk styring er en standard-funktion på Nio EL8. Dynamisk styring varierer 
 
 Nio EL8 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- Sport+: Dynamisk styring, lav affjedring med dynamisk speeder og affjedring. Lav regenerativ bremsning.
-- Sport: Afbalanceret styring, laveste affjedringshøjde med afbalanceret speeder og dæmpning. Lav regenerativ bremsning.
-- Comfort: Komfortstyring, normal affjedringshøjde med afbalanceret speeder og komfortaffjedring. Lav regenerativ bremsning.
-- ECO: Komfortstyring, normal affjedringshøjde med effektiv speeder og komfortaffjedring. Medium regenerativ bremsning.
-- Custom: Brugerdefinerede indstillinger for styring, affjedring, speederrespons og regenerativ bremsning.
+- Sport+: Dynamisk styring, lav affjedring med dynamisk speeder og affjedring. Lav regenerativ bremsning. - Sport: Afbalanceret styring, laveste affjedringshøjde med afbalanceret speeder og dæmpning. Lav regenerativ bremsning. - Comfort: Komfortstyring, normal affjedringshøjde med afbalanceret speeder og komfortaffjedring. Lav regenerativ bremsning. - ECO: Komfortstyring, normal affjedringshøjde med effektiv speeder og komfortaffjedring. Medium regenerativ bremsning. - Custom: Brugerdefinerede indstillinger for styring, affjedring, speederrespons og regenerativ bremsning.
 
 ### Bremser
 
@@ -302,13 +298,11 @@ Den Nio EL8 inkluderer flere standard- og valgfri [avancerede førerassistentsys
 
 ### Køreautomatisering
 
-Med NIO Pilot Complete Pack  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard NIO Pilot Complete Pack niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

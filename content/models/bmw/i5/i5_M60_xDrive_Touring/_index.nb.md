@@ -56,7 +56,7 @@ BMW i5 M60 xDrive Touring har et firehjulsdriftssystem som støttes av to motore
 
 ### Hjuloppheng
 
--fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 136 mm.
+Adaptive M Suspension-fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 136 mm.
 
 ### Styring
 
@@ -260,12 +260,11 @@ BMW i5 M60 xDrive Touring inkluderer flere [avanserte førerassistanse systemer]
 
 BMW i5 M60 xDrive Touring tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Driving Assistant nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
-Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Driving Assistant Professional nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

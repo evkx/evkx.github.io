@@ -64,9 +64,7 @@ Dynamisk styring er en standard-funksjonen på Toyota bZ4X AWD. Dynamisk styring
 
 Toyota bZ4X AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Normal: Balansert styring og gasspedal.
-- X-Mode: Dynamisk styring og gasspedal.
-- Eco: Balansert styring og effektiv gasspedal.
+- Normal: Balansert styring og gasspedal. - X-Mode: Dynamisk styring og gasspedal. - Eco: Balansert styring og effektiv gasspedal.
 
 ### Bremser
 
@@ -252,12 +250,10 @@ Toyota bZ4X AWD inkluderer flere [avanserte førerassistanse systemer](../../../
 
 ### Kjøreautomatisering
 
-Med Lane Tracing Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Lane Tracing Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

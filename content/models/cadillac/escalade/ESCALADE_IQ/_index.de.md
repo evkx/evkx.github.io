@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 18 Stunden und 41 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Onboard-Ladegerät wählen, das bis zu 19,2 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 11 Stunden und 11 Minuten vollständig von 0 auf 100% aufladen.
+Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 18 Stunden und 41 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Bordladegerät wählen, das bis zu 19,2 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 11 Stunden und 11 Minuten vollständig von 0 auf 100% aufladen.
 
 ### Ladeanschluss
 
@@ -72,14 +72,11 @@ Die dynamische Lenkung ist eine standard im Cadillac ESCALADE IQ, wobei das Lenk
 
 Der Cadillac ESCALADE IQ ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Tour: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
-- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
-- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
-- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Tour: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 355 mm, während die hinteren Scheiben 355 mm groß sind.
+Der Cadillac ESCALADE IQ ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 355 mm, während die hinteren Scheiben 355 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -283,12 +280,10 @@ Der Cadillac ESCALADE IQ verfügt über eine Reihe von standardmäßigen und opt
 
 ### Fahrautomatisierung
 
-Mit dem Super Cruise  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Super Cruise Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensoren & Kameras
 

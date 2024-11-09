@@ -72,10 +72,7 @@ Dynamisk styrning är standard-funktionen för GMC Sierra EV Denali Edition 1. D
 
 GMC Sierra EV Denali Edition 1 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- My Mode: Anpassad styrning, fjädring och gasrespons.
+- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - My Mode: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -257,10 +254,9 @@ GMC Sierra EV Denali Edition 1 inkluderar flera [avancerade förarassistanssyste
 
 ### Körautomatisering
 
-Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Super Cruise nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameror

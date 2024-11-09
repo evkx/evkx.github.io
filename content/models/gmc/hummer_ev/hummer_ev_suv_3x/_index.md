@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 11 minutes using a home charging setup.
+The standard onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 11 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -68,17 +68,11 @@ Dynamic steering is a standard on the GMC Hummer EV SUV 3x, varying the steering
 
 The GMC Hummer EV SUV 3x lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Watts to Freedom: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Terrain: Balanced steering, high suspension height with balanced throttle and damping.
-- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
-- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- My Mode: User-defined settings for steering, suspension, and throttle response.
+- Watts to Freedom: Dynamic steering, low suspension with dynamic throttle and suspension. - Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Terrain: Balanced steering, high suspension height with balanced throttle and damping. - Off-Road: Balanced steering, max suspension height with balanced throttle and damping. - Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - My Mode: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
+The GMC Hummer EV SUV 3x is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 
@@ -248,12 +242,10 @@ The GMC Hummer EV SUV 3x features a range of standard and optional [advanced dri
 
 ### Driving Automation
 
-With the Super Cruise  level 2 system, you get the following driving automation features.
+With the standard Super Cruise level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 

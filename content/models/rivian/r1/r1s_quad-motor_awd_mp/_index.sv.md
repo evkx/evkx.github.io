@@ -65,11 +65,7 @@ Dynamisk styrning är standard-funktionen för Rivian R1S Quad-Motor AWD MP. Dyn
 
 Rivian R1S Quad-Motor AWD MP låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Snow: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- All-Purpose: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Soft sand: Balanserad styrning, maximal fjädringshöjd med balanserad gaspådrag och bekväm fjädringsdämpning
-- All-Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Snow: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - All-Purpose: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Soft sand: Balanserad styrning, maximal fjädringshöjd med balanserad gaspådrag och bekväm fjädringsdämpning - All-Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
 
 ### Bromsar
 
@@ -231,10 +227,9 @@ Rivian R1S Quad-Motor AWD MP inkluderar flera [avancerade förarassistanssystem]
 
 ### Körautomatisering
 
-Med Driver+  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Driver+ nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror
 

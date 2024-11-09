@@ -185,10 +185,9 @@ Neta GT 580 AWD inkluderer flere [avanserte førerassistanse systemer](../../../
 
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}
 

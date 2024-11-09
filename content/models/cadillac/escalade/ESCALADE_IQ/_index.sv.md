@@ -72,10 +72,7 @@ Dynamisk styrning är standard-funktionen för Cadillac ESCALADE IQ. Dynamisk st
 
 Cadillac ESCALADE IQ låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Tour: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- My Mode: Anpassad styrning, fjädring och gasrespons.
+- Tour: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - My Mode: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -283,12 +280,10 @@ Cadillac ESCALADE IQ inkluderar flera [avancerade förarassistanssystem](../../.
 
 ### Körautomatisering
 
-Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Super Cruise nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 

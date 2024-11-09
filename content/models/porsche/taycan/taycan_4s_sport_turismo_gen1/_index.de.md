@@ -62,7 +62,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 27 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Onboard-Ladegerät wählen, das bis zu 22 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 3 Stunden und 13 Minuten vollständig von 0 auf 100% aufladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 27 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Bordladegerät wählen, das bis zu 22 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 3 Stunden und 13 Minuten vollständig von 0 auf 100% aufladen.
 
 ### Ladeanschluss
 
@@ -272,12 +272,11 @@ Der Porsche Taycan 4S Sport Turismo (GEN1) verfügt über eine Reihe von standar
 
 Der Porsche Taycan 4S Sport Turismo (GEN1) bietet [Fahrautomatisierung
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-Mit dem Porsche InnoDrive  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Porsche InnoDrive Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 

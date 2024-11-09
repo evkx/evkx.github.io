@@ -192,7 +192,7 @@ Den Peugot E-208 inkluderer flere standard- og valgfri [avancerede førerassiste
 
 Peugot E-208 tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med DS Drive Assist niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

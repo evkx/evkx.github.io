@@ -70,10 +70,7 @@ Dynamisk styring er en valgfri-funksjonen på Audi Q4 45 e-tron quattro. Dynamis
 
 Audi Q4 45 e-tron quattro lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Dynamic: Dynamisk styring, fjæring og gasspådrag.
-- Efficiency: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
-- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
-- Custom: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+- Dynamic: Dynamisk styring, fjæring og gasspådrag. - Efficiency: Balansert styring, med effektiv gasspådrag, og balansert fjæring. - Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping. - Custom: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 
@@ -305,15 +302,13 @@ Audi Q4 45 e-tron quattro inkluderer flere [avanserte førerassistanse systemer]
 
 Audi Q4 45 e-tron quattro tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Adaptive Cruise Control  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Adaptive Cruise Control nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- Fartsbegrenser.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- Fartsbegrenser. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
-Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Assistantpackage Tour nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer

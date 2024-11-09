@@ -66,10 +66,7 @@ La dirección dinámica es una característica un opcional en el Audi Q4 Sportba
 
 El Audi Q4 Sportback 35 e-tron permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Dynamic: Dirección, suspensión y aceleración dinámicas.
-- Efficiency: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
-- Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
-- Custom: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
+- Dynamic: Dirección, suspensión y aceleración dinámicas. - Efficiency: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada. - Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda. - Custom: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
 
 ### Frenos
 
@@ -301,15 +298,13 @@ El Audi Q4 Sportback 35 e-tron incluye varios [sistemas avanzados de asistencia 
 
 Audi Q4 Sportback 35 e-tron ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Adaptive Cruise Control  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Adaptive Cruise Control de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- Control de crucero.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- Control de crucero. - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema Assistantpackage Tour  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Assistantpackage Tour de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras

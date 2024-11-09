@@ -65,11 +65,7 @@ Dynamisk styring er en standard-funktion på Rivian R1S Quad-Motor AWD MP. Dynam
 
 Rivian R1S Quad-Motor AWD MP lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Snow: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- All-Purpose: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Soft sand: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og komfortaffjedring.
-- All-Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Snow: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - All-Purpose: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Soft sand: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og komfortaffjedring. - All-Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
 
 ### Bremser
 
@@ -231,10 +227,9 @@ Den Rivian R1S Quad-Motor AWD MP inkluderer flere standard- og valgfri [avancere
 
 ### Køreautomatisering
 
-Med Driver+  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Driver+ niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer
 

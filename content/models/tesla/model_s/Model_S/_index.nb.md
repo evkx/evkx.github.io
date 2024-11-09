@@ -204,18 +204,16 @@ Tesla Model S inkluderer flere [avanserte førerassistanse systemer](../../../..
 
 Tesla Model S tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Basic Autopilot nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-Med Enhanced Autopilot  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Enhanced Autopilot nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med Full Self-Driving Capability  nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Full Self-Driving Capability nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - Trafikklys kontroll - følger trafikklysene.
 - Stopp-skiltkontroll - følg stopp-skilt.

@@ -925,7 +925,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -955,6 +956,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -985,6 +987,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1000,6 +1003,7 @@ This model is available with a seat configuration with five or seven seats.
 				Left turn crash avoidance
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1007,6 +1011,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1042,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

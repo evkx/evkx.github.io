@@ -255,18 +255,16 @@ Tesla Model Y Performance inkluderar flera [avancerade förarassistanssystem](..
 
 Tesla Model Y Performance erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Basic Autopilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Basic Autopilot nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-Med Enhanced Autopilot  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - Trafikljuskontroll - följer trafikljusen.
 - Stopp-skyltkontroll - följ stopp-skyltar.

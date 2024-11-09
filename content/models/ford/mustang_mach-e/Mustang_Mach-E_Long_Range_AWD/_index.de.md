@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1736"  >}}
 
@@ -60,7 +60,7 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 457 mm, während die hinteren Scheiben 432 mm groß sind.
+Der Ford Mustang Mach-E Long Range AWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 457 mm, während die hinteren Scheiben 432 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -211,10 +211,9 @@ Der Ford Mustang Mach-E Long Range AWD verfügt über eine Reihe von standardmä
 
 ### Fahrautomatisierung
 
-Mit dem Ford BlueCruise  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Ford BlueCruise Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 {{<evkxdisplayaddarticle />}}

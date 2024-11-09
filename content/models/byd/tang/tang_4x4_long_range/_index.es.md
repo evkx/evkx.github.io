@@ -68,8 +68,7 @@ La dirección dinámica es una característica un estándar en el BYD Tang 4x4 L
 
 El BYD Tang 4x4 Long Range permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 2 modos:
 
-- Sport: Acelerador dinámico.
-- eco: Acelerador eficiente.
+- Sport: Acelerador dinámico. - eco: Acelerador eficiente.
 
 ### Frenos
 
@@ -266,10 +265,9 @@ El BYD Tang 4x4 Long Range incluye varios [sistemas avanzados de asistencia al c
 
 ### Automatización de la Conducción
 
-Con el sistema Intelligent Cruise Control  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Intelligent Cruise Control de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 ### Sensores y Cámaras
 

@@ -54,7 +54,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -80,7 +80,7 @@ Dynamic steering is a standard on the Nio EL7, varying the steering ratio based 
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Nio EL7 is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -234,12 +234,11 @@ The Nio EL7 features a range of standard and optional [advanced driver assistanc
 
 The Nio EL7 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the NIO Pilot Selected Pack  level 1 system, you get the following driving automation features.
+With the NIO Pilot Selected Pack level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional NIO Pilot Complete Pack level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.

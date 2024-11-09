@@ -64,12 +64,7 @@ Dynamisk styring er en standard-funktion på VOYAH Courage AWD. Dynamisk styring
 
 VOYAH Courage AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 6 tilstande:
 
-- Performance: Dynamisk styring, affjedring og speeder.
-- Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
-- Comfort: Afbalanceret speeder og styring, komfortaffjedring.
-- Outing: Afbalanceret speeder og styring, komfortaffjedring.
-- Snow: Afbalanceret styring, speeder og dæmpning.
-- Individual: Brugerdefinerede indstillinger for styring, speeder og affjedring.
+- Performance: Dynamisk styring, affjedring og speeder. - Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring. - Comfort: Afbalanceret speeder og styring, komfortaffjedring. - Outing: Afbalanceret speeder og styring, komfortaffjedring. - Snow: Afbalanceret styring, speeder og dæmpning. - Individual: Brugerdefinerede indstillinger for styring, speeder og affjedring.
 
 ### Bremser
 
@@ -248,10 +243,9 @@ Den VOYAH Courage AWD inkluderer flere standard- og valgfri [avancerede føreras
 
 ### Køreautomatisering
 
-Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer

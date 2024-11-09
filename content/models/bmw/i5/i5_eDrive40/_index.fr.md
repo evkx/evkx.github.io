@@ -60,7 +60,7 @@ La suspension Adaptive M Suspension a une hauteur et un amortissement fixes. La 
 
 Vous pouvez commander BMW i5 eDrive40 avec une suspension alternative M Sport Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques.
 
-Vous pouvez commander BMW i5 eDrive40 avec une suspension alternative Adaptives suspension professional. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  est dotée d'un amortissement adaptatif sur les essieux avant et arrière et d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 140 mm.
+Vous pouvez commander BMW i5 eDrive40 avec une suspension alternative Adaptives suspension professional. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Adaptives suspension professional est dotée d'un amortissement adaptatif sur les essieux avant et arrière et d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 140 mm.
 
 ### Pilotage
 
@@ -232,15 +232,13 @@ Le BMW i5 eDrive40 comprend plusieurs [systèmes avancés d'assistance au conduc
 
 BMW i5 eDrive40 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Driving Assistant  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Driving Assistant de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- Régulateur de vitesse.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- Régulateur de vitesse. - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-Avec le système Driving Assistant Professional  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système optionnel Driving Assistant Professional de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 {{<evkxdisplayaddarticle />}}
 

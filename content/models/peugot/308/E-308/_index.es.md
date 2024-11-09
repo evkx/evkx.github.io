@@ -203,7 +203,7 @@ El Peugot E-308 incluye varios [sistemas avanzados de asistencia al conductor](.
 
 Peugot E-308 ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema DS Drive Assist  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema DS Drive Assist de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

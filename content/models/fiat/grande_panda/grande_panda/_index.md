@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
+The standard onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/charging_1_st.JPG" title="Fiat Grande Panda" width="3000" height="1999"  >}}
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard on the Fiat Grande Panda, varying the steering ra
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Fiat Grande Panda is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

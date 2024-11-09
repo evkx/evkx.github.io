@@ -66,10 +66,7 @@ Dynamisk styring er en valgfri-funktion på Audi Q4 Sportback 35 e-tron. Dynamis
 
 Audi Q4 Sportback 35 e-tron lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Dynamic: Dynamisk styring, affjedring og speeder.
-- Efficiency: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
-- Comfort: Afbalanceret speeder og styring, komfortaffjedring.
-- Custom: Brugerdefinerede indstillinger for styring, speeder og affjedring.
+- Dynamic: Dynamisk styring, affjedring og speeder. - Efficiency: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring. - Comfort: Afbalanceret speeder og styring, komfortaffjedring. - Custom: Brugerdefinerede indstillinger for styring, speeder og affjedring.
 
 ### Bremser
 
@@ -301,15 +298,13 @@ Den Audi Q4 Sportback 35 e-tron inkluderer flere standard- og valgfri [avancered
 
 Audi Q4 Sportback 35 e-tron tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Adaptive Cruise Control  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Adaptive Cruise Control niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- Fartpilot.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- Fartpilot. - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Assistantpackage Tour niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer

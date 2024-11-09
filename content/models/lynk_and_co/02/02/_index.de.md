@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 0 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 0 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -58,7 +58,7 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 333 mm groß sind.
+Der Lynk & Co 02 ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 333 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -206,12 +206,10 @@ Der Lynk & Co 02 verfügt über eine Reihe von standardmäßigen und optionalen 
 
 ### Fahrautomatisierung
 
-Mit dem Pilot Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Pilot Assist Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
-- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 {{<evkxdisplayaddarticle />}}
 

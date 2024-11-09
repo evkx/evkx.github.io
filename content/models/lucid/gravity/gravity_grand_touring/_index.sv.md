@@ -212,20 +212,32 @@ Lucid Gravity Grand Touring inkluderar flera [avancerade förarassistanssystem](
 
 [**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Lucid Gravity Grand Touring, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Lucid Gravity Grand Touring, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Lucid Gravity Grand Touring, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Lucid Gravity Grand Touring, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Lucid Gravity Grand Touring, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Lucid Gravity Grand Touring, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+
 ### Körautomatisering
 
-Med DreamDrive  nivå 2-systemet får du följande funktioner för körautomatisering.
+Lucid Gravity Grand Touring erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+
+Med DreamDrive nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+Med DreamDrive Premium nivå 1-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
+- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+Med det valfria DreamDrive Pro nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-
-Med DreamDrive  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
-
-Med DreamDrive Pro  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+- Trafikljuskontroll - följer trafikljusen.
 
 {{<evkxdisplayaddarticle />}}
 

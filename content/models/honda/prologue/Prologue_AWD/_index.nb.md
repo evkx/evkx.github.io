@@ -214,7 +214,7 @@ Honda Prologue AWD inkluderer flere [avanserte førerassistanse systemer](../../
 
 Honda Prologue AWD tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

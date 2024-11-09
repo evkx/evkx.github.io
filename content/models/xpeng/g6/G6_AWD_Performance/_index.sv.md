@@ -48,7 +48,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 3,3 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -68,10 +68,7 @@ Dynamisk styrning är standard-funktionen för XPENG G6 AWD Performance. Dynamis
 
 XPENG G6 AWD Performance låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Comfort: Komfortstyrning och effektiv gaspådrag.
-- Standard: Balanserad styrning och gaspedal.
-- Sport: Dynamisk styrning och gaspedal.
-- Individual: Användardefinierade inställningar för styrning och gaspådrag.
+- Comfort: Komfortstyrning och effektiv gaspådrag. - Standard: Balanserad styrning och gaspedal. - Sport: Dynamisk styrning och gaspedal. - Individual: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 
@@ -255,12 +252,10 @@ XPENG G6 AWD Performance inkluderar flera [avancerade förarassistanssystem](../
 
 ### Körautomatisering
 
-Med XPENG Pilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard XPENG Pilot nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 

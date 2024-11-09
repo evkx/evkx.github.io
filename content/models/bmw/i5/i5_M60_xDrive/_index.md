@@ -56,7 +56,7 @@ The BMW i5 M60 xDrive features an all-wheel drive system powered by two motors, 
 
 ### Suspension
 
-The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 136 mm.
+The Adaptive M Suspension suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 136 mm.
 
 ### Steering
 
@@ -232,15 +232,13 @@ The BMW i5 M60 xDrive features a range of standard and optional [advanced driver
 
 The BMW i5 M60 xDrive offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Driving Assistant  level 1 system, you get the following driving automation features.
+With the Driving Assistant level 1 system, you get the following driving automation features.
 
-- Cruise control.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Driving Assistant Professional level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 {{<evkxdisplayaddarticle />}}
 

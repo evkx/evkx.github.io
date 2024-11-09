@@ -66,11 +66,7 @@ La dirección dinámica es una característica un estándar en el Lexus RZ 450e.
 
 El Lexus RZ 450e permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Normal: Dirección y acelerador equilibrados.
-- Sport: Dirección y acelerador dinámicos.
-- Eco: Dirección equilibrada y acelerador eficiente.
-- Range: Dirección equilibrada y acelerador eficiente.
-- Custom: Configuraciones definidas por el usuario para la dirección y el acelerador.
+- Normal: Dirección y acelerador equilibrados. - Sport: Dirección y acelerador dinámicos. - Eco: Dirección equilibrada y acelerador eficiente. - Range: Dirección equilibrada y acelerador eficiente. - Custom: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 
@@ -260,12 +256,10 @@ El Lexus RZ 450e incluye varios [sistemas avanzados de asistencia al conductor](
 
 ### Automatización de la Conducción
 
-Con el sistema Lane Tracing Assist  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Lane Tracing Assist de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras
 

@@ -64,9 +64,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Le OMODA E5 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Normal: Direction et accélérateur équilibrés.
-- Sport: Direction et accélérateur dynamiques.
-- Eco: Direction équilibrée et accélérateur efficace.
+- Normal: Direction et accélérateur équilibrés. - Sport: Direction et accélérateur dynamiques. - Eco: Direction équilibrée et accélérateur efficace.
 
 ### Freins
 
@@ -219,10 +217,9 @@ Le OMODA E5 comprend plusieurs [systèmes avancés d'assistance au conducteur](.
 
 ### Automatisation de la Conduite
 
-Avec le système Traffic Jam Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Traffic Jam Assist de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 ### Capteurs & Caméras
 

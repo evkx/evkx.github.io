@@ -66,11 +66,7 @@ Dynamisk styring er en standard-funktion på Lexus RZ 300e. Dynamisk styring var
 
 Lexus RZ 300e lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- Normal: Afbalanceret styring og speeder.
-- Sport: Dynamisk styring og speeder.
-- Eco: Afbalanceret styring og effektiv speeder.
-- Range: Afbalanceret styring og effektiv speeder.
-- Custom: Brugerdefinerede indstillinger for styring og speeder.
+- Normal: Afbalanceret styring og speeder. - Sport: Dynamisk styring og speeder. - Eco: Afbalanceret styring og effektiv speeder. - Range: Afbalanceret styring og effektiv speeder. - Custom: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 
@@ -260,12 +256,10 @@ Den Lexus RZ 300e inkluderer flere standard- og valgfri [avancerede førerassist
 
 ### Køreautomatisering
 
-Med Lane Tracing Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Lane Tracing Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

@@ -70,13 +70,7 @@ Dynamisk styring er en standard-funktion på Audi Q6 e-tron quattro. Dynamisk st
 
 Audi Q6 e-tron quattro lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
-- Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
-- Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- Custom: Brugerdefineret styring, affjedring og gasrespons.
+- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - Custom: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 
@@ -328,12 +322,11 @@ Den Audi Q6 e-tron quattro inkluderer flere standard- og valgfri [avancerede fø
 
 Audi Q6 e-tron quattro tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-Med Adaptive Cruise Assist  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Adaptive Cruise Assist niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

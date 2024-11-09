@@ -66,11 +66,7 @@ Dynamisk styrning är standard-funktionen för Lexus RZ 450e. Dynamisk styrning 
 
 Lexus RZ 450e låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Normal: Balanserad styrning och gaspedal.
-- Sport: Dynamisk styrning och gaspedal.
-- Eco: Balanserad styrning och effektiv gaspedal.
-- Range: Balanserad styrning och effektiv gaspedal.
-- Custom: Användardefinierade inställningar för styrning och gaspådrag.
+- Normal: Balanserad styrning och gaspedal. - Sport: Dynamisk styrning och gaspedal. - Eco: Balanserad styrning och effektiv gaspedal. - Range: Balanserad styrning och effektiv gaspedal. - Custom: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 
@@ -260,12 +256,10 @@ Lexus RZ 450e inkluderar flera [avancerade förarassistanssystem](../../../../te
 
 ### Körautomatisering
 
-Med Lane Tracing Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Lane Tracing Assist nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 

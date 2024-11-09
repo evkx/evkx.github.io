@@ -66,11 +66,7 @@ La direction dynamique est une fonctionnalité un standard sur le Lexus RZ 300e.
 
 Le Lexus RZ 300e permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Normal: Direction et accélérateur équilibrés.
-- Sport: Direction et accélérateur dynamiques.
-- Eco: Direction équilibrée et accélérateur efficace.
-- Range: Direction équilibrée et accélérateur efficace.
-- Custom : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+- Normal: Direction et accélérateur équilibrés. - Sport: Direction et accélérateur dynamiques. - Eco: Direction équilibrée et accélérateur efficace. - Range: Direction équilibrée et accélérateur efficace. - Custom : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 
@@ -260,12 +256,10 @@ Le Lexus RZ 300e comprend plusieurs [systèmes avancés d'assistance au conducte
 
 ### Automatisation de la Conduite
 
-Avec le système Lane Tracing Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Lane Tracing Assist de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
-- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Capteurs & Caméras
 

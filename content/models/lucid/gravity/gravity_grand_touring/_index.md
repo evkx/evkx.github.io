@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 21 minutes using a home charging setup.
+The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 21 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard on the Lucid Gravity Grand Touring, varying the s
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 386 mm, while the rear discs are 381 mm.
+The Lucid Gravity Grand Touring is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 386 mm, while the rear discs are 381 mm.
 
 ### Regenerative Braking
 
@@ -212,20 +212,32 @@ The Lucid Gravity Grand Touring features a range of standard and optional [advan
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Lucid Gravity Grand Touring, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Lucid Gravity Grand Touring, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Lucid Gravity Grand Touring, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Lucid Gravity Grand Touring, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Lucid Gravity Grand Touring, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Lucid Gravity Grand Touring, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
-With the DreamDrive  level 2 system, you get the following driving automation features.
+The Lucid Gravity Grand Touring offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+
+With the DreamDrive level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+With the DreamDrive Premium level 1 system, you get thadditional driving automation features to the ones listed above:
+
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+With the optional DreamDrive Pro level 2 system, you get additional driving automation features to the ones listed above:
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-
-With the DreamDrive  level 2 system, you get additional driving automation features to the ones listed above:
-
-With the DreamDrive Pro  level 2 system, you get additional driving automation features to the ones listed above:
+- Traffic light control - follow traffic lights.
 
 {{<evkxdisplayaddarticle />}}
 

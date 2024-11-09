@@ -202,7 +202,7 @@ Opel Astra Electric inkluderar flera [avancerade förarassistanssystem](../../..
 
 Opel Astra Electric erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med DS Drive Assist nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

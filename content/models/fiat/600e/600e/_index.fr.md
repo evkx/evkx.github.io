@@ -195,7 +195,7 @@ Le Fiat 600e comprend plusieurs [systèmes avancés d'assistance au conducteur](
 
 Fiat 600e offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système DS Drive Assist  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système DS Drive Assist de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

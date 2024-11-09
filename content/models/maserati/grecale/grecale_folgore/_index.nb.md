@@ -62,10 +62,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Maserati Grecale Folgore lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Max Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- GT: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
-- Off Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Max Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - GT: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Off Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
 
 ### Bremser
 
@@ -228,10 +225,9 @@ Maserati Grecale Folgore inkluderer flere [avanserte førerassistanse systemer](
 
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 ### Sensorer & Kameraer

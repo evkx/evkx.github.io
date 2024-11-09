@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 42 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 42 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -60,7 +60,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 325 mm.
+The Jaguar I-Pace EV400 is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 325 mm.
 
 ### Regenerative Braking
 

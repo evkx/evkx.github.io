@@ -64,11 +64,7 @@ Dynamisk styring er en standard-funksjonen på YangWang U9. Dynamisk styring var
 
 YangWang U9 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- Cruise: Balansert styring, lavest fjæringshøyde med balansert gass og demping.
-- Sport: Balansert styring, lavest fjæringshøyde med balansert gass og demping.
-- Track: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Drift: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Cruise: Balansert styring, lavest fjæringshøyde med balansert gass og demping. - Sport: Balansert styring, lavest fjæringshøyde med balansert gass og demping. - Track: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Drift: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
 
 ### Bremser
 
@@ -191,10 +187,9 @@ YangWang U9 inkluderer flere [avanserte førerassistanse systemer](../../../../t
 
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 {{<evkxdisplayaddarticle />}}
 

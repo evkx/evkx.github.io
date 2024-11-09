@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 8 minutes using a home charging setup.
+The standard onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 8 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
@@ -60,7 +60,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 305 mm, while the rear discs are 317 mm.
+The Lexus UX 300e is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 305 mm, while the rear discs are 317 mm.
 
 ### Regenerative Braking
 

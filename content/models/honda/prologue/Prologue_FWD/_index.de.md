@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 23 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 23 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
@@ -60,7 +60,7 @@ Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser F
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 396 mm, während die hinteren Scheiben 343 mm groß sind.
+Der Honda Prologue FWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 396 mm, während die hinteren Scheiben 343 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -213,7 +213,7 @@ Der Honda Prologue FWD verfügt über eine Reihe von standardmäßigen und optio
 
 Der Honda Prologue FWD bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

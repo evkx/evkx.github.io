@@ -289,18 +289,16 @@ Le Tesla Model Y Standard Range comprend plusieurs [systèmes avancés d'assista
 
 Tesla Model Y Standard Range offre [l'automatisation de la conduite aux niveaux 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Basic Autopilot  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Basic Autopilot de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-Avec le système Enhanced Autopilot  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système optionnel Enhanced Autopilot de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
-- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système optionnel Full Self-Driving Capability de niveau 3, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
 - Contrôle des feux de circulation - suit les feux de circulation.
 - Contrôle des panneaux stop : suivez les panneaux stop.

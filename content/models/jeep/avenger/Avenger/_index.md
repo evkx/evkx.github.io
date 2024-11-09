@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 37 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 37 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -167,7 +167,7 @@ The Jeep Avenger comes equipped with one sound system option:
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The Jeep Avenger comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -189,7 +189,7 @@ The Jeep Avenger features a range of standard and optional [advanced driver assi
 
 The Jeep Avenger offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the DS Drive Assist  level 1 system, you get the following driving automation features.
+With the DS Drive Assist level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

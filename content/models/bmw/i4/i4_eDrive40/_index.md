@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 20 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 20 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2001"  >}}
 
@@ -56,7 +56,7 @@ The BMW i4 eDrive40 has a rear-wheel drive system supported by one motor on the 
 
 ### Suspension
 
-The Standard suspension has air suspension on the rear axle that automaticly keep the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm.
+The Standard suspension has air suspension on the rear axle that automaticly keep the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. The Adaptive M Suspension suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm.
 
 ### Steering
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard on the BMW i4 eDrive40, varying the steering rati
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The BMW i4 eDrive40 is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -266,15 +266,13 @@ The BMW i4 eDrive40 features a range of standard and optional [advanced driver a
 
 The BMW i4 eDrive40 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Driving Assistant  level 1 system, you get the following driving automation features.
+With the Driving Assistant level 1 system, you get the following driving automation features.
 
-- Cruise control.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Driving Assistant Professional level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 {{<evkxdisplayaddarticle />}}
 

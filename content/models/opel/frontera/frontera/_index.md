@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
+The standard onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard on the Opel Frontera, varying the steering ratio 
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Opel Frontera is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

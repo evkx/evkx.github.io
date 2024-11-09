@@ -255,10 +255,9 @@ Onvo L60 AWD inkluderer flere [avanserte førerassistanse systemer](../../../../
 
 ### Kjøreautomatisering
 
-Med Onvo Self Driving  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Onvo Self Driving nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 ### Sensorer & Kameraer
 

@@ -64,13 +64,7 @@ Dynamisk styrning är standard-funktionen för GMC Hummer EV Edition 1 Pickup. D
 
 GMC Hummer EV Edition 1 Pickup låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
 
-- Watts to Freedom: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- My Mode: Anpassad styrning, fjädring och gasrespons.
+- Watts to Freedom: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning. - Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - My Mode: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -234,12 +228,10 @@ GMC Hummer EV Edition 1 Pickup inkluderar flera [avancerade förarassistanssyste
 
 ### Körautomatisering
 
-Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Super Cruise nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 

@@ -58,9 +58,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 VinFast VF8 Plus lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Eco Mode: Effektiv gass.
-- Normal Mode: Balansert gass.
-- Sport Mode: Dynamisk gass.
+- Eco Mode: Effektiv gass. - Normal Mode: Balansert gass. - Sport Mode: Dynamisk gass.
 
 ### Bremser
 
@@ -219,10 +217,9 @@ VinFast VF8 Plus inkluderer flere [avanserte førerassistanse systemer](../../..
 
 ### Kjøreautomatisering
 
-Med Highway Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Highway Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 ### Sensorer & Kameraer
 

@@ -925,7 +925,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				360 kamera
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -955,6 +956,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Parkeringssensorer fra siden
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -985,6 +987,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Automatisk nødbremse
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1000,6 +1003,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Undgåelse af venstresving
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1007,6 +1011,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1042,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

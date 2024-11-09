@@ -54,7 +54,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -86,15 +86,11 @@ Die dynamische Lenkung ist eine standard im Nio EL8, wobei das Lenkverhältnis j
 
 Der Nio EL8 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Sport+: Dynamische Lenkung, niedriges Fahrwerk mit dynamischem Gas und Fahrwerk. Niedrige Rekuperationsbremsung.
-- Sport: Ausgewogene Lenkung, niedrigste Fahrwerkshöhe mit ausgewogenem Gas und Dämpfung. Niedrige Rekuperationsbremsung.
-- Comfort: Komfortlenkung, normale Fahrwerkshöhe mit ausgewogenem Gas und Komfortdämpfung. Niedrige Rekuperationsbremsung.
-- ECO: Komfortlenkung, normale Fahrwerkshöhe mit effizientem Gas und Komfortdämpfung. Mittlere Rekuperationsbremsung.
-- Custom: Benutzerdefinierte Einstellungen für Lenkung, Fahrwerk, Gasannahme und Rekuperationsbremsung.
+- Sport+: Dynamische Lenkung, niedriges Fahrwerk mit dynamischem Gas und Fahrwerk. Niedrige Rekuperationsbremsung. - Sport: Ausgewogene Lenkung, niedrigste Fahrwerkshöhe mit ausgewogenem Gas und Dämpfung. Niedrige Rekuperationsbremsung. - Comfort: Komfortlenkung, normale Fahrwerkshöhe mit ausgewogenem Gas und Komfortdämpfung. Niedrige Rekuperationsbremsung. - ECO: Komfortlenkung, normale Fahrwerkshöhe mit effizientem Gas und Komfortdämpfung. Mittlere Rekuperationsbremsung. - Custom: Benutzerdefinierte Einstellungen für Lenkung, Fahrwerk, Gasannahme und Rekuperationsbremsung.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der Nio EL8 ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -302,13 +298,11 @@ Der Nio EL8 verfügt über eine Reihe von standardmäßigen und optionalen [fort
 
 ### Fahrautomatisierung
 
-Mit dem NIO Pilot Complete Pack  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen NIO Pilot Complete Pack Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - Erweiterte Geschwindigkeitsregelung, die der Navigation folgt und auf Hauptstraßen ein- und ausschaltet, um das Ziel zu erreichen.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensoren & Kameras
 

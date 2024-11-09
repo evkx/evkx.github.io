@@ -231,14 +231,13 @@ Li Auto MEGA inkluderer flere [avanserte førerassistanse systemer](../../../../
 
 ### Kjøreautomatisering
 
-Med AD Pro  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard AD Pro nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med AD Max  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie AD Max nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 

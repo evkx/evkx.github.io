@@ -192,7 +192,7 @@ Alfa Romeo Junior Veloce inkluderer flere [avanserte førerassistanse systemer](
 
 Alfa Romeo Junior Veloce tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med DS Drive Assist nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

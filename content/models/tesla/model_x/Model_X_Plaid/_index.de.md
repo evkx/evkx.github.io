@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 43 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 43 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -62,7 +62,7 @@ Die dynamische Lenkung ist eine standard im Tesla Model X Plaid, wobei das Lenkv
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 355 mm, während die hinteren Scheiben 355 mm groß sind.
+Der Tesla Model X Plaid ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 355 mm, während die hinteren Scheiben 355 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -208,18 +208,16 @@ Der Tesla Model X Plaid verfügt über eine Reihe von standardmäßigen und opti
 
 Der Tesla Model X Plaid bietet [Fahrautomatisierung auf den Stufen 2 oder 3](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig von der Ausstattung.
 
-Mit dem Basic Autopilot  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Basic Autopilot Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
-Mit dem Enhanced Autopilot  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Enhanced Autopilot Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - Erweiterte Geschwindigkeitsregelung, die der Navigation folgt und auf Hauptstraßen ein- und ausschaltet, um das Ziel zu erreichen.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Mit dem Full Self-Driving Capability  Level 3 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Full Self-Driving Capability Level 3 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - Ampelsteuerung - folgen Sie den Ampeln.
 - Stoppschildkontrolle - folgen Sie den Stoppschildern.

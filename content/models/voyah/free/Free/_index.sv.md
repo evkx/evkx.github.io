@@ -64,12 +64,7 @@ Dynamisk styrning är standard-funktionen för VOYAH FREE. Dynamisk styrning var
 
 VOYAH FREE låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 6 lägen:
 
-- Performance: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Eco: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Outing: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Snow: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Individual: Anpassad styrning, fjädring och gasrespons.
+- Performance: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Eco: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Outing: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning. - Snow: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Individual: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -239,10 +234,9 @@ VOYAH FREE inkluderar flera [avancerade förarassistanssystem](../../../../techn
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameror

@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 2 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 2 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -60,7 +60,7 @@ Die dynamische Lenkung ist eine standard im Mercedes-EQ EQB 300 4MATIC, wobei da
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der Mercedes-EQ EQB 300 4MATIC ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -232,7 +232,7 @@ Der Mercedes-EQ EQB 300 4MATIC verfügt über eine Reihe von standardmäßigen u
 
 Der Mercedes-EQ EQB 300 4MATIC bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
 
-Mit dem Driver Assistance Package  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Driver Assistance Package Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

@@ -86,11 +86,7 @@ La direction dynamique est une fonctionnalité un standard sur le Nio EL8. La di
 
 Le Nio EL8 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Sport+ : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques. Faible freinage régénératif.
-- Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. Faible freinage régénératif.
-- Comfort : Direction confort, hauteur de suspension normale avec accélérateur équilibré et amortissement de suspension confort. Faible freinage régénératif.
-- ECO : Direction confort, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confort. Freinage régénératif moyen.
-- Custom : Paramètres définis par l'utilisateur pour la direction, la suspension, la réponse de l'accélérateur et le freinage régénératif.
+- Sport+ : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques. Faible freinage régénératif. - Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. Faible freinage régénératif. - Comfort : Direction confort, hauteur de suspension normale avec accélérateur équilibré et amortissement de suspension confort. Faible freinage régénératif. - ECO : Direction confort, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confort. Freinage régénératif moyen. - Custom : Paramètres définis par l'utilisateur pour la direction, la suspension, la réponse de l'accélérateur et le freinage régénératif.
 
 ### Freins
 
@@ -302,13 +298,11 @@ Le Nio EL8 comprend plusieurs [systèmes avancés d'assistance au conducteur](..
 
 ### Automatisation de la Conduite
 
-Avec le système NIO Pilot Complete Pack  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard NIO Pilot Complete Pack de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
-- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Capteurs & Caméras
 

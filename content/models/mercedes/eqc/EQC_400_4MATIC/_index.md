@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 16 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 16 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard on the Mercedes-EQ EQC 400 4MATIC, varying the st
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Mercedes-EQ EQC 400 4MATIC is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -167,7 +167,7 @@ You can choose between three sound systems for the Mercedes-EQ EQC 400 4MATIC:
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The Mercedes-EQ EQC 400 4MATIC comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -199,10 +199,9 @@ The Mercedes-EQ EQC 400 4MATIC features a range of standard and optional [advanc
 
 The Mercedes-EQ EQC 400 4MATIC offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Driver Assistance Package  level 1 system, you get the following driving automation features.
+With the Driver Assistance Package level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}
 

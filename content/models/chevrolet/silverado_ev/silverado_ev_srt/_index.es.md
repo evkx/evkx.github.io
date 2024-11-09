@@ -72,10 +72,7 @@ La dirección dinámica es una característica un estándar en el Chevrolet Silv
 
 El Chevrolet Silverado EV SRT permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
-- Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
-- My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados. - Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa. - My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 
@@ -261,10 +258,9 @@ El Chevrolet Silverado EV SRT incluye varios [sistemas avanzados de asistencia a
 
 ### Automatización de la Conducción
 
-Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Super Cruise de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras

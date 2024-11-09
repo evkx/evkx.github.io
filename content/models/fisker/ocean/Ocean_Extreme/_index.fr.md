@@ -62,10 +62,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Le Fisker Ocean Extreme permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Earth : direction équilibrée, avec accélérateur efficace et forte régénération de levage.
-- Fun : Direction et accélérateur équilibrés, et régénération de levée moyenne.
-- Hyper : direction équilibrée, accélérateur dynamique et régénération de levée moyenne.
-- Snow/Ice : direction équilibrée, avec accélérateur efficace et faible régénération de levée.
+- Earth : direction équilibrée, avec accélérateur efficace et forte régénération de levage. - Fun : Direction et accélérateur équilibrés, et régénération de levée moyenne. - Hyper : direction équilibrée, accélérateur dynamique et régénération de levée moyenne. - Snow/Ice : direction équilibrée, avec accélérateur efficace et faible régénération de levée.
 
 ### Freins
 
@@ -220,10 +217,9 @@ Le Fisker Ocean Extreme comprend plusieurs [systèmes avancés d'assistance au c
 
 ### Automatisation de la Conduite
 
-Avec le système Fisker Intelligent Pilot  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Fisker Intelligent Pilot de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 {{<evkxdisplayaddarticle />}}

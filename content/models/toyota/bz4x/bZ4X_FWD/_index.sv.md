@@ -64,9 +64,7 @@ Dynamisk styrning är standard-funktionen för Toyota bZ4X FWD. Dynamisk styrnin
 
 Toyota bZ4X FWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Normal: Balanserad styrning och gaspedal.
-- X-Mode: Dynamisk styrning och gaspedal.
-- Eco: Balanserad styrning och effektiv gaspedal.
+- Normal: Balanserad styrning och gaspedal. - X-Mode: Dynamisk styrning och gaspedal. - Eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 
@@ -252,12 +250,10 @@ Toyota bZ4X FWD inkluderar flera [avancerade förarassistanssystem](../../../../
 
 ### Körautomatisering
 
-Med Lane Tracing Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Lane Tracing Assist nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 

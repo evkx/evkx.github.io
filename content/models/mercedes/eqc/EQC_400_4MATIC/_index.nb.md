@@ -198,10 +198,9 @@ Mercedes-EQ EQC 400 4MATIC inkluderer flere [avanserte førerassistanse systemer
 
 Mercedes-EQ EQC 400 4MATIC tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Driver Assistance Package nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 {{<evkxdisplayaddarticle />}}
 

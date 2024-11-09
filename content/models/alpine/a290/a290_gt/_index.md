@@ -62,7 +62,7 @@ Dynamic steering is an optional on the Alpine A290 GT, varying the steering rati
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 320 mm, while the rear discs are 288 mm.
+The Alpine A290 GT is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 320 mm, while the rear discs are 288 mm.
 
 ### Regenerative Braking
 
@@ -212,10 +212,9 @@ The Alpine A290 GT features a range of standard and optional [advanced driver as
 
 ### Driving Automation
 
-With the ProPILOT  level 2 system, you get the following driving automation features.
+With the standard ProPILOT level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}

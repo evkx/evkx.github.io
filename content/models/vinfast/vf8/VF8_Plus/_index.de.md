@@ -38,7 +38,7 @@ Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 11
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 58 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 58 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -58,13 +58,11 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 Der VinFast VF8 Plus ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Eco Mode: Effizientes Gas.
-- Normal Mode: Ausgewogenes Gas.
-- Sport Mode: Dynamisches Gas.
+- Eco Mode: Effizientes Gas. - Normal Mode: Ausgewogenes Gas. - Sport Mode: Dynamisches Gas.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 375 mm, während die hinteren Scheiben 341 mm groß sind.
+Der VinFast VF8 Plus ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 375 mm, während die hinteren Scheiben 341 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -219,10 +217,9 @@ Der VinFast VF8 Plus verfügt über eine Reihe von standardmäßigen und optiona
 
 ### Fahrautomatisierung
 
-Mit dem Highway Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Highway Assist Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 ### Sensoren & Kameras
 

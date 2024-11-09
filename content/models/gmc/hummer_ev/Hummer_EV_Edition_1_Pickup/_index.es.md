@@ -64,13 +64,7 @@ La dirección dinámica es una característica un estándar en el GMC Hummer EV 
 
 El GMC Hummer EV Edition 1 Pickup permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 7 modos:
 
-- Watts to Freedom: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
-- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
-- Terrain: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
-- Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
-- Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
-- My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Watts to Freedom: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Terrain: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas. - Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados. - Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa. - My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 
@@ -234,12 +228,10 @@ El GMC Hummer EV Edition 1 Pickup incluye varios [sistemas avanzados de asistenc
 
 ### Automatización de la Conducción
 
-Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Super Cruise de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras
 

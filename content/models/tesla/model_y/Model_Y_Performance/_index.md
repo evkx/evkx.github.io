@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 49 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 49 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard on the Tesla Model Y Performance, varying the ste
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 335 mm.
+The Tesla Model Y Performance is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 335 mm.
 
 ### Regenerative Braking
 
@@ -225,7 +225,7 @@ The Tesla Model Y Performance comes with a dedicated mobile app, available for b
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The Tesla Model Y Performance comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -255,18 +255,16 @@ The Tesla Model Y Performance features a range of standard and optional [advance
 
 The Tesla Model Y Performance offers [driving automation at levels 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Basic Autopilot  level 2 system, you get the following driving automation features.
+With the standard Basic Autopilot level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Enhanced Autopilot level 2 system, you get additional driving automation features to the ones listed above:
 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above:
+With the optional Full Self-Driving Capability level 3 system, you get additional driving automation features to the ones listed above:
 
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.

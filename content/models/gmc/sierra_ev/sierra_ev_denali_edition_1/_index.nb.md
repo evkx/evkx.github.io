@@ -72,10 +72,7 @@ Dynamisk styring er en standard-funksjonen på GMC Sierra EV Denali Edition 1. D
 
 GMC Sierra EV Denali Edition 1 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
-- Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
-- My Mode: Egendefinert styring, fjæring og gassrespons.
+- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping. - Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping. - My Mode: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 
@@ -257,10 +254,9 @@ GMC Sierra EV Denali Edition 1 inkluderer flere [avanserte førerassistanse syst
 
 ### Kjøreautomatisering
 
-Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Super Cruise nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer

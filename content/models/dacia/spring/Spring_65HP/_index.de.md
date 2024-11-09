@@ -38,7 +38,7 @@ Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 30
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 34 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 34 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 

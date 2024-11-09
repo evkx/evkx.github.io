@@ -231,14 +231,13 @@ El Li Auto MEGA incluye varios [sistemas avanzados de asistencia al conductor](.
 
 ### Automatización de la Conducción
 
-Con el sistema AD Pro  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar AD Pro de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Con el sistema AD Max  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional AD Max de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 

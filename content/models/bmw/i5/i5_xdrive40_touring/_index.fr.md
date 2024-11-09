@@ -56,7 +56,7 @@ BMW i5 xDrive40 Touring dispose d'un système de transmission intégrale pris en
 
 ### Suspension
 
-La suspension  est dotée d'un amortissement adaptatif sur les essieux avant et arrière et d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 136 mm.
+La suspension Adaptive M Suspension est dotée d'un amortissement adaptatif sur les essieux avant et arrière et d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 136 mm.
 
 ### Pilotage
 
@@ -260,12 +260,11 @@ Le BMW i5 xDrive40 Touring comprend plusieurs [systèmes avancés d'assistance a
 
 BMW i5 xDrive40 Touring offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Driving Assistant  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Driving Assistant de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-Avec le système Driving Assistant Professional  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système optionnel Driving Assistant Professional de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

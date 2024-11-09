@@ -66,9 +66,7 @@ Dynamisk styring er en standard-funktion på Chevrolet Equinox EV AWD. Dynamisk 
 
 Chevrolet Equinox EV AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Normal: Afbalanceret styring og effektiv speeder.
-- Sport: Afbalanceret styring og speeder.
-- My Mode: Brugerdefinerede indstillinger for styring og speeder.
+- Normal: Afbalanceret styring og effektiv speeder. - Sport: Afbalanceret styring og speeder. - My Mode: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 
@@ -257,11 +255,11 @@ Den Chevrolet Equinox EV AWD inkluderer flere standard- og valgfri [avancerede f
 
 Chevrolet Equinox EV AWD tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med Super Cruise  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Super Cruise niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

@@ -86,11 +86,7 @@ Dynamisk styring er en standard-funksjonen på Nio EL8. Dynamisk styring variere
 
 Nio EL8 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- Sport+: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring. Lav regenerativ bremsing.
-- Sport: Balansert styring, laveste fjæringshøyde med balansert gasspådrag og demping. Lav regenerativ bremsing.
-- Comfort: Komfort styring, normal fjæringshøyde med balansert gasspådrag og komfort demping. Lav regenerativ bremsing.
-- ECO: Komfort styring, normal fjæringshøyde med effektivt gasspådrag og komfort demping. Middels regenerativ bremsing.
-- Custom: Brukerdefinerte innstillinger for styring, fjæring, gassrespons og regenerativ bremsing.
+- Sport+: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring. Lav regenerativ bremsing. - Sport: Balansert styring, laveste fjæringshøyde med balansert gasspådrag og demping. Lav regenerativ bremsing. - Comfort: Komfort styring, normal fjæringshøyde med balansert gasspådrag og komfort demping. Lav regenerativ bremsing. - ECO: Komfort styring, normal fjæringshøyde med effektivt gasspådrag og komfort demping. Middels regenerativ bremsing. - Custom: Brukerdefinerte innstillinger for styring, fjæring, gassrespons og regenerativ bremsing.
 
 ### Bremser
 
@@ -302,13 +298,11 @@ Nio EL8 inkluderer flere [avanserte førerassistanse systemer](../../../../techn
 
 ### Kjøreautomatisering
 
-Med NIO Pilot Complete Pack  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med standard NIO Pilot Complete Pack nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 

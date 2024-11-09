@@ -50,7 +50,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den. Uttag finns tillgängliga i lastutrymmet, frunken och hytten.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 10,2 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den. Uttag finns tillgängliga i lastutrymmet, frunken och hytten.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/v2l_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -72,10 +72,7 @@ Dynamisk styrning är standard-funktionen för Chevrolet Silverado EV SRT. Dynam
 
 Chevrolet Silverado EV SRT låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- My Mode: Anpassad styrning, fjädring och gasrespons.
+- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - My Mode: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 
@@ -261,10 +258,9 @@ Chevrolet Silverado EV SRT inkluderar flera [avancerade förarassistanssystem](.
 
 ### Körautomatisering
 
-Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Super Cruise nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameror

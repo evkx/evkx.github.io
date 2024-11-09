@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 23 minutes using a home charging setup.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 23 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
@@ -60,7 +60,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 396 mm, while the rear discs are 343 mm.
+The Honda Prologue FWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 396 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 
@@ -213,7 +213,7 @@ The Honda Prologue FWD features a range of standard and optional [advanced drive
 
 The Honda Prologue FWD offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

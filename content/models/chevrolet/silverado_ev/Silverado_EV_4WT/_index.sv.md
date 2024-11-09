@@ -50,7 +50,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 10,2 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,7 +235,7 @@ Chevrolet Silverado EV 4WT inkluderar flera [avancerade förarassistanssystem](.
 
 Chevrolet Silverado EV 4WT erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Super Cruise nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

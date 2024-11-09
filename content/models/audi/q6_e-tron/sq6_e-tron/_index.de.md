@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das standard Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Onboard-Ladegerät wählen, das bis zu 22 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 4 Stunden und 18 Minuten vollständig von 0 auf 100% aufladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen. Für schnelleres Laden können Sie ein optionales Bordladegerät wählen, das bis zu 22 kW unterstützt. Mit diesem Upgrade können Sie die Batterie zu Hause in nur etwa 4 Stunden und 18 Minuten vollständig von 0 auf 100% aufladen.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/charging_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -70,17 +70,11 @@ Die dynamische Lenkung ist eine standard im Audi SQ6 e-tron, wobei das Lenkverh�
 
 Der Audi SQ6 e-tron ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 7 Modi wählen:
 
-- Dynamic: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
-- Efficiency: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
-- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
-- Allroad: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
-- Offroad: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
-- Balanced: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
-- Custom: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Dynamic: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Efficiency: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Allroad: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung. - Offroad: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung. - Balanced: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - Custom: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 375 mm, während die hinteren Scheiben 350 mm groß sind.
+Der Audi SQ6 e-tron ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 375 mm, während die hinteren Scheiben 350 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -322,12 +316,11 @@ Der Audi SQ6 e-tron verfügt über eine Reihe von standardmäßigen und optional
 
 Der Audi SQ6 e-tron bietet [Fahrautomatisierung
 
-Mit dem standard  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standard Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-Mit dem Adaptive Cruise Assist  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Adaptive Cruise Assist Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 

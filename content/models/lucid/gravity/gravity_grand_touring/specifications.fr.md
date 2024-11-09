@@ -925,7 +925,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Caméra 360
 			</td>
 			<td>
-				Oui, équipement standard
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -955,6 +956,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -985,6 +987,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Freinage d'urgence automatique
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1000,6 +1003,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1007,6 +1011,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Avertissement de collision avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1042,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

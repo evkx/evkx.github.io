@@ -41,7 +41,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 18 minutes using a home charging setup.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 18 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -65,15 +65,11 @@ Dynamic steering is a standard on the Rivian R1S Quad-Motor AWD MP, varying the 
 
 The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Snow: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- All-Purpose: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Soft sand: Balanced steering, max suspension height with balanced throttle and comfort suspension damping.
-- All-Terrain: Balanced steering, high suspension height with balanced throttle and damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Snow: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - All-Purpose: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Soft sand: Balanced steering, max suspension height with balanced throttle and comfort suspension damping. - All-Terrain: Balanced steering, high suspension height with balanced throttle and damping.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
+The Rivian R1S Quad-Motor AWD MP is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
 
 ### Regenerative Braking
 
@@ -203,7 +199,7 @@ Additionally, the model includes 6 USB-C connections as standard.
 
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+The Rivian R1S Quad-Motor AWD MP comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -231,10 +227,9 @@ The Rivian R1S Quad-Motor AWD MP features a range of standard and optional [adva
 
 ### Driving Automation
 
-With the Driver+  level 2 system, you get the following driving automation features.
+With the standard Driver+ level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras
 

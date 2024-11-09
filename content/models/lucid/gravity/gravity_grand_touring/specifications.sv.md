@@ -925,7 +925,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				360-kamera
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Parkeringssensorer fram
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -955,6 +956,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Sidoparkeringssensorer
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -985,6 +987,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Autonom nödbromsning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1000,6 +1003,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Left Turn Crash Avoidance
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1007,6 +1011,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Kollisionsvarning, front
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1042,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				EfficiencyAssist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

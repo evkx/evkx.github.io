@@ -46,7 +46,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 51 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 51 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -68,7 +68,7 @@ Die dynamische Lenkung ist eine standard im Mercedes-Maybach EQS 680 SUV, wobei 
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 415 mm, während die hinteren Scheiben 378 mm groß sind.
+Der Mercedes-Maybach EQS 680 SUV ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 415 mm, während die hinteren Scheiben 378 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -207,7 +207,7 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Optio
 
 ## Lichter
 
-Der  ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+Der Mercedes-Maybach EQS 680 SUV ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -239,16 +239,15 @@ Der Mercedes-Maybach EQS 680 SUV verfügt über eine Reihe von standardmäßigen
 
 Der Mercedes-Maybach EQS 680 SUV bietet [Fahrautomatisierung auf den Stufen 1, 2 oder 3](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig von der Ausstattung.
 
-Mit dem Driver Assistance Package  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Driver Assistance Package Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-Mit dem Driver Assistance Package Plus  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Driver Assistance Package Plus Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
-Mit dem DRIVE PILOT  Level 3 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen DRIVE PILOT Level 3 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

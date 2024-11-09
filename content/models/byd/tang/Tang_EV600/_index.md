@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 29 minutes using a home charging setup.
+The standard onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 29 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -68,12 +68,11 @@ Dynamic steering is a standard on the BYD Tang EV600, varying the steering ratio
 
 The BYD Tang EV600 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 2 modes:
 
-- Sport: Dynamic throttle.
-- eco: Efficent throttle.
+- Sport: Dynamic throttle. - eco: Efficent throttle.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 320 mm, while the rear discs are 320 mm.
+The BYD Tang EV600 is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 320 mm, while the rear discs are 320 mm.
 
 ### Regenerative Braking
 
@@ -257,10 +256,9 @@ The BYD Tang EV600 features a range of standard and optional [advanced driver as
 
 ### Driving Automation
 
-With the Intelligent Cruise Control  level 2 system, you get the following driving automation features.
+With the standard Intelligent Cruise Control level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras
 

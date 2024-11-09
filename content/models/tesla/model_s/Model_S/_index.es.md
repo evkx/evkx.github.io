@@ -204,18 +204,16 @@ El Tesla Model S incluye varios [sistemas avanzados de asistencia al conductor](
 
 Tesla Model S ofrece [automatización de la conducción en niveles 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Basic Autopilot  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Basic Autopilot de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-Con el sistema Enhanced Autopilot  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Enhanced Autopilot de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Con el sistema Full Self-Driving Capability  de nivel 3, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Full Self-Driving Capability de nivel 3, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - Control de semáforos - sigue los semáforos.
 - Control de señales de stop: sigue las señales de stop.

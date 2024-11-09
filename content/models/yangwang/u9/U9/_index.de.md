@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 38 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 38 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -64,11 +64,7 @@ Die dynamische Lenkung ist eine standard im YangWang U9, wobei das Lenkverhältn
 
 Der YangWang U9 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
-- Cruise: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung.
-- Sport: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung.
-- Track: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
-- Drift: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Cruise: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung. - Sport: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung. - Track: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Drift: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
 
 ### Bremsen
 
@@ -191,10 +187,9 @@ Der YangWang U9 verfügt über eine Reihe von standardmäßigen und optionalen [
 
 ### Fahrautomatisierung
 
-Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 {{<evkxdisplayaddarticle />}}
 

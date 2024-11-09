@@ -64,12 +64,7 @@ Dynamisk styrning är standard-funktionen för VOYAH Courage AWD. Dynamisk styrn
 
 VOYAH Courage AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 6 lägen:
 
-- Performance: Dynamisk styrning, fjädring och gaspådrag.
-- Eco: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
-- Outing: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
-- Snow: Balanserad styrning, gas och dämpning.
-- Individual: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
+- Performance: Dynamisk styrning, fjädring och gaspådrag. - Eco: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning. - Outing: Balanserat gaspådrag och styrning, komfort fjädringsdämpning. - Snow: Balanserad styrning, gas och dämpning. - Individual: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 
@@ -248,10 +243,9 @@ VOYAH Courage AWD inkluderar flera [avancerade förarassistanssystem](../../../.
 
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror

@@ -66,9 +66,7 @@ La direction dynamique est une fonctionnalité un standard sur le Chevrolet Equi
 
 Le Chevrolet Equinox EV FWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Normal: Direction équilibrée et accélérateur efficace.
-- Sport: Direction et accélérateur équilibrés.
-- My Mode : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+- Normal: Direction équilibrée et accélérateur efficace. - Sport: Direction et accélérateur équilibrés. - My Mode : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 
@@ -257,11 +255,11 @@ Le Chevrolet Equinox EV FWD comprend plusieurs [systèmes avancés d'assistance 
 
 Chevrolet Equinox EV FWD offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Avec le système Super Cruise  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système optionnel Super Cruise de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

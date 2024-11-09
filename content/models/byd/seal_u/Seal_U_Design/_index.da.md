@@ -217,10 +217,9 @@ Den BYD Seal U Design inkluderer flere standard- og valgfri [avancerede føreras
 
 ### Køreautomatisering
 
-Med Smart Pilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Smart Pilot niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 {{<evkxdisplayaddarticle />}}
 

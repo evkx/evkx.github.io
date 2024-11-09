@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 20 minutes using a home charging setup.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 20 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -66,13 +66,11 @@ Dynamic steering is a standard on the Chevrolet Blazer EV SS, varying the steeri
 
 The Chevrolet Blazer EV SS lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Normal: Balanced steering and efficent throttle.
-- Sport: Balanced steering and throttle.
-- My Mode: User-defined settings for steering and throttle.
+- Normal: Balanced steering and efficent throttle. - Sport: Balanced steering and throttle. - My Mode: User-defined settings for steering and throttle.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
+The Chevrolet Blazer EV SS is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -251,11 +249,11 @@ The Chevrolet Blazer EV SS features a range of standard and optional [advanced d
 
 The Chevrolet Blazer EV SS offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-With the Super Cruise  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Super Cruise level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

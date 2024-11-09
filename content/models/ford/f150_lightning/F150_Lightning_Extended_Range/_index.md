@@ -41,7 +41,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 46 minutes using a home charging setup.
+The standard onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 46 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
 
@@ -208,16 +208,15 @@ The Ford F150 Lightning Extended Range features a range of standard and optional
 
 The Ford F150 Lightning Extended Range offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Ford Co-Pilot360™ 2.0  level 1 system, you get the following driving automation features.
+With the Ford Co-Pilot360™ 2.0 level 1 system, you get the following driving automation features.
 
 - Cruise control.
 
-With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Ford Co-Pilot360™ Assist 2.0 level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Ford Co-Pilot360™ Active 2.0 level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

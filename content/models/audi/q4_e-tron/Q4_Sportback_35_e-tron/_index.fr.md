@@ -66,10 +66,7 @@ La direction dynamique est une fonctionnalité un facultatif sur le Audi Q4 Spor
 
 Le Audi Q4 Sportback 35 e-tron permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Dynamic: Direction, suspension et accélérateur dynamiques.
-- Efficiency: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
-- Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable.
-- Custom : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
+- Dynamic: Direction, suspension et accélérateur dynamiques. - Efficiency: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée. - Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable. - Custom : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
 
 ### Freins
 
@@ -301,15 +298,13 @@ Le Audi Q4 Sportback 35 e-tron comprend plusieurs [systèmes avancés d'assistan
 
 Audi Q4 Sportback 35 e-tron offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Adaptive Cruise Control  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Adaptive Cruise Control de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- Régulateur de vitesse.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- Régulateur de vitesse. - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-Avec le système Assistantpackage Tour  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système optionnel Assistantpackage Tour de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Capteurs & Caméras

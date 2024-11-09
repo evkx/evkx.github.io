@@ -50,7 +50,7 @@ The vehicle supports fast DC charging with a maximum power of 150 kW. Charging f
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -78,7 +78,7 @@ Dynamic steering is a standard on the Onvo L60 RWD, varying the steering ratio b
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The Onvo L60 RWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -251,10 +251,9 @@ The Onvo L60 RWD features a range of standard and optional [advanced driver assi
 
 ### Driving Automation
 
-With the Onvo Self Driving  level 2 system, you get the following driving automation features.
+With the standard Onvo Self Driving level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 ### Sensors & Cameras
 

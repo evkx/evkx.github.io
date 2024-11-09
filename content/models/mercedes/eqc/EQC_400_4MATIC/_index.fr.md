@@ -198,10 +198,9 @@ Le Mercedes-EQ EQC 400 4MATIC comprend plusieurs [systèmes avancés d'assistanc
 
 Mercedes-EQ EQC 400 4MATIC offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système Driver Assistance Package  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Driver Assistance Package de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 {{<evkxdisplayaddarticle />}}
 

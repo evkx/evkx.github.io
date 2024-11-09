@@ -208,18 +208,16 @@ Den Tesla Model X Standard Range inkluderer flere standard- og valgfri [avancere
 
 Tesla Model X Standard Range tilbyder [køreautomatisering på niveau 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Basic Autopilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Basic Autopilot niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-Med Enhanced Autopilot  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Enhanced Autopilot niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med det valgfrie Full Self-Driving Capability niveau 3-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - Trafiklys kontrol - følg trafiklysene.
 - Stopskiltkontrol - følg stopskilt.

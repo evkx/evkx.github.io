@@ -60,7 +60,7 @@ Adaptive M Suspension-opphenget har en fast høyde og demping. Bakkeklaringen me
 
 Du kan bestille BMW i5 eDrive40 Touring med en alternativ M Sport Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
 
-Du kan bestille BMW i5 eDrive40 Touring med en alternativ Adaptives suspension professional hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 140 mm.
+Du kan bestille BMW i5 eDrive40 Touring med en alternativ Adaptives suspension professional hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Adaptives suspension professional-fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 140 mm.
 
 ### Styring
 
@@ -265,15 +265,13 @@ BMW i5 eDrive40 Touring inkluderer flere [avanserte førerassistanse systemer](.
 
 BMW i5 eDrive40 Touring tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Driving Assistant nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- Fartsbegrenser.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- Fartsbegrenser. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
-Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Driving Assistant Professional nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 ### Sensorer & Kameraer
 

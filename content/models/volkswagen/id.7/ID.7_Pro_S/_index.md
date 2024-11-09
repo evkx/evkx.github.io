@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 49 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 49 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/charging_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 
@@ -257,11 +257,11 @@ The Volkswagen ID.7 Pro S features a range of standard and optional [advanced dr
 
 The Volkswagen ID.7 Pro S offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Assistantpackage plus level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

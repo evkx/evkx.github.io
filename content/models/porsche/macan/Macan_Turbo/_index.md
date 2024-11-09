@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard on the Porsche Macan Turbo, varying the steering 
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 410 mm, while the rear discs are 365 mm.
+The Porsche Macan Turbo is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 410 mm, while the rear discs are 365 mm.
 
 ### Regenerative Braking
 
@@ -213,7 +213,7 @@ Additionally, the model includes 2 USB-C connections as standard. As an option, 
 
 You can choose between two types of headlights for the Porsche Macan Turbo.
 
-- The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+- The Porsche Macan Turbo comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
@@ -250,12 +250,11 @@ The Porsche Macan Turbo features a range of standard and optional [advanced driv
 
 The Porsche Macan Turbo offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the  level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Porsche InnoDrive level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

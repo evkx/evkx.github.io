@@ -72,10 +72,7 @@ Dynamisk styring er en standard-funktion på Chevrolet Silverado EV SRT. Dynamis
 
 Chevrolet Silverado EV SRT lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
-- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- My Mode: Brugerdefineret styring, affjedring og gasrespons.
+- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - My Mode: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 
@@ -261,10 +258,9 @@ Den Chevrolet Silverado EV SRT inkluderer flere standard- og valgfri [avancerede
 
 ### Køreautomatisering
 
-Med Super Cruise  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Super Cruise niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer

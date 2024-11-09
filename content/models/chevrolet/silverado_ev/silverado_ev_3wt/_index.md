@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 53 minutes using a home charging setup.
+The standard onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 53 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -64,7 +64,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
+The Chevrolet Silverado EV 3WT is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -235,7 +235,7 @@ The Chevrolet Silverado EV 3WT features a range of standard and optional [advanc
 
 The Chevrolet Silverado EV 3WT offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the Super Cruise  level 1 system, you get the following driving automation features.
+With the Super Cruise level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

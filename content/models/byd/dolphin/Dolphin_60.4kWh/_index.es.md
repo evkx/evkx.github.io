@@ -221,7 +221,7 @@ El BYD Dolphin 60.4kWh incluye varios [sistemas avanzados de asistencia al condu
 
 BYD Dolphin 60.4kWh ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

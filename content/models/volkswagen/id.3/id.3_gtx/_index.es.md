@@ -249,14 +249,13 @@ Volkswagen ID.3 GTX ofrece [automatización de la conducción en niveles 1 o 2](
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
-- Control de crucero.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
+- Control de crucero. - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
-Con el sistema   de nivel 1, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema  de nivel 1, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Assistantpackage plus de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

@@ -214,7 +214,7 @@ Le Honda Prologue AWD comprend plusieurs [systèmes avancés d'assistance au con
 
 Honda Prologue AWD offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 

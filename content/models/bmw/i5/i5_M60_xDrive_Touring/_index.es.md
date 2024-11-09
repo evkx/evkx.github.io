@@ -56,7 +56,7 @@ BMW i5 M60 xDrive Touring tiene un sistema de tracción total sostenido por dos 
 
 ### Suspensión
 
-La suspensión  tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 136 mm.
+La suspensión Adaptive M Suspension tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 136 mm.
 
 ### Dirección
 
@@ -260,12 +260,11 @@ El BMW i5 M60 xDrive Touring incluye varios [sistemas avanzados de asistencia al
 
 BMW i5 M60 xDrive Touring ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Driving Assistant  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Driving Assistant de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema Driving Assistant Professional  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+Con el sistema opcional Driving Assistant Professional de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

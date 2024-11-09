@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 11 minutes using a home charging setup.
+The standard onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 11 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/charging_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="960"  >}}
 
@@ -72,14 +72,11 @@ Dynamic steering is a standard on the GMC Sierra EV Denali Edition 1, varying th
 
 The GMC Sierra EV Denali Edition 1 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
-- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- My Mode: User-defined settings for steering, suspension, and throttle response.
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Off-Road: Balanced steering, max suspension height with balanced throttle and damping. - Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - My Mode: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
+The GMC Sierra EV Denali Edition 1 is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -257,10 +254,9 @@ The GMC Sierra EV Denali Edition 1 features a range of standard and optional [ad
 
 ### Driving Automation
 
-With the Super Cruise  level 2 system, you get the following driving automation features.
+With the standard Super Cruise level 2 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensors & Cameras

@@ -50,7 +50,7 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den. Det finns uttag tillgängliga både på lastflaket och i kabinen.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 11,5 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den. Det finns uttag tillgängliga både på lastflaket och i kabinen.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
@@ -72,10 +72,7 @@ Dynamisk styrning är standard-funktionen för Tesla Cybertruck AWD. Dynamisk st
 
 Tesla Cybertruck AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Custom: Anpassad styrning, fjädring och gasrespons.
-- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Custom: Anpassad styrning, fjädring och gasrespons. - Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
 
 ### Bromsar
 
@@ -225,18 +222,16 @@ Tesla Cybertruck AWD inkluderar flera [avancerade förarassistanssystem](../../.
 
 Tesla Cybertruck AWD erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Basic Autopilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Basic Autopilot nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-Med Enhanced Autopilot  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - Trafikljuskontroll - följer trafikljusen.
 - Stopp-skyltkontroll - följ stopp-skyltar.

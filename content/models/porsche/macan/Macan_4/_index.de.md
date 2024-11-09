@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -62,7 +62,7 @@ Die dynamische Lenkung ist eine standard im Porsche Macan 4, wobei das Lenkverh�
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind.
+Der Porsche Macan 4 ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -216,7 +216,7 @@ Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Optio
 
 Sie können zwischen zwei Scheinwerfertypen für den Porsche Macan 4 wählen.
 
-- Der  ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+- Der Porsche Macan 4 ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 - **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
@@ -253,12 +253,11 @@ Der Porsche Macan 4 verfügt über eine Reihe von standardmäßigen und optional
 
 Der Porsche Macan 4 bietet [Fahrautomatisierung
 
-Mit dem   Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-Mit dem Porsche InnoDrive  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+Mit dem optionalen Porsche InnoDrive Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 

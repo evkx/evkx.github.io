@@ -56,7 +56,7 @@ BMW i4 M50 har et firehjulsdriftssystem som støttes av to motorer, en på hver 
 
 ### Hjuloppheng
 
--fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 125 mm.
+Adaptive M Suspension-fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 125 mm.
 
 ### Styring
 
@@ -268,15 +268,13 @@ BMW i4 M50 inkluderer flere [avanserte førerassistanse systemer](../../../../te
 
 BMW i4 M50 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Driving Assistant nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- Fartsbegrenser.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- Fartsbegrenser. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
-Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med det valgfrie Driving Assistant Professional nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 {{<evkxdisplayaddarticle />}}
 

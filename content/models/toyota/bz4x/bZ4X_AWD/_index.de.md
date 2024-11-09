@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 49 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 49 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -64,13 +64,11 @@ Die dynamische Lenkung ist eine standard im Toyota bZ4X AWD, wobei das Lenkverh�
 
 Der Toyota bZ4X AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und Gas.
-- X-Mode: Dynamische Lenkung und Gas.
-- Eco: Ausgewogene Lenkung und effizientes Gas.
+- Normal: Ausgewogene Lenkung und Gas. - X-Mode: Dynamische Lenkung und Gas. - Eco: Ausgewogene Lenkung und effizientes Gas.
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 328 mm, während die hinteren Scheiben 317 mm groß sind.
+Der Toyota bZ4X AWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 328 mm, während die hinteren Scheiben 317 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -252,12 +250,10 @@ Der Toyota bZ4X AWD verfügt über eine Reihe von standardmäßigen und optional
 
 ### Fahrautomatisierung
 
-Mit dem Lane Tracing Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Lane Tracing Assist Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensoren & Kameras
 

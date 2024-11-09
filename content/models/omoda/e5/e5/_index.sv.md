@@ -48,7 +48,7 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ### Bidirektionell laddning
 
-Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 3,3 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -64,9 +64,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 OMODA E5 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Normal: Balanserad styrning och gaspedal.
-- Sport: Dynamisk styrning och gaspedal.
-- Eco: Balanserad styrning och effektiv gaspedal.
+- Normal: Balanserad styrning och gaspedal. - Sport: Dynamisk styrning och gaspedal. - Eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 
@@ -219,10 +217,9 @@ OMODA E5 inkluderar flera [avancerade förarassistanssystem](../../../../technol
 
 ### Körautomatisering
 
-Med Traffic Jam Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standard Traffic Jam Assist nivå 2-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror
 
