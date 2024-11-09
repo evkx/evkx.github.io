@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				114,7 kW
+				63,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-100%
 			</td>
 			<td>
-				109,9 kW
+				59,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				166,5 kW
+				118,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				187,6 kW
+				171,8 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maks C-Rate
 			</td>
 			<td>
-				2,79
+				3,06
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig C-Rate
 			</td>
 			<td>
-				2,11
+				2,01
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				1% - 75%
+				1% - 63%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				151,6kW
+				155,8kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				23m26s
+				19m6s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				 41 m 51 s
+				1 h 15 m 38 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				 39 m 18 s
+				1 h 13 m 5 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 17 m 54 s
+				 19 m 33 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,13 +172,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,8 km (6,7 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				4,4 km (2,7 mi)
 			</td>
 			<td>
-				7,4 km (4,6 mi)
+				4,1 km (2,5 mi)
 			</td>
 		</tr>
 		<tr>
@@ -189,13 +189,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,3 km (6,4 mi)
+				5,5 km (3,4 mi)
 			</td>
 			<td>
-				7,6 km (4,7 mi)
+				4,1 km (2,5 mi)
 			</td>
 			<td>
-				7,0 km (4,4 mi)
+				3,8 km (2,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -206,13 +206,13 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				17,6 km (10,9 mi)
+				16,1 km (10,0 mi)
 			</td>
 			<td>
-				13,0 km (8,1 mi)
+				11,9 km (7,4 mi)
 			</td>
 			<td>
-				12,0 km (7,5 mi)
+				11,0 km (6,8 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -615,7 +615,7 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				26%
 			</td>
 			<td>
-				225 kW
+				246 kW
 			</td>
 			<td>
 				 6 m 14 s
@@ -629,10 +629,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				27%
 			</td>
 			<td>
-				226 kW
+				247 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 6 m 26 s
 			</td>
 			<td>
 				21,6 kWh
@@ -643,10 +643,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				28%
 			</td>
 			<td>
-				225 kW
+				247 kW
 			</td>
 			<td>
-				 6 m 42 s
+				 6 m 39 s
 			</td>
 			<td>
 				22,4 kWh
@@ -657,10 +657,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				29%
 			</td>
 			<td>
-				226 kW
+				247 kW
 			</td>
 			<td>
-				 6 m 56 s
+				 6 m 51 s
 			</td>
 			<td>
 				23,2 kWh
@@ -671,10 +671,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				30%
 			</td>
 			<td>
-				226 kW
+				249 kW
 			</td>
 			<td>
-				 7 m 9 s
+				 7 m 4 s
 			</td>
 			<td>
 				24,0 kWh
@@ -685,10 +685,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				31%
 			</td>
 			<td>
-				226 kW
+				249 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 16 s
 			</td>
 			<td>
 				24,8 kWh
@@ -699,10 +699,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				32%
 			</td>
 			<td>
-				227 kW
+				249 kW
 			</td>
 			<td>
-				 7 m 37 s
+				 7 m 29 s
 			</td>
 			<td>
 				25,6 kWh
@@ -713,10 +713,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				33%
 			</td>
 			<td>
-				227 kW
+				249 kW
 			</td>
 			<td>
-				 7 m 50 s
+				 7 m 41 s
 			</td>
 			<td>
 				26,4 kWh
@@ -727,10 +727,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				34%
 			</td>
 			<td>
-				227 kW
+				250 kW
 			</td>
 			<td>
-				 8 m 4 s
+				 7 m 54 s
 			</td>
 			<td>
 				27,2 kWh
@@ -741,10 +741,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				35%
 			</td>
 			<td>
-				227 kW
+				250 kW
 			</td>
 			<td>
-				 8 m 18 s
+				 8 m 6 s
 			</td>
 			<td>
 				28,0 kWh
@@ -755,10 +755,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				36%
 			</td>
 			<td>
-				230 kW
+				250 kW
 			</td>
 			<td>
-				 8 m 31 s
+				 8 m 18 s
 			</td>
 			<td>
 				28,8 kWh
@@ -769,10 +769,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				37%
 			</td>
 			<td>
-				230 kW
+				251 kW
 			</td>
 			<td>
-				 8 m 45 s
+				 8 m 31 s
 			</td>
 			<td>
 				29,6 kWh
@@ -783,10 +783,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				38%
 			</td>
 			<td>
-				230 kW
+				251 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 8 m 43 s
 			</td>
 			<td>
 				30,4 kWh
@@ -797,10 +797,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				39%
 			</td>
 			<td>
-				230 kW
+				251 kW
 			</td>
 			<td>
-				 9 m 11 s
+				 8 m 55 s
 			</td>
 			<td>
 				31,2 kWh
@@ -811,10 +811,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				40%
 			</td>
 			<td>
-				232 kW
+				253 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 9 m 8 s
 			</td>
 			<td>
 				32,0 kWh
@@ -825,10 +825,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				41%
 			</td>
 			<td>
-				231 kW
+				253 kW
 			</td>
 			<td>
-				 9 m 38 s
+				 9 m 20 s
 			</td>
 			<td>
 				32,8 kWh
@@ -839,10 +839,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				42%
 			</td>
 			<td>
-				232 kW
+				253 kW
 			</td>
 			<td>
-				 9 m 52 s
+				 9 m 32 s
 			</td>
 			<td>
 				33,6 kWh
@@ -853,10 +853,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				43%
 			</td>
 			<td>
-				233 kW
+				253 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 9 m 44 s
 			</td>
 			<td>
 				34,4 kWh
@@ -867,10 +867,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				44%
 			</td>
 			<td>
-				233 kW
+				254 kW
 			</td>
 			<td>
-				 10 m 18 s
+				 9 m 57 s
 			</td>
 			<td>
 				35,2 kWh
@@ -881,10 +881,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				45%
 			</td>
 			<td>
-				233 kW
+				255 kW
 			</td>
 			<td>
-				 10 m 32 s
+				 10 m 9 s
 			</td>
 			<td>
 				36,0 kWh
@@ -895,10 +895,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				46%
 			</td>
 			<td>
-				234 kW
+				255 kW
 			</td>
 			<td>
-				 10 m 45 s
+				 10 m 21 s
 			</td>
 			<td>
 				36,8 kWh
@@ -909,10 +909,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				47%
 			</td>
 			<td>
-				210 kW
+				255 kW
 			</td>
 			<td>
-				 10 m 59 s
+				 10 m 33 s
 			</td>
 			<td>
 				37,6 kWh
@@ -923,10 +923,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				48%
 			</td>
 			<td>
-				186 kW
+				256 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 10 m 45 s
 			</td>
 			<td>
 				38,4 kWh
@@ -937,10 +937,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				49%
 			</td>
 			<td>
-				186 kW
+				256 kW
 			</td>
 			<td>
-				 11 m 31 s
+				 10 m 57 s
 			</td>
 			<td>
 				39,2 kWh
@@ -951,10 +951,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				50%
 			</td>
 			<td>
-				186 kW
+				257 kW
 			</td>
 			<td>
-				 11 m 48 s
+				 11 m 9 s
 			</td>
 			<td>
 				40,0 kWh
@@ -965,10 +965,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				51%
 			</td>
 			<td>
-				186 kW
+				204 kW
 			</td>
 			<td>
-				 12 m 4 s
+				 11 m 23 s
 			</td>
 			<td>
 				40,8 kWh
@@ -979,10 +979,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				52%
 			</td>
 			<td>
-				187 kW
+				205 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 11 m 38 s
 			</td>
 			<td>
 				41,6 kWh
@@ -993,10 +993,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				53%
 			</td>
 			<td>
-				187 kW
+				205 kW
 			</td>
 			<td>
-				 12 m 38 s
+				 11 m 53 s
 			</td>
 			<td>
 				42,4 kWh
@@ -1007,10 +1007,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				54%
 			</td>
 			<td>
-				188 kW
+				205 kW
 			</td>
 			<td>
-				 12 m 54 s
+				 12 m 8 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1021,10 +1021,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				55%
 			</td>
 			<td>
-				188 kW
+				205 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 12 m 23 s
 			</td>
 			<td>
 				44,0 kWh
@@ -1035,10 +1035,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				56%
 			</td>
 			<td>
-				189 kW
+				205 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 12 m 38 s
 			</td>
 			<td>
 				44,8 kWh
@@ -1049,10 +1049,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				57%
 			</td>
 			<td>
-				180 kW
+				207 kW
 			</td>
 			<td>
-				 13 m 44 s
+				 12 m 53 s
 			</td>
 			<td>
 				45,6 kWh
@@ -1063,10 +1063,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				58%
 			</td>
 			<td>
-				182 kW
+				195 kW
 			</td>
 			<td>
-				 14 m 1 s
+				 13 m 9 s
 			</td>
 			<td>
 				46,4 kWh
@@ -1077,10 +1077,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				59%
 			</td>
 			<td>
-				184 kW
+				195 kW
 			</td>
 			<td>
-				 14 m 18 s
+				 13 m 25 s
 			</td>
 			<td>
 				47,2 kWh
@@ -1091,10 +1091,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				60%
 			</td>
 			<td>
-				185 kW
+				195 kW
 			</td>
 			<td>
-				 14 m 35 s
+				 13 m 41 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1105,10 +1105,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				61%
 			</td>
 			<td>
-				187 kW
+				195 kW
 			</td>
 			<td>
-				 14 m 51 s
+				 13 m 56 s
 			</td>
 			<td>
 				48,8 kWh
@@ -1119,10 +1119,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				62%
 			</td>
 			<td>
-				189 kW
+				196 kW
 			</td>
 			<td>
-				 15 m 8 s
+				 14 m 12 s
 			</td>
 			<td>
 				49,6 kWh
@@ -1133,10 +1133,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				63%
 			</td>
 			<td>
-				189 kW
+				160 kW
 			</td>
 			<td>
-				 15 m 24 s
+				 14 m 30 s
 			</td>
 			<td>
 				50,4 kWh
@@ -1147,10 +1147,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				64%
 			</td>
 			<td>
-				190 kW
+				161 kW
 			</td>
 			<td>
-				 15 m 40 s
+				 14 m 49 s
 			</td>
 			<td>
 				51,2 kWh
@@ -1161,10 +1161,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				65%
 			</td>
 			<td>
-				190 kW
+				160 kW
 			</td>
 			<td>
-				 15 m 57 s
+				 15 m 8 s
 			</td>
 			<td>
 				52,0 kWh
@@ -1175,10 +1175,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				66%
 			</td>
 			<td>
-				191 kW
+				160 kW
 			</td>
 			<td>
-				 16 m 13 s
+				 15 m 28 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1189,10 +1189,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				67%
 			</td>
 			<td>
-				192 kW
+				161 kW
 			</td>
 			<td>
-				 16 m 29 s
+				 15 m 47 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1203,10 +1203,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				68%
 			</td>
 			<td>
-				193 kW
+				162 kW
 			</td>
 			<td>
-				 16 m 45 s
+				 16 m 6 s
 			</td>
 			<td>
 				54,4 kWh
@@ -1217,10 +1217,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				69%
 			</td>
 			<td>
-				184 kW
+				118 kW
 			</td>
 			<td>
-				 17 m 2 s
+				 16 m 28 s
 			</td>
 			<td>
 				55,2 kWh
@@ -1231,10 +1231,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				70%
 			</td>
 			<td>
-				184 kW
+				119 kW
 			</td>
 			<td>
-				 17 m 18 s
+				 16 m 54 s
 			</td>
 			<td>
 				56,0 kWh
@@ -1245,10 +1245,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				71%
 			</td>
 			<td>
-				168 kW
+				118 kW
 			</td>
 			<td>
-				 17 m 36 s
+				 17 m 20 s
 			</td>
 			<td>
 				56,8 kWh
@@ -1259,10 +1259,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				72%
 			</td>
 			<td>
-				168 kW
+				117 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 17 m 47 s
 			</td>
 			<td>
 				57,6 kWh
@@ -1273,7 +1273,7 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				73%
 			</td>
 			<td>
-				168 kW
+				119 kW
 			</td>
 			<td>
 				 18 m 13 s
@@ -1287,10 +1287,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				74%
 			</td>
 			<td>
-				169 kW
+				119 kW
 			</td>
 			<td>
-				 18 m 31 s
+				 18 m 39 s
 			</td>
 			<td>
 				59,2 kWh
@@ -1301,10 +1301,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				75%
 			</td>
 			<td>
-				169 kW
+				119 kW
 			</td>
 			<td>
-				 18 m 50 s
+				 19 m 5 s
 			</td>
 			<td>
 				60,0 kWh
@@ -1315,10 +1315,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				76%
 			</td>
 			<td>
-				157 kW
+				100 kW
 			</td>
 			<td>
-				 19 m 9 s
+				 19 m 33 s
 			</td>
 			<td>
 				60,8 kWh
@@ -1329,10 +1329,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				77%
 			</td>
 			<td>
-				158 kW
+				91 kW
 			</td>
 			<td>
-				 19 m 28 s
+				 20 m 6 s
 			</td>
 			<td>
 				61,6 kWh
@@ -1343,10 +1343,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				78%
 			</td>
 			<td>
-				158 kW
+				82 kW
 			</td>
 			<td>
-				 19 m 48 s
+				 20 m 42 s
 			</td>
 			<td>
 				62,4 kWh
@@ -1357,10 +1357,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				79%
 			</td>
 			<td>
-				157 kW
+				73 kW
 			</td>
 			<td>
-				 20 m 8 s
+				 21 m 22 s
 			</td>
 			<td>
 				63,2 kWh
@@ -1371,10 +1371,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				80%
 			</td>
 			<td>
-				158 kW
+				67 kW
 			</td>
 			<td>
-				 20 m 27 s
+				 22 m 6 s
 			</td>
 			<td>
 				64,0 kWh
@@ -1385,10 +1385,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				81%
 			</td>
 			<td>
-				157 kW
+				60 kW
 			</td>
 			<td>
-				 20 m 47 s
+				 22 m 55 s
 			</td>
 			<td>
 				64,8 kWh
@@ -1399,10 +1399,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				82%
 			</td>
 			<td>
-				140 kW
+				54 kW
 			</td>
 			<td>
-				 21 m 8 s
+				 23 m 49 s
 			</td>
 			<td>
 				65,6 kWh
@@ -1413,10 +1413,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				83%
 			</td>
 			<td>
-				122 kW
+				48 kW
 			</td>
 			<td>
-				 21 m 32 s
+				 24 m 50 s
 			</td>
 			<td>
 				66,4 kWh
@@ -1427,10 +1427,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				84%
 			</td>
 			<td>
-				122 kW
+				43 kW
 			</td>
 			<td>
-				 21 m 57 s
+				 25 m 58 s
 			</td>
 			<td>
 				67,2 kWh
@@ -1441,10 +1441,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				85%
 			</td>
 			<td>
-				122 kW
+				39 kW
 			</td>
 			<td>
-				 22 m 22 s
+				 27 m 13 s
 			</td>
 			<td>
 				68,0 kWh
@@ -1455,10 +1455,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				86%
 			</td>
 			<td>
-				97 kW
+				34 kW
 			</td>
 			<td>
-				 22 m 51 s
+				 28 m 38 s
 			</td>
 			<td>
 				68,8 kWh
@@ -1469,10 +1469,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				87%
 			</td>
 			<td>
-				82 kW
+				32 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 30 m 12 s
 			</td>
 			<td>
 				69,6 kWh
@@ -1483,10 +1483,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				88%
 			</td>
 			<td>
-				73 kW
+				32 kW
 			</td>
 			<td>
-				 24 m 5 s
+				 31 m 49 s
 			</td>
 			<td>
 				70,4 kWh
@@ -1497,10 +1497,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				89%
 			</td>
 			<td>
-				68 kW
+				32 kW
 			</td>
 			<td>
-				 24 m 49 s
+				 33 m 25 s
 			</td>
 			<td>
 				71,2 kWh
@@ -1511,10 +1511,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				90%
 			</td>
 			<td>
-				63 kW
+				32 kW
 			</td>
 			<td>
-				 25 m 36 s
+				 35 m 2 s
 			</td>
 			<td>
 				72,0 kWh
@@ -1525,10 +1525,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				91%
 			</td>
 			<td>
-				59 kW
+				30 kW
 			</td>
 			<td>
-				 26 m 27 s
+				 36 m 42 s
 			</td>
 			<td>
 				72,8 kWh
@@ -1539,10 +1539,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				92%
 			</td>
 			<td>
-				53 kW
+				24 kW
 			</td>
 			<td>
-				 27 m 22 s
+				 38 m 37 s
 			</td>
 			<td>
 				73,6 kWh
@@ -1553,10 +1553,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				93%
 			</td>
 			<td>
-				50 kW
+				19 kW
 			</td>
 			<td>
-				 28 m 23 s
+				 41 m 1 s
 			</td>
 			<td>
 				74,4 kWh
@@ -1567,10 +1567,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				94%
 			</td>
 			<td>
-				44 kW
+				14 kW
 			</td>
 			<td>
-				 29 m 28 s
+				 44 m 9 s
 			</td>
 			<td>
 				75,2 kWh
@@ -1581,10 +1581,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				95%
 			</td>
 			<td>
-				40 kW
+				10 kW
 			</td>
 			<td>
-				 30 m 42 s
+				 48 m 27 s
 			</td>
 			<td>
 				76,0 kWh
@@ -1595,10 +1595,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				96%
 			</td>
 			<td>
-				36 kW
+				10 kW
 			</td>
 			<td>
-				 32 m 4 s
+				 53 m 39 s
 			</td>
 			<td>
 				76,8 kWh
@@ -1609,10 +1609,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				97%
 			</td>
 			<td>
-				31 kW
+				10 kW
 			</td>
 			<td>
-				 33 m 36 s
+				 58 m 59 s
 			</td>
 			<td>
 				77,6 kWh
@@ -1623,10 +1623,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				98%
 			</td>
 			<td>
-				23 kW
+				9 kW
 			</td>
 			<td>
-				 35 m 31 s
+				1 h 4 m 25 s
 			</td>
 			<td>
 				78,4 kWh
@@ -1637,10 +1637,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				99%
 			</td>
 			<td>
-				16 kW
+				9 kW
 			</td>
 			<td>
-				 38 m 10 s
+				1 h 9 m 58 s
 			</td>
 			<td>
 				79,2 kWh
@@ -1651,10 +1651,10 @@ Hyundai Ioniq 5 N har batterioppvarming, noe som gjør lading ved en optimal bat
 				100%
 			</td>
 			<td>
-				12 kW
+				9 kW
 			</td>
 			<td>
-				 41 m 51 s
+				1 h 15 m 38 s
 			</td>
 			<td>
 				80,0 kWh

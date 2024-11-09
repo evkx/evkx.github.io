@@ -624,7 +624,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 ### Asientos delanteros
 
 
-#### standard
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>
@@ -659,7 +659,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -675,7 +675,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -691,7 +691,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -699,7 +699,152 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Función estándar
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 18-way
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				Asiento del conductor y del pasajero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste de la profundidad del asiento
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste de altura del asiento
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del ángulo del respaldo
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memoria
+			</td>
+			<td>
+				Conductor estándar, no disponible para el pasajero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Conductor estándar, no disponible para el pasajero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>
@@ -715,7 +860,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -723,7 +868,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				No disponible
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -796,7 +941,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar, asientos exteriores
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +949,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -820,7 +965,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +973,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +981,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +989,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>

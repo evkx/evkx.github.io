@@ -82,7 +82,7 @@ The Lucid Gravity Grand Touring offers multiple wheel options in different sizes
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The tailgate is electrically powered.
 
 There is only one roof option for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
@@ -92,7 +92,7 @@ There is only one roof option for this model. The windshield is panoramic going 
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
+You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -100,27 +100,35 @@ Lucid Gravity Grand Touring is available in a standard five-seat configuration, 
 
 #### First Row Seats
 
-The Lucid Gravity Grand Touring offers a single type of front seat.
+The front row offers two seat types to cater to various comfort and style preferences:
 
-The following functionalities are available on the **standard** seat:
+The following functionalities are available on the **12-way** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
-- Length adjustable headrest
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+
+The following functionalities are available on the **18-way** seat:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest (standard for driver, not available for passenger)
+- Length adjustable headrest (standard for passenger seat)
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (electrically adjustable)
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (electrically adjustable)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-
-Available in:
-
--  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/frontseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -128,7 +136,9 @@ Available in:
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- Height adjustable headrest (standard for outer seats)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -253,5 +263,22 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 16.11.2023, with deliveries anticipated to begin in March 2025.
+This model made its world premiere on 16.11.2023, with deliveries anticipated to begin in March 2025. Please note that this model is available exclusively in North America.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $94 900,00 (USA)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Lucid Gravity Grand Touring that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+
+<a href="https://db.evkx.net/evcompare?evs=a31c10%2c45dd09%2cb8df50%2caba51d" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Lucid Gravity" f_url="rangeandconsumption/" f_title="Range" >}}

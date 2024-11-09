@@ -624,7 +624,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 ### Vordersitze
 
 
-#### standard
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>
@@ -659,7 +659,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -675,7 +675,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -691,7 +691,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -699,7 +699,152 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Oberschenkelstütze
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze der Rückenlehne
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze des Sitzkissens
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fußstütze für Passagiere
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstütze für Passagiere
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrische Lendenwirbelstütze
+			</td>
+			<td>
+				Standard elektrische Funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sitzbelüftung
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 18-way
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sitztyp
+			</td>
+			<td>
+				Fahrer- und Beifahrersitz
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sitztiefenverstellung
+			</td>
+			<td>
+				Standard elektrische Funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sitzhöhenverstellung
+			</td>
+			<td>
+				Standard elektrische Funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellung des Rückenlehnenwinkels
+			</td>
+			<td>
+				Standard elektrische Funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standard elektrische Funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Speicher
+			</td>
+			<td>
+				Standard Fahrer, nicht verfügbar für Beifahrer
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höhenverstellbare Kopfstütze
+			</td>
+			<td>
+				Standard Fahrer, nicht verfügbar für Beifahrer
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Längenverstellbare Kopfstütze
+			</td>
+			<td>
+				Standard Beifahrersitz
 			</td>
 		</tr>
 		<tr>
@@ -715,7 +860,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -723,7 +868,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -796,7 +941,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Standardfunktion, äußere Sitze
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +949,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -820,7 +965,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +973,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +981,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +989,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

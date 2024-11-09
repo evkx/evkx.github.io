@@ -624,7 +624,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 ### Sièges avant
 
 
-#### standard
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>
@@ -659,7 +659,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -675,7 +675,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -691,7 +691,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -699,7 +699,152 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 18-way
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				Siège conducteur et passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la profondeur du siège
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la hauteur du siège
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Mémoire
+			</td>
+			<td>
+				Conducteur standard, non disponible pour le passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Conducteur standard, non disponible pour le passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>
@@ -715,7 +860,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -723,7 +868,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -796,7 +941,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonction standard, sièges extérieurs
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +949,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -820,7 +965,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +973,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +981,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +989,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

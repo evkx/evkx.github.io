@@ -624,7 +624,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 ### Forseter
 
 
-#### standard
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>
@@ -659,7 +659,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -675,7 +675,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -691,7 +691,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -699,7 +699,152 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+				Standard elektrisk funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 18-way
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Standard elektrisk funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Standard elektrisk funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Standard elektrisk funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standard elektrisk funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minne
+			</td>
+			<td>
+				Standard fører, ikke tilgjengelig for passasjer
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+				Standard fører, ikke tilgjengelig for passasjer
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Standard passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -715,7 +860,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -723,7 +868,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -796,7 +941,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon, ytre seter
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +949,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -820,7 +965,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -828,7 +973,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -836,7 +981,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +989,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
