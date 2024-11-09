@@ -249,7 +249,8 @@ The Mercedes-EQ G 580 EQ offers [driving automation at levels 1,2 or 3](../../..
 
 With the Driver Assistance Package level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the optional Driver Assistance Package Plus level 2 system, you get additional driving automation features to the ones listed above:
 

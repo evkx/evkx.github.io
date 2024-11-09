@@ -213,7 +213,8 @@ Mit dem Ford Co-Pilot360™ 2.0 Level 1 System erhalten Sie die folgenden Fahrau
 
 Mit dem optionalen Ford Co-Pilot360™ Assist 2.0 Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 
 Mit dem optionalen Ford Co-Pilot360™ Active 2.0 Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 

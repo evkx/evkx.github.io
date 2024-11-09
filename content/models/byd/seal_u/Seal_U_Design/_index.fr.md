@@ -219,7 +219,8 @@ Le BYD Seal U Design comprend plusieurs [systèmes avancés d'assistance au cond
 
 Avec le système standard Smart Pilot de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 {{<evkxdisplayaddarticle />}}
 

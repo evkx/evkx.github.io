@@ -249,7 +249,8 @@ Volkswagen ID.3 GTX offre [l'automatisation de la conduite aux niveaux 1 ou 2](.
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
-- Régulateur de vitesse. - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
+- Régulateur de vitesse.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 Avec le système  de niveau 1, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
 

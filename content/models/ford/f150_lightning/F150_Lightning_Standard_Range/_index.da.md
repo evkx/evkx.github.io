@@ -213,7 +213,8 @@ Med Ford Co-Pilot360™ 2.0 niveau 1-systemet får du følgende funktioner til k
 
 Med det valgfrie Ford Co-Pilot360™ Assist 2.0 niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med det valgfrie Ford Co-Pilot360™ Active 2.0 niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 

@@ -308,11 +308,13 @@ The Audi Q4 55 e-tron quattro offers [driving automation at levels 1 or 2](../..
 
 With the Adaptive Cruise Control level 1 system, you get the following driving automation features.
 
-- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Cruise control.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the optional Assistantpackage Tour level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras

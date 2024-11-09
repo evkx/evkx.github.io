@@ -272,11 +272,13 @@ Audi e-tron S tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../tech
 
 Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
-- Fartsbegrenser. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- Fartsbegrenser.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 Med det valgfrie Assistantpackage Tour nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 ### Sensorer & Kameraer
 

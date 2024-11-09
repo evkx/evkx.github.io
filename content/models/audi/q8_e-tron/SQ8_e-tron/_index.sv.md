@@ -272,11 +272,13 @@ Audi SQ8 e-tron erbjuder [körautomatisering på nivå 1 eller 2](../../../../te
 
 Med  nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- Farthållare. - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- Farthållare.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med det valfria Assistantpackage Tour nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror
 

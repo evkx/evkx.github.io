@@ -251,7 +251,8 @@ Mercedes-AMG EQE 43 4MATIC tilbyder [køreautomatisering på niveau 1 eller 2](.
 
 Med Driver Assistance Package niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med det valgfrie Driver Assistance Package Plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 

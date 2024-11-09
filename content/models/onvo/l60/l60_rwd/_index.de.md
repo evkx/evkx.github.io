@@ -253,7 +253,8 @@ Der Onvo L60 RWD verfügt über eine Reihe von standardmäßigen und optionalen 
 
 Mit dem standardmäßigen Onvo Self Driving Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 ### Sensoren & Kameras
 

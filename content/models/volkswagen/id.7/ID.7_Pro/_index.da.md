@@ -260,7 +260,7 @@ Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 ### Sensorer & Kameraer
 

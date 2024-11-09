@@ -277,7 +277,8 @@ Med DreamDrive Premium nivå 1-systemet får du ekstra kjøreautomatiseringsfunk
 Med det valgfrie DreamDrive Pro nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- Trafikklys kontroll - følger trafikklysene.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- Trafikklys kontroll - følger trafikklysene.
 
 ### Sensorer & Kameraer
 

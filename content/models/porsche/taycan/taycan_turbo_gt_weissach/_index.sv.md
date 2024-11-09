@@ -221,7 +221,8 @@ Porsche Taycan Turbo GT Weissach erbjuder [körautomatisering på nivå 1 eller 
 
 Med  nivå 1-systemet får du följande funktioner för körautomatisering.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 

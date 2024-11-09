@@ -277,7 +277,8 @@ Med DreamDrive Premium nivå 1-systemet får du ytterligare funktioner för kör
 Med det valfria DreamDrive Pro nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).- Trafikljuskontroll - följer trafikljusen.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- Trafikljuskontroll - följer trafikljusen.
 
 ### Sensorer & Kameror
 

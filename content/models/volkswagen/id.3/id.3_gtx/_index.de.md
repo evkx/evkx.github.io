@@ -249,7 +249,8 @@ Der Volkswagen ID.3 GTX bietet [Fahrautomatisierung
 
 Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 
-- Geschwindigkeitsregelung. - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+- Geschwindigkeitsregelung.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 
 Mit dem  Level 1 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 

@@ -277,7 +277,8 @@ With the DreamDrive Premium level 1 system, you get thadditional driving automat
 With the optional DreamDrive Pro level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).- Traffic light control - follow traffic lights.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- Traffic light control - follow traffic lights.
 
 ### Sensors & Cameras
 

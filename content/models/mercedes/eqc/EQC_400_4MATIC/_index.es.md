@@ -200,7 +200,8 @@ Mercedes-EQ EQC 400 4MATIC ofrece [automatización de la conducción en nivel 1]
 
 Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 {{<evkxdisplayaddarticle />}}
 

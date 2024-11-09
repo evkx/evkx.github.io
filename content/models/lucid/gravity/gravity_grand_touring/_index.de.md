@@ -277,7 +277,8 @@ Mit dem DreamDrive Premium Level 1 System erhalten Sie zusätzliche Fahrautomati
 Mit dem optionalen DreamDrive Pro Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).- Ampelsteuerung - folgen Sie den Ampeln.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+- Ampelsteuerung - folgen Sie den Ampeln.
 
 ### Sensoren & Kameras
 

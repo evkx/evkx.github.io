@@ -213,7 +213,8 @@ Med Ford Co-Pilot360™ 2.0 nivå 1-systemet får du följande funktioner för k
 
 Med det valfria Ford Co-Pilot360™ Assist 2.0 nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med det valfria Ford Co-Pilot360™ Active 2.0 nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 

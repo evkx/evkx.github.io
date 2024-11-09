@@ -248,7 +248,8 @@ The Volkswagen ID.3 GTX Performance offers [driving automation at levels 1 or 2]
 
 With the standard system the model offers no driving automation.
 
-- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- Cruise control.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 With the  level 1 system, you get thadditional driving automation features to the ones listed above:
 

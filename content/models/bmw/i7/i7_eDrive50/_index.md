@@ -242,11 +242,13 @@ The BMW i7 eDrive50 offers [driving automation at levels 1 or 2](../../../../tec
 
 With the Driving Assistant level 1 system, you get the following driving automation features.
 
-- Cruise control. - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- Cruise control.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the optional Driving Assistant Professional level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 {{<evkxdisplayaddarticle />}}
 

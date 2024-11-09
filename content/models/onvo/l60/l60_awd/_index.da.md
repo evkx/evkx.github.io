@@ -257,7 +257,8 @@ Den Onvo L60 AWD inkluderer flere standard- og valgfri [avancerede førerassiste
 
 Med standard Onvo Self Driving niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
-- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 ### Sensorer & Kameraer
 

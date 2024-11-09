@@ -274,7 +274,8 @@ Porsche Taycan 4S Sport Turismo (GEN1) ofrece [automatización de la conducción
 
 Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema opcional Porsche InnoDrive de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 

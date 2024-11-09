@@ -252,7 +252,8 @@ Mercedes-EQ EQS 450 4MATIC SUV offre [l'automatisation de la conduite aux niveau
 
 Avec le système Driver Assistance Package de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système optionnel Driver Assistance Package Plus de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 

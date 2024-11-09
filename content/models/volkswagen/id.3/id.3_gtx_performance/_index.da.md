@@ -248,7 +248,8 @@ Volkswagen ID.3 GTX Performance tilbyder [køreautomatisering på niveau 1 eller
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
-- Fartpilot. - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- Fartpilot.
+- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med  niveau 1-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
 

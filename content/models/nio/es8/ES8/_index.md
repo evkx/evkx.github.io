@@ -242,7 +242,8 @@ The Nio ES8 offers [driving automation at levels 1 or 2](../../../../technology/
 
 With the NIO Pilot Selected Pack level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the optional NIO Pilot Complete Pack level 2 system, you get additional driving automation features to the ones listed above:
 

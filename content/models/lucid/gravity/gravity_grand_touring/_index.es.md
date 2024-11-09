@@ -277,7 +277,8 @@ Con el sistema DreamDrive Premium de nivel 1, obtienes funciones adicionales de 
 Con el sistema opcional DreamDrive Pro de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).- Control de semáforos - sigue los semáforos.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
+- Control de semáforos - sigue los semáforos.
 
 ### Sensores y Cámaras
 

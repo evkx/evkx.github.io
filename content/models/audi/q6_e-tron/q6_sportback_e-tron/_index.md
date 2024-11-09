@@ -318,7 +318,8 @@ The Audi Q6 Sportback e-tron offers [driving automation at levels 1 or 2](../../
 
 With the  level 1 system, you get the following driving automation features.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the optional Adaptive Cruise Assist level 2 system, you get additional driving automation features to the ones listed above:
 

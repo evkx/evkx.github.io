@@ -324,7 +324,8 @@ Audi Q6 e-tron performance offre [l'automatisation de la conduite aux niveaux 1 
 
 Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système optionnel Adaptive Cruise Assist de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 

@@ -262,7 +262,8 @@ BMW i5 M60 xDrive Touring ofrece [automatización de la conducción en niveles 1
 
 Con el sistema Driving Assistant de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
-- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema opcional Driving Assistant Professional de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 

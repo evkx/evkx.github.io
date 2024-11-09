@@ -307,7 +307,8 @@ Der Audi A6 Avant e-tron bietet [Fahrautomatisierung
 
 Mit dem Standard Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
-- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 Mit dem optionalen Adaptive Cruise Assist Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 

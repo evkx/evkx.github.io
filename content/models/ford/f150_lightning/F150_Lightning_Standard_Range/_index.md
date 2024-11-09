@@ -213,7 +213,8 @@ With the Ford Co-Pilot360™ 2.0 level 1 system, you get the following driving a
 
 With the optional Ford Co-Pilot360™ Assist 2.0 level 2 system, you get additional driving automation features to the ones listed above:
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 With the optional Ford Co-Pilot360™ Active 2.0 level 2 system, you get additional driving automation features to the ones listed above:
 

@@ -214,7 +214,8 @@ Avec le système Ford Co-Pilot360™ 2.0 de niveau 1, vous obtenez les fonctionn
 
 Avec le système optionnel Ford Co-Pilot360™ Assist 2.0 de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/) - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 Avec le système optionnel Ford Co-Pilot360™ Active 2.0 de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
