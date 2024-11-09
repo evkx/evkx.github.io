@@ -217,7 +217,7 @@ Avec le système standard Leapmotor Pilot  de niveau 2, vous obtenez les fonctio
 ### Capteurs & Caméras
 
 Ce modèle utilise des caméras, des radars, des capteurs LiDAR et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), sept [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), sept [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

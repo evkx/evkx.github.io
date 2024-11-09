@@ -836,7 +836,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Standard Fahrer, nicht verfügbar für Beifahrer
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Standard Beifahrersitz
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

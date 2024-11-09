@@ -836,7 +836,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Standard fører, ikke tilgængelig for passager
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Standard passagersæde
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

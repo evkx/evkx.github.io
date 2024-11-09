@@ -46,6 +46,10 @@ Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-op
 
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/# nacs) for Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se de fulde specifikationer for alle markeder.
 
+### Bidirektionel opladning
+
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 1,8 kW effekt, inklusive opladning af andre køretøjer.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -60,7 +64,7 @@ Du kan bestille Lucid Gravity Grand Touring med en alternativ  hjulophæng. Forh
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Lucid Gravity Grand Touring. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er en standard-funktion på Lucid Gravity Grand Touring. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
 
@@ -82,7 +86,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Gravity Gran
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Bagklappen er elektrisk drevet.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene. Bagklappen er elektrisk drevet.
 
 Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første række. Derudover er der glaspanel over anden række. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
@@ -119,8 +123,7 @@ Følgende funktioner er tilgængelige på **18-way** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte (standard for fører, ikke tilgængelig for passager)
-- længdejusterbar nakkestøtte (standard for passagersæde)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -161,11 +164,14 @@ Lucid Gravity Grand Touring inkluderer flere funktioner, der forbedrer komfort o
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
 
 Vigtige skærmdetaljer:
 
@@ -188,9 +194,20 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ## Infotainment
 
+Lucid Gravity Grand Touring har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Lucid integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
+
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger og satellitkort, der sikrer en effektiv og stressfri rejse.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- Tidal
+- **TuneIn** Få adgang til live radiostationer, podcasts og nyheder fra hele verden.
+- Alexa
 
 ### Lydsystem
 
@@ -198,7 +215,18 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 - Med Surreal Sound Pro System får du 22 højttalere med en maksimal systemeffekt på  watt.
 
-Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
+## Mobilapp
+
+Den Lucid Gravity Grand Touring kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
+- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
 
 ## Lys
 
@@ -248,6 +276,21 @@ Med det valgfrie DreamDrive Pro niveau 2-system får du yderligere funktioner ti
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Trafiklys kontrol - følg trafiklysene.
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til sine førerassistentsystemer.
+Op til fire [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerhed
+
+Lucid Gravity Grand Touring er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+
+- Frontairbags til føreren og forsædepassageren
+- Sidegardinairbags til både første og anden række
+- Sideairbags til føreren og forsædepassageren
+- Sideairbags til passagererne i anden række
+- En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
 
 {{<evkxdisplayaddarticle />}}
 

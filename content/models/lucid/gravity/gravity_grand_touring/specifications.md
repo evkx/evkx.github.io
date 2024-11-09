@@ -836,7 +836,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Standard driver, not available passenger
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Standard passenger seat
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ This model is available with a seat configuration with five or seven seats.
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

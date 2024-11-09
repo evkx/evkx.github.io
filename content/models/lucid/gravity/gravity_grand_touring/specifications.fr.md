@@ -836,7 +836,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Conducteur standard, non disponible pour le passager
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Siège passager standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

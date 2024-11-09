@@ -836,7 +836,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standard fører, ikke tilgjengelig for passasjer
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standard passasjersete
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

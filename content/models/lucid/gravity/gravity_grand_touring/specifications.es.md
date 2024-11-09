@@ -836,7 +836,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Conductor estándar, no disponible para el pasajero
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Asiento de pasajero estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

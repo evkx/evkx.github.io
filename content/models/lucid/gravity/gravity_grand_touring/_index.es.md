@@ -46,6 +46,10 @@ El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Niv
 
 La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**NACS**](../../../../technology/charging/connectors/#nacs) para Norteamérica y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) para Europa. Consulte las especificaciones completas para todos los mercados.
 
+### Carga bidireccional
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 1,8 kW de potencia, incluida la carga de otros vehículos.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión
@@ -60,7 +64,7 @@ Puedes pedir Lucid Gravity Grand Touring con una suspensión alternativa . La su
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Lucid Gravity Grand Touring. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una característica un estándar en el Lucid Gravity Grand Touring. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un opcional. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
 
@@ -82,7 +86,7 @@ Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). La puerta trasera funciona eléctricamente.
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un estándar para las puertas laterales. La puerta trasera funciona eléctricamente.
 
 Sólo hay un techo para este modelo. El parabrisas es panorámico cubriendo la primera fila. Además, hay un panel de vidrio sobre la segunda fila. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
@@ -119,8 +123,7 @@ Las siguientes funcionalidades están disponibles en el asiento **18-way**.
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura (estándar para el conductor, no disponible para el pasajero)
-- reposacabezas de longitud ajustable (estándar para asiento del pasajero)
+- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
@@ -161,11 +164,14 @@ El Lucid Gravity Grand Touring incluye varias características para mejorar la c
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
+- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico está centrada en la interacción con la pantalla y solo tiene una funcionalidad limitada disponible en botones y palancas. Para algunos, esto puede resultar en una experiencia de usuario y usabilidad menos que ideal.
 
 Detalles clave de la pantalla:
 
@@ -188,9 +194,20 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ## Infoentretenimiento
 
+El Lucid Gravity Grand Touring cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, Lucid ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.
+
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real y mapas satelitales que garantizan un viaje eficiente y sin estrés.
+
+### App Store
+
+El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- Tidal
+- **TuneIn** Accede a estaciones de radio en vivo, podcasts y noticias de todo el mundo.
+- Alexa
 
 ### Sistema de sonido
 
@@ -198,7 +215,18 @@ Un tipo de sistema de sonido está disponible para el Lucid Gravity Grand Tourin
 
 - Con el Surreal Sound Pro System, obtienes 22 parlantes con una salida máxima del sistema de  vatios.
 
-El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
+## Aplicación móvil
+
+El Lucid Gravity Grand Touring viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
+- **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
+- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
 
 ## Luces
 
@@ -248,6 +276,21 @@ Con el sistema opcional DreamDrive Pro de nivel 2, obtienes funciones adicionale
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de semáforos - sigue los semáforos.
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cuatro [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean el entorno del vehículo.
+
+## Seguridad
+
+El Lucid Gravity Grand Touring está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Airbags laterales para los pasajeros de la segunda fila
+- Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
 
 {{<evkxdisplayaddarticle />}}
 

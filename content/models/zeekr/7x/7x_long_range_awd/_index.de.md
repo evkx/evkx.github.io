@@ -268,7 +268,7 @@ Mit dem standardmäßigen NZP Pilot Assist Level 2 System erhalten Sie die folge
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/), und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

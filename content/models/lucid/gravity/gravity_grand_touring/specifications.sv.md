@@ -836,7 +836,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Standard förare, inte tillgänglig för passagerare
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -844,7 +844,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Standard passagerarsäte
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -884,7 +884,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Temperature Warning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
