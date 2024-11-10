@@ -319,6 +319,8 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 El Audi Q8 55 e-tron está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
 
 - **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Funcionalidad de teléfono como llave:** La tecnología opcional de teléfono como llave le permite usar su teléfono inteligente como una llave digital, agregando conveniencia y flexibilidad para desbloquear y arrancar el vehículo.
+- **Sistema de alarma:** Un sistema de alarma integrado opcional monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mejorar la seguridad del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

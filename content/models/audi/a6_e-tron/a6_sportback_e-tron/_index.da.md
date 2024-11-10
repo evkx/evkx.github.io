@@ -324,6 +324,8 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Audi A6 Sportback e-tron er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
 
 - **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktionalitet:** Den valgfrie telefon-som-nøgle teknologi giver dig mulighed for at bruge din smartphone som en digital nøgle, hvilket tilføjer bekvemmelighed og fleksibilitet til at låse og starte køretøjet.
+- **Alarmsystem:** Et valgfrit integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og forbedre køretøjets sikkerhed.
 
 {{<evkxdisplayaddarticle />}}
 

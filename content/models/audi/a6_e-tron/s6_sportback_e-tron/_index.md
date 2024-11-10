@@ -317,6 +317,8 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The Audi S6 Sportback e-tron is equipped with advanced security features to protect you and your vehicle. These include:
 
 - **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
+- **Phone-as-Key Functionality:** The optional phone-as-key technology allows you to use your smartphone as a digital key, adding convenience and flexibility for unlocking and starting the vehicle.
+- **Alarm System:** An optional integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and enhance vehicle security.
 
 {{<evkxdisplayaddarticle />}}
 

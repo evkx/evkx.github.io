@@ -278,9 +278,11 @@ Il utilise huit [caméras](../../../../technology/sensorsandcameras/cameras/) po
 
 Le Tesla Model Y Long Range RWD est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
-- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 - **Fonctionnalité téléphone comme clé :** Avec la technologie téléphone comme clé, vous pouvez utiliser votre smartphone comme clé numérique pour déverrouiller et démarrer le véhicule, offrant une couche supplémentaire de commodité et de flexibilité.
 - **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
+- **Caméra de bord intégrée :** La caméra de bord intégrée enregistre des séquences vidéo de vos trajets, capturant des détails clés pour offrir une sécurité accrue, une responsabilité et une tranquillité d'esprit.
+- **Surveillance de stationnement :** Grâce à sa suite de caméras, le véhicule surveille activement les environs lorsqu'il est stationné, offrant une protection accrue grâce à une surveillance continue.
 
 {{<evkxdisplayaddarticle />}}
 

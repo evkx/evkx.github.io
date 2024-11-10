@@ -311,6 +311,8 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Audi Q8 Sportback 50 e-tron er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
+- **Telefon som nøkkelfunksjonalitet:** Den valgfrie telefon som nøkkelteknologien lar deg bruke smarttelefonen som en digital nøkkel, og gir bekvemmelighet og fleksibilitet for å låse opp og starte kjøretøyet.
+- **Alarmsystem:** Et valgfritt integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og forbedre kjøretøyets sikkerhet.
 
 {{<evkxdisplayaddarticle />}}
 

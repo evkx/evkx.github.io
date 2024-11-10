@@ -319,6 +319,8 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Audi Q8 50 e-tron är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
 - **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckelfunktionalitet:** Den valfria telefon som nyckelteknologin låter dig använda din smartphone som en digital nyckel, vilket ger bekvämlighet och flexibilitet för att låsa upp och starta fordonet.
+- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och förbättra fordonets säkerhet.
 
 {{<evkxdisplayaddarticle />}}
 

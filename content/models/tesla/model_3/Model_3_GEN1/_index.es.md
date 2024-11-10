@@ -236,7 +236,11 @@ Utiliza ocho [cámaras](../../../../technology/sensorsandcameras/cameras/) para 
 
 El Tesla Model 3 (GEN1) está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Funcionalidad de teléfono como llave:** Con la tecnología de teléfono como llave, puede usar su teléfono inteligente como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
+- **Sistema de alarma:** Un sistema de alarma integrado monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mantener su vehículo seguro.
+- **Dashcam integrada:** La dashcam incorporada graba imágenes de video de sus viajes, capturando detalles clave para proporcionar mayor seguridad, responsabilidad y tranquilidad.
+- **Vigilancia de estacionamiento:** Utilizando su conjunto de cámaras, el vehículo monitorea activamente los alrededores mientras está estacionado, ofreciendo una protección mejorada a través de una vigilancia continua.
 
 {{<evkxdisplayaddarticle />}}
 

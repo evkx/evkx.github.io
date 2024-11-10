@@ -242,6 +242,10 @@ Den bruger syv [kameraer](../../../../technology/sensorsandcameras/cameras/) til
 Tesla Model 3 Long Range RWD er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
 
 - **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
+- **Integreret Dashcam:** Den indbyggede dashcam optager videooptagelser af dine rejser og fanger vigtige detaljer for at give ekstra sikkerhed, ansvarlighed og ro i sindet.
+- **Parkeringsovervågning:** Ved hjælp af sit kamerasystem overvåger køretøjet aktivt omgivelserne, mens det er parkeret, og tilbyder forbedret beskyttelse gennem kontinuerlig overvågning.
 
 {{<evkxdisplayaddarticle />}}
 

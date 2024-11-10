@@ -278,9 +278,11 @@ It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 
 The Tesla Model Y Long Range is equipped with advanced security features to protect you and your vehicle. These include:
 
-- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 - **Phone-as-Key Functionality:** With phone-as-key technology, you can use your smartphone as a digital key to unlock and start the vehicle, providing an additional layer of convenience and flexibility.
 - **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
+- **Integrated Dashcam:** The built-in dashcam records video footage of your journeys, capturing key details to provide added security, accountability, and peace of mind.
+- **Parking Surveillance:** Using its suite of cameras, the vehicle actively monitors the surroundings while parked, offering enhanced protection through continuous surveillance.
 
 {{<evkxdisplayaddarticle />}}
 

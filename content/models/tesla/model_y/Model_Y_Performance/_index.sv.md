@@ -278,9 +278,11 @@ Den använder åtta [kameror](../../../../technology/sensorsandcameras/cameras/)
 
 Tesla Model Y Performance är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 - **Telefon som nyckelfunktionalitet:** Med telefon som nyckelteknologi kan du använda din smartphone som en digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
 - **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
+- **Integrerad dashcam:** Den inbyggda dashcamen spelar in videofilmer av dina resor och fångar viktiga detaljer för att ge ökad säkerhet, ansvarsskyldighet och sinnesro.
+- **Parkeringsövervakning:** Med hjälp av sitt kamerasystem övervakar fordonet aktivt omgivningen medan det är parkerat och ger ökat skydd genom kontinuerlig övervakning.
 
 {{<evkxdisplayaddarticle />}}
 

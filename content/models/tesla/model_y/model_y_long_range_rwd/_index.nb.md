@@ -278,9 +278,11 @@ Den bruker åtte [kameraer](../../../../technology/sensorsandcameras/cameras/) f
 
 Tesla Model Y Long Range RWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
-- **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
+- **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 - **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
 - **Alarmsystem:** Et integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og holde kjøretøyet ditt sikkert.
+- **Integrert dashbordkamera:** Det innebygde dashbordkameraet tar opp videoopptak av dine reiser, og fanger opp viktige detaljer for å gi økt sikkerhet, ansvarlighet og trygghet.
+- **Parkeringsovervåking:** Ved hjelp av sitt kamerasystem overvåker kjøretøyet aktivt omgivelsene mens det er parkert, og gir økt beskyttelse gjennom kontinuerlig overvåking.
 
 {{<evkxdisplayaddarticle />}}
 

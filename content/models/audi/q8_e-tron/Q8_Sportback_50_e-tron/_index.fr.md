@@ -311,6 +311,8 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 Le Audi Q8 Sportback 50 e-tron est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 - **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Fonctionnalité téléphone comme clé :** La technologie téléphone comme clé en option vous permet d'utiliser votre smartphone comme clé numérique, ajoutant commodité et flexibilité pour déverrouiller et démarrer le véhicule.
+- **Système d'alarme :** Un système d'alarme intégré en option surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à renforcer la sécurité du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

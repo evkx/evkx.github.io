@@ -312,9 +312,11 @@ Es verwendet acht [Kameras](../../../../technology/sensorsandcameras/cameras/), 
 
 Der Tesla Model Y Standard Range ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
-- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 - **Telefon-als-Schlüssel Funktionalität:** Mit der Telefon-als-Schlüssel-Technologie können Sie Ihr Smartphone als digitalen Schlüssel verwenden, um das Fahrzeug zu entriegeln und zu starten, was zusätzlichen Komfort und Flexibilität bietet.
 - **Alarmsystem:** Ein integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und Ihr Fahrzeug zu sichern.
+- **Integrierte Dashcam:** Die eingebaute Dashcam zeichnet Videoaufnahmen Ihrer Fahrten auf und erfasst wichtige Details, um zusätzliche Sicherheit, Verantwortlichkeit und Seelenfrieden zu bieten.
+- **Parküberwachung:** Mit seinem Kamerasystem überwacht das Fahrzeug aktiv die Umgebung, während es geparkt ist, und bietet durch kontinuierliche Überwachung einen verbesserten Schutz.
 
 {{<evkxdisplayaddarticle />}}
 
