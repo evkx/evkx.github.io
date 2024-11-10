@@ -193,6 +193,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -303,6 +311,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bredde inklusive spejle
+			</td>
+			<td>
+				2180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>
@@ -323,6 +339,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trækningskoefficient
+			</td>
+			<td>
+				0,291
 			</td>
 		</tr>
 		<tr>
@@ -404,6 +428,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				452 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagumskapacitet med alle bagsæder foldet
+			</td>
+			<td>
+				1589 liter
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +708,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1114,6 +1146,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1137,6 +1177,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

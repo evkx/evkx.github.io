@@ -101,7 +101,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
-Das Interieur des Toyota bZ4X AWD ist funktional, mit mittelmäßigen Materialien im gesamten Fahrzeug. Ein herausragendes Merkmal ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet.
+Das Interieur des Toyota bZ4X AWD ist funktional, mit mittelmäßigen Materialien im gesamten Fahrzeug. Ein herausragendes Merkmal ist die zweistufige Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und erweiterte Funktionalität bietet. Sie können zwischen verschiedenen Sitzmaterialien und Innenraumstilen wählen. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -122,6 +122,11 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Verfügbar in:
+
+- Black [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Stoff/Kunstleder-Polsterung](../../../../technology/seats/materials/#fabric)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- LightGray [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 #### Rücksitzreihe
 
@@ -176,13 +181,15 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Toyota bZ4X AWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen problemlos verwalten können.
 
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 ## Infotainment
+
+Das Toyota bZ4X AWD verfügt über ein maßgeschneidertes Infotainmentsystem, das eine Schnittstelle mit einer Vielzahl von Funktionen und Funktionen bietet, um das Fahrerlebnis zu verbessern.
 
 ### Navigationssystem
 
@@ -196,8 +203,8 @@ Der Toyota bZ4X AWD unterstützt Android Auto und Apple CarPlay, sodass Sie den 
 
 Sie können zwischen zwei Soundsystemen für den Toyota bZ4X AWD wählen:
 
-- **Toyota:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **JBL Premium Sound:** Verfügt über neun Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Toyota:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von 120 Watt.
+- **JBL Premium Sound:** Verfügt über neun Lautsprecher und liefert eine maximale Ausgangsleistung von 800 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 
@@ -262,6 +269,15 @@ Mit dem standardmäßigen Lane Tracing Assist Level 2 System erhalten Sie die fo
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
+## Sicherheit
+
+Der Toyota bZ4X AWD ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
 ## Sicherheits- und Zugangstechnologien
 
 Der Toyota bZ4X AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
@@ -290,7 +306,7 @@ Der Toyota bZ4X AWD feierte seine Weltpremiere am 29.10.2021, mit Lieferungen ab
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
-- 507 000,00 NOK (Norwegen)
+- 460 900,00 NOK (Norwegen)
 
 ## Alternative Modelle
 

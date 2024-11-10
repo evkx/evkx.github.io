@@ -193,6 +193,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -303,6 +311,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				2180 mm (85,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Radstand
 			</td>
 			<td>
@@ -323,6 +339,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				1610 mm (63,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftwiderstandsbeiwert
+			</td>
+			<td>
+				0,291
 			</td>
 		</tr>
 		<tr>
@@ -404,6 +428,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				452 Liter (16 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
+			</td>
+			<td>
+				1589 Liter (56 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +708,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1114,6 +1146,14 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Gesamtleistung
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1137,6 +1177,14 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gesamtleistung
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

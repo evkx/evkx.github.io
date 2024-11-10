@@ -193,6 +193,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -303,6 +311,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Distancia entre ejes
 			</td>
 			<td>
@@ -323,6 +339,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Coeficiente de arrastre
+			</td>
+			<td>
+				0,291
 			</td>
 		</tr>
 		<tr>
@@ -404,6 +428,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				452 litro
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1589 litro
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +708,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1114,6 +1146,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1137,6 +1177,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

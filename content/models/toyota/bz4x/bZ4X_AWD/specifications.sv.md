@@ -708,7 +708,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1146,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1169,6 +1177,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

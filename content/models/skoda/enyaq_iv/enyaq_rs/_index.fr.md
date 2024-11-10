@@ -30,17 +30,17 @@ La SKODA ENYAQ RS offre des performances solides avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 77,0 kWh, offrant une réserve de 5,0 kWh (6,1%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 76,6 kWh, offrant une réserve de 5,4 kWh (6,6%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 537 km, avec une consommation d'énergie de 14,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 64 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 100kW. Chaque session de charge prendrait 19 minutes et 1 secondes.
+La vitesse de charge DC maximale est de 175kW. Une charge complète de 0 à 100 % prendrait 61 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 113kW. Chaque session de charge prendrait 20 minutes et 23 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 20 kWh/100 km, le voyage prendrait environ 9 heures et 34 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 42%, avec un temps de recharge total de 74 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 20 kWh/100 km, le voyage prendrait environ 9 heures et 26 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 57%, avec un temps de recharge total de 66 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 0 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 57 minutes à domicile.
 
 ### Port de recharge
 

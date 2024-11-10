@@ -708,7 +708,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1146,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Effet total
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1169,6 +1177,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Effet total
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

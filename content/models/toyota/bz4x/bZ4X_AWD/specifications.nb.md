@@ -708,7 +708,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1146,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1169,6 +1177,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

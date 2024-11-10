@@ -76,6 +76,8 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay cuatro niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
+La potencia regenerativa máxima es de 100 kW.
+
 ## Exterior
 
 El Toyota bZ4X FWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1600 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Toyota bZ4X FWD está disponible en un total de 11 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
@@ -99,7 +101,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-El interior del Toyota bZ4X FWD es funcional, con materiales de calidad media utilizados en todo el vehículo. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
+El interior del Toyota bZ4X FWD es funcional, con materiales de calidad media utilizados en todo el vehículo. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada. Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -119,7 +121,12 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- LightGray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 #### Asiento de segunda fila
 
@@ -174,13 +181,15 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Toyota bZ4X FWD está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También incluye botones físicos, que le permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
 ## Infoentretenimiento
+
+El Toyota bZ4X FWD cuenta con un sistema de infoentretenimiento personalizado diseñado para proporcionar una interfaz con una variedad de características y funciones para mejorar la experiencia de conducción.
 
 ### Sistema de navegación
 
@@ -194,8 +203,8 @@ Además, el Toyota bZ4X FWD es compatible con Android Auto y Apple CarPlay. Esta
 
 Puedes elegir entre dos sistemas de sonido en el Toyota bZ4X FWD.
 
-- Con el Toyota, obtienes seis parlantes con una salida máxima del sistema de  vatios.
-- Con el JBL Premium Sound, obtienes nueve parlantes con una salida máxima del sistema de  vatios.
+- Con el Toyota, obtienes seis parlantes con una salida máxima del sistema de 120 vatios.
+- Con el JBL Premium Sound, obtienes nueve parlantes con una salida máxima del sistema de 800 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -260,6 +269,15 @@ Con el sistema estándar Lane Tracing Assist de nivel 2, obtienes las siguientes
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
+## Seguridad
+
+El Toyota bZ4X FWD está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
+
 ## Tecnologías de seguridad y acceso
 
 El Toyota bZ4X FWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
@@ -272,7 +290,7 @@ El Toyota bZ4X FWD está equipado con características de seguridad avanzadas pa
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 452 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 452 litros. Con el asiento trasero plegado, esto se expande a 1589 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2195 kg, con un peso base de 1945 kg. Esto permite una carga máxima de 250 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 250 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
@@ -282,5 +300,12 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
+Este modelo tuvo un estreno mundial el 29.10.2021 y las entregas comenzaron en July 2022.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- 432 600,00 NOK (Noruega)
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Rango" >}}

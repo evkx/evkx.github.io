@@ -708,7 +708,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1146,14 @@ This model is available with a seat configuration with five seats.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1169,6 +1177,14 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

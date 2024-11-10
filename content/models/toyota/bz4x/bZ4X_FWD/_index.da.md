@@ -76,6 +76,8 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er fire niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
+Den maksimale regenerative effekt er 100 kW.
+
 ## Udvendig
 
 Den Toyota bZ4X FWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1600 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Toyota bZ4X FWD fås i alt 11 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
@@ -99,7 +101,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Interiøret i Toyota bZ4X FWD er funktionelt og har materialer af middel kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet.
+Interiøret i Toyota bZ4X FWD er funktionelt og har materialer af middel kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -119,7 +121,12 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- LightGray [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 #### Sæde på anden række
 
@@ -174,13 +181,15 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 Toyota bZ4X FWD er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
 
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
 ## Infotainment
+
+Toyota bZ4X FWD har et specialbygget infotainmentsystem designet til at give en grænseflade med en række funktioner og funktioner for at forbedre køreoplevelsen.
 
 ### Navigationssystem
 
@@ -194,8 +203,8 @@ Yderligere understøtter Toyota bZ4X FWD Android Auto og Apple CarPlay. Denne fu
 
 Du kan vælge mellem to lydsystemer på Toyota bZ4X FWD.
 
-- Med Toyota får du seks højttalere med en maksimal systemeffekt på  watt.
-- Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
+- Med Toyota får du seks højttalere med en maksimal systemeffekt på 120 watt.
+- Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på 800 watt.
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -260,6 +269,15 @@ Med standard Lane Tracing Assist niveau 2-systemet får du følgende funktioner 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
+## Sikkerhed
+
+Toyota bZ4X FWD er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+
+- Frontairbags til føreren og forsædepassageren
+- Sidegardinairbags til både første og anden række
+- Sideairbags til føreren og forsædepassageren
+- En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+
 ## Sikkerheds- og adgangsteknologier
 
 Toyota bZ4X FWD er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
@@ -272,7 +290,7 @@ Toyota bZ4X FWD er udstyret med avancerede sikkerhedsfunktioner for at beskytte 
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 452 liter. På taget kan du laste op til 80 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+Bagagerummet har en lastekapacitet på 452 liter. Med det bageste sæde foldet ned, udvides dette til 1589 liter. På taget kan du laste op til 80 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 2195 kg, med en basisvægt på 1945 kg. Dette giver en maksimal last på 250 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 250 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
@@ -282,5 +300,12 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
+Denne model havde verdenspremiere den 29.10.2021, og leveringerne startede i July 2022.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 432 600,00 NOK (Norge)
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Range" >}}

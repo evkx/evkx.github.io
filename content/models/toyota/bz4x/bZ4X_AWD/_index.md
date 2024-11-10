@@ -101,7 +101,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The interior of the Toyota bZ4X AWD is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The interior of the Toyota bZ4X AWD is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -122,6 +122,11 @@ The following functionalities are available on the **standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- LightGray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 #### Second Row Seat
 
@@ -176,13 +181,15 @@ A head-up display is an optional system that projects speed and other important 
 
 The Toyota bZ4X AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
+
+The Toyota bZ4X AWD features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
 
 ### Navigation System
 
@@ -196,8 +203,8 @@ The Toyota bZ4X AWD supports Android Auto and Apple CarPlay, allowing you to mir
 
 You can choose between two sound systems for the Toyota bZ4X AWD:
 
-- **Toyota:** Features six speakers and delivers a maximum output of  watts.
-- **JBL Premium Sound:** Features nine speakers and delivers a maximum output of  watts.
+- **Toyota:** Features six speakers and delivers a maximum output of 120 watts.
+- **JBL Premium Sound:** Features nine speakers and delivers a maximum output of 800 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -262,6 +269,15 @@ With the standard Lane Tracing Assist level 2 system, you get the following driv
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
+## Safety
+
+The Toyota bZ4X AWD is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
 ## Security and Access Technologies
 
 The Toyota bZ4X AWD is equipped with advanced security features to protect you and your vehicle. These include:
@@ -290,7 +306,7 @@ The Toyota bZ4X AWD had its world premiere on 29.10.2021, with deliveries starti
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- 507 000,00 NOK (Norway)
+- 460 900,00 NOK (Norway)
 
 ## Alternative Models
 

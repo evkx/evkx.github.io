@@ -101,7 +101,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Interiøret i Toyota bZ4X AWD er funksjonelt, med materialer av middels kvalitet brukt gjennomgående. Den delt nivå midtkonsollen skiller fører og passasjer, og tilbyr praktiske lagringsalternativer og forbedret funksjonalitet.
+Interiøret i Toyota bZ4X AWD er funksjonelt, med materialer av middels kvalitet brukt gjennomgående. Den delt nivå midtkonsollen skiller fører og passasjer, og tilbyr praktiske lagringsalternativer og forbedret funksjonalitet. Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -121,7 +121,12 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- LightGray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 #### Seter på andre rad
 
@@ -176,13 +181,15 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 Toyota bZ4X AWD er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Rundt Ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også fysiske knapper, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet.
 
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
 ## Infotainment
+
+Toyota bZ4X AWD har et spesialbygd infotainmentsystem designet for å gi et grensesnitt med en rekke funksjoner og funksjoner for å forbedre kjøreopplevelsen.
 
 ### Navigasjonssystem
 
@@ -196,8 +203,8 @@ I tillegg støtter Toyota bZ4X AWD Android Auto og Apple CarPlay. Denne funksjon
 
 Du kan velge mellom to lydsystemer på Toyota bZ4X AWD.
 
-- Med Toyota får du seks høyttalere med en maksimal systemeffekt på  watt.
-- Med JBL Premium Sound får du ni høyttalere med en maksimal systemeffekt på  watt.
+- Med Toyota får du seks høyttalere med en maksimal systemeffekt på 120 watt.
+- Med JBL Premium Sound får du ni høyttalere med en maksimal systemeffekt på 800 watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -262,6 +269,15 @@ Med standard Lane Tracing Assist nivå 2-system får du følgende kjøreautomati
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
 Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
+## Sikkerhet
+
+Toyota bZ4X AWD er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
 ## Sikkerhets- og tilgangsteknologier
 
 Toyota bZ4X AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
@@ -290,7 +306,7 @@ Toyota bZ4X AWD hadde sin verdenspremiere den 29.10.2021, med leveranser som sta
 
 Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
 
-- 507 000,00 NOK (Norge)
+- 460 900,00 NOK (Norge)
 
 ## Alternative Modeller
 

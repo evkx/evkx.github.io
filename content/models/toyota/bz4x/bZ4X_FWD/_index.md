@@ -76,6 +76,8 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are four levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+The maximum regenerative power is 100 kW.
+
 ## Exterior
 
 The Toyota bZ4X FWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1600 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Toyota bZ4X FWD is available in a total of 11 paint colors, including solid, metallic, and pearlescent options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
@@ -99,7 +101,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The interior of the Toyota bZ4X FWD is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The interior of the Toyota bZ4X FWD is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -120,6 +122,11 @@ The following functionalities are available on the **standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- LightGray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 #### Second Row Seat
 
@@ -174,13 +181,15 @@ A head-up display is an optional system that projects speed and other important 
 
 The Toyota bZ4X FWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
+
+The Toyota bZ4X FWD features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
 
 ### Navigation System
 
@@ -194,8 +203,8 @@ The Toyota bZ4X FWD supports Android Auto and Apple CarPlay, allowing you to mir
 
 You can choose between two sound systems for the Toyota bZ4X FWD:
 
-- **Toyota:** Features six speakers and delivers a maximum output of  watts.
-- **JBL Premium Sound:** Features nine speakers and delivers a maximum output of  watts.
+- **Toyota:** Features six speakers and delivers a maximum output of 120 watts.
+- **JBL Premium Sound:** Features nine speakers and delivers a maximum output of 800 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -260,6 +269,15 @@ With the standard Lane Tracing Assist level 2 system, you get the following driv
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
+## Safety
+
+The Toyota bZ4X FWD is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
 ## Security and Access Technologies
 
 The Toyota bZ4X FWD is equipped with advanced security features to protect you and your vehicle. These include:
@@ -272,7 +290,7 @@ The Toyota bZ4X FWD is equipped with advanced security features to protect you a
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 452 liters (16.0 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1589 liters (56.1 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2195 kg (4839 lbs), with a base weight of 1945 kg (4288 lbs). This allows for a maximum load of 250 kg (551 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 250kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
@@ -282,5 +300,12 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
+The Toyota bZ4X FWD had its world premiere on 29.10.2021, with deliveries starting in July 2022.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 432 600,00 NOK (Norway)
 
 {{< pagenavigation b_url="../" b_title="Toyota bZ4X" f_url="rangeandconsumption/" f_title="Range" >}}

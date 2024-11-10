@@ -708,7 +708,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1146,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1169,6 +1177,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

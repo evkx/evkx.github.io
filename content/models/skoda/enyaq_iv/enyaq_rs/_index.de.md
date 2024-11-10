@@ -30,17 +30,17 @@ Der SKODA ENYAQ RS liefert eine solide Leistung mit einer maximalen Leistung von
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 77,0 kWh, was einen Puffer von 5,0 kWh (6,1%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 82,0 kWh und eine nutzbare Nettokapazität von 76,6 kWh, was einen Puffer von 5,4 kWh (6,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 537 km (334 Meilen) mit einem Energieverbrauch von 14,3 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 135 kW. Das Laden von 0% auf 100% dauert etwa 64 Minuten, während ein typischer Ladevorgang von 10% auf 80% 35 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 92 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 2% und 43%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 100 kW, wobei jede Ladesitzung etwa 19 Minuten und 1 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 175 kW. Das Laden von 0% auf 100% dauert etwa 61 Minuten, während ein typischer Ladevorgang von 10% auf 80% 27 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 118 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 54%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 113 kW, wobei jede Ladesitzung etwa 20 Minuten und 23 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 20 kWh/100 km, würde die Fahrt etwa 9 Stunden und 34 Minuten dauern. Diese Reise würde vier Ladestopps von 2% auf 42% erfordern, mit einer gesamten Ladezeit von 74 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 20 kWh/100 km, würde die Fahrt etwa 9 Stunden und 26 Minuten dauern. Diese Reise würde drei Ladestopps von 3% auf 57% erfordern, mit einer gesamten Ladezeit von 66 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 0 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 57 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

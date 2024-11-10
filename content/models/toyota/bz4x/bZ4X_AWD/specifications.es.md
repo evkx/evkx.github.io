@@ -708,7 +708,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1146,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				120
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1169,6 +1177,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>
