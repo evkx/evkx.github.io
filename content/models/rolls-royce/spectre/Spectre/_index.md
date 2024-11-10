@@ -140,8 +140,6 @@ There is one climate system available:
 
 The Rolls-Royce Spectre includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -227,6 +225,12 @@ With the standard Driving Assistant Professional level 2 system, you get the fol
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+
+## Security and Access Technologies
+
+The Rolls-Royce Spectre is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

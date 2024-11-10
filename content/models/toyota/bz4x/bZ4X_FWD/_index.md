@@ -142,8 +142,6 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 
 The Toyota bZ4X FWD includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -261,6 +259,14 @@ With the standard Lane Tracing Assist level 2 system, you get the following driv
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Security and Access Technologies
+
+The Toyota bZ4X FWD is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
+- **Phone-as-Key Functionality:** With phone-as-key technology, you can use your smartphone as a digital key to unlock and start the vehicle, providing an additional layer of convenience and flexibility.
+- **Alarm System:** An optional integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and enhance vehicle security.
 
 {{<evkxdisplayaddarticle />}}
 

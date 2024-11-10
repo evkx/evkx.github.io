@@ -151,6 +151,28 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 		</tr>
 		<tr>
 			<td>
+				70 mph/112 km/h perfekte Bedingungen
+			</td>
+			<td>
+				305 km / 190 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h mit 2KW Heizung
+			</td>
+			<td>
+				281km / 175mi
+			</td>
+			<td>
+				22,8 kWh/100km / 2,7 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120 km/h/75 mph perfekte Bedingungen
 			</td>
 			<td>

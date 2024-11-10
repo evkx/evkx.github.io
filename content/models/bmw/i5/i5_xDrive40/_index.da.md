@@ -147,8 +147,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 BMW i5 xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -241,6 +239,12 @@ Med det valgfrie Driving Assistant Professional niveau 2-system får du yderlige
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+
+## Sikkerheds- og adgangsteknologier
+
+BMW i5 xDrive40 er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -124,7 +124,6 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der MG Marvel R Electric umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -192,6 +191,10 @@ Mit dem standardmäßigen  Level 2 System erhalten Sie die folgenden Fahrautomat
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+## Sicherheits- und Zugangstechnologien
+
+Der MG Marvel R Electric ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
 
 {{<evkxdisplayaddarticle />}}
 

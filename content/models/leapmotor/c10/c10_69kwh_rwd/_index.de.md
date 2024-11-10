@@ -140,8 +140,6 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der Leapmotor C10 69kWh RWD umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -220,6 +218,13 @@ Mit dem standardmäßigen Leapmotor Pilot  Level 2 System erhalten Sie die folge
 
 Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), sieben [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Leapmotor C10 69kWh RWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Telefon-als-Schlüssel Funktionalität:** Mit der Telefon-als-Schlüssel-Technologie können Sie Ihr Smartphone als digitalen Schlüssel verwenden, um das Fahrzeug zu entriegeln und zu starten, was zusätzlichen Komfort und Flexibilität bietet.
 
 {{<evkxdisplayaddarticle />}}
 

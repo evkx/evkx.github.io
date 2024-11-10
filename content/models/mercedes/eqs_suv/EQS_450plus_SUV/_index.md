@@ -156,8 +156,6 @@ Two climate system options are available:
 
 The Mercedes-EQ EQS 450+ SUV includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -263,6 +261,10 @@ With the optional Driver Assistance Package Plus level 2 system, you get additio
 With the optional DRIVE PILOT level 3 system, you get additional driving automation features to the ones listed above:
 
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+## Security and Access Technologies
+
+The Mercedes-EQ EQS 450+ SUV is equipped with advanced security features to protect you and your vehicle. These include:
 
 {{<evkxdisplayaddarticle />}}
 

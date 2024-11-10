@@ -178,6 +178,10 @@ Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+## Sicherheits- und Zugangstechnologien
+
+Der XPENG G3i ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast

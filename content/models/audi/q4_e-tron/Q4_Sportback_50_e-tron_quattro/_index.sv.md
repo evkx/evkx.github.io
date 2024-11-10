@@ -196,8 +196,6 @@ Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som til
 
 Audi Q4 Sportback 50 e-tron quattro inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
@@ -331,6 +329,13 @@ Audi Q4 Sportback 50 e-tron quattro är utrustad med flera krockkuddar för att 
 - En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
 
 Dessutom är säkerhetsbältena i första raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
+
+## Säkerhets- och åtkomstteknologier
+
+Audi Q4 Sportback 50 e-tron quattro är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och förbättra fordonets säkerhet.
 
 {{<evkxdisplayaddarticle />}}
 

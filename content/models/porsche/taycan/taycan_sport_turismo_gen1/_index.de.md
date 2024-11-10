@@ -177,9 +177,6 @@ Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als
 
 Der Porsche Taycan Sport Turismo (GEN1) umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
-
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
@@ -274,6 +271,12 @@ Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktione
 Mit dem optionalen Porsche InnoDrive Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Porsche Taycan Sport Turismo (GEN1) ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

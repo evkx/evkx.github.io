@@ -203,6 +203,10 @@ Avec le système standard XPILOT de niveau 2, vous obtenez les fonctionnalités 
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+## Technologies de sécurité et d'accès
+
+Le XPENG X9 AWD Performance est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage

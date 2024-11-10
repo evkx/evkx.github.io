@@ -122,7 +122,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 MG MG5 Electric Long Range inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -190,6 +189,10 @@ Med standard  nivå 2-systemet får du följande funktioner för körautomatiser
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+
+## Säkerhets- och åtkomstteknologier
+
+MG MG5 Electric Long Range är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
 

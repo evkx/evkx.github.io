@@ -162,8 +162,6 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der Zeekr 7X Standard Range RWD umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Kabelloses Laden des Telefons**
 
@@ -272,6 +270,12 @@ Mit dem standardmäßigen NZP Pilot Assist Level 2 System erhalten Sie die folge
 
 Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Zeekr 7X Standard Range RWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

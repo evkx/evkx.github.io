@@ -147,8 +147,6 @@ Two climate system options are available:
 
 The Mercedes-EQ EQB 250 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -236,6 +234,12 @@ The Mercedes-EQ EQB 250 offers [driving automation at level 1](../../../../techn
 With the Driver Assistance Package level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Security and Access Technologies
+
+The Mercedes-EQ EQB 250 is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

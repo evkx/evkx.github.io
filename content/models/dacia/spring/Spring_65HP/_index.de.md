@@ -189,6 +189,12 @@ Der Dacia Spring 65HP verfügt über eine Reihe von standardmäßigen und option
 
 Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 
+## Sicherheits- und Zugangstechnologien
+
+Der Dacia Spring 65HP ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
+- **Manueller Schlüsselzugang:** Das Fahrzeug verwendet ein traditionelles Schlüsselsystem, mit dem Sie das Auto manuell einfach entriegeln und starten können.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast

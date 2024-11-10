@@ -155,8 +155,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 Mercedes-EQ EQS 450 4MATIC SUV inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -262,6 +260,10 @@ Med det valgfrie Driver Assistance Package Plus niveau 2-system får du yderlige
 Med det valgfrie DRIVE PILOT niveau 3-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+## Sikkerheds- og adgangsteknologier
+
+Mercedes-EQ EQS 450 4MATIC SUV er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
 
 {{<evkxdisplayaddarticle />}}
 

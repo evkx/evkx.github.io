@@ -152,8 +152,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Lexus RZ 450e inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
@@ -267,6 +265,14 @@ Med standard Lane Tracing Assist nivå 2-systemet får du följande funktioner f
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhets- och åtkomstteknologier
+
+Lexus RZ 450e är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckelfunktionalitet:** Den valfria telefon som nyckelteknologin låter dig använda din smartphone som en digital nyckel, vilket ger bekvämlighet och flexibilitet för att låsa upp och starta fordonet.
+- **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
 
 {{<evkxdisplayaddarticle />}}
 

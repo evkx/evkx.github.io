@@ -224,6 +224,10 @@ With the standard  level 2 system, you get the following driving automation feat
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+## Security and Access Technologies
+
+The Kia EV6 Standard Range 2WD is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability

@@ -122,7 +122,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 MG MG5 Electric Standard Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -190,6 +189,10 @@ Med standard  niveau 2-systemet får du følgende funktioner til køreautomatise
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+
+## Sikkerheds- og adgangsteknologier
+
+MG MG5 Electric Standard Range er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
 
 {{<evkxdisplayaddarticle />}}
 

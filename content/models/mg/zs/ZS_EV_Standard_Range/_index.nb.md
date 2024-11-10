@@ -129,7 +129,6 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 MG ZS EV Standard Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -204,6 +203,10 @@ Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+
+## Sikkerhets- og tilgangsteknologier
+
+MG ZS EV Standard Range er utstyrt med essensielle sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
 
 {{<evkxdisplayaddarticle />}}
 

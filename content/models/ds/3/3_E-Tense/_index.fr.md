@@ -125,9 +125,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'DS 3 E-Tense comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -190,6 +187,12 @@ DS 3 E-Tense offre [l'automatisation de la conduite au niveau 1](../../../../tec
 Avec le système DS Drive Assist de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Technologies de sécurité et d'accès
+
+Le DS 3 E-Tense est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 

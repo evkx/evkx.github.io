@@ -149,8 +149,6 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 VOYAH Courage AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
@@ -253,6 +251,13 @@ Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
 Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
+## Sikkerhets- og tilgangsteknologier
+
+VOYAH Courage AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
+- **Parkeringsovervåking:** Ved hjelp av sitt kamerasystem overvåker kjøretøyet aktivt omgivelsene mens det er parkert, og gir økt beskyttelse gjennom kontinuerlig overvåking.
 
 {{<evkxdisplayaddarticle />}}
 

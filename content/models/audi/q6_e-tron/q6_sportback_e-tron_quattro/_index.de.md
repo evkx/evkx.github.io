@@ -197,8 +197,6 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der Audi Q6 Sportback e-tron quattro umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
@@ -352,6 +350,14 @@ Der Audi Q6 Sportback e-tron quattro wurde von Euro NCAP, einer unabhängigen Or
 - Sicherheitsunterstützung: 80%
 
 Sie können das vollständige Crashtest-Video [hier](https://www.youtube.com/watch?v=H0mlUigYdfk) ansehen.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Audi Q6 Sportback e-tron quattro ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Telefon-als-Schlüssel Funktionalität:** Die optionale Telefon-als-Schlüssel-Technologie ermöglicht es Ihnen, Ihr Smartphone als digitalen Schlüssel zu verwenden, was zusätzlichen Komfort und Flexibilität beim Entriegeln und Starten des Fahrzeugs bietet.
+- **Alarmsystem:** Ein optionales integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und die Sicherheit des Fahrzeugs zu erhöhen.
 
 {{<evkxdisplayaddarticle />}}
 

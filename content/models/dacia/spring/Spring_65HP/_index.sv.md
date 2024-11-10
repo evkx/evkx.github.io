@@ -189,6 +189,12 @@ Dacia Spring 65HP inkluderar flera [avancerade förarassistanssystem](../../../.
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
+## Säkerhets- och åtkomstteknologier
+
+Dacia Spring 65HP är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+
+- **Manuell nyckelåtkomst:** Fordonet använder ett traditionellt nyckelsystem, vilket gör att du enkelt kan låsa upp och starta bilen manuellt.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet

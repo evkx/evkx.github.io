@@ -147,8 +147,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Chevrolet Blazer EV SS inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
 
@@ -261,6 +259,12 @@ Med det valfria Super Cruise nivå 2-systemet får du ytterligare funktioner fö
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhets- och åtkomstteknologier
+
+Chevrolet Blazer EV SS är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 

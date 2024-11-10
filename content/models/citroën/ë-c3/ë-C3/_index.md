@@ -234,6 +234,12 @@ With the standard system the model offers no driving automation.
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [cameras](../../../../technology/sensorsandcameras/cameras/), and four [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
+## Security and Access Technologies
+
+The Citroën ë-C3 is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
+- **Manual Key Access:** The vehicle utilizes a traditional key system, allowing you to manually unlock and start the car with ease.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability

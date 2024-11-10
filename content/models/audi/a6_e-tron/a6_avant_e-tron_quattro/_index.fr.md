@@ -182,8 +182,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'Audi A6 Avant e-tron quattro comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
@@ -318,6 +316,14 @@ Avec le système optionnel Adaptive Cruise Assist de niveau 2, vous obtenez des 
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Technologies de sécurité et d'accès
+
+Le Audi A6 Avant e-tron quattro est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Fonctionnalité téléphone comme clé :** La technologie téléphone comme clé en option vous permet d'utiliser votre smartphone comme clé numérique, ajoutant commodité et flexibilité pour déverrouiller et démarrer le véhicule.
+- **Système d'alarme :** Un système d'alarme intégré en option surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à renforcer la sécurité du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

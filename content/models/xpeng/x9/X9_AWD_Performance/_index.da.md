@@ -203,6 +203,10 @@ Med standard XPILOT niveau 2-systemet får du følgende funktioner til køreauto
 - - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+## Sikkerheds- og adgangsteknologier
+
+XPENG X9 AWD Performance er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet

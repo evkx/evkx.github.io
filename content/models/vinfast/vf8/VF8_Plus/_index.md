@@ -139,8 +139,6 @@ There is one climate system available:
 
 The VinFast VF8 Plus includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 
 {{<evkxdisplayaddarticle />}}
@@ -226,6 +224,12 @@ With the standard Highway Assist level 2 system, you get the following driving a
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Security and Access Technologies
+
+The VinFast VF8 Plus is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

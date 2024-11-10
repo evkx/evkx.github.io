@@ -193,8 +193,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Audi Q6L e-tron quattro inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
@@ -337,6 +335,14 @@ Audi Q6L e-tron quattro är utrustad med flera krockkuddar för att säkerställ
 - Sidokrockkuddar för föraren och främre passageraren
 - Sidokrockkuddar för passagerarna i andra raden
 - En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+
+## Säkerhets- och åtkomstteknologier
+
+Audi Q6L e-tron quattro är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckelfunktionalitet:** Den valfria telefon som nyckelteknologin låter dig använda din smartphone som en digital nyckel, vilket ger bekvämlighet och flexibilitet för att låsa upp och starta fordonet.
+- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och förbättra fordonets säkerhet.
 
 {{<evkxdisplayaddarticle />}}
 

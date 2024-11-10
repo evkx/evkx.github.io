@@ -146,8 +146,6 @@ To klimasystemalternativer er tilgjengelige:
 
 Mercedes-EQ EQA 250+ inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -237,6 +235,12 @@ Mercedes-EQ EQA 250+ tilbyr [kjøreautomatisering på nivå 1](../../../../techn
 Med Driver Assistance Package nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Sikkerhets- og tilgangsteknologier
+
+Mercedes-EQ EQA 250+ er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
 

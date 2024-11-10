@@ -161,8 +161,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Volkswagen ID. Buzz GTX LWB inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
@@ -256,6 +254,12 @@ Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+
+## Sikkerheds- og adgangsteknologier
+
+Volkswagen ID. Buzz GTX LWB er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

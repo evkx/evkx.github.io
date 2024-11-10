@@ -146,8 +146,6 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Der Mercedes-EQ EQA 250+ umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -237,6 +235,12 @@ Der Mercedes-EQ EQA 250+ bietet [Fahrautomatisierung auf Level 1](../../../../te
 Mit dem Driver Assistance Package Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Sicherheits- und Zugangstechnologien
+
+Der Mercedes-EQ EQA 250+ ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

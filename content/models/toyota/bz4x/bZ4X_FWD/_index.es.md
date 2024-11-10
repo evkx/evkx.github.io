@@ -142,8 +142,6 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 
 El Toyota bZ4X FWD incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -261,6 +259,14 @@ Con el sistema estándar Lane Tracing Assist de nivel 2, obtienes las siguientes
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
+## Tecnologías de seguridad y acceso
+
+El Toyota bZ4X FWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Funcionalidad de teléfono como llave:** Con la tecnología de teléfono como llave, puede usar su teléfono inteligente como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
+- **Sistema de alarma:** Un sistema de alarma integrado opcional monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mejorar la seguridad del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

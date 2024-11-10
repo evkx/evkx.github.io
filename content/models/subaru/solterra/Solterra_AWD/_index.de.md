@@ -207,6 +207,10 @@ Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+## Sicherheits- und Zugangstechnologien
+
+Der Subaru Solterra AWD ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast

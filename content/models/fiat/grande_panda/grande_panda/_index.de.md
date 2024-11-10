@@ -220,6 +220,12 @@ Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [Kameras](../../../../technology/sensorsandcameras/cameras/) und vier [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
+## Sicherheits- und Zugangstechnologien
+
+Der Fiat Grande Panda ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
+- **Manueller Schlüsselzugang:** Das Fahrzeug verwendet ein traditionelles Schlüsselsystem, mit dem Sie das Auto manuell einfach entriegeln und starten können.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast

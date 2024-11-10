@@ -189,6 +189,12 @@ The Dacia Spring 65HP features a range of standard and optional [advanced driver
 
 With the standard system the model offers no driving automation.
 
+## Security and Access Technologies
+
+The Dacia Spring 65HP is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
+- **Manual Key Access:** The vehicle utilizes a traditional key system, allowing you to manually unlock and start the car with ease.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability

@@ -129,8 +129,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Tesla Model S Plaid inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -218,6 +216,12 @@ Med det valgfrie Full Self-Driving Capability niveau 3-system får du yderligere
 
 - Trafiklys kontrol - følg trafiklysene.
 - Stopskiltkontrol - følg stopskilt.
+
+## Sikkerheds- og adgangsteknologier
+
+Tesla Model S Plaid er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

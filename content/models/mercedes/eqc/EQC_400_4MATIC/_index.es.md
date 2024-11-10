@@ -118,9 +118,6 @@ Hay un sistema climático disponible.
 
 El Mercedes-EQ EQC 400 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -202,6 +199,12 @@ Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes fun
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+
+## Tecnologías de seguridad y acceso
+
+El Mercedes-EQ EQC 400 4MATIC está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 

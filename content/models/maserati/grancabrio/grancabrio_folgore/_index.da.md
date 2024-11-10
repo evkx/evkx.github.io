@@ -140,8 +140,6 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 
 Maserati GranCabrio Folgore inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -234,6 +232,12 @@ Med standard  niveau 2-systemet får du følgende funktioner til køreautomatise
 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
 Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerheds- og adgangsteknologier
+
+Maserati GranCabrio Folgore er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -154,8 +154,6 @@ Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). D
 
 Der Mercedes-EQ EQE 500 4MATIC umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Kabelloses Laden des Telefons**
 
@@ -260,6 +258,10 @@ Mit dem Driver Assistance Package Level 1 System erhalten Sie die folgenden Fahr
 Mit dem optionalen Driver Assistance Package Plus Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Mercedes-EQ EQE 500 4MATIC ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
 {{<evkxdisplayaddarticle />}}
 

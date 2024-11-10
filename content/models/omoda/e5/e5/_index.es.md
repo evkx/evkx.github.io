@@ -135,8 +135,6 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 
 El OMODA E5 incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -237,6 +235,13 @@ El OMODA E5 está equipado con múltiples airbags para garantizar la protección
 - Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
 
 Además, los cinturones de seguridad de la primera y segunda fila están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
+## Tecnologías de seguridad y acceso
+
+El OMODA E5 está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Sistema de alarma:** Un sistema de alarma integrado monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mantener su vehículo seguro.
 
 {{<evkxdisplayaddarticle />}}
 

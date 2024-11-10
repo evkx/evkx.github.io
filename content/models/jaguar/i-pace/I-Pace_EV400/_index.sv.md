@@ -237,6 +237,10 @@ Jaguar I-Pace EV400 inkluderar flera [avancerade förarassistanssystem](../../..
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
+## Säkerhets- och åtkomstteknologier
+
+Jaguar I-Pace EV400 är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet

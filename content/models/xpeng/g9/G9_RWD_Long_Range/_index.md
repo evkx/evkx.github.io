@@ -135,8 +135,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The XPENG G9 RWD Long Range includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -215,6 +213,12 @@ With the standard  level 2 system, you get the following driving automation feat
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+
+## Security and Access Technologies
+
+The XPENG G9 RWD Long Range is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

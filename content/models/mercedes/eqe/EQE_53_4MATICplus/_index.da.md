@@ -151,8 +151,6 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 
 Mercedes-AMG EQE 53 4MATIC+ inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -259,6 +257,10 @@ Med Driver Assistance Package niveau 1-systemet får du følgende funktioner til
 Med det valgfrie Driver Assistance Package Plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+
+## Sikkerheds- og adgangsteknologier
+
+Mercedes-AMG EQE 53 4MATIC+ er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
 
 {{<evkxdisplayaddarticle />}}
 

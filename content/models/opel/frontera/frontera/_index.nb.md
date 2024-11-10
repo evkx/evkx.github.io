@@ -226,6 +226,12 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
 Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [kameraer](../../../../technology/sensorsandcameras/cameras/) og fire [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
+## Sikkerhets- og tilgangsteknologier
+
+Opel Frontera er utstyrt med essensielle sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
+
+- **Manuell nøkkeltilgang:** Kjøretøyet bruker et tradisjonelt nøkkelsystem, slik at du enkelt kan låse opp og starte bilen manuelt.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne

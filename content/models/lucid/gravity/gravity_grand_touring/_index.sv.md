@@ -160,8 +160,6 @@ Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Det
 
 Lucid Gravity Grand Touring inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
@@ -294,6 +292,13 @@ Lucid Gravity Grand Touring är utrustad med flera krockkuddar för att säkerst
 - Sidokrockkuddar för föraren och främre passageraren
 - Sidokrockkuddar för passagerarna i andra raden
 - En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+
+## Säkerhets- och åtkomstteknologier
+
+Lucid Gravity Grand Touring är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckelfunktionalitet:** Med telefon som nyckelteknologi kan du använda din smartphone som en digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
 
 {{<evkxdisplayaddarticle />}}
 

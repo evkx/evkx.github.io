@@ -138,8 +138,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Tesla Model 3 Long Range (GEN1) includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -233,6 +231,12 @@ With the optional Full Self-Driving Capability level 3 system, you get additiona
 
 This model only uses cameras for its driver assist systems. This design limits the accuracy of the driving assistance systems and makes them more sensitive to weather than cars that also use radar and other sensors.
 It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to register everything in the vehicle's environment.
+
+## Security and Access Technologies
+
+The Tesla Model 3 Long Range (GEN1) is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

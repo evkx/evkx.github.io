@@ -216,6 +216,10 @@ Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+## Sikkerhets- og tilgangsteknologier
+
+Hyundai Ioniq 6 Long Range RWD er utstyrt med essensielle sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne

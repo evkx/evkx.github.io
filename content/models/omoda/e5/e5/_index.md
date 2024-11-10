@@ -135,8 +135,6 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 
 The OMODA E5 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -237,6 +235,13 @@ The OMODA E5 is equipped with multiple airbags to ensure occupant protection in 
 - A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
 
 Additionally, the front and second-row seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
+
+## Security and Access Technologies
+
+The OMODA E5 is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
+- **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
 

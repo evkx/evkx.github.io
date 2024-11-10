@@ -207,6 +207,10 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+## Sikkerhets- og tilgangsteknologier
+
+Subaru Solterra AWD er utstyrt med essensielle sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne

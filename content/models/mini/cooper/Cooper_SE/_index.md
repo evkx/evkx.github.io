@@ -120,8 +120,6 @@ There is one climate system available:
 
 The Mini Cooper SE includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -174,6 +172,12 @@ The Mini Cooper SE features a range of standard and optional [advanced driver as
 With the standard system the model offers no driving automation.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Security and Access Technologies
+
+The Mini Cooper SE is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

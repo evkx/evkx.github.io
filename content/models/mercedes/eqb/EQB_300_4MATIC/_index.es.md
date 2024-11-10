@@ -146,8 +146,6 @@ Hay dos opciones de sistema de climatización disponibles:
 
 El Mercedes-EQ EQB 300 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -235,6 +233,12 @@ Mercedes-EQ EQB 300 4MATIC ofrece [automatización de la conducción en nivel 1]
 Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Tecnologías de seguridad y acceso
+
+El Mercedes-EQ EQB 300 4MATIC está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 

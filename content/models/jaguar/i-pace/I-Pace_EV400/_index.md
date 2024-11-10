@@ -237,6 +237,10 @@ The Jaguar I-Pace EV400 features a range of standard and optional [advanced driv
 
 With the standard system the model offers no driving automation.
 
+## Security and Access Technologies
+
+The Jaguar I-Pace EV400 is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability

@@ -197,8 +197,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'Nio EL8 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
@@ -310,6 +308,14 @@ Avec le système standard NIO Pilot Complete Pack de niveau 2, vous obtenez les 
 
 Ce modèle utilise des caméras, des capteurs LiDAR et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent l'environnement du véhicule.
+
+## Technologies de sécurité et d'accès
+
+Le Nio EL8 est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
+- **Fonctionnalité téléphone comme clé :** Avec la technologie téléphone comme clé, vous pouvez utiliser votre smartphone comme clé numérique pour déverrouiller et démarrer le véhicule, offrant une couche supplémentaire de commodité et de flexibilité.
+- **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

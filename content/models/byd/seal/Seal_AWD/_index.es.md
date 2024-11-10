@@ -134,8 +134,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El BYD Seal AWD incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
 
@@ -220,6 +218,12 @@ Con el sistema estándar Smart Pilot de nivel 2, obtienes las siguientes funcion
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+
+## Tecnologías de seguridad y acceso
+
+El BYD Seal AWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 

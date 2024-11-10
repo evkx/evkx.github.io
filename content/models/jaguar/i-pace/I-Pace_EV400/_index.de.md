@@ -237,6 +237,10 @@ Der Jaguar I-Pace EV400 verfügt über eine Reihe von standardmäßigen und opti
 
 Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 
+## Sicherheits- und Zugangstechnologien
+
+Der Jaguar I-Pace EV400 ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast

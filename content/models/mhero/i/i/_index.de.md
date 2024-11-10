@@ -162,8 +162,6 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der MHERO I umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
@@ -263,6 +261,15 @@ Der MHERO I ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Fall
 - Seitenairbags für Fahrer und Beifahrer
 
 Zusätzlich sind die Sicherheitsgurte der ersten und zweiten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
+
+## Sicherheits- und Zugangstechnologien
+
+Der MHERO I ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Telefon-als-Schlüssel Funktionalität:** Mit der Telefon-als-Schlüssel-Technologie können Sie Ihr Smartphone als digitalen Schlüssel verwenden, um das Fahrzeug zu entriegeln und zu starten, was zusätzlichen Komfort und Flexibilität bietet.
+- **Alarmsystem:** Ein integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und Ihr Fahrzeug zu sichern.
+- **Integrierte Dashcam:** Die eingebaute Dashcam zeichnet Videoaufnahmen Ihrer Fahrten auf und erfasst wichtige Details, um zusätzliche Sicherheit, Verantwortlichkeit und Seelenfrieden zu bieten.
 
 {{<evkxdisplayaddarticle />}}
 

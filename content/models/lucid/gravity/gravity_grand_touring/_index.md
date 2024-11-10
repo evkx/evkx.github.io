@@ -160,8 +160,6 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 
 The Lucid Gravity Grand Touring includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -294,6 +292,13 @@ The Lucid Gravity Grand Touring is equipped with multiple airbags to ensure occu
 - Side airbags for the driver and front passenger
 - Side airbags for the second-row passengers
 - A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+## Security and Access Technologies
+
+The Lucid Gravity Grand Touring is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
+- **Phone-as-Key Functionality:** With phone-as-key technology, you can use your smartphone as a digital key to unlock and start the vehicle, providing an additional layer of convenience and flexibility.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -118,9 +118,6 @@ Es gibt ein Klimasystem verfügbar:
 
 Der Mercedes-EQ EQC 400 4MATIC umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
-
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
@@ -202,6 +199,12 @@ Mit dem Driver Assistance Package Level 1 System erhalten Sie die folgenden Fahr
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
+
+## Sicherheits- und Zugangstechnologien
+
+Der Mercedes-EQ EQC 400 4MATIC ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

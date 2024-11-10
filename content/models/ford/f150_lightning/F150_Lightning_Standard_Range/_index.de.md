@@ -221,6 +221,10 @@ Mit dem optionalen Ford Co-Pilot360™ Active 2.0 Level 2 System erhalten Sie zu
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+## Sicherheits- und Zugangstechnologien
+
+Der Ford F150 Lightning Standard Range ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast

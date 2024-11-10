@@ -155,8 +155,6 @@ To klimasystemalternativer er tilgjengelige:
 
 Mercedes-EQ EQS 580 4MATIC SUV inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -262,6 +260,10 @@ Med det valgfrie Driver Assistance Package Plus nivå 2-systemet får du ekstra 
 Med det valgfrie DRIVE PILOT nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
 
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+## Sikkerhets- og tilgangsteknologier
+
+Mercedes-EQ EQS 580 4MATIC SUV er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 {{<evkxdisplayaddarticle />}}
 

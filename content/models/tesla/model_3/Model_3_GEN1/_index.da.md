@@ -138,8 +138,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Tesla Model 3 (GEN1) inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -233,6 +231,12 @@ Med det valgfrie Full Self-Driving Capability niveau 3-system får du yderligere
 
 Denne model bruger kun kameraer til sine førerassistentsystemer. Dette design begrænser nøjagtigheden af kørehjælpesystemerne og gør dem mere følsomme over for vejrforhold end biler, der også bruger radar og andre sensorer.
 Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) til at registrere alt i køretøjets omgivelser.
+
+## Sikkerheds- og adgangsteknologier
+
+Tesla Model 3 (GEN1) er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

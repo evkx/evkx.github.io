@@ -136,9 +136,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'Chevrolet Silverado EV 4WT comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -243,6 +240,12 @@ Avec le système Super Cruise de niveau 1, vous obtenez les fonctionnalités sui
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et quatre [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Technologies de sécurité et d'accès
+
+Le Chevrolet Silverado EV 4WT est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 

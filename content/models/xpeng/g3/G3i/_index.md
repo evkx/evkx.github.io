@@ -178,6 +178,10 @@ With the standard system the model offers no driving automation.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+## Security and Access Technologies
+
+The XPENG G3i is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability

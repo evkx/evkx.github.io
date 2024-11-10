@@ -193,8 +193,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Audi Q6L e-tron quattro includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -337,6 +335,14 @@ The Audi Q6L e-tron quattro is equipped with multiple airbags to ensure occupant
 - Side airbags for the driver and front passenger
 - Side airbags for the second-row passengers
 - A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+## Security and Access Technologies
+
+The Audi Q6L e-tron quattro is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
+- **Phone-as-Key Functionality:** The optional phone-as-key technology allows you to use your smartphone as a digital key, adding convenience and flexibility for unlocking and starting the vehicle.
+- **Alarm System:** An optional integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and enhance vehicle security.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -196,8 +196,6 @@ Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als
 
 Der Audi Q4 Sportback 45 e-tron quattro (GEN1) umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Kabelloses Laden des Telefons**
 
@@ -331,6 +329,13 @@ Der Audi Q4 Sportback 45 e-tron quattro (GEN1) ist mit mehreren Airbags ausgesta
 - Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
 
 Zusätzlich sind die Sicherheitsgurte der ersten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Audi Q4 Sportback 45 e-tron quattro (GEN1) ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Alarmsystem:** Ein optionales integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und die Sicherheit des Fahrzeugs zu erhöhen.
 
 {{<evkxdisplayaddarticle />}}
 

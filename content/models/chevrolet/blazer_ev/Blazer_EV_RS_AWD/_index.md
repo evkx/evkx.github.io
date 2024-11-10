@@ -147,8 +147,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Chevrolet Blazer EV RS AWD includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
@@ -261,6 +259,12 @@ With the optional Super Cruise level 2 system, you get additional driving automa
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Security and Access Technologies
+
+The Chevrolet Blazer EV RS AWD is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

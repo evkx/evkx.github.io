@@ -237,6 +237,10 @@ Le Jaguar I-Pace EV400 comprend plusieurs [systèmes avancés d'assistance au co
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
+## Technologies de sécurité et d'accès
+
+Le Jaguar I-Pace EV400 est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage

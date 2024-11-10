@@ -197,8 +197,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Nio EL8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
@@ -310,6 +308,14 @@ Med standard NIO Pilot Complete Pack niveau 2-systemet får du følgende funktio
 
 Denne model bruger kameraer, LiDAR og ultralydssensorer til sine førerassistentsystemer.
 Op til én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerheds- og adgangsteknologier
+
+Nio EL8 er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
 

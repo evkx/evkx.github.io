@@ -133,9 +133,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El Honda Prologue FWD incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -216,6 +213,12 @@ Honda Prologue FWD ofrece [automatización de la conducción en nivel 1](../../.
 Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Tecnologías de seguridad y acceso
+
+El Honda Prologue FWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 

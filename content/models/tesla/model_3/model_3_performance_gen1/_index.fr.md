@@ -132,8 +132,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'Tesla Model 3 Performance (GEN1) comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
 
@@ -227,6 +225,12 @@ Avec le système optionnel Full Self-Driving Capability de niveau 3, vous obtene
 
 Ce modèle n'utilise que des caméras pour ses systèmes d'assistance à la conduite. Ce design limite la précision des systèmes d'assistance à la conduite et les rend plus sensibles aux conditions météorologiques que les voitures qui utilisent également le radar et d'autres capteurs.
 Il utilise huit [caméras](../../../../technology/sensorsandcameras/cameras/) pour enregistrer tout ce qui se passe dans l'environnement du véhicule.
+
+## Technologies de sécurité et d'accès
+
+Le Tesla Model 3 Performance (GEN1) est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 

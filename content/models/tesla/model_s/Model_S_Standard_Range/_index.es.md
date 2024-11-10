@@ -129,8 +129,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El Tesla Model S Standard Range incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
 
@@ -219,6 +217,12 @@ Con el sistema opcional Full Self-Driving Capability de nivel 3, obtienes funcio
 
 - Control de semáforos - sigue los semáforos.
 - Control de señales de stop: sigue las señales de stop.
+
+## Tecnologías de seguridad y acceso
+
+El Tesla Model S Standard Range está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -121,7 +121,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El MG MG4 Electric XPOWER incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -187,6 +186,10 @@ Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de autom
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+
+## Tecnologías de seguridad y acceso
+
+El MG MG4 Electric XPOWER está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estos incluyen:
 
 {{<evkxdisplayaddarticle />}}
 

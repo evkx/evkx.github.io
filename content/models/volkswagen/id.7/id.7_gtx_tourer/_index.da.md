@@ -158,8 +158,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Volkswagen ID.7 GTX Tourer inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -271,6 +269,12 @@ Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere funkti
 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerheds- og adgangsteknologier
+
+Volkswagen ID.7 GTX Tourer er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

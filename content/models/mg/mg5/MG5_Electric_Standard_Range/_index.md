@@ -122,7 +122,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The MG MG5 Electric Standard Range includes several features to enhance comfort and convenience:
 
-- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -190,6 +189,10 @@ With the standard  level 2 system, you get the following driving automation feat
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+## Security and Access Technologies
+
+The MG MG5 Electric Standard Range is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
 
 {{<evkxdisplayaddarticle />}}
 

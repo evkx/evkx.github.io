@@ -196,8 +196,6 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 
 El Audi Q4 Sportback 45 e-tron quattro (GEN1) incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
 
@@ -331,6 +329,13 @@ El Audi Q4 Sportback 45 e-tron quattro (GEN1) está equipado con múltiples airb
 - Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
 
 Además, los cinturones de seguridad delanteros están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
+## Tecnologías de seguridad y acceso
+
+El Audi Q4 Sportback 45 e-tron quattro (GEN1) está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Sistema de alarma:** Un sistema de alarma integrado opcional monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mejorar la seguridad del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

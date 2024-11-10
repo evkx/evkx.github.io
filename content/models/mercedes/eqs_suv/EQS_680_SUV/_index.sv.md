@@ -145,8 +145,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Mercedes-Maybach EQS 680 SUV inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
@@ -245,6 +243,10 @@ Med det valfria Driver Assistance Package Plus nivå 2-systemet får du ytterlig
 Med det valfria DRIVE PILOT nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
 
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+## Säkerhets- och åtkomstteknologier
+
+Mercedes-Maybach EQS 680 SUV är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
 

@@ -136,8 +136,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Tesla Model 3 Long Range inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
@@ -235,6 +233,16 @@ Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligar
 
 Denna modell använder endast kameror för sina förarassistanssystem. Denna design begränsar noggrannheten för förarassistanssystemen och gör dem mer känsliga för väder än bilar som även använder radar och andra sensorer.
 Den använder sju [kameror](../../../../technology/sensorsandcameras/cameras/) för att registrera allt i fordonets omgivning.
+
+## Säkerhets- och åtkomstteknologier
+
+Tesla Model 3 Long Range är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckelfunktionalitet:** Med telefon som nyckelteknologi kan du använda din smartphone som en digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
+- **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
+- **Integrerad dashcam:** Den inbyggda dashcamen spelar in videofilmer av dina resor och fångar viktiga detaljer för att ge ökad säkerhet, ansvarsskyldighet och sinnesro.
+- **Parkeringsövervakning:** Med hjälp av sitt kamerasystem övervakar fordonet aktivt omgivningen medan det är parkerat och ger ökat skydd genom kontinuerlig övervakning.
 
 {{<evkxdisplayaddarticle />}}
 

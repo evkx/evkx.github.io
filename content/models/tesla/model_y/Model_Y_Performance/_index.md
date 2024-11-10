@@ -147,8 +147,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Tesla Model Y Performance includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -275,6 +273,14 @@ With the optional Full Self-Driving Capability level 3 system, you get additiona
 
 This model only uses cameras for its driver assist systems. This design limits the accuracy of the driving assistance systems and makes them more sensitive to weather than cars that also use radar and other sensors.
 It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to register everything in the vehicle's environment.
+
+## Security and Access Technologies
+
+The Tesla Model Y Performance is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
+- **Phone-as-Key Functionality:** With phone-as-key technology, you can use your smartphone as a digital key to unlock and start the vehicle, providing an additional layer of convenience and flexibility.
+- **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
 

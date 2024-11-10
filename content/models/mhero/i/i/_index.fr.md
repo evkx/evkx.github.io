@@ -162,8 +162,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'MHERO I comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
@@ -263,6 +261,15 @@ Le MHERO I est équipé de plusieurs airbags pour assurer la protection des occu
 - Airbags latéraux pour le conducteur et le passager avant
 
 De plus, les ceintures de sécurité des première et deuxième rangées sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
+
+## Technologies de sécurité et d'accès
+
+Le MHERO I est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
+- **Fonctionnalité téléphone comme clé :** Avec la technologie téléphone comme clé, vous pouvez utiliser votre smartphone comme clé numérique pour déverrouiller et démarrer le véhicule, offrant une couche supplémentaire de commodité et de flexibilité.
+- **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
+- **Caméra de bord intégrée :** La caméra de bord intégrée enregistre des séquences vidéo de vos trajets, capturant des détails clés pour offrir une sécurité accrue, une responsabilité et une tranquillité d'esprit.
 
 {{<evkxdisplayaddarticle />}}
 

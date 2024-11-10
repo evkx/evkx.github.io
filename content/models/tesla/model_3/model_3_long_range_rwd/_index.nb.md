@@ -139,8 +139,6 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Tesla Model 3 Long Range RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -238,6 +236,12 @@ Med det valgfrie Full Self-Driving Capability nivå 3-systemet får du ekstra kj
 
 Denne modellen bruker bare kameraer til sine førerassistentsystemer. Dette designet begrenser nøyaktigheten til førerassistentsystemene og gjør dem mer følsomme for vær enn biler som også bruker radar og andre sensorer.
 Den bruker syv [kameraer](../../../../technology/sensorsandcameras/cameras/) for å registrere alt i kjøretøyets omgivelser.
+
+## Sikkerhets- og tilgangsteknologier
+
+Tesla Model 3 Long Range RWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
 

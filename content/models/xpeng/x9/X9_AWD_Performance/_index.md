@@ -203,6 +203,10 @@ With the standard XPILOT level 2 system, you get the following driving automatio
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+## Security and Access Technologies
+
+The XPENG X9 AWD Performance is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability

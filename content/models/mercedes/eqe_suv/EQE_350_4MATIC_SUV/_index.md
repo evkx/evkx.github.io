@@ -154,8 +154,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Mercedes-EQ EQE 350 4MATIC SUV includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -262,6 +260,10 @@ With the Driver Assistance Package level 1 system, you get the following driving
 With the optional Driver Assistance Package Plus level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+## Security and Access Technologies
+
+The Mercedes-EQ EQE 350 4MATIC SUV is equipped with advanced security features to protect you and your vehicle. These include:
 
 {{<evkxdisplayaddarticle />}}
 

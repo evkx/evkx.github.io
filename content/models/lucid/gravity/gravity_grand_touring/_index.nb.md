@@ -160,8 +160,6 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 
 Lucid Gravity Grand Touring inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
@@ -294,6 +292,13 @@ Lucid Gravity Grand Touring er utstyrt med flere kollisjonsputer for å sikre be
 - Sidekollisjonsputer for fører og forsetepassasjer
 - Sidekollisjonsputer for passasjerene i andre rad
 - En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
+## Sikkerhets- og tilgangsteknologier
+
+Lucid Gravity Grand Touring er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
+- **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
 
 {{<evkxdisplayaddarticle />}}
 

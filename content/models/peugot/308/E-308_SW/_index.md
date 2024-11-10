@@ -131,9 +131,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Peugot E-308 SW includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
-
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
@@ -202,6 +199,12 @@ The Peugot E-308 SW offers [driving automation at level 1](../../../../technolog
 With the DS Drive Assist level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Security and Access Technologies
+
+The Peugot E-308 SW is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

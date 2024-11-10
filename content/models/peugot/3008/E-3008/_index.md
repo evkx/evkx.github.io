@@ -135,8 +135,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Peugot E-3008 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
-- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -226,6 +224,12 @@ With the optional Drive Assist Plus level 2 system, you get additional driving a
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Security and Access Technologies
+
+The Peugot E-3008 is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

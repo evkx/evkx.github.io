@@ -195,8 +195,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Audi Q6 Sportback e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
@@ -350,6 +348,12 @@ Audi Q6 Sportback e-tron er blevet grundigt testet af Euro NCAP, en uafhængig o
 - Sikkerhedshjælp: 80%
 
 Du kan se hele crashtestvideoen [her](https://www.youtube.com/watch?v=H0mlUigYdfk).
+
+## Sikkerheds- og adgangsteknologier
+
+Audi Q6 Sportback e-tron er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

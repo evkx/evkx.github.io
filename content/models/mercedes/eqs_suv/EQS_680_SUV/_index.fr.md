@@ -145,8 +145,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 
 L'Mercedes-Maybach EQS 680 SUV comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
 
@@ -245,6 +243,10 @@ Avec le système optionnel Driver Assistance Package Plus de niveau 2, vous obte
 Avec le système optionnel DRIVE PILOT de niveau 3, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
 
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+## Technologies de sécurité et d'accès
+
+Le Mercedes-Maybach EQS 680 SUV est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 {{<evkxdisplayaddarticle />}}
 

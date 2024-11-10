@@ -135,8 +135,6 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 
 OMODA E5 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -237,6 +235,13 @@ OMODA E5 er udstyret med flere airbags for at sikre beskyttelse af passagererne 
 - En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
 
 Derudover er sikkerhedsselerne i første og anden række udstyret med selestrammere, der strammes automatisk under en kollision for at minimere skaderisikoen.
+
+## Sikkerheds- og adgangsteknologier
+
+OMODA E5 er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
 

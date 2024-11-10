@@ -197,8 +197,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El Nio EL8 incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
@@ -310,6 +308,14 @@ Con el sistema estándar NIO Pilot Complete Pack de nivel 2, obtienes las siguie
 
 Este modelo utiliza cámaras, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean el entorno del vehículo.
+
+## Tecnologías de seguridad y acceso
+
+El Nio EL8 está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Funcionalidad de teléfono como llave:** Con la tecnología de teléfono como llave, puede usar su teléfono inteligente como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
+- **Sistema de alarma:** Un sistema de alarma integrado monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mantener su vehículo seguro.
 
 {{<evkxdisplayaddarticle />}}
 

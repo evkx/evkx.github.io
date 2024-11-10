@@ -147,8 +147,6 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Tesla Model Y Long Range RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
@@ -275,6 +273,14 @@ Med det valgfrie Full Self-Driving Capability nivå 3-systemet får du ekstra kj
 
 Denne modellen bruker bare kameraer til sine førerassistentsystemer. Dette designet begrenser nøyaktigheten til førerassistentsystemene og gjør dem mer følsomme for vær enn biler som også bruker radar og andre sensorer.
 Den bruker åtte [kameraer](../../../../technology/sensorsandcameras/cameras/) for å registrere alt i kjøretøyets omgivelser.
+
+## Sikkerhets- og tilgangsteknologier
+
+Tesla Model Y Long Range RWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
+- **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
+- **Alarmsystem:** Et integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og holde kjøretøyet ditt sikkert.
 
 {{<evkxdisplayaddarticle />}}
 

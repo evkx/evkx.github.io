@@ -234,6 +234,12 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [cámaras](../../../../technology/sensorsandcameras/cameras/) y cuatro [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
+## Tecnologías de seguridad y acceso
+
+El Citroën ë-C3 está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estos incluyen:
+
+- **Acceso manual con llave:** El vehículo utiliza un sistema de llave tradicional, lo que le permite desbloquear y arrancar el coche manualmente con facilidad.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque

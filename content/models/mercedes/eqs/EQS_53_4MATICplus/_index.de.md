@@ -156,8 +156,6 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Der Mercedes-AMG EQS 53 4MATIC+ umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Kabelloses Laden des Telefons**
 
@@ -254,6 +252,10 @@ Mit dem optionalen Driver Assistance Package Plus Level 2 System erhalten Sie zu
 Mit dem optionalen DRIVE PILOT Level 3 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
 
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+## Sicherheits- und Zugangstechnologien
+
+Der Mercedes-AMG EQS 53 4MATIC+ ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
 {{<evkxdisplayaddarticle />}}
 

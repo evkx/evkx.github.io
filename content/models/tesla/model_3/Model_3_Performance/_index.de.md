@@ -136,8 +136,6 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der Tesla Model 3 Performance umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
-- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
-- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Elektrisch verstellbares Lenkrad**
 - **Kabelloses Laden des Telefons**
 
@@ -233,6 +231,16 @@ Mit dem optionalen Full Self-Driving Capability Level 3 System erhalten Sie zus�
 
 Dieses Modell verwendet nur Kameras für seine Fahrerassistenzsysteme. Dieses Design begrenzt die Genauigkeit der Fahrassistenzsysteme und macht sie wetterempfindlicher als Autos, die auch Radar und andere Sensoren verwenden.
 Es verwendet acht [Kameras](../../../../technology/sensorsandcameras/cameras/), um alles in der Umgebung des Fahrzeugs zu registrieren.
+
+## Sicherheits- und Zugangstechnologien
+
+Der Tesla Model 3 Performance ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Telefon-als-Schlüssel Funktionalität:** Mit der Telefon-als-Schlüssel-Technologie können Sie Ihr Smartphone als digitalen Schlüssel verwenden, um das Fahrzeug zu entriegeln und zu starten, was zusätzlichen Komfort und Flexibilität bietet.
+- **Alarmsystem:** Ein integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und Ihr Fahrzeug zu sichern.
+- **Integrierte Dashcam:** Die eingebaute Dashcam zeichnet Videoaufnahmen Ihrer Fahrten auf und erfasst wichtige Details, um zusätzliche Sicherheit, Verantwortlichkeit und Seelenfrieden zu bieten.
+- **Parküberwachung:** Mit seinem Kamerasystem überwacht das Fahrzeug aktiv die Umgebung, während es geparkt ist, und bietet durch kontinuierliche Überwachung einen verbesserten Schutz.
 
 {{<evkxdisplayaddarticle />}}
 

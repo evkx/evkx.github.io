@@ -199,8 +199,6 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Audi Q6 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
@@ -356,6 +354,14 @@ Audi Q6 e-tron quattro har blitt grundig testet av Euro NCAP, en uavhengig organ
 - Sikkerhetshjelp: 80%
 
 Du kan se hele krasjtestvideoen [her](https://www.youtube.com/watch?v=H0mlUigYdfk).
+
+## Sikkerhets- og tilgangsteknologier
+
+Audi Q6 e-tron quattro er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
+- **Telefon som nøkkelfunksjonalitet:** Den valgfrie telefon som nøkkelteknologien lar deg bruke smarttelefonen som en digital nøkkel, og gir bekvemmelighet og fleksibilitet for å låse opp og starte kjøretøyet.
+- **Alarmsystem:** Et valgfritt integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og forbedre kjøretøyets sikkerhet.
 
 {{<evkxdisplayaddarticle />}}
 

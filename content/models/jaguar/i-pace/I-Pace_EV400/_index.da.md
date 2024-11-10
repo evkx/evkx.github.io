@@ -237,6 +237,10 @@ Den Jaguar I-Pace EV400 inkluderer flere standard- og valgfri [avancerede fører
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
+## Sikkerheds- og adgangsteknologier
+
+Jaguar I-Pace EV400 er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet

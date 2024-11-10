@@ -234,6 +234,12 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [kameror](../../../../technology/sensorsandcameras/cameras/) och fyra [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
+## Säkerhets- och åtkomstteknologier
+
+Citroën ë-C3 är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+
+- **Manuell nyckelåtkomst:** Fordonet använder ett traditionellt nyckelsystem, vilket gör att du enkelt kan låsa upp och starta bilen manuellt.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet

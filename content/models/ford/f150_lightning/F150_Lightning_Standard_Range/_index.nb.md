@@ -221,6 +221,10 @@ Med det valgfrie Ford Co-Pilot360™ Active 2.0 nivå 2-systemet får du ekstra 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+## Sikkerhets- og tilgangsteknologier
+
+Ford F150 Lightning Standard Range er utstyrt med essensielle sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne

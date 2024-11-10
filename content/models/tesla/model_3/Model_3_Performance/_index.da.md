@@ -136,8 +136,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Tesla Model 3 Performance inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -233,6 +231,16 @@ Med det valgfrie Full Self-Driving Capability niveau 3-system får du yderligere
 
 Denne model bruger kun kameraer til sine førerassistentsystemer. Dette design begrænser nøjagtigheden af kørehjælpesystemerne og gør dem mere følsomme over for vejrforhold end biler, der også bruger radar og andre sensorer.
 Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) til at registrere alt i køretøjets omgivelser.
+
+## Sikkerheds- og adgangsteknologier
+
+Tesla Model 3 Performance er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
+- **Integreret Dashcam:** Den indbyggede dashcam optager videooptagelser af dine rejser og fanger vigtige detaljer for at give ekstra sikkerhed, ansvarlighed og ro i sindet.
+- **Parkeringsovervågning:** Ved hjælp af sit kamerasystem overvåger køretøjet aktivt omgivelserne, mens det er parkeret, og tilbyder forbedret beskyttelse gennem kontinuerlig overvågning.
 
 {{<evkxdisplayaddarticle />}}
 

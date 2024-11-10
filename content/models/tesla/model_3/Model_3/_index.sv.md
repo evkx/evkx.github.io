@@ -136,8 +136,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Tesla Model 3 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
-- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
@@ -233,6 +231,12 @@ Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligar
 
 Denna modell använder endast kameror för sina förarassistanssystem. Denna design begränsar noggrannheten för förarassistanssystemen och gör dem mer känsliga för väder än bilar som även använder radar och andra sensorer.
 Den använder sju [kameror](../../../../technology/sensorsandcameras/cameras/) för att registrera allt i fordonets omgivning.
+
+## Säkerhets- och åtkomstteknologier
+
+Tesla Model 3 är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 

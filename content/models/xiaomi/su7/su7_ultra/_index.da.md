@@ -140,8 +140,6 @@ Der er et tilgængeligt klimasystem.
 
 Xiaomi SU7 Ultra inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -232,6 +230,12 @@ Med standard Xiaomi Pilot Max niveau 2-systemet får du følgende funktioner til
 
 Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til sine førerassistentsystemer.
 Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), otte [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerheds- og adgangsteknologier
+
+Xiaomi SU7 Ultra er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -226,6 +226,12 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [caméras](../../../../technology/sensorsandcameras/cameras/) et quatre [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
+## Technologies de sécurité et d'accès
+
+Le Opel Frontera est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
+
+- **Accès manuel par clé :** Le véhicule utilise un système de clé traditionnel, vous permettant de déverrouiller et de démarrer la voiture manuellement avec facilité.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage

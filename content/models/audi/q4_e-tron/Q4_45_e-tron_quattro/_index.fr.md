@@ -194,8 +194,6 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 
 L'Audi Q4 45 e-tron quattro comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
-- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
 
@@ -329,6 +327,13 @@ Le Audi Q4 45 e-tron quattro est équipé de plusieurs airbags pour assurer la p
 - Un airbag central avant pour empêcher le conducteur et le passager avant de se heurter lors d'un impact latéral
 
 De plus, les ceintures de sécurité avant sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
+
+## Technologies de sécurité et d'accès
+
+Le Audi Q4 45 e-tron quattro est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Système d'alarme :** Un système d'alarme intégré en option surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à renforcer la sécurité du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

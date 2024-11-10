@@ -150,8 +150,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El Mercedes-AMG EQE 43 4MATIC SUV incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
-- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
@@ -259,6 +257,10 @@ Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes fun
 Con el sistema opcional Driver Assistance Package Plus de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+
+## Tecnologías de seguridad y acceso
+
+El Mercedes-AMG EQE 43 4MATIC SUV está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
 
 {{<evkxdisplayaddarticle />}}
 

@@ -194,8 +194,6 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 
 Audi Q4 55 e-tron quattro inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
-- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
-- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
@@ -329,6 +327,13 @@ Audi Q4 55 e-tron quattro er udstyret med flere airbags for at sikre beskyttelse
 - En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
 
 Derudover er sikkerhedsselerne i første række udstyret med selestrammere, der strammes automatisk under en kollision for at minimere skaderisikoen.
+
+## Sikkerheds- og adgangsteknologier
+
+Audi Q4 55 e-tron quattro er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+
+- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Alarmsystem:** Et valgfrit integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og forbedre køretøjets sikkerhed.
 
 {{<evkxdisplayaddarticle />}}
 
