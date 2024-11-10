@@ -68,9 +68,11 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 ## Exterieur
 
-Der MG MG4 Electric XPOWER, mit Abmessungen von 4287 mm Länge, 1836 mm Breite und 1504 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der MG MG4 Electric XPOWER ist in insgesamt 7 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der MG MG4 Electric XPOWER, mit Abmessungen von 4287 mm Länge, 1836 mm Breite und 1504 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der MG MG4 Electric XPOWER ist in insgesamt 7 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
 Der MG MG4 Electric XPOWER bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#boot-lid) für den Kofferraum.
 
 Es gibt nur eine Dachoption für dieses Modell. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
@@ -200,5 +202,11 @@ Das maximale Gewicht des Fahrzeugs beträgt 2133 kg (4702 lbs) bei einem Leergew
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 500 kg (1102 lbs), während es für einen ungebremsten Anhänger 500 kg (1102 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 387 000,00 NOK (Norwegen)
 
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Reichweite" >}}

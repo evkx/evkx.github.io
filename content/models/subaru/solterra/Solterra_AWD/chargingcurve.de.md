@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimales Ladegebiet
 			</td>
 			<td>
-				2% - 48%
+				4% - 48%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimale Ladegeschwindigkeit inklusive 5 Minuten Verlust
 			</td>
 			<td>
-				76,6kW
+				78,4kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimale Ladezeit
 			</td>
 			<td>
-				21m54s
+				22m33s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladezeit 0-100%
 			</td>
 			<td>
-				1 h 15 m 49 s
+				1 h 23 m 39 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-100%
 			</td>
 			<td>
-				1 h 11 m 18 s
+				1 h 18 m 40 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladezeit 10-80%
 			</td>
 			<td>
-				 34 m 51 s
+				 38 m 27 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,7 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,1 km (3,8 mi)
+				5,6 km (3,5 mi)
 			</td>
 			<td>
 				?
@@ -189,7 +189,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,3 km (3,3 mi)
 			</td>
 			<td>
 				?
@@ -206,7 +206,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				9,4 km (5,8 mi)
+				8,5 km (5,3 mi)
 			</td>
 			<td>
 				?
@@ -268,7 +268,7 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 0 m 34 s
+				 0 m 37 s
 			</td>
 			<td>
 				0,6 kWh
@@ -282,10 +282,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				82 kW
 			</td>
 			<td>
-				 1 m 1 s
+				 1 m 8 s
 			</td>
 			<td>
-				1,2 kWh
+				1,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				83 kW
 			</td>
 			<td>
-				 1 m 29 s
+				 1 m 38 s
 			</td>
 			<td>
-				1,7 kWh
+				1,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				84 kW
 			</td>
 			<td>
-				 1 m 55 s
+				 2 m 7 s
 			</td>
 			<td>
-				2,3 kWh
+				2,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				85 kW
 			</td>
 			<td>
-				 2 m 22 s
+				 2 m 37 s
 			</td>
 			<td>
-				2,9 kWh
+				3,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				86 kW
 			</td>
 			<td>
-				 2 m 48 s
+				 3 m 6 s
 			</td>
 			<td>
-				3,5 kWh
+				3,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				87 kW
 			</td>
 			<td>
-				 3 m 14 s
+				 3 m 34 s
 			</td>
 			<td>
-				4,1 kWh
+				4,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				88 kW
 			</td>
 			<td>
-				 3 m 40 s
+				 4 m 3 s
 			</td>
 			<td>
-				4,6 kWh
+				5,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				89 kW
 			</td>
 			<td>
-				 4 m 5 s
+				 4 m 31 s
 			</td>
 			<td>
-				5,2 kWh
+				5,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				90 kW
 			</td>
 			<td>
-				 4 m 30 s
+				 4 m 58 s
 			</td>
 			<td>
-				5,8 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				90 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 26 s
 			</td>
 			<td>
-				6,4 kWh
+				7,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				111 kW
 			</td>
 			<td>
-				 5 m 18 s
+				 5 m 51 s
 			</td>
 			<td>
-				7,0 kWh
+				7,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				121 kW
 			</td>
 			<td>
-				 5 m 37 s
+				 6 m 12 s
 			</td>
 			<td>
-				7,5 kWh
+				8,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				129 kW
 			</td>
 			<td>
-				 5 m 55 s
+				 6 m 32 s
 			</td>
 			<td>
-				8,1 kWh
+				9,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				132 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 51 s
 			</td>
 			<td>
-				8,7 kWh
+				9,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				133 kW
 			</td>
 			<td>
-				 6 m 29 s
+				 7 m 9 s
 			</td>
 			<td>
-				9,3 kWh
+				10,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				135 kW
 			</td>
 			<td>
-				 6 m 46 s
+				 7 m 28 s
 			</td>
 			<td>
-				9,9 kWh
+				10,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				134 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 46 s
 			</td>
 			<td>
-				10,4 kWh
+				11,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				133 kW
 			</td>
 			<td>
-				 7 m 19 s
+				 8 m 5 s
 			</td>
 			<td>
-				11,0 kWh
+				12,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				135 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 8 m 23 s
 			</td>
 			<td>
-				11,6 kWh
+				12,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				134 kW
 			</td>
 			<td>
-				 7 m 53 s
+				 8 m 42 s
 			</td>
 			<td>
-				12,2 kWh
+				13,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				132 kW
 			</td>
 			<td>
-				 8 m 10 s
+				 9 m 0 s
 			</td>
 			<td>
-				12,8 kWh
+				14,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				134 kW
 			</td>
 			<td>
-				 8 m 27 s
+				 9 m 19 s
 			</td>
 			<td>
-				13,3 kWh
+				14,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				134 kW
 			</td>
 			<td>
-				 8 m 43 s
+				 9 m 37 s
 			</td>
 			<td>
-				13,9 kWh
+				15,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				137 kW
 			</td>
 			<td>
-				 9 m 0 s
+				 9 m 56 s
 			</td>
 			<td>
-				14,5 kWh
+				16,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				135 kW
 			</td>
 			<td>
-				 9 m 16 s
+				 10 m 14 s
 			</td>
 			<td>
-				15,1 kWh
+				16,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				136 kW
 			</td>
 			<td>
-				 9 m 33 s
+				 10 m 32 s
 			</td>
 			<td>
-				15,7 kWh
+				17,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				133 kW
 			</td>
 			<td>
-				 9 m 50 s
+				 10 m 51 s
 			</td>
 			<td>
-				16,2 kWh
+				17,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				132 kW
 			</td>
 			<td>
-				 10 m 7 s
+				 11 m 9 s
 			</td>
 			<td>
-				16,8 kWh
+				18,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				129 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 11 m 28 s
 			</td>
 			<td>
-				17,4 kWh
+				19,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				126 kW
 			</td>
 			<td>
-				 10 m 41 s
+				 11 m 48 s
 			</td>
 			<td>
-				18,0 kWh
+				19,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				123 kW
 			</td>
 			<td>
-				 10 m 59 s
+				 12 m 8 s
 			</td>
 			<td>
-				18,6 kWh
+				20,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				120 kW
 			</td>
 			<td>
-				 11 m 18 s
+				 12 m 28 s
 			</td>
 			<td>
-				19,1 kWh
+				21,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				119 kW
 			</td>
 			<td>
-				 11 m 37 s
+				 12 m 49 s
 			</td>
 			<td>
-				19,7 kWh
+				21,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				113 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 13 m 10 s
 			</td>
 			<td>
-				20,3 kWh
+				22,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				111 kW
 			</td>
 			<td>
-				 12 m 16 s
+				 13 m 32 s
 			</td>
 			<td>
-				20,9 kWh
+				23,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				109 kW
 			</td>
 			<td>
-				 12 m 37 s
+				 13 m 55 s
 			</td>
 			<td>
-				21,5 kWh
+				23,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				106 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 14 m 18 s
 			</td>
 			<td>
-				22,0 kWh
+				24,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				103 kW
 			</td>
 			<td>
-				 13 m 19 s
+				 14 m 42 s
 			</td>
 			<td>
-				22,6 kWh
+				25,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				104 kW
 			</td>
 			<td>
-				 13 m 41 s
+				 15 m 6 s
 			</td>
 			<td>
-				23,2 kWh
+				25,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				99 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 15 m 30 s
 			</td>
 			<td>
-				23,8 kWh
+				26,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				96 kW
 			</td>
 			<td>
-				 14 m 26 s
+				 15 m 55 s
 			</td>
 			<td>
-				24,4 kWh
+				26,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				97 kW
 			</td>
 			<td>
-				 14 m 49 s
+				 16 m 21 s
 			</td>
 			<td>
-				24,9 kWh
+				27,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				91 kW
 			</td>
 			<td>
-				 15 m 13 s
+				 16 m 47 s
 			</td>
 			<td>
-				25,5 kWh
+				28,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				91 kW
 			</td>
 			<td>
-				 15 m 38 s
+				 17 m 15 s
 			</td>
 			<td>
-				26,1 kWh
+				28,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				87 kW
 			</td>
 			<td>
-				 16 m 3 s
+				 17 m 42 s
 			</td>
 			<td>
-				26,7 kWh
+				29,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				86 kW
 			</td>
 			<td>
-				 16 m 29 s
+				 18 m 11 s
 			</td>
 			<td>
-				27,3 kWh
+				30,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				83 kW
 			</td>
 			<td>
-				 16 m 55 s
+				 18 m 40 s
 			</td>
 			<td>
-				27,8 kWh
+				30,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				81 kW
 			</td>
 			<td>
-				 17 m 23 s
+				 19 m 11 s
 			</td>
 			<td>
-				28,4 kWh
+				31,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				83 kW
 			</td>
 			<td>
-				 17 m 50 s
+				 19 m 41 s
 			</td>
 			<td>
-				29,0 kWh
+				32,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				78 kW
 			</td>
 			<td>
-				 18 m 18 s
+				 20 m 12 s
 			</td>
 			<td>
-				29,6 kWh
+				32,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				75 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 20 m 44 s
 			</td>
 			<td>
-				30,2 kWh
+				33,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				73 kW
 			</td>
 			<td>
-				 19 m 18 s
+				 21 m 17 s
 			</td>
 			<td>
-				30,7 kWh
+				33,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				72 kW
 			</td>
 			<td>
-				 19 m 49 s
+				 21 m 52 s
 			</td>
 			<td>
-				31,3 kWh
+				34,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				69 kW
 			</td>
 			<td>
-				 20 m 20 s
+				 22 m 27 s
 			</td>
 			<td>
-				31,9 kWh
+				35,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				69 kW
 			</td>
 			<td>
-				 20 m 53 s
+				 23 m 3 s
 			</td>
 			<td>
-				32,5 kWh
+				35,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				65 kW
 			</td>
 			<td>
-				 21 m 27 s
+				 23 m 40 s
 			</td>
 			<td>
-				33,1 kWh
+				36,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				63 kW
 			</td>
 			<td>
-				 22 m 2 s
+				 24 m 18 s
 			</td>
 			<td>
-				33,6 kWh
+				37,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				61 kW
 			</td>
 			<td>
-				 22 m 38 s
+				 24 m 58 s
 			</td>
 			<td>
-				34,2 kWh
+				37,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				60 kW
 			</td>
 			<td>
-				 23 m 15 s
+				 25 m 39 s
 			</td>
 			<td>
-				34,8 kWh
+				38,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				58 kW
 			</td>
 			<td>
-				 23 m 53 s
+				 26 m 21 s
 			</td>
 			<td>
-				35,4 kWh
+				39,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				57 kW
 			</td>
 			<td>
-				 24 m 32 s
+				 27 m 4 s
 			</td>
 			<td>
-				36,0 kWh
+				39,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				53 kW
 			</td>
 			<td>
-				 25 m 13 s
+				 27 m 49 s
 			</td>
 			<td>
-				36,5 kWh
+				40,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				53 kW
 			</td>
 			<td>
-				 25 m 55 s
+				 28 m 36 s
 			</td>
 			<td>
-				37,1 kWh
+				41,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				54 kW
 			</td>
 			<td>
-				 26 m 37 s
+				 29 m 22 s
 			</td>
 			<td>
-				37,7 kWh
+				41,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				52 kW
 			</td>
 			<td>
-				 27 m 20 s
+				 30 m 9 s
 			</td>
 			<td>
-				38,3 kWh
+				42,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				53 kW
 			</td>
 			<td>
-				 28 m 2 s
+				 30 m 56 s
 			</td>
 			<td>
-				38,9 kWh
+				42,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				52 kW
 			</td>
 			<td>
-				 28 m 45 s
+				 31 m 44 s
 			</td>
 			<td>
-				39,4 kWh
+				43,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				47 kW
 			</td>
 			<td>
-				 29 m 30 s
+				 32 m 34 s
 			</td>
 			<td>
-				40,0 kWh
+				44,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				47 kW
 			</td>
 			<td>
-				 30 m 18 s
+				 33 m 26 s
 			</td>
 			<td>
-				40,6 kWh
+				44,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				46 kW
 			</td>
 			<td>
-				 31 m 6 s
+				 34 m 20 s
 			</td>
 			<td>
-				41,2 kWh
+				45,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				44 kW
 			</td>
 			<td>
-				 31 m 56 s
+				 35 m 15 s
 			</td>
 			<td>
-				41,8 kWh
+				46,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				43 kW
 			</td>
 			<td>
-				 32 m 48 s
+				 36 m 12 s
 			</td>
 			<td>
-				42,3 kWh
+				46,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				44 kW
 			</td>
 			<td>
-				 33 m 40 s
+				 37 m 9 s
 			</td>
 			<td>
-				42,9 kWh
+				47,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				42 kW
 			</td>
 			<td>
-				 34 m 32 s
+				 38 m 6 s
 			</td>
 			<td>
-				43,5 kWh
+				48,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				40 kW
 			</td>
 			<td>
-				 35 m 27 s
+				 39 m 7 s
 			</td>
 			<td>
-				44,1 kWh
+				48,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				39 kW
 			</td>
 			<td>
-				 36 m 23 s
+				 40 m 9 s
 			</td>
 			<td>
-				44,7 kWh
+				49,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				39 kW
 			</td>
 			<td>
-				 37 m 21 s
+				 41 m 13 s
 			</td>
 			<td>
-				45,2 kWh
+				49,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				37 kW
 			</td>
 			<td>
-				 38 m 20 s
+				 42 m 18 s
 			</td>
 			<td>
-				45,8 kWh
+				50,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				36 kW
 			</td>
 			<td>
-				 39 m 22 s
+				 43 m 26 s
 			</td>
 			<td>
-				46,4 kWh
+				51,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				34 kW
 			</td>
 			<td>
-				 40 m 26 s
+				 44 m 37 s
 			</td>
 			<td>
-				47,0 kWh
+				51,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				35 kW
 			</td>
 			<td>
-				 41 m 31 s
+				 45 m 48 s
 			</td>
 			<td>
-				47,6 kWh
+				52,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				34 kW
 			</td>
 			<td>
-				 42 m 36 s
+				 47 m 0 s
 			</td>
 			<td>
-				48,1 kWh
+				53,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				33 kW
 			</td>
 			<td>
-				 43 m 43 s
+				 48 m 14 s
 			</td>
 			<td>
-				48,7 kWh
+				53,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				33 kW
 			</td>
 			<td>
-				 44 m 51 s
+				 49 m 29 s
 			</td>
 			<td>
-				49,3 kWh
+				54,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				31 kW
 			</td>
 			<td>
-				 46 m 1 s
+				 50 m 47 s
 			</td>
 			<td>
-				49,9 kWh
+				55,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				31 kW
 			</td>
 			<td>
-				 47 m 13 s
+				 52 m 7 s
 			</td>
 			<td>
-				50,5 kWh
+				55,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				29 kW
 			</td>
 			<td>
-				 48 m 28 s
+				 53 m 29 s
 			</td>
 			<td>
-				51,0 kWh
+				56,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				28 kW
 			</td>
 			<td>
-				 49 m 47 s
+				 54 m 56 s
 			</td>
 			<td>
-				51,6 kWh
+				57,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				27 kW
 			</td>
 			<td>
-				 51 m 9 s
+				 56 m 26 s
 			</td>
 			<td>
-				52,2 kWh
+				57,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				26 kW
 			</td>
 			<td>
-				 52 m 33 s
+				 58 m 0 s
 			</td>
 			<td>
-				52,8 kWh
+				58,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				25 kW
 			</td>
 			<td>
-				 54 m 2 s
+				 59 m 37 s
 			</td>
 			<td>
-				53,4 kWh
+				58,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				25 kW
 			</td>
 			<td>
-				 55 m 31 s
+				1 h 1 m 16 s
 			</td>
 			<td>
-				53,9 kWh
+				59,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				24 kW
 			</td>
 			<td>
-				 57 m 3 s
+				1 h 2 m 57 s
 			</td>
 			<td>
-				54,5 kWh
+				60,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				20 kW
 			</td>
 			<td>
-				 58 m 45 s
+				1 h 4 m 50 s
 			</td>
 			<td>
-				55,1 kWh
+				60,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				17 kW
 			</td>
 			<td>
-				1 h 0 m 46 s
+				1 h 7 m 4 s
 			</td>
 			<td>
-				55,7 kWh
+				61,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				14 kW
 			</td>
 			<td>
-				1 h 3 m 11 s
+				1 h 9 m 43 s
 			</td>
 			<td>
-				56,3 kWh
+				62,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				10 kW
 			</td>
 			<td>
-				1 h 6 m 18 s
+				1 h 13 m 10 s
 			</td>
 			<td>
-				56,8 kWh
+				62,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				8 kW
 			</td>
 			<td>
-				1 h 10 m 28 s
+				1 h 17 m 45 s
 			</td>
 			<td>
-				57,4 kWh
+				63,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Subaru Solterra AWD verfügt über eine Batterieheizung, die das Laden bei optim
 				6 kW
 			</td>
 			<td>
-				1 h 15 m 49 s
+				1 h 23 m 39 s
 			</td>
 			<td>
-				58,0 kWh
+				64,0 kWh
 			</td>
 		</tr>
 	</tbody>

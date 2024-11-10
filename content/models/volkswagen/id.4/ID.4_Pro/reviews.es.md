@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Charging the 'NEW' VW Id.4 Pro (2024) at Ionity from 4-90%</h3>
+<p>Battery Life: 04.05.2024</p>
+
+{{< youtube C9ciVrc0b4s >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>VW ID4 2024 Update -Things you NEED to know! | Range, Charging, Noise, 0-100</h3>
 <p>It's Only Electric: 24.04.2024</p>
 

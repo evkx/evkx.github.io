@@ -68,9 +68,11 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The MG MG4 Electric XPOWER, with dimensions of 4287 mm in length, 1836 mm in width, and 1504 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG MG4 Electric XPOWER is available in a total of 7 paint colors, including several striking metallic options.
+The MG MG4 Electric XPOWER, with dimensions of 4287 mm in length, 1836 mm in width, and 1504 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG MG4 Electric XPOWER is available in a total of 7 paint colors, including both solid and metallic options.
 
 The MG MG4 Electric XPOWER offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
 There is only one roof option for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -200,5 +202,11 @@ The vehicle’s maximum weight is 2133 kg (4702 lbs), with a base weight of 1715
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 500 kg (1102 lbs), while for an unbraked trailer, it is 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 387 000,00 NOK (Norway)
 
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Range" >}}
