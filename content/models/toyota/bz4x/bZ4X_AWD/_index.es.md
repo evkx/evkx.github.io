@@ -76,6 +76,8 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay cuatro niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
+La potencia regenerativa máxima es de 100 kW.
+
 ## Exterior
 
 El Toyota bZ4X AWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1600 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Toyota bZ4X AWD está disponible en un total de 11 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
@@ -272,7 +274,7 @@ El Toyota bZ4X AWD está equipado con características de seguridad avanzadas pa
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 452 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 452 litros. Con el asiento trasero plegado, esto se expande a 1589 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2550 kg, con un peso base de 2010 kg. Esto permite una carga máxima de 540 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
@@ -281,6 +283,8 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 ## Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 29.10.2021 y las entregas comenzaron en July 2022.
 
 ### Precios
 

@@ -76,6 +76,8 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er fire niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
+Den maksimale regenerative effekt er 100 kW.
+
 ## Udvendig
 
 Den Toyota bZ4X AWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1600 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Toyota bZ4X AWD fås i alt 11 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
@@ -272,7 +274,7 @@ Toyota bZ4X AWD er udstyret med avancerede sikkerhedsfunktioner for at beskytte 
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 452 liter. På taget kan du laste op til 80 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+Bagagerummet har en lastekapacitet på 452 liter. Med det bageste sæde foldet ned, udvides dette til 1589 liter. På taget kan du laste op til 80 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 2550 kg, med en basisvægt på 2010 kg. Dette giver en maksimal last på 540 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
@@ -281,6 +283,8 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 ## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 29.10.2021, og leveringerne startede i July 2022.
 
 ### Priser
 

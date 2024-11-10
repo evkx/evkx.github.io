@@ -76,6 +76,8 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are four levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+The maximum regenerative power is 100 kW.
+
 ## Exterior
 
 The Toyota bZ4X AWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1600 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Toyota bZ4X AWD is available in a total of 11 paint colors, including solid, metallic, and pearlescent options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
@@ -272,7 +274,7 @@ The Toyota bZ4X AWD is equipped with advanced security features to protect you a
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 452 liters (16.0 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 452 liters (16.0 CU FT). With the rear seat folded down, this expands to 1589 liters (56.1 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2550 kg (5622 lbs), with a base weight of 2010 kg (4431 lbs). This allows for a maximum load of 540 kg (1190 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
@@ -281,6 +283,8 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 ## Availability & Pricing
+
+The Toyota bZ4X AWD had its world premiere on 29.10.2021, with deliveries starting in July 2022.
 
 ### Pricing
 

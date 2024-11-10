@@ -193,6 +193,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -303,6 +311,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2180 mm (85,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>
@@ -323,6 +339,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				1610 mm (63,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,291
 			</td>
 		</tr>
 		<tr>
@@ -404,6 +428,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				452 liter (16 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
+			</td>
+			<td>
+				1589 liter (56 cu-ft)
 			</td>
 		</tr>
 		<tr>

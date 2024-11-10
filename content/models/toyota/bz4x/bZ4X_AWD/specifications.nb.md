@@ -193,6 +193,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -303,6 +311,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bredde inkludert speil
+			</td>
+			<td>
+				2180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Akselavstand
 			</td>
 			<td>
@@ -323,6 +339,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag-koeffisient
+			</td>
+			<td>
+				0,291
 			</td>
 		</tr>
 		<tr>
@@ -404,6 +428,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				452 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse med alle bakseter lagt ned
+			</td>
+			<td>
+				1589 liter
 			</td>
 		</tr>
 		<tr>

@@ -43,7 +43,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				539 km / 335 mi
 			</td>
 			<td>
-				14,29kWh/100km / 4,3 mi/kWh
+				14,21kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				522 km / 324 mi
 			</td>
 			<td>
-				14,75 kWh/100km / 4,2 mi/kWh
+				14,67 kWh/100km / 4,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				367 km / 228 mi
+				365 km / 227 mi
 			</td>
 			<td>
 				21 kWh/100km / 3,0 mi/kWh
@@ -143,7 +143,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				340 km /211mi
+				338 km /210mi
 			</td>
 			<td>
 				22,7 kWh/100km /2,7 mi/kWh

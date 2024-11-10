@@ -30,17 +30,17 @@ The SKODA ENYAQ 85x delivers a solid performance with a maximum power of 210 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 77.0 kWh, providing a 5.0 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 76.6 kWh, providing a 5.4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 539 to 522 km (335-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 14.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 539 to 522 km (335-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.2 kWh/100 km for the base model and 14.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 92 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 100 kW, with each charging session taking about 19 minutes and 1 seconds.
+The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical scenario from 10% to 80% takes 27 minutes with an average charging speed of 118 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 54%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 20 minutes and 23 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 41 minutes. This journey would require four charging stops from 2% to 46%, with a total charging time of 82 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 32 minutes. This journey would require four charging stops from 6% to 50%, with a total charging time of 73 minutes.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 0 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 57 minutes using a home charging setup.
 
 ### Charge Port
 

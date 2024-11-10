@@ -76,6 +76,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns fyra nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
+Den maximala regenerativa effekten är 100 kW.
+
 ## Exteriör
 
 Toyota bZ4X AWD, med dimensioner på 4690 mm i längd, 1860 mm i bredd och 1600 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Toyota bZ4X AWD finns i totalt 11 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
@@ -272,7 +274,7 @@ Toyota bZ4X AWD är utrustad med avancerade säkerhetsfunktioner för att skydda
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 452 liter. På taket kan du lasta upp till 80 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet erbjuder en lastkapacitet på 452 liter. Med baksätena nedfällda ökar detta till 1589 liter. På taket kan du lasta upp till 80 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 2550 kg, med en grundvikt på 2010 kg. Detta tillåter en maximal last på 540 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
@@ -281,6 +283,8 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 ## Tillgänglighet och pris
+
+Denna modell hade världspremiär 29.10.2021 och leveranserna startade i July 2022.
 
 ### Prissättning
 

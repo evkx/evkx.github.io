@@ -193,6 +193,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				355,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -303,6 +311,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bredd inklusive speglar
+			</td>
+			<td>
+				2180 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Axelavstånd
 			</td>
 			<td>
@@ -323,6 +339,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				1610 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dragkoefficient
+			</td>
+			<td>
+				0,291
 			</td>
 		</tr>
 		<tr>
@@ -404,6 +428,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				452 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				1589 liter
 			</td>
 		</tr>
 		<tr>

@@ -76,6 +76,8 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a quatre niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
+La puissance régénérative maximale est de 100 kW.
+
 ## Extérieur
 
 La Toyota bZ4X AWD, avec des dimensions de 4690 mm de longueur, 1860 mm de largeur et 1600 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Toyota bZ4X AWD est disponible en un total de 11 couleurs de peinture, comprenant des options solides, métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
@@ -272,7 +274,7 @@ Le Toyota bZ4X AWD est équipé de fonctionnalités de sécurité avancées pour
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 452 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 452 litres. Avec les sièges arrière rabattus, cette capacité passe à 1589 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 2550 kg, avec un poids de base de 2010 kg. Cela permet une charge maximale de 540 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
@@ -281,6 +283,8 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 ## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 29.10.2021 et les livraisons ont commencé en July 2022.
 
 ### Tarification
 

@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ 85x" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
