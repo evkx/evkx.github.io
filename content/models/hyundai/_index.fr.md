@@ -41,7 +41,7 @@ Hyundai INSTER est un hayon disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 5 est un SUV disponible en 4 variantes.
+Hyundai Ioniq 5 est un SUV disponible en 5 variantes.
 </p>
 	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

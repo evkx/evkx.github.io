@@ -72,7 +72,7 @@ MG MG4 Electric XPOWER, med dimensioner på 4287 mm i längd, 1836 mm i bredd oc
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på MG MG4 Electric XPOWER, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och den åkandes komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
@@ -180,7 +180,21 @@ MG MG4 Electric XPOWER inkluderar flera [avancerade förarassistanssystem](../..
 
 ### Säkerhetssystem
 
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på MG MG4 Electric XPOWER, detta system förhindrar att hjulen låser sig under bromsning.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på MG MG4 Electric XPOWER, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG MG4 Electric XPOWER, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på MG MG4 Electric XPOWER, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MG MG4 Electric XPOWER, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på MG MG4 Electric XPOWER, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på MG MG4 Electric XPOWER, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på MG MG4 Electric XPOWER, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
 
 ### Körautomatisering
 
@@ -191,7 +205,9 @@ Med standard  nivå 2-systemet får du följande funktioner för körautomatiser
 
 ## Säkerhets- och åtkomstteknologier
 
-MG MG4 Electric XPOWER är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+MG MG4 Electric XPOWER är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-422c1513
+  translation: Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 546 km (339 miles). EVKX.net has all the details.
+
 - id: frontpage-description-540acf6b
   translation: Lucid Gravity Grand Touring is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a0da6ccf
   translation: Nissan Ariya NISMO is an all-electric coupe SUV with a WLTP range of up to 417 km (259 miles). EVKX.net has all the details.
-
-- id: frontpage-description-43d72223
-  translation: OMODA E5 is an all-electric crossover with a WLTP range of up to 430 km (267 miles). EVKX.net has all the details.
 

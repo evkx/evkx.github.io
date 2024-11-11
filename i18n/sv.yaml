@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-422c1513
+  translation: Hyundai Ioniq 5 Long Range AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 546 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-540acf6b
   translation: Lucid Gravity Grand Touring är en helelektrisk SUV med en EPA räckvidd på upp till 708 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a0da6ccf
   translation: Nissan Ariya NISMO är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 417 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-43d72223
-  translation: OMODA E5 är en helelektrisk crossover med en WLTP räckvidd på upp till 430 km. EVKX.net har alla detaljer.
 

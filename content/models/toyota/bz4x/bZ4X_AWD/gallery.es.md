@@ -72,6 +72,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/steeringwheel_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/steeringwheel_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1999" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/steeringwheel_1_xst.jpg" alt="Toyota bZ4X AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1.jpg"
 data-pswp-width="3000"

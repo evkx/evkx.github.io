@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD
 linktitle: "Ioniq 5 Long Range AWD"
-description: "Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details."
+description: "Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 546 km (339 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Hyundai Ioniq 5 Long Range AWD delivers a solid performance with a maximum power of 239 kW (325 hp / 321 bhp) and a total torque of 605 Nm (446 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.1 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
+The Hyundai Ioniq 5 Long Range AWD delivers a solid performance with a maximum power of 239 kW (325 hp / 321 bhp) and a total torque of 605 Nm (446 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 84.0 kWh and a net usable capacity of 80.0 kWh, providing a 4.0 kWh buffer (4.8%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 481 to 454 km (299-282 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.4 kWh/100 km for the base model and 16.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 546 to 495 km (339-308 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 16.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 39 minutes, while a more typical scenario from 10% to 80% takes 17 minutes with an average charging speed of 188 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 149 kW, with each charging session taking about 22 minutes and 20 seconds. This efficient charging capability makes the Hyundai Ioniq 5 Long Range AWD a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 76 minutes, while a more typical scenario from 10% to 80% takes 20 minutes with an average charging speed of 172 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 63%. This results in an effective charging speed, including time lost, of 156 kW, with each charging session taking about 19 minutes and 6 seconds. This efficient charging capability makes the Hyundai Ioniq 5 Long Range AWD a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 9 hours and 27 minutes. This journey would require three charging stops from 1% to 76%, with a total charging time of 67 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 9 hours and 22 minutes. This journey would require three charging stops from 1% to 68%, with a total charging time of 62 minutes.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 43 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 16 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -64,7 +64,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
-The maximum regenerative power is 150 kW.
+The maximum regenerative power is 277 kW.
 
 ## Exterior
 

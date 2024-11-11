@@ -72,7 +72,7 @@ The MG MG4 Electric XPOWER, with dimensions of 4287 mm in length, 1836 mm in wid
 
 The MG MG4 Electric XPOWER offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof option for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -180,7 +180,21 @@ The MG MG4 Electric XPOWER features a range of standard and optional [advanced d
 
 ### Safety Systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the MG MG4 Electric XPOWER, this system prevents the wheels from locking during braking.
+
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the MG MG4 Electric XPOWER, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the MG MG4 Electric XPOWER, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the MG MG4 Electric XPOWER, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the MG MG4 Electric XPOWER, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the MG MG4 Electric XPOWER, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the MG MG4 Electric XPOWER, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the MG MG4 Electric XPOWER, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -191,7 +205,9 @@ With the standard  level 2 system, you get the following driving automation feat
 
 ## Security and Access Technologies
 
-The MG MG4 Electric XPOWER is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+The MG MG4 Electric XPOWER is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

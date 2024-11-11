@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD
 linktitle: "Ioniq 5 Long Range AWD"
-description: "Hyundai Ioniq 5 Long Range AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 481 km (299 millas). EVKX.net tiene todos los detalles."
+description: "Hyundai Ioniq 5 Long Range AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 546 km (339 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Hemos separado nuestro artículo Hyundai Ioniq 5 Long Range AWD en secciones. Si
 
 ## Rendimiento
 
-El Hyundai Ioniq 5 Long Range AWD ofrece un rendimiento sólido con una potencia máxima de 239 kW (325 hp) y un par total de 605 Nm. Puede acelerar de 0 a 100 km/h en 5,1 segundos y alcanza una velocidad máxima de 185 km/h, lo que lo hace competitivo en su clase.
+El Hyundai Ioniq 5 Long Range AWD ofrece un rendimiento sólido con una potencia máxima de 239 kW (325 hp) y un par total de 605 Nm. Puede acelerar de 0 a 100 km/h en 5,3 segundos y alcanza una velocidad máxima de 185 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 84,0 kWh y una capacidad neta utilizable de 80,0 kWh, proporcionando un buffer de 4,0 kWh (4,8%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 481 y 454 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,4 kWh/100 km para el modelo base y 16,3 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 546 y 495 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,7 kWh/100 km para el modelo base y 16,2 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 39 minutos, mientras que un escenario más común del 10 al 80 % tardaría 17 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 149kW. Cada sesión de carga tardaría 22 minutos y 20 segundos. Esta capacidad de carga eficiente hace que el Hyundai Ioniq 5 Long Range AWD sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 76 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 156kW. Cada sesión de carga tardaría 19 minutos y 6 segundos. Esta capacidad de carga eficiente hace que el Hyundai Ioniq 5 Long Range AWD sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 27 minutos. Este viaje requeriría dos paradas de carga del 1% al 76%, con un tiempo total de carga de 67 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 22 minutos. Este viaje requeriría dos paradas de carga del 1% al 68%, con un tiempo total de carga de 62 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 43 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 16 minutos usando un cargador en casa.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -64,7 +64,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 [La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
 
-La potencia regenerativa máxima es de 150 kW.
+La potencia regenerativa máxima es de 277 kW.
 
 ## Exterior
 

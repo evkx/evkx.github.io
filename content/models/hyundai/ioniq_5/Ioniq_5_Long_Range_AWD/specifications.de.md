@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Hyundai Ioniq 5 Lo
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,1 s
+				5,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Basisausstattung
 			</td>
 			<td>
-				481 km
+				546 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				15,4 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
 			</td>
 			<td>
-				17,2 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Top-Ausstattung
 			</td>
 			<td>
-				454 km
+				495 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				16,3 kWh/100km
+				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
 			</td>
 			<td>
-				19,1 kwh/100km
+				18,2 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				77,4 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				74 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

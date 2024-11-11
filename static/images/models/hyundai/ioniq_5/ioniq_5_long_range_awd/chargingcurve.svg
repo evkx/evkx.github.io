@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  941 40  476 50  452 60  446 70  446 80  440 90  437 100  434 110  434 120  431 130  428 140  428 150  425 160  425 170  422 180  422 190  425 200  422 210  419 220  419 230  419 240  419 250  419 260  416 270  416 280  416 290  416 300  413 310  416 320  413 330  413 340  413 350  410 360  410 370  410 380  410 390  401 400  401 410  401 420  401 430  395 440  398 450  395 460  392 470  392 480  392 490  389 500  461 510  533 520  533 530  533 540  533 550  530 560  530 570  527 580  527 590  524 600  551 610  546 620  541 630  535 640  530 650  524 660  524 670  523 680  521 690  518 700  515 710  512 720  539 730  539 740  587 750  587 760  587 770  584 780  584 790  620 800  617 810  619 820  620 830  617 840  620 850  673 860  725 870  725 880  725 890  800 900  845 910  872 920  887 930  902 940  914 950  932 960  941 970  959 980  971 990  983 1000  998 1010  1022 1020  1043 1030  1055 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  941 40  476 50  452 60  446 70  446 80  440 90  437 100  434 110  434 120  431 130  428 140  428 150  425 160  425 170  422 180  422 190  425 200  422 210  419 220  419 230  419 240  419 250  419 260  416 270  416 280  416 290  353 300  350 310  350 320  350 330  344 340  344 350  344 360  344 370  341 380  341 390  341 400  338 410  338 420  338 430  332 440  332 450  332 460  332 470  329 480  326 490  326 500  326 510  323 520  323 530  320 540  479 550  476 560  476 570  476 580  476 590  476 600  470 610  506 620  506 630  506 640  506 650  503 660  611 670  608 680  611 690  611 700  608 710  605 720  737 730  734 740  737 750  740 760  734 770  734 780  734 790  791 800  818 810  845 820  872 830  890 840  911 850  929 860  947 870  962 880  974 890  989 900  995 910  995 920  995 930  995 940  1001 950  1019 960  1034 970  1049 980  1061 990  1062 1000  1063 1010  1063 1020  1064 1030  1064 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -349,13 +349,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging curve for Hyundai Ioniq 5 Long Range AWD 77,4 kWh
+                                EVKX.net - Charging curve for Hyundai Ioniq 5 Long Range AWD 84 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging curve for Hyundai Ioniq 5 Long Range AWD 77,4 kWh
+                    EVKX.net - Charging curve for Hyundai Ioniq 5 Long Range AWD 84 kWh
                 </text>
             </switch>
         </g>

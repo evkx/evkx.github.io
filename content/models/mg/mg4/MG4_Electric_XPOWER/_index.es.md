@@ -72,7 +72,7 @@ El MG MG4 Electric XPOWER, con dimensiones de 4287 mm de longitud, 1836 mm de an
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el MG MG4 Electric XPOWER, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
@@ -180,7 +180,21 @@ El MG MG4 Electric XPOWER incluye varios [sistemas avanzados de asistencia al co
 
 ### Sistemas de Seguridad
 
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el MG MG4 Electric XPOWER, este sistema evita que las ruedas se bloqueen durante el frenado.
+
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el MG MG4 Electric XPOWER, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el MG MG4 Electric XPOWER, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el MG MG4 Electric XPOWER, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el MG MG4 Electric XPOWER, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el MG MG4 Electric XPOWER, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el MG MG4 Electric XPOWER, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el MG MG4 Electric XPOWER, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
@@ -191,7 +205,9 @@ Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de autom
 
 ## Tecnologías de seguridad y acceso
 
-El MG MG4 Electric XPOWER está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estos incluyen:
+El MG MG4 Electric XPOWER está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+
+- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 

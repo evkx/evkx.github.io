@@ -72,7 +72,7 @@ La MG MG4 Electric XPOWER, avec des dimensions de 4287 mm de longueur, 1836 mm d
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'MG MG4 Electric XPOWER, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
@@ -180,7 +180,21 @@ Le MG MG4 Electric XPOWER comprend plusieurs [systèmes avancés d'assistance au
 
 ### Systèmes de Sécurité
 
+[**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le MG MG4 Electric XPOWER, ce système empêche les roues de se bloquer lors du freinage.
+
+[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le MG MG4 Electric XPOWER, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le MG MG4 Electric XPOWER, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+
+[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le MG MG4 Electric XPOWER, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+
+[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le MG MG4 Electric XPOWER, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le MG MG4 Electric XPOWER, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+
+[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le MG MG4 Electric XPOWER, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le MG MG4 Electric XPOWER, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la Conduite
 
@@ -191,7 +205,9 @@ Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivan
 
 ## Technologies de sécurité et d'accès
 
-Le MG MG4 Electric XPOWER est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
+Le MG MG4 Electric XPOWER est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 

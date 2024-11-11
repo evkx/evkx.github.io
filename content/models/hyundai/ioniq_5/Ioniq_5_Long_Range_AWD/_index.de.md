@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD
 linktitle: "Ioniq 5 Long Range AWD"
-description: "Hyundai Ioniq 5 Long Range AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 481 km (299 Meilen). EVKX.net hat alle Details."
+description: "Hyundai Ioniq 5 Long Range AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 546 km (339 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Hyundai Ioniq 5 Long Range AWD liefert eine solide Leistung mit einer maximalen Leistung von 239 kW (325 PS / 321 bhp) und einem Gesamtdrehmoment von 605 Nm (446 lb-ft). Er beschleunigt in 5,1 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 185 km/h (115 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der Hyundai Ioniq 5 Long Range AWD liefert eine solide Leistung mit einer maximalen Leistung von 239 kW (325 PS / 321 bhp) und einem Gesamtdrehmoment von 605 Nm (446 lb-ft). Er beschleunigt in 5,3 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 185 km/h (115 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 77,4 kWh und eine nutzbare Nettokapazität von 74,0 kWh, was einen Puffer von 3,4 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 84,0 kWh und eine nutzbare Nettokapazität von 80,0 kWh, was einen Puffer von 4,0 kWh (4,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 481 und 454 km (299-282 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 15,4 kWh/100 km für das Basismodell und 16,3 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 546 und 495 km (339-308 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,7 kWh/100 km für das Basismodell und 16,2 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 233 kW. Das Laden von 0% auf 100% dauert etwa 39 Minuten, während ein typischer Ladevorgang von 10% auf 80% 17 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 188 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 76%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 149 kW, wobei jede Ladesitzung etwa 22 Minuten und 20 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Hyundai Ioniq 5 Long Range AWD zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 233 kW. Das Laden von 0% auf 100% dauert etwa 76 Minuten, während ein typischer Ladevorgang von 10% auf 80% 20 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 172 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 63%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 156 kW, wobei jede Ladesitzung etwa 19 Minuten und 6 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Hyundai Ioniq 5 Long Range AWD zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24 kWh/100 km, würde die Fahrt etwa 9 Stunden und 27 Minuten dauern. Diese Reise würde drei Ladestopps von 1% auf 76% erfordern, mit einer gesamten Ladezeit von 67 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24 kWh/100 km, würde die Fahrt etwa 9 Stunden und 22 Minuten dauern. Diese Reise würde drei Ladestopps von 1% auf 68% erfordern, mit einer gesamten Ladezeit von 62 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 43 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -64,7 +64,7 @@ Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser F
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
 
-Die maximale regenerative Leistung beträgt 150 kW.
+Die maximale regenerative Leistung beträgt 277 kW.
 
 ## Exterieur
 

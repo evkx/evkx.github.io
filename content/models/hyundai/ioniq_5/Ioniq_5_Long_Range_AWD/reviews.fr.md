@@ -9,31 +9,17 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Hyundai Ioniq 5 driving impressions & tech insight</h3>
-<p>Bjørn Nyland: 06.10.2021</p>
+<h3>Hyundai Ioniq 5 N-Line 84 kWh 1000 km challenge</h3>
+<p>Bjørn Nyland: 11.11.2024</p>
 
-{{< youtube uLs9wpnk5Z0 >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Hyundai Ioniq 5 1000 km challenge</h3>
-<p>Bjørn Nyland: 02.08.2021</p>
-
-{{< youtube pXvB9-7ciMU >}}
+{{< youtube R3FibF6HZDM >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Hyundai Ioniq 5 interior review</h3>
-<p>Bjørn Nyland: 01.08.2021</p>
+<h3>Hyundai Ioniq 5 N-Line 84 kWh range test</h3>
+<p>Bjørn Nyland: 10.11.2024</p>
 
-{{< youtube PKiTGr_FO4c >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Hyundai Ioniq 5 range test</h3>
-<p>Bjørn Nyland: 31.07.2021</p>
-
-{{< youtube uLs9wpnk5Z0 >}}
+{{< youtube VW_uEjpuAjg >}}
 
 </div>
 <div class="mt-3 mb-3">

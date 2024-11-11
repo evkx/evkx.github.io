@@ -456,7 +456,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  
 	</p>
 	<p>
-	Hyundai has 4 models with total 10 variants.
+	Hyundai has 4 models with total 11 variants.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Go to Hyundai EV-model overview</a>
 </div>

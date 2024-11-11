@@ -792,6 +792,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Varning för korstrafik, bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -834,6 +835,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -841,6 +843,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Autonom nödbromsning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -848,6 +851,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antispinnsystem (TCS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -862,6 +866,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kollisionsvarning, front
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -869,6 +874,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -890,6 +896,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				EfficiencyAssist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -897,6 +904,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Autonom nödstyrning
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

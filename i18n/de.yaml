@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-422c1513
+  translation: Hyundai Ioniq 5 Long Range AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 546 km (339 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-540acf6b
   translation: Lucid Gravity Grand Touring ist ein vollelektrisches SUV mit einer Reichweite von bis zu 708 km (440 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a0da6ccf
   translation: Nissan Ariya NISMO ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 417 km (259 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-43d72223
-  translation: OMODA E5 ist ein vollelektrisches Crossover mit einer Reichweite von bis zu 430 km (267 Meilen). EVKX.net hat alle Details.
 

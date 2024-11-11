@@ -72,7 +72,7 @@ Der MG MG4 Electric XPOWER, mit Abmessungen von 4287 mm Länge, 1836 mm Breite u
 
 Der MG MG4 Electric XPOWER bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#boot-lid) für den Kofferraum.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 
 Es gibt nur eine Dachoption für dieses Modell. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
@@ -180,7 +180,21 @@ Der MG MG4 Electric XPOWER verfügt über eine Reihe von standardmäßigen und o
 
 ### Sicherheitssysteme
 
+[**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im MG MG4 Electric XPOWER, dieses System verhindert das Blockieren der Räder beim Bremsen.
+
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im MG MG4 Electric XPOWER, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
+
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im MG MG4 Electric XPOWER, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
+
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im MG MG4 Electric XPOWER, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im MG MG4 Electric XPOWER, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
+[**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im MG MG4 Electric XPOWER, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
+
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im MG MG4 Electric XPOWER, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im MG MG4 Electric XPOWER, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
 
 ### Fahrautomatisierung
 
@@ -191,7 +205,9 @@ Mit dem standardmäßigen  Level 2 System erhalten Sie die folgenden Fahrautomat
 
 ## Sicherheits- und Zugangstechnologien
 
-Der MG MG4 Electric XPOWER ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+Der MG MG4 Electric XPOWER ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

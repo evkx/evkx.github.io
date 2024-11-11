@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD
 linktitle: "Ioniq 5 Long Range AWD"
-description: "Hyundai Ioniq 5 Long Range AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 481 km. EVKX.net har alle detaljene."
+description: "Hyundai Ioniq 5 Long Range AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 546 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,21 +26,21 @@ Vi har delt vår beskrivelse av Hyundai Ioniq 5 Long Range AWD i seksjoner. Hvis
 
 ## Ytelse
 
-Hyundai Ioniq 5 Long Range AWD leverer solid ytelse med en maksimal effekt på 239 kW (325 hk) og et totalt dreiemoment på 605 Nm. Den kan akselerere fra 0 til 100 km/t på 5,1 sekunder og når en topphastighet på 185 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Hyundai Ioniq 5 Long Range AWD leverer solid ytelse med en maksimal effekt på 239 kW (325 hk) og et totalt dreiemoment på 605 Nm. Den kan akselerere fra 0 til 100 km/t på 5,3 sekunder og når en topphastighet på 185 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74,0 kWh, som gir en buffer på 3,4 kWh (4,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 697 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 84,0 kWh og en netto brukbar kapasitet på 80,0 kWh, som gir en buffer på 4,0 kWh (4,8%) for batteribeskyttelse. Ved å operere med en nominell spenning på 697 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 481 og 454 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 15,4 kWh/100 km for basismodellen og 16,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 546 og 495 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,7 kWh/100 km for basismodellen og 16,2 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 39 minutter, mens et mer vanlig scenario på 10-80 % vil ta 17 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 149kW. Hver ladeøkt vil ta 22 minutter og 20 sekunder. Denne effektive ladekapasiteten gjør Hyundai Ioniq 5 Long Range AWD til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 76 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 156kW. Hver ladeøkt vil ta 19 minutter og 6 sekunder. Denne effektive ladekapasiteten gjør Hyundai Ioniq 5 Long Range AWD til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24 kWh/100 km, ville turen ta omtrent 9 timer og 27 minutter. Denne reisen ville kreve to ladestopp fra 1% til 76%, med en total ladetid på 67 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24 kWh/100 km, ville turen ta omtrent 9 timer og 22 minutter. Denne reisen ville kreve to ladestopp fra 1% til 68%, med en total ladetid på 62 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 43 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 16 minutter med en hjemmelader.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -64,7 +64,7 @@ Hyundai Ioniq 5 Long Range AWD har et firehjulsdriftssystem som støttes av to m
 
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere.
 
-Den maksimale regenerative effekten er 150 kW.
+Den maksimale regenerative effekten er 277 kW.
 
 ## Eksteriør
 

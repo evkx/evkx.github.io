@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-422c1513
+  translation: Hyundai Ioniq 5 Long Range AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 546 km (339 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-540acf6b
   translation: Lucid Gravity Grand Touring es un SUV totalmente eléctrico con una autonomía EPA de hasta 708 km (440 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a0da6ccf
   translation: Nissan Ariya NISMO es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 417 km (259 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-43d72223
-  translation: OMODA E5 es un crossover totalmente eléctrico con un WLTP alcance de hasta 430 km (267 millas). EVKX.net tiene todos los detalles.
 
