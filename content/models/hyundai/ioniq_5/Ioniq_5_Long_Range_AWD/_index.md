@@ -46,7 +46,11 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 ### Charge Port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
+
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.6 kW of power, including the ability to charge other vehicles.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +129,9 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -135,7 +141,7 @@ There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
 
@@ -210,11 +216,15 @@ The Hyundai Ioniq 5 Long Range AWD features a range of standard and optional [ad
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Hyundai Ioniq 5 Long Range AWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Hyundai Ioniq 5 Long Range AWD, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Hyundai Ioniq 5 Long Range AWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Hyundai Ioniq 5 Long Range AWD, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Hyundai Ioniq 5 Long Range AWD, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Hyundai Ioniq 5 Long Range AWD, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -224,9 +234,25 @@ With the standard  level 2 system, you get the following driving automation feat
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Hyundai Ioniq 5 Long Range AWD is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
 ## Security and Access Technologies
 
-The Hyundai Ioniq 5 Long Range AWD is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+The Hyundai Ioniq 5 Long Range AWD is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
 

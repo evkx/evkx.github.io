@@ -46,7 +46,11 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt. Dieses Modell verwendet [**NACS**](../../../../technology/charging/connectors/#nacs) für Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) für Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,6 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +129,9 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -135,7 +141,7 @@ Es gibt ein Klimasystem verfügbar:
 
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
-Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
+Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
 ## Komfortfunktionen
 
@@ -210,11 +216,15 @@ Der Hyundai Ioniq 5 Long Range AWD verfügt über eine Reihe von standardmäßig
 
 [**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Hyundai Ioniq 5 Long Range AWD, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
 
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Hyundai Ioniq 5 Long Range AWD, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Hyundai Ioniq 5 Long Range AWD, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
 [**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im Hyundai Ioniq 5 Long Range AWD, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Hyundai Ioniq 5 Long Range AWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im Hyundai Ioniq 5 Long Range AWD, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
 
 ### Fahrautomatisierung
 
@@ -224,9 +234,25 @@ Mit dem standardmäßigen  Level 2 System erhalten Sie die folgenden Fahrautomat
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu drei [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Hyundai Ioniq 5 Long Range AWD ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
 ## Sicherheits- und Zugangstechnologien
 
-Der Hyundai Ioniq 5 Long Range AWD ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+Der Hyundai Ioniq 5 Long Range AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

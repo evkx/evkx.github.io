@@ -46,7 +46,11 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
+
+### Toveis lading
+
+Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 3,6 kW strøm, inkludert lading av andre kjøretøy.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +129,9 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -135,7 +141,7 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
 
@@ -210,11 +216,15 @@ Hyundai Ioniq 5 Long Range AWD inkluderer flere [avanserte førerassistanse syst
 
 [**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hyundai Ioniq 5 Long Range AWD, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Hyundai Ioniq 5 Long Range AWD, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hyundai Ioniq 5 Long Range AWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Hyundai Ioniq 5 Long Range AWD, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
 [**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hyundai Ioniq 5 Long Range AWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Hyundai Ioniq 5 Long Range AWD, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
@@ -224,9 +234,25 @@ Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
+## Sikkerhet
+
+Hyundai Ioniq 5 Long Range AWD er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
 ## Sikkerhets- og tilgangsteknologier
 
-Hyundai Ioniq 5 Long Range AWD er utstyrt med essensielle sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
+Hyundai Ioniq 5 Long Range AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
+
+- **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
 

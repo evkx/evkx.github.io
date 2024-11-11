@@ -46,7 +46,11 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
+
+### Recharge bidirectionnelle
+
+Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 3,6 kW de puissance, y compris charger d'autres véhicules.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +129,9 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -135,7 +141,7 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
@@ -210,11 +216,15 @@ Le Hyundai Ioniq 5 Long Range AWD comprend plusieurs [systèmes avancés d'assis
 
 [**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Hyundai Ioniq 5 Long Range AWD, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
 
+[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Hyundai Ioniq 5 Long Range AWD, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Hyundai Ioniq 5 Long Range AWD, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Hyundai Ioniq 5 Long Range AWD, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
 [**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Hyundai Ioniq 5 Long Range AWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Hyundai Ioniq 5 Long Range AWD, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la Conduite
 
@@ -224,9 +234,25 @@ Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivan
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Hyundai Ioniq 5 Long Range AWD est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Un airbag central avant pour empêcher le conducteur et le passager avant de se heurter lors d'un impact latéral
+
 ## Technologies de sécurité et d'accès
 
-Le Hyundai Ioniq 5 Long Range AWD est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
+Le Hyundai Ioniq 5 Long Range AWD est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
+
+- **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 
