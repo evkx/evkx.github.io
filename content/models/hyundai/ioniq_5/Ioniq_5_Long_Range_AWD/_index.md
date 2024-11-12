@@ -60,7 +60,11 @@ The Hyundai Ioniq 5 Long Range AWD features an all-wheel drive system powered by
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
+
+### Steering
+
+Dynamic steering is a standard on the Hyundai Ioniq 5 Long Range AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -93,7 +97,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-There is one seat type you can select in different materials.
+The interior of the Hyundai Ioniq 5 Long Range AWD is functional, with medium-quality materials used throughout. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -175,6 +179,8 @@ The Hyundai Ioniq 5 Long Range AWD is equipped with a single type of steering wh
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 
@@ -262,12 +268,24 @@ The Hyundai Ioniq 5 Long Range AWD is equipped with advanced security features t
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 527 liters (18.6 CU FT). With the rear seat folded down, this expands to 1578 liters (55.7 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 24 liters (0.8 CU FT).
+The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1580 liters (55.8 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 24 liters (0.8 CU FT).
 
-The vehicle’s maximum weight is 2560 kg (5644 lbs), with a base weight of 2045 kg (4508 lbs). This allows for a maximum load of 515 kg (1135 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2685 kg (5919 lbs), with a base weight of 290 kg (639 lbs). This allows for a maximum load of 2395 kg (5280 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
+
+## Availability & Pricing
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Hyundai Ioniq 5 Long Range AWD that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=3129cf%2cb18fdb%2c0cb6ee%2cad3cd5" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai Ioniq 5" f_url="rangeandconsumption/" f_title="Range" >}}

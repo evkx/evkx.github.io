@@ -60,7 +60,11 @@ Hyundai Ioniq 5 Long Range AWD tiene un sistema de tracción total sostenido por
 
 ### Suspensión
 
-La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Hyundai Ioniq 5 Long Range AWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
 ### Frenos
 
@@ -93,7 +97,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+El interior del Hyundai Ioniq 5 Long Range AWD es funcional, con materiales de calidad media utilizados en todo el vehículo. Incluye una consola central flotante que crea un espacio abierto entre el pasajero y el conductor, proporcionando opciones de almacenamiento convenientes. El diseño general prioriza la practicidad y la facilidad de uso. Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
@@ -175,6 +179,8 @@ El Hyundai Ioniq 5 Long Range AWD está equipado con un solo tipo de volante:
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
 
@@ -262,12 +268,24 @@ El Hyundai Ioniq 5 Long Range AWD está equipado con características de segurid
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 527 litros. Con el asiento trasero plegado, esto se expande a 1578 litros. En el techo, puedes cargar hasta 80 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 24 litros.
+El maletero ofrece una capacidad de carga de 520 litros. Con el asiento trasero plegado, esto se expande a 1580 litros. En el techo, puedes cargar hasta 80 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 24 litros.
 
-El peso máximo del vehículo es 2560 kg, con un peso base de 2045 kg. Esto permite una carga máxima de 515 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2685 kg, con un peso base de 290 kg. Esto permite una carga máxima de 2395 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1600 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
+
+## Disponibilidad y precios
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Hyundai Ioniq 5 Long Range AWD que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=3129cf%2cb18fdb%2c0cb6ee%2cad3cd5" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai Ioniq 5" f_url="rangeandconsumption/" f_title="Rango" >}}

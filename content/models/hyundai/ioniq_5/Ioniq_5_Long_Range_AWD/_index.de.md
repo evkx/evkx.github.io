@@ -60,7 +60,11 @@ Der Hyundai Ioniq 5 Long Range AWD verfügt über ein Allradantriebssystem, das 
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 178 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 160 mm.
+
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Hyundai Ioniq 5 Long Range AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
 
 ### Bremsen
 
@@ -93,7 +97,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
-Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Das Interieur des Hyundai Ioniq 5 Long Range AWD ist funktional, mit mittelmäßigen Materialien im gesamten Fahrzeug. Es umfasst eine schwebende Mittelkonsole, die einen offenen Raum zwischen Fahrer und Beifahrer schafft und praktische Stauraumoptionen bietet. Das Gesamtdesign priorisiert Praktikabilität und Benutzerfreundlichkeit. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
@@ -175,6 +179,8 @@ Der Hyundai Ioniq 5 Long Range AWD ist mit einem einzigen Lenkradtyp ausgestatte
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
 ## Infotainment
 
@@ -262,12 +268,24 @@ Der Hyundai Ioniq 5 Long Range AWD ist mit fortschrittlichen Sicherheitsfunktion
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 527 Litern (18,6 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1578 Liter (55,7 CU FT). Auf dem Dach können Sie bis zu 80 kg (176,4 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 24 Litern (0,8 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1580 Liter (55,8 CU FT). Auf dem Dach können Sie bis zu 80 kg (176,4 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 24 Litern (0,8 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 2560 kg (5644 lbs) bei einem Leergewicht von 2045 kg (4508 lbs). Dies ermöglicht eine maximale Zuladung von 515 kg (1135 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2685 kg (5919 lbs) bei einem Leergewicht von 290 kg (639 lbs). Dies ermöglicht eine maximale Zuladung von 2395 kg (5280 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1600 kg (3527 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
+
+## Verfügbarkeit & Preise
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Hyundai Ioniq 5 Long Range AWD identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=3129cf%2cb18fdb%2c0cb6ee%2cad3cd5" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai Ioniq 5" f_url="rangeandconsumption/" f_title="Reichweite" >}}

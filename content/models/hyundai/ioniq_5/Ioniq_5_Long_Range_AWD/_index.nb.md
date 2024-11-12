@@ -60,7 +60,11 @@ Hyundai Ioniq 5 Long Range AWD har et firehjulsdriftssystem som støttes av to m
 
 ### Hjuloppheng
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 160 mm.
+
+### Styring
+
+Dynamisk styring er en standard-funksjonen på Hyundai Ioniq 5 Long Range AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -93,7 +97,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer.
+Interiøret i Hyundai Ioniq 5 Long Range AWD er funksjonelt, med materialer av middels kvalitet brukt gjennomgående. Den inkluderer en flytende midtkonsoll som skaper et åpent rom mellom passasjeren og sjåføren, noe som gir praktiske oppbevaringsmuligheter. Det overordnede designet prioriterer praktisk anvendelse og brukervennlighet. Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
@@ -175,6 +179,8 @@ Hyundai Ioniq 5 Long Range AWD er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
 
@@ -262,12 +268,24 @@ Hyundai Ioniq 5 Long Range AWD er utstyrt med avanserte sikkerhetsfunksjoner for
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 527 liter. Med baksetene nedfelt, utvides dette til 1578 liter. På taket kan du laste opptil 80 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 24 liter.
+Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1580 liter. På taket kan du laste opptil 80 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 24 liter.
 
-Kjøretøyets maksimale vekt er 2560 kg, med en basisvekt på 2045 kg. Dette gir en maksimal lastekapasitet på 515 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2685 kg, med en basisvekt på 290 kg. Dette gir en maksimal lastekapasitet på 2395 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1600 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
+
+## Tilgjengelighet & pris
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Hyundai Ioniq 5 Long Range AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=3129cf%2cb18fdb%2c0cb6ee%2cad3cd5" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai Ioniq 5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
