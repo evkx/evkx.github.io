@@ -40,10 +40,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				504 km / 313 mi
+				628 km / 390 mi
 			</td>
 			<td>
-				16,61kWh/100km / 3,7 mi/kWh
+				15,45kWh/100km / 4,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				439 km / 273 mi
+				552 km / 343 mi
 			</td>
 			<td>
-				19,07 kWh/100km / 3,3 mi/kWh
+				17,57 kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Basisausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				 400km / 249 mi 
+				 491km / 305 mi 
 			</td>
 			<td>
-				-20,6%
+				-21,8%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Top-Ausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				358 km / 222 mi
+				443 km / 275 mi
 			</td>
 			<td>
-				-18,5%
+				-19,7%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph perfekte Bedingungen
 			</td>
 			<td>
-				380 km / 236 mi
+				441 km / 274 mi
 			</td>
 			<td>
 				22 kWh/100km / 2,8 mi/kWh
@@ -143,7 +143,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph mit 2KW Heizung
 			</td>
 			<td>
-				353 km /219mi
+				410 km /255mi
 			</td>
 			<td>
 				23,7 kWh/100km /2,6 mi/kWh

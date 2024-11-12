@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS
 linktitle: "Taycan GTS"
-description: "Porsche Taycan GTS er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 504 km (313 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan GTS er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 628 km (390 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687"  >}}
 
 Vi har opdelt vores Porsche Taycan GTS artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
@@ -26,21 +26,21 @@ Vi har opdelt vores Porsche Taycan GTS artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost når Porsche Taycan GTS en maksimal effekt på 440 kW (598 hk). Uden overboost leverer den en stærk 320 kW (435 hk). Det maksimale drejningsmoment er på 850 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 3,7 sekunder og har en topfart på 250 km/t, hvilket fremhæver dens imponerende præstationer.
+Med overboost når Porsche Taycan GTS en maksimal effekt på 515 kW (700 hk). Uden overboost leverer den en stærk 445 kW (605 hk). Det maksimale drejningsmoment er på 790 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 3,3 sekunder og har en topfart på 250 km/t, hvilket fremhæver dens imponerende præstationer.
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 93,4 kWh og en nettoanvendelig kapacitet på 83,7 kWh, hvilket giver en buffer på 9,7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 105,0 kWh og en nettoanvendelig kapacitet på 97,0 kWh, hvilket giver en buffer på 8,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 504 og 439 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,6 kWh/100 km for basismodellen og 19,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 628 og 552 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,4 kWh/100 km for basismodellen og 17,6 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 51 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 162kW. Hver opladningssession ville tage 19 minutter og 52 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan GTS til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 47 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 209kW. Hver opladningssession ville tage 18 minutter og 48 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Porsche Taycan GTS til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 11 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 58%, med en samlet opladningstid på 51 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 8 timer og 55 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 65%, med en samlet opladningstid på 36 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 36 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 3 timer og 48 minutter derhjemme.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 49 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 24 minutter derhjemme.
 
 ### Ladeport
 
@@ -54,7 +54,7 @@ Porsche Taycan GTS har et firehjulstræk, der understøttes af to motorer, en p�
 
 ### Hjulophæng
 
-Du kan bestille Porsche Taycan GTS med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 127 mm.
+Du kan bestille Porsche Taycan GTS med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 128 mm.
 
 ### Styring
 
@@ -72,7 +72,7 @@ Den maksimale regenerative effekt er 275 kW.
 
 ## Udvendig
 
-Den Porsche Taycan GTS, med dimensioner på 4963 mm i længde, 1964 mm i bredde og 1395 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Porsche Taycan GTS fås i alt 17 lakfarver, herunder både solide og metalliske muligheder.
+Den Porsche Taycan GTS, med dimensioner på 4963 mm i længde, 1966 mm i bredde og 1395 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Porsche Taycan GTS fås i alt 17 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
@@ -88,7 +88,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -100,15 +100,7 @@ Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 #### Første række sæder
 
-For første række tilbyder Porsche Taycan GTS tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
-
-Følgende funktioner er tilgængelige på **Comfort** sædet.
-
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+For første række tilbyder Porsche Taycan GTS to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 
@@ -133,7 +125,7 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 #### Sæder på anden række
 
@@ -144,6 +136,9 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
+
+- højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 ## Klimasystem
 
@@ -172,7 +167,7 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 ### Rat
 
@@ -207,6 +202,8 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan GTS.
 De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/headlights_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 ## Avancerede førerassistentsystemer
 
@@ -259,7 +256,7 @@ Porsche Taycan GTS er udstyret med avancerede sikkerhedsfunktioner for at beskyt
 
 Bagagerummet har en lastekapacitet på 407 liter. På taget kan du laste op til 75 kg.
 
-Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2295 kg. Dette giver en maksimal last på 555 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2285 kg. Dette giver en maksimal last på 565 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

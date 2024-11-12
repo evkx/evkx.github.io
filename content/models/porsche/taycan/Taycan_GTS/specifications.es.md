@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net busca tener las especificaciones más completas para Porsche Taycan GTS. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Porsche Taycan GTS, visite [chargeinfo](../chargecurve/) para Porsche Taycan GTS con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan GTS
 				Potencia máxima
 			</td>
 			<td>
-				320 KW (435 hp)
+				445 KW (605 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan GTS
 				Potencia máxima con impulso
 			</td>
 			<td>
-				440 KW (598 hp)
+				515 KW (700 hp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Salida de par eléctrico
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan GTS
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan GTS
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de aproximación
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2295 kg
+				2285 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				555 kg
+				565 kg
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				127 mm
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Tipo de asiento
-			</td>
-			<td>
-				Asiento del conductor y del pasajero
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste de la profundidad del asiento
-			</td>
-			<td>
-				Función eléctrica estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste de altura del asiento
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste del ángulo del respaldo
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memoria
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Reposacabezas regulable en altura
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Reposacabezas de longitud ajustable
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Soporte para muslos ajustable
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste del refuerzo lateral del respaldo
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste del refuerzo lateral del cojín del asiento
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pasajeros con reposapiés
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apoyapiernas del pasajero
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste lumbar eléctrico
-			</td>
-			<td>
-				Función eléctrica estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ventilación del asiento
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Función de masaje
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>

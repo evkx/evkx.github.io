@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan GTS zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Porsche Taycan GTS, besuchen Sie die [Ladeinformationen](../chargecurve/) für Porsche Taycan GTS mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan GTS
 				Spitzenleistung
 			</td>
 			<td>
-				320 KW (435 PS /429 bhp)
+				445 KW (605 PS /597 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan GTS
 				Spitzenleistung mit Boost
 			</td>
 			<td>
-				440 KW (598 PS /590 bhp)
+				515 KW (700 PS /691 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisches Drehmoment
+			</td>
+			<td>
+				790 nm (583 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan GTS
 				Elektrisches Drehmoment mit Boost
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan GTS
 				0-100 km/h (0-62 mph) mit Boost
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Basisausstattung
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite der Top-Ausstattung
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite ohne Spiegel
 			</td>
 			<td>
-				1964 mm (77,3")
+				1966 mm (77,4")
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Böschungswinkel vorne
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2295 kg (5060 lbs)
+				2285 kg (5038 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				555 kg (1224 lbs)
+				565 kg (1246 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				127 mm (5,0")
+				128 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 
 ### Vordersitze
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Sitztyp
-			</td>
-			<td>
-				Fahrer- und Beifahrersitz
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sitztiefenverstellung
-			</td>
-			<td>
-				Standard elektrische Funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sitzhöhenverstellung
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellung des Rückenlehnenwinkels
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speicher
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Höhenverstellbare Kopfstütze
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Längenverstellbare Kopfstütze
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Oberschenkelstütze
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Seitenstütze der Rückenlehne
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Verstellbare Seitenstütze des Sitzkissens
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fußstütze für Passagiere
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Beinstütze für Passagiere
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrische Lendenwirbelstütze
-			</td>
-			<td>
-				Standard elektrische Funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sitzbelüftung
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massagefunktion
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

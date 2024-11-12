@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS
 linktitle: "Taycan GTS"
-description: "Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 504 km (313 miles). EVKX.net has all the details."
+description: "Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687"  >}}
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
@@ -26,21 +26,21 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS reaches a maximum power of 440 kW (598 hp / 590 bhp). Without overboost, it provides a strong 320 kW (435 hp / 429 bhp). The maxium torque is at 850 Nm (627 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+With overboost, the Porsche Taycan GTS reaches a maximum power of 515 kW (700 hp / 691 bhp). Without overboost, it provides a strong 445 kW (605 hp / 597 bhp). The maxium torque is at 790 Nm (583 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.3 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 93.4 kWh and a net usable capacity of 83.7 kWh, providing a 9.7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 97.0 kWh, providing a 8.0 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 504 to 439 km (313-273 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.6 kWh/100 km for the base model and 19.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 628 to 552 km (390-343 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.4 kWh/100 km for the base model and 17.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 191 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 64%. This results in an effective charging speed, including time lost, of 162 kW, with each charging session taking about 19 minutes and 52 seconds. This efficient charging capability makes the Porsche Taycan GTS a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 47 minutes, while a more typical scenario from 10% to 80% takes 16 minutes with an average charging speed of 260 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 209 kW, with each charging session taking about 18 minutes and 48 seconds. This exceptionally fast charging capability makes the Porsche Taycan GTS one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 11 minutes. This journey would require three charging stops from 3% to 58%, with a total charging time of 51 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 8 hours and 55 minutes. This journey would require two charging stops from 1% to 65%, with a total charging time of 36 minutes.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 36 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 3 hours and 48 minutes at home.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
 ### Charge Port
 
@@ -54,7 +54,7 @@ The Porsche Taycan GTS features an all-wheel drive system powered by two motors,
 
 ### Suspension
 
-You can order Porsche Taycan GTS with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 127 mm.
+You can order Porsche Taycan GTS with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 128 mm.
 
 ### Steering
 
@@ -72,7 +72,7 @@ The maximum regenerative power is 275 kW.
 
 ## Exterior
 
-The Porsche Taycan GTS, with dimensions of 4963 mm in length, 1964 mm in width, and 1395 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Porsche Taycan GTS is available in a total of 17 paint colors, including both solid and metallic options.
+The Porsche Taycan GTS, with dimensions of 4963 mm in length, 1966 mm in width, and 1395 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Porsche Taycan GTS is available in a total of 17 paint colors, including both solid and metallic options.
 
 You can also choose from several styling options to make your car more unique.
 The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color. 
@@ -95,7 +95,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -107,15 +107,7 @@ This model offers a four-seat layout or an optional 4+1 layout.
 
 #### First Row Seats
 
-The front row offers three seat types to cater to various comfort and style preferences:
-
-The following functionalities are available on the **Comfort** seat:
-
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-
-Available in:
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Comfortseats with memory** seat:
 
@@ -140,7 +132,7 @@ The following functionalities are available on the **Sportsseats Plus** seat:
 
 Available in:
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 #### Second Row Seats
 
@@ -151,6 +143,9 @@ The standard option is two integrated seats in the second row. Additional functi
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 The second option is two integrated seats in the second row with a third smaller seat in between. Additional functionalities include:
+
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ## Climate System
 
@@ -179,7 +174,7 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 ### Steering Wheel
 
@@ -214,6 +209,8 @@ You can choose between three sound systems for the Porsche Taycan GTS:
 The Porsche Taycan GTS comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/headlights_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 ## Advanced Driver Assistance Systems
 
@@ -266,7 +263,7 @@ The Porsche Taycan GTS is equipped with advanced security features to protect yo
 
 The trunk offers a cargo capacity of 407 liters (14.4 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-The vehicle’s maximum weight is 2850 kg (6283 lbs), with a base weight of 2295 kg (5060 lbs). This allows for a maximum load of 555 kg (1224 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2850 kg (6283 lbs), with a base weight of 2285 kg (5038 lbs). This allows for a maximum load of 565 kg (1246 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

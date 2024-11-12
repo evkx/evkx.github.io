@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS
 linktitle: "Taycan GTS"
-description: "Porsche Taycan GTS es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 504 km (313 millas). EVKX.net tiene todos los detalles."
+description: "Porsche Taycan GTS es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 628 km (390 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo Porsche Taycan GTS en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -26,21 +26,21 @@ Hemos separado nuestro artículo Porsche Taycan GTS en secciones. Si desea esper
 
 ## Rendimiento
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan GTS alcanza una potencia máxima de 440 kW (598 hp). Sin overboost, proporciona una sólida potencia de 320 kW (435 hp). El par máximo es de 850 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,7 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
+Con overboost, el Porsche Taycan GTS alcanza una potencia máxima de 515 kW (700 hp). Sin overboost, proporciona una sólida potencia de 445 kW (605 hp). El par máximo es de 790 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,3 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 93,4 kWh y una capacidad neta utilizable de 83,7 kWh, proporcionando un buffer de 9,7 kWh (10,4%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 105,0 kWh y una capacidad neta utilizable de 97,0 kWh, proporcionando un buffer de 8,0 kWh (7,6%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 504 y 439 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,6 kWh/100 km para el modelo base y 19,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 628 y 552 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,4 kWh/100 km para el modelo base y 17,6 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 51 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 162kW. Cada sesión de carga tardaría 19 minutos y 52 segundos. Esta capacidad de carga eficiente hace que el Porsche Taycan GTS sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 47 minutos, mientras que un escenario más común del 10 al 80 % tardaría 16 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 209kW. Cada sesión de carga tardaría 18 minutos y 48 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Porsche Taycan GTS sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 11 minutos. Este viaje requeriría dos paradas de carga del 3% al 58%, con un tiempo total de carga de 51 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 1% al 65%, con un tiempo total de carga de 36 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 36 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 3 horas y 48 minutos en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 49 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 24 minutos en casa.
 
 ### Puerto de carga
 
@@ -54,7 +54,7 @@ Porsche Taycan GTS tiene un sistema de tracción total sostenido por dos motores
 
 ### Suspensión
 
-Puedes pedir Porsche Taycan GTS con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 127 mm.
+Puedes pedir Porsche Taycan GTS con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 128 mm.
 
 ### Dirección
 
@@ -72,7 +72,7 @@ La potencia regenerativa máxima es de 275 kW.
 
 ## Exterior
 
-El Porsche Taycan GTS, con dimensiones de 4963 mm de longitud, 1964 mm de anchura y 1395 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Porsche Taycan GTS está disponible en un total de 17 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Porsche Taycan GTS, con dimensiones de 4963 mm de longitud, 1966 mm de anchura y 1395 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Porsche Taycan GTS está disponible en un total de 17 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 
@@ -88,7 +88,7 @@ El coche tiene cuatro [puertas normales](../../../../technology/doors/) y un [po
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -100,15 +100,7 @@ Este modelo ofrece una disposición de cuatro asientos o una disposición opcion
 
 #### Asientos de primera fila
 
-Para la primera fila, el Porsche Taycan GTS ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
-
-Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
-
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Para la primera fila, el Porsche Taycan GTS ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
@@ -133,7 +125,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 #### Asientos de la segunda fila
 
@@ -144,6 +136,9 @@ La opción standard son dos asientos integrados en la segunda fila. Además, las
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
+
+- reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 ## Sistema de climatización
 
@@ -172,7 +167,7 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 ### Volante
 
@@ -207,6 +202,8 @@ Puedes elegir entre tres sistemas de sonido en el Porsche Taycan GTS.
 Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/headlights_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
@@ -259,7 +256,7 @@ El Porsche Taycan GTS está equipado con características de seguridad avanzadas
 
 El maletero ofrece una capacidad de carga de 407 litros. En el techo, puedes cargar hasta 75 kg.
 
-El peso máximo del vehículo es 2850 kg, con un peso base de 2295 kg. Esto permite una carga máxima de 555 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2850 kg, con un peso base de 2285 kg. Esto permite una carga máxima de 565 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}}

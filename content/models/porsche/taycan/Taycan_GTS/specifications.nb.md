@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Porsche Taycan GTS, gå til [chargeinfo](../chargecurve/) for Porsche Taycan GTS med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS.
 				Maks effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				445 KW (605 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS.
 				Maks effekt med boost
 			</td>
 			<td>
-				440 KW (598 hk)
+				515 KW (700 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS.
 				Dreiemoment med boost
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS.
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Angrepsvinkel
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2295 kg
+				2285 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				555 kg
+				565 kg
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				127 mm
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Setetype
-			</td>
-			<td>
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Setedybdejustering
-			</td>
-			<td>
-				Standard elektrisk funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setehøyde
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøttevinkel
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Lengdejusterbar hodestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøtten
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Standard elektrisk funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteventilasjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massasjefunksjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

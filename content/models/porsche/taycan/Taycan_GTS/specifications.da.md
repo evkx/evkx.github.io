@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan GTS. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Porsche Taycan GTS, besøg [chargeinfo](../chargecurve/) for Porsche Taycan GTS med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan GTS
 				Popeffekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				445 KW (605 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan GTS
 				Popkraft med boost
 			</td>
 			<td>
-				440 KW (598 hk)
+				515 KW (700 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk momentudgang
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan GTS
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan GTS
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Angrebsvinkel
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2295 kg
+				2285 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				555 kg
+				565 kg
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				127 mm
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 
 ### Forsæder
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Sædetype
-			</td>
-			<td>
-				Fører- og passagersæde
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sædedybdejustering
-			</td>
-			<td>
-				Standard elektrisk funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sædehøjdejustering
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering af ryglænets vinkel
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hukommelse
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Højdejusterbar nakkestøtte
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Længdejusterbar nakkestøtte
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering af ryglænets sidestøtte
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering af sædehyndes sidestøtte
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fodstøttepassagerer
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassager
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk lændejustering
-			</td>
-			<td>
-				Standard elektrisk funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sædeventilation
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massagefunktion
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche Taycan GTS. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Porsche Taycan GTS, visitez les [chargeinfo](../chargecurve/) pour Porsche Taycan GTS avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				320 KW (435 ch)
+				445 KW (605 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				440 KW (598 ch)
+				515 KW (700 ch)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Angle d'approche
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2295 kg
+				2285 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				555 kg
+				565 kg
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				127 mm
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Type de siège
-			</td>
-			<td>
-				Siège conducteur et passager
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage de la profondeur du siège
-			</td>
-			<td>
-				Fonction électrique standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage de la hauteur du siège
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage de l'angle du dossier
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Mémoire
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Appui-tête réglable en hauteur
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Appui-tête réglable en longueur
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Support de cuisse réglable
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage des traversins latéraux du dossier
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage des traversins latéraux du coussin de siège
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Repose-pieds passagers
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Support de jambe passager
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage lombaire électrique
-			</td>
-			<td>
-				Fonction électrique standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ventilation du siège
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fonction massage
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

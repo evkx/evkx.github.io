@@ -907,6 +907,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ This model is available with a seat configuration with five seats.
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

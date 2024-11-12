@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan GTS, visit the [chargeinfo](../chargecurve/) for Porsche Taycan GTS with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. 
 				Peak power
 			</td>
 			<td>
-				320 KW (435 hp /429 bhp)
+				445 KW (605 hp /597 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. 
 				Peak power with  boost
 			</td>
 			<td>
-				440 KW (598 hp /590 bhp)
+				515 KW (700 hp /691 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output
+			</td>
+			<td>
+				790 nm (583 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. 
 				Electrical torque output boost
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. 
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1964 mm (77,3")
+				1966 mm (77,4")
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Approach Angle
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2295 kg (5060 lbs)
+				2285 kg (5038 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				555 kg (1224 lbs)
+				565 kg (1246 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				127 mm (5,0")
+				128 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ This model is available with a seat configuration with five seats.
 
 ### Front seats
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/seats/types/">Seat type</a>
-			</td>
-			<td>
-				Driver and Passenger Seat
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat depth adjustment
-			</td>
-			<td>
-				Standard electric feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat height adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Backrest angle adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
-			</td>
-			<td>
-				Standard electric feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Massage function</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

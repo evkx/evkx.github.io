@@ -41,7 +41,7 @@ Porsche Macan ist ein Premium-Coupé-SUV, das in 4 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan ist eine Luxuslimousine/Kombi, die in 25 Varianten erhältlich ist.
+Porsche Taycan ist eine Luxuslimousine/Kombi, die in 26 Varianten erhältlich ist.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

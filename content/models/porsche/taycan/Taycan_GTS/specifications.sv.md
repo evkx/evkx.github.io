@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1687" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan GTS. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Porsche Taycan GTS, gå till [chargeinfo](../chargecurve/) för Porsche Taycan GTS med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan GTS. Kl
 				Max effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				445 KW (605 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan GTS. Kl
 				Max effekt med boost
 			</td>
 			<td>
-				440 KW (598 hk)
+				515 KW (700 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vridmoment
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan GTS. Kl
 				Vridmoment med boost
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan GTS. Kl
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				504 km
+				628 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				16,6 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				20,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				439 km
+				552 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				19,1 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				23,3 kwh/100km
+				20,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd exklusive speglar
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Anfallsvinkel
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2295 kg
+				2285 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +497,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				555 kg
+				565 kg
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +586,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				127 mm
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -646,151 +654,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
-
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Säte typ
-			</td>
-			<td>
-				Förar- och passagerarsäte
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering sätesdjup
-			</td>
-			<td>
-				Standard elektrisk funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering säteshöjd
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering ryggstödsvinkel
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minnesfunktion
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Höjdjusterbart nackstöd
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				LengthAdjustableHeadrest
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbart lårstöd
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ryggstödsjustering
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av sittdyna, sidostöd
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstödspassagerare
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				LegSupportPassenger
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektriskt svankstöd
-			</td>
-			<td>
-				Standard elektrisk funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sätesventilation
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massagefunktion
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### Comfortseats with memory
 
@@ -1217,7 +1080,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1257,7 +1120,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1128,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
