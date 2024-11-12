@@ -1,7 +1,7 @@
 ---
 title: Hyundai elektriske modeller
 linktitle: "Hyundai"
-description: "Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  "
+description: "Hyundai Motor Company, grunnlagt i 1967 i Sør-Korea, er en global bilprodusent kjent for rimelige, pålitelige kjøretøy og en sterk forpliktelse til elektriske kjøretøy, med mål om karbonnøytralitet innen 2045."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Hyundai Kona er en crossover tilgjengelig i 2 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om merket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/hyundai/company.nb.md" %}}
+</div>
+</div>
+</div>
+</div>

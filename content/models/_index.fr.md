@@ -393,6 +393,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
+		Hyundai Motor Company, fondée en 1967 en Corée du Sud, est un constructeur automobile mondial connu pour ses véhicules abordables et fiables et son fort engagement envers les véhicules électriques, visant la neutralité carbone d'ici 2045.
+	</p>
+	<p>
 	Hyundai a 4 modèles avec un total de 11 variantes.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Aller à la Hyundai présentation du modèle EV</a>

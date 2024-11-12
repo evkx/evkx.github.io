@@ -393,6 +393,9 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
+		Hyundai Motor Company, grunnlagt i 1967 i Sør-Korea, er en global bilprodusent kjent for rimelige, pålitelige kjøretøy og en sterk forpliktelse til elektriske kjøretøy, med mål om karbonnøytralitet innen 2045.
+	</p>
+	<p>
 	Hyundai har 4 modell(er) med totalt 11 varianter.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå til Hyundai modelloversikt</a>

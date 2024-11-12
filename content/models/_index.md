@@ -453,7 +453,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
-		Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  
+		Hyundai Motor Company, founded in 1967 in South Korea, is a global automaker known for affordable, reliable vehicles and a strong commitment to electric vehicles, aiming for carbon neutrality by 2045.
 	</p>
 	<p>
 	Hyundai has 4 models with total 11 variants.

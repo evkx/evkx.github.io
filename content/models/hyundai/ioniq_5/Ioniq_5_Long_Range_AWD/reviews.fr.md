@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5 N-Line 84 kWh trip to Hemsedal</h3>
+<p>Bjørn Nyland: 12.11.2024</p>
+
+{{< youtube 9_x5JKfp1hk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai Ioniq 5 N-Line 84 kWh 1000 km challenge</h3>
 <p>Bjørn Nyland: 11.11.2024</p>
 

@@ -393,6 +393,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
+		Hyundai Motor Company, grundat 1967 i Sydkorea, är en global biltillverkare känd för prisvärda, pålitliga fordon och ett starkt engagemang för elfordon, med målet att uppnå koldioxidneutralitet till 2045.
+	</p>
+	<p>
 	Hyundai har 4 modell(er) med totalt 11 varianter.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå till Hyundai modellöversikt</a>

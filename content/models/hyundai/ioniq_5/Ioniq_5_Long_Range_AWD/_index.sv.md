@@ -107,6 +107,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
@@ -128,6 +129,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
@@ -247,6 +249,8 @@ Hyundai Ioniq 5 Long Range AWD är utrustad med flera krockkuddar för att säke
 - Sidokrockgardiner för både första och andra raden
 - Sidokrockkuddar för föraren och främre passageraren
 - En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+
+Dessutom är säkerhetsbältena i första och andra raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
 
 ## Säkerhets- och åtkomstteknologier
 

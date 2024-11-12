@@ -107,6 +107,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
@@ -128,6 +129,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
@@ -247,6 +249,8 @@ Hyundai Ioniq 5 Long Range AWD er udstyret med flere airbags for at sikre beskyt
 - Sidegardinairbags til både første og anden række
 - Sideairbags til føreren og forsædepassageren
 - En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+
+Derudover er sikkerhedsselerne i første og anden række udstyret med selestrammere, der strammes automatisk under en kollision for at minimere skaderisikoen.
 
 ## Sikkerheds- og adgangsteknologier
 

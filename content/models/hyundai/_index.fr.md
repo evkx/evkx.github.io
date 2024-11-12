@@ -1,7 +1,7 @@
 ---
 title: Hyundai modèles de VE
 linktitle: "Hyundai"
-description: "Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  "
+description: "Hyundai Motor Company, fondée en 1967 en Corée du Sud, est un constructeur automobile mondial connu pour ses véhicules abordables et fiables et son fort engagement envers les véhicules électriques, visant la neutralité carbone d'ici 2045."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Hyundai Kona est un crossover disponible en 2 variantes.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            À propos de la marque
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/hyundai/company.fr.md" %}}
+</div>
+</div>
+</div>
+</div>
