@@ -54,7 +54,15 @@ Porsche Taycan Turbo tiene un sistema de tracción total sostenido por dos motor
 
 ### Suspensión
 
-Puedes pedir Porsche Taycan Turbo con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 128 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 128 mm.
+
+Puedes pedir Porsche Taycan Turbo con una suspensión alternativa Porsche Active Ride. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 128 mm.
+
+La suspensión activa mantiene la carrocería del coche casi horizontal durante el frenado dinámico, la dirección y la aceleración, mejorando la respuesta de dirección precisa y el control del conductor.
+
+Normalmente, los coches se inclinan hacia afuera en las curvas. Sin embargo, la dinámica de curvas activa puede contrarrestar esta inclinación o incluso sobrecompensarla, haciendo que el coche se incline hacia las curvas como una motocicleta.
+
+La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
 
 ### Dirección
 
@@ -62,7 +70,7 @@ La dirección dinámica es una característica un estándar en el Porsche Taycan
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 410 mm y los discos traseros de 365 mm.
+Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm. Los frenos de opción second utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
 
 ### Frenado regenerativo
 

@@ -521,6 +521,131 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Suspensión
 
+El modelo ofrece 2 variantes de suspensión
+
+### Adaptive Air Suspension
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Suspensión adaptativa
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortiguación delantera ajustable
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortiguación trasera ajustable
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frente regulable en altura
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Altura trasera ajustable
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia máxima al suelo
+			</td>
+			<td>
+				128 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia mínima al suelo
+			</td>
+			<td>
+				103 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de amortiguador delantero
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de amortiguador trasero
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Delantero tipo resorte
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trasero tipo resorte
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				Suspensión de doble horquilla
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Porsche Active Ride
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

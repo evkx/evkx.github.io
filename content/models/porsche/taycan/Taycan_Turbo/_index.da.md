@@ -54,7 +54,15 @@ Porsche Taycan Turbo har et firehjulstræk, der understøttes af to motorer, en 
 
 ### Hjulophæng
 
-Du kan bestille Porsche Taycan Turbo med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 128 mm.
+Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 128 mm.
+
+Du kan bestille Porsche Taycan Turbo med en alternativ Porsche Active Ride hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 128 mm.
+
+Den aktive affjedring holder bilens karrosseri næsten vandret under dynamisk bremsning, styring og acceleration, hvilket forbedrer præcis styrerespons og kontrol for føreren.
+
+Normalt læner biler sig udad i sving. Men de aktive kurvedynamikker kan modvirke denne krængning eller endda overkompensere, så bilen læner sig ind i svinget som en motorcykel.
+
+Easy Entry-funktionen hæver bilens karrosseri automatisk, når en dør åbnes, hvilket letter ind- og udstigning. Når døren lukkes, vender karrosseriet tilbage til det forrige niveau.
 
 ### Styring
 
@@ -62,7 +70,7 @@ Dynamisk styring er en standard-funktion på Porsche Taycan Turbo. Dynamisk styr
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 410mm, og de bagerste skiver er 365mm.
+Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm. Bremserne second bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
 
 ### Regenerativ bremsning
 

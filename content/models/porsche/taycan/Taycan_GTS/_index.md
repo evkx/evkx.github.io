@@ -30,7 +30,7 @@ With overboost, the Porsche Taycan GTS reaches a maximum power of 515 kW (700 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 97.0 kWh, providing a 8.0 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 97.0 kWh, providing a 8.0 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 729 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 628 to 552 km (390-343 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.4 kWh/100 km for the base model and 17.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -54,7 +54,15 @@ The Porsche Taycan GTS features an all-wheel drive system powered by two motors,
 
 ### Suspension
 
-You can order Porsche Taycan GTS with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 128 mm.
+You can order Porsche Taycan GTS with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 126 mm.
+
+You can order Porsche Taycan GTS with an alternative Porsche Active Ride suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 128 mm.
+
+The Active Suspension maintains the car's body nearly horizontal during dynamic braking, steering, and acceleration, enhancing precise steering response and driver control..
+
+Normally, cars lean outward in corners. However, the active cornering dynamics can counteract this roll, or even overcompensate, making the car lean into bends like a motorcycle.
+
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
 ### Steering
 
@@ -66,7 +74,9 @@ You can choose between different brake systems. The standard option brakes use r
 
 ### Regenerative Braking
 
-The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+If you lift away the foot completely the regen is at one fixed level. This can't be adjusted.
 
 The maximum regenerative power is 275 kW.
 
@@ -95,11 +105,15 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
+Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
+
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/exterior_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The Porsche Taycan GTS features a driver-focused interior with a luxurious feel, using high-quality materials throughout. The traditional center console separates the driver and passenger, providing convenient storage and functionality.
 
 ### Seats
 
@@ -112,7 +126,12 @@ The front row offers two seat types to cater to various comfort and style prefer
 The following functionalities are available on the **Comfortseats with memory** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -121,6 +140,10 @@ Available in:
 The following functionalities are available on the **Sportsseats Plus** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -140,7 +163,9 @@ You can choose two seat types for the second row in the Porsche Taycan GTS.
 
 The standard option is two integrated seats in the second row. Additional functionalities include:
 
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 The second option is two integrated seats in the second row with a third smaller seat in between. Additional functionalities include:
 
@@ -153,7 +178,7 @@ There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
-This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
 
@@ -162,6 +187,8 @@ The Porsche Taycan GTS includes several features to enhance comfort and convenie
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the Porsche Taycan GTS combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The Porsche Taycan GTS has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
 
@@ -198,15 +225,27 @@ The Porsche Taycan GTS supports Android Auto and Apple CarPlay, allowing you to 
 
 ### Sound System
 
-You can choose between three sound systems for the Porsche Taycan GTS:
+You can choose between two sound systems for the Porsche Taycan GTS:
 
-- **Porsche Sound system:** Features ten speakers and delivers a maximum output of 150 watts.
 - ** BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
 - ** Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1455 watts.
 
+## Mobile App
+
+The Porsche Taycan GTS comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+- **Driving History:** Review the details of your past trips.
+
 ## Lights
 
-The Porsche Taycan GTS comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+You can choose between two types of headlights for the Porsche Taycan GTS.
+
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -238,6 +277,8 @@ The Porsche Taycan GTS features a range of standard and optional [advanced drive
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Porsche Taycan GTS, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Optional on the Porsche Taycan GTS, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 The Porsche Taycan GTS offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -251,19 +292,30 @@ With the optional Porsche InnoDrive level 2 system, you get additional driving a
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
 ## Security and Access Technologies
 
 The Porsche Taycan GTS is equipped with advanced security features to protect you and your vehicle. These include:
 
 - **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
+- **Integrated Dashcam:** The optional built-in dashcam records video footage of your journeys, capturing key details to provide added security, accountability, and peace of mind.
+- **Parking Surveillance:** Using its suite of cameras, the vehicle actively monitors the surroundings while parked, offering enhanced protection through continuous surveillance.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 407 liters (14.4 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+The trunk offers a cargo capacity of 407 liters (14.4 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 84 liters (3.0 CU FT).
 
 The vehicle’s maximum weight is 2850 kg (6283 lbs), with a base weight of 2285 kg (5038 lbs). This allows for a maximum load of 565 kg (1246 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+## Availability & Pricing
+
+
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

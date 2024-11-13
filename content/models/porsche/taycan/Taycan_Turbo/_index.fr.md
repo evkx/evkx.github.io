@@ -54,7 +54,15 @@ Porsche Taycan Turbo dispose d'un système de transmission intégrale pris en ch
 
 ### Suspension
 
-Vous pouvez commander Porsche Taycan Turbo avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 128 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 128 mm.
+
+Vous pouvez commander Porsche Taycan Turbo avec une suspension alternative Porsche Active Ride. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 128 mm.
+
+La suspension active maintient la carrosserie de la voiture presque horizontale lors du freinage dynamique, de la direction et de l'accélération, améliorant ainsi la réponse précise de la direction et le contrôle du conducteur.
+
+Normalement, les voitures s'inclinent vers l'extérieur dans les virages. Cependant, la dynamique de virage active peut contrer cette inclinaison ou même la surcompenser, faisant en sorte que la voiture s'incline dans les virages comme une moto.
+
+La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
 ### Pilotage
 
@@ -62,7 +70,7 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
+Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option second utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
 
 ### Freinage régénératif
 

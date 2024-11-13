@@ -54,7 +54,15 @@ Porsche Taycan Turbo har ett fyrhjulsdriftsystem som stöds av två motorer, en 
 
 ### Hjulupphängning
 
-Du kan beställa Porsche Taycan Turbo med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 128 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 128 mm.
+
+Du kan beställa Porsche Taycan Turbo med en alternativ Porsche Active Ride-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 128 mm.
+
+Den aktiva fjädringen håller bilens kaross nästan horisontell under dynamisk bromsning, styrning och acceleration, vilket förbättrar precis styrrespons och förarkontroll.
+
+Normalt lutar sig bilar utåt i kurvor. Men den aktiva kurvdynamiken kan motverka denna lutning eller till och med överkompensera, så att bilen lutar in i kurvan som en motorcykel.
+
+Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vilket underlättar in- och urstigning. När dörren stängs återgår karossen till den tidigare nivån.
 
 ### Styrning
 
@@ -62,7 +70,7 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo. Dynamisk st
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 410mm och de bakre skivorna är 365mm.
+Du kan välja mellan olika bromssystem. Bromsarna standard använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 410mm och de bakre skivorna är 365mm. Bromsarna för alternativet second använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
 
 ### Regenerativ bromsning
 

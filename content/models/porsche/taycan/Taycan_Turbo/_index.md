@@ -54,7 +54,15 @@ The Porsche Taycan Turbo features an all-wheel drive system powered by two motor
 
 ### Suspension
 
-You can order Porsche Taycan Turbo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 128 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 128 mm.
+
+You can order Porsche Taycan Turbo with an alternative Porsche Active Ride suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 128 mm.
+
+The Active Suspension maintains the car's body nearly horizontal during dynamic braking, steering, and acceleration, enhancing precise steering response and driver control..
+
+Normally, cars lean outward in corners. However, the active cornering dynamics can counteract this roll, or even overcompensate, making the car lean into bends like a motorcycle.
+
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
 ### Steering
 
@@ -62,7 +70,7 @@ Dynamic steering is a standard on the Porsche Taycan Turbo, varying the steering
 
 ### Brakes
 
-The Porsche Taycan Turbo is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 410 mm, while the rear discs are 365 mm.
+You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs measure 410 mm, while the rear discs are 365 mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 420 mm, while the rear discs are 410 mm.
 
 ### Regenerative Braking
 

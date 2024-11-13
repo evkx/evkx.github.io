@@ -54,7 +54,15 @@ Der Porsche Taycan Turbo verfügt über ein Allradantriebssystem, das von zwei M
 
 ### Federung
 
-Sie können Porsche Taycan Turbo mit einer alternativen Adaptive Air Suspension Federung bestellen. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 103 mm und die maximale 128 mm.
+Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 103 mm und die maximale 128 mm.
+
+Sie können Porsche Taycan Turbo mit einer alternativen Porsche Active Ride Federung bestellen. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 103 mm und die maximale 128 mm.
+
+Die aktive Federung hält die Karosserie des Fahrzeugs während dynamischem Bremsen, Lenken und Beschleunigen nahezu horizontal, was die präzise Lenkreaktion und die Kontrolle des Fahrers verbessert.
+
+Normalerweise neigen sich Autos in Kurven nach außen. Die aktiven Kurvendynamiken können jedoch dieses Rollen ausgleichen oder sogar überkompensieren, sodass sich das Auto wie ein Motorrad in die Kurven lehnt.
+
+Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn eine Tür geöffnet wird, um den Ein- und Ausstieg zu erleichtern. Sobald die Tür geschlossen ist, kehrt die Karosserie auf ihr vorheriges Niveau zurück.
 
 ### Lenkung
 
@@ -62,7 +70,7 @@ Die dynamische Lenkung ist eine standard im Porsche Taycan Turbo, wobei das Lenk
 
 ### Bremsen
 
-Der Porsche Taycan Turbo ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind.
+Sie können zwischen verschiedenen Bremssystemen wählen. Die standard Option Bremsen verwenden eine [Gusseisenscheibe, die mit Wolframkarbid beschichtet ist](../../../../technology/brakes/#carbid-brakes). Sie rostet nicht und produziert kaum Bremsstaub. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind. Die second Option Bremsen verwenden [Keramikscheiben](../../../../technology/brakes/#ceramic-brakes). Die vorderen Scheiben messen 420 mm, während die hinteren Scheiben 410 mm groß sind.
 
 ### Rekuperatives Bremsen
 
