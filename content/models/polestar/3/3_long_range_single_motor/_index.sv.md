@@ -223,4 +223,11 @@ Bagageutrymmet erbjuder en lastkapacitet på 484 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2980 kg, med en grundvikt på 2500 kg. Detta tillåter en maximal last på 480 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 480 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2200 kg, medan för en obromsad släpvagn är den 750 kg.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- $67 500,00 (USA)
+
 {{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

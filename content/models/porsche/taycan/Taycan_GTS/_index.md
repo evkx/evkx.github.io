@@ -70,7 +70,7 @@ Dynamic steering is a standard on the Porsche Taycan GTS, varying the steering r
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs measure 360 mm, while the rear discs are 358 mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs measure 410 mm, while the rear discs are 365 mm.
+You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs measure 360 mm, while the rear discs are 358 mm. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs measure 410 mm, while the rear discs are 365 mm. The standard option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 420 mm, while the rear discs are 410 mm.
 
 ### Regenerative Braking
 
@@ -184,6 +184,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Porsche Taycan GTS includes several features to enhance comfort and convenience:
 
+- **Electrically Adjustable Steering Wheel**
+
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
@@ -205,9 +207,12 @@ A head-up display is an optional system that projects speed and other important 
 
 ### Steering Wheel
 
-The Porsche Taycan GTS is equipped with a single type of steering wheel:
+You can select from several steeringwheels.
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel includes physical buttons, scroll wheels, and paddle shifters, providing intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons, scroll wheels, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons, scroll wheels, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons, scroll wheels, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -293,7 +298,7 @@ The Porsche Taycan GTS features a range of standard and optional [advanced drive
 
 The Porsche Taycan GTS offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the  level 1 system, you get the following driving automation features.
+With the Adaptive Cruise Control level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -326,6 +331,8 @@ The vehicle’s maximum weight is 2850 kg (6283 lbs), with a base weight of 2285
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 ## Availability & Pricing
+
+The Porsche Taycan GTS had its world premiere on 12.11.2024, with deliveries starting in March 2025.
 
 ### Pricing
 

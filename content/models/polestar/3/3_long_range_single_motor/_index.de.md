@@ -223,4 +223,11 @@ Der Kofferraum bietet ein Ladevolumen von 484 Litern (17,1 CU FT). Mit umgeklapp
 Das maximale Gewicht des Fahrzeugs beträgt 2980 kg (6570 lbs) bei einem Leergewicht von 2500 kg (5512 lbs). Dies ermöglicht eine maximale Zuladung von 480 kg (1058 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 480 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2200 kg (4850 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- $67 500,00 (USA)
+
 {{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Reichweite" >}}

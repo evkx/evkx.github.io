@@ -273,7 +273,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-	BYD tiene 7 modelos con un total de 9 variantes.
+	BYD tiene 8 modelos con un total de 10 variantes.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Ir a BYD descripción general del modelo EV</a>
 </div>

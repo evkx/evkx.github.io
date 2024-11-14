@@ -59,6 +59,19 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				16,46 kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA Reichweite Mindestausstattung
+				</a>
+			</td>
+			<td>
+				563 km / 350 mi
+			</td>
+			<td>
+				19,0 kWh/100km / 3,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -102,6 +115,17 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 			</td>
 			<td>
 				-20,8%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA Reichweite Basisausstattung mit 2KW Klimaanlage
+			</td>
+			<td>
+				459 km / 285 mi
+			</td>
+			<td>
+				-18,5%
 			</td>
 		</tr>
 	</tbody>

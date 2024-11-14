@@ -70,7 +70,7 @@ Die dynamische Lenkung ist eine standard im Porsche Taycan GTS, wobei das Lenkve
 
 ### Bremsen
 
-Sie können zwischen verschiedenen Bremssystemen wählen. Die standard Option Bremsen verwenden normale [Gusseisenscheiben](../../../../technology/brakes/#disc-brakes). Die vorderen Scheiben messen 360 mm, während die hinteren Scheiben 358 mm groß sind. Die second Option Bremsen verwenden eine [Gusseisenscheibe, die mit Wolframkarbid beschichtet ist](../../../../technology/brakes/#carbid-brakes). Sie rostet nicht und produziert kaum Bremsstaub. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind.
+Sie können zwischen verschiedenen Bremssystemen wählen. Die standard Option Bremsen verwenden normale [Gusseisenscheiben](../../../../technology/brakes/#disc-brakes). Die vorderen Scheiben messen 360 mm, während die hinteren Scheiben 358 mm groß sind. Die standard Option Bremsen verwenden eine [Gusseisenscheibe, die mit Wolframkarbid beschichtet ist](../../../../technology/brakes/#carbid-brakes). Sie rostet nicht und produziert kaum Bremsstaub. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind. Die standard Option Bremsen verwenden [Keramikscheiben](../../../../technology/brakes/#ceramic-brakes). Die vorderen Scheiben messen 420 mm, während die hinteren Scheiben 410 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -177,6 +177,8 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der Porsche Taycan GTS umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
+- **Elektrisch verstellbares Lenkrad**
+
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
@@ -198,9 +200,12 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 ### Lenkrad
 
-Der Porsche Taycan GTS ist mit einem einzigen Lenkradtyp ausgestattet:
+Sie können aus mehreren Lenkrädern wählen.
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad enthält physische Tasten, Scrollräder und Schaltwippen, die eine intuitive Steuerung des Infotainmentsystems ermöglichen, sodass Sie die Lautstärke leicht anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten, Scrollräder und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten, Scrollräder und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten, Scrollräder und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
 
 ### Spiegel
 
@@ -286,7 +291,7 @@ Der Porsche Taycan GTS verfügt über eine Reihe von standardmäßigen und optio
 
 Der Porsche Taycan GTS bietet [Fahrautomatisierung
 
-Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Adaptive Cruise Control Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/). (optional)
@@ -319,6 +324,8 @@ Das maximale Gewicht des Fahrzeugs beträgt 2850 kg (6283 lbs) bei einem Leergew
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 
 ## Verfügbarkeit & Preise
+
+Der Porsche Taycan GTS feierte seine Weltpremiere am 12.11.2024, mit Lieferungen ab March 2025.
 
 ### Preise
 

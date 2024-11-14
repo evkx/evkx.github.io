@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-153939db
+  translation: BYD Sealion 7 Excellence er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 520 km (323 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-6277a297
   translation: Porsche Taycan GTS er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 628 km (390 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ad6172aa
   translation: Opel Grandland er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 525 km (326 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-82f1bd54
-  translation: Peugot E-5008 er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 502 km (312 miles). EVKX.net har alle detaljerne.
 

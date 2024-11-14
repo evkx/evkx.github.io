@@ -102,6 +102,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				18,9 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA-område
+			</td>
+			<td>
+				350 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-forbrug
+			</td>
+			<td>
+				3,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-153939db
+  translation: BYD Sealion 7 Excellence is an all-electric coupe SUV with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details.
+
 - id: frontpage-description-6277a297
   translation: Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ad6172aa
   translation: Opel Grandland is an all-electric SUV with a WLTP range of up to 525 km (326 miles). EVKX.net has all the details.
-
-- id: frontpage-description-82f1bd54
-  translation: Peugot E-5008 is an all-electric SUV with a WLTP range of up to 502 km (312 miles). EVKX.net has all the details.
 

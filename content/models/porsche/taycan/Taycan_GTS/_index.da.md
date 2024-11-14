@@ -70,7 +70,7 @@ Dynamisk styring er en standard-funktion på Porsche Taycan GTS. Dynamisk styrin
 
 ### Bremser
 
-Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne second bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm.
+Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne standard bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm. Bremserne standard bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
 
 ### Regenerativ bremsning
 
@@ -177,6 +177,8 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 
 Porsche Taycan GTS inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
+- **Elektrisk justerbart rat**
+
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -198,9 +200,12 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ### Rat
 
-Porsche Taycan GTS er udstyret med en enkelt type rat:
+Du kan vælge mellem flere forskellige rat.
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat:** Dette rat inkluderer fysiske knapper, rullehjul og skiftepaler, der giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner.
+- **Rundt Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, rullehjul og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
+- **Rundt Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, rullehjul og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
+- **Rundt Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, rullehjul og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
 
 ### Spejle
 
@@ -286,7 +291,7 @@ Den Porsche Taycan GTS inkluderer flere standard- og valgfri [avancerede førera
 
 Porsche Taycan GTS tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Adaptive Cruise Control niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
@@ -319,6 +324,8 @@ Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2285 kg. Dette gi
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 12.11.2024, og leveringerne startede i March 2025.
 
 ### Priser
 

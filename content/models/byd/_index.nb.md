@@ -108,6 +108,21 @@ BYD Seal U er en SUV tilgjengelig i 1 varianter.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>BYD Sealion 7</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="sealion_7">
+                    <img src="https://media.evkx.net/multimedia/models/byd/sealion_7/sealion_7_excellence/main_1_st.jpg" class="img-fluid" alt="BYD Sealion 7" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+BYD Sealion 7 er en Coupe SUV tilgjengelig i 1 varianter.
+</p>
+	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>BYD Tang</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

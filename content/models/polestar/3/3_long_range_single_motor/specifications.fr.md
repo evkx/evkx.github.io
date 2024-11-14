@@ -102,6 +102,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				18,9 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Gamme EPA
+			</td>
+			<td>
+				350 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation EPA
+			</td>
+			<td>
+				3,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -70,7 +70,7 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan GTS. Dynamisk styr
 
 ### Bromsar
 
-Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 360mm och de bakre skivorna är 358mm. Bromsarna second använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 410mm och de bakre skivorna är 365mm.
+Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 360mm och de bakre skivorna är 358mm. Bromsarna standard använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 410mm och de bakre skivorna är 365mm. Bromsarna för alternativet standard använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
 
 ### Regenerativ bromsning
 
@@ -177,6 +177,8 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 
 Porsche Taycan GTS inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
+- **Elektriskt justerbar ratt**
+
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -198,9 +200,12 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ### Ratt
 
-Porsche Taycan GTS är utrustad med en enda typ av ratt:
+Du kan välja mellan flera olika rattar.
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt inkluderar fysiska knappar, rullhjul och växelpaddlar, vilket ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kallt väder. Den inkluderar också fysiska knappar, rullhjul och växelpaddlar, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
+- **Cirkulär Ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kallt väder. Den inkluderar också fysiska knappar, rullhjul och växelpaddlar, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
+- **Cirkulär Ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kallt väder. Den inkluderar också fysiska knappar, rullhjul och växelpaddlar, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 
@@ -286,7 +291,7 @@ Porsche Taycan GTS inkluderar flera [avancerade förarassistanssystem](../../../
 
 Porsche Taycan GTS erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Adaptive Cruise Control nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
@@ -319,6 +324,8 @@ Fordonets maximala vikt är 2850 kg, med en grundvikt på 2285 kg. Detta tillåt
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 ## Tillgänglighet och pris
+
+Denna modell hade världspremiär 12.11.2024 och leveranserna startade i March 2025.
 
 ### Prissättning
 

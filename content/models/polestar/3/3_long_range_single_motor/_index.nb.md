@@ -223,4 +223,11 @@ Bagasjerommet tilbyr en lastekapasitet på 484 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2980 kg, med en basisvekt på 2500 kg. Dette gir en maksimal lastekapasitet på 480 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 480 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2200 kg, mens for en ubremset tilhenger er det 750 kg.
+
+### Priser
+
+Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+
+- $67 500,00 (USA)
+
 {{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

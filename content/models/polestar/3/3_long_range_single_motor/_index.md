@@ -223,4 +223,11 @@ The trunk offers a cargo capacity of 484 liters (17.1 CU FT). With the rear seat
 The vehicle’s maximum weight is 2980 kg (6570 lbs), with a base weight of 2500 kg (5512 lbs). This allows for a maximum load of 480 kg (1058 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 480kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2200 kg (4850 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $67 500,00 (USA)
+
 {{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Range" >}}

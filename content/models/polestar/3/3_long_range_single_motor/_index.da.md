@@ -223,4 +223,11 @@ Bagagerummet har en lastekapacitet på 484 liter. Med det bageste sæde foldet n
 Køretøjets maksimale vægt er 2980 kg, med en basisvægt på 2500 kg. Dette giver en maksimal last på 480 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 480 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2200 kg, mens den for en ubremset trailer er 750 kg.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- $67 500,00 (USA)
+
 {{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Range" >}}
