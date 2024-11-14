@@ -206,11 +206,21 @@ Porsche Taycan GTS är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 ## Infotainment
 
 ### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### Förinstallerade Appar
+
+Även om infotainmentsystemet inte inkluderar en appbutik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. Tillgängliga appar varierar beroende på marknad, men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- **Apple Music**
+- **Tidal**
 
 ### Telefon spegling
 
@@ -302,7 +312,7 @@ Porsche Taycan GTS är utrustad med avancerade säkerhetsfunktioner för att sky
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 407 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 84 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 366 liter. Med baksätena nedfällda ökar detta till 1210 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 84 liter.
 
 Fordonets maximala vikt är 2850 kg, med en grundvikt på 2285 kg. Detta tillåter en maximal last på 565 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
@@ -310,5 +320,21 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 ## Tillgänglighet och pris
 
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- 1 585 089,00 NOK (Norge)
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Porsche Taycan GTS som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Audi RS e-tron GT](/models/audi/e-tron_gt/rs_e-tron_gt/)
+- [Lucid Air Grand Touring](/models/lucid/air/air_grand_touring/)
+- [Mercedes EQS 53 4MATIC+](/models/mercedes/eqs/eqs_53_4maticplus/)
+- [BMW i4 M50](/models/bmw/i4/i4_m50/)
+
+<a href="https://db.evkx.net/evcompare?evs=872d5e%2cc66322%2ced06c7%2c8f4acc%2cdec6c1" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

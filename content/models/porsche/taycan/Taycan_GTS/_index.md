@@ -213,11 +213,21 @@ The Porsche Taycan GTS is equipped with a single type of steering wheel:
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 ## Infotainment
 
 ### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Preinstalled Apps
+
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **Apple Music**
+- **Tidal**
 
 ### Phone Mirroring
 
@@ -309,7 +319,7 @@ The Porsche Taycan GTS is equipped with advanced security features to protect yo
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 407 liters (14.4 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 84 liters (3.0 CU FT).
+The trunk offers a cargo capacity of 366 liters (12.9 CU FT). With the rear seat folded down, this expands to 1210 liters (42.7 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 84 liters (3.0 CU FT).
 
 The vehicle’s maximum weight is 2850 kg (6283 lbs), with a base weight of 2285 kg (5038 lbs). This allows for a maximum load of 565 kg (1246 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
@@ -317,5 +327,21 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 1 585 089,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Porsche Taycan GTS that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Audi RS e-tron GT](/models/audi/e-tron_gt/rs_e-tron_gt/)
+- [Lucid Air Grand Touring](/models/lucid/air/air_grand_touring/)
+- [Mercedes EQS 53 4MATIC+](/models/mercedes/eqs/eqs_53_4maticplus/)
+- [BMW i4 M50](/models/bmw/i4/i4_m50/)
+
+<a href="https://db.evkx.net/evcompare?evs=872d5e%2cc66322%2ced06c7%2c8f4acc%2cdec6c1" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

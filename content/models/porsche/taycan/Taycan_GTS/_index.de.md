@@ -206,11 +206,21 @@ Der Porsche Taycan GTS ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
 ## Infotainment
 
 ### Navigationssystem
 
 Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+
+### Vorinstallierte Apps
+
+Obwohl das Infotainmentsystem keinen App-Store enthält, kommt es mit einer Auswahl vorinstallierter Drittanbieter-Apps, die nativ auf dem Bildschirm des Autos laufen, unabhängig von einem verbundenen Telefon. Die verfügbaren Apps variieren je nach Markt, beinhalten jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- **Apple Music**
+- **Tidal**
 
 ### Telefonspiegelung
 
@@ -302,7 +312,7 @@ Der Porsche Taycan GTS ist mit fortschrittlichen Sicherheitsfunktionen ausgestat
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 407 Litern (14,4 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 84 Litern (3,0 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 366 Litern (12,9 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1210 Liter (42,7 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 84 Litern (3,0 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2850 kg (6283 lbs) bei einem Leergewicht von 2285 kg (5038 lbs). Dies ermöglicht eine maximale Zuladung von 565 kg (1246 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
@@ -310,5 +320,21 @@ Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhän
 
 ## Verfügbarkeit & Preise
 
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 1 585 089,00 NOK (Norwegen)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Porsche Taycan GTS identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Audi RS e-tron GT](/models/audi/e-tron_gt/rs_e-tron_gt/)
+- [Lucid Air Grand Touring](/models/lucid/air/air_grand_touring/)
+- [Mercedes EQS 53 4MATIC+](/models/mercedes/eqs/eqs_53_4maticplus/)
+- [BMW i4 M50](/models/bmw/i4/i4_m50/)
+
+<a href="https://db.evkx.net/evcompare?evs=872d5e%2cc66322%2ced06c7%2c8f4acc%2cdec6c1" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Reichweite" >}}
