@@ -376,6 +376,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				1789 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Storlek frunk
 			</td>
 			<td>

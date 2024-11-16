@@ -376,6 +376,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
+			</td>
+			<td>
+				1789 Liter (63 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Größe des Frunks
 			</td>
 			<td>

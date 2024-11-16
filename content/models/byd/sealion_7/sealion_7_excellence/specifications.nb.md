@@ -376,6 +376,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Størrelse med alle bakseter lagt ned
+			</td>
+			<td>
+				1789 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Størrelse frunk
 			</td>
 			<td>

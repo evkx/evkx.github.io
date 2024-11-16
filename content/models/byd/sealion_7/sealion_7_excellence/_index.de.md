@@ -236,7 +236,7 @@ Der BYD Sealion 7 Excellence ist mit fortschrittlichen Sicherheitsfunktionen aus
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 58 Litern (2,0 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1789 Liter (63,2 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 58 Litern (2,0 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2631 kg (5800 lbs) bei einem Leergewicht von 2185 kg (4817 lbs). Dies ermöglicht eine maximale Zuladung von 446 kg (983 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 446 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 

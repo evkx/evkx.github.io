@@ -236,7 +236,7 @@ Le BYD Sealion 7 Excellence est équipé de fonctionnalités de sécurité avanc
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 520 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 58 litres.
+Le coffre offre une capacité de chargement de 520 litres. Avec les sièges arrière rabattus, cette capacité passe à 1789 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 58 litres.
 
 Le poids maximum du véhicule est de 2631 kg, avec un poids de base de 2185 kg. Cela permet une charge maximale de 446 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 446 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 

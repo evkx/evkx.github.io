@@ -376,6 +376,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Capacité du coffre avec tous les sièges arrière rabattus
+			</td>
+			<td>
+				1789 litre
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Taille du coffre
 			</td>
 			<td>

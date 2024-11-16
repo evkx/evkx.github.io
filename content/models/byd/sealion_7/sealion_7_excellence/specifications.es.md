@@ -376,6 +376,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1789 litro
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tamaño frunk
 			</td>
 			<td>

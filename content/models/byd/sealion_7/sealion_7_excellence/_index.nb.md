@@ -236,7 +236,7 @@ BYD Sealion 7 Excellence er utstyrt med avanserte sikkerhetsfunksjoner for å be
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 520 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 58 liter.
+Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1789 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 58 liter.
 
 Kjøretøyets maksimale vekt er 2631 kg, med en basisvekt på 2185 kg. Dette gir en maksimal lastekapasitet på 446 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 446 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 

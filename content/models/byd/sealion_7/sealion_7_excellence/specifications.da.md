@@ -376,6 +376,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bagumskapacitet med alle bagsæder foldet
+			</td>
+			<td>
+				1789 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Størrelse frunk
 			</td>
 			<td>

@@ -9,8 +9,17 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3></h3>
-<p>: 01.01.0001</p>
+<h3>2024 Mini Cooper SE 54 kWh range test</h3>
+<p>Bjørn Nyland: 15.11.2024</p>
+
+{{< youtube G1q_0WtnvcQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mini Cooper SE banana box test</h3>
+<p>Bjørn Nyland: 14.11.2024</p>
+
+{{< youtube 5Vvs29iTCgA >}}
 
 </div>
 <div class="mt-3 mb-3">

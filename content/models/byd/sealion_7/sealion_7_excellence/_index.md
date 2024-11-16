@@ -236,7 +236,7 @@ The BYD Sealion 7 Excellence is equipped with advanced security features to prot
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 520 liters (18.4 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 58 liters (2.0 CU FT).
+The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1789 liters (63.2 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 58 liters (2.0 CU FT).
 
 The vehicle’s maximum weight is 2631 kg (5800 lbs), with a base weight of 2185 kg (4817 lbs). This allows for a maximum load of 446 kg (983 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 446kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
