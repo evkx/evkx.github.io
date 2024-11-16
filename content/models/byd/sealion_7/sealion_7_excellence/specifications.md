@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Sealion 7 Excell
 				Electrical torque output
 			</td>
 			<td>
-				670 nm (494 lb-ft)
+				690 nm (509 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				520 km
+				502 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				17,3 kWh/100km
+				17,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -1018,7 +1018,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

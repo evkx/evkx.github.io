@@ -1,7 +1,7 @@
 ---
 title: BYD Sealion 7 Excellence
 linktitle: "Sealion 7 Excellence"
-description: "BYD Sealion 7 Excellence est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 520 km (323 miles). EVKX.net a tous les détails."
+description: "BYD Sealion 7 Excellence est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 502 km (312 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Nous avons séparé notre article BYD Sealion 7 Excellence en sections. Si vous 
 
 ## Performances
 
-La BYD Sealion 7 Excellence offre des performances solides avec une puissance maximale de 390 kW (530 ch) et un couple total de 670 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 215 km/h, ce qui la rend compétitive dans sa catégorie.
+La BYD Sealion 7 Excellence offre des performances solides avec une puissance maximale de 390 kW (530 ch) et un couple total de 690 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 215 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 91,3 kWh et une capacité nette utilisable de 90,0 kWh, offrant une réserve de 1,3 kWh (1,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 569 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 520 km, avec une consommation d'énergie de 17,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 502 km, avec une consommation d'énergie de 17,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 230kW. Une charge complète de 0 à 100 % prendrait 71 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 39 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 102kW. Chaque session de charge prendrait 21 minutes et 15 secondes.
 
@@ -166,6 +166,8 @@ Le BYD Sealion 7 Excellence est équipé d'un seul type de volant :
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
 
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+
 ## Infodivertissement
 
 ### Système de navigation
@@ -245,4 +247,20 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 14.10.2024 et les livraisons ont commencé en December 2024. Ce modèle est uniquement disponible en Europe.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- ?58 999,00 (Allemagne)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BYD Sealion 7 Excellence qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Plage" >}}

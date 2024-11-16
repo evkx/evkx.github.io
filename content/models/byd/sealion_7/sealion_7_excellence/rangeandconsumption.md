@@ -40,10 +40,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				520 km / 323 mi
+				502 km / 312 mi
 			</td>
 			<td>
-				17,31kWh/100km / 3,6 mi/kWh
+				17,93kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				520 km / 323 mi
+				502 km / 312 mi
 			</td>
 			<td>
-				17,31 kWh/100km / 3,6 mi/kWh
+				17,93 kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range basic trim with 2KW AC
 			</td>
 			<td>
-				 417km / 259 mi 
+				 405km / 252 mi 
 			</td>
 			<td>
-				-19,8%
+				-19,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range top trim with 2KW AC
 			</td>
 			<td>
-				417 km / 259 mi
+				405 km / 252 mi
 			</td>
 			<td>
-				-19,8%
+				-19,3%
 			</td>
 		</tr>
 	</tbody>

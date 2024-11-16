@@ -1,7 +1,7 @@
 ---
 title: BYD Sealion 7 Excellence
 linktitle: "Sealion 7 Excellence"
-description: "BYD Sealion 7 Excellence är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 520 km. EVKX.net har alla detaljer."
+description: "BYD Sealion 7 Excellence är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 502 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delat in vår beskrivning av BYD Sealion 7 Excellence i avsnitt. Om du vi
 
 ## Prestanda
 
-BYD Sealion 7 Excellence levererar en solid prestanda med en maximal effekt på 390 kW (530 hk) och ett totalt vridmoment på 670 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 215 km/h, vilket gör den konkurrenskraftig i sin klass.
+BYD Sealion 7 Excellence levererar en solid prestanda med en maximal effekt på 390 kW (530 hk) och ett totalt vridmoment på 690 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 215 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
 Högkapacitetsbatteriet har en bruttokapacitet på 91,3 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på 1,3 kWh (1,4%) för batteriskydd. Vid en nominell spänning på 569 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 520 km (199 miles), med en energiförbrukningshastighet på 17,3 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (199 miles), med en energiförbrukningshastighet på 17,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 230 kW. En full laddning från 0 - 100 % tar 71 minuter, medan ett vanligare scenario på 10-80 % tar 39 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 21 minuter och 15 sekunder.
 
@@ -166,6 +166,8 @@ BYD Sealion 7 Excellence är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 ## Infotainment
 
 ### Navigationssystem
@@ -245,4 +247,20 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 14.10.2024 och leveranserna startade i December 2024. Denna modell är endast tillgänglig i Europa.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- ?58 999,00 (Tyskland)
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till BYD Sealion 7 Excellence som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

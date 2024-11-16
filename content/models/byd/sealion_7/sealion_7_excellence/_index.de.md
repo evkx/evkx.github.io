@@ -1,7 +1,7 @@
 ---
 title: BYD Sealion 7 Excellence
 linktitle: "Sealion 7 Excellence"
-description: "BYD Sealion 7 Excellence ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 520 km (323 Meilen). EVKX.net hat alle Details."
+description: "BYD Sealion 7 Excellence ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 502 km (312 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der BYD Sealion 7 Excellence liefert eine solide Leistung mit einer maximalen Leistung von 390 kW (530 PS / 523 bhp) und einem Gesamtdrehmoment von 670 Nm (494 lb-ft). Er beschleunigt in 4,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 215 km/h (134 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der BYD Sealion 7 Excellence liefert eine solide Leistung mit einer maximalen Leistung von 390 kW (530 PS / 523 bhp) und einem Gesamtdrehmoment von 690 Nm (509 lb-ft). Er beschleunigt in 4,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 215 km/h (134 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 91,3 kWh und eine nutzbare Nettokapazität von 90,0 kWh, was einen Puffer von 1,3 kWh (1,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 569 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 520 km (323 Meilen) mit einem Energieverbrauch von 17,3 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 502 km (312 Meilen) mit einem Energieverbrauch von 17,9 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 230 kW. Das Laden von 0% auf 100% dauert etwa 71 Minuten, während ein typischer Ladevorgang von 10% auf 80% 39 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 97 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 5% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 102 kW, wobei jede Ladesitzung etwa 21 Minuten und 15 Sekunden dauert.
 
@@ -166,6 +166,8 @@ Der BYD Sealion 7 Excellence ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
 ## Infotainment
 
 ### Navigationssystem
@@ -245,4 +247,20 @@ Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhän
 ## Verfügbarkeit & Preise
 
 Der BYD Sealion 7 Excellence feierte seine Weltpremiere am 14.10.2024, mit Lieferungen ab December 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Europa erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- €58 999,00 (Deutschland)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum BYD Sealion 7 Excellence identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Reichweite" >}}

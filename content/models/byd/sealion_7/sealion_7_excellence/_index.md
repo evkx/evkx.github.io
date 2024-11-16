@@ -1,7 +1,7 @@
 ---
 title: BYD Sealion 7 Excellence
 linktitle: "Sealion 7 Excellence"
-description: "BYD Sealion 7 Excellence is an all-electric coupe SUV with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details."
+description: "BYD Sealion 7 Excellence is an all-electric coupe SUV with a WLTP range of up to 502 km (312 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The BYD Sealion 7 Excellence delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 670 Nm (494 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 215 km/h (134 mph), making it competitive within its class.
+The BYD Sealion 7 Excellence delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 690 Nm (509 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 215 km/h (134 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 91.3 kWh and a net usable capacity of 90.0 kWh, providing a 1.3 kWh buffer (1.4%) for battery protection. Operating at a nominal voltage of 569 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 miles), with an energy consumption rate of 17.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 502 km (312 miles), with an energy consumption rate of 17.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 230 kW. Charging from 0% to 100% takes approximately 71 minutes, while a more typical scenario from 10% to 80% takes 39 minutes with an average charging speed of 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 21 minutes and 15 seconds.
 
@@ -166,6 +166,8 @@ The BYD Sealion 7 Excellence is equipped with a single type of steering wheel:
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 ## Infotainment
 
 ### Navigation System
@@ -245,4 +247,20 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 The BYD Sealion 7 Excellence had its world premiere on 14.10.2024, with deliveries starting in December 2024. Please note that this model is available exclusively in Europe.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- €58 999,00 (Germany)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the BYD Sealion 7 Excellence that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Range" >}}

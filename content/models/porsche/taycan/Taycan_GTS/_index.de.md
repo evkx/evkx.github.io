@@ -106,7 +106,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
-Der Porsche Taycan GTS verfügt über ein fahrerorientiertes Interieur mit luxuriösem Ambiente und hochwertigen Materialien. Die traditionelle Mittelkonsole trennt Fahrer und Beifahrer und bietet praktischen Stauraum und Funktionalität.
+Der Porsche Taycan GTS verfügt über ein fahrerorientiertes Interieur mit luxuriösem Ambiente und hochwertigen Materialien. Die traditionelle Mittelkonsole trennt Fahrer und Beifahrer und bietet praktischen Stauraum und Funktionalität. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -127,8 +127,8 @@ Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfüg
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Verfügbar in:
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 
@@ -144,9 +144,11 @@ Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 - [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 Verfügbar in:
+
+- Black [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

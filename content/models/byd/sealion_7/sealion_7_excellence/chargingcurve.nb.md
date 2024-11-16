@@ -175,7 +175,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				?
 			</td>
 			<td>
-				7,3 km (4,5 mi)
+				7,1 km (4,4 mi)
 			</td>
 			<td>
 				5,5 km (3,4 mi)
@@ -192,7 +192,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				?
 			</td>
 			<td>
-				7,2 km (4,5 mi)
+				7,0 km (4,4 mi)
 			</td>
 			<td>
 				5,4 km (3,4 mi)
@@ -209,7 +209,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 				?
 			</td>
 			<td>
-				9,3 km (5,8 mi)
+				9,0 km (5,6 mi)
 			</td>
 			<td>
 				7,0 km (4,4 mi)

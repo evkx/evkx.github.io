@@ -1018,7 +1018,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

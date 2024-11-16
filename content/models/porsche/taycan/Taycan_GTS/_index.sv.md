@@ -106,7 +106,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Porsche Taycan GTS har en förarfokuserad interiör med en lyxig känsla, med högkvalitativa material överallt. Den traditionella mittkonsolen skiljer föraren och passageraren och ger praktisk förvaring och funktionalitet.
+Porsche Taycan GTS har en förarfokuserad interiör med en lyxig känsla, med högkvalitativa material överallt. Den traditionella mittkonsolen skiljer föraren och passageraren och ger praktisk förvaring och funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -127,8 +127,8 @@ Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
@@ -144,9 +144,11 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
+- Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/Red [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

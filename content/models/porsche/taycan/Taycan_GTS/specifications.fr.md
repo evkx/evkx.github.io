@@ -919,7 +919,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité facultative
 			</td>
 		</tr>
 		<tr>
@@ -927,7 +927,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité facultative
 			</td>
 		</tr>
 	</tbody>
@@ -1072,7 +1072,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

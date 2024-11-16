@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Sealion 7 Exce
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				670 nm (494 lb-ft)
+				690 nm (509 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite
 			</td>
 			<td>
-				520 km
+				502 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch
 			</td>
 			<td>
-				17,3 kWh/100km
+				17,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -1018,7 +1018,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sprachsteuerung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

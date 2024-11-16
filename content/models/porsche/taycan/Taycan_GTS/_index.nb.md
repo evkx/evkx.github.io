@@ -106,7 +106,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Porsche Taycan GTS har et førerfokusert interiør med en luksuriøs følelse, ved bruk av materialer av høy kvalitet overalt. Den tradisjonelle midtkonsollen skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
+Porsche Taycan GTS har et førerfokusert interiør med en luksuriøs følelse, ved bruk av materialer av høy kvalitet overalt. Den tradisjonelle midtkonsollen skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -127,8 +127,8 @@ Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
@@ -144,9 +144,11 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
+- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black/Red [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

@@ -106,7 +106,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Le Porsche Taycan GTS dispose d'un intérieur axé sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques.
+Le Porsche Taycan GTS dispose d'un intérieur axé sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -127,8 +127,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats wit
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
@@ -144,9 +144,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black/Red [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
