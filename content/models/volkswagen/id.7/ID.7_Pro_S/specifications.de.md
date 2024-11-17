@@ -166,7 +166,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				350
+				383
 			</td>
 		</tr>
 		<tr>

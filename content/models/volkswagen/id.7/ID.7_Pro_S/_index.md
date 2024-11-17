@@ -30,13 +30,13 @@ The Volkswagen ID.7 Pro S delivers a solid performance with a maximum power of 2
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 91.0 kWh and a net usable capacity of 86.0 kWh, providing a 5.0 kWh buffer (5.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 91.0 kWh and a net usable capacity of 86.0 kWh, providing a 5.0 kWh buffer (5.5%) for battery protection. With a nominal voltage of 383 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 709 km (441 miles), with an energy consumption rate of 12.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 57 minutes, while a more typical scenario from 10% to 80% takes 30 minutes with an average charging speed of 122 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 53%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 21 minutes and 47 seconds.
+The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 47 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 131 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 58%. This results in an effective charging speed, including time lost, of 121 kW, with each charging session taking about 24 minutes and 17 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 9 hours and 12 minutes. This journey would require three charging stops from 5% to 46%, with a total charging time of 52 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 9 hours and 12 minutes. This journey would require two charging stops from 1% to 62%, with a total charging time of 52 minutes.
 
 ### Onboard Charger
 
