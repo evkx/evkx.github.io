@@ -106,7 +106,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-El Porsche Taycan GTS cuenta con un interior enfocado en el conductor con una sensación de lujo, utilizando materiales de alta calidad en todo momento. La consola central tradicional separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre varios diseños de interiores.
+El Porsche Taycan GTS cuenta con un interior enfocado en el conductor con una sensación de lujo, utilizando materiales de alta calidad en todo momento. La consola central tradicional separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -130,6 +130,22 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats w
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
+Puedes elegir entre 13 diferentes materiales/colores para este tipo de asiento.
+
+- Gray [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
@@ -145,10 +161,24 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 16 diferentes materiales/colores para este tipo de asiento.
 
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Black/Red [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Gray [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

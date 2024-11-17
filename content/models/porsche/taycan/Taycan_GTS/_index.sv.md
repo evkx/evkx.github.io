@@ -106,7 +106,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Porsche Taycan GTS har en förarfokuserad interiör med en lyxig känsla, med högkvalitativa material överallt. Den traditionella mittkonsolen skiljer föraren och passageraren och ger praktisk förvaring och funktionalitet. Du kan välja mellan flera inredningsdesigner.
+Porsche Taycan GTS har en förarfokuserad interiör med en lyxig känsla, med högkvalitativa material överallt. Den traditionella mittkonsolen skiljer föraren och passageraren och ger praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -130,6 +130,22 @@ Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
+Du kan välja mellan 13 olika material/färger för denna sitstyp.
+
+- Gray [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Red/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
@@ -145,10 +161,24 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Du kan välja mellan 16 olika material/färger för denna sitstyp.
 
 - Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Black/Red [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Red/Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige/Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

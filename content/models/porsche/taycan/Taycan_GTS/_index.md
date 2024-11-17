@@ -113,7 +113,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The Porsche Taycan GTS features a driver-focused interior with a luxurious feel, using high-quality materials throughout. The traditional center console separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
+The Porsche Taycan GTS features a driver-focused interior with a luxurious feel, using high-quality materials throughout. The traditional center console separates the driver and passenger, providing convenient storage and functionality. You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -137,6 +137,22 @@ The following functionalities are available on the **Comfortseats with memory** 
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
+Available in:
+
+- Gray [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
+- Black [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+
 The following functionalities are available on the **Sportsseats Plus** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
@@ -156,6 +172,20 @@ Available in:
 
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Black/Red [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Black [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
+- Gray [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
+- Black [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red/Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige/Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

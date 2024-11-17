@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 Performance | 120KPH (75MPH) RANGE TEST</h3>
+<p>Kris Rifa: 14.11.2024</p>
+
+{{< youtube 8FvGbXEw_EA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 LR DM range test part 2</h3>
 <p>Bjørn Nyland: 10.10.2024</p>
 

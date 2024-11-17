@@ -106,7 +106,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Le Porsche Taycan GTS dispose d'un intérieur axé sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+Le Porsche Taycan GTS dispose d'un intérieur axé sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -130,6 +130,22 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats wit
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 - [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
+Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de siège.
+
+- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
@@ -145,10 +161,24 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 16 différents matériaux/couleurs pour ce type de siège.
 
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Black/Red [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

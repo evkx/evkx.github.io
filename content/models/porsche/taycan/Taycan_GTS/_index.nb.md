@@ -106,7 +106,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Porsche Taycan GTS har et førerfokusert interiør med en luksuriøs følelse, ved bruk av materialer av høy kvalitet overalt. Den tradisjonelle midtkonsollen skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign.
+Porsche Taycan GTS har et førerfokusert interiør med en luksuriøs følelse, ved bruk av materialer av høy kvalitet overalt. Den tradisjonelle midtkonsollen skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -130,6 +130,22 @@ Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
+Du kan velge mellom 13 forskjellige materialer/farger for denne setetypen.
+
+- Gray [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
@@ -145,10 +161,24 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 16 forskjellige materialer/farger for denne setetypen.
 
 - Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Black/Red [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 

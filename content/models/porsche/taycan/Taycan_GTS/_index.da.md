@@ -106,7 +106,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Porsche Taycan GTS har et førerfokuseret interiør med en luksuriøs følelse, der bruger materialer af høj kvalitet overalt. Den traditionelle midterkonsol adskiller fører og passager og giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
+Porsche Taycan GTS har et førerfokuseret interiør med en luksuriøs følelse, der bruger materialer af høj kvalitet overalt. Den traditionelle midterkonsol adskiller fører og passager og giver praktisk opbevaring og funktionalitet. Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -130,6 +130,22 @@ Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 
+Du kan vælge mellem 13 forskellige materialer/farver til denne sædetype.
+
+- Gray [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Red/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
@@ -145,10 +161,24 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 16 forskellige materialer/farver til denne sædetype.
 
 - Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Black/Red [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Red/Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige/Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="1688"  >}}
 
