@@ -68,6 +68,12 @@ The Easy Entry function raises the car's body automatically when a door is opene
 
 Dynamic steering is a standard on the Porsche Taycan GTS, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive Modes
+
+The Porsche Taycan GTS lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
+
+- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Normal: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Sport Plus: Dynamic steering, low suspension with dynamic throttle and suspension. - Individual: User-defined settings for steering, suspension, and throttle response.
+
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs measure 360 mm, while the rear discs are 358 mm. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs measure 410 mm, while the rear discs are 365 mm. The standard option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 420 mm, while the rear discs are 410 mm.
@@ -259,7 +265,7 @@ The Porsche Taycan GTS features the Porsche Communication Management (PCM) infot
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information and satellite maps ensuring an efficient and stress-free journey.
 
 ### Preinstalled Apps
 

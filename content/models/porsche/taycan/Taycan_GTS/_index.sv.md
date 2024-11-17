@@ -68,6 +68,12 @@ Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vi
 
 Dynamisk styrning är standard-funktionen för Porsche Taycan GTS. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en valfritt-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
+### Körlägen
+
+Porsche Taycan GTS låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
+
+- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Normal: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Sport Plus: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Individual: Anpassad styrning, fjädring och gasrespons.
+
 ### Bromsar
 
 Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 360mm och de bakre skivorna är 358mm. Bromsarna standard använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 410mm och de bakre skivorna är 365mm. Bromsarna för alternativet standard använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
@@ -252,7 +258,7 @@ Porsche Taycan GTS har Porsche Communication Management (PCM) infotainmentsystem
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation och satellitkartor som säkerställer en effektiv och stressfri resa.
 
 ### Förinstallerade Appar
 

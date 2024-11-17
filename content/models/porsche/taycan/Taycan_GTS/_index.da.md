@@ -68,6 +68,12 @@ Easy Entry-funktionen hæver bilens karrosseri automatisk, når en dør åbnes, 
 
 Dynamisk styring er en standard-funktion på Porsche Taycan GTS. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
+### Køretilstande
+
+Porsche Taycan GTS lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
+
+- Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Normal: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Sport Plus: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Individual: Brugerdefineret styring, affjedring og gasrespons.
+
 ### Bremser
 
 Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne standard bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm. Bremserne standard bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
@@ -252,7 +258,7 @@ Porsche Taycan GTS har Porsche Communication Management (PCM) infotainmentsystem
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger og satellitkort, der sikrer en effektiv og stressfri rejse.
 
 ### Forudinstallerede Apps
 

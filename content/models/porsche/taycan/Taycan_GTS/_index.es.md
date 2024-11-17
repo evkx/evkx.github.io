@@ -68,6 +68,12 @@ La función Easy Entry eleva automáticamente la carrocería del coche cuando se
 
 La dirección dinámica es una característica un estándar en el Porsche Taycan GTS. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un opcional. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
+### Modos de conducción
+
+El Porsche Taycan GTS permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
+
+- Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Normal: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Sport Plus: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción standard utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm. Los frenos de opción standard utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
@@ -252,7 +258,7 @@ El Porsche Taycan GTS cuenta con el sistema de infoentretenimiento Porsche Commu
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real y mapas satelitales que garantizan un viaje eficiente y sin estrés.
 
 ### Aplicaciones Preinstaladas
 

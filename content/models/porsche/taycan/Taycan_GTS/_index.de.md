@@ -68,6 +68,12 @@ Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn e
 
 Die dynamische Lenkung ist eine standard im Porsche Taycan GTS, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern. Zusätzlich ist die Hinterradlenkung als eine optionale Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
 
+### Fahrmodi
+
+Der Porsche Taycan GTS ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
+
+- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Normal: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Sport Plus: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+
 ### Bremsen
 
 Sie können zwischen verschiedenen Bremssystemen wählen. Die standard Option Bremsen verwenden normale [Gusseisenscheiben](../../../../technology/brakes/#disc-brakes). Die vorderen Scheiben messen 360 mm, während die hinteren Scheiben 358 mm groß sind. Die standard Option Bremsen verwenden eine [Gusseisenscheibe, die mit Wolframkarbid beschichtet ist](../../../../technology/brakes/#carbid-brakes). Sie rostet nicht und produziert kaum Bremsstaub. Die vorderen Scheiben messen 410 mm, während die hinteren Scheiben 365 mm groß sind. Die standard Option Bremsen verwenden [Keramikscheiben](../../../../technology/brakes/#ceramic-brakes). Die vorderen Scheiben messen 420 mm, während die hinteren Scheiben 410 mm groß sind.
@@ -252,7 +258,7 @@ Der Porsche Taycan GTS verfügt über das Porsche Communication Management (PCM)
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das eingebaute Navigationssystem verwendet detaillierte Karten und bietet eine erweiterte Routenplanung. Das System bietet Echtzeit-Verkehrsinformationen und Satellitenkarten, die eine effiziente und stressfreie Reise gewährleisten.
 
 ### Vorinstallierte Apps
 

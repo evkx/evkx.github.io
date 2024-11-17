@@ -68,6 +68,12 @@ La fonction Easy Entry élève automatiquement la carrosserie de la voiture lors
 
 La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan GTS. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un facultatif. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
+### Modes de conduite
+
+Le Porsche Taycan GTS permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
+
+- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Normal : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Sport Plus : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option standard utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option standard utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
@@ -252,7 +258,7 @@ Le Porsche Taycan GTS est équipé du système d'infodivertissement Porsche Comm
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel et des cartes satellites garantissant un voyage efficace et sans stress.
 
 ### Applications Préinstallées
 

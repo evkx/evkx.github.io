@@ -68,6 +68,12 @@ Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe
 
 Dynamisk styring er en standard-funksjonen på Porsche Taycan GTS. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en valgfri-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
+### Kjøremoduser
+
+Porsche Taycan GTS lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
+
+- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Normal: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Sport Plus: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Individual: Egendefinert styring, fjæring og gassrespons.
+
 ### Bremser
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene standard bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm. Bremsene for standard-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 410mm.
@@ -252,7 +258,7 @@ Porsche Taycan GTS har Porsche Communication Management (PCM) infotainmentsystem
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon og satellittkart som sikrer en effektiv og stressfri reise.
 
 ### Forhåndsinstallerte Apper
 
