@@ -210,6 +210,7 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 Porsche Taycan GTS inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
+- **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -247,6 +248,8 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Porsche Taycan GTS har Porsche Communication Management (PCM) infotainmentsystemet, designet for å gi en sømløs og intuitiv brukeropplevelse. PCM-systemet integrerer ulike funksjoner, inkludert navigasjon, media, kommunikasjon og kjøretøyinnstillinger, i et sentralt grensesnitt for enkel tilgang. Systemet er utstyrt med en høyoppløselig berøringsskjerm som gir rask og praktisk kontroll over kjøretøyets funksjoner. I tillegg støtter PCM-systemet smarttelefonintegrasjon, talekontroll og over-the-air oppdateringer for å sikre at de nyeste programvareforbedringene og funksjonene alltid er tilgjengelige for føreren.
+
 ### Navigasjonssystem
 
 I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
@@ -270,12 +273,16 @@ Du kan velge mellom to lydsystemer på Porsche Taycan GTS.
 - Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
 
+Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Mobilapp
 
 Porsche Taycan GTS kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
 
 - **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
 - **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
 - **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
 - **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
 - **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
@@ -284,7 +291,7 @@ Porsche Taycan GTS kommer med sin egen dedikerte mobilapp, tilgjengelig for båd
 
 Du kan velge mellom to typer frontlykter for Porsche Taycan GTS.
 
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+- Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
 - **LED Matrix Frontlykter:** Tilgjengelig som en oppgradering, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan aktivere eller deaktivere individuelt. Dette optimaliserer belysningen ved selektivt å dempe spesifikke områder for å unngå å blende møtende trafikk. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
@@ -336,6 +343,18 @@ Med det valgfrie Porsche InnoDrive nivå 2-systemet får du ekstra kjøreautomat
 
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
 Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
+## Sikkerhet
+
+Porsche Taycan GTS er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- Kne-kollisjonsputer for fører og forsetepassasjer
+- Sidekollisjonsputer for passasjerene i andre rad
+
+I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
 
 ## Sikkerhets- og tilgangsteknologier
 

@@ -210,6 +210,7 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 L'Porsche Taycan GTS comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
+- **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -247,6 +248,8 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+Le Porsche Taycan GTS est équipé du système d'infodivertissement Porsche Communication Management (PCM), conçu pour offrir une expérience utilisateur fluide et intuitive. Le système PCM intègre diverses fonctions, notamment la navigation, les médias, la communication et les réglages du véhicule, dans une interface centrale pour un accès facile. Le système est équipé d'un écran tactile haute résolution qui permet un contrôle rapide et pratique des fonctionnalités du véhicule. De plus, le système PCM prend en charge l'intégration des smartphones, le contrôle vocal et les mises à jour par liaison radio pour garantir que les dernières améliorations et fonctionnalités logicielles sont toujours disponibles pour le conducteur.
+
 ### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
@@ -270,12 +273,16 @@ Vous pouvez choisir entre deux systèmes audio sur le Porsche Taycan GTS.
 - Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts.
 - Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
 
+Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Application mobile
 
 Le Porsche Taycan GTS est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
 
 - **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
 - **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
 - **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
 - **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
 - **Historique de conduite** : Consultez les détails de vos trajets précédents.
@@ -284,7 +291,7 @@ Le Porsche Taycan GTS est accompagné de son application mobile dédiée, dispon
 
 Vous pouvez choisir entre deux types de phares pour le Porsche Taycan GTS.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+- Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
 - **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
@@ -336,6 +343,18 @@ Avec le système optionnel Porsche InnoDrive de niveau 2, vous obtenez des fonct
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Porsche Taycan GTS est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Airbags pour les genoux du conducteur et du passager avant
+- Airbags latéraux pour les passagers de la deuxième rangée
+
+De plus, les ceintures de sécurité des première et deuxième rangées sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
 
 ## Technologies de sécurité et d'accès
 

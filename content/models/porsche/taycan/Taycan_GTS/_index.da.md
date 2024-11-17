@@ -210,6 +210,7 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 Porsche Taycan GTS inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
+- **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -247,6 +248,8 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+Porsche Taycan GTS har Porsche Communication Management (PCM) infotainmentsystemet, designet til at give en problemfri og intuitiv brugeroplevelse. PCM-systemet integrerer forskellige funktioner, herunder navigation, medier, kommunikation og køretøjsindstillinger, i en central grænseflade for nem adgang. Systemet er udstyret med en højopløselig touchskærm, der giver hurtig og bekvem kontrol over køretøjets funktioner. Derudover understøtter PCM-systemet smartphone-integration, stemmestyring og over-the-air opdateringer for at sikre, at de nyeste softwareforbedringer og funktioner altid er tilgængelige for føreren.
+
 ### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
@@ -270,12 +273,16 @@ Du kan vælge mellem to lydsystemer på Porsche Taycan GTS.
 - Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
 
+Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Mobilapp
 
 Den Porsche Taycan GTS kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
 
 - **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
 - **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
 - **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
 - **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
 - **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
@@ -284,7 +291,7 @@ Den Porsche Taycan GTS kommer med sin dedikerede mobilapp, tilgængelig til båd
 
 Du kan vælge mellem to typer forlygter til Porsche Taycan GTS.
 
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+- De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
 - **LED Matrix Forlygter:** Tilgængelige som en opgradering, dette adaptive system opdeler den traditionelle forlygtebjælke i dusinvis af mindre stråler, som lysstyringen kan aktivere eller deaktivere individuelt. Dette optimerer belysningen ved selektivt at dæmpe specifikke områder for at undgå at blænde modkørende trafik. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
@@ -336,6 +343,18 @@ Med det valgfrie Porsche InnoDrive niveau 2-system får du yderligere funktioner
 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerhed
+
+Porsche Taycan GTS er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+
+- Frontairbags til føreren og forsædepassageren
+- Sidegardinairbags til både første og anden række
+- Sideairbags til føreren og forsædepassageren
+- Knæairbags til føreren og forsædepassageren
+- Sideairbags til passagererne i anden række
+
+Derudover er sikkerhedsselerne i første og anden række udstyret med selestrammere, der strammes automatisk under en kollision for at minimere skaderisikoen.
 
 ## Sikkerheds- og adgangsteknologier
 

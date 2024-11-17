@@ -210,6 +210,7 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 Porsche Taycan GTS inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
+- **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -247,6 +248,8 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+Porsche Taycan GTS har Porsche Communication Management (PCM) infotainmentsystemet, utformat för att ge en sömlös och intuitiv användarupplevelse. PCM-systemet integrerar olika funktioner, inklusive navigation, media, kommunikation och fordonsinställningar, i ett centralt gränssnitt för enkel åtkomst. Systemet är utrustat med en högupplöst pekskärm som möjliggör snabb och bekväm kontroll av fordonets funktioner. Dessutom stöder PCM-systemet smarttelefonintegration, röststyrning och over-the-air uppdateringar för att säkerställa att de senaste programvaruförbättringarna och funktionerna alltid är tillgängliga för föraren.
+
 ### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
@@ -270,12 +273,16 @@ Du kan välja mellan två ljudsystem på Porsche Taycan GTS.
 - Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
 
+Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Mobilapp
 
 Porsche Taycan GTS kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
 
 - **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
 - **Fjärrparkering**: Styr din bil på distans för att parkera eller lämna en parkeringsplats.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
 - **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
 - **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
 - **Körhistorik**: Granska detaljerna för dina tidigare resor.
@@ -284,7 +291,7 @@ Porsche Taycan GTS kommer med en egen dedikerad mobilapp, tillgänglig för båd
 
 Du kan välja mellan två typer av strålkastare för Porsche Taycan GTS.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
 - **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
@@ -336,6 +343,18 @@ Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare funktione
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+Porsche Taycan GTS är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+
+- Främre krockkuddar för föraren och främre passageraren
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för föraren och främre passageraren
+- Knäkrockkuddar för föraren och främre passageraren
+- Sidokrockkuddar för passagerarna i andra raden
+
+Dessutom är säkerhetsbältena i första och andra raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
 
 ## Säkerhets- och åtkomstteknologier
 
