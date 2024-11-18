@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-With overboost, the Audi RS e-tron GT (GEN1) reaches a maximum power of 475 kW (646 hp / 637 bhp). Without overboost, it provides a strong 440 kW (598 hp / 590 bhp). The maxium torque is at 830 Nm (613 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.3 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 475 kW (646 hp / 637 bhp) when using overboost. Without overboost, it still offers a robust 440 kW (598 hp / 590 bhp). The vehicle generates a maximum torque of 830 Nm (613 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.3 seconds and reach a top speed of 250 km/h (155 mph).
 
 ## Battery, Range, and Charging
 

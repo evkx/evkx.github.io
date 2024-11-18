@@ -28,7 +28,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 With overboost, the Porsche Taycan 4S reaches a maximum power of 390 kW (530 hp / 523 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 640 Nm (472 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S reaches a maximum power of 420 kW (571 hp / 563 bhp). Without overboost, it provides a strong 320 kW (435 hp / 429 bhp). The maxium torque is at 650 Nm (480 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+With the optional Performance Battery Plus battery, you get other performance numbers. The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 420 kW (571 hp / 563 bhp) when using overboost. Without overboost, it still offers a robust 320 kW (435 hp / 429 bhp). The vehicle generates a maximum torque of 650 Nm (480 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 4 seconds and reach a top speed of 250 km/h (155 mph).
 
 ## Battery, Range, and Charging
 

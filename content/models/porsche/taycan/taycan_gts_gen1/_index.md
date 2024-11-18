@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS (GEN1) reaches a maximum power of 440 kW (598 hp / 590 bhp). Without overboost, it provides a strong 320 kW (435 hp / 429 bhp). The maxium torque is at 850 Nm (627 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+With the optional Performance Battery Plus battery, you get other performance numbers. The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 440 kW (598 hp / 590 bhp) when using overboost. Without overboost, it still offers a robust 320 kW (435 hp / 429 bhp). The vehicle generates a maximum torque of 850 Nm (627 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds and reach a top speed of 250 km/h (155 mph).
 
 ## Battery, Range, and Charging
 

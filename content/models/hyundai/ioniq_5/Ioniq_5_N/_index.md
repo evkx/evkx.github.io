@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp / 641 bhp). Without overboost, it provides a strong 448 kW (609 hp / 601 bhp). The maxium torque is at 770 Nm (568 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
+The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 478 kW (650 hp / 641 bhp) when using overboost. Without overboost, it still offers a robust 448 kW (609 hp / 601 bhp). The vehicle generates a maximum torque of 770 Nm (568 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds and reach a top speed of 260 km/h (162 mph).
 
 ## Battery, Range, and Charging
 
