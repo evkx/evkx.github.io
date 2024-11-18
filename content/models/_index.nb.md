@@ -593,6 +593,9 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
+		Porsche, kjent for sin arv av ytelse og luksus, har sømløst gått over til den elektriske æraen. Ved å kombinere banebrytende teknologi med ikonisk design, leverer Porsches elektriske modeller, som Taycan, spennende hastighet, presis håndtering og bærekraftig innovasjon, og setter nye standarder for elektriske sportsbiler.
+	</p>
+	<p>
 	Porsche har 2 modell(er) med totalt 31 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche modelloversikt</a>

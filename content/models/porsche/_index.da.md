@@ -1,7 +1,7 @@
 ---
 title: Porsche EV-modeller
 linktitle: "Porsche"
-description: "Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success."
+description: "Porsche, kendt for sin arv af ydeevne og luksus, har problemfrit overgået til den elektriske æra. Ved at kombinere banebrydende teknologi med ikonisk design leverer Porsches elektriske modeller, som Taycan, spændende hastighed, præcis håndtering og bæredygtig innovation, der sætter nye standarder for elektriske sportsvogne."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

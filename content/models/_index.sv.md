@@ -605,6 +605,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
+		Porsche, känt för sitt arv av prestanda och lyx, har sömlöst övergått till den elektriska eran. Genom att kombinera banbrytande teknik med ikonisk design levererar Porsches elmodeller, som Taycan, spännande hastighet, precis hantering och hållbar innovation, och sätter nya standarder för elektriska sportbilar.
+	</p>
+	<p>
 	Porsche har 2 modell(er) med totalt 31 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå till Porsche modellöversikt</a>

@@ -1,7 +1,7 @@
 ---
 title: Porsche modèles de VE
 linktitle: "Porsche"
-description: "Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success."
+description: "Porsche, réputé pour son héritage de performance et de luxe, est passé sans heurts à l'ère électrique. En combinant une technologie de pointe avec un design emblématique, les modèles électriques de Porsche, comme la Taycan, offrent une vitesse exaltante, une maniabilité précise et une innovation durable, établissant de nouvelles normes pour les voitures de sport électriques."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

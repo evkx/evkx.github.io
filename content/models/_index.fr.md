@@ -605,6 +605,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
+		Porsche, réputé pour son héritage de performance et de luxe, est passé sans heurts à l'ère électrique. En combinant une technologie de pointe avec un design emblématique, les modèles électriques de Porsche, comme la Taycan, offrent une vitesse exaltante, une maniabilité précise et une innovation durable, établissant de nouvelles normes pour les voitures de sport électriques.
+	</p>
+	<p>
 	Porsche a 2 modèles avec un total de 31 variantes.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Aller à la Porsche présentation du modèle EV</a>

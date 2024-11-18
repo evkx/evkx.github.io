@@ -1,7 +1,7 @@
 ---
 title: Porsche modelos de vehículos eléctricos
 linktitle: "Porsche"
-description: "Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success."
+description: "Porsche, conocido por su legado de rendimiento y lujo, ha hecho una transición perfecta a la era eléctrica. Combinando tecnología de vanguardia con diseño icónico, los modelos eléctricos de Porsche, como el Taycan, ofrecen una velocidad emocionante, manejo preciso e innovación sostenible, estableciendo nuevos estándares para los autos deportivos eléctricos."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

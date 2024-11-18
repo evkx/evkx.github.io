@@ -719,7 +719,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
-		Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success.
+		Porsche, renowned for its legacy of performance and luxury, has seamlessly transitioned into the electric era. Combining cutting-edge technology with iconic design, Porsche’s electric models, like the Taycan, deliver exhilarating speed, precision handling, and sustainable innovation, setting new standards for electric sports cars.
 	</p>
 	<p>
 	Porsche has 2 models with total 31 variants.
