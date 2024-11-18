@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes Maybach EQS SUV test ride and first impressions</h3>
+<p>Bjørn Nyland: 18.11.2024</p>
+
+{{< youtube MGn-Sf8WUuA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mercedes-Maybach EQS 680 SUV: Who is it for?</h3>
 <p>MotoManTV: 09.10.2023</p>
 

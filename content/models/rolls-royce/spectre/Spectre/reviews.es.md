@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Rolls Royce Spectre Offers The Most Refined Electric Driving Experience Possible</h3>
+<p>Out of Spec Reviews: 18.11.2024</p>
+
+{{< youtube k_eL0U6aSvI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Rolls-Royce Spectre - INSANE Luxury!</h3>
 <p>carwow: 04.07.2024</p>
 
