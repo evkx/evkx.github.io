@@ -267,4 +267,7 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
+## Disponibilidad y precios
+
+
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}}

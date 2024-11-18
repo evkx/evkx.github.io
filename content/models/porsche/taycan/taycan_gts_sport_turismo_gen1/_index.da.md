@@ -267,4 +267,7 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
+## Tilgængelighed og priser
+
+
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

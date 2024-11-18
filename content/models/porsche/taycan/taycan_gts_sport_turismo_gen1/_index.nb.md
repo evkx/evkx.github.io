@@ -267,4 +267,7 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
+## Tilgjengelighet & pris
+
+
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

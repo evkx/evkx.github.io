@@ -262,4 +262,8 @@ Der Kofferraum bietet ein Ladevolumen von 407 Litern (14,4 CU FT). Auf dem Dach 
 Das maximale Gewicht des Fahrzeugs beträgt 2850 kg (6283 lbs) bei einem Leergewicht von 2295 kg (5060 lbs). Dies ermöglicht eine maximale Zuladung von 555 kg (1224 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
+
+## Verfügbarkeit & Preise
+
+
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Reichweite" >}}

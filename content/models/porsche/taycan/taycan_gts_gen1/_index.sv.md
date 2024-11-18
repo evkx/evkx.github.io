@@ -262,4 +262,8 @@ Bagageutrymmet erbjuder en lastkapacitet på 407 liter. På taket kan du lasta u
 Fordonets maximala vikt är 2850 kg, med en grundvikt på 2295 kg. Detta tillåter en maximal last på 555 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+
+## Tillgänglighet och pris
+
+
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Räckvidd" >}}
