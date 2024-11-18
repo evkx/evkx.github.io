@@ -68,7 +68,8 @@ Dynamic steering is a standard on the BYD Tang 4x4 Long Range, varying the steer
 
 The BYD Tang 4x4 Long Range lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 2 modes:
 
-- Sport: Dynamic throttle. - eco: Efficent throttle.
+- Sport: Dynamic throttle.
+- eco: Efficent throttle.
 
 ### Brakes
 

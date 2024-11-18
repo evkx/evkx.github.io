@@ -65,7 +65,11 @@ Dynamisk styrning är standard-funktionen för Rivian R1S Quad-Motor AWD MP. Dyn
 
 Rivian R1S Quad-Motor AWD MP låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Snow: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - All-Purpose: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Soft sand: Balanserad styrning, maximal fjädringshöjd med balanserad gaspådrag och bekväm fjädringsdämpning - All-Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Snow: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- All-Purpose: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Soft sand: Balanserad styrning, maximal fjädringshöjd med balanserad gaspådrag och bekväm fjädringsdämpning
+- All-Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
 
 ### Bromsar
 

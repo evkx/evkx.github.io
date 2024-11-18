@@ -68,7 +68,10 @@ Dynamisk styrning är valfritt-funktionen för Audi Q4 Sportback 45 e-tron quatt
 
 Audi Q4 Sportback 45 e-tron quattro låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Dynamic: Dynamisk styrning, fjädring och gaspådrag. - Efficiency: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning. - Custom: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
+- Dynamic: Dynamisk styrning, fjädring och gaspådrag.
+- Efficiency: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
+- Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
+- Custom: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 

@@ -72,7 +72,13 @@ Dynamic steering is a standard on the MHERO I, varying the steering ratio based 
 
 The MHERO I lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Rock-mode: Balanced steering, high suspension height with balanced throttle and damping. - Snow mode: Balanced steering, max suspension height with balanced throttle and damping. - Mud mode: Balanced steering, max suspension height with balanced throttle and damping. - Individual: User-defined settings for steering, suspension, and throttle response.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Rock-mode: Balanced steering, high suspension height with balanced throttle and damping.
+- Snow mode: Balanced steering, max suspension height with balanced throttle and damping.
+- Mud mode: Balanced steering, max suspension height with balanced throttle and damping.
+- Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

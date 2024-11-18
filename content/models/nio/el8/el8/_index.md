@@ -86,7 +86,11 @@ Dynamic steering is a standard on the Nio EL8, varying the steering ratio based 
 
 The Nio EL8 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Sport+: Dynamic steering, low suspension with dynamic throttle and suspension. Low regen braking. - Sport: Balanced steering, lowest suspension height with balanced throttle and damping. Low regen braking. - Comfort: Comfort steering, normal suspension height with balanced throttle, and comfort suspension damping. Low regen braking. - ECO: Comfort steering, normal suspension height with efficient throttle, and comfort suspension damping. Medium regen braking. - Custom: User-defined settings for steering, suspension, throttle response, and regen braking.
+- Sport+: Dynamic steering, low suspension with dynamic throttle and suspension. Low regen braking.
+- Sport: Balanced steering, lowest suspension height with balanced throttle and damping. Low regen braking.
+- Comfort: Comfort steering, normal suspension height with balanced throttle, and comfort suspension damping. Low regen braking.
+- ECO: Comfort steering, normal suspension height with efficient throttle, and comfort suspension damping. Medium regen braking.
+- Custom: User-defined settings for steering, suspension, throttle response, and regen braking.
 
 ### Brakes
 

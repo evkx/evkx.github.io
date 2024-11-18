@@ -68,7 +68,8 @@ Die dynamische Lenkung ist eine standard im BYD Tang 4x4 Long Range, wobei das L
 
 Der BYD Tang 4x4 Long Range ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 2 Modi wählen:
 
-- Sport: Dynamisches Gas. - eco: Effizientes Gas.
+- Sport: Dynamisches Gas.
+- eco: Effizientes Gas.
 
 ### Bremsen
 

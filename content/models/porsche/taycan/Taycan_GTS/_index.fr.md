@@ -72,7 +72,11 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 
 Le Porsche Taycan GTS permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Normal : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Sport Plus : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Normal : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Sport Plus : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 ### Freins
 

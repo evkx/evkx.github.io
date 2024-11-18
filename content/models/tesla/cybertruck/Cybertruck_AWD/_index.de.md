@@ -72,7 +72,10 @@ Die dynamische Lenkung ist eine standard im Tesla Cybertruck AWD, wobei das Lenk
 
 Der Tesla Cybertruck AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Custom: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme. - Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
 
 ### Bremsen
 

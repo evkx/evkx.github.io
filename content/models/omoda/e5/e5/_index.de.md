@@ -64,7 +64,9 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 Der OMODA E5 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und Gas. - Sport: Dynamische Lenkung und Gas. - Eco: Ausgewogene Lenkung und effizientes Gas.
+- Normal: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
 
 ### Bremsen
 

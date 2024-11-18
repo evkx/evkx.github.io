@@ -66,7 +66,11 @@ Dynamic steering is a standard on the Audi S6 Avant e-tron, varying the steering
 
 The Audi S6 Avant e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension. - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - Individual: User-defined settings for steering, suspension, and throttle response.
+- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

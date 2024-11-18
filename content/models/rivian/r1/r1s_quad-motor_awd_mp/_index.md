@@ -65,7 +65,11 @@ Dynamic steering is a standard on the Rivian R1S Quad-Motor AWD MP, varying the 
 
 The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Snow: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - All-Purpose: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Soft sand: Balanced steering, max suspension height with balanced throttle and comfort suspension damping. - All-Terrain: Balanced steering, high suspension height with balanced throttle and damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Snow: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- All-Purpose: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Soft sand: Balanced steering, max suspension height with balanced throttle and comfort suspension damping.
+- All-Terrain: Balanced steering, high suspension height with balanced throttle and damping.
 
 ### Brakes
 

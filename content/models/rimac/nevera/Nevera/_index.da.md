@@ -64,7 +64,11 @@ Dynamisk styring er en standard-funktion på Rimac Nevera. Dynamisk styring vari
 
 Rimac Nevera lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Cruise: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning. - Sport: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning. - Track: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Drift: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Cruise: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning.
+- Sport: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning.
+- Track: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Drift: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
 
 ### Bremser
 

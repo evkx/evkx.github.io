@@ -72,7 +72,10 @@ Dynamisk styring er en valgfri-funksjonen på Audi Q4 Sportback 45 e-tron quattr
 
 Audi Q4 Sportback 45 e-tron quattro (GEN1) lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Dynamic: Dynamisk styring, fjæring og gasspådrag. - Efficiency: Balansert styring, med effektiv gasspådrag, og balansert fjæring. - Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping. - Custom: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+- Dynamic: Dynamisk styring, fjæring og gasspådrag.
+- Efficiency: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- Custom: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 

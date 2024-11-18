@@ -68,7 +68,13 @@ La direction dynamique est une fonctionnalité un standard sur le GMC Hummer EV 
 
 Le GMC Hummer EV SUV 3x permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
 
-- Watts to Freedom : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Terrain : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés. - Off-Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés. - Tow/Haul : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif. - My Mode : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Watts to Freedom : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Terrain : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
+- Off-Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Tow/Haul : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
+- My Mode : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 ### Freins
 

@@ -64,7 +64,12 @@ Dynamisk styring er en standard-funksjonen på VOYAH Courage AWD. Dynamisk styri
 
 VOYAH Courage AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 6 moduser:
 
-- Performance: Dynamisk styring, fjæring og gasspådrag. - Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring. - Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping. - Outing: Balansert gasspådrag og styring, komfort fjæringsdemping. - Snow: Balansert styring, gass og demping. - Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+- Performance: Dynamisk styring, fjæring og gasspådrag.
+- Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- Outing: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- Snow: Balansert styring, gass og demping.
+- Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 

@@ -72,7 +72,10 @@ Die dynamische Lenkung ist eine standard im Cadillac ESCALADE IQ, wobei das Lenk
 
 Der Cadillac ESCALADE IQ ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Tour: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Tour: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

@@ -64,7 +64,12 @@ Die dynamische Lenkung ist eine standard im VOYAH Courage AWD, wobei das Lenkver
 
 Der VOYAH Courage AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 6 Modi wählen:
 
-- Performance: Dynamisches Lenken, Federung und Gas. - Eco: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung. - Outing: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung. - Snow: Ausgewogenes Lenken, Gasgeben und Dämpfen. - Individual: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
+- Performance: Dynamisches Lenken, Federung und Gas.
+- Eco: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Outing: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Snow: Ausgewogenes Lenken, Gasgeben und Dämpfen.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
 
 ### Bremsen
 

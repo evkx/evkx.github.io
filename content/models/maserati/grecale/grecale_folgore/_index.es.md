@@ -62,7 +62,10 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 El Maserati Grecale Folgore permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Max Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - GT: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Off Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Max Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- GT: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Off Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
 
 ### Frenos
 

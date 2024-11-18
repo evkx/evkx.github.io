@@ -64,7 +64,9 @@ Dynamisk styring er en standard-funktion på Honda e:Ny1. Dynamisk styring varie
 
 Honda e:Ny1 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Sport: Dynamisk styring og speeder. - Normal: Afbalanceret styring og speeder. - eco: Afbalanceret styring og effektiv speeder.
+- Sport: Dynamisk styring og speeder.
+- Normal: Afbalanceret styring og speeder.
+- eco: Afbalanceret styring og effektiv speeder.
 
 ### Bremser
 

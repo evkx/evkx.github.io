@@ -72,7 +72,10 @@ La direction dynamique est une fonctionnalité un facultatif sur le Audi Q4 Spor
 
 Le Audi Q4 Sportback 50 e-tron quattro permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Dynamic: Direction, suspension et accélérateur dynamiques. - Efficiency: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée. - Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable. - Custom : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
+- Dynamic: Direction, suspension et accélérateur dynamiques.
+- Efficiency: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
+- Comfort: Accélérateur et direction équilibrés, amortissement de suspension confortable.
+- Custom : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
 
 ### Freins
 

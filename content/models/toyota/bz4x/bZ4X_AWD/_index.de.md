@@ -64,7 +64,9 @@ Die dynamische Lenkung ist eine standard im Toyota bZ4X AWD, wobei das Lenkverh�
 
 Der Toyota bZ4X AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und Gas. - X-Mode: Dynamische Lenkung und Gas. - Eco: Ausgewogene Lenkung und effizientes Gas.
+- Normal: Ausgewogene Lenkung und Gas.
+- X-Mode: Dynamische Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
 
 ### Bremsen
 

@@ -72,7 +72,10 @@ Dynamisk styring er en standard-funksjonen på Chevrolet Silverado EV SRT. Dynam
 
 Chevrolet Silverado EV SRT lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping. - Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping. - My Mode: Egendefinert styring, fjæring og gassrespons.
+- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
+- My Mode: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 

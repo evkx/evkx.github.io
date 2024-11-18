@@ -66,7 +66,9 @@ Die dynamische Lenkung ist eine standard im Chevrolet Blazer EV RS AWD, wobei da
 
 Der Chevrolet Blazer EV RS AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und effizientes Gas. - Sport: Ausgewogene Lenkung und Gas. - My Mode: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+- Normal: Ausgewogene Lenkung und effizientes Gas.
+- Sport: Ausgewogene Lenkung und Gas.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
 ### Bremsen
 

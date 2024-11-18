@@ -69,7 +69,13 @@ Dynamisk styring er en standard-funksjonen på GMC Hummer EV SUV 2x. Dynamisk st
 
 GMC Hummer EV SUV 2x lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
 
-- Watts to Freedom: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Terrain: Balansert styring, høy fjæringshøyde med balansert gass og demping. - Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping. - Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping. - My Mode: Egendefinert styring, fjæring og gassrespons.
+- Watts to Freedom: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Terrain: Balansert styring, høy fjæringshøyde med balansert gass og demping.
+- Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
+- My Mode: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 

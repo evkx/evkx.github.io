@@ -66,7 +66,9 @@ Dynamic steering is a standard on the Chevrolet Blazer EV RS RWD, varying the st
 
 The Chevrolet Blazer EV RS RWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Normal: Balanced steering and efficent throttle. - Sport: Balanced steering and throttle. - My Mode: User-defined settings for steering and throttle.
+- Normal: Balanced steering and efficent throttle.
+- Sport: Balanced steering and throttle.
+- My Mode: User-defined settings for steering and throttle.
 
 ### Brakes
 

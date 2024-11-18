@@ -66,7 +66,11 @@ Dynamisk styring er en standard-funksjonen på Audi S6 Avant e-tron. Dynamisk st
 
 Audi S6 Avant e-tron lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Balanced: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping. - Individual: Egendefinert styring, fjæring og gassrespons.
+- Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Balanced: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
+- Individual: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 

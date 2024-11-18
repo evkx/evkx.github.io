@@ -66,7 +66,9 @@ Dynamisk styrning är standard-funktionen för Chevrolet Equinox EV AWD. Dynamis
 
 Chevrolet Equinox EV AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Normal: Balanserad styrning och effektiv gaspedal. - Sport: Balanserad styrning och gaspedal. - My Mode: Användardefinierade inställningar för styrning och gaspådrag.
+- Normal: Balanserad styrning och effektiv gaspedal.
+- Sport: Balanserad styrning och gaspedal.
+- My Mode: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 

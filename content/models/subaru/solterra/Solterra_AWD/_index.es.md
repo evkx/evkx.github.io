@@ -64,7 +64,9 @@ La dirección dinámica es una característica un estándar en el Subaru Solterr
 
 El Subaru Solterra AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
-- Normal: Dirección y acelerador equilibrados. - X-Mode: Dirección y acelerador dinámicos. - Eco: Dirección equilibrada y acelerador eficiente.
+- Normal: Dirección y acelerador equilibrados.
+- X-Mode: Dirección y acelerador dinámicos.
+- Eco: Dirección equilibrada y acelerador eficiente.
 
 ### Frenos
 

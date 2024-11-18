@@ -64,7 +64,9 @@ Die dynamische Lenkung ist eine standard im Honda e:Ny1, wobei das Lenkverhältn
 
 Der Honda e:Ny1 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Sport: Dynamische Lenkung und Gas. - Normal: Ausgewogene Lenkung und Gas. - eco: Ausgewogene Lenkung und effizientes Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Normal: Ausgewogene Lenkung und Gas.
+- eco: Ausgewogene Lenkung und effizientes Gas.
 
 ### Bremsen
 

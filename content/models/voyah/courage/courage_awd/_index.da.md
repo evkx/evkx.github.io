@@ -64,7 +64,12 @@ Dynamisk styring er en standard-funktion på VOYAH Courage AWD. Dynamisk styring
 
 VOYAH Courage AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 6 tilstande:
 
-- Performance: Dynamisk styring, affjedring og speeder. - Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring. - Comfort: Afbalanceret speeder og styring, komfortaffjedring. - Outing: Afbalanceret speeder og styring, komfortaffjedring. - Snow: Afbalanceret styring, speeder og dæmpning. - Individual: Brugerdefinerede indstillinger for styring, speeder og affjedring.
+- Performance: Dynamisk styring, affjedring og speeder.
+- Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
+- Comfort: Afbalanceret speeder og styring, komfortaffjedring.
+- Outing: Afbalanceret speeder og styring, komfortaffjedring.
+- Snow: Afbalanceret styring, speeder og dæmpning.
+- Individual: Brugerdefinerede indstillinger for styring, speeder og affjedring.
 
 ### Bremser
 

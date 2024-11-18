@@ -64,7 +64,9 @@ Dynamic steering is a standard on the Honda e:Ny1, varying the steering ratio ba
 
 The Honda e:Ny1 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Sport: Dynamic steering and throttle. - Normal: Balanced steering and throttle. - eco: Balanced steering and efficent throttle.
+- Sport: Dynamic steering and throttle.
+- Normal: Balanced steering and throttle.
+- eco: Balanced steering and efficent throttle.
 
 ### Brakes
 

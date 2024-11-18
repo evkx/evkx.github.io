@@ -72,7 +72,13 @@ La direction dynamique est une fonctionnalité un standard sur le MHERO I. La di
 
 Le MHERO I permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
 
-- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Rock-mode : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés. - Snow mode : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés. - Mud mode : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés. - Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Rock-mode : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
+- Snow mode : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Mud mode : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 ### Freins
 

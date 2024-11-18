@@ -64,7 +64,13 @@ Dynamisk styring er en standard-funktion på GMC Hummer EV Edition 1 Pickup. Dyn
 
 GMC Hummer EV Edition 1 Pickup lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - My Mode: Brugerdefineret styring, affjedring og gasrespons.
+- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- My Mode: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 

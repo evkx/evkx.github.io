@@ -66,7 +66,9 @@ La dirección dinámica es una característica un estándar en el Chevrolet Blaz
 
 El Chevrolet Blazer EV RS RWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
-- Normal: Dirección equilibrada y acelerador eficiente. - Sport: Dirección y acelerador equilibrados. - My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
+- Normal: Dirección equilibrada y acelerador eficiente.
+- Sport: Dirección y acelerador equilibrados.
+- My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 

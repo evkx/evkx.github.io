@@ -68,7 +68,8 @@ La direction dynamique est une fonctionnalité un standard sur le BYD Tang EV600
 
 Le BYD Tang EV600 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 2 modes :
 
-- Sport : Accélérateur dynamique. - eco : Accélérateur efficace.
+- Sport : Accélérateur dynamique.
+- eco : Accélérateur efficace.
 
 ### Freins
 

@@ -68,7 +68,8 @@ Dynamisk styring er en standard-funksjonen på BYD Tang EV600. Dynamisk styring 
 
 BYD Tang EV600 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 2 moduser:
 
-- Sport: Dynamisk gass. - eco: Effektiv gass.
+- Sport: Dynamisk gass.
+- eco: Effektiv gass.
 
 ### Bremser
 

@@ -70,7 +70,10 @@ La dirección dinámica es una característica un opcional en el Audi Q4 55 e-tr
 
 El Audi Q4 55 e-tron quattro permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Dynamic: Dirección, suspensión y aceleración dinámicas. - Efficiency: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada. - Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda. - Custom: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
+- Dynamic: Dirección, suspensión y aceleración dinámicas.
+- Efficiency: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- Custom: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
 
 ### Frenos
 

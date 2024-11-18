@@ -68,7 +68,8 @@ Dynamic steering is a standard on the BYD Tang EV600, varying the steering ratio
 
 The BYD Tang EV600 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 2 modes:
 
-- Sport: Dynamic throttle. - eco: Efficent throttle.
+- Sport: Dynamic throttle.
+- eco: Efficent throttle.
 
 ### Brakes
 

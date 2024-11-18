@@ -86,7 +86,11 @@ Dynamisk styring er en standard-funksjonen på Nio EL8. Dynamisk styring variere
 
 Nio EL8 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- Sport+: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring. Lav regenerativ bremsing. - Sport: Balansert styring, laveste fjæringshøyde med balansert gasspådrag og demping. Lav regenerativ bremsing. - Comfort: Komfort styring, normal fjæringshøyde med balansert gasspådrag og komfort demping. Lav regenerativ bremsing. - ECO: Komfort styring, normal fjæringshøyde med effektivt gasspådrag og komfort demping. Middels regenerativ bremsing. - Custom: Brukerdefinerte innstillinger for styring, fjæring, gassrespons og regenerativ bremsing.
+- Sport+: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring. Lav regenerativ bremsing.
+- Sport: Balansert styring, laveste fjæringshøyde med balansert gasspådrag og demping. Lav regenerativ bremsing.
+- Comfort: Komfort styring, normal fjæringshøyde med balansert gasspådrag og komfort demping. Lav regenerativ bremsing.
+- ECO: Komfort styring, normal fjæringshøyde med effektivt gasspådrag og komfort demping. Middels regenerativ bremsing.
+- Custom: Brukerdefinerte innstillinger for styring, fjæring, gassrespons og regenerativ bremsing.
 
 ### Bremser
 

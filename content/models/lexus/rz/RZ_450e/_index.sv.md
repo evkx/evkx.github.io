@@ -66,7 +66,11 @@ Dynamisk styrning är standard-funktionen för Lexus RZ 450e. Dynamisk styrning 
 
 Lexus RZ 450e låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Normal: Balanserad styrning och gaspedal. - Sport: Dynamisk styrning och gaspedal. - Eco: Balanserad styrning och effektiv gaspedal. - Range: Balanserad styrning och effektiv gaspedal. - Custom: Användardefinierade inställningar för styrning och gaspådrag.
+- Normal: Balanserad styrning och gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Eco: Balanserad styrning och effektiv gaspedal.
+- Range: Balanserad styrning och effektiv gaspedal.
+- Custom: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 

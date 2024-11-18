@@ -62,7 +62,10 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 Maserati Grecale Folgore lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Max Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - GT: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Off Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Max Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- GT: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Off Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
 
 ### Bremser
 

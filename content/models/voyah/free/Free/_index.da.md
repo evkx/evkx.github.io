@@ -64,7 +64,12 @@ Dynamisk styring er en standard-funktion på VOYAH FREE. Dynamisk styring varier
 
 VOYAH FREE lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 6 tilstande:
 
-- Performance: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Eco: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Outing: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Snow: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Individual: Brugerdefineret styring, affjedring og gasrespons.
+- Performance: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Eco: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Outing: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Snow: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Individual: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 

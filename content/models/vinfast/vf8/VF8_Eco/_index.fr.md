@@ -58,7 +58,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Le VinFast VF8 Eco permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Eco Mode : Accélérateur efficace. - Normal Mode : Accélérateur équilibré. - Sport Mode : Accélérateur dynamique.
+- Eco Mode : Accélérateur efficace.
+- Normal Mode : Accélérateur équilibré.
+- Sport Mode : Accélérateur dynamique.
 
 ### Freins
 

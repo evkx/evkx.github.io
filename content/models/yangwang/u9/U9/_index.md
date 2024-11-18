@@ -64,7 +64,11 @@ Dynamic steering is a standard on the YangWang U9, varying the steering ratio ba
 
 The YangWang U9 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Cruise: Balanced steering, lowest suspension height with balanced throttle and damping. - Sport: Balanced steering, lowest suspension height with balanced throttle and damping. - Track: Dynamic steering, low suspension with dynamic throttle and suspension. - Drift: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Cruise: Balanced steering, lowest suspension height with balanced throttle and damping.
+- Sport: Balanced steering, lowest suspension height with balanced throttle and damping.
+- Track: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Drift: Dynamic steering, low suspension with dynamic throttle and suspension.
 
 ### Brakes
 

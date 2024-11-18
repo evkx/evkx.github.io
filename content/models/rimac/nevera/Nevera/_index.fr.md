@@ -64,7 +64,11 @@ La direction dynamique est une fonctionnalité un standard sur le Rimac Nevera. 
 
 Le Rimac Nevera permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Cruise : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. - Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. - Track : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Drift : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Cruise : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés.
+- Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés.
+- Track : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Drift : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 
 ### Freins
 

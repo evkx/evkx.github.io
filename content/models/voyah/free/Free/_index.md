@@ -64,7 +64,12 @@ Dynamic steering is a standard on the VOYAH FREE, varying the steering ratio bas
 
 The VOYAH FREE lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 6 modes:
 
-- Performance: Dynamic steering, low suspension with dynamic throttle and suspension. - Eco: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Outing: Balanced steering, high suspension height with balanced throttle and damping. - Snow: Balanced steering, max suspension height with balanced throttle and damping. - Individual: User-defined settings for steering, suspension, and throttle response.
+- Performance: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Eco: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Outing: Balanced steering, high suspension height with balanced throttle and damping.
+- Snow: Balanced steering, max suspension height with balanced throttle and damping.
+- Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

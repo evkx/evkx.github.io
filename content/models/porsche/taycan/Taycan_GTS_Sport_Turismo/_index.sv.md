@@ -72,7 +72,11 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan GTS Sport Turismo.
 
 Porsche Taycan GTS Sport Turismo låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Normal: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Sport Plus: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Individual: Anpassad styrning, fjädring och gasrespons.
+- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- Normal: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Sport Plus: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Individual: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 

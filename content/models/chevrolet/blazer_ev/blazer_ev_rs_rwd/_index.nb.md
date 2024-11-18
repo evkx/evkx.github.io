@@ -66,7 +66,9 @@ Dynamisk styring er en standard-funksjonen på Chevrolet Blazer EV RS RWD. Dynam
 
 Chevrolet Blazer EV RS RWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Normal: Balansert styring og effektiv gasspedal. - Sport: Balansert styring og gasspedal. - My Mode: Brukerdefinerte innstillinger for styring og gasspådrag.
+- Normal: Balansert styring og effektiv gasspedal.
+- Sport: Balansert styring og gasspedal.
+- My Mode: Brukerdefinerte innstillinger for styring og gasspådrag.
 
 ### Bremser
 

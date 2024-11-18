@@ -64,7 +64,9 @@ La direction dynamique est une fonctionnalité un standard sur le Toyota bZ4X AW
 
 Le Toyota bZ4X AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Normal: Direction et accélérateur équilibrés. - X-Mode: Direction et accélérateur dynamiques. - Eco: Direction équilibrée et accélérateur efficace.
+- Normal: Direction et accélérateur équilibrés.
+- X-Mode: Direction et accélérateur dynamiques.
+- Eco: Direction équilibrée et accélérateur efficace.
 
 ### Freins
 

@@ -64,7 +64,9 @@ Dynamisk styring er en standard-funktion på Subaru Solterra AWD. Dynamisk styri
 
 Subaru Solterra AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Normal: Afbalanceret styring og speeder. - X-Mode: Dynamisk styring og speeder. - Eco: Afbalanceret styring og effektiv speeder.
+- Normal: Afbalanceret styring og speeder.
+- X-Mode: Dynamisk styring og speeder.
+- Eco: Afbalanceret styring og effektiv speeder.
 
 ### Bremser
 

@@ -66,7 +66,13 @@ Die dynamische Lenkung ist eine standard im Audi SQ8 e-tron, wobei das Lenkverh�
 
 Der Audi SQ8 e-tron ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 7 Modi wählen:
 
-- Dynamic: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Efficiency: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Allroad: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung. - Offroad: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung. - Auto: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - Custom: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Dynamic: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Efficiency: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Allroad: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Offroad: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Auto: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

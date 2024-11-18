@@ -64,7 +64,9 @@ Dynamisk styrning är standard-funktionen för Honda e:Ny1. Dynamisk styrning va
 
 Honda e:Ny1 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Sport: Dynamisk styrning och gaspedal. - Normal: Balanserad styrning och gaspedal. - eco: Balanserad styrning och effektiv gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Normal: Balanserad styrning och gaspedal.
+- eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 

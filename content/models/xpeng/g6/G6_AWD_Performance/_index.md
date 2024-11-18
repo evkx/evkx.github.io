@@ -68,7 +68,10 @@ Dynamic steering is a standard on the XPENG G6 AWD Performance, varying the stee
 
 The XPENG G6 AWD Performance lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Comfort: Comfort steering and efficent throttle. - Standard: Balanced steering and throttle. - Sport: Dynamic steering and throttle. - Individual: User-defined settings for steering and throttle.
+- Comfort: Comfort steering and efficent throttle.
+- Standard: Balanced steering and throttle.
+- Sport: Dynamic steering and throttle.
+- Individual: User-defined settings for steering and throttle.
 
 ### Brakes
 

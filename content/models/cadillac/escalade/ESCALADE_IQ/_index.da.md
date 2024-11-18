@@ -72,7 +72,10 @@ Dynamisk styring er en standard-funktion på Cadillac ESCALADE IQ. Dynamisk styr
 
 Cadillac ESCALADE IQ lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Tour: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - My Mode: Brugerdefineret styring, affjedring og gasrespons.
+- Tour: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- My Mode: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 

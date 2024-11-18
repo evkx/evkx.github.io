@@ -64,7 +64,9 @@ La dirección dinámica es una característica un estándar en el Honda e:Ny1. L
 
 El Honda e:Ny1 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
-- Sport: Dirección y acelerador dinámicos. - Normal: Dirección y acelerador equilibrados. - eco: Dirección equilibrada y acelerador eficiente.
+- Sport: Dirección y acelerador dinámicos.
+- Normal: Dirección y acelerador equilibrados.
+- eco: Dirección equilibrada y acelerador eficiente.
 
 ### Frenos
 

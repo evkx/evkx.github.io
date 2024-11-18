@@ -65,7 +65,11 @@ Die dynamische Lenkung ist eine standard im Rivian R1S Quad-Motor AWD MP, wobei 
 
 Der Rivian R1S Quad-Motor AWD MP ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Snow: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - All-Purpose: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Soft sand: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und komfortabler Federungsdämpfung. - All-Terrain: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Snow: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- All-Purpose: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Soft sand: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und komfortabler Federungsdämpfung.
+- All-Terrain: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
 
 ### Bremsen
 

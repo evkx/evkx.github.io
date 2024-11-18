@@ -62,7 +62,10 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Maserati Grecale Folgore låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Max Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - GT: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Off Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Max Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- GT: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Off Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
 
 ### Bromsar
 

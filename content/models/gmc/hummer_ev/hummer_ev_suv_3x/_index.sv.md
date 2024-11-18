@@ -68,7 +68,13 @@ Dynamisk styrning är standard-funktionen för GMC Hummer EV SUV 3x. Dynamisk st
 
 GMC Hummer EV SUV 3x låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
 
-- Watts to Freedom: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning. - Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - My Mode: Anpassad styrning, fjädring och gasrespons.
+- Watts to Freedom: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
+- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
+- My Mode: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 

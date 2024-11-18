@@ -62,7 +62,10 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Maserati Grecale Folgore lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Max Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - GT: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Off Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Max Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- GT: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Off Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
 
 ### Bremser
 

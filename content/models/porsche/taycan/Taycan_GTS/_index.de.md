@@ -72,7 +72,11 @@ Die dynamische Lenkung ist eine standard im Porsche Taycan GTS, wobei das Lenkve
 
 Der Porsche Taycan GTS ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Normal: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Sport Plus: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Normal: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Sport Plus: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

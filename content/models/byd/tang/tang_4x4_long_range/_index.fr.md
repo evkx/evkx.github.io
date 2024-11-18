@@ -68,7 +68,8 @@ La direction dynamique est une fonctionnalité un standard sur le BYD Tang 4x4 L
 
 Le BYD Tang 4x4 Long Range permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 2 modes :
 
-- Sport : Accélérateur dynamique. - eco : Accélérateur efficace.
+- Sport : Accélérateur dynamique.
+- eco : Accélérateur efficace.
 
 ### Freins
 

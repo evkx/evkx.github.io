@@ -72,7 +72,10 @@ Die dynamische Lenkung ist eine standard im GMC Sierra EV Denali Edition 1, wobe
 
 Der GMC Sierra EV Denali Edition 1 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung. - Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

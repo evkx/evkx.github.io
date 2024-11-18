@@ -64,7 +64,11 @@ Die dynamische Lenkung ist eine standard im Automobili Pininfarina Battista, wob
 
 Der Automobili Pininfarina Battista ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Cruise: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung. - Sport: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung. - Track: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Drift: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Cruise: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Sport: Ausgewogene Lenkung, niedrigste Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Track: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Drift: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
 
 ### Bremsen
 

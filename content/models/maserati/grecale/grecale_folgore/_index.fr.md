@@ -62,7 +62,10 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 Le Maserati Grecale Folgore permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Max Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - GT : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Off Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Max Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- GT : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Off Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
 
 ### Freins
 

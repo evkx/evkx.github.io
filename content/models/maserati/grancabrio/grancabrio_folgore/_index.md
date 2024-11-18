@@ -60,7 +60,10 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The Maserati GranCabrio Folgore lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Max Range: Balanced steering, low suspension with efficient throttle, and balanced suspension. - GT: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Off Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Max Range: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- GT: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Off Road: Balanced steering, max suspension height with balanced throttle and damping.
 
 ### Brakes
 

@@ -69,7 +69,13 @@ Die dynamische Lenkung ist eine standard im GMC Hummer EV SUV 2x, wobei das Lenk
 
 Der GMC Hummer EV SUV 2x ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 7 Modi wählen:
 
-- Watts to Freedom: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Terrain: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung. - Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung. - Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Watts to Freedom: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Terrain: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

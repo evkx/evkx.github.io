@@ -68,7 +68,10 @@ Dynamisk styring er en standard-funksjonen på XPENG G6 RWD Long Range. Dynamisk
 
 XPENG G6 RWD Long Range lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Comfort: Komfort styring og effektiv gasspådrag. - Standard: Balansert styring og gasspedal. - Sport: Dynamisk styring og gasspedal. - Individual: Brukerdefinerte innstillinger for styring og gasspådrag.
+- Comfort: Komfort styring og effektiv gasspådrag.
+- Standard: Balansert styring og gasspedal.
+- Sport: Dynamisk styring og gasspedal.
+- Individual: Brukerdefinerte innstillinger for styring og gasspådrag.
 
 ### Bremser
 

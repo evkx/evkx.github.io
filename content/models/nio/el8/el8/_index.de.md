@@ -86,7 +86,11 @@ Die dynamische Lenkung ist eine standard im Nio EL8, wobei das Lenkverhältnis j
 
 Der Nio EL8 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Sport+: Dynamische Lenkung, niedriges Fahrwerk mit dynamischem Gas und Fahrwerk. Niedrige Rekuperationsbremsung. - Sport: Ausgewogene Lenkung, niedrigste Fahrwerkshöhe mit ausgewogenem Gas und Dämpfung. Niedrige Rekuperationsbremsung. - Comfort: Komfortlenkung, normale Fahrwerkshöhe mit ausgewogenem Gas und Komfortdämpfung. Niedrige Rekuperationsbremsung. - ECO: Komfortlenkung, normale Fahrwerkshöhe mit effizientem Gas und Komfortdämpfung. Mittlere Rekuperationsbremsung. - Custom: Benutzerdefinierte Einstellungen für Lenkung, Fahrwerk, Gasannahme und Rekuperationsbremsung.
+- Sport+: Dynamische Lenkung, niedriges Fahrwerk mit dynamischem Gas und Fahrwerk. Niedrige Rekuperationsbremsung.
+- Sport: Ausgewogene Lenkung, niedrigste Fahrwerkshöhe mit ausgewogenem Gas und Dämpfung. Niedrige Rekuperationsbremsung.
+- Comfort: Komfortlenkung, normale Fahrwerkshöhe mit ausgewogenem Gas und Komfortdämpfung. Niedrige Rekuperationsbremsung.
+- ECO: Komfortlenkung, normale Fahrwerkshöhe mit effizientem Gas und Komfortdämpfung. Mittlere Rekuperationsbremsung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Fahrwerk, Gasannahme und Rekuperationsbremsung.
 
 ### Bremsen
 

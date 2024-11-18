@@ -66,7 +66,13 @@ Dynamisk styrning är standard-funktionen för Audi SQ8 Sportback e-tron. Dynami
 
 Audi SQ8 Sportback e-tron låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
 
-- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Allroad: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning. - Offroad: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning. - Auto: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - Custom: Anpassad styrning, fjädring och gasrespons.
+- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Allroad: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
+- Offroad: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Auto: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
+- Custom: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 

@@ -64,7 +64,9 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 OMODA E5 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Normal: Balansert styring og gasspedal. - Sport: Dynamisk styring og gasspedal. - Eco: Balansert styring og effektiv gasspedal.
+- Normal: Balansert styring og gasspedal.
+- Sport: Dynamisk styring og gasspedal.
+- Eco: Balansert styring og effektiv gasspedal.
 
 ### Bremser
 

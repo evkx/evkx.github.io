@@ -64,7 +64,12 @@ Die dynamische Lenkung ist eine standard im VOYAH FREE, wobei das Lenkverhältni
 
 Der VOYAH FREE ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 6 Modi wählen:
 
-- Performance: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Eco: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Outing: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung. - Snow: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung. - Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Performance: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Eco: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Outing: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Snow: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

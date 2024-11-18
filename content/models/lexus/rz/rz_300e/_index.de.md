@@ -66,7 +66,11 @@ Die dynamische Lenkung ist eine standard im Lexus RZ 300e, wobei das Lenkverhäl
 
 Der Lexus RZ 300e ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und Gas. - Sport: Dynamische Lenkung und Gas. - Eco: Ausgewogene Lenkung und effizientes Gas. - Range: Ausgewogene Lenkung und effizientes Gas. - Custom: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+- Normal: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
+- Range: Ausgewogene Lenkung und effizientes Gas.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
 ### Bremsen
 

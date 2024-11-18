@@ -70,7 +70,10 @@ Dynamic steering is an optional on the Audi Q4 55 e-tron quattro, varying the st
 
 The Audi Q4 55 e-tron quattro lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Dynamic: Dynamic steering, suspension and throttle. - Efficiency: Balanced steering, with efficient throttle, and balanced suspension. - Comfort: Balanced throttle and steering, comfort suspension damping. - Custom: User-defined settings for steering, throttle, and suspension.
+- Dynamic: Dynamic steering, suspension and throttle.
+- Efficiency: Balanced steering, with efficient throttle, and balanced suspension.
+- Comfort: Balanced throttle and steering, comfort suspension damping.
+- Custom: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 

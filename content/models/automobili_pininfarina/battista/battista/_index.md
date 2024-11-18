@@ -64,7 +64,11 @@ Dynamic steering is a standard on the Automobili Pininfarina Battista, varying t
 
 The Automobili Pininfarina Battista lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Cruise: Balanced steering, lowest suspension height with balanced throttle and damping. - Sport: Balanced steering, lowest suspension height with balanced throttle and damping. - Track: Dynamic steering, low suspension with dynamic throttle and suspension. - Drift: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Cruise: Balanced steering, lowest suspension height with balanced throttle and damping.
+- Sport: Balanced steering, lowest suspension height with balanced throttle and damping.
+- Track: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Drift: Dynamic steering, low suspension with dynamic throttle and suspension.
 
 ### Brakes
 

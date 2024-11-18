@@ -68,7 +68,10 @@ Dynamisk styrning är standard-funktionen för XPENG G6 RWD Standard Range. Dyna
 
 XPENG G6 RWD Standard Range låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Comfort: Komfortstyrning och effektiv gaspådrag. - Standard: Balanserad styrning och gaspedal. - Sport: Dynamisk styrning och gaspedal. - Individual: Användardefinierade inställningar för styrning och gaspådrag.
+- Comfort: Komfortstyrning och effektiv gaspådrag.
+- Standard: Balanserad styrning och gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Individual: Användardefinierade inställningar för styrning och gaspådrag.
 
 ### Bromsar
 

@@ -66,7 +66,11 @@ Die dynamische Lenkung ist eine standard im Audi A6 Avant e-tron quattro, wobei 
 
 Der Audi A6 Avant e-tron quattro ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 5 Modi wählen:
 
-- Dynamic: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Efficiency: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Balanced: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung. - Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Dynamic: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Efficiency: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Balanced: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
 
 ### Bremsen
 

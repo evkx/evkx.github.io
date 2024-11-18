@@ -66,7 +66,11 @@ Dynamic steering is a standard on the Lexus RZ 300e, varying the steering ratio 
 
 The Lexus RZ 300e lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Normal: Balanced steering and throttle. - Sport: Dynamic steering and throttle. - Eco: Balanced steering and efficent throttle. - Range: Balanced steering and efficent throttle. - Custom: User-defined settings for steering and throttle.
+- Normal: Balanced steering and throttle.
+- Sport: Dynamic steering and throttle.
+- Eco: Balanced steering and efficent throttle.
+- Range: Balanced steering and efficent throttle.
+- Custom: User-defined settings for steering and throttle.
 
 ### Brakes
 

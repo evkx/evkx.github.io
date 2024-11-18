@@ -72,7 +72,10 @@ La dirección dinámica es una característica un estándar en el Tesla Cybertru
 
 El Tesla Cybertruck AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos. - Custom: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada. - Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos.
+- Custom: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
 
 ### Frenos
 

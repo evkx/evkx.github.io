@@ -72,7 +72,13 @@ Dynamisk styring er en standard-funktion på MHERO I. Dynamisk styring varierer 
 
 MHERO I lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Rock-mode: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Snow mode: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Mud mode: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Individual: Brugerdefineret styring, affjedring og gasrespons.
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Rock-mode: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Snow mode: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Mud mode: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Individual: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 

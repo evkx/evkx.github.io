@@ -72,7 +72,10 @@ Dynamisk styring er en standard-funksjonen på Tesla Cybertruck AWD. Dynamisk st
 
 Tesla Cybertruck AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Custom: Egendefinert styring, fjæring og gassrespons. - Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Custom: Egendefinert styring, fjæring og gassrespons.
+- Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
 
 ### Bremser
 

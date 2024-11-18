@@ -58,7 +58,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 VinFast VF8 Plus låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Eco Mode: Effektiv gass. - Normal Mode: Balansert gass. - Sport Mode: Dynamisk gass.
+- Eco Mode: Effektiv gass.
+- Normal Mode: Balansert gass.
+- Sport Mode: Dynamisk gass.
 
 ### Bromsar
 

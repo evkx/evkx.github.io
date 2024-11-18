@@ -66,7 +66,9 @@ Dynamisk styring er en standard-funktion på Chevrolet Equinox EV AWD. Dynamisk 
 
 Chevrolet Equinox EV AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Normal: Afbalanceret styring og effektiv speeder. - Sport: Afbalanceret styring og speeder. - My Mode: Brugerdefinerede indstillinger for styring og speeder.
+- Normal: Afbalanceret styring og effektiv speeder.
+- Sport: Afbalanceret styring og speeder.
+- My Mode: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 

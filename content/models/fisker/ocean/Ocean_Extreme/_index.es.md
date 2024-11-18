@@ -62,7 +62,10 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 El Fisker Ocean Extreme permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Earth: dirección equilibrada, con aceleración eficiente y fuerte regeneración de elevación. - Fun: dirección y acelerador equilibrados y regeneración de elevación media. - Hyper: dirección equilibrada, acelerador dinámico y regeneración de elevación media. - Snow/Ice: dirección equilibrada, con aceleración eficiente y baja regeneración de elevación.
+- Earth: dirección equilibrada, con aceleración eficiente y fuerte regeneración de elevación.
+- Fun: dirección y acelerador equilibrados y regeneración de elevación media.
+- Hyper: dirección equilibrada, acelerador dinámico y regeneración de elevación media.
+- Snow/Ice: dirección equilibrada, con aceleración eficiente y baja regeneración de elevación.
 
 ### Frenos
 

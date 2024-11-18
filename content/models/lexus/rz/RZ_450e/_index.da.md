@@ -66,7 +66,11 @@ Dynamisk styring er en standard-funktion på Lexus RZ 450e. Dynamisk styring var
 
 Lexus RZ 450e lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
-- Normal: Afbalanceret styring og speeder. - Sport: Dynamisk styring og speeder. - Eco: Afbalanceret styring og effektiv speeder. - Range: Afbalanceret styring og effektiv speeder. - Custom: Brugerdefinerede indstillinger for styring og speeder.
+- Normal: Afbalanceret styring og speeder.
+- Sport: Dynamisk styring og speeder.
+- Eco: Afbalanceret styring og effektiv speeder.
+- Range: Afbalanceret styring og effektiv speeder.
+- Custom: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 

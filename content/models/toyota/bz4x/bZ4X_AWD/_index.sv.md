@@ -64,7 +64,9 @@ Dynamisk styrning är standard-funktionen för Toyota bZ4X AWD. Dynamisk styrnin
 
 Toyota bZ4X AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Normal: Balanserad styrning och gaspedal. - X-Mode: Dynamisk styrning och gaspedal. - Eco: Balanserad styrning och effektiv gaspedal.
+- Normal: Balanserad styrning och gaspedal.
+- X-Mode: Dynamisk styrning och gaspedal.
+- Eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 

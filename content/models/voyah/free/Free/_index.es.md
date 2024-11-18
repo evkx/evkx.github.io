@@ -64,7 +64,12 @@ La dirección dinámica es una característica un estándar en el VOYAH FREE. La
 
 El VOYAH FREE permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 6 modos:
 
-- Performance: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Eco: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Outing: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas. - Snow: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados. - Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Performance: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Eco: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Outing: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
+- Snow: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 

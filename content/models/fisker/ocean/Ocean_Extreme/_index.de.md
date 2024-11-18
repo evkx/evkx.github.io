@@ -62,7 +62,10 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 Der Fisker Ocean Extreme ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Earth: Ausgewogene Lenkung, mit effizientem Gas und starker Lift-up-Rekuperation. - Fun: Ausgewogene Lenkung und Gas, und mittlere Lift-up-Rekuperation. - Hyper: Ausgewogene Lenkung, dynamisches Gas und mittlere Lift-up-Rekuperation. - Snow/Ice: Ausgewogene Lenkung, mit effizientem Gas und niedriger Lift-up-Rekuperation.
+- Earth: Ausgewogene Lenkung, mit effizientem Gas und starker Lift-up-Rekuperation.
+- Fun: Ausgewogene Lenkung und Gas, und mittlere Lift-up-Rekuperation.
+- Hyper: Ausgewogene Lenkung, dynamisches Gas und mittlere Lift-up-Rekuperation.
+- Snow/Ice: Ausgewogene Lenkung, mit effizientem Gas und niedriger Lift-up-Rekuperation.
 
 ### Bremsen
 

@@ -68,7 +68,10 @@ Die dynamische Lenkung ist eine standard im XPENG Mona M03 Long Range, wobei das
 
 Der XPENG Mona M03 Long Range ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Comfort: Komfortlenkung und effizienter Gasannahme. - Standard: Ausgewogene Lenkung und Gas. - Sport: Dynamische Lenkung und Gas. - Individual: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+- Comfort: Komfortlenkung und effizienter Gasannahme.
+- Standard: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
 ### Bremsen
 

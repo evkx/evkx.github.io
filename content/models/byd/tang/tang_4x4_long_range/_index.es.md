@@ -68,7 +68,8 @@ La dirección dinámica es una característica un estándar en el BYD Tang 4x4 L
 
 El BYD Tang 4x4 Long Range permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 2 modos:
 
-- Sport: Acelerador dinámico. - eco: Acelerador eficiente.
+- Sport: Acelerador dinámico.
+- eco: Acelerador eficiente.
 
 ### Frenos
 

@@ -68,7 +68,10 @@ La dirección dinámica es una característica un estándar en el XPENG G6 AWD P
 
 El XPENG G6 AWD Performance permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Comfort: Dirección en modo Comfort y acelerador eficiente. - Standard: Dirección y acelerador equilibrados. - Sport: Dirección y acelerador dinámicos. - Individual: Configuraciones definidas por el usuario para la dirección y el acelerador.
+- Comfort: Dirección en modo Comfort y acelerador eficiente.
+- Standard: Dirección y acelerador equilibrados.
+- Sport: Dirección y acelerador dinámicos.
+- Individual: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 

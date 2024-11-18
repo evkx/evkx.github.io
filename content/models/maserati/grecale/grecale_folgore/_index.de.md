@@ -62,7 +62,10 @@ Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspensio
 
 Der Maserati Grecale Folgore ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung. - Max Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung. - GT: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung. - Off Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Max Range: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- GT: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Off Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
 
 ### Bremsen
 

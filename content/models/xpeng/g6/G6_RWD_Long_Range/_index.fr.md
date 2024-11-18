@@ -68,7 +68,10 @@ La direction dynamique est une fonctionnalité un standard sur le XPENG G6 RWD L
 
 Le XPENG G6 RWD Long Range permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Comfort : Direction confort et accélérateur efficace. - Standard: Direction et accélérateur équilibrés. - Sport: Direction et accélérateur dynamiques. - Individual : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+- Comfort : Direction confort et accélérateur efficace.
+- Standard: Direction et accélérateur équilibrés.
+- Sport: Direction et accélérateur dynamiques.
+- Individual : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 

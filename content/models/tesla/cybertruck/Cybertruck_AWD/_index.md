@@ -72,7 +72,10 @@ Dynamic steering is a standard on the Tesla Cybertruck AWD, varying the steering
 
 The Tesla Cybertruck AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Custom: User-defined settings for steering, suspension, and throttle response. - Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Custom: User-defined settings for steering, suspension, and throttle response.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
 
 ### Brakes
 

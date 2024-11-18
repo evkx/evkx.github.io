@@ -58,7 +58,9 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 Der VinFast VF8 Plus ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Eco Mode: Effizientes Gas. - Normal Mode: Ausgewogenes Gas. - Sport Mode: Dynamisches Gas.
+- Eco Mode: Effizientes Gas.
+- Normal Mode: Ausgewogenes Gas.
+- Sport Mode: Dynamisches Gas.
 
 ### Bremsen
 

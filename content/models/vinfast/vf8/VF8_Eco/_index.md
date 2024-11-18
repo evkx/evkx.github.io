@@ -58,7 +58,9 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The VinFast VF8 Eco lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Eco Mode: Efficent throttle. - Normal Mode: Balanced throttle. - Sport Mode: Dynamic throttle.
+- Eco Mode: Efficent throttle.
+- Normal Mode: Balanced throttle.
+- Sport Mode: Dynamic throttle.
 
 ### Brakes
 

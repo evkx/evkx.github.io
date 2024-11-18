@@ -68,7 +68,11 @@ La direction dynamique est une fonctionnalité un standard sur le Audi A6 Sportb
 
 Le Audi A6 Sportback e-tron quattro permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Dynamic : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Efficiency : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Balanced : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif. - Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Dynamic : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Efficiency : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Balanced : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
+- Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 ### Freins
 

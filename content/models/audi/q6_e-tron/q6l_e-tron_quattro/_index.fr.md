@@ -68,7 +68,13 @@ La direction dynamique est une fonctionnalité un standard sur le Audi Q6L e-tro
 
 Le Audi Q6L e-tron quattro permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
 
-- Dynamic : direction dynamique, suspension basse avec accélérateur et suspension dynamiques. - Efficiency : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée. - Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable. - Allroad : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés. - Offroad : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés. - Balanced : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif. - Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Dynamic : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Efficiency : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Allroad : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
+- Offroad : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Balanced : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
+- Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 ### Freins
 

@@ -64,7 +64,13 @@ Dynamic steering is a standard on the GMC Hummer EV Edition 1 Pickup, varying th
 
 The GMC Hummer EV Edition 1 Pickup lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Watts to Freedom: Dynamic steering, low suspension with dynamic throttle and suspension. - Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Terrain: Balanced steering, high suspension height with balanced throttle and damping. - Off-Road: Balanced steering, max suspension height with balanced throttle and damping. - Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - My Mode: User-defined settings for steering, suspension, and throttle response.
+- Watts to Freedom: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Terrain: Balanced steering, high suspension height with balanced throttle and damping.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

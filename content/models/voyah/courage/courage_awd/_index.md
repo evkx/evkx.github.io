@@ -64,7 +64,12 @@ Dynamic steering is a standard on the VOYAH Courage AWD, varying the steering ra
 
 The VOYAH Courage AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 6 modes:
 
-- Performance: Dynamic steering, suspension and throttle. - Eco: Balanced steering, with efficient throttle, and balanced suspension. - Comfort: Balanced throttle and steering, comfort suspension damping. - Outing: Balanced throttle and steering, comfort suspension damping. - Snow: Balanced steering, throttle and damping. - Individual: User-defined settings for steering, throttle, and suspension.
+- Performance: Dynamic steering, suspension and throttle.
+- Eco: Balanced steering, with efficient throttle, and balanced suspension.
+- Comfort: Balanced throttle and steering, comfort suspension damping.
+- Outing: Balanced throttle and steering, comfort suspension damping.
+- Snow: Balanced steering, throttle and damping.
+- Individual: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 

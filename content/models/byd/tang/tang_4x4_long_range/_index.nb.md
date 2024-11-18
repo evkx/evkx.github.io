@@ -68,7 +68,8 @@ Dynamisk styring er en standard-funksjonen på BYD Tang 4x4 Long Range. Dynamisk
 
 BYD Tang 4x4 Long Range lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 2 moduser:
 
-- Sport: Dynamisk gass. - eco: Effektiv gass.
+- Sport: Dynamisk gass.
+- eco: Effektiv gass.
 
 ### Bremser
 

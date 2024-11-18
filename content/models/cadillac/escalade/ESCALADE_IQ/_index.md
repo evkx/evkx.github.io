@@ -72,7 +72,10 @@ Dynamic steering is a standard on the Cadillac ESCALADE IQ, varying the steering
 
 The Cadillac ESCALADE IQ lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Tour: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - My Mode: User-defined settings for steering, suspension, and throttle response.
+- Tour: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

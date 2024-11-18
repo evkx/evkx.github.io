@@ -64,7 +64,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 OMODA E5 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
-- Normal: Balanserad styrning och gaspedal. - Sport: Dynamisk styrning och gaspedal. - Eco: Balanserad styrning och effektiv gaspedal.
+- Normal: Balanserad styrning och gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Eco: Balanserad styrning och effektiv gaspedal.
 
 ### Bromsar
 

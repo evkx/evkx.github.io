@@ -72,7 +72,11 @@ Dynamisk styring er en standard-funksjonen på Porsche Taycan GTS. Dynamisk styr
 
 Porsche Taycan GTS lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring. - Normal: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Sport Plus: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Individual: Egendefinert styring, fjæring og gassrespons.
+- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Normal: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Sport Plus: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Individual: Egendefinert styring, fjæring og gassrespons.
 
 ### Bremser
 

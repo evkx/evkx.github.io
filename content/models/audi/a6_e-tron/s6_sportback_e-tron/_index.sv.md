@@ -64,7 +64,11 @@ Dynamisk styrning är standard-funktionen för Audi S6 Sportback e-tron. Dynamis
 
 Audi S6 Sportback e-tron låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
-- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring. - Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring. - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning. - Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning. - Individual: Anpassad styrning, fjädring och gasrespons.
+- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
+- Individual: Anpassad styrning, fjädring och gasrespons.
 
 ### Bromsar
 

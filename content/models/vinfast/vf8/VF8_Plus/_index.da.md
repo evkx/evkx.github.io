@@ -58,7 +58,9 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 VinFast VF8 Plus lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
-- Eco Mode: Effektiv gas. - Normal Mode: Balanceret gasspjæld. - Sport Mode: Dynamisk gasspjæld.
+- Eco Mode: Effektiv gas.
+- Normal Mode: Balanceret gasspjæld.
+- Sport Mode: Dynamisk gasspjæld.
 
 ### Bremser
 

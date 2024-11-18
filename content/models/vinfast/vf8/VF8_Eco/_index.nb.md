@@ -58,7 +58,9 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 VinFast VF8 Eco lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Eco Mode: Effektiv gass. - Normal Mode: Balansert gass. - Sport Mode: Dynamisk gass.
+- Eco Mode: Effektiv gass.
+- Normal Mode: Balansert gass.
+- Sport Mode: Dynamisk gass.
 
 ### Bremser
 

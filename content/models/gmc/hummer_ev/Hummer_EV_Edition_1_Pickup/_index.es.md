@@ -64,7 +64,13 @@ La dirección dinámica es una característica un estándar en el GMC Hummer EV 
 
 El GMC Hummer EV Edition 1 Pickup permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 7 modos:
 
-- Watts to Freedom: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Terrain: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas. - Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados. - Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa. - My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Watts to Freedom: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Terrain: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
+- Off-Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
+- My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 

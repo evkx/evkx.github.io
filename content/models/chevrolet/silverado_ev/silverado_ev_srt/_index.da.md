@@ -72,7 +72,10 @@ Dynamisk styring er en standard-funktion på Chevrolet Silverado EV SRT. Dynamis
 
 Chevrolet Silverado EV SRT lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - My Mode: Brugerdefineret styring, affjedring og gasrespons.
+- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- My Mode: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 

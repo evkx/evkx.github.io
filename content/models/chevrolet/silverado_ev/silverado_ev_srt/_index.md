@@ -72,7 +72,10 @@ Dynamic steering is a standard on the Chevrolet Silverado EV SRT, varying the st
 
 The Chevrolet Silverado EV SRT lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Off-Road: Balanced steering, max suspension height with balanced throttle and damping. - Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - My Mode: User-defined settings for steering, suspension, and throttle response.
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

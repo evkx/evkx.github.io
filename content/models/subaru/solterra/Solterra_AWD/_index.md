@@ -64,7 +64,9 @@ Dynamic steering is a standard on the Subaru Solterra AWD, varying the steering 
 
 The Subaru Solterra AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Normal: Balanced steering and throttle. - X-Mode: Dynamic steering and throttle. - Eco: Balanced steering and efficent throttle.
+- Normal: Balanced steering and throttle.
+- X-Mode: Dynamic steering and throttle.
+- Eco: Balanced steering and efficent throttle.
 
 ### Brakes
 

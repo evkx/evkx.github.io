@@ -66,7 +66,13 @@ Dynamisk styring er en standard-funktion på Audi Q8 50 e-tron. Dynamisk styring
 
 Audi Q8 50 e-tron lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring. - Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring. - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring. - Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning. - Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning. - Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning. - Custom: Brugerdefineret styring, affjedring og gasrespons.
+- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- Custom: Brugerdefineret styring, affjedring og gasrespons.
 
 ### Bremser
 

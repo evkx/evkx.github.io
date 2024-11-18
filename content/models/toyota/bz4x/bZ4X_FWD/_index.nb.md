@@ -64,7 +64,9 @@ Dynamisk styring er en standard-funksjonen på Toyota bZ4X FWD. Dynamisk styring
 
 Toyota bZ4X FWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Normal: Balansert styring og gasspedal. - X-Mode: Dynamisk styring og gasspedal. - Eco: Balansert styring og effektiv gasspedal.
+- Normal: Balansert styring og gasspedal.
+- X-Mode: Dynamisk styring og gasspedal.
+- Eco: Balansert styring og effektiv gasspedal.
 
 ### Bremser
 

@@ -65,7 +65,11 @@ Dynamisk styring er en standard-funksjonen på Rivian R1S Quad-Motor AWD MP. Dyn
 
 Rivian R1S Quad-Motor AWD MP lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
-- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring. - Snow: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - All-Purpose: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping. - Soft sand: Balansert styring, høy fjæringshøyde med balansert gass og demping. - All-Terrain: Balansert styring, høy fjæringshøyde med balansert gass og demping.
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Snow: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- All-Purpose: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Soft sand: Balansert styring, høy fjæringshøyde med balansert gass og demping.
+- All-Terrain: Balansert styring, høy fjæringshøyde med balansert gass og demping.
 
 ### Bremser
 

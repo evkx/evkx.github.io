@@ -66,7 +66,11 @@ La direction dynamique est une fonctionnalité un standard sur le Lexus RZ 450e.
 
 Le Lexus RZ 450e permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Normal: Direction et accélérateur équilibrés. - Sport: Direction et accélérateur dynamiques. - Eco: Direction équilibrée et accélérateur efficace. - Range: Direction équilibrée et accélérateur efficace. - Custom : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+- Normal: Direction et accélérateur équilibrés.
+- Sport: Direction et accélérateur dynamiques.
+- Eco: Direction équilibrée et accélérateur efficace.
+- Range: Direction équilibrée et accélérateur efficace.
+- Custom : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 

@@ -64,7 +64,9 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The OMODA E5 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Normal: Balanced steering and throttle. - Sport: Dynamic steering and throttle. - Eco: Balanced steering and efficent throttle.
+- Normal: Balanced steering and throttle.
+- Sport: Dynamic steering and throttle.
+- Eco: Balanced steering and efficent throttle.
 
 ### Brakes
 

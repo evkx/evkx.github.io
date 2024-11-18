@@ -70,7 +70,10 @@ Dynamisk styring er en valgfri-funktion på Audi Q4 55 e-tron quattro. Dynamisk 
 
 Audi Q4 55 e-tron quattro lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Dynamic: Dynamisk styring, affjedring og speeder. - Efficiency: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring. - Comfort: Afbalanceret speeder og styring, komfortaffjedring. - Custom: Brugerdefinerede indstillinger for styring, speeder og affjedring.
+- Dynamic: Dynamisk styring, affjedring og speeder.
+- Efficiency: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
+- Comfort: Afbalanceret speeder og styring, komfortaffjedring.
+- Custom: Brugerdefinerede indstillinger for styring, speeder og affjedring.
 
 ### Bremser
 

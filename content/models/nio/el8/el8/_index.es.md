@@ -86,7 +86,11 @@ La dirección dinámica es una característica un estándar en el Nio EL8. La di
 
 El Nio EL8 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Sport+: Dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. Baja frenada regenerativa. - Sport: Dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. Baja frenada regenerativa. - Comfort: Dirección de confort, altura de suspensión normal con aceleración equilibrada y amortiguación de confort. Baja frenada regenerativa. - ECO: Dirección de confort, altura de suspensión normal con aceleración eficiente y amortiguación de confort. Frenada regenerativa media. - Custom: Configuraciones definidas por el usuario para dirección, suspensión, respuesta del acelerador y frenada regenerativa.
+- Sport+: Dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. Baja frenada regenerativa.
+- Sport: Dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. Baja frenada regenerativa.
+- Comfort: Dirección de confort, altura de suspensión normal con aceleración equilibrada y amortiguación de confort. Baja frenada regenerativa.
+- ECO: Dirección de confort, altura de suspensión normal con aceleración eficiente y amortiguación de confort. Frenada regenerativa media.
+- Custom: Configuraciones definidas por el usuario para dirección, suspensión, respuesta del acelerador y frenada regenerativa.
 
 ### Frenos
 

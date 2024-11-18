@@ -72,7 +72,10 @@ Die dynamische Lenkung ist eine optionale im Audi Q4 Sportback 50 e-tron quattro
 
 Der Audi Q4 Sportback 50 e-tron quattro ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Dynamic: Dynamisches Lenken, Federung und Gas. - Efficiency: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung. - Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung. - Custom: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
+- Dynamic: Dynamisches Lenken, Federung und Gas.
+- Efficiency: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- Custom: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
 
 ### Bremsen
 

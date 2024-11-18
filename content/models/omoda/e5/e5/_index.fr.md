@@ -64,7 +64,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Le OMODA E5 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Normal: Direction et accélérateur équilibrés. - Sport: Direction et accélérateur dynamiques. - Eco: Direction équilibrée et accélérateur efficace.
+- Normal: Direction et accélérateur équilibrés.
+- Sport: Direction et accélérateur dynamiques.
+- Eco: Direction équilibrée et accélérateur efficace.
 
 ### Freins
 

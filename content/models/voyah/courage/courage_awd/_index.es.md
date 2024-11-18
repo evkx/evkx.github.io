@@ -64,7 +64,12 @@ La dirección dinámica es una característica un estándar en el VOYAH Courage 
 
 El VOYAH Courage AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 6 modos:
 
-- Performance: Dirección, suspensión y aceleración dinámicas. - Eco: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada. - Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda. - Outing: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda. - Snow: Dirección, aceleración y amortiguación equilibradas. - Individual: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
+- Performance: Dirección, suspensión y aceleración dinámicas.
+- Eco: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Comfort: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- Outing: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- Snow: Dirección, aceleración y amortiguación equilibradas.
+- Individual: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
 
 ### Frenos
 

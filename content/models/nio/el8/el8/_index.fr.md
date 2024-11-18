@@ -86,7 +86,11 @@ La direction dynamique est une fonctionnalité un standard sur le Nio EL8. La di
 
 Le Nio EL8 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Sport+ : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques. Faible freinage régénératif. - Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. Faible freinage régénératif. - Comfort : Direction confort, hauteur de suspension normale avec accélérateur équilibré et amortissement de suspension confort. Faible freinage régénératif. - ECO : Direction confort, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confort. Freinage régénératif moyen. - Custom : Paramètres définis par l'utilisateur pour la direction, la suspension, la réponse de l'accélérateur et le freinage régénératif.
+- Sport+ : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques. Faible freinage régénératif.
+- Sport : Direction équilibrée, hauteur de suspension la plus basse avec accélérateur et amortissement équilibrés. Faible freinage régénératif.
+- Comfort : Direction confort, hauteur de suspension normale avec accélérateur équilibré et amortissement de suspension confort. Faible freinage régénératif.
+- ECO : Direction confort, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confort. Freinage régénératif moyen.
+- Custom : Paramètres définis par l'utilisateur pour la direction, la suspension, la réponse de l'accélérateur et le freinage régénératif.
 
 ### Freins
 

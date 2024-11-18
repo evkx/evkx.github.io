@@ -72,7 +72,10 @@ La dirección dinámica es una característica un estándar en el Cadillac ESCAL
 
 El Cadillac ESCALADE IQ permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Tour: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos. - Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa. - My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Tour: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos.
+- Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
+- My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 ### Frenos
 

@@ -66,7 +66,13 @@ Dynamic steering is a standard on the Audi Q8 50 e-tron, varying the steering ra
 
 The Audi Q8 50 e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension. - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Allroad: Balanced steering, high suspension height with balanced throttle and damping. - Offroad: Balanced steering, max suspension height with balanced throttle and damping. - Auto: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping. - Custom: User-defined settings for steering, suspension, and throttle response.
+- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Allroad: Balanced steering, high suspension height with balanced throttle and damping.
+- Offroad: Balanced steering, max suspension height with balanced throttle and damping.
+- Auto: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- Custom: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

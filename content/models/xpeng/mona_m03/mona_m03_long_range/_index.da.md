@@ -68,7 +68,10 @@ Dynamisk styring er en standard-funktion på XPENG Mona M03 Long Range. Dynamisk
 
 XPENG Mona M03 Long Range lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Comfort: Komfortstyring og effektiv speeder. - Standard: Afbalanceret styring og speeder. - Sport: Dynamisk styring og speeder. - Individual: Brugerdefinerede indstillinger for styring og speeder.
+- Comfort: Komfortstyring og effektiv speeder.
+- Standard: Afbalanceret styring og speeder.
+- Sport: Dynamisk styring og speeder.
+- Individual: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 

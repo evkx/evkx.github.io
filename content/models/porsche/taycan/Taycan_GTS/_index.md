@@ -72,7 +72,11 @@ Dynamic steering is a standard on the Porsche Taycan GTS, varying the steering r
 
 The Porsche Taycan GTS lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
-- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension. - Normal: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping. - Sport: Dynamic steering, low suspension with dynamic throttle and suspension. - Sport Plus: Dynamic steering, low suspension with dynamic throttle and suspension. - Individual: User-defined settings for steering, suspension, and throttle response.
+- Range: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Normal: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Sport Plus: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 

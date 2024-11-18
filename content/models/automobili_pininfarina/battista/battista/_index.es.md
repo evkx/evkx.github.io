@@ -64,7 +64,11 @@ La dirección dinámica es una característica un estándar en el Automobili Pin
 
 El Automobili Pininfarina Battista permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Cruise: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. - Sport: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas. - Track: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Drift: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Cruise: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas.
+- Sport: dirección equilibrada, altura de suspensión más baja con aceleración y amortiguación equilibradas.
+- Track: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Drift: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
 
 ### Frenos
 
