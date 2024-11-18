@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS Sport Turismo
 linktitle: "Taycan GTS Sport Turismo"
-description: "Porsche Taycan GTS Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 504 km (313 millas). EVKX.net tiene todos los detalles."
+description: "Porsche Taycan GTS Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 601 km (374 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo Porsche Taycan GTS Sport Turismo en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -26,21 +26,21 @@ Hemos separado nuestro artículo Porsche Taycan GTS Sport Turismo en secciones. 
 
 ## Rendimiento
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan GTS Sport Turismo alcanza una potencia máxima de 440 kW (598 hp). Sin overboost, proporciona una sólida potencia de 420 kW (571 hp). El par máximo es de 850 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,7 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
+Con overboost, el Porsche Taycan GTS Sport Turismo alcanza una potencia máxima de 515 kW (700 hp). Sin overboost, proporciona una sólida potencia de 445 kW (605 hp). El par máximo es de 790 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,3 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 93,4 kWh y una capacidad neta utilizable de 83,7 kWh, proporcionando un buffer de 9,7 kWh (10,4%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 105,0 kWh y una capacidad neta utilizable de 97,0 kWh, proporcionando un buffer de 8,0 kWh (7,6%) para la protección de la batería. Operando a un voltaje nominal de 729 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 504 y 439 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,6 kWh/100 km para el modelo base y 19,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 601 y 525 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,1 kWh/100 km para el modelo base y 18,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 51 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 162kW. Cada sesión de carga tardaría 19 minutos y 52 segundos. Esta capacidad de carga eficiente hace que el Porsche Taycan GTS Sport Turismo sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 47 minutos, mientras que un escenario más común del 10 al 80 % tardaría 16 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 209kW. Cada sesión de carga tardaría 18 minutos y 48 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Porsche Taycan GTS Sport Turismo sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 11 minutos. Este viaje requeriría dos paradas de carga del 3% al 58%, con un tiempo total de carga de 51 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 1% al 65%, con un tiempo total de carga de 36 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 36 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 3 horas y 48 minutos en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 49 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 24 minutos en casa.
 
 ### Puerto de carga
 
@@ -50,29 +50,45 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 ## Tren de transmisión
 
-Porsche Taycan GTS Sport Turismo tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Porsche Taycan GTS Sport Turismo tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-Puedes pedir Porsche Taycan GTS Sport Turismo con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 127 mm.
+Puedes pedir Porsche Taycan GTS Sport Turismo con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 126 mm.
+
+Puedes pedir Porsche Taycan GTS Sport Turismo con una suspensión alternativa Porsche Active Ride. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 128 mm.
+
+La suspensión activa mantiene la carrocería del coche casi horizontal durante el frenado dinámico, la dirección y la aceleración, mejorando la respuesta de dirección precisa y el control del conductor.
+
+Normalmente, los coches se inclinan hacia afuera en las curvas. Sin embargo, la dinámica de curvas activa puede contrarrestar esta inclinación o incluso sobrecompensarla, haciendo que el coche se incline hacia las curvas como una motocicleta.
+
+La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
 
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Porsche Taycan GTS Sport Turismo. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un opcional. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
+### Modos de conducción
+
+El Porsche Taycan GTS Sport Turismo permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
+
+- Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada. - Normal: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión. - Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Sport Plus: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas. - Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+
 ### Frenos
 
-Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción second utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm.
+Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción standard utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm. Los frenos de opción standard utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
 
 ### Frenado regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+
+Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
 La potencia regenerativa máxima es de 275 kW.
 
 ## Exterior
 
-El Porsche Taycan GTS Sport Turismo, con dimensiones de 4963 mm de longitud, 1964 mm de anchura y 1395 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Porsche Taycan GTS Sport Turismo está disponible en un total de 17 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Porsche Taycan GTS Sport Turismo, con dimensiones de 4963 mm de longitud, 1966 mm de anchura y 1392 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Porsche Taycan GTS Sport Turismo está disponible en un total de 17 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 
@@ -88,11 +104,15 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
+Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El Porsche Taycan GTS Sport Turismo cuenta con un interior enfocado en el conductor con una sensación de lujo, utilizando materiales de alta calidad en todo momento. La consola central tradicional separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -100,28 +120,45 @@ Este modelo ofrece una disposición de cuatro asientos o una disposición opcion
 
 #### Asientos de primera fila
 
-Para la primera fila, el Porsche Taycan GTS Sport Turismo ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
-
-Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
-
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Para la primera fila, el Porsche Taycan GTS Sport Turismo ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
+- reposacabezas de longitud ajustable
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 13 diferentes materiales/colores para este tipo de asiento.
+
+- Gray [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
+- reposacabezas de longitud ajustable
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
@@ -129,11 +166,25 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
-Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 16 diferentes materiales/colores para este tipo de asiento.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
+- Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/Red [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Gray [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red/Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige/Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 #### Asientos de la segunda fila
 
@@ -141,11 +192,14 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Porsche Taycan GT
 
 La opción standard son dos asientos integrados en la segunda fila. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
+- reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 ## Sistema de climatización
 
@@ -153,15 +207,20 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
 ## Características de confort
 
 El Porsche Taycan GTS Sport Turismo incluye varias características para mejorar la comodidad y conveniencia:
 
+- **Volante ajustable eléctricamente**
+- **Carga inalámbrica de teléfono**
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
 
 El Porsche Taycan GTS Sport Turismo tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../technology/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal).
 
@@ -174,23 +233,36 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/screens_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
-
 ### Volante
 
-El Porsche Taycan GTS Sport Turismo está equipado con un solo tipo de volante:
+Puedes elegir entre varios volantes.
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante incluye botones físicos, ruedas de desplazamiento y paletas de cambio, proporcionando un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También incluye botones físicos, ruedas de desplazamiento y paletas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También incluye botones físicos, ruedas de desplazamiento y paletas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También incluye botones físicos, ruedas de desplazamiento y paletas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+
 ## Infoentretenimiento
+
+El Porsche Taycan GTS Sport Turismo cuenta con el sistema de infoentretenimiento Porsche Communication Management (PCM), diseñado para proporcionar una experiencia de usuario fluida e intuitiva. El sistema PCM integra varias funciones, incluyendo navegación, medios, comunicación y configuraciones del vehículo, en una interfaz central para un fácil acceso. El sistema está equipado con una pantalla táctil de alta resolución que permite un control rápido y conveniente de las funciones del vehículo. Además, el sistema PCM admite la integración de teléfonos inteligentes, control por voz y actualizaciones por aire para garantizar que las últimas mejoras y características del software estén siempre disponibles para el conductor.
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real y mapas satelitales que garantizan un viaje eficiente y sin estrés.
+
+### Aplicaciones Preinstaladas
+
+Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **Apple Music**
+- **Tidal**
 
 ### Espejo del teléfono
 
@@ -198,17 +270,35 @@ Además, el Porsche Taycan GTS Sport Turismo es compatible con Android Auto y Ap
 
 ### Sistema de sonido
 
-Puedes elegir entre tres sistemas de sonido en el Porsche Taycan GTS Sport Turismo.
+Puedes elegir entre dos sistemas de sonido en el Porsche Taycan GTS Sport Turismo.
 
-- Con el Porsche Sound system, obtienes diez parlantes con una salida máxima del sistema de 150 vatios.
 - Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios.
 - Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1455 vatios.
 
+El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
+## Aplicación móvil
+
+El Porsche Taycan GTS Sport Turismo viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Estacionamiento remoto**: Controla tu coche de forma remota para estacionar o salir de un espacio de estacionamiento.
+- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
+- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
+- **Historial de conducción**: Revisa los detalles de tus viajes anteriores.
+
 ## Luces
 
-Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
+Puedes elegir entre dos tipos de faros para el Porsche Taycan GTS Sport Turismo.
+
+- Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
+- **Faros LED Matrix:** Disponibles como una mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico en sentido contrario. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1688"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
@@ -236,11 +326,13 @@ El Porsche Taycan GTS Sport Turismo incluye varios [sistemas avanzados de asiste
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Porsche Taycan GTS Sport Turismo, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
 
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Porsche Taycan GTS Sport Turismo, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
 Porsche Taycan GTS Sport Turismo ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Adaptive Cruise Control de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
@@ -249,22 +341,60 @@ Con el sistema opcional Porsche InnoDrive de nivel 2, obtienes funciones adicion
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
+## Seguridad
+
+El Porsche Taycan GTS Sport Turismo está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Airbags de rodilla para el conductor y el pasajero delantero
+- Airbags laterales para los pasajeros de la segunda fila
+
+Además, los cinturones de seguridad de la primera y segunda fila están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
 ## Tecnologías de seguridad y acceso
 
 El Porsche Taycan GTS Sport Turismo está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
 
 - **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Dashcam integrada:** La dashcam incorporada opcional graba imágenes de video de sus viajes, capturando detalles clave para proporcionar mayor seguridad, responsabilidad y tranquilidad.
+- **Vigilancia de estacionamiento:** Utilizando su conjunto de cámaras, el vehículo monitorea activamente los alrededores mientras está estacionado, ofreciendo una protección mejorada a través de una vigilancia continua.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 446 litros. Con el asiento trasero plegado, esto se expande a 1212 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 405 litros. Con el asiento trasero plegado, esto se expande a 1171 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 84 litros.
 
 El peso máximo del vehículo es 2875 kg, con un peso base de 2310 kg. Esto permite una carga máxima de 565 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
+## Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 12.11.2024 y las entregas comenzaron en March 2025.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- 1 585 089,00 NOK (Noruega)
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Porsche Taycan GTS Sport Turismo que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Audi RS e-tron GT](/models/audi/e-tron_gt/rs_e-tron_gt/)
+- [Lucid Air Grand Touring](/models/lucid/air/air_grand_touring/)
+- [Mercedes EQS 53 4MATIC+](/models/mercedes/eqs/eqs_53_4maticplus/)
+- [BMW i4 M50](/models/bmw/i4/i4_m50/)
+
+<a href="https://db.evkx.net/evcompare?evs=c388f6%2cc66322%2ced06c7%2c8f4acc%2cdec6c1" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}}

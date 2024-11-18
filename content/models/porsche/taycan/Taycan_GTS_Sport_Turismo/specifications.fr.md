@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1687" >}}
 EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche Taycan GTS Sport Turismo. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Porsche Taycan GTS Sport Turismo, visitez les [chargeinfo](../chargecurve/) pour Porsche Taycan GTS Sport Turismo avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				420 KW (571 ch)
+				445 KW (605 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				440 KW (598 ch)
+				515 KW (700 ch)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				504 km
+				601 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				16,6 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				20,3 kWh/100km
+				19,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				439 km
+				525 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				19,1 kWh/100km
+				18,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				23,3 kwh/100km
+				21,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -198,7 +206,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1395 mm
+				1392 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Angle d'approche
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				446 litre
+				405 litre
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +521,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1212 litre
+				1171 litre
 			</td>
 		</tr>
 		<tr>
@@ -528,6 +536,10 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 </table>
 
 ## Suspension
+
+Le modèle propose 2 variantes de suspension
+
+### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -586,7 +598,128 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				127 mm
+				126 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol minimale
+			</td>
+			<td>
+				103 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur avant
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur arrière
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant à ressort
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type à ressort arrière
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				Suspension à double triangulation
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Porsche Active Ride
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Suspension adaptative
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement réglable avant
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement arrière réglable
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant réglable en hauteur
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hauteur arrière réglable
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol maximale
+			</td>
+			<td>
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -655,151 +788,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 ### Sièges avant
 
 
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Type de siège
-			</td>
-			<td>
-				Siège conducteur et passager
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage de la profondeur du siège
-			</td>
-			<td>
-				Fonction électrique standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage de la hauteur du siège
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage de l'angle du dossier
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Mémoire
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Appui-tête réglable en hauteur
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Appui-tête réglable en longueur
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Support de cuisse réglable
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage des traversins latéraux du dossier
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage des traversins latéraux du coussin de siège
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Repose-pieds passagers
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Support de jambe passager
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Réglage lombaire électrique
-			</td>
-			<td>
-				Fonction électrique standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ventilation du siège
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fonction massage
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 #### Comfortseats with memory
 
 <table class="table table-striped border">
@@ -835,7 +823,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +831,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -851,7 +839,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -859,7 +847,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Mémoire
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -875,7 +863,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -907,7 +895,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -915,7 +903,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +919,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité facultative
 			</td>
 		</tr>
 		<tr>
@@ -939,7 +927,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité facultative
 			</td>
 		</tr>
 	</tbody>
@@ -980,7 +968,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -988,7 +976,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +984,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +1008,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1052,7 +1040,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1060,7 +1048,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1084,7 +1072,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1120,7 +1108,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1160,7 +1148,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1168,7 +1156,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1225,7 +1213,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1253,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1273,7 +1261,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1531,6 +1519,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1538,6 +1527,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1545,7 +1535,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Android Auto
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1553,7 +1543,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Apple Carplay
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1611,42 +1601,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Nombre de systèmes audio disponibles
 			</td>
 			<td>
-				3
+				2
 			</td>
 		</tr>
-
-### Porsche Sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Nombre de haut-parleurs
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Effet total
-			</td>
-			<td>
-				150
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 ###  BOSE® Surround Sound System
 

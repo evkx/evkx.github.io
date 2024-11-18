@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1687" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS Sport Turismo. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Porsche Taycan GTS Sport Turismo, gå til [chargeinfo](../chargecurve/) for Porsche Taycan GTS Sport Turismo med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS 
 				Maks effekt
 			</td>
 			<td>
-				420 KW (571 hk)
+				445 KW (605 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS 
 				Maks effekt med boost
 			</td>
 			<td>
-				440 KW (598 hk)
+				515 KW (700 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment
+			</td>
+			<td>
+				790 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS 
 				Dreiemoment med boost
 			</td>
 			<td>
-				850 Nm
+				790 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS 
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				3,7 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
-				504 km
+				601 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell
 			</td>
 			<td>
-				16,6 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
-				20,3 kWh/100km
+				19,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				439 km
+				525 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				19,1 kWh/100km
+				18,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				23,3 kwh/100km
+				21,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +174,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -198,7 +206,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +376,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1395 mm
+				1392 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +384,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1964 mm
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Angrepsvinkel
 			</td>
 			<td>
-				13
+				11,2
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +513,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				446 liter
+				405 liter
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +521,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1212 liter
+				1171 liter
 			</td>
 		</tr>
 		<tr>
@@ -528,6 +536,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 ## Hjuloppheng
+
+Modellen tilbyr 2 fjæringsvarianter
+
+### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -586,7 +598,128 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				127 mm
+				126 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum bakkeklaring
+			</td>
+			<td>
+				103 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type demper foran
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type demper bak
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				Dobbelt bærearmsoppheng
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Porsche Active Ride
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptiv understell
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar demping foran
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar demping bak
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar høyde foran
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar høyde bak
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks bakkeklaring
+			</td>
+			<td>
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -655,151 +788,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Forseter
 
 
-#### Comfort
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Setetype
-			</td>
-			<td>
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Setedybdejustering
-			</td>
-			<td>
-				Standard elektrisk funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setehøyde
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøttevinkel
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Lengdejusterbar hodestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøtten
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Standard elektrisk funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteventilasjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massasjefunksjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 #### Comfortseats with memory
 
 <table class="table table-striped border">
@@ -835,7 +823,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +831,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -851,7 +839,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -859,7 +847,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -875,7 +863,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -907,7 +895,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -915,7 +903,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +919,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -939,7 +927,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Valgfri funksjon
 			</td>
 		</tr>
 	</tbody>
@@ -980,7 +968,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -988,7 +976,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +984,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +1008,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1052,7 +1040,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1060,7 +1048,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1084,7 +1072,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1120,7 +1108,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1160,7 +1148,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1168,7 +1156,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1225,7 +1213,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1253,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1273,7 +1261,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1531,6 +1519,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1538,6 +1527,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1545,7 +1535,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Android Auto-støtte
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1553,7 +1543,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1611,42 +1601,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Antall tilgjengelige lydsystemer
 			</td>
 			<td>
-				3
+				2
 			</td>
 		</tr>
-
-### Porsche Sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antall høyttalere
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Total effekt
-			</td>
-			<td>
-				150
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 ###  BOSE® Surround Sound System
 

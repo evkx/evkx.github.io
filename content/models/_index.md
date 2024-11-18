@@ -722,7 +722,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success.
 	</p>
 	<p>
-	Porsche has 2 models with total 30 variants.
+	Porsche has 2 models with total 31 variants.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Go to Porsche EV-model overview</a>
 </div>

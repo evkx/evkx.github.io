@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-0056b1ab
+  translation: Porsche Taycan GTS Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 601 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-153939db
   translation: BYD Sealion 7 Excellence är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 502 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-bff9fe3d
   translation: Zeekr MIX Standard Range RWD är en helelektrisk MPV med en CLTC räckvidd på upp till 550 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-ad6172aa
-  translation: Opel Grandland är en helelektrisk SUV med en WLTP räckvidd på upp till 525 km. EVKX.net har alla detaljer.
 

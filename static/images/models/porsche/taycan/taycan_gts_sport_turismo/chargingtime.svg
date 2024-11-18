@@ -3,7 +3,7 @@
     <g>
         <path d="M 1090 1102 L 40 1102 L 40 47" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 40 902 L 1090 902" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 40  1100 46  1090 50  1080 53  1070 56  1060 58  1050 61  1040 63  1030 65  1020 67  1010 69  1000 72  990 74  980 76  970 78  960 80  950 82  940 84  930 87  920 89  910 91  900 93  890 95  880 97  870 99  860 101  850 103  840 105  830 107  820 109  810 112  800 114  790 116  780 118  770 120  760 122  750 124  740 126  730 128  720 131  710 133  700 135  690 137  680 139  670 142  660 144  650 146  640 148  630 150  620 152  610 155  600 157  590 159  580 162  570 164  560 167  550 169  540 172  530 175  520 177  510 180  500 183  490 186  480 189  470 192  460 195  450 198  440 202  430 205  420 208  410 211  400 215  390 218  380 222  370 226  360 230  350 235  340 239  330 244  320 248  310 253  300 259  290 266  280 274  270 284  260 295  250 308  240 322  230 338  220 352  210 363  200 372  190 382  180 396  170 412  160 430  150 449  140 466  130 486  120 513  110 554  100 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 40  1100 43  1090 46  1080 48  1070 50  1060 52  1050 54  1040 56  1030 58  1020 60  1010 62  1000 64  990 66  980 68  970 70  960 72  950 74  940 76  930 78  920 80  910 82  900 84  890 86  880 88  870 90  860 92  850 94  840 96  830 98  820 100  810 102  800 104  790 106  780 108  770 110  760 111  750 113  740 115  730 117  720 119  710 121  700 123  690 125  680 127  670 129  660 131  650 133  640 135  630 137  620 139  610 141  600 142  590 144  580 146  570 148  560 150  550 152  540 154  530 156  520 158  510 160  500 162  490 164  480 166  470 169  460 171  450 174  440 177  430 180  420 183  410 186  400 188  390 191  380 194  370 197  360 200  350 203  340 207  330 210  320 214  310 219  300 225  290 231  280 238  270 245  260 252  250 259  240 267  230 274  220 282  210 291  200 300  190 312  180 324  170 336  160 350  150 366  140 383  130 405  120 437  110 510  100 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -348,13 +348,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1147px; margin-left: 61px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging time for Porsche Taycan GTS Sport Turismo 93,4 kWh
+                                EVKX.net - Charging time for Porsche Taycan GTS Sport Turismo 105 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="620" y="1156" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging time for Porsche Taycan GTS Sport Turismo 93,4 kWh
+                    EVKX.net - Charging time for Porsche Taycan GTS Sport Turismo 105 kWh
                 </text>
             </switch>
         </g>
