@@ -220,6 +220,7 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 Der Porsche Taycan GTS umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
 - **Elektrisch verstellbares Lenkrad**
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -293,7 +294,9 @@ Der Porsche Taycan GTS wird mit einer speziellen mobilen App geliefert, die sowo
 - **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
 - **Fernparken:** Steuern Sie Ihr Auto mühelos, um es aus der Ferne zu parken oder aus einer Parklücke herauszufahren.
 - **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Geplantes Laden:** Planen und terminieren Sie Ladesitzungen im Voraus.
 - **Ladeziel anpassen:** Stellen Sie Ihren gewünschten Ladezustand ein, um das Laden nach Bedarf zu starten oder zu stoppen.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
 - **Routenplanung:** Planen Sie Ihre Route und senden Sie sie direkt an das Navigationssystem Ihres Autos.
 - **Fahrtenverlauf:** Überprüfen Sie die Details Ihrer vergangenen Fahrten.
 

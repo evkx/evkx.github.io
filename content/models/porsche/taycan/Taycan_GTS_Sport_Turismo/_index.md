@@ -225,6 +225,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 The Porsche Taycan GTS Sport Turismo includes several features to enhance comfort and convenience:
 
 - **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -296,7 +297,9 @@ The Porsche Taycan GTS Sport Turismo comes with a dedicated mobile app, availabl
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 - **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
 - **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
 - **Route Planning:** Plan your route and send it directly to your car's navigation system.
 - **Driving History:** Review the details of your past trips.
 

@@ -218,6 +218,7 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 Porsche Taycan GTS Sport Turismo inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -289,7 +290,9 @@ Porsche Taycan GTS Sport Turismo kommer med sin egen dedikerte mobilapp, tilgjen
 - **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
 - **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
 - **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
 - **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
 - **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
 - **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
 

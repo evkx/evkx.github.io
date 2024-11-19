@@ -10,8 +10,6 @@ hidden: true
 **Introduktion**  
 Porsche, et navn synonymt med højtydende sportsvogne og luksus, har været en dominerende kraft i bilindustrien i årtier. Med en rig historie, der strækker sig over mere end 90 år, har Porsche kontinuerligt skubbet grænserne for teknologi og ydeevne. I dag gennemgår mærket en stor transformation med sit skift mod elektriske køretøjer (EV'er), med det formål at kombinere sin arv af hastighed og innovation med bæredygtighed.
 
----
-
 ### En kort historie om Porsche
 
 **Ferdinand Porsche og fødslen af en legende (1931-1940'erne)**  
@@ -28,8 +26,6 @@ I 1948 blev den første bil med Porsche-navnet, Porsche 356, bygget. Dette køre
 I 1990'erne stod Porsche over for økonomiske udfordringer, men formåede at komme sig ved at diversificere sit produktsortiment. Introduktionen af Porsche Boxster i 1996, en mere overkommelig roadster, genoplivede mærkets formuer. I 2002 overraskede Porsche bilverdenen ved at introducere Cayenne, en luksus-SUV, der hurtigt blev en bestseller og hjalp virksomheden med at opnå rekordoverskud.
 
 I 2000'erne fortsatte Porsche med at udvide sin portefølje med Panamera, en luksussedan, og Macan, en mindre SUV. Denne periode cementerede Porsches position som producent af både højtydende sportsvogne og luksuskøretøjer.
-
----
 
 ### Porsches strategi for elektriske køretøjer
 
@@ -48,8 +44,6 @@ Porsches engagement i elektrificering er klart, med planer om at 80% af deres so
 - **Hybrid- og plug-in hybridmodeller**: Porsche fortsætter med at udvikle hybrid- og plug-in hybridversioner af deres traditionelle modeller, herunder Cayenne og Panamera, hvilket giver kunderne mulighed for at opleve elektrificeret ydeevne uden at gå fuldt elektrisk.
 - **Investering i ladeinfrastruktur**: Porsche investerer kraftigt i ladeinfrastruktur, både i Europa og globalt, for at støtte adoptionen af elektriske køretøjer. Dette inkluderer højtydende ladestationer, der giver hurtig opladning til Porsche EV'er.
 
----
-
 ### Porsches globale tilstedeværelse: Hovedkvarter og fabrikker
 
 **Hovedkvarter**  
@@ -67,8 +61,6 @@ Porsches hovedkvarter er beliggende i **Stuttgart, Tyskland**, i distriktet Zuff
 
 **Globale faciliteter og udvidelse**  
 Mens Porsches primære produktionsfaciliteter er i Tyskland, opretholder mærket en global tilstedeværelse med showrooms, forhandlere og servicecentre i nøglemarkeder verden over. Dette inkluderer vigtige regioner som Nordamerika, Kina og Mellemøsten, der er afgørende for Porsches salg og mærkevækst.
-
----
 
 ### Konklusion
 

@@ -220,6 +220,7 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 L'Porsche Taycan GTS comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
@@ -293,7 +294,9 @@ Le Porsche Taycan GTS est accompagné de son application mobile dédiée, dispon
 - **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
 - **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
 - **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
 - **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
 - **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
 - **Historique de conduite** : Consultez les détails de vos trajets précédents.
 

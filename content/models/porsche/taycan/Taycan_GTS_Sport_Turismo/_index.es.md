@@ -218,6 +218,7 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 El Porsche Taycan GTS Sport Turismo incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Volante ajustable eléctricamente**
+- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -289,7 +290,9 @@ El Porsche Taycan GTS Sport Turismo viene con su propia aplicación móvil, disp
 - **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
 - **Estacionamiento remoto**: Controla tu coche de forma remota para estacionar o salir de un espacio de estacionamiento.
 - **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Programar carga**: Planifica y programa sesiones de carga antes de tus viajes.
 - **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
+- **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
 - **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
 - **Historial de conducción**: Revisa los detalles de tus viajes anteriores.
 

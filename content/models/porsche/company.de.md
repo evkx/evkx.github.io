@@ -10,8 +10,6 @@ hidden: true
 **Einführung**  
 Porsche, ein Name, der für Hochleistungssportwagen und Luxus steht, ist seit Jahrzehnten eine dominierende Kraft in der Automobilindustrie. Mit einer reichen Geschichte, die über 90 Jahre zurückreicht, hat Porsche kontinuierlich die Grenzen der Technologie und Leistung verschoben. Heute durchläuft die Marke eine große Transformation mit ihrem Übergang zu Elektrofahrzeugen (EVs), um ihre Tradition von Geschwindigkeit und Innovation mit Nachhaltigkeit zu verbinden.
 
----
-
 ### Eine kurze Geschichte von Porsche
 
 **Ferdinand Porsche und die Geburt einer Legende (1931-1940er Jahre)**  
@@ -28,8 +26,6 @@ Die 1970er und 80er Jahre waren Jahre der Innovation und des Rennsports für Por
 In den 1990er Jahren stand Porsche vor finanziellen Herausforderungen, konnte sich jedoch durch die Diversifikation seines Produktangebots erholen. Die Einführung des Porsche Boxster im Jahr 1996, eines erschwinglicheren Roadsters, belebte das Schicksal der Marke. 2002 überraschte Porsche die Automobilwelt mit der Einführung des Cayenne, eines Luxus-SUVs, der schnell zum Bestseller wurde und dem Unternehmen Rekordgewinne bescherte.
 
 In den 2000er Jahren erweiterte Porsche sein Portfolio weiter mit dem Panamera, einer Luxuslimousine, und dem Macan, einem kleineren SUV. Diese Periode festigte Porsches Position als Hersteller von Hochleistungssportwagen und Luxusfahrzeugen.
-
----
 
 ### Porsches Strategie für Elektrofahrzeuge
 
@@ -48,8 +44,6 @@ Porsches Engagement für die Elektrifizierung ist klar, mit Plänen, bis 2030 80
 - **Hybrid- und Plug-in-Hybrid-Modelle**: Porsche entwickelt weiterhin Hybrid- und Plug-in-Hybrid-Versionen seiner traditionellen Modelle, einschließlich des Cayenne und Panamera, um Kunden elektrifizierte Leistung zu bieten, ohne vollständig elektrisch zu werden.
 - **Investitionen in Ladeinfrastruktur**: Porsche investiert stark in die Ladeinfrastruktur, sowohl in Europa als auch weltweit, um die Einführung von Elektrofahrzeugen zu unterstützen. Dazu gehören Hochleistungs-Ladestationen, die schnelles Laden für Porsche-EVs ermöglichen.
 
----
-
 ### Porsches globale Präsenz: Hauptsitz und Fabriken
 
 **Hauptsitz**  
@@ -67,8 +61,6 @@ Porsches Hauptsitz befindet sich in **Stuttgart, Deutschland**, im Stadtteil Zuf
 
 **Globale Einrichtungen und Expansion**  
 Während Porsches primäre Produktionsstätten in Deutschland liegen, unterhält die Marke eine globale Präsenz mit Showrooms, Händlern und Servicezentren in wichtigen Märkten weltweit. Dazu gehören wichtige Regionen wie Nordamerika, China und der Nahe Osten, die für Porsches Verkäufe und Markenwachstum entscheidend sind.
-
----
 
 ### Fazit
 

@@ -10,8 +10,6 @@ hidden: true
 **Introducción**  
 Porsche, un nombre sinónimo de autos deportivos de alto rendimiento y lujo, ha sido una fuerza dominante en la industria automotriz durante décadas. Con una rica historia que abarca más de 90 años, Porsche ha empujado continuamente los límites de la tecnología y el rendimiento. Hoy en día, la marca está experimentando una gran transformación con su cambio hacia los vehículos eléctricos (EVs), con el objetivo de combinar su legado de velocidad e innovación con la sostenibilidad.
 
----
-
 ### Una Breve Historia de Porsche
 
 **Ferdinand Porsche y el Nacimiento de una Leyenda (1931-1940s)**  
@@ -28,8 +26,6 @@ Las décadas de 1970 y 80 fueron años de innovación y gloria en las carreras p
 En la década de 1990, Porsche enfrentó desafíos financieros pero logró recuperarse diversificando su línea de productos. La introducción del Porsche Boxster en 1996, un roadster más asequible, rejuveneció la fortuna de la marca. En 2002, Porsche sorprendió al mundo automotriz al introducir el Cayenne, un SUV de lujo que rápidamente se convirtió en un éxito de ventas y ayudó a la empresa a alcanzar beneficios récord.
 
 En la década de 2000, Porsche continuó expandiendo su portafolio con el Panamera, un sedán de lujo, y el Macan, un SUV más pequeño. Este período solidificó la posición de Porsche como fabricante de autos deportivos de alto rendimiento y vehículos de lujo.
-
----
 
 ### Estrategia de Vehículos Eléctricos de Porsche
 
@@ -48,8 +44,6 @@ El compromiso de Porsche con la electrificación es claro, con planes para que e
 - **Modelos Híbridos y Enchufables**: Porsche continúa desarrollando versiones híbridas y enchufables de sus modelos tradicionales, incluyendo el Cayenne y el Panamera, permitiendo a los clientes experimentar el rendimiento electrificado sin ir completamente eléctricos.
 - **Inversión en Infraestructura de Carga**: Porsche está invirtiendo fuertemente en infraestructura de carga, tanto en Europa como a nivel mundial, para apoyar la adopción de vehículos eléctricos. Esto incluye estaciones de carga de alta potencia que proporcionan carga rápida para los EVs de Porsche.
 
----
-
 ### Presencia Global de Porsche: Sedes y Fábricas
 
 **Sede Central**  
@@ -67,8 +61,6 @@ La sede central de Porsche se encuentra en **Stuttgart, Alemania**, en el distri
 
 **Instalaciones Globales y Expansión**  
 Aunque las principales instalaciones de fabricación de Porsche están en Alemania, la marca mantiene una presencia global con salas de exhibición, concesionarios y centros de servicio en mercados clave en todo el mundo. Esto incluye regiones importantes como América del Norte, China y el Medio Oriente, que son cruciales para las ventas y el crecimiento de la marca Porsche.
-
----
 
 ### Conclusión
 

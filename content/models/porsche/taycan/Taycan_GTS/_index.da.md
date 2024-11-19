@@ -220,6 +220,7 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 Porsche Taycan GTS inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -293,7 +294,9 @@ Den Porsche Taycan GTS kommer med sin dedikerede mobilapp, tilgængelig til båd
 - **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
 - **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
 - **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
 - **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
 - **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
 - **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
 

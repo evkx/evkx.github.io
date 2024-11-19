@@ -10,8 +10,6 @@ hidden: true
 **Introduktion**  
 Porsche, ett namn som är synonymt med högpresterande sportbilar och lyx, har varit en dominerande kraft inom bilindustrin i årtionden. Med en rik historia som sträcker sig över 90 år har Porsche ständigt drivit gränserna för teknik och prestanda. Idag genomgår märket en stor omvandling med sitt skifte mot elbilar (EVs), med målet att kombinera sitt arv av hastighet och innovation med hållbarhet.
 
----
-
 ### En kort historia om Porsche
 
 **Ferdinand Porsche och födelsen av en legend (1931-1940-talet)**  
@@ -28,8 +26,6 @@ Porsche-märket grundades 1931 av Ferdinand Porsche i Stuttgart, Tyskland. Inled
 På 1990-talet stod Porsche inför ekonomiska utmaningar men lyckades återhämta sig genom att diversifiera sitt produktutbud. Introduktionen av Porsche Boxster 1996, en mer prisvärd roadster, återupplivade märkets framgångar. 2002 överraskade Porsche bilvärlden genom att introducera Cayenne, en lyx-SUV som snabbt blev en storsäljare och hjälpte företaget att uppnå rekordvinster.
 
 På 2000-talet fortsatte Porsche att utöka sitt sortiment med Panamera, en lyxsedan, och Macan, en mindre SUV. Denna period befäste Porsches position som tillverkare av både högpresterande sportbilar och lyxfordon.
-
----
 
 ### Porsches strategi för elbilar
 
@@ -48,8 +44,6 @@ Porsches engagemang för elektrifiering är tydligt, med planer på att 80% av d
 - **Hybrid- och plug-in hybridmodeller**: Porsche fortsätter att utveckla hybrid- och plug-in hybridversioner av sina traditionella modeller, inklusive Cayenne och Panamera, vilket gör det möjligt för kunder att uppleva elektrifierad prestanda utan att gå helt elektriskt.
 - **Investering i laddinfrastruktur**: Porsche investerar kraftigt i laddinfrastruktur, både i Europa och globalt, för att stödja antagandet av elbilar. Detta inkluderar högkraftsladdningsstationer som ger snabb laddning för Porsche EVs.
 
----
-
 ### Porsches globala närvaro: Huvudkontor och fabriker
 
 **Huvudkontor**  
@@ -67,8 +61,6 @@ Porsches huvudkontor ligger i **Stuttgart, Tyskland**, i distriktet Zuffenhausen
 
 **Globala anläggningar och expansion**  
 Medan Porsches primära tillverkningsanläggningar finns i Tyskland, upprätthåller märket en global närvaro med showroom, återförsäljare och servicecenter på viktiga marknader världen över. Detta inkluderar stora regioner som Nordamerika, Kina och Mellanöstern, som är avgörande för Porsches försäljning och varumärkestillväxt.
-
----
 
 ### Slutsats
 
