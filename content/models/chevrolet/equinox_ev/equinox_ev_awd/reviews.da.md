@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Chevy Equinox EV AWD Highway Range Test! Driving At 70-MPH Until The Car Fully Dies</h3>
+<p>Out of Spec Reviews: 19.11.2024</p>
+
+{{< youtube BHlx79s3Oxw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Leased A Chevrolet Equinox EV. Here Are My Initial Impressions</h3>
 <p>State of Charge: 29.08.2024</p>
 

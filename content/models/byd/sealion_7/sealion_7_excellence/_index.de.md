@@ -30,21 +30,25 @@ Der BYD Sealion 7 Excellence liefert eine solide Leistung mit einer maximalen Le
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 91,3 kWh und eine nutzbare Nettokapazität von 90,0 kWh, was einen Puffer von 1,3 kWh (1,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 569 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 93,0 kWh und eine nutzbare Nettokapazität von 91,3 kWh, was einen Puffer von 1,7 kWh (1,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 569 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 502 km (312 Meilen) mit einem Energieverbrauch von 17,9 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 502 km (312 Meilen) mit einem Energieverbrauch von 18,2 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 230 kW. Das Laden von 0% auf 100% dauert etwa 71 Minuten, während ein typischer Ladevorgang von 10% auf 80% 39 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 97 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 5% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 102 kW, wobei jede Ladesitzung etwa 21 Minuten und 15 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 230 kW. Das Laden von 0% auf 100% dauert etwa 55 Minuten, während ein typischer Ladevorgang von 10% auf 80% 30 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 126 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 124 kW, wobei jede Ladesitzung etwa 18 Minuten und 7 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 47 Minuten dauern. Diese Reise würde vier Ladestopps von 4% auf 45% erfordern, mit einer gesamten Ladezeit von 87 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 30 Minuten dauern. Diese Reise würde vier Ladestopps von 5% auf 45% erfordern, mit einer gesamten Ladezeit von 71 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 17 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
 Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,3 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -74,7 +78,7 @@ Die maximale regenerative Leistung beträgt 200 kW.
 
 ## Exterieur
 
-Der BYD Sealion 7 Excellence, mit Abmessungen von 4830 mm Länge, 1875 mm Breite und 1620 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der BYD Sealion 7 Excellence ist in insgesamt 6 Unilackfarben erhältlich.
+Der BYD Sealion 7 Excellence, mit Abmessungen von 4830 mm Länge, 1875 mm Breite und 1620 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der BYD Sealion 7 Excellence ist in insgesamt 4 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den BYD Sealion 7 Excellence erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -92,7 +96,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Das Interieur des BYD Sealion 7 Excellence ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet.
+Das Interieur des BYD Sealion 7 Excellence ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -114,6 +118,9 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 Verfügbar in:
 
+- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 
 #### Rücksitzreihe
@@ -123,6 +130,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment)
 - Höhenverstellbare Kopfstütze
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
+{{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/secondrowseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="2001"  >}}
 
 ## Klimaanlage
 
@@ -238,9 +247,9 @@ Der BYD Sealion 7 Excellence ist mit fortschrittlichen Sicherheitsfunktionen aus
 
 Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1789 Liter (63,2 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 58 Litern (2,0 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 2631 kg (5800 lbs) bei einem Leergewicht von 2185 kg (4817 lbs). Dies ermöglicht eine maximale Zuladung von 446 kg (983 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 446 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
+Das maximale Gewicht des Fahrzeugs beträgt 2631 kg (5800 lbs) bei einem Leergewicht von 2360 kg (5203 lbs). Dies ermöglicht eine maximale Zuladung von 271 kg (597 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 271 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
-Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1500 kg (3307 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/trunk_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1877"  >}}
 

@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 LR DM Performance | 615km (385 miles) LONG TRIP TEST</h3>
+<p>Kris Rifa: 20.11.2024</p>
+
+{{< youtube RjdB2zD8Na4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>5 Things I HATE About The Polestar 4 | REVISITED (SW 4.1.10)</h3>
+<p>Kris Rifa: 15.11.2024</p>
+
+{{< youtube McO41EhZ5RE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 Performance | 120KPH (75MPH) RANGE TEST</h3>
+<p>Kris Rifa: 14.11.2024</p>
+
+{{< youtube 8FvGbXEw_EA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 Performance | 120KPH (75MPH) RANGE TEST</h3>
 <p>Kris Rifa: 14.11.2024</p>
 

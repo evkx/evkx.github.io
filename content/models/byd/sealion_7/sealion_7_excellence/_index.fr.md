@@ -30,21 +30,25 @@ La BYD Sealion 7 Excellence offre des performances solides avec une puissance ma
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 91,3 kWh et une capacité nette utilisable de 90,0 kWh, offrant une réserve de 1,3 kWh (1,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 569 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 93,0 kWh et une capacité nette utilisable de 91,3 kWh, offrant une réserve de 1,7 kWh (1,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 569 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 502 km, avec une consommation d'énergie de 17,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 502 km, avec une consommation d'énergie de 18,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 230kW. Une charge complète de 0 à 100 % prendrait 71 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 39 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 102kW. Chaque session de charge prendrait 21 minutes et 15 secondes.
+La vitesse de charge DC maximale est de 230kW. Une charge complète de 0 à 100 % prendrait 55 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 30 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 124kW. Chaque session de charge prendrait 18 minutes et 7 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23,5 kWh/100 km, le voyage prendrait environ 9 heures et 47 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 45%, avec un temps de recharge total de 87 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23,5 kWh/100 km, le voyage prendrait environ 9 heures et 30 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 45%, avec un temps de recharge total de 71 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 10 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 17 minutes à domicile.
 
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+
+### Recharge bidirectionnelle
+
+Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 3,3 kW de puissance, y compris charger d'autres véhicules.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -74,7 +78,7 @@ La puissance régénérative maximale est de 200 kW.
 
 ## Extérieur
 
-La BYD Sealion 7 Excellence, avec des dimensions de 4830 mm de longueur, 1875 mm de largeur et 1620 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La BYD Sealion 7 Excellence est disponible en un total de 6 couleurs de peinture unies.
+La BYD Sealion 7 Excellence, avec des dimensions de 4830 mm de longueur, 1875 mm de largeur et 1620 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La BYD Sealion 7 Excellence est disponible en un total de 4 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Sealion 7 Excellence, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -92,7 +96,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-L'intérieur du BYD Sealion 7 Excellence est fonctionnel, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée.
+L'intérieur du BYD Sealion 7 Excellence est fonctionnel, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -112,7 +116,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 
@@ -123,6 +130,8 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment)
 - appui-tête réglable en hauteur
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+
+{{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/secondrowseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="2001"  >}}
 
 ## Système de climatisation
 
@@ -238,9 +247,9 @@ Le BYD Sealion 7 Excellence est équipé de fonctionnalités de sécurité avanc
 
 Le coffre offre une capacité de chargement de 520 litres. Avec les sièges arrière rabattus, cette capacité passe à 1789 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 58 litres.
 
-Le poids maximum du véhicule est de 2631 kg, avec un poids de base de 2185 kg. Cela permet une charge maximale de 446 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 446 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+Le poids maximum du véhicule est de 2631 kg, avec un poids de base de 2360 kg. Cela permet une charge maximale de 271 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 271 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/trunk_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1877"  >}}
 

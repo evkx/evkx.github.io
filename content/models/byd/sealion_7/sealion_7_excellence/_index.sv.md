@@ -30,21 +30,25 @@ BYD Sealion 7 Excellence levererar en solid prestanda med en maximal effekt på 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 91,3 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på 1,3 kWh (1,4%) för batteriskydd. Vid en nominell spänning på 569 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 93,0 kWh och en nettoanvändbar kapacitet på 91,3 kWh, vilket ger en buffert på 1,7 kWh (1,8%) för batteriskydd. Vid en nominell spänning på 569 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (199 miles), med en energiförbrukningshastighet på 17,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (199 miles), med en energiförbrukningshastighet på 18,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 230 kW. En full laddning från 0 - 100 % tar 71 minuter, medan ett vanligare scenario på 10-80 % tar 39 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 21 minuter och 15 sekunder.
+Maximal DC-laddningshastighet är 230 kW. En full laddning från 0 - 100 % tar 55 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 18 minuter och 7 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 47 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 45%, med en total laddningstid på 87 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 30 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 45%, med en total laddningstid på 71 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 10 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 17 minuter med en hemmaladdare.
 
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+
+### Bidirektionell laddning
+
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 3,3 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -74,7 +78,7 @@ Den maximala regenerativa effekten är 200 kW.
 
 ## Exteriör
 
-BYD Sealion 7 Excellence, med dimensioner på 4830 mm i längd, 1875 mm i bredd och 1620 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. BYD Sealion 7 Excellence finns i totalt 6 enfärgade lackfärger.
+BYD Sealion 7 Excellence, med dimensioner på 4830 mm i längd, 1875 mm i bredd och 1620 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. BYD Sealion 7 Excellence finns i totalt 4 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Sealion 7 Excellence, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -92,7 +96,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i BYD Sealion 7 Excellence är funktionell och har material av hög kvalitet i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som skiljer föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet.
+Interiören i BYD Sealion 7 Excellence är funktionell och har material av hög kvalitet i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som skiljer föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -112,7 +116,10 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
+- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 
@@ -123,6 +130,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment)
 - höjdjusterbart nackstöd
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
+{{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/secondrowseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="2001"  >}}
 
 ## Klimatsystem
 
@@ -238,9 +247,9 @@ BYD Sealion 7 Excellence är utrustad med avancerade säkerhetsfunktioner för a
 
 Bagageutrymmet erbjuder en lastkapacitet på 520 liter. Med baksätena nedfällda ökar detta till 1789 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 58 liter.
 
-Fordonets maximala vikt är 2631 kg, med en grundvikt på 2185 kg. Detta tillåter en maximal last på 446 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 446 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 2631 kg, med en grundvikt på 2360 kg. Detta tillåter en maximal last på 271 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 271 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/trunk_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1877"  >}}
 

@@ -30,21 +30,25 @@ The BYD Sealion 7 Excellence delivers a solid performance with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 91.3 kWh and a net usable capacity of 90.0 kWh, providing a 1.3 kWh buffer (1.4%) for battery protection. Operating at a nominal voltage of 569 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
+The high-capacity battery has a gross capacity of 93.0 kWh and a net usable capacity of 91.3 kWh, providing a 1.7 kWh buffer (1.8%) for battery protection. Operating at a nominal voltage of 569 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 502 km (312 miles), with an energy consumption rate of 17.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 502 km (312 miles), with an energy consumption rate of 18.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 230 kW. Charging from 0% to 100% takes approximately 71 minutes, while a more typical scenario from 10% to 80% takes 39 minutes with an average charging speed of 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 21 minutes and 15 seconds.
+The vehicle supports fast DC charging with a maximum power of 230 kW. Charging from 0% to 100% takes approximately 55 minutes, while a more typical scenario from 10% to 80% takes 30 minutes with an average charging speed of 126 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 45%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 18 minutes and 7 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23.5 kWh/100 km, the trip would take approximately 9 hours and 47 minutes. This journey would require four charging stops from 4% to 45%, with a total charging time of 87 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23.5 kWh/100 km, the trip would take approximately 9 hours and 30 minutes. This journey would require four charging stops from 5% to 45%, with a total charging time of 71 minutes.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 17 minutes using a home charging setup.
 
 ### Charge Port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.3 kW of power, including the ability to charge other vehicles.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -74,7 +78,7 @@ The maximum regenerative power is 200 kW.
 
 ## Exterior
 
-The BYD Sealion 7 Excellence, with dimensions of 4830 mm in length, 1875 mm in width, and 1620 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The BYD Sealion 7 Excellence is available in a total of 6 solid paint colors.
+The BYD Sealion 7 Excellence, with dimensions of 4830 mm in length, 1875 mm in width, and 1620 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The BYD Sealion 7 Excellence is available in a total of 4 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Sealion 7 Excellence, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -92,7 +96,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the BYD Sealion 7 Excellence is functional, featuring high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The interior of the BYD Sealion 7 Excellence is functional, featuring high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -114,6 +118,9 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 
 #### Second Row Seat
@@ -123,6 +130,8 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment)
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
+{{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/secondrowseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="2001"  >}}
 
 ## Climate System
 
@@ -238,9 +247,9 @@ The BYD Sealion 7 Excellence is equipped with advanced security features to prot
 
 The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1789 liters (63.2 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 58 liters (2.0 CU FT).
 
-The vehicle’s maximum weight is 2631 kg (5800 lbs), with a base weight of 2185 kg (4817 lbs). This allows for a maximum load of 446 kg (983 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 446kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 2631 kg (5800 lbs), with a base weight of 2360 kg (5203 lbs). This allows for a maximum load of 271 kg (597 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 271kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/trunk_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1877"  >}}
 

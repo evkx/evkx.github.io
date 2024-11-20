@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mini Cooper SE 54 kWh 1000 km challenge</h3>
+<p>Bjørn Nyland: 20.11.2024</p>
+
+{{< youtube 8GOy8BfwZJU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mini Cooper SE 54 kWh charging test vs Tesla, VW and Stellantis</h3>
 <p>Bjørn Nyland: 17.11.2024</p>
 

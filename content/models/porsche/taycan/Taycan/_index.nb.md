@@ -68,19 +68,39 @@ Porsche Taycan har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
 ### Hjuloppheng
 
-Du kan bestille Porsche Taycan med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 127 mm.
+Du kan bestille Porsche Taycan med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 126 mm.
+
+Du kan bestille Porsche Taycan med en alternativ Porsche Active Ride hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 128 mm.
+
+Den aktive fjæringen holder bilens karosseri nesten horisontalt under dynamisk bremsing, styring og akselerasjon, og forbedrer presis styrerespons og førerkontroll.
+
+Vanligvis lener biler seg utover i svinger. Men den aktive svingdynamikken kan motvirke denne kreningen, eller til og med overkompensere, slik at bilen lener seg inn i svingen som en motorsykkel.
+
+Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
 
 ### Styring
 
 Dynamisk styring er en standard-funksjonen på Porsche Taycan. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en valgfri-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
+### Kjøremoduser
+
+Porsche Taycan lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
+
+- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Normal: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Sport Plus: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Individual: Egendefinert styring, fjæring og gassrespons.
+
 ### Bremser
 
-Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene second bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm.
+Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene standard bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm. Bremsene for standard-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 410mm.
 
 ### Regenerativ bremsing
 
-Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**.
+Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**. Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
+
+Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
 
 Den maksimale regenerative effekten er 265 kW.
 
@@ -102,11 +122,15 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](.
 
 Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.
 
+I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
+
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+Porsche Taycan har et førerfokusert interiør med en luksuriøs følelse, ved bruk av materialer av høy kvalitet overalt. Den tradisjonelle midtkonsollen skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -120,23 +144,63 @@ Følgende funksjoner er tilgjengelige på **Comfort** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 13 forskjellige materialer/farger for denne setetypen.
+
+- Gray [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 13 forskjellige materialer/farger for denne setetypen.
+
+- Gray [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -144,9 +208,25 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 16 forskjellige materialer/farger for denne setetypen.
+
+- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black/Red [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/skinnimitasjon/stoff trekk](../../../../technology/seats/materials/#microfiber)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red/Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige/Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
@@ -156,9 +236,14 @@ Du kan velge to setetyper for den andre raden i Porsche Taycan.
 
 Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende funksjoner tilgjengelige.
 
+- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
+
+- høydejusterbar hodestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
@@ -168,15 +253,21 @@ Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
 
 Porsche Taycan inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
+- **Elektrisk justerbart ratt**
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
+- **Trådløs lading av telefon**
+
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
 
 Porsche Taycan har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
 
@@ -193,19 +284,34 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 ### Ratt
 
-Porsche Taycan er utstyrt med en enkelt type ratt:
+Du kan velge mellom flere forskjellige ratt.
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt:** Dette rattet inkluderer fysiske knapper, rullehjul og girskiftere, som gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksanger og administrere andre viktige funksjoner.
+- **Sirkulært Ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også fysiske knapper, rullehjul og girskiftere, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet.
+- **Sirkulært Ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også fysiske knapper, rullehjul og girskiftere, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet.
+- **Sirkulært Ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også fysiske knapper, rullehjul og girskiftere, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet.
 
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+
 ## Infotainment
+
+Porsche Taycan har Porsche Communication Management (PCM) infotainmentsystemet, designet for å gi en sømløs og intuitiv brukeropplevelse. PCM-systemet integrerer ulike funksjoner, inkludert navigasjon, media, kommunikasjon og kjøretøyinnstillinger, i et sentralt grensesnitt for enkel tilgang. Systemet er utstyrt med en høyoppløselig berøringsskjerm som gir rask og praktisk kontroll over kjøretøyets funksjoner. I tillegg støtter PCM-systemet smarttelefonintegrasjon, talekontroll og over-the-air oppdateringer for å sikre at de nyeste programvareforbedringene og funksjonene alltid er tilgjengelige for føreren.
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon og satellittkart som sikrer en effektiv og stressfri reise.
+
+### Forhåndsinstallerte Apper
+
+Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et utvalg av forhåndsinstallerte tredjepartsapper som kjører direkte på bilens skjerm, uavhengig av en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- **Apple Music**
+- **Tidal**
 
 ### Telefonspeiling
 
@@ -219,12 +325,28 @@ Du kan velge mellom tre lydsystemer på Porsche Taycan.
 - Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
 
+Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
+## Mobilapp
+
+Porsche Taycan kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Porsche Taycan.
 
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
+- **LED Matrix Frontlykter:** Tilgjengelig som en oppgradering, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan aktivere eller deaktivere individuelt. Dette optimaliserer belysningen ved selektivt å dempe spesifikke områder for å unngå å blende møtende trafikk. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -256,11 +378,13 @@ Porsche Taycan inkluderer flere [avanserte førerassistanse systemer](../../../.
 
 [**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Porsche Taycan, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Valgfri på Porsche Taycan, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+
 ### Kjøreautomatisering
 
 Porsche Taycan tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Adaptive Cruise Control nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
@@ -269,17 +393,36 @@ Med det valgfrie Porsche InnoDrive nivå 2-systemet får du ekstra kjøreautomat
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
+## Sikkerhet
+
+Porsche Taycan er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- Kne-kollisjonsputer for fører og forsetepassasjer
+- Sidekollisjonsputer for passasjerene i andre rad
+
+I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
+
 ## Sikkerhets- og tilgangsteknologier
 
 Porsche Taycan er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
+- **Integrert dashbordkamera:** Det valgfrie innebygde dashbordkameraet tar opp videoopptak av dine reiser, og fanger opp viktige detaljer for å gi økt sikkerhet, ansvarlighet og trygghet.
+- **Parkeringsovervåking:** Ved hjelp av sitt kamerasystem overvåker kjøretøyet aktivt omgivelsene mens det er parkert, og gir økt beskyttelse gjennom kontinuerlig overvåking.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 407 liter. På taket kan du laste opptil 75 kg.
+Bagasjerommet tilbyr en lastekapasitet på 407 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 84 liter.
 
 Kjøretøyets maksimale vekt er 2795 kg, med en basisvekt på 2075 kg. Dette gir en maksimal lastekapasitet på 720 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
@@ -289,5 +432,20 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
+Porsche Taycan hadde sin verdenspremiere den 07.02.2024, med leveranser som startet i June 2024.
+
+### Priser
+
+Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+
+- 1 092 511,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Porsche Taycan som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Lucid Air Pure](/models/lucid/air/air_pure/)
+
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

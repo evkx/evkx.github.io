@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av Audi Rs e-tron GT Performance: Når musklene ikke skjuler rynkene</h3>
+<p>Norsk elbilforening: 20.11.2024</p>
+
+{{< youtube ZSvVBwIfHlc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Audi RS E-Tron GT PERFORMANCE: 925HP Taycan Beater?</h3>
 <p>AutoTrader: 17.09.2024</p>
 

@@ -68,19 +68,39 @@ Porsche Taycan dispose d'un système de propulsion arrière pris en charge par u
 
 ### Suspension
 
-Vous pouvez commander Porsche Taycan avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 127 mm.
+Vous pouvez commander Porsche Taycan avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 126 mm.
+
+Vous pouvez commander Porsche Taycan avec une suspension alternative Porsche Active Ride. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 128 mm.
+
+La suspension active maintient la carrosserie de la voiture presque horizontale lors du freinage dynamique, de la direction et de l'accélération, améliorant ainsi la réponse précise de la direction et le contrôle du conducteur.
+
+Normalement, les voitures s'inclinent vers l'extérieur dans les virages. Cependant, la dynamique de virage active peut contrer cette inclinaison ou même la surcompenser, faisant en sorte que la voiture s'incline dans les virages comme une moto.
+
+La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
 ### Pilotage
 
 La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un facultatif. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
+### Modes de conduite
+
+Le Porsche Taycan permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
+
+- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Normal : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Sport Plus : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+
 ### Freins
 
-Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
+Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option standard utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option standard utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
 
 ### Freinage régénératif
 
-Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+
+Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
 
 La puissance régénérative maximale est de 265 kW.
 
@@ -102,11 +122,15 @@ La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayo
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
+
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
+
+Le Porsche Taycan dispose d'un intérieur axé sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -120,23 +144,63 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de siège.
+
+- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de siège.
+
+- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
@@ -144,9 +208,25 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 16 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black/Red [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
@@ -156,9 +236,14 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Pors
 
 L'option standard consiste en deux sièges intégrés dans la deuxième rangée. De plus, les fonctionnalités suivantes sont disponibles.
 
+- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
+
+- appui-tête réglable en hauteur
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
@@ -168,15 +253,21 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
-Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
 L'Porsche Taycan comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
+- **Volant réglable électriquement**
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
+- **Recharge sans fil pour téléphone**
+
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
 
 Le Porsche Taycan possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
 
@@ -193,19 +284,34 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ### Volant
 
-Le Porsche Taycan est équipé d'un seul type de volant :
+Vous pouvez choisir parmi plusieurs volants.
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire:** Ce volant comprend des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
+- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
 
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+
 ## Infodivertissement
+
+Le Porsche Taycan est équipé du système d'infodivertissement Porsche Communication Management (PCM), conçu pour offrir une expérience utilisateur fluide et intuitive. Le système PCM intègre diverses fonctions, notamment la navigation, les médias, la communication et les réglages du véhicule, dans une interface centrale pour un accès facile. Le système est équipé d'un écran tactile haute résolution qui permet un contrôle rapide et pratique des fonctionnalités du véhicule. De plus, le système PCM prend en charge l'intégration des smartphones, le contrôle vocal et les mises à jour par liaison radio pour garantir que les dernières améliorations et fonctionnalités logicielles sont toujours disponibles pour le conducteur.
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel et des cartes satellites garantissant un voyage efficace et sans stress.
+
+### Applications Préinstallées
+
+Bien que le système d'infodivertissement ne comprenne pas de boutique d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **Apple Music**
+- **Tidal**
 
 ### Réplication du téléphone
 
@@ -219,12 +325,28 @@ Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan.
 - Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts.
 - Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
 
+Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
+## Application mobile
+
+Le Porsche Taycan est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+- **Historique de conduite** : Consultez les détails de vos trajets précédents.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Porsche Taycan.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
+- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
@@ -256,11 +378,13 @@ Le Porsche Taycan comprend plusieurs [systèmes avancés d'assistance au conduct
 
 [**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Porsche Taycan, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Facultatif sur le Porsche Taycan, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+
 ### Automatisation de la Conduite
 
 Porsche Taycan offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Adaptive Cruise Control de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
@@ -269,17 +393,36 @@ Avec le système optionnel Porsche InnoDrive de niveau 2, vous obtenez des fonct
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Porsche Taycan est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Airbags pour les genoux du conducteur et du passager avant
+- Airbags latéraux pour les passagers de la deuxième rangée
+
+De plus, les ceintures de sécurité des première et deuxième rangées sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
+
 ## Technologies de sécurité et d'accès
 
 Le Porsche Taycan est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 - **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Caméra de bord intégrée :** La caméra de bord intégrée en option enregistre des séquences vidéo de vos trajets, capturant des détails clés pour offrir une sécurité accrue, une responsabilité et une tranquillité d'esprit.
+- **Surveillance de stationnement :** Grâce à sa suite de caméras, le véhicule surveille activement les environs lorsqu'il est stationné, offrant une protection accrue grâce à une surveillance continue.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 407 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
+Le coffre offre une capacité de chargement de 407 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 84 litres.
 
 Le poids maximum du véhicule est de 2795 kg, avec un poids de base de 2075 kg. Cela permet une charge maximale de 720 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
@@ -289,5 +432,20 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 ## Disponibilité et prix
 
+Ce modèle a été présenté en première mondiale le 07.02.2024 et les livraisons ont commencé en June 2024.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- 1 092 511,00 NOK (Norvège)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Porsche Taycan qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Lucid Air Pure](/models/lucid/air/air_pure/)
+
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Plage" >}}
