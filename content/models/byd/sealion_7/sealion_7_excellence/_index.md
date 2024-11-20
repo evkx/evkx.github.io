@@ -245,7 +245,7 @@ The BYD Sealion 7 Excellence is equipped with advanced security features to prot
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1789 liters (63.2 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 58 liters (2.0 CU FT).
+The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1789 liters (63.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 58 liters (2.0 CU FT).
 
 The vehicle’s maximum weight is 2631 kg (5800 lbs), with a base weight of 2360 kg (5203 lbs). This allows for a maximum load of 271 kg (597 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 271kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
@@ -262,14 +262,17 @@ The BYD Sealion 7 Excellence had its world premiere on 14.10.2024, with deliveri
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
 - €58 999,00 (Germany)
+- 469 900,00 NOK (Norway)
 
 ## Alternative Models
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the BYD Sealion 7 Excellence that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
 - [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 
-<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c0cb6ee%2c4899e9%2cad3cd5" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Range" >}}

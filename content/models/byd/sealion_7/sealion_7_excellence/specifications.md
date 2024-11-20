@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
-				0 kg (0 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>

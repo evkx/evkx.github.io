@@ -245,7 +245,7 @@ El BYD Sealion 7 Excellence está equipado con características de seguridad ava
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 520 litros. Con el asiento trasero plegado, esto se expande a 1789 litros. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 58 litros.
+El maletero ofrece una capacidad de carga de 520 litros. Con el asiento trasero plegado, esto se expande a 1789 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 58 litros.
 
 El peso máximo del vehículo es 2631 kg, con un peso base de 2360 kg. Esto permite una carga máxima de 271 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 271 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
@@ -262,14 +262,17 @@ Este modelo tuvo un estreno mundial el 14.10.2024 y las entregas comenzaron en D
 Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
 
 - ?58 999,00 (Alemania)
+- 469 900,00 NOK (Noruega)
 
 ## Modelos Alternativos
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al BYD Sealion 7 Excellence que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
 
 - [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 
-<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Explora una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c0cb6ee%2c4899e9%2cad3cd5" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Rango" >}}

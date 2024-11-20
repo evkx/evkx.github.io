@@ -245,7 +245,7 @@ Der BYD Sealion 7 Excellence ist mit fortschrittlichen Sicherheitsfunktionen aus
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1789 Liter (63,2 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 58 Litern (2,0 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1789 Liter (63,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 58 Litern (2,0 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2631 kg (5800 lbs) bei einem Leergewicht von 2360 kg (5203 lbs). Dies ermöglicht eine maximale Zuladung von 271 kg (597 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 271 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
@@ -262,14 +262,17 @@ Der BYD Sealion 7 Excellence feierte seine Weltpremiere am 14.10.2024, mit Liefe
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
 - €58 999,00 (Deutschland)
+- 469 900,00 NOK (Norwegen)
 
 ## Alternative Modelle
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum BYD Sealion 7 Excellence identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
 - [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 
-<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c0cb6ee%2c4899e9%2cad3cd5" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Reichweite" >}}

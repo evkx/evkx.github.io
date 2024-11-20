@@ -245,7 +245,7 @@ BYD Sealion 7 Excellence är utrustad med avancerade säkerhetsfunktioner för a
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 520 liter. Med baksätena nedfällda ökar detta till 1789 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 58 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 520 liter. Med baksätena nedfällda ökar detta till 1789 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 58 liter.
 
 Fordonets maximala vikt är 2631 kg, med en grundvikt på 2360 kg. Detta tillåter en maximal last på 271 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 271 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
@@ -262,14 +262,17 @@ Denna modell hade världspremiär 14.10.2024 och leveranserna startade i Decembe
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
 
 - ?58 999,00 (Tyskland)
+- 469 900,00 NOK (Norge)
 
 ## Alternativa Modeller
 
 På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till BYD Sealion 7 Excellence som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
 
 - [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 
-<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c66830b" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=10e2c5%2c1ee65f%2c0cb6ee%2c4899e9%2cad3cd5" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Sealion 7" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

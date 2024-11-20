@@ -363,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Dachlast
 			</td>
 			<td>
-				0 kg (0 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>

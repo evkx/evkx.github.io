@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten taklast
 			</td>
 			<td>
-				0 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>

@@ -363,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				0 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>
