@@ -111,10 +111,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
@@ -247,7 +250,7 @@ Le BYD Sealion 7 Excellence est équipé de fonctionnalités de sécurité avanc
 
 Le coffre offre une capacité de chargement de 520 litres. Avec les sièges arrière rabattus, cette capacité passe à 1789 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 58 litres.
 
-Le poids maximum du véhicule est de 2631 kg, avec un poids de base de 2360 kg. Cela permet une charge maximale de 271 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 271 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+Le poids maximum du véhicule est de 2845 kg, avec un poids de base de 2450 kg. Cela permet une charge maximale de 395 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 395 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 

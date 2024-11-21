@@ -111,10 +111,13 @@ The following functionalities are available on the **standard** seat:
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
 
@@ -247,7 +250,7 @@ The BYD Sealion 7 Excellence is equipped with advanced security features to prot
 
 The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1789 liters (63.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 58 liters (2.0 CU FT).
 
-The vehicle’s maximum weight is 2631 kg (5800 lbs), with a base weight of 2360 kg (5203 lbs). This allows for a maximum load of 271 kg (597 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 271kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 2845 kg (6272 lbs), with a base weight of 2450 kg (5401 lbs). This allows for a maximum load of 395 kg (871 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 395kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

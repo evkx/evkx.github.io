@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance courbe de charge et performances
+title: Hyundai IONIQ 9 AWD Performance courbe de charge et performances
 linktitle: "Courbe de charge"
-description: "Ci-dessous se trouve la courbe de charge pour Hyundai Ioniq 9 AWD Performance, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
+description: "Ci-dessous se trouve la courbe de charge pour Hyundai IONIQ 9 AWD Performance, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
 
 
-Hyundai Ioniq 9 AWD Performance dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Hyundai IONIQ 9 AWD Performance dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}

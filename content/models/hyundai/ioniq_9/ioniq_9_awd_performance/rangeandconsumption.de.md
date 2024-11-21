@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance Reichweite & Verbrauch
+title: Hyundai IONIQ 9 AWD Performance Reichweite & Verbrauch
 linktitle: "Reichweite"
-description: "Hier finden Sie alle Details zur Reichweite und zum Verbrauch für Hyundai Ioniq 9 AWD Performance."
+description: "Hier finden Sie alle Details zur Reichweite und zum Verbrauch für Hyundai IONIQ 9 AWD Performance."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -246,7 +246,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 </div>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Ioniq 9 AWD Performance </strong>
+<strong><i class="bi-arrow-left"></i> Hyundai IONIQ 9 AWD Performance </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
 <strong>Ladekurve <i class="bi-arrow-right"></i></strong>

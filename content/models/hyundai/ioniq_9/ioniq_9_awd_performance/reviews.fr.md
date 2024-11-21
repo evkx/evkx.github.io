@@ -1,5 +1,5 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance avis
+title: Hyundai IONIQ 9 AWD Performance avis
 linktitle: "Avis"
 description: "EVKX.net vous aide à trouver le meilleur avis pour ce modèle."
 weight: 6
@@ -181,6 +181,6 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 <strong><i class="bi-arrow-left"></i>Galerie  </strong>
 </a>
 <a href="../" class="text-decoration-none text-black float-end">
-<strong>Hyundai Ioniq 9 AWD Performance <i class="bi-arrow-right"></i></strong>
+<strong>Hyundai IONIQ 9 AWD Performance <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

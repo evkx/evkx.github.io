@@ -56,6 +56,8 @@ The Kia EV9 RWD has a rear-wheel drive system supported by one motor on the rear
 
 ### Brakes
 
+The Kia EV9 RWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 360 mm, while the rear discs are 340 mm.
+
 ### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.

@@ -1,15 +1,15 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance Specifikationer
+title: Hyundai IONIQ 9 AWD Performance Specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net ger dig alla specifikationer för Hyundai Ioniq 9 AWD Performance."
+description: "EVKX.net ger dig alla specifikationer för Hyundai IONIQ 9 AWD Performance."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1687" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Hyundai Ioniq 9 AWD Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hyundai Ioniq 9 AWD Performance, gå till [chargeinfo](../chargecurve/) för Hyundai Ioniq 9 AWD Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="1687" >}}
+EVKX.net vill ha de mest kompletta specifikationerna för Hyundai IONIQ 9 AWD Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hyundai IONIQ 9 AWD Performance, gå till [chargeinfo](../chargecurve/) för Hyundai IONIQ 9 AWD Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -265,7 +265,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Nordamerika
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +770,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +826,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

@@ -1,15 +1,15 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance especificaciones
+title: Hyundai IONIQ 9 AWD Performance especificaciones
 linktitle: "Especificaciones"
-description: "EVKX.net le brinda las especificaciones completas para Hyundai Ioniq 9 AWD Performance."
+description: "EVKX.net le brinda las especificaciones completas para Hyundai IONIQ 9 AWD Performance."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1687" >}}
-EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 9 AWD Performance. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai Ioniq 9 AWD Performance, visite [chargeinfo](../chargecurve/) para Hyundai Ioniq 9 AWD Performance con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="1687" >}}
+EVKX.net busca tener las especificaciones más completas para Hyundai IONIQ 9 AWD Performance. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai IONIQ 9 AWD Performance, visite [chargeinfo](../chargecurve/) para Hyundai IONIQ 9 AWD Performance con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -265,7 +265,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Escriba puerto de carga Norteamérica
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +770,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +826,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>

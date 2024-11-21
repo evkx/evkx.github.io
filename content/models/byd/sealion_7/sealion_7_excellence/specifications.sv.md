@@ -339,7 +339,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2360 kg
+				2450 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2631 kg
+				2845 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				271 kg
+				395 kg
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2360 kg
+				2450 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2631 kg
+				2845 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				271 kg
+				395 kg
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Non disponible
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance rækkevidde og forbrug
+title: Hyundai IONIQ 9 AWD Performance rækkevidde og forbrug
 linktitle: "Range"
-description: "Her finder du alle detaljer om rækkevidde og forbrug for Hyundai Ioniq 9 AWD Performance."
+description: "Her finder du alle detaljer om rækkevidde og forbrug for Hyundai IONIQ 9 AWD Performance."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -246,7 +246,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 </div>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Ioniq 9 AWD Performance </strong>
+<strong><i class="bi-arrow-left"></i> Hyundai IONIQ 9 AWD Performance </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
 <strong>Opladningskurve <i class="bi-arrow-right"></i></strong>

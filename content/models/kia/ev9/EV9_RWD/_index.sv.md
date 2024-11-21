@@ -56,6 +56,8 @@ Kia EV9 RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Mo
 
 ### Bromsar
 
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 360mm och de bakre skivorna är 340mm.
+
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.

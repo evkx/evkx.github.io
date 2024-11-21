@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2360 kg
+				2450 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2631 kg
+				2845 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				271 kg
+				395 kg
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

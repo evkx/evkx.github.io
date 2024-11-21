@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2360 kg (5203 lbs)
+				2450 kg (5401 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2631 kg (5800 lbs)
+				2845 kg (6272 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				271 kg (597 lbs)
+				395 kg (871 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

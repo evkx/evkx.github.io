@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2360 kg
+				2450 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2631 kg
+				2845 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				271 kg
+				395 kg
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				No disponible
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

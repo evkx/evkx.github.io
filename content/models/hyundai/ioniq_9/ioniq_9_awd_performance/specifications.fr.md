@@ -1,15 +1,15 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance spécifications
+title: Hyundai IONIQ 9 AWD Performance spécifications
 linktitle: "Spécifications"
-description: "EVKX.net vous donne les spécifications complètes de Hyundai Ioniq 9 AWD Performance."
+description: "EVKX.net vous donne les spécifications complètes de Hyundai IONIQ 9 AWD Performance."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1687" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai Ioniq 9 AWD Performance. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Hyundai Ioniq 9 AWD Performance, visitez les [chargeinfo](../chargecurve/) pour Hyundai Ioniq 9 AWD Performance avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="1687" >}}
+EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai IONIQ 9 AWD Performance. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Hyundai IONIQ 9 AWD Performance, visitez les [chargeinfo](../chargecurve/) pour Hyundai IONIQ 9 AWD Performance avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -265,7 +265,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tapez le port de charge Amérique du Nord
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +770,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +826,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

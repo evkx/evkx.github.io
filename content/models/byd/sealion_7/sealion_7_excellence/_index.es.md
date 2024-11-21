@@ -111,10 +111,13 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajustable eléctricamente)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
@@ -247,7 +250,7 @@ El BYD Sealion 7 Excellence está equipado con características de seguridad ava
 
 El maletero ofrece una capacidad de carga de 520 litros. Con el asiento trasero plegado, esto se expande a 1789 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 58 litros.
 
-El peso máximo del vehículo es 2631 kg, con un peso base de 2360 kg. Esto permite una carga máxima de 271 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 271 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+El peso máximo del vehículo es 2845 kg, con un peso base de 2450 kg. Esto permite una carga máxima de 395 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 395 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
 

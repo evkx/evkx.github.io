@@ -111,10 +111,13 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
 
@@ -247,7 +250,7 @@ Der BYD Sealion 7 Excellence ist mit fortschrittlichen Sicherheitsfunktionen aus
 
 Der Kofferraum bietet ein Ladevolumen von 520 Litern (18,4 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1789 Liter (63,2 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 58 Litern (2,0 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 2631 kg (5800 lbs) bei einem Leergewicht von 2360 kg (5203 lbs). Dies ermöglicht eine maximale Zuladung von 271 kg (597 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 271 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
+Das maximale Gewicht des Fahrzeugs beträgt 2845 kg (6272 lbs) bei einem Leergewicht von 2450 kg (5401 lbs). Dies ermöglicht eine maximale Zuladung von 395 kg (871 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 395 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1500 kg (3307 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

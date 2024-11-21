@@ -1,15 +1,15 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance Spezifikationen
+title: Hyundai IONIQ 9 AWD Performance Spezifikationen
 linktitle: "Spezifikationen"
-description: "EVKX.net bietet Ihnen die vollständigen Spezifikationen für Hyundai Ioniq 9 AWD Performance."
+description: "EVKX.net bietet Ihnen die vollständigen Spezifikationen für Hyundai IONIQ 9 AWD Performance."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1687" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Hyundai Ioniq 9 AWD Performance zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Hyundai Ioniq 9 AWD Performance, besuchen Sie die [Ladeinformationen](../chargecurve/) für Hyundai Ioniq 9 AWD Performance mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="1687" >}}
+EVKX.net strebt an, die vollständigsten Spezifikationen für Hyundai IONIQ 9 AWD Performance zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Hyundai IONIQ 9 AWD Performance, besuchen Sie die [Ladeinformationen](../chargecurve/) für Hyundai IONIQ 9 AWD Performance mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -265,7 +265,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschluss Typ Nordamerika
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +770,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +826,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>

@@ -56,6 +56,8 @@ Kia EV9 GT-Line AWD dispose d'un système de transmission intégrale pris en cha
 
 ### Freins
 
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 340 mm.
+
 ### Freinage régénératif
 
 [Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Le système arrête complètement la voiture en utilisant les freins à friction.

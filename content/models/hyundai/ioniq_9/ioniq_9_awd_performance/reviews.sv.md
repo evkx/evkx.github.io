@@ -1,5 +1,5 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance recensioner
+title: Hyundai IONIQ 9 AWD Performance recensioner
 linktitle: "Tester"
 description: "EVKX.net hjälper dig hitta de bästa testerna och recensionerna av denna modell."
 weight: 6
@@ -181,6 +181,6 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>
 </a>
 <a href="../" class="text-decoration-none text-black float-end">
-<strong>Hyundai Ioniq 9 AWD Performance <i class="bi-arrow-right"></i></strong>
+<strong>Hyundai IONIQ 9 AWD Performance <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

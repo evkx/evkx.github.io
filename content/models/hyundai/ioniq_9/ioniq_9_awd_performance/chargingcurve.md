@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance charging curve & performance
+title: Hyundai IONIQ 9 AWD Performance charging curve & performance
 linktitle: "Charging curve"
-description: "Below is the charging curve for Hyundai Ioniq 9 AWD Performance, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
+description: "Below is the charging curve for Hyundai IONIQ 9 AWD Performance, illustrating the charging speed at various battery levels. Additionally, graphs for range and time provide comprehensive details on charging performance."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
 
 
-Hyundai Ioniq 9 AWD Performance have battery heating, making charging at an optimum battery temperature easier.
+Hyundai IONIQ 9 AWD Performance have battery heating, making charging at an optimum battery temperature easier.
 
 
 {{<evkxdisplayaddarticle />}}

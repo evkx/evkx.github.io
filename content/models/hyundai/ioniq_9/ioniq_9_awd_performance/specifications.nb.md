@@ -1,15 +1,15 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance spesifikasjoner
+title: Hyundai IONIQ 9 AWD Performance spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Hyundai Ioniq 9 AWD Performance."
+description: "EVKX.net gir deg alle spesifikasjonene for Hyundai IONIQ 9 AWD Performance."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1687" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 9 AWD Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai Ioniq 9 AWD Performance, gå til [chargeinfo](../chargecurve/) for Hyundai Ioniq 9 AWD Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="1687" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai IONIQ 9 AWD Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai IONIQ 9 AWD Performance, gå til [chargeinfo](../chargecurve/) for Hyundai IONIQ 9 AWD Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -265,7 +265,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type ladeport Nord-Amerika
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +770,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +826,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

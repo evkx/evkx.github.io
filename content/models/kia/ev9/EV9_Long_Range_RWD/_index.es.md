@@ -56,6 +56,8 @@ Kia EV9 Long Range RWD tiene un sistema de tracción trasera sostenido por un mo
 
 ### Frenos
 
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 340 mm.
+
 ### Frenado regenerativo
 
 [La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.

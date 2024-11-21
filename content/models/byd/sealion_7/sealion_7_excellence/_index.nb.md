@@ -111,10 +111,13 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
@@ -247,7 +250,7 @@ BYD Sealion 7 Excellence er utstyrt med avanserte sikkerhetsfunksjoner for å be
 
 Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1789 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 58 liter.
 
-Kjøretøyets maksimale vekt er 2631 kg, med en basisvekt på 2360 kg. Dette gir en maksimal lastekapasitet på 271 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 271 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 2845 kg, med en basisvekt på 2450 kg. Dette gir en maksimal lastekapasitet på 395 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 395 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
 

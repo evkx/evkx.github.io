@@ -1,15 +1,15 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance specifications
+title: Hyundai IONIQ 9 AWD Performance specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Hyundai Ioniq 9 AWD Performance."
+description: "EVKX.net gives you the full specifications for Hyundai IONIQ 9 AWD Performance."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1687" >}}
-EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 9 AWD Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 9 AWD Performance, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 9 AWD Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="1687" >}}
+EVKX.net seeks to have the most complete specifications for Hyundai IONIQ 9 AWD Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai IONIQ 9 AWD Performance, visit the [chargeinfo](../chargecurve/) for Hyundai IONIQ 9 AWD Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -265,7 +265,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport North America
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +770,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +826,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>

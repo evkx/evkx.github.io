@@ -111,10 +111,13 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
@@ -247,7 +250,7 @@ BYD Sealion 7 Excellence er udstyret med avancerede sikkerhedsfunktioner for at 
 
 Bagagerummet har en lastekapacitet på 520 liter. Med det bageste sæde foldet ned, udvides dette til 1789 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 58 liter.
 
-Køretøjets maksimale vægt er 2631 kg, med en basisvægt på 2360 kg. Dette giver en maksimal last på 271 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 271 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+Køretøjets maksimale vægt er 2845 kg, med en basisvægt på 2450 kg. Dette giver en maksimal last på 395 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 395 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
 

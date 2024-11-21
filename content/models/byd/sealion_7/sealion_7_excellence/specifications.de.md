@@ -339,7 +339,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2360 kg (5203 lbs)
+				2450 kg (5401 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2631 kg (5800 lbs)
+				2845 kg (6272 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				271 kg (597 lbs)
+				395 kg (871 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>

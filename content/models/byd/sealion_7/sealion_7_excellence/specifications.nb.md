@@ -339,7 +339,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2360 kg
+				2450 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2631 kg
+				2845 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				271 kg
+				395 kg
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

@@ -56,6 +56,8 @@ Kia EV9 Long Range AWD har et firehjulstræk, der understøttes af to motorer, e
 
 ### Bremser
 
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 340mm.
+
 ### Regenerativ bremsning
 
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Systemet stopper bilen helt ved brug af friktionsbremser.

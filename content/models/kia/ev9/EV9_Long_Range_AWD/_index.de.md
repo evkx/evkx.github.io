@@ -56,6 +56,8 @@ Der Kia EV9 Long Range AWD verfügt über ein Allradantriebssystem, das von zwei
 
 ### Bremsen
 
+Der Kia EV9 Long Range AWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 360 mm, während die hinteren Scheiben 340 mm groß sind.
+
 ### Rekuperatives Bremsen
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.

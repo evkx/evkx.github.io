@@ -111,10 +111,13 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -247,7 +250,7 @@ BYD Sealion 7 Excellence är utrustad med avancerade säkerhetsfunktioner för a
 
 Bagageutrymmet erbjuder en lastkapacitet på 520 liter. Med baksätena nedfällda ökar detta till 1789 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 58 liter.
 
-Fordonets maximala vikt är 2631 kg, med en grundvikt på 2360 kg. Detta tillåter en maximal last på 271 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 271 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 2845 kg, med en grundvikt på 2450 kg. Detta tillåter en maximal last på 395 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 395 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
 

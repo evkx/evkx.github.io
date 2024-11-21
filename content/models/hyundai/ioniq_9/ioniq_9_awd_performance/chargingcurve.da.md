@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 9 AWD Performance opladningskurve og ydeevne
+title: Hyundai IONIQ 9 AWD Performance opladningskurve og ydeevne
 linktitle: "Opladningskurve"
-description: "Nedan är laddningskurvan för Hyundai Ioniq 9 AWD Performance, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för Hyundai IONIQ 9 AWD Performance, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -223,7 +223,7 @@ navicon: bi-battery-charging
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Hyundai Ioniq 9 AWD Performance har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
+Hyundai IONIQ 9 AWD Performance har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
