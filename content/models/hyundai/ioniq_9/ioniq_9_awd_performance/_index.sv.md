@@ -68,7 +68,7 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Hyundai Ioniq 9 AWD Performance, med dimensioner på 5040 mm i längd, 1980 mm i bredd och 1755 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
+Hyundai Ioniq 9 AWD Performance, med dimensioner på 5060 mm i längd, 1980 mm i bredd och 1790 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai Ioniq 9 AWD Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 

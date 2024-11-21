@@ -68,7 +68,7 @@ Die maximale regenerative Leistung beträgt 150 kW.
 
 ## Exterieur
 
-Der Hyundai Ioniq 9 AWD Performance, mit Abmessungen von 5040 mm Länge, 1980 mm Breite und 1755 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Sie können zwischen 7 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Hyundai Ioniq 9 AWD Performance, mit Abmessungen von 5060 mm Länge, 1980 mm Breite und 1790 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Sie können zwischen 7 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
 
 Der Hyundai Ioniq 9 AWD Performance bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 

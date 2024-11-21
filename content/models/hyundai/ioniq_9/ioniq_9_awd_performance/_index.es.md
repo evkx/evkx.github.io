@@ -68,7 +68,7 @@ La potencia regenerativa máxima es de 150 kW.
 
 ## Exterior
 
-El Hyundai Ioniq 9 AWD Performance, con dimensiones de 5040 mm de longitud, 1980 mm de anchura y 1755 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Hyundai Ioniq 9 AWD Performance, con dimensiones de 5060 mm de longitud, 1980 mm de anchura y 1790 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Hyundai Ioniq 9 AWD Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
