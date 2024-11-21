@@ -222,7 +222,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				552
+				610
 			</td>
 		</tr>
 	</tbody>

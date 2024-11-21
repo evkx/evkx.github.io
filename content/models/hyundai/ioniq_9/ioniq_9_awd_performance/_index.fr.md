@@ -30,7 +30,7 @@ La Hyundai IONIQ 9 AWD Performance offre des performances solides avec une puiss
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 110,3 kWh et une capacité nette utilisable de 107,0 kWh, offrant une réserve de 3,3 kWh (3,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 552 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 110,3 kWh et une capacité nette utilisable de 107,0 kWh, offrant une réserve de 3,3 kWh (3,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 610 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 600 et 550 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 17,8 kWh/100 km pour le modèle de base et à 19,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -282,7 +282,8 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 - [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
 - [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
 - [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai IONIQ 9" f_url="rangeandconsumption/" f_title="Plage" >}}

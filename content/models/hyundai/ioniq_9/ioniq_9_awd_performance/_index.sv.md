@@ -30,7 +30,7 @@ Hyundai IONIQ 9 AWD Performance levererar en solid prestanda med en maximal effe
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 110,3 kWh och en nettoanvändbar kapacitet på 107,0 kWh, vilket ger en buffert på 3,3 kWh (3,0%) för batteriskydd. Vid en nominell spänning på 552 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 110,3 kWh och en nettoanvändbar kapacitet på 107,0 kWh, vilket ger en buffert på 3,3 kWh (3,0%) för batteriskydd. Vid en nominell spänning på 610 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 600 och 550 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,8 kWh/100 km för basmodellen och 19,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -282,7 +282,8 @@ På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera a
 - [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
 - [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
 - [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai IONIQ 9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -222,7 +222,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				552
+				610
 			</td>
 		</tr>
 	</tbody>

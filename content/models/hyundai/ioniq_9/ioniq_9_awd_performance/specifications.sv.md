@@ -222,7 +222,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				552
+				610
 			</td>
 		</tr>
 	</tbody>

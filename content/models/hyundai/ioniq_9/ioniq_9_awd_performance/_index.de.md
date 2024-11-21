@@ -30,7 +30,7 @@ Der Hyundai IONIQ 9 AWD Performance liefert eine solide Leistung mit einer maxim
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 110,3 kWh und eine nutzbare Nettokapazität von 107,0 kWh, was einen Puffer von 3,3 kWh (3,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 552 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 110,3 kWh und eine nutzbare Nettokapazität von 107,0 kWh, was einen Puffer von 3,3 kWh (3,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 610 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 600 und 550 km (373-342 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 17,8 kWh/100 km für das Basismodell und 19,5 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -282,7 +282,8 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Hyundai ION
 - [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
 - [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
 - [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Hyundai IONIQ 9" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -222,7 +222,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				552
+				610
 			</td>
 		</tr>
 	</tbody>

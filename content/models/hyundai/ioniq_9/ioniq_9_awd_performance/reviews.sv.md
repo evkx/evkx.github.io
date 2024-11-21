@@ -29,6 +29,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube ZNMuTYmRghk >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2026 Hyundai Ioniq9 SEL Is A Spacious &amp; Serene 3-Row EV For Modern Families</h3>
+<p>Redline Reviews: 21.11.2024</p>
+
+{{< youtube 4z4ehFWXiuI >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>

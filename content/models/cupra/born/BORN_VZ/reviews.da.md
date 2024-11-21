@@ -9,10 +9,10 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>The hot hatch of EVs! Cupra Born driving REVIEW </h3>
-<p>Autogefühl: 10.10.2021</p>
+<h3>Getting to know the Cupra Born VZ (79kWh) on a rainy cold trip</h3>
+<p>Battery Life: 21.11.2024</p>
 
-{{< youtube yrDUsCq1rzY >}}
+{{< youtube nTerEWlaN9U >}}
 
 </div>
 <div class="mt-3 mb-3">
