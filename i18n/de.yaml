@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-7f4e4d91
+  translation: Hyundai Ioniq 9 AWD Performance ist ein vollelektrisches SUV mit einer Reichweite von bis zu 600 km (373 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-0056b1ab
   translation: Porsche Taycan GTS Sport Turismo ist ein vollelektrischer Luxus-Kombi mit einer Reichweite von bis zu 601 km (374 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-fc827adb
   translation: XPENG Mona M03 Long Range ist eine vollelektrische Limousine mit einer Reichweite von bis zu 618 km (384 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-bff9fe3d
-  translation: Zeekr MIX Standard Range RWD ist ein vollelektrischer MPV mit einer Reichweite von bis zu 550 km (342 Meilen). EVKX.net hat alle Details.
 

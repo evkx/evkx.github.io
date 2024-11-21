@@ -119,7 +119,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Blue [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 

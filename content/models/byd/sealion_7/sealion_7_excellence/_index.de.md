@@ -119,7 +119,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 Verfügbar in:
 
 - Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Blue [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 

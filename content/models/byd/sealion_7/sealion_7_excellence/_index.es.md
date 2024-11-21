@@ -119,7 +119,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Blue [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 

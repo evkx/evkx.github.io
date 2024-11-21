@@ -119,7 +119,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Blue [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/frontseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1789"  >}}
 
