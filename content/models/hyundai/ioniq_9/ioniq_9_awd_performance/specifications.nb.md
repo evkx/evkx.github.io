@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 9 AWD
 				Maks effekt
 			</td>
 			<td>
-				283 KW (385 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				5010 mm
+				5040 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				3100 mm
+				3130 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,28
+				0,259
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				Spiralfjær
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -1349,13 +1365,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Antall høyttalere
 			</td>
 			<td>
-				6
+				8
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Meridian Premium Sound System
+### Bose Premium Sound System
 
 <table class="table table-striped border">
 	<thead>

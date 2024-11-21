@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 9 AW
 				Potencia máxima
 			</td>
 			<td>
-				283 KW (385 hp)
+				320 KW (435 hp)
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				5010 mm
+				5040 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				3100 mm
+				3130 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,28
+				0,259
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
 			</td>
 		</tr>
 	</tbody>
@@ -1349,13 +1365,13 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Número de altavoces
 			</td>
 			<td>
-				6
+				8
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Meridian Premium Sound System
+### Bose Premium Sound System
 
 <table class="table table-striped border">
 	<thead>

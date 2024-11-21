@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 9 AWD 
 				Peak power
 			</td>
 			<td>
-				283 KW (385 hp /380 bhp)
+				320 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5010 mm (197,2")
+				5040 mm (198,4")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3100 mm (122,0")
+				3130 mm (123,2")
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,28
+				0,259
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -1349,13 +1365,13 @@ This model is available with a seat configuration with six or seven seats.
 				Number of speakers
 			</td>
 			<td>
-				6
+				8
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Meridian Premium Sound System
+### Bose Premium Sound System
 
 <table class="table table-striped border">
 	<thead>

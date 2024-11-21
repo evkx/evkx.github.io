@@ -26,7 +26,7 @@ Nous avons séparé notre article Hyundai Ioniq 9 AWD Performance en sections. S
 
 ## Performances
 
-La Hyundai Ioniq 9 AWD Performance offre des performances solides avec une puissance maximale de 283 kW (385 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 5,2 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
+La Hyundai Ioniq 9 AWD Performance offre des performances solides avec une puissance maximale de 320 kW (435 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 5,2 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -42,6 +42,8 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 43 minutes à domicile.
 
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/charging_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1913"  >}}
+
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -54,6 +56,8 @@ Hyundai Ioniq 9 AWD Performance dispose d'un système de transmission intégrale
 
 ### Suspension
 
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques.
+
 ### Freins
 
 ### Freinage régénératif
@@ -64,7 +68,7 @@ La puissance régénérative maximale est de 150 kW.
 
 ## Extérieur
 
-La Hyundai Ioniq 9 AWD Performance, avec des dimensions de 5010 mm de longueur, 1980 mm de largeur et 1755 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Hyundai Ioniq 9 AWD Performance, avec des dimensions de 5040 mm de longueur, 1980 mm de largeur et 1755 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hyundai Ioniq 9 AWD Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -115,6 +119,8 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
+
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir trois types de sièges pour la deuxième rangée dans le Hyundai Ioniq 9 AWD Performance.
@@ -142,6 +148,8 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 #### Sièges de troisième rangée
 
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
+
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/thirdrowseats_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
 
 ## Système de climatisation
 
@@ -172,6 +180,8 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/screens_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
+
 ### Volant
 
 Le Hyundai Ioniq 9 AWD Performance est équipé d'un seul type de volant :
@@ -196,8 +206,8 @@ De plus, le Hyundai Ioniq 9 AWD Performance prend en charge Android Auto et Appl
 
 Vous pouvez choisir entre deux systèmes audio sur le Hyundai Ioniq 9 AWD Performance.
 
-- Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Standard, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Bose Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
 
 Le modèle dispose de 6 connexions USB-C en standard.
 
@@ -206,6 +216,8 @@ Le modèle dispose de 6 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/headlights_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 
@@ -251,4 +263,19 @@ Le coffre offre une capacité de chargement de 620 litres. Avec le siège de la 
 Le poids maximum du véhicule est de 3190 kg, avec un poids de base de 2637 kg. Cela permet une charge maximale de 553 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/trunk_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
+
+## Disponibilité et prix
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Hyundai Ioniq 9 AWD Performance qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+
+<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Hyundai Ioniq 9" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai I
 				Puissance de pointe
 			</td>
 			<td>
-				283 KW (385 ch)
+				320 KW (435 ch)
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5010 mm
+				5040 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3100 mm
+				3130 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,28
+				0,259
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
 			</td>
 		</tr>
 	</tbody>
@@ -1349,13 +1365,13 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Nombre de haut-parleurs
 			</td>
 			<td>
-				6
+				8
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Meridian Premium Sound System
+### Bose Premium Sound System
 
 <table class="table table-striped border">
 	<thead>

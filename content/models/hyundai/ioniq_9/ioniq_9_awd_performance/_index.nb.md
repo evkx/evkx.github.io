@@ -26,7 +26,7 @@ Vi har delt vår beskrivelse av Hyundai Ioniq 9 AWD Performance i seksjoner. Hvi
 
 ## Ytelse
 
-Hyundai Ioniq 9 AWD Performance leverer solid ytelse med en maksimal effekt på 283 kW (385 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 5,2 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Hyundai Ioniq 9 AWD Performance leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 5,2 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
@@ -42,6 +42,8 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 43 minutter med en hjemmelader.
 
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/charging_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="1913"  >}}
+
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -54,6 +56,8 @@ Hyundai Ioniq 9 AWD Performance har et firehjulsdriftssystem som støttes av to 
 
 ### Hjuloppheng
 
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
+
 ### Bremser
 
 ### Regenerativ bremsing
@@ -64,7 +68,7 @@ Den maksimale regenerative effekten er 150 kW.
 
 ## Eksteriør
 
-Hyundai Ioniq 9 AWD Performance, med dimensjoner på 5010 mm i lengde, 1980 mm i bredde og 1755 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Hyundai Ioniq 9 AWD Performance, med dimensjoner på 5040 mm i lengde, 1980 mm i bredde og 1755 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hyundai Ioniq 9 AWD Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -115,6 +119,8 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
+
 #### Seter på andre rad
 
 Du kan velge tre setetyper for den andre raden i Hyundai Ioniq 9 AWD Performance.
@@ -142,6 +148,8 @@ Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgje
 #### Seter på tredje rad
 
 Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/thirdrowseats_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
 
 ## Klimasystem
 
@@ -172,6 +180,8 @@ Viktige skjermdetaljer:
 
 Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/screens_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
+
 ### Ratt
 
 Hyundai Ioniq 9 AWD Performance er utstyrt med en enkelt type ratt:
@@ -196,8 +206,8 @@ I tillegg støtter Hyundai Ioniq 9 AWD Performance Android Auto og Apple CarPlay
 
 Du kan velge mellom to lydsystemer på Hyundai Ioniq 9 AWD Performance.
 
-- Med Standard får du seks høyttalere med en maksimal systemeffekt på  watt.
-- Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt.
+- Med Standard får du åtte høyttalere med en maksimal systemeffekt på  watt.
+- Med Bose Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 6 USB-C-tilkoblinger som standard.
 
@@ -206,6 +216,8 @@ Modellen har 6 USB-C-tilkoblinger som standard.
 Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/headlights_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
 
 ## Avanserte førerassistentsystemer
 
@@ -251,4 +263,19 @@ Bagasjerommet tilbyr en lastekapasitet på 620 liter. Med tredje seterad nedfelt
 Kjøretøyets maksimale vekt er 3190 kg, med en basisvekt på 2637 kg. Dette gir en maksimal lastekapasitet på 553 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2500 kg, mens for en ubremset tilhenger er det 750 kg.
+
+{{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/trunk_1_st.jpg" title="Hyundai Ioniq 9 AWD Performance" width="3000" height="2000"  >}}
+
+## Tilgjengelighet & pris
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Hyundai Ioniq 9 AWD Performance som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+
+<a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="Hyundai Ioniq 9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
