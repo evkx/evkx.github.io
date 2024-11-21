@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Macan Electric - A stunning compromise | Full Review</h3>
+<p>It's Only Electric: 21.11.2024</p>
+
+{{< youtube PhjzzrRWMxQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Porsche Macan DRIVEN. The EV even EV haters will love</h3>
 <p>Electrifying: 23.04.2024</p>
 

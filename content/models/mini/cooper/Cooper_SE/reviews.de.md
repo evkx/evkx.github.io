@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mini Cooper SE 54 kWh acceleration and noise test</h3>
+<p>Bjørn Nyland: 21.11.2024</p>
+
+{{< youtube Q1mH1IuGS7w >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mini Cooper SE 54 kWh 1000 km challenge</h3>
 <p>Bjørn Nyland: 20.11.2024</p>
 

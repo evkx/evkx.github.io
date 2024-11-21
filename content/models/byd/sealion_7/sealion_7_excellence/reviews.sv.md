@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Prøvekjøring BYD Seal Sealion: Skal stjele kunder fra Tesla</h3>
+<p>Norsk elbilforening: 21.11.2024</p>
+
+{{< youtube 4fv0p7nY_Dk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE: BYD Sealion 7 - Should you cancel the Tesla Model Y? | Electrifying</h3>
 <p>Electrifying: 15.11.2024</p>
 
