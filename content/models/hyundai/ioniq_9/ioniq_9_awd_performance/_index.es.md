@@ -92,7 +92,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-El interior del Hyundai IONIQ 9 AWD Performance es funcional y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Incluye una consola central flotante que crea un espacio abierto entre el pasajero y el conductor, proporcionando opciones de almacenamiento convenientes. El diseño general prioriza la practicidad y la facilidad de uso. Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+El interior del Hyundai IONIQ 9 AWD Performance es funcional y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Incluye una consola central flotante que crea un espacio abierto entre el pasajero y el conductor, proporcionando opciones de almacenamiento convenientes. El diseño general prioriza la practicidad y la facilidad de uso. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -112,14 +112,13 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente como opción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
-Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
-- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black/White [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-- Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Beige/Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Beige/Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Beige/Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="2000"  >}}
 

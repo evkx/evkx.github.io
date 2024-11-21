@@ -92,7 +92,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Interiøret i Hyundai IONIQ 9 AWD Performance er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer en flydende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed. Der er én sædetype, du kan vælge i forskellige materialer.
+Interiøret i Hyundai IONIQ 9 AWD Performance er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer en flydende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -112,14 +112,13 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
-Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
-- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
-- Black [læderpolstring](../../../../technology/seats/materials/#leather)
-- Black/White [læderpolstring](../../../../technology/seats/materials/#leather)
-- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
-- Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-- Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Beige/Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Beige/Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Beige/Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="2000"  >}}
 

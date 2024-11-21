@@ -92,7 +92,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-L'intérieur du Hyundai IONIQ 9 AWD Performance est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Il comprend une console centrale flottante qui crée un espace ouvert entre le passager et le conducteur, offrant des options de rangement pratiques. Le design global privilégie la praticité et la facilité d'utilisation. Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
+L'intérieur du Hyundai IONIQ 9 AWD Performance est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Il comprend une console centrale flottante qui crée un espace ouvert entre le passager et le conducteur, offrant des options de rangement pratiques. Le design global privilégie la praticité et la facilité d'utilisation. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -112,14 +112,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
-Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-- Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
-- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Black/White [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-- Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Beige/Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Beige/Brown [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Beige/Red [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="2000"  >}}
 

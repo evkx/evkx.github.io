@@ -92,7 +92,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The interior of the Hyundai IONIQ 9 AWD Performance is functional, featuring high-quality materials in several areas instead of hard plastic. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use. There is one seat type you can select in different materials.
+The interior of the Hyundai IONIQ 9 AWD Performance is functional, featuring high-quality materials in several areas instead of hard plastic. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use. You can choose between several interior designs.
 
 ### Seats
 
@@ -114,12 +114,11 @@ The following functionalities are available on the **** seat:
 
 Available in:
 
-- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-- Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
-- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
-- Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-- Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige/Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige/Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige/Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="2000"  >}}
 

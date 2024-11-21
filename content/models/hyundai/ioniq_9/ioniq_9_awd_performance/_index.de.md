@@ -92,7 +92,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
-Das Interieur des Hyundai IONIQ 9 AWD Performance ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Es umfasst eine schwebende Mittelkonsole, die einen offenen Raum zwischen dem Beifahrer und dem Fahrer schafft und praktische Aufbewahrungsmöglichkeiten bietet. Das Gesamtdesign priorisiert Praktikabilität und Benutzerfreundlichkeit. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Das Interieur des Hyundai IONIQ 9 AWD Performance ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Es umfasst eine schwebende Mittelkonsole, die einen offenen Raum zwischen dem Beifahrer und dem Fahrer schafft und praktische Aufbewahrungsmöglichkeiten bietet. Das Gesamtdesign priorisiert Praktikabilität und Benutzerfreundlichkeit. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -114,12 +114,11 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
 Verfügbar in:
 
-- Black [Stoff/Kunstleder-Polsterung](../../../../technology/seats/materials/#fabric)
-- Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Black/White [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Gray [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Gray [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
-- Gray [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black/Gray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Beige/Gray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Beige/Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Beige/Red [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_performance/frontseats_1_st.jpg" title="Hyundai IONIQ 9 AWD Performance" width="3000" height="2000"  >}}
 
