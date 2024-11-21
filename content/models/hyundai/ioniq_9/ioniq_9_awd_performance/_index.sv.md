@@ -92,7 +92,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Interiören i Hyundai IONIQ 9 AWD Performance är funktionell och har material av hög kvalitet i flera områden istället för hård plast. Den inkluderar en flytande mittkonsol som skapar ett öppet utrymme mellan passageraren och föraren, vilket ger praktiska förvaringsalternativ. Den övergripande designen prioriterar praktisk användning och användarvänlighet. Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
@@ -172,6 +172,8 @@ Hyundai IONIQ 9 AWD Performance inkluderar flera funktioner för att förbättra
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Hyundai IONIQ 9 AWD Performance har ett användarvänligt kontrollgränssnitt som kombinerar fysiska knappar för ofta använda funktioner, såsom klimatkontroll, med spakar och skärmar för en sömlös upplevelse.
 
 Hyundai IONIQ 9 AWD Performance har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 

@@ -30,6 +30,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2026 Hyundai Ioniq 9 Is a New Electric 3-Row Family SUV</h3>
+<p>Doug DeMuro: 21.11.2024</p>
+
+{{< youtube FpVutTZaTL0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The 2026 Hyundai Ioniq9 SEL Is A Spacious &amp; Serene 3-Row EV For Modern Families</h3>
 <p>Redline Reviews: 21.11.2024</p>
 

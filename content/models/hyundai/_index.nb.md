@@ -63,15 +63,15 @@ Hyundai Ioniq 6 er en sedan tilgjengelig i 2 varianter.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-        <h3>Hyundai Ioniq 9</h3>
+        <h3>Hyundai IONIQ 9</h3>
         <div class="row">
             <div class="col col-12 col-md-6">
                 <a href="ioniq_9">
-                    <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" class="img-fluid" alt="Hyundai Ioniq 9" >
+                    <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_st.jpg" class="img-fluid" alt="Hyundai IONIQ 9" >
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 9 er en SUV tilgjengelig i 1 varianter.
+Hyundai IONIQ 9 er en SUV tilgjengelig i 1 varianter.
 </p>
 	<a href="ioniq_9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

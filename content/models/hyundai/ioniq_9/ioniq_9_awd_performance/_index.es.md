@@ -92,7 +92,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+El interior del Hyundai IONIQ 9 AWD Performance es funcional y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Incluye una consola central flotante que crea un espacio abierto entre el pasajero y el conductor, proporcionando opciones de almacenamiento convenientes. El diseño general prioriza la practicidad y la facilidad de uso. Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
@@ -172,6 +172,8 @@ El Hyundai IONIQ 9 AWD Performance incluye varias características para mejorar 
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+El Hyundai IONIQ 9 AWD Performance cuenta con una interfaz de control fácil de usar que combina botones físicos para funciones de uso frecuente, como el control del clima, con palancas y pantallas para una experiencia sin interrupciones.
 
 El Hyundai IONIQ 9 AWD Performance tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 

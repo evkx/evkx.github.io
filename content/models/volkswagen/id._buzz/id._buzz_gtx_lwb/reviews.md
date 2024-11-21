@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>A Van for Van People // 2025 VW ID. BUZZ Review</h3>
+<p>Sarah -n- Tuned: 18.11.2024</p>
+
+{{< youtube woF6ezDI_Eg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The US Spec Volkswagen ID. Buzz Is Finally Here! The LWB Is Freaking Awesome & Worth The Wait</h3>
 <p>Out of Spec Reviews: 02.06.2023</p>
 
