@@ -722,7 +722,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Porsche, renowned for its legacy of performance and luxury, has seamlessly transitioned into the electric era. Combining cutting-edge technology with iconic design, Porsche’s electric models, like the Taycan, deliver exhilarating speed, precision handling, and sustainable innovation, setting new standards for electric sports cars.
 	</p>
 	<p>
-	Porsche has 2 models with total 31 variants.
+	Porsche has 2 models with total 32 variants.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Go to Porsche EV-model overview</a>
 </div>

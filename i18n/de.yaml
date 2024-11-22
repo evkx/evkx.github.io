@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-63d7ac4b
+  translation: Porsche Taycan 4 ist eine vollelektrische Luxus-Limousine mit einer Reichweite von bis zu 643 km (400 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-7f4e4d91
   translation: Hyundai IONIQ 9 AWD Performance ist ein vollelektrisches SUV mit einer Reichweite von bis zu 600 km (373 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-97714ed8
   translation: VOYAH Courage AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 440 km (274 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-fc827adb
-  translation: XPENG Mona M03 Long Range ist eine vollelektrische Limousine mit einer Reichweite von bis zu 618 km (384 Meilen). EVKX.net hat alle Details.
 

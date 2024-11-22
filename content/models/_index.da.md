@@ -605,7 +605,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 		Porsche, kendt for sin arv af ydeevne og luksus, har problemfrit overgået til den elektriske æra. Ved at kombinere banebrydende teknologi med ikonisk design leverer Porsches elektriske modeller, som Taycan, spændende hastighed, præcis håndtering og bæredygtig innovation, der sætter nye standarder for elektriske sportsvogne.
 	</p>
 	<p>
-	Porsche har 2 modeller med i alt 31 varianter.
+	Porsche har 2 modeller med i alt 32 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche EV-modeloversigt</a>
 </div>

@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/porsche/taycan/taycan_4/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Porsche Taycan 4</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-63d7ac4b"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/hyundai/ioniq_9/ioniq_9_awd_performance/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_performance/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Hyundai Ioniq 5 Long Range AWD</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-422c1513"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/lucid/gravity/gravity_grand_touring/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_grand_touring/main_1_mt.jpeg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Lucid Gravity Grand Touring</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-540acf6b"}}</p>
 				</div>
 			</div>
 		</div>

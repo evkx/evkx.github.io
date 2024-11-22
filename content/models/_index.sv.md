@@ -608,7 +608,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 		Porsche, känt för sitt arv av prestanda och lyx, har sömlöst övergått till den elektriska eran. Genom att kombinera banbrytande teknik med ikonisk design levererar Porsches elmodeller, som Taycan, spännande hastighet, precis hantering och hållbar innovation, och sätter nya standarder för elektriska sportbilar.
 	</p>
 	<p>
-	Porsche har 2 modell(er) med totalt 31 varianter.
+	Porsche har 2 modell(er) med totalt 32 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå till Porsche modellöversikt</a>
 </div>
