@@ -334,7 +334,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -374,7 +374,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				83,6 kWh
+				82,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -390,7 +390,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Nombre de modules
 			</td>
 			<td>
-				33
+				28
 			</td>
 		</tr>
 		<tr>
@@ -398,7 +398,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Configuration du pack
 			</td>
 			<td>
-				198s2p
+				168s2p
 			</td>
 		</tr>
 		<tr>
@@ -406,7 +406,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				725
+				618
 			</td>
 		</tr>
 		<tr>

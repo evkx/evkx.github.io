@@ -334,7 +334,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -374,7 +374,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				83,6 kWh
+				82,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -390,7 +390,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Number of modules
 			</td>
 			<td>
-				33
+				28
 			</td>
 		</tr>
 		<tr>
@@ -398,7 +398,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				198s2p
+				168s2p
 			</td>
 		</tr>
 		<tr>
@@ -406,7 +406,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				725
+				618
 			</td>
 		</tr>
 		<tr>

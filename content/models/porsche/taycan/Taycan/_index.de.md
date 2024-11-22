@@ -34,7 +34,7 @@ Porsche Taycan hat zwei Batterieoptionen mit unterschiedlichen Spezifikationen. 
 
 ### Performance Battery Plus
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 105,0 kWh und eine nutzbare Nettokapazität von 97,0 kWh, was einen Puffer von 8,0 kWh (7,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 725 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 105,0 kWh und eine nutzbare Nettokapazität von 97,0 kWh, was einen Puffer von 8,0 kWh (7,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 729 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 678 und 579 km (421-360 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,3 kWh/100 km für das Basismodell und 16,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -44,13 +44,13 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Performance Battery
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 89,0 kWh und eine nutzbare Nettokapazität von 83,6 kWh, was einen Puffer von 5,4 kWh (6,1%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 725 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 89,0 kWh und eine nutzbare Nettokapazität von 82,3 kWh, was einen Puffer von 6,7 kWh (7,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 618 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 590 und 503 km (367-313 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,3 kWh/100 km für das Basismodell und 16,8 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 270 kW. Das Laden von 0% auf 100% dauert etwa 51 Minuten, während ein typischer Ladevorgang von 10% auf 80% 18 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 191 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 3% und 64%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 162 kW, wobei jede Ladesitzung etwa 19 Minuten und 51 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Porsche Taycan zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 270 kW. Das Laden von 0% auf 100% dauert etwa 51 Minuten, während ein typischer Ladevorgang von 10% auf 80% 18 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 191 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 3% und 65%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 162 kW, wobei jede Ladesitzung etwa 19 Minuten und 57 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Porsche Taycan zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 9 Stunden und 8 Minuten dauern. Diese Reise würde drei Ladestopps von 4% auf 55% erfordern, mit einer gesamten Ladezeit von 48 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 9 Stunden und 8 Minuten dauern. Diese Reise würde drei Ladestopps von 4% auf 56% erfordern, mit einer gesamten Ladezeit von 48 Minuten.
 
 ### Bordladegerät
 
@@ -212,7 +212,6 @@ Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 Verfügbar in:
 
 - Black [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
-- Black/Red [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
 - Black [Mikrofaser/Kunstleder/Stoff Polsterung](../../../../technology/seats/materials/#microfiber)
 - Gray [Mikrofaser/Kunstleder/Stoff Polsterung](../../../../technology/seats/materials/#microfiber)
 - Black [Mikrofaser/Kunstleder/Stoff Polsterung](../../../../technology/seats/materials/#microfiber)

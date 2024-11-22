@@ -30,17 +30,17 @@ BYD Sealion 7 Excellence leverer en solid præstation med en maksimal effekt på
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 93,0 kWh og en nettoanvendelig kapacitet på 91,3 kWh, hvilket giver en buffer på 1,7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 569 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 91,3 kWh og en nettoanvendelig kapacitet på 82,5 kWh, hvilket giver en buffer på 8,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 569 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 502 km, med et energiforbrugsrate på 18,2 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 502 km, med et energiforbrugsrate på 16,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 230kW. En fuld opladning fra 0 - 100 % ville tage 55 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 124kW. Hver opladningssession ville tage 18 minutter og 7 sekunder.
+Den maksimale DC-opladningshastighed er 230kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 120kW. Hver opladningssession ville tage 17 minutter og 15 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23,5 kWh/100 km, ville turen tage cirka 9 timer og 30 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 45%, med en samlet opladningstid på 71 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23,5 kWh/100 km, ville turen tage cirka 9 timer og 36 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 45%, med en samlet opladningstid på 77 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 17 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 30 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 

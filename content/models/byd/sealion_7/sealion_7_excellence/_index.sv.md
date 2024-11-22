@@ -30,17 +30,17 @@ BYD Sealion 7 Excellence levererar en solid prestanda med en maximal effekt på 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 93,0 kWh och en nettoanvändbar kapacitet på 91,3 kWh, vilket ger en buffert på 1,7 kWh (1,8%) för batteriskydd. Vid en nominell spänning på 569 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 91,3 kWh och en nettoanvändbar kapacitet på 82,5 kWh, vilket ger en buffert på 8,8 kWh (9,6%) för batteriskydd. Vid en nominell spänning på 569 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (199 miles), med en energiförbrukningshastighet på 18,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (199 miles), med en energiförbrukningshastighet på 16,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 230 kW. En full laddning från 0 - 100 % tar 55 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 18 minuter och 7 sekunder.
+Maximal DC-laddningshastighet är 230 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 120kW. Varje laddningssession tar 17 minuter och 15 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 30 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 45%, med en total laddningstid på 71 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 45%, med en total laddningstid på 77 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 17 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 30 minuter med en hemmaladdare.
 
 ### Laddningsport
 

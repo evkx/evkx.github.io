@@ -34,7 +34,7 @@ Porsche Taycan tiene dos opciones de batería con diferentes especificaciones. A
 
 ### Performance Battery Plus
 
-La batería de alta capacidad tiene una capacidad bruta de 105,0 kWh y una capacidad neta utilizable de 97,0 kWh, proporcionando un buffer de 8,0 kWh (7,6%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 105,0 kWh y una capacidad neta utilizable de 97,0 kWh, proporcionando un buffer de 8,0 kWh (7,6%) para la protección de la batería. Operando a un voltaje nominal de 729 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 678 y 579 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,3 kWh/100 km para el modelo base y 16,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -44,13 +44,13 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Performance Battery
 
-La batería de alta capacidad tiene una capacidad bruta de 89,0 kWh y una capacidad neta utilizable de 83,6 kWh, proporcionando un buffer de 5,4 kWh (6,1%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 89,0 kWh y una capacidad neta utilizable de 82,3 kWh, proporcionando un buffer de 6,7 kWh (7,5%) para la protección de la batería. Operando a un voltaje nominal de 618 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 590 y 503 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,3 kWh/100 km para el modelo base y 16,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 51 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 162kW. Cada sesión de carga tardaría 19 minutos y 51 segundos. Esta capacidad de carga eficiente hace que el Porsche Taycan sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 51 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 162kW. Cada sesión de carga tardaría 19 minutos y 57 segundos. Esta capacidad de carga eficiente hace que el Porsche Taycan sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 8 minutos. Este viaje requeriría dos paradas de carga del 4% al 55%, con un tiempo total de carga de 48 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 8 minutos. Este viaje requeriría dos paradas de carga del 4% al 56%, con un tiempo total de carga de 48 minutos.
 
 ### Cargador a bordo
 
@@ -209,10 +209,9 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-Puedes elegir entre 16 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 15 diferentes materiales/colores para este tipo de asiento.
 
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-- Black/Red [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
 - Gray [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)
 - Black [tapicería de microfibra/cuero sintético/tela](../../../../technology/seats/materials/#microfiber)

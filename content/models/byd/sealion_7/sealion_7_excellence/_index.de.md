@@ -30,17 +30,17 @@ Der BYD Sealion 7 Excellence liefert eine solide Leistung mit einer maximalen Le
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 93,0 kWh und eine nutzbare Nettokapazität von 91,3 kWh, was einen Puffer von 1,7 kWh (1,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 569 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 91,3 kWh und eine nutzbare Nettokapazität von 82,5 kWh, was einen Puffer von 8,8 kWh (9,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 569 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 502 km (312 Meilen) mit einem Energieverbrauch von 18,2 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 502 km (312 Meilen) mit einem Energieverbrauch von 16,4 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 230 kW. Das Laden von 0% auf 100% dauert etwa 55 Minuten, während ein typischer Ladevorgang von 10% auf 80% 30 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 126 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 124 kW, wobei jede Ladesitzung etwa 18 Minuten und 7 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 230 kW. Das Laden von 0% auf 100% dauert etwa 50 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 126 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 46%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 120 kW, wobei jede Ladesitzung etwa 17 Minuten und 15 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 30 Minuten dauern. Diese Reise würde vier Ladestopps von 5% auf 45% erfordern, mit einer gesamten Ladezeit von 71 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 36 Minuten dauern. Diese Reise würde fünf Ladestopps von 8% auf 45% erfordern, mit einer gesamten Ladezeit von 77 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 8 Stunden und 17 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 30 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

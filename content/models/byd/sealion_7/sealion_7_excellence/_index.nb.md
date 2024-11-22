@@ -30,17 +30,17 @@ BYD Sealion 7 Excellence leverer solid ytelse med en maksimal effekt på 390 kW 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 93,0 kWh og en netto brukbar kapasitet på 91,3 kWh, som gir en buffer på 1,7 kWh (1,8%) for batteribeskyttelse. Ved å operere med en nominell spenning på 569 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 91,3 kWh og en netto brukbar kapasitet på 82,5 kWh, som gir en buffer på 8,8 kWh (9,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 569 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 502 km, med et energiforbruk på 18,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 502 km, med et energiforbruk på 16,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 230 kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 124kW. Hver ladeøkt vil ta 18 minutter og 7 sekunder.
+Maksimal DC-ladehastighet er 230 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 17 minutter og 15 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23,5 kWh/100 km, ville turen ta omtrent 9 timer og 30 minutter. Denne reisen ville kreve to ladestopp fra 5% til 45%, med en total ladetid på 71 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23,5 kWh/100 km, ville turen ta omtrent 9 timer og 36 minutter. Denne reisen ville kreve to ladestopp fra 8% til 45%, med en total ladetid på 77 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 17 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 30 minutter med en hjemmelader.
 
 ### Ladeport
 

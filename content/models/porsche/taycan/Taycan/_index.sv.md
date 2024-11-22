@@ -34,7 +34,7 @@ Porsche Taycan har två batterialternativ med olika specifikationer. Nedan kan d
 
 ### Performance Battery Plus
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en buffert på 8,0 kWh (7,6%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en buffert på 8,0 kWh (7,6%) för batteriskydd. Vid en nominell spänning på 729 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 678 och 579 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,3 kWh/100 km för basmodellen och 16,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -44,13 +44,13 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### Performance Battery
 
-Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 83,6 kWh, vilket ger en buffert på 5,4 kWh (6,1%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 82,3 kWh, vilket ger en buffert på 6,7 kWh (7,5%) för batteriskydd. Vid en nominell spänning på 618 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 590 och 503 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,3 kWh/100 km för basmodellen och 16,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 51 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 64%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 162kW. Varje laddningssession tar 19 minuter och 51 sekunder. Denna effektiva laddningskapacitet gör Porsche Taycan till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 51 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 162kW. Varje laddningssession tar 19 minuter och 57 sekunder. Denna effektiva laddningskapacitet gör Porsche Taycan till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 9 timmar och 8 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 55%, med en total laddningstid på 48 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 9 timmar och 8 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 56%, med en total laddningstid på 48 minuter.
 
 ### Ombordladdare
 
@@ -209,10 +209,9 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 16 olika material/färger för denna sitstyp.
+Du kan välja mellan 15 olika material/färger för denna sitstyp.
 
 - Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-- Black/Red [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Black [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)
 - Black [mikrofiber/konstläder/tyg klädsel](../../../../technology/seats/materials/#microfiber)

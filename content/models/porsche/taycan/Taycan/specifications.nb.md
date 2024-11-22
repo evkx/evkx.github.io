@@ -334,7 +334,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -374,7 +374,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				83,6 kWh
+				82,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -390,7 +390,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Antall moduler
 			</td>
 			<td>
-				33
+				28
 			</td>
 		</tr>
 		<tr>
@@ -398,7 +398,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				198s2p
+				168s2p
 			</td>
 		</tr>
 		<tr>
@@ -406,7 +406,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				725
+				618
 			</td>
 		</tr>
 		<tr>

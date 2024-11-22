@@ -334,7 +334,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -374,7 +374,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				83,6 kWh
+				82,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -390,7 +390,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Número de módulos
 			</td>
 			<td>
-				33
+				28
 			</td>
 		</tr>
 		<tr>
@@ -398,7 +398,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				198s2p
+				168s2p
 			</td>
 		</tr>
 		<tr>
@@ -406,7 +406,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				725
+				618
 			</td>
 		</tr>
 		<tr>

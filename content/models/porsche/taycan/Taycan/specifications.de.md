@@ -334,7 +334,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				725
+				729
 			</td>
 		</tr>
 		<tr>
@@ -374,7 +374,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				83,6 kWh
+				82,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -390,7 +390,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Anzahl der Module
 			</td>
 			<td>
-				33
+				28
 			</td>
 		</tr>
 		<tr>
@@ -398,7 +398,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Packkonfiguration
 			</td>
 			<td>
-				198s2p
+				168s2p
 			</td>
 		</tr>
 		<tr>
@@ -406,7 +406,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				725
+				618
 			</td>
 		</tr>
 		<tr>

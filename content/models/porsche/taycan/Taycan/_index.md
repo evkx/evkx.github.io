@@ -34,7 +34,7 @@ Porsche Taycan has two battery options with different specifications. Below you 
 
 ### Performance Battery Plus
 
-The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 97.0 kWh, providing a 8.0 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 97.0 kWh, providing a 8.0 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 729 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 678 to 579 km (421-360 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -44,13 +44,13 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Performance Battery
 
-The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 83.6 kWh, providing a 5.4 kWh buffer (6.1%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 82.3 kWh, providing a 6.7 kWh buffer (7.5%) for battery protection. Operating at a nominal voltage of 618 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 590 to 503 km (367-313 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 191 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 64%. This results in an effective charging speed, including time lost, of 162 kW, with each charging session taking about 19 minutes and 51 seconds. This efficient charging capability makes the Porsche Taycan a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 191 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 65%. This results in an effective charging speed, including time lost, of 162 kW, with each charging session taking about 19 minutes and 57 seconds. This efficient charging capability makes the Porsche Taycan a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 8 minutes. This journey would require three charging stops from 4% to 55%, with a total charging time of 48 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 8 minutes. This journey would require three charging stops from 4% to 56%, with a total charging time of 48 minutes.
 
 ### Onboard Charger
 
@@ -219,7 +219,6 @@ The following functionalities are available on the **Sportsseats Plus** seat:
 Available in:
 
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-- Black/Red [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Black [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)
 - Black [microfiber/leatherette/fabric upholstering](../../../../technology/seats/materials/#microfiber)

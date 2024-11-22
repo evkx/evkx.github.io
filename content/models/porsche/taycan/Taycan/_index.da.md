@@ -34,7 +34,7 @@ Porsche Taycan har to batterimuligheder med forskellige specifikationer. Nedenfo
 
 ### Performance Battery Plus
 
-Det højkapacitetsbatteri har en bruttokapacitet på 105,0 kWh og en nettoanvendelig kapacitet på 97,0 kWh, hvilket giver en buffer på 8,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 105,0 kWh og en nettoanvendelig kapacitet på 97,0 kWh, hvilket giver en buffer på 8,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 729 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 678 og 579 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,3 kWh/100 km for basismodellen og 16,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -44,13 +44,13 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### Performance Battery
 
-Det højkapacitetsbatteri har en bruttokapacitet på 89,0 kWh og en nettoanvendelig kapacitet på 83,6 kWh, hvilket giver en buffer på 5,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 89,0 kWh og en nettoanvendelig kapacitet på 82,3 kWh, hvilket giver en buffer på 6,7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 618 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 590 og 503 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,3 kWh/100 km for basismodellen og 16,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 51 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 162kW. Hver opladningssession ville tage 19 minutter og 51 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 51 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 162kW. Hver opladningssession ville tage 19 minutter og 57 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 8 minutter. Denne rejse ville kræve to opladningsstop fra 4% til 55%, med en samlet opladningstid på 48 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 8 minutter. Denne rejse ville kræve to opladningsstop fra 4% til 56%, med en samlet opladningstid på 48 minutter
 
 ### Ombordlader
 
@@ -209,10 +209,9 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 16 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 15 forskellige materialer/farver til denne sædetype.
 
 - Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-- Black/Red [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Black [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)
 - Black [mikrofiber/læderlook/stof polstring](../../../../technology/seats/materials/#microfiber)

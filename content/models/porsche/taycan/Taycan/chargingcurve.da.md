@@ -1739,7 +1739,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				Optimalt ladeområde
 			</td>
 			<td>
-				3% - 64%
+				3% - 65%
 			</td>
 		</tr>
 		<tr>
@@ -1747,7 +1747,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				162,3kW
+				161,6kW
 			</td>
 		</tr>
 		<tr>
@@ -1755,7 +1755,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				19m51s
+				19m57s
 			</td>
 		</tr>
 	</tbody>
@@ -1780,7 +1780,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				 51 m 26 s
+				 50 m 38 s
 			</td>
 		</tr>
 		<tr>
@@ -1788,7 +1788,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				Opladningstid 10-100%
 			</td>
 			<td>
-				 48 m 26 s
+				 47 m 41 s
 			</td>
 		</tr>
 		<tr>
@@ -1796,7 +1796,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 18 m 20 s
+				 18 m 3 s
 			</td>
 		</tr>
 	</tbody>
@@ -1930,7 +1930,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				87 kW
 			</td>
 			<td>
-				 0 m 37 s
+				 0 m 36 s
 			</td>
 			<td>
 				0,8 kWh
@@ -1944,10 +1944,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				158 kW
 			</td>
 			<td>
-				 1 m 3 s
+				 1 m 2 s
 			</td>
 			<td>
-				1,7 kWh
+				1,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1958,7 +1958,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				169 kW
 			</td>
 			<td>
-				 1 m 23 s
+				 1 m 22 s
 			</td>
 			<td>
 				2,5 kWh
@@ -1972,7 +1972,7 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				221 kW
 			</td>
 			<td>
-				 1 m 40 s
+				 1 m 38 s
 			</td>
 			<td>
 				3,3 kWh
@@ -1986,10 +1986,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				254 kW
 			</td>
 			<td>
-				 1 m 53 s
+				 1 m 52 s
 			</td>
 			<td>
-				4,2 kWh
+				4,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2000,10 +2000,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 2 m 6 s
+				 2 m 4 s
 			</td>
 			<td>
-				5,0 kWh
+				4,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2014,10 +2014,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 2 m 19 s
+				 2 m 17 s
 			</td>
 			<td>
-				5,9 kWh
+				5,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2028,10 +2028,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 2 m 32 s
+				 2 m 30 s
 			</td>
 			<td>
-				6,7 kWh
+				6,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2042,10 +2042,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 2 m 46 s
+				 2 m 43 s
 			</td>
 			<td>
-				7,5 kWh
+				7,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2056,10 +2056,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				243 kW
 			</td>
 			<td>
-				 2 m 59 s
+				 2 m 56 s
 			</td>
 			<td>
-				8,4 kWh
+				8,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2070,10 +2070,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				243 kW
 			</td>
 			<td>
-				 3 m 12 s
+				 3 m 9 s
 			</td>
 			<td>
-				9,2 kWh
+				9,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2084,10 +2084,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				251 kW
 			</td>
 			<td>
-				 3 m 25 s
+				 3 m 22 s
 			</td>
 			<td>
-				10,0 kWh
+				9,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2098,10 +2098,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				253 kW
 			</td>
 			<td>
-				 3 m 38 s
+				 3 m 35 s
 			</td>
 			<td>
-				10,9 kWh
+				10,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2112,10 +2112,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				253 kW
 			</td>
 			<td>
-				 3 m 51 s
+				 3 m 47 s
 			</td>
 			<td>
-				11,7 kWh
+				11,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2126,10 +2126,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				254 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 0 s
 			</td>
 			<td>
-				12,5 kWh
+				12,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2140,10 +2140,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				255 kW
 			</td>
 			<td>
-				 4 m 16 s
+				 4 m 12 s
 			</td>
 			<td>
-				13,4 kWh
+				13,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2154,10 +2154,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				256 kW
 			</td>
 			<td>
-				 4 m 29 s
+				 4 m 25 s
 			</td>
 			<td>
-				14,2 kWh
+				14,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2168,10 +2168,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				256 kW
 			</td>
 			<td>
-				 4 m 42 s
+				 4 m 37 s
 			</td>
 			<td>
-				15,0 kWh
+				14,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2182,10 +2182,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				256 kW
 			</td>
 			<td>
-				 4 m 54 s
+				 4 m 50 s
 			</td>
 			<td>
-				15,9 kWh
+				15,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2196,10 +2196,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				258 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 5 m 2 s
 			</td>
 			<td>
-				16,7 kWh
+				16,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2210,10 +2210,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				259 kW
 			</td>
 			<td>
-				 5 m 19 s
+				 5 m 14 s
 			</td>
 			<td>
-				17,6 kWh
+				17,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2224,10 +2224,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				258 kW
 			</td>
 			<td>
-				 5 m 32 s
+				 5 m 27 s
 			</td>
 			<td>
-				18,4 kWh
+				18,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2238,10 +2238,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				260 kW
 			</td>
 			<td>
-				 5 m 44 s
+				 5 m 39 s
 			</td>
 			<td>
-				19,2 kWh
+				18,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2252,10 +2252,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				260 kW
 			</td>
 			<td>
-				 5 m 57 s
+				 5 m 51 s
 			</td>
 			<td>
-				20,1 kWh
+				19,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2266,10 +2266,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				261 kW
 			</td>
 			<td>
-				 6 m 9 s
+				 6 m 4 s
 			</td>
 			<td>
-				20,9 kWh
+				20,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2280,10 +2280,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				261 kW
 			</td>
 			<td>
-				 6 m 22 s
+				 6 m 16 s
 			</td>
 			<td>
-				21,7 kWh
+				21,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2294,10 +2294,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				262 kW
 			</td>
 			<td>
-				 6 m 34 s
+				 6 m 28 s
 			</td>
 			<td>
-				22,6 kWh
+				22,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2308,10 +2308,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				262 kW
 			</td>
 			<td>
-				 6 m 46 s
+				 6 m 40 s
 			</td>
 			<td>
-				23,4 kWh
+				23,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2322,10 +2322,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				262 kW
 			</td>
 			<td>
-				 6 m 59 s
+				 6 m 52 s
 			</td>
 			<td>
-				24,2 kWh
+				23,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2336,10 +2336,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				265 kW
 			</td>
 			<td>
-				 7 m 11 s
+				 7 m 4 s
 			</td>
 			<td>
-				25,1 kWh
+				24,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2350,10 +2350,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				265 kW
 			</td>
 			<td>
-				 7 m 23 s
+				 7 m 16 s
 			</td>
 			<td>
-				25,9 kWh
+				25,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2364,10 +2364,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				261 kW
 			</td>
 			<td>
-				 7 m 36 s
+				 7 m 28 s
 			</td>
 			<td>
-				26,8 kWh
+				26,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2378,10 +2378,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				261 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 7 m 41 s
 			</td>
 			<td>
-				27,6 kWh
+				27,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2392,10 +2392,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				261 kW
 			</td>
 			<td>
-				 8 m 0 s
+				 7 m 53 s
 			</td>
 			<td>
-				28,4 kWh
+				28,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2406,10 +2406,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				264 kW
 			</td>
 			<td>
-				 8 m 13 s
+				 8 m 5 s
 			</td>
 			<td>
-				29,3 kWh
+				28,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2420,10 +2420,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				244 kW
 			</td>
 			<td>
-				 8 m 25 s
+				 8 m 18 s
 			</td>
 			<td>
-				30,1 kWh
+				29,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2434,10 +2434,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				245 kW
 			</td>
 			<td>
-				 8 m 39 s
+				 8 m 31 s
 			</td>
 			<td>
-				30,9 kWh
+				30,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2448,10 +2448,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				245 kW
 			</td>
 			<td>
-				 8 m 52 s
+				 8 m 44 s
 			</td>
 			<td>
-				31,8 kWh
+				31,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2462,10 +2462,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				245 kW
 			</td>
 			<td>
-				 9 m 5 s
+				 8 m 57 s
 			</td>
 			<td>
-				32,6 kWh
+				32,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2476,10 +2476,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				245 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 9 m 10 s
 			</td>
 			<td>
-				33,4 kWh
+				32,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2490,10 +2490,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				246 kW
 			</td>
 			<td>
-				 9 m 31 s
+				 9 m 23 s
 			</td>
 			<td>
-				34,3 kWh
+				33,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2504,10 +2504,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				246 kW
 			</td>
 			<td>
-				 9 m 45 s
+				 9 m 35 s
 			</td>
 			<td>
-				35,1 kWh
+				34,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2518,10 +2518,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				246 kW
 			</td>
 			<td>
-				 9 m 58 s
+				 9 m 48 s
 			</td>
 			<td>
-				35,9 kWh
+				35,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2532,10 +2532,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				246 kW
 			</td>
 			<td>
-				 10 m 11 s
+				 10 m 1 s
 			</td>
 			<td>
-				36,8 kWh
+				36,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2546,10 +2546,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				246 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 10 m 14 s
 			</td>
 			<td>
-				37,6 kWh
+				37,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2560,10 +2560,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 10 m 37 s
+				 10 m 27 s
 			</td>
 			<td>
-				38,5 kWh
+				37,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2574,10 +2574,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 10 m 50 s
+				 10 m 40 s
 			</td>
 			<td>
-				39,3 kWh
+				38,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2588,10 +2588,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				247 kW
 			</td>
 			<td>
-				 11 m 3 s
+				 10 m 53 s
 			</td>
 			<td>
-				40,1 kWh
+				39,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2602,10 +2602,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				248 kW
 			</td>
 			<td>
-				 11 m 16 s
+				 11 m 6 s
 			</td>
 			<td>
-				41,0 kWh
+				40,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2616,10 +2616,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				249 kW
 			</td>
 			<td>
-				 11 m 29 s
+				 11 m 19 s
 			</td>
 			<td>
-				41,8 kWh
+				41,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2630,10 +2630,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				228 kW
 			</td>
 			<td>
-				 11 m 43 s
+				 11 m 32 s
 			</td>
 			<td>
-				42,6 kWh
+				42,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2644,10 +2644,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				229 kW
 			</td>
 			<td>
-				 11 m 57 s
+				 11 m 46 s
 			</td>
 			<td>
-				43,5 kWh
+				42,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2658,10 +2658,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				228 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 12 m 0 s
 			</td>
 			<td>
-				44,3 kWh
+				43,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2672,10 +2672,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				208 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 12 m 15 s
 			</td>
 			<td>
-				45,1 kWh
+				44,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2686,10 +2686,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				208 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 12 m 30 s
 			</td>
 			<td>
-				46,0 kWh
+				45,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2700,10 +2700,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				209 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 12 m 45 s
 			</td>
 			<td>
-				46,8 kWh
+				46,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2714,10 +2714,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				209 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 0 s
 			</td>
 			<td>
-				47,7 kWh
+				46,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2728,10 +2728,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				190 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 13 m 16 s
 			</td>
 			<td>
-				48,5 kWh
+				47,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2742,10 +2742,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				191 kW
 			</td>
 			<td>
-				 13 m 46 s
+				 13 m 33 s
 			</td>
 			<td>
-				49,3 kWh
+				48,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2756,10 +2756,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				190 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 13 m 50 s
 			</td>
 			<td>
-				50,2 kWh
+				49,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2770,10 +2770,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				180 kW
 			</td>
 			<td>
-				 14 m 20 s
+				 14 m 7 s
 			</td>
 			<td>
-				51,0 kWh
+				50,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2784,10 +2784,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				180 kW
 			</td>
 			<td>
-				 14 m 38 s
+				 14 m 25 s
 			</td>
 			<td>
-				51,8 kWh
+				51,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2798,10 +2798,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				181 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 14 m 42 s
 			</td>
 			<td>
-				52,7 kWh
+				51,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2812,10 +2812,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				176 kW
 			</td>
 			<td>
-				 15 m 15 s
+				 15 m 0 s
 			</td>
 			<td>
-				53,5 kWh
+				52,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2826,10 +2826,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				172 kW
 			</td>
 			<td>
-				 15 m 33 s
+				 15 m 19 s
 			</td>
 			<td>
-				54,3 kWh
+				53,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2840,10 +2840,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				172 kW
 			</td>
 			<td>
-				 15 m 52 s
+				 15 m 37 s
 			</td>
 			<td>
-				55,2 kWh
+				54,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2854,10 +2854,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				173 kW
 			</td>
 			<td>
-				 16 m 11 s
+				 15 m 56 s
 			</td>
 			<td>
-				56,0 kWh
+				55,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2868,10 +2868,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				161 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 16 m 15 s
 			</td>
 			<td>
-				56,8 kWh
+				56,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2882,10 +2882,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				163 kW
 			</td>
 			<td>
-				 16 m 50 s
+				 16 m 34 s
 			</td>
 			<td>
-				57,7 kWh
+				56,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2896,10 +2896,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				163 kW
 			</td>
 			<td>
-				 17 m 10 s
+				 16 m 54 s
 			</td>
 			<td>
-				58,5 kWh
+				57,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2910,10 +2910,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				153 kW
 			</td>
 			<td>
-				 17 m 30 s
+				 17 m 14 s
 			</td>
 			<td>
-				59,4 kWh
+				58,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2924,10 +2924,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				154 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 17 m 35 s
 			</td>
 			<td>
-				60,2 kWh
+				59,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2938,10 +2938,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				154 kW
 			</td>
 			<td>
-				 18 m 12 s
+				 17 m 55 s
 			</td>
 			<td>
-				61,0 kWh
+				60,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2952,10 +2952,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				120 kW
 			</td>
 			<td>
-				 18 m 36 s
+				 18 m 19 s
 			</td>
 			<td>
-				61,9 kWh
+				60,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2966,10 +2966,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				121 kW
 			</td>
 			<td>
-				 19 m 3 s
+				 18 m 45 s
 			</td>
 			<td>
-				62,7 kWh
+				61,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2980,10 +2980,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				122 kW
 			</td>
 			<td>
-				 19 m 30 s
+				 19 m 11 s
 			</td>
 			<td>
-				63,5 kWh
+				62,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -2994,10 +2994,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				122 kW
 			</td>
 			<td>
-				 19 m 56 s
+				 19 m 38 s
 			</td>
 			<td>
-				64,4 kWh
+				63,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3008,10 +3008,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				122 kW
 			</td>
 			<td>
-				 20 m 23 s
+				 20 m 4 s
 			</td>
 			<td>
-				65,2 kWh
+				64,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3022,10 +3022,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				123 kW
 			</td>
 			<td>
-				 20 m 49 s
+				 20 m 30 s
 			</td>
 			<td>
-				66,0 kWh
+				65,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3036,10 +3036,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				90 kW
 			</td>
 			<td>
-				 21 m 19 s
+				 21 m 0 s
 			</td>
 			<td>
-				66,9 kWh
+				65,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3050,10 +3050,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				84 kW
 			</td>
 			<td>
-				 21 m 57 s
+				 21 m 36 s
 			</td>
 			<td>
-				67,7 kWh
+				66,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3064,10 +3064,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				73 kW
 			</td>
 			<td>
-				 22 m 38 s
+				 22 m 17 s
 			</td>
 			<td>
-				68,6 kWh
+				67,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3078,10 +3078,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				62 kW
 			</td>
 			<td>
-				 23 m 26 s
+				 23 m 4 s
 			</td>
 			<td>
-				69,4 kWh
+				68,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3092,10 +3092,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				53 kW
 			</td>
 			<td>
-				 24 m 22 s
+				 23 m 59 s
 			</td>
 			<td>
-				70,2 kWh
+				69,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3106,10 +3106,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				44 kW
 			</td>
 			<td>
-				 25 m 29 s
+				 25 m 5 s
 			</td>
 			<td>
-				71,1 kWh
+				70,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3120,10 +3120,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				38 kW
 			</td>
 			<td>
-				 26 m 48 s
+				 26 m 23 s
 			</td>
 			<td>
-				71,9 kWh
+				70,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3134,10 +3134,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				36 kW
 			</td>
 			<td>
-				 28 m 15 s
+				 27 m 49 s
 			</td>
 			<td>
-				72,7 kWh
+				71,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3148,10 +3148,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				33 kW
 			</td>
 			<td>
-				 29 m 49 s
+				 29 m 21 s
 			</td>
 			<td>
-				73,6 kWh
+				72,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3162,10 +3162,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				43 kW
 			</td>
 			<td>
-				 31 m 14 s
+				 30 m 45 s
 			</td>
 			<td>
-				74,4 kWh
+				73,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3176,10 +3176,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				54 kW
 			</td>
 			<td>
-				 32 m 21 s
+				 31 m 51 s
 			</td>
 			<td>
-				75,2 kWh
+				74,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3190,10 +3190,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				66 kW
 			</td>
 			<td>
-				 33 m 15 s
+				 32 m 44 s
 			</td>
 			<td>
-				76,1 kWh
+				74,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3204,10 +3204,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				45 kW
 			</td>
 			<td>
-				 34 m 13 s
+				 33 m 41 s
 			</td>
 			<td>
-				76,9 kWh
+				75,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3218,10 +3218,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				35 kW
 			</td>
 			<td>
-				 35 m 34 s
+				 35 m 1 s
 			</td>
 			<td>
-				77,7 kWh
+				76,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3232,10 +3232,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				33 kW
 			</td>
 			<td>
-				 37 m 9 s
+				 36 m 35 s
 			</td>
 			<td>
-				78,6 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3246,10 +3246,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				25 kW
 			</td>
 			<td>
-				 39 m 1 s
+				 38 m 24 s
 			</td>
 			<td>
-				79,4 kWh
+				78,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3260,10 +3260,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				33 kW
 			</td>
 			<td>
-				 40 m 52 s
+				 40 m 14 s
 			</td>
 			<td>
-				80,3 kWh
+				79,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3274,10 +3274,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				30 kW
 			</td>
 			<td>
-				 42 m 35 s
+				 41 m 55 s
 			</td>
 			<td>
-				81,1 kWh
+				79,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3288,10 +3288,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				24 kW
 			</td>
 			<td>
-				 44 m 35 s
+				 43 m 53 s
 			</td>
 			<td>
-				81,9 kWh
+				80,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3302,10 +3302,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				16 kW
 			</td>
 			<td>
-				 47 m 17 s
+				 46 m 33 s
 			</td>
 			<td>
-				82,8 kWh
+				81,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -3316,10 +3316,10 @@ Porsche Taycan har batterivärme, vilket gör det lättare att ladda vid optimal
 				10 kW
 			</td>
 			<td>
-				 51 m 26 s
+				 50 m 38 s
 			</td>
 			<td>
-				83,6 kWh
+				82,3 kWh
 			</td>
 		</tr>
 	</tbody>

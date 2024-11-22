@@ -34,7 +34,7 @@ Porsche Taycan propose deux options de batterie avec des spécifications différ
 
 ### Performance Battery Plus
 
-La batterie haute capacité a une capacité brute de 105,0 kWh et une capacité nette utilisable de 97,0 kWh, offrant une réserve de 8,0 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 105,0 kWh et une capacité nette utilisable de 97,0 kWh, offrant une réserve de 8,0 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 729 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 678 et 579 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,3 kWh/100 km pour le modèle de base et à 16,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -44,13 +44,13 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Performance Battery
 
-La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 83,6 kWh, offrant une réserve de 5,4 kWh (6,1%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 82,3 kWh, offrant une réserve de 6,7 kWh (7,5%) pour la protection de la batterie. Fonctionnant à une tension nominale de 618 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 590 et 503 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,3 kWh/100 km pour le modèle de base et à 16,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 51 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 64 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 162kW. Chaque session de charge prendrait 19 minutes et 51 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 51 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 162kW. Chaque session de charge prendrait 19 minutes et 57 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 8 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 55%, avec un temps de recharge total de 48 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 8 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 56%, avec un temps de recharge total de 48 minutes.
 
 ### Chargeur embarqué
 
@@ -209,10 +209,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 16 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de siège.
 
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-- Black/Red [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
 - Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)

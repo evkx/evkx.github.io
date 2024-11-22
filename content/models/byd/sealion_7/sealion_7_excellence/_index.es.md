@@ -30,17 +30,17 @@ El BYD Sealion 7 Excellence ofrece un rendimiento sólido con una potencia máxi
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 93,0 kWh y una capacidad neta utilizable de 91,3 kWh, proporcionando un buffer de 1,7 kWh (1,8%) para la protección de la batería. Operando a un voltaje nominal de 569 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 91,3 kWh y una capacidad neta utilizable de 82,5 kWh, proporcionando un buffer de 8,8 kWh (9,6%) para la protección de la batería. Operando a un voltaje nominal de 569 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 502 km, con una tasa de consumo de energía de 18,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 502 km, con una tasa de consumo de energía de 16,4 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 230kW. Una carga completa del 0 al 100 % tardaría 55 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 124kW. Cada sesión de carga tardaría 18 minutos y 7 segundos.
+La velocidad máxima de carga de CC es 230kW. Una carga completa del 0 al 100 % tardaría 50 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 120kW. Cada sesión de carga tardaría 17 minutos y 15 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 30 minutos. Este viaje requeriría dos paradas de carga del 5% al 45%, con un tiempo total de carga de 71 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 36 minutos. Este viaje requeriría dos paradas de carga del 8% al 45%, con un tiempo total de carga de 77 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 17 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 30 minutos usando un cargador en casa.
 
 ### Puerto de carga
 
