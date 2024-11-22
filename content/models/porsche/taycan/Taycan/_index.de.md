@@ -246,6 +246,19 @@ Die second-Option sind zwei integrierte Sitze in der zweiten Reihe mit einem dri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
+### Innenraumaufbewahrung
+
+Der Porsche Taycan bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
+
+- **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+
+### Innenbeleuchtung
+
+Der Porsche Taycan bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
+
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so Ihrem Fahrerlebnis eine persönliche Note verleihen.
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

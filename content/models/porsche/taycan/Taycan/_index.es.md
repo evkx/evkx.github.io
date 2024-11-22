@@ -246,6 +246,19 @@ La opción second son dos asientos integrados en la segunda fila con un tercer a
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
+### Almacenamiento Interior
+
+El Porsche Taycan ofrece amplias soluciones de almacenamiento interior para mejorar la conveniencia y la organización:
+
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
+### Iluminación Interior
+
+El Porsche Taycan ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

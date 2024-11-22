@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 9: Why Wait For A Range Rover??</h3>
+<p>Fully Charged Show: 22.11.2024</p>
+
+{{< youtube lYkfrUtz8c8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai IONIQ 9 First Tour! Charging, Space, Tech, &amp; Design</h3>
 <p>Out of Spec Reviews: 21.11.2024</p>
 

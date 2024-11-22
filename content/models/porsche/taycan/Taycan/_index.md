@@ -253,6 +253,19 @@ The second option is two integrated seats in the second row with a third smaller
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
+### Interior Storage
+
+The Porsche Taycan provides ample interior storage solutions to enhance convenience and organization:
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
+### Interior Lighting
+
+The Porsche Taycan offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
+
 ## Climate System
 
 There is one climate system available:

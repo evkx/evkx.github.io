@@ -246,6 +246,19 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
+### Interiör Förvaring
+
+Porsche Taycan erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+
+### Interiör Belysning
+
+Porsche Taycan erbjuder ett utbud av interiörbelysningsalternativ som är utformade för att skapa en behaglig atmosfär och förbättra synligheten.
+
+- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan, dörrpanelerna och fotutrymmet, vilket skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens, vilket ger en personlig touch till din körupplevelse.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
