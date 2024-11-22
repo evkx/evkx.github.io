@@ -257,7 +257,7 @@ Le Porsche Taycan offre de nombreuses solutions de rangement intérieur pour am�
 
 Le Porsche Taycan offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
 
-- **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur le tableau de bord, les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
+- **Éclairage d'Ambiance Multicolore:** Cette fonctionnalité s'étend sur les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs en fonction de votre humeur ou de vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
 
 ## Système de climatisation
 

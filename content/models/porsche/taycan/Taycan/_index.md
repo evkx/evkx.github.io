@@ -264,7 +264,7 @@ The Porsche Taycan provides ample interior storage solutions to enhance convenie
 
 The Porsche Taycan offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
 
-- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
+- **Multicolor Ambient Lighting:** This feature extends across the door panels and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
 
 ## Climate System
 

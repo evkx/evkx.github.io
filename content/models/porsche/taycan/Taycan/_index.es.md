@@ -257,7 +257,7 @@ El Porsche Taycan ofrece amplias soluciones de almacenamiento interior para mejo
 
 El Porsche Taycan ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
 
-- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a través de los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores según tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
 
 ## Sistema de climatización
 

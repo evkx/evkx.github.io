@@ -257,7 +257,7 @@ Porsche Taycan tilbyder rigelige opbevaringsløsninger i interiøret for at øge
 
 Porsche Taycan tilbyder en række interiørbelysningsmuligheder designet til at skabe en behagelig atmosfære og forbedre synligheden.
 
-- **Flerfarvet Ambient Belysning:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, hvilket skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer en personlig touch til din køreoplevelse.
+- **Flerfarvet Ambient Belysning:** Denne funktion strækker sig over dørpanelerne og fodbrønden og skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer et personligt præg til din køreoplevelse.
 
 ## Klimasystem
 

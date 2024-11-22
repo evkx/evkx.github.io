@@ -257,7 +257,7 @@ Der Porsche Taycan bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort
 
 Der Porsche Taycan bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
 
-- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so Ihrem Fahrerlebnis eine persönliche Note verleihen.
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so eine persönliche Note in Ihr Fahrerlebnis bringen.
 
 ## Klimaanlage
 
