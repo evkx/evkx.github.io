@@ -82,3 +82,22 @@ weight: 30
 		</div>
 	</div>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3>Kia EV9 GT</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev9_gt/"><img src="" class="img-fluid" width="400px" height="0px" alt="EV9 GT" ></a>
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 99,8 kWh <i class="bi bi-ev-station"></i> 233 kW 
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ev9_gt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev9_gt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev9_gt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev9_gt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev9_gt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev9_gt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -430,7 +430,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
-	Kia har 4 modell(er) med totalt 12 varianter.
+	Kia har 4 modell(er) med totalt 13 varianter.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gå till Kia modellöversikt</a>
 </div>

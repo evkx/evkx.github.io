@@ -56,7 +56,7 @@ Kia EV6 es un SUV Coupé disponible en 6 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV9 es un SUV disponible en 4 variantes.
+Kia EV9 es un SUV disponible en 5 variantes.
 </p>
 	<a href="ev9/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

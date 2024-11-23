@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-53e21be8
+  translation: Kia EV9 GT är en helelektrisk SUV med en WLTP räckvidd på upp till 505 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-63d7ac4b
   translation: Porsche Taycan 4 är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 643 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0312d4d7
   translation: MHERO I är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-97714ed8
-  translation: VOYAH Courage AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 440 km. EVKX.net har alla detaljer.
 

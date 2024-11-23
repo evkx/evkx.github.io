@@ -499,7 +499,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  
 	</p>
 	<p>
-	Kia has 4 models with total 12 variants.
+	Kia has 4 models with total 13 variants.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Go to Kia EV-model overview</a>
 </div>
