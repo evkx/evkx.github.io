@@ -30,7 +30,7 @@ Kia EV9 GT-Line AWD leverer en solid præstation med en maksimal effekt på 283 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 99,8 kWh og en nettoanvendelig kapacitet på 98,0 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 552 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
+Det højkapacitetsbatteri har en bruttokapacitet på 99,8 kWh og en nettoanvendelig kapacitet på 98,0 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 552 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 512 og 505 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 19,1 kWh/100 km for basismodellen og 19,4 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -54,6 +54,18 @@ Kia EV9 GT-Line AWD har et firehjulstræk, der understøttes af to motorer, en p
 
 ### Hjulophæng
 
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
+
+### Styring
+
+Dynamisk styring er en standard-funktion på Kia EV9 GT-Line AWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
+### Køretilstande
+
+Kia EV9 GT-Line AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 1 tilstande:
+
+- drivetrain.drivetrain.drivemodes.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 340mm.
@@ -66,7 +78,7 @@ Den maksimale regenerative effekt er 150 kW.
 
 ## Udvendig
 
-Den Kia EV9 GT-Line AWD, med dimensioner på 5010 mm i længde, 1980 mm i bredde og 1755 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Kia EV9 GT-Line AWD, med dimensioner på 5015 mm i længde, 1980 mm i bredde og 1780 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Kia EV9 GT-Line AWD tilbyder et udvalg af 10 lakfarver, herunder ensfarvede, metalliske, perlemors- og matte muligheder
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Kia EV9 GT-Line AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -76,7 +88,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Kia EV9 GT-Line AW
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Begge glaspaneler har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
@@ -88,7 +100,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer.
+Interiøret i Kia EV9 GT-Line AWD er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer en flydende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -102,20 +114,20 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgængelig for passager)
 
-Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
-- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
-- Black [læderpolstring](../../../../technology/seats/materials/#leather)
-- Black/White [læderpolstring](../../../../technology/seats/materials/#leather)
-- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
-- Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-- Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- LightGray/Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Brown/Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- DarkGray/Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -129,17 +141,27 @@ Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde h
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for ydre sæder)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (elektrisk justerbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/secondrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -168,6 +190,8 @@ Kia EV9 GT-Line AWD inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 ## Brugergrænseflade og kontrol
 
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+
 Kia EV9 GT-Line AWD har tre skærme på en delt ramme monteret med beslag på instrumentbrættet.
 
 Vigtige skærmdetaljer:
@@ -176,7 +200,7 @@ Vigtige skærmdetaljer:
 - Skærmen touch i den midterste del af den delte ramme er 5,3 tommer stor
 - Skærmen touch i højre del af den delte ramme er 12,3 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/screens_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -184,11 +208,13 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 Kia EV9 GT-Line AWD er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, rullehjul og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
 
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment
 
@@ -233,18 +259,28 @@ Den Kia EV9 GT-Line AWD inkluderer flere standard- og valgfri [avancerede fører
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Kia EV9 GT-Line AWD, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
 
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Kia EV9 GT-Line AWD, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Kia EV9 GT-Line AWD, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Kia EV9 GT-Line AWD, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia EV9 GT-Line AWD, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Kia EV9 GT-Line AWD, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
-Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med standard Highway Driving Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
@@ -256,12 +292,34 @@ Kia EV9 GT-Line AWD er udstyret med avancerede sikkerhedsfunktioner for at besky
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
+Bagagerummet har en lastekapacitet på 312 liter. Med det bageste sæde foldet ned, udvides dette til 2993 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
 
 Køretøjets maksimale vægt er 3190 kg, med en basisvægt på 2637 kg. Dette giver en maksimal last på 553 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2500 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/trunk_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
+
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 31.03.2023, og leveringerne startede i December 2023.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- availbility.pricing.AUD (common.country.Australia)
+- availbility.pricing.AUD (common.country.Australia)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Kia EV9 GT-Line AWD, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Volvo EX90 Twin Motor](/models/volvo/ex90/ex90_twin_motor/)
+- [Hyundai IONIQ 9 AWD Performance](/models/hyundai/ioniq_9/ioniq_9_awd_performance/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+
+<a href="https://db.evkx.net/evcompare?evs=45dd09%2ccc6d21%2c3b7e97%2cb8df50%2caba51d" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Range" >}}

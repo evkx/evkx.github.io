@@ -30,7 +30,7 @@ Der Kia EV9 GT-Line AWD liefert eine solide Leistung mit einer maximalen Leistun
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 99,8 kWh und eine nutzbare Nettokapazität von 98,0 kWh, was einen Puffer von 1,8 kWh (1,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 552 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 99,8 kWh und eine nutzbare Nettokapazität von 98,0 kWh, was einen Puffer von 1,8 kWh (1,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 552 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 512 und 505 km (318-314 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 19,1 kWh/100 km für das Basismodell und 19,4 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -54,6 +54,18 @@ Der Kia EV9 GT-Line AWD verfügt über ein Allradantriebssystem, das von zwei Mo
 
 ### Federung
 
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer.
+
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Kia EV9 GT-Line AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der Kia EV9 GT-Line AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 1 Modi wählen:
+
+- drivetrain.drivetrain.drivemodes.
+
 ### Bremsen
 
 Der Kia EV9 GT-Line AWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 360 mm, während die hinteren Scheiben 340 mm groß sind.
@@ -66,7 +78,7 @@ Die maximale regenerative Leistung beträgt 150 kW.
 
 ## Exterieur
 
-Der Kia EV9 GT-Line AWD, mit Abmessungen von 5010 mm Länge, 1980 mm Breite und 1755 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Sie können zwischen 7 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Kia EV9 GT-Line AWD, mit Abmessungen von 5015 mm Länge, 1980 mm Breite und 1780 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Kia EV9 GT-Line AWD bietet eine Auswahl von 10 Lackfarben, darunter Unilack-, Metallic-, Perlmutt- und Matt-Optionen.
 
 Der Kia EV9 GT-Line AWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -76,7 +88,7 @@ Der Kia EV9 GT-Line AWD bietet mehrere Radoptionen in verschiedenen Größen, so
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas hat zwei Paneele. Eines über der ersten und eines über der zweiten Reihe. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Beide Glasplatten haben einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
@@ -88,7 +100,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 ## Interieur
 
-Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Das Interieur des Kia EV9 GT-Line AWD ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Es umfasst eine schwebende Mittelkonsole, die einen offenen Raum zwischen dem Beifahrer und dem Fahrer schafft und praktische Aufbewahrungsmöglichkeiten bietet. Das Gesamtdesign priorisiert Praktikabilität und Benutzerfreundlichkeit. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -102,20 +114,20 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
-- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 
 Verfügbar in:
 
-- Black [Stoff/Kunstleder-Polsterung](../../../../technology/seats/materials/#fabric)
-- Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Black/White [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Gray [Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Gray [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
-- Gray [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
+- LightGray/Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Brown/Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- DarkGray/Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -129,17 +141,27 @@ Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für äußere Sitze)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (elektrisch verstellbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Die third-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/secondrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -168,6 +190,8 @@ Der Kia EV9 GT-Line AWD umfasst mehrere Funktionen, um Komfort und Bequemlichkei
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des Kia EV9 GT-Line AWD konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
+
 Der Kia EV9 GT-Line AWD hat drei Bildschirme auf einem gemeinsamen Rahmen, der mit Halterungen am Armaturenbrett montiert ist.
 
 Wichtige Bildschirmdetails:
@@ -176,7 +200,7 @@ Wichtige Bildschirmdetails:
 - Der touch-Bildschirm in der Mitte des gemeinsamen Rahmens ist 5,3 Zoll groß.
 - Der touch-Bildschirm auf der rechten Seite des gemeinsamen Rahmens ist 12,3 Zoll groß.
 
-Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
+Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/screens_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -184,11 +208,13 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Kia EV9 GT-Line AWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten, Scrollräder und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen mit Leichtigkeit verwalten können.
 
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
 ## Infotainment
 
@@ -233,18 +259,28 @@ Der Kia EV9 GT-Line AWD verfügt über eine Reihe von standardmäßigen und opti
 
 [**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Kia EV9 GT-Line AWD, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
 
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Kia EV9 GT-Line AWD, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Kia EV9 GT-Line AWD, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
 [**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im Kia EV9 GT-Line AWD, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Kia EV9 GT-Line AWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im Kia EV9 GT-Line AWD, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
+
 ### Fahrautomatisierung
 
-Mit dem standardmäßigen  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standardmäßigen Highway Driving Assist Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 ## Sicherheits- und Zugangstechnologien
 
@@ -256,12 +292,34 @@ Der Kia EV9 GT-Line AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgesta
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 333 Litern (11,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2393 Liter (84,5 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 52 Litern (1,8 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 312 Litern (11,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2993 Liter (105,7 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 52 Litern (1,8 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 3190 kg (7033 lbs) bei einem Leergewicht von 2637 kg (5814 lbs). Dies ermöglicht eine maximale Zuladung von 553 kg (1219 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2500 kg (5512 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/trunk_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
+
+## Verfügbarkeit & Preise
+
+Der Kia EV9 GT-Line AWD feierte seine Weltpremiere am 31.03.2023, mit Lieferungen ab December 2023.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- availbility.pricing.AUD (common.country.Australia)
+- availbility.pricing.AUD (common.country.Australia)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Kia EV9 GT-Line AWD identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Volvo EX90 Twin Motor](/models/volvo/ex90/ex90_twin_motor/)
+- [Hyundai IONIQ 9 AWD Performance](/models/hyundai/ioniq_9/ioniq_9_awd_performance/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+
+<a href="https://db.evkx.net/evcompare?evs=45dd09%2ccc6d21%2c3b7e97%2cb8df50%2caba51d" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -209,6 +209,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				552
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -298,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				5010 mm
+				5015 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1755 mm
+				1780 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +335,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1702 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1714 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag-koeffisient
 			</td>
 			<td>
@@ -335,10 +359,26 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Angrepsvinkel
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avgangsvinkel
+			</td>
+			<td>
+				22,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
-				12,3 meter
+				12,4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +435,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				333 liter
+				312 liter
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +443,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				2393 liter
+				2993 liter
 			</td>
 		</tr>
 		<tr>
@@ -551,6 +591,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Spiralfjær
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -593,7 +649,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +665,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +737,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Valgfri elektrisk funksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +745,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +753,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Standard fører, ikke tilgjengelig for passasjer
 			</td>
 		</tr>
 	</tbody>
@@ -738,7 +794,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -746,7 +802,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -794,7 +850,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon, ytre seter
 			</td>
 		</tr>
 		<tr>
@@ -802,7 +858,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +891,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +899,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -851,7 +907,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -883,7 +939,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -899,7 +955,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -907,11 +963,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+#### Manual Captain Seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -937,7 +996,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -945,7 +1004,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +1012,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1009,7 +1068,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1050,6 +1109,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Døsighetsvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1205,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Unngå krasj i venstresving
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1213,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1167,6 +1229,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1182,6 +1245,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1230,7 +1294,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1238,6 +1302,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1245,6 +1310,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

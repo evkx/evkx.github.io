@@ -209,6 +209,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				552
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -298,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5010 mm (197,2")
+				5015 mm (197,4")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1755 mm (69,1")
+				1780 mm (70,1")
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +335,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1702 mm (67,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1714 mm (67,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag coefficient
 			</td>
 			<td>
@@ -335,10 +359,26 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Approach Angle
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Departure Angle
+			</td>
+			<td>
+				22,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
-				12,3 meter (484,3")
+				12,4 meter (488,2")
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +435,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				333 liter (12 cu-ft)
+				312 liter (11 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +443,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				2393 liter (85 cu-ft)
+				2993 liter (106 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -551,6 +591,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Coil Spring
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -593,7 +649,7 @@ This model is available with a seat configuration with six or seven seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +665,7 @@ This model is available with a seat configuration with six or seven seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +737,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Optional electric feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +745,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Optional feature
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +753,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Standard driver, not available passenger
 			</td>
 		</tr>
 	</tbody>
@@ -738,7 +794,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -746,7 +802,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -794,7 +850,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature, outer seats
 			</td>
 		</tr>
 		<tr>
@@ -802,7 +858,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +891,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +899,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -851,7 +907,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -883,7 +939,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -899,7 +955,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -907,11 +963,14 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+#### Manual Captain Seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -937,7 +996,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -945,7 +1004,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +1012,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1009,7 +1068,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -1050,6 +1109,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1205,7 @@ This model is available with a seat configuration with six or seven seats.
 				Left turn crash avoidance
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1213,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1167,6 +1229,7 @@ This model is available with a seat configuration with six or seven seats.
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1182,6 +1245,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1230,7 +1294,7 @@ This model is available with a seat configuration with six or seven seats.
 				Head-up display
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1238,6 +1302,7 @@ This model is available with a seat configuration with six or seven seats.
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1245,6 +1310,7 @@ This model is available with a seat configuration with six or seven seats.
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
