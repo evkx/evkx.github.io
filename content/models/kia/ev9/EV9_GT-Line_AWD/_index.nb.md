@@ -46,6 +46,10 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
+### Toveis lading
+
+Denne modellen støtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) funksjonaliteter. V2L lar deg drive elektrisk utstyr som krever opptil 3,68 kW strøm, inkludert muligheten til å lade andre kjøretøy. V2H gjør det mulig for bilen å fungere som en backup strømkilde for hjemmet ditt.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivverk
@@ -62,9 +66,15 @@ Dynamisk styring er en standard-funksjonen på Kia EV9 GT-Line AWD. Dynamisk sty
 
 ### Kjøremoduser
 
-Kia EV9 GT-Line AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 1 moduser:
+Kia EV9 GT-Line AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
 
-- drivetrain.drivetrain.drivemodes.
+- Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Sport: Dynamisk styring, fjæring og gasspådrag.
+- Normal: Balansert gasspådrag og styring, komfort fjæringsdemping.
+- My Drive: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+- Snow: Balansert styring, gass og demping.
+- Mud: Balansert styring, gass og demping.
+- Sand: Balansert styring, gass og demping.
 
 ### Bremser
 
@@ -72,7 +82,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
+Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes fire nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
 
 Den maksimale regenerative effekten er 150 kW.
 
@@ -110,7 +122,7 @@ Kia EV9 GT-Line AWD er tilgjengelig i en seks- eller sjuseters layout for økt a
 
 Kia EV9 GT-Line AWD Long Range tilbyr kun én type forsete.
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Følgende funksjoner er tilgjengelige på ** Premium Relaxion** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
@@ -123,12 +135,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgjengelig for passasjer)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-
-- LightGray/Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Brown/Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- DarkGray/Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -219,9 +225,11 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Kia EV9 GT-Line AWD har et spesialbygd infotainmentsystem designet for å gi et grensesnitt med en rekke funksjoner og funksjoner for å forbedre kjøreopplevelsen.
+
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
 ### Telefonspeiling
 
@@ -231,10 +239,23 @@ I tillegg støtter Kia EV9 GT-Line AWD Android Auto og Apple CarPlay. Denne funk
 
 Du kan velge mellom to lydsystemer på Kia EV9 GT-Line AWD.
 
-- Med Standard får du seks høyttalere med en maksimal systemeffekt på  watt.
-- Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt.
+- Med Standard får du seks høyttalere med en maksimal systemeffekt på 200 watt.
+- Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 680 watt.
 
 Modellen har 6 USB-C-tilkoblinger som standard.
+
+## Mobilapp
+
+Kia EV9 GT-Line AWD kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
 
 ## Lys
 
@@ -283,11 +304,23 @@ Med standard Highway Driving Assist nivå 2-system får du følgende kjøreautom
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
 Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
+## Sikkerhet
+
+Kia EV9 GT-Line AWD er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og forsetepassasjer
+- Sidegardinkollisjonsputer for både første og andre rad
+- Sidekollisjonsputer for fører og forsetepassasjer
+- Sidekollisjonsputer for passasjerene i andre rad
+- En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+
 ## Sikkerhets- og tilgangsteknologier
 
 Kia EV9 GT-Line AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
+- **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
+- **Alarmsystem:** Et integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og holde kjøretøyet ditt sikkert.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -309,8 +342,8 @@ Kia EV9 GT-Line AWD hadde sin verdenspremiere den 31.03.2023, med leveranser som
 
 Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
 
-- availbility.pricing.AUD (common.country.Australia)
-- availbility.pricing.AUD (common.country.Australia)
+- AUD121 000,00 (Australia)
+- AUD121 000,00 (Australia)
 
 ## Alternative Modeller
 

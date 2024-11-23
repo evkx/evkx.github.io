@@ -46,6 +46,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
+### Recharge bidirectionnelle
+
+Ce modèle prend en charge à la fois les fonctionnalités V2L (Vehicle to Load) et V2H (Vehicle to Home). V2L vous permet d'alimenter des équipements électriques nécessitant jusqu'à 3,68 kW de puissance, y compris la possibilité de charger d'autres véhicules. V2H permet à la voiture de servir de source d'alimentation de secours pour votre maison.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission
@@ -62,9 +66,15 @@ La direction dynamique est une fonctionnalité un standard sur le Kia EV9 GT-Lin
 
 ### Modes de conduite
 
-Le Kia EV9 GT-Line AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 1 modes :
+Le Kia EV9 GT-Line AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
 
-- drivetrain.drivetrain.drivemodes.
+- Eco: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
+- Sport: Direction, suspension et accélérateur dynamiques.
+- Normal: Accélérateur et direction équilibrés, amortissement de suspension confortable.
+- My Drive : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
+- Snow: Direction, accélération et amortissement équilibrés.
+- Mud: Direction, accélération et amortissement équilibrés.
+- Sand: Direction, accélération et amortissement équilibrés.
 
 ### Freins
 
@@ -72,7 +82,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Le système arrête complètement la voiture en utilisant les freins à friction.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Le système arrête complètement la voiture en utilisant les freins à friction.
+
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a quatre niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 La puissance régénérative maximale est de 150 kW.
 
@@ -110,7 +122,7 @@ Kia EV9 GT-Line AWD est disponible en configuration six ou sept sièges pour plu
 
 Le Kia EV9 GT-Line AWD propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège ** Premium Relaxion**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
@@ -123,12 +135,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (standard pour le conducteur, non disponible pour le passager)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
-- LightGray/Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Brown/Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- DarkGray/Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -219,9 +225,11 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+Le Kia EV9 GT-Line AWD dispose d'un système d'infodivertissement personnalisé conçu pour fournir une interface avec une gamme de fonctionnalités et de fonctions pour améliorer l'expérience de conduite.
+
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### Réplication du téléphone
 
@@ -231,10 +239,23 @@ De plus, le Kia EV9 GT-Line AWD prend en charge Android Auto et Apple CarPlay. C
 
 Vous pouvez choisir entre deux systèmes audio sur le Kia EV9 GT-Line AWD.
 
-- Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 680 watts.
 
 Le modèle dispose de 6 connexions USB-C en standard.
+
+## Application mobile
+
+Le Kia EV9 GT-Line AWD est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+- **Historique de conduite** : Consultez les détails de vos trajets précédents.
 
 ## Lumières
 
@@ -283,11 +304,23 @@ Avec le système standard Highway Driving Assist de niveau 2, vous obtenez les f
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
+## Sécurité
+
+Le Kia EV9 GT-Line AWD est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Airbags latéraux pour les passagers de la deuxième rangée
+- Un airbag central avant pour empêcher le conducteur et le passager avant de se heurter lors d'un impact latéral
+
 ## Technologies de sécurité et d'accès
 
 Le Kia EV9 GT-Line AWD est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 - **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
+- **Fonctionnalité téléphone comme clé :** Avec la technologie téléphone comme clé, vous pouvez utiliser votre smartphone comme clé numérique pour déverrouiller et démarrer le véhicule, offrant une couche supplémentaire de commodité et de flexibilité.
+- **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -309,8 +342,8 @@ Ce modèle a été présenté en première mondiale le 31.03.2023 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- availbility.pricing.AUD (common.country.Australia)
-- availbility.pricing.AUD (common.country.Australia)
+- AUD121 000,00 (Australie)
+- AUD121 000,00 (Australie)
 
 ## Modèles Alternatifs
 

@@ -616,6 +616,9 @@ This model is available with a seat configuration with six or seven seats.
 
 ### Front seats
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ This model is available with a seat configuration with six or seven seats.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ This model is available with a seat configuration with six or seven seats.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

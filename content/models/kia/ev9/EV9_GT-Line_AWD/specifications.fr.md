@@ -616,6 +616,9 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 
 ### Sièges avant
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Effet total
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Effet total
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

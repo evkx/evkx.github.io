@@ -46,6 +46,10 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
+This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 3.68 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -62,9 +66,15 @@ Dynamic steering is a standard on the Kia EV9 GT-Line AWD, varying the steering 
 
 ### Drive Modes
 
-The Kia EV9 GT-Line AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 1 modes:
+The Kia EV9 GT-Line AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- drivetrain.drivetrain.drivemodes.
+- Eco: Balanced steering, with efficient throttle, and balanced suspension.
+- Sport: Dynamic steering, suspension and throttle.
+- Normal: Balanced throttle and steering, comfort suspension damping.
+- My Drive: User-defined settings for steering, throttle, and suspension.
+- Snow: Balanced steering, throttle and damping.
+- Mud: Balanced steering, throttle and damping.
+- Sand: Balanced steering, throttle and damping.
 
 ### Brakes
 
@@ -72,7 +82,9 @@ The Kia EV9 GT-Line AWD is equipped with [cast-iron disc brakes](../../../../tec
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. The system stops the car completely using friction brakes.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are four levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 The maximum regenerative power is 150 kW.
 
@@ -110,7 +122,7 @@ Kia EV9 GT-Line AWD is available in a six or seven-seat layout for added versati
 
 The Kia EV9 GT-Line AWD offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the ** Premium Relaxion** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
@@ -123,12 +135,6 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (standard for driver, not available for passenger)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-
-Available in:
-
-- LightGray/Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Brown/Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- DarkGray/Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -219,9 +225,11 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Kia EV9 GT-Line AWD features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 
@@ -231,10 +239,23 @@ The Kia EV9 GT-Line AWD supports Android Auto and Apple CarPlay, allowing you to
 
 You can choose between two sound systems for the Kia EV9 GT-Line AWD:
 
-- **Standard:** Features six speakers and delivers a maximum output of  watts.
-- **Meridian Premium Sound System:** Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features six speakers and delivers a maximum output of 200 watts.
+- **Meridian Premium Sound System:** Features 14 speakers and delivers a maximum output of 680 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
+
+## Mobile App
+
+The Kia EV9 GT-Line AWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+- **Driving History:** Review the details of your past trips.
 
 ## Lights
 
@@ -283,11 +304,23 @@ With the standard Highway Driving Assist level 2 system, you get the following d
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
+## Safety
+
+The Kia EV9 GT-Line AWD is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- Side airbags for the second-row passengers
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
 ## Security and Access Technologies
 
 The Kia EV9 GT-Line AWD is equipped with advanced security features to protect you and your vehicle. These include:
 
 - **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
+- **Phone-as-Key Functionality:** With phone-as-key technology, you can use your smartphone as a digital key to unlock and start the vehicle, providing an additional layer of convenience and flexibility.
+- **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -309,8 +342,8 @@ The Kia EV9 GT-Line AWD had its world premiere on 31.03.2023, with deliveries st
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- availbility.pricing.AUD (common.country.Australia)
-- availbility.pricing.AUD (common.country.Australia)
+- AUD121 000,00 (Australia)
+- AUD121 000,00 (Australia)
 
 ## Alternative Models
 

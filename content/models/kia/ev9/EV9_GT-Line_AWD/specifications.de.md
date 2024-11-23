@@ -616,6 +616,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 
 ### Vordersitze
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Gesamtleistung
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gesamtleistung
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

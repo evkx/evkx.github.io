@@ -616,6 +616,9 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 
 ### Forsæder
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

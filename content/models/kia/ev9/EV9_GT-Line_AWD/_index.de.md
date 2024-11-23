@@ -46,6 +46,10 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 
 Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt sowohl V2L (Vehicle to Load) als auch V2H (Vehicle to Home) Funktionen. V2L ermöglicht es Ihnen, elektrische Geräte mit bis zu 3,68 kW Leistung zu versorgen, einschließlich der Möglichkeit, andere Fahrzeuge aufzuladen. V2H ermöglicht es dem Auto, als Notstromquelle für Ihr Zuhause zu dienen.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Antriebsstrang
@@ -62,9 +66,15 @@ Die dynamische Lenkung ist eine standard im Kia EV9 GT-Line AWD, wobei das Lenkv
 
 ### Fahrmodi
 
-Der Kia EV9 GT-Line AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 1 Modi wählen:
+Der Kia EV9 GT-Line AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 7 Modi wählen:
 
-- drivetrain.drivetrain.drivemodes.
+- Eco: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Sport: Dynamisches Lenken, Federung und Gas.
+- Normal: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
+- My Drive: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
+- Snow: Ausgewogenes Lenken, Gasgeben und Dämpfen.
+- Mud: Ausgewogenes Lenken, Gasgeben und Dämpfen.
+- Sand: Ausgewogenes Lenken, Gasgeben und Dämpfen.
 
 ### Bremsen
 
@@ -72,7 +82,9 @@ Der Kia EV9 GT-Line AWD ist mit [Gusseisenscheibenbremsen](../../../../technolog
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell bietet mehrere Modi zur Steigerung der Effizienz und des Fahrerlebnisses. Die effizienteste Option ist der [**Automatische Regenerationsmodus**](../../../../technology/regen/#automatic-regen-adaptive), bei dem das Fahrzeug, wenn möglich, rollt und bei Bedarf durch regenerative Bremsung die Geschwindigkeit reduziert. <br /><br />**Manuelle Regeneration** ist ein weiterer Modus, bei dem die regenerative Bremsung durch Betätigen des Bremspedals gesteuert wird. Das Bremssystem mischt physische Bremsen nur dann ein, wenn es notwendig ist. <br /><br/> Eine weitere Option ist der [**Regen auf dem Gaspedal**](../../../../technology/regen/#one-pedal-driving) Modus, bei dem die regenerative Bremsung aktiviert wird, wenn der Fahrer das Gaspedal loslässt. Dieses System ermöglicht es dem Fahrzeug, langsamer zu werden und Energie zurückzugewinnen, ohne dass der Fahrer das Bremspedal betätigen muss, eine Funktion, die oft als **Ein-Pedal-Fahren** bezeichnet wird. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen vier Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 Die maximale regenerative Leistung beträgt 150 kW.
 
@@ -110,7 +122,7 @@ Kia EV9 GT-Line AWD ist in einer Sechs- oder Siebensitzer-Konfiguration für zus
 
 Der Kia EV9 GT-Line AWD bietet nur einen Typ von Vordersitz.
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+Die folgenden Funktionen sind für den ** Premium Relaxion**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
@@ -123,12 +135,6 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-
-Verfügbar in:
-
-- LightGray/Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- Brown/Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
-- DarkGray/Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
@@ -219,9 +225,11 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ## Infotainment
 
+Das Kia EV9 GT-Line AWD verfügt über ein maßgeschneidertes Infotainmentsystem, das eine Schnittstelle mit einer Vielzahl von Funktionen und Funktionen bietet, um das Fahrerlebnis zu verbessern.
+
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
 ### Telefonspiegelung
 
@@ -231,10 +239,23 @@ Der Kia EV9 GT-Line AWD unterstützt Android Auto und Apple CarPlay, sodass Sie 
 
 Sie können zwischen zwei Soundsystemen für den Kia EV9 GT-Line AWD wählen:
 
-- **Standard:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Meridian Premium Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Standard:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von 200 Watt.
+- **Meridian Premium Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von 680 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 6 USB-C-Anschlüsse.
+
+## Mobile App
+
+Der Kia EV9 GT-Line AWD wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Fernparken:** Steuern Sie Ihr Auto mühelos, um es aus der Ferne zu parken oder aus einer Parklücke herauszufahren.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Geplantes Laden:** Planen und terminieren Sie Ladesitzungen im Voraus.
+- **Ladeziel anpassen:** Stellen Sie Ihren gewünschten Ladezustand ein, um das Laden nach Bedarf zu starten oder zu stoppen.
+- **Routenplanung:** Planen Sie Ihre Route und senden Sie sie direkt an das Navigationssystem Ihres Autos.
+- **Fahrtenverlauf:** Überprüfen Sie die Details Ihrer vergangenen Fahrten.
 
 ## Lichter
 
@@ -283,11 +304,23 @@ Mit dem standardmäßigen Highway Driving Assist Level 2 System erhalten Sie die
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
+## Sicherheit
+
+Der Kia EV9 GT-Line AWD ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Seitenairbags für die Passagiere der zweiten Reihe
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
 ## Sicherheits- und Zugangstechnologien
 
 Der Kia EV9 GT-Line AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
+- **Telefon-als-Schlüssel Funktionalität:** Mit der Telefon-als-Schlüssel-Technologie können Sie Ihr Smartphone als digitalen Schlüssel verwenden, um das Fahrzeug zu entriegeln und zu starten, was zusätzlichen Komfort und Flexibilität bietet.
+- **Alarmsystem:** Ein integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und Ihr Fahrzeug zu sichern.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -309,8 +342,8 @@ Der Kia EV9 GT-Line AWD feierte seine Weltpremiere am 31.03.2023, mit Lieferunge
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
-- availbility.pricing.AUD (common.country.Australia)
-- availbility.pricing.AUD (common.country.Australia)
+- AUD121 000,00 (Australien)
+- AUD121 000,00 (Australien)
 
 ## Alternative Modelle
 

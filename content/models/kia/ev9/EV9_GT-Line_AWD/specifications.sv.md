@@ -616,6 +616,9 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 
 ### Framsäten
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

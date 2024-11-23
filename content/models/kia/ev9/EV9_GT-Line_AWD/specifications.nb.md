@@ -616,6 +616,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 
 ### Forseter
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

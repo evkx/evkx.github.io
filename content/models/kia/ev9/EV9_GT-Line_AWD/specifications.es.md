@@ -616,6 +616,9 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 
 ### Asientos delanteros
 
+
+####  Premium Relaxion
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1410,6 +1413,14 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1433,6 +1444,14 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>
