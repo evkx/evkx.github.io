@@ -122,6 +122,7 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (Standard für Fahrer, nicht verfügbar für Beifahrer)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 Verfügbar in:
 
@@ -177,7 +178,7 @@ Es gibt ein Klimasystem verfügbar:
 
 - **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
-Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
+Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
 ## Komfortfunktionen
 
@@ -292,7 +293,7 @@ Der Kia EV9 GT-Line AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgesta
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 312 Litern (11,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2993 Liter (105,7 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 52 Litern (1,8 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 333 Litern (11,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2393 Liter (84,5 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 52 Litern (1,8 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 3190 kg (7033 lbs) bei einem Leergewicht von 2637 kg (5814 lbs). Dies ermöglicht eine maximale Zuladung von 553 kg (1219 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

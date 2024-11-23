@@ -435,7 +435,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				312 liter
+				333 liter
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				2993 liter
+				2393 liter
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +729,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>

@@ -435,7 +435,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				312 litre
+				333 litre
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				2993 litre
+				2393 litre
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +729,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

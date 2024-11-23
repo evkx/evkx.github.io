@@ -435,7 +435,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				312 liter
+				333 liter
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				2993 liter
+				2393 liter
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +729,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

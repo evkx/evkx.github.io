@@ -122,6 +122,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (standard för förare, inte tillgänglig för passagerare)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
@@ -177,7 +178,7 @@ Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
 
@@ -292,7 +293,7 @@ Kia EV9 GT-Line AWD är utrustad med avancerade säkerhetsfunktioner för att sk
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 312 liter. Med baksätena nedfällda ökar detta till 2993 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 52 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 333 liter. Med baksätena nedfällda ökar detta till 2393 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 52 liter.
 
 Fordonets maximala vikt är 3190 kg, med en grundvikt på 2637 kg. Detta tillåter en maximal last på 553 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

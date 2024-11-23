@@ -435,7 +435,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				312 liter (11 cu-ft)
+				333 liter (12 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				2993 liter (106 cu-ft)
+				2393 liter (85 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +729,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>

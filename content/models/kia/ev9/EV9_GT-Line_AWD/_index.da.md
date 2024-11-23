@@ -122,6 +122,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgængelig for passager)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
@@ -177,7 +178,7 @@ Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
 
@@ -292,7 +293,7 @@ Kia EV9 GT-Line AWD er udstyret med avancerede sikkerhedsfunktioner for at besky
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 312 liter. Med det bageste sæde foldet ned, udvides dette til 2993 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
+Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
 
 Køretøjets maksimale vægt er 3190 kg, med en basisvægt på 2637 kg. Dette giver en maksimal last på 553 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

@@ -122,6 +122,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (standard pour le conducteur, non disponible pour le passager)
+- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
@@ -177,7 +178,7 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
-Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
@@ -292,7 +293,7 @@ Le Kia EV9 GT-Line AWD est équipé de fonctionnalités de sécurité avancées 
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 312 litres. Avec les sièges arrière rabattus, cette capacité passe à 2993 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 52 litres.
+Le coffre offre une capacité de chargement de 333 litres. Avec les sièges arrière rabattus, cette capacité passe à 2393 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 52 litres.
 
 Le poids maximum du véhicule est de 3190 kg, avec un poids de base de 2637 kg. Cela permet une charge maximale de 553 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

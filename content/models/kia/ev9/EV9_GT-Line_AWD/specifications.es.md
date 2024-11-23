@@ -435,7 +435,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				312 litro
+				333 litro
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				2993 litro
+				2393 litro
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +729,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>

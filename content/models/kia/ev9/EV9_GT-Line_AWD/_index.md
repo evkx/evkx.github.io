@@ -122,6 +122,7 @@ The following functionalities are available on the **** seat:
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (standard for driver, not available for passenger)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 Available in:
 
@@ -177,7 +178,7 @@ There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
-This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort Features
 
@@ -292,7 +293,7 @@ The Kia EV9 GT-Line AWD is equipped with advanced security features to protect y
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 312 liters (11.0 CU FT). With the rear seat folded down, this expands to 2993 liters (105.7 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 52 liters (1.8 CU FT).
+The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat folded down, this expands to 2393 liters (84.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 52 liters (1.8 CU FT).
 
 The vehicle’s maximum weight is 3190 kg (7033 lbs), with a base weight of 2637 kg (5814 lbs). This allows for a maximum load of 553 kg (1219 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

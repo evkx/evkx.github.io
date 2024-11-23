@@ -435,7 +435,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				312 liter
+				333 liter
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				2993 liter
+				2393 liter
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -729,7 +729,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

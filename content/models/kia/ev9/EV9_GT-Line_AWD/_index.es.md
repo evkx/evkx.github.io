@@ -122,6 +122,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage) (estándar para el conductor, no disponible para el pasajero)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
@@ -177,7 +178,7 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
 ## Características de confort
 
@@ -292,7 +293,7 @@ El Kia EV9 GT-Line AWD está equipado con características de seguridad avanzada
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 312 litros. Con el asiento trasero plegado, esto se expande a 2993 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 52 litros.
+El maletero ofrece una capacidad de carga de 333 litros. Con el asiento trasero plegado, esto se expande a 2393 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 52 litros.
 
 El peso máximo del vehículo es 3190 kg, con un peso base de 2637 kg. Esto permite una carga máxima de 553 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

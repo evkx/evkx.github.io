@@ -122,6 +122,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgjengelig for passasjer)
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
@@ -177,7 +178,7 @@ Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
 
@@ -292,7 +293,7 @@ Kia EV9 GT-Line AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytt
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 312 liter. Med baksetene nedfelt, utvides dette til 2993 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 52 liter.
+Bagasjerommet tilbyr en lastekapasitet på 333 liter. Med baksetene nedfelt, utvides dette til 2393 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 52 liter.
 
 Kjøretøyets maksimale vekt er 3190 kg, med en basisvekt på 2637 kg. Dette gir en maksimal lastekapasitet på 553 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
