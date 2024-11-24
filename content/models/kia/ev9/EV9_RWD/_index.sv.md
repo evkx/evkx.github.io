@@ -374,4 +374,13 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 
 - $54 900,00 (USA)
 
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Kia EV9 RWD som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Peugot E-5008](/models/peugot/5008/e-5008/)
+- [Mercedes EQS 450+ SUV](/models/mercedes/eqs_suv/eqs_450plus_suv/)
+
+<a href="https://db.evkx.net/evcompare?evs=0e27e2%2cf5ff6e%2cec581c" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

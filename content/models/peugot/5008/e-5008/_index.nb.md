@@ -36,7 +36,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 
 Maksimal DC-ladehastighet er 160 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 69kW. Hver ladeøkt vil ta 32 minutter og 12 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 10 timer og 55 minutter. Denne reisen ville kreve to ladestopp fra 6% til 55%, med en total ladetid på 155 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 10 timer og 36 minutter. Denne reisen ville kreve to ladestopp fra 4% til 58%, med en total ladetid på 137 minutter.
 
 ### Ombordlader
 
@@ -178,7 +178,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet hjelper deg med å navigere til din destinasjon med letthet. Det gir også sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise. Imidlertid støtter det ikke ruteplanlegging med ladestopp, noe som krever at du planlegger ladestoppene dine manuelt.
 
 ### Telefonspeiling
 

@@ -36,7 +36,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 160 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 72 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 56%. This results in an effective charging speed, including time lost, of 69 kW, with each charging session taking about 32 minutes and 12 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 55 minutes. This journey would require five charging stops from 6% to 55%, with a total charging time of 155 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 36 minutes. This journey would require four charging stops from 4% to 58%, with a total charging time of 137 minutes.
 
 ### Onboard Charger
 
@@ -178,7 +178,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system helps you navigate to your destination with ease. It also provides real-time traffic information, ensuring an efficient and stress-free journey. However, it does not support route planning with charging stops, requiring you to plan your charging stops manually.
 
 ### Phone Mirroring
 

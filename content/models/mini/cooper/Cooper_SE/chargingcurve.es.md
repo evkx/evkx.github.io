@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				47,5 kW
+				41,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				49,7 kW
+				43,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				58,0 kW
+				58,6 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				64,9 kW
+				68,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Velocidad C máxima
 			</td>
 			<td>
-				1,75
+				1,85
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Tasa C promedio
 			</td>
 			<td>
-				1,15
+				1,12
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				7% - 58%
+				8% - 76%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				La velocidad de carga óptima incluye una pérdida de 5 minutos
 			</td>
 			<td>
-				60,9kW
+				59,1kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				25m36s
+				34m51s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0-100%
 			</td>
 			<td>
-				1 h 1 m 51 s
+				1 h 11 m 24 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				 53 m 12 s
+				1 h 1 m 8 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 31 m 43 s
+				 30 m 14 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,7 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,5 km (4,0 mi)
+				5,6 km (3,5 mi)
 			</td>
 			<td>
 				?
@@ -189,7 +189,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,8 km (4,2 mi)
+				5,9 km (3,7 mi)
 			</td>
 			<td>
 				?
@@ -206,7 +206,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				8,9 km (5,5 mi)
+				9,3 km (5,8 mi)
 			</td>
 			<td>
 				?
@@ -248,7 +248,7 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				0%
 			</td>
 			<td>
-				9 kW
+				7 kW
 			</td>
 			<td>
 				 0 m 0 s
@@ -262,10 +262,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				1%
 			</td>
 			<td>
-				17 kW
+				15 kW
 			</td>
 			<td>
-				 2 m 26 s
+				 2 m 53 s
 			</td>
 			<td>
 				0,5 kWh
@@ -276,10 +276,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				2%
 			</td>
 			<td>
-				26 kW
+				22 kW
 			</td>
 			<td>
-				 3 m 54 s
+				 4 m 38 s
 			</td>
 			<td>
 				1,0 kWh
@@ -290,10 +290,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				3%
 			</td>
 			<td>
-				35 kW
+				29 kW
 			</td>
 			<td>
-				 4 m 57 s
+				 5 m 52 s
 			</td>
 			<td>
 				1,5 kWh
@@ -304,10 +304,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				4%
 			</td>
 			<td>
-				43 kW
+				36 kW
 			</td>
 			<td>
-				 5 m 45 s
+				 6 m 50 s
 			</td>
 			<td>
 				2,0 kWh
@@ -318,10 +318,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				5%
 			</td>
 			<td>
-				52 kW
+				44 kW
 			</td>
 			<td>
-				 6 m 25 s
+				 7 m 38 s
 			</td>
 			<td>
 				2,4 kWh
@@ -332,10 +332,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				6%
 			</td>
 			<td>
-				60 kW
+				51 kW
 			</td>
 			<td>
-				 6 m 59 s
+				 8 m 18 s
 			</td>
 			<td>
 				2,9 kWh
@@ -346,10 +346,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				7%
 			</td>
 			<td>
-				69 kW
+				58 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 8 m 52 s
 			</td>
 			<td>
 				3,4 kWh
@@ -360,10 +360,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				8%
 			</td>
 			<td>
-				78 kW
+				65 kW
 			</td>
 			<td>
-				 7 m 54 s
+				 9 m 23 s
 			</td>
 			<td>
 				3,9 kWh
@@ -374,10 +374,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				9%
 			</td>
 			<td>
-				86 kW
+				73 kW
 			</td>
 			<td>
-				 8 m 17 s
+				 9 m 51 s
 			</td>
 			<td>
 				4,4 kWh
@@ -388,10 +388,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				10%
 			</td>
 			<td>
-				95 kW
+				80 kW
 			</td>
 			<td>
-				 8 m 38 s
+				 10 m 15 s
 			</td>
 			<td>
 				4,9 kWh
@@ -405,7 +405,7 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				95 kW
 			</td>
 			<td>
-				 8 m 58 s
+				 10 m 37 s
 			</td>
 			<td>
 				5,4 kWh
@@ -416,10 +416,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				12%
 			</td>
 			<td>
-				94 kW
+				98 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 10 m 57 s
 			</td>
 			<td>
 				5,9 kWh
@@ -430,10 +430,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				13%
 			</td>
 			<td>
-				94 kW
+				100 kW
 			</td>
 			<td>
-				 9 m 39 s
+				 11 m 16 s
 			</td>
 			<td>
 				6,4 kWh
@@ -444,10 +444,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				14%
 			</td>
 			<td>
-				93 kW
+				100 kW
 			</td>
 			<td>
-				 9 m 59 s
+				 11 m 35 s
 			</td>
 			<td>
 				6,9 kWh
@@ -458,10 +458,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				15%
 			</td>
 			<td>
-				93 kW
+				80 kW
 			</td>
 			<td>
-				 10 m 19 s
+				 11 m 56 s
 			</td>
 			<td>
 				7,4 kWh
@@ -472,10 +472,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				16%
 			</td>
 			<td>
-				92 kW
+				80 kW
 			</td>
 			<td>
-				 10 m 40 s
+				 12 m 20 s
 			</td>
 			<td>
 				7,8 kWh
@@ -486,10 +486,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				17%
 			</td>
 			<td>
-				92 kW
+				80 kW
 			</td>
 			<td>
-				 11 m 0 s
+				 12 m 43 s
 			</td>
 			<td>
 				8,3 kWh
@@ -500,10 +500,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				18%
 			</td>
 			<td>
-				91 kW
+				80 kW
 			</td>
 			<td>
-				 11 m 21 s
+				 13 m 7 s
 			</td>
 			<td>
 				8,8 kWh
@@ -514,10 +514,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				19%
 			</td>
 			<td>
-				91 kW
+				81 kW
 			</td>
 			<td>
-				 11 m 42 s
+				 13 m 31 s
 			</td>
 			<td>
 				9,3 kWh
@@ -528,10 +528,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				20%
 			</td>
 			<td>
-				91 kW
+				80 kW
 			</td>
 			<td>
-				 12 m 3 s
+				 13 m 54 s
 			</td>
 			<td>
 				9,8 kWh
@@ -542,10 +542,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				21%
 			</td>
 			<td>
-				90 kW
+				77 kW
 			</td>
 			<td>
-				 12 m 24 s
+				 14 m 18 s
 			</td>
 			<td>
 				10,3 kWh
@@ -556,10 +556,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				22%
 			</td>
 			<td>
-				90 kW
+				78 kW
 			</td>
 			<td>
-				 12 m 45 s
+				 14 m 43 s
 			</td>
 			<td>
 				10,8 kWh
@@ -570,10 +570,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				23%
 			</td>
 			<td>
-				89 kW
+				78 kW
 			</td>
 			<td>
-				 13 m 6 s
+				 15 m 7 s
 			</td>
 			<td>
 				11,3 kWh
@@ -584,10 +584,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				24%
 			</td>
 			<td>
-				89 kW
+				78 kW
 			</td>
 			<td>
-				 13 m 27 s
+				 15 m 32 s
 			</td>
 			<td>
 				11,8 kWh
@@ -598,10 +598,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				25%
 			</td>
 			<td>
-				88 kW
+				78 kW
 			</td>
 			<td>
-				 13 m 49 s
+				 15 m 56 s
 			</td>
 			<td>
 				12,2 kWh
@@ -612,10 +612,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				26%
 			</td>
 			<td>
-				88 kW
+				78 kW
 			</td>
 			<td>
-				 14 m 10 s
+				 16 m 20 s
 			</td>
 			<td>
 				12,7 kWh
@@ -626,10 +626,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				27%
 			</td>
 			<td>
-				87 kW
+				78 kW
 			</td>
 			<td>
-				 14 m 32 s
+				 16 m 44 s
 			</td>
 			<td>
 				13,2 kWh
@@ -640,10 +640,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				28%
 			</td>
 			<td>
-				87 kW
+				79 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 17 m 9 s
 			</td>
 			<td>
 				13,7 kWh
@@ -654,10 +654,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				29%
 			</td>
 			<td>
-				87 kW
+				79 kW
 			</td>
 			<td>
-				 15 m 15 s
+				 17 m 33 s
 			</td>
 			<td>
 				14,2 kWh
@@ -668,10 +668,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				30%
 			</td>
 			<td>
-				86 kW
+				79 kW
 			</td>
 			<td>
-				 15 m 37 s
+				 17 m 57 s
 			</td>
 			<td>
 				14,7 kWh
@@ -682,10 +682,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				31%
 			</td>
 			<td>
-				86 kW
+				79 kW
 			</td>
 			<td>
-				 15 m 59 s
+				 18 m 21 s
 			</td>
 			<td>
 				15,2 kWh
@@ -696,10 +696,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				32%
 			</td>
 			<td>
-				85 kW
+				79 kW
 			</td>
 			<td>
-				 16 m 22 s
+				 18 m 45 s
 			</td>
 			<td>
 				15,7 kWh
@@ -710,10 +710,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				33%
 			</td>
 			<td>
-				85 kW
+				79 kW
 			</td>
 			<td>
-				 16 m 44 s
+				 19 m 9 s
 			</td>
 			<td>
 				16,2 kWh
@@ -724,10 +724,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				34%
 			</td>
 			<td>
-				84 kW
+				79 kW
 			</td>
 			<td>
-				 17 m 6 s
+				 19 m 33 s
 			</td>
 			<td>
 				16,7 kWh
@@ -738,10 +738,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				35%
 			</td>
 			<td>
-				84 kW
+				77 kW
 			</td>
 			<td>
-				 17 m 29 s
+				 19 m 57 s
 			</td>
 			<td>
 				17,2 kWh
@@ -752,10 +752,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				36%
 			</td>
 			<td>
-				84 kW
+				77 kW
 			</td>
 			<td>
-				 17 m 51 s
+				 20 m 22 s
 			</td>
 			<td>
 				17,6 kWh
@@ -766,10 +766,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				37%
 			</td>
 			<td>
-				83 kW
+				77 kW
 			</td>
 			<td>
-				 18 m 14 s
+				 20 m 46 s
 			</td>
 			<td>
 				18,1 kWh
@@ -780,10 +780,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				38%
 			</td>
 			<td>
-				83 kW
+				77 kW
 			</td>
 			<td>
-				 18 m 37 s
+				 21 m 11 s
 			</td>
 			<td>
 				18,6 kWh
@@ -794,10 +794,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				39%
 			</td>
 			<td>
-				82 kW
+				78 kW
 			</td>
 			<td>
-				 19 m 0 s
+				 21 m 35 s
 			</td>
 			<td>
 				19,1 kWh
@@ -808,10 +808,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				40%
 			</td>
 			<td>
-				82 kW
+				78 kW
 			</td>
 			<td>
-				 19 m 23 s
+				 22 m 0 s
 			</td>
 			<td>
 				19,6 kWh
@@ -822,10 +822,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				41%
 			</td>
 			<td>
-				81 kW
+				78 kW
 			</td>
 			<td>
-				 19 m 46 s
+				 22 m 24 s
 			</td>
 			<td>
 				20,1 kWh
@@ -836,10 +836,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				42%
 			</td>
 			<td>
-				81 kW
+				78 kW
 			</td>
 			<td>
-				 20 m 10 s
+				 22 m 48 s
 			</td>
 			<td>
 				20,6 kWh
@@ -850,10 +850,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				43%
 			</td>
 			<td>
-				80 kW
+				78 kW
 			</td>
 			<td>
-				 20 m 33 s
+				 23 m 13 s
 			</td>
 			<td>
 				21,1 kWh
@@ -864,10 +864,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				44%
 			</td>
 			<td>
-				80 kW
+				78 kW
 			</td>
 			<td>
-				 20 m 57 s
+				 23 m 37 s
 			</td>
 			<td>
 				21,6 kWh
@@ -878,10 +878,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				45%
 			</td>
 			<td>
-				79 kW
+				78 kW
 			</td>
 			<td>
-				 21 m 21 s
+				 24 m 1 s
 			</td>
 			<td>
 				22,0 kWh
@@ -892,10 +892,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				46%
 			</td>
 			<td>
-				78 kW
+				76 kW
 			</td>
 			<td>
-				 21 m 45 s
+				 24 m 26 s
 			</td>
 			<td>
 				22,5 kWh
@@ -906,10 +906,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				47%
 			</td>
 			<td>
-				77 kW
+				67 kW
 			</td>
 			<td>
-				 22 m 10 s
+				 24 m 52 s
 			</td>
 			<td>
 				23,0 kWh
@@ -920,10 +920,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				48%
 			</td>
 			<td>
-				76 kW
+				68 kW
 			</td>
 			<td>
-				 22 m 35 s
+				 25 m 21 s
 			</td>
 			<td>
 				23,5 kWh
@@ -934,10 +934,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				49%
 			</td>
 			<td>
-				75 kW
+				68 kW
 			</td>
 			<td>
-				 23 m 0 s
+				 25 m 48 s
 			</td>
 			<td>
 				24,0 kWh
@@ -948,10 +948,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				50%
 			</td>
 			<td>
-				74 kW
+				68 kW
 			</td>
 			<td>
-				 23 m 25 s
+				 26 m 16 s
 			</td>
 			<td>
 				24,5 kWh
@@ -962,10 +962,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				51%
 			</td>
 			<td>
-				73 kW
+				68 kW
 			</td>
 			<td>
-				 23 m 51 s
+				 26 m 44 s
 			</td>
 			<td>
 				25,0 kWh
@@ -976,10 +976,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				52%
 			</td>
 			<td>
-				71 kW
+				68 kW
 			</td>
 			<td>
-				 24 m 18 s
+				 27 m 12 s
 			</td>
 			<td>
 				25,5 kWh
@@ -990,10 +990,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				53%
 			</td>
 			<td>
-				70 kW
+				68 kW
 			</td>
 			<td>
-				 24 m 44 s
+				 27 m 40 s
 			</td>
 			<td>
 				26,0 kWh
@@ -1004,10 +1004,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				54%
 			</td>
 			<td>
-				69 kW
+				68 kW
 			</td>
 			<td>
-				 25 m 12 s
+				 28 m 8 s
 			</td>
 			<td>
 				26,5 kWh
@@ -1021,7 +1021,7 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				68 kW
 			</td>
 			<td>
-				 25 m 39 s
+				 28 m 36 s
 			</td>
 			<td>
 				27,0 kWh
@@ -1032,10 +1032,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				56%
 			</td>
 			<td>
-				67 kW
+				68 kW
 			</td>
 			<td>
-				 26 m 7 s
+				 29 m 4 s
 			</td>
 			<td>
 				27,4 kWh
@@ -1046,10 +1046,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				57%
 			</td>
 			<td>
-				66 kW
+				68 kW
 			</td>
 			<td>
-				 26 m 36 s
+				 29 m 32 s
 			</td>
 			<td>
 				27,9 kWh
@@ -1060,10 +1060,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				58%
 			</td>
 			<td>
-				65 kW
+				68 kW
 			</td>
 			<td>
-				 27 m 5 s
+				 29 m 59 s
 			</td>
 			<td>
 				28,4 kWh
@@ -1074,10 +1074,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				59%
 			</td>
 			<td>
-				64 kW
+				68 kW
 			</td>
 			<td>
-				 27 m 34 s
+				 30 m 27 s
 			</td>
 			<td>
 				28,9 kWh
@@ -1088,10 +1088,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				60%
 			</td>
 			<td>
-				63 kW
+				68 kW
 			</td>
 			<td>
-				 28 m 4 s
+				 30 m 55 s
 			</td>
 			<td>
 				29,4 kWh
@@ -1102,10 +1102,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				61%
 			</td>
 			<td>
-				62 kW
+				69 kW
 			</td>
 			<td>
-				 28 m 34 s
+				 31 m 23 s
 			</td>
 			<td>
 				29,9 kWh
@@ -1116,10 +1116,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				62%
 			</td>
 			<td>
-				61 kW
+				69 kW
 			</td>
 			<td>
-				 29 m 5 s
+				 31 m 50 s
 			</td>
 			<td>
 				30,4 kWh
@@ -1130,10 +1130,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				63%
 			</td>
 			<td>
-				60 kW
+				69 kW
 			</td>
 			<td>
-				 29 m 37 s
+				 32 m 18 s
 			</td>
 			<td>
 				30,9 kWh
@@ -1144,10 +1144,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				64%
 			</td>
 			<td>
-				59 kW
+				69 kW
 			</td>
 			<td>
-				 30 m 9 s
+				 32 m 45 s
 			</td>
 			<td>
 				31,4 kWh
@@ -1158,10 +1158,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				65%
 			</td>
 			<td>
-				58 kW
+				69 kW
 			</td>
 			<td>
-				 30 m 42 s
+				 33 m 13 s
 			</td>
 			<td>
 				31,8 kWh
@@ -1172,10 +1172,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				66%
 			</td>
 			<td>
-				56 kW
+				69 kW
 			</td>
 			<td>
-				 31 m 15 s
+				 33 m 40 s
 			</td>
 			<td>
 				32,3 kWh
@@ -1186,10 +1186,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				67%
 			</td>
 			<td>
-				55 kW
+				69 kW
 			</td>
 			<td>
-				 31 m 49 s
+				 34 m 8 s
 			</td>
 			<td>
 				32,8 kWh
@@ -1200,10 +1200,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				68%
 			</td>
 			<td>
-				54 kW
+				69 kW
 			</td>
 			<td>
-				 32 m 24 s
+				 34 m 35 s
 			</td>
 			<td>
 				33,3 kWh
@@ -1214,10 +1214,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				69%
 			</td>
 			<td>
-				53 kW
+				70 kW
 			</td>
 			<td>
-				 32 m 59 s
+				 35 m 3 s
 			</td>
 			<td>
 				33,8 kWh
@@ -1228,10 +1228,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				70%
 			</td>
 			<td>
-				52 kW
+				70 kW
 			</td>
 			<td>
-				 33 m 35 s
+				 35 m 30 s
 			</td>
 			<td>
 				34,3 kWh
@@ -1242,10 +1242,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				71%
 			</td>
 			<td>
-				51 kW
+				70 kW
 			</td>
 			<td>
-				 34 m 12 s
+				 35 m 57 s
 			</td>
 			<td>
 				34,8 kWh
@@ -1256,10 +1256,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				72%
 			</td>
 			<td>
-				50 kW
+				70 kW
 			</td>
 			<td>
-				 34 m 49 s
+				 36 m 24 s
 			</td>
 			<td>
 				35,3 kWh
@@ -1270,10 +1270,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				73%
 			</td>
 			<td>
-				49 kW
+				70 kW
 			</td>
 			<td>
-				 35 m 27 s
+				 36 m 51 s
 			</td>
 			<td>
 				35,8 kWh
@@ -1284,10 +1284,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				74%
 			</td>
 			<td>
-				48 kW
+				70 kW
 			</td>
 			<td>
-				 36 m 7 s
+				 37 m 18 s
 			</td>
 			<td>
 				36,3 kWh
@@ -1298,10 +1298,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				75%
 			</td>
 			<td>
-				47 kW
+				67 kW
 			</td>
 			<td>
-				 36 m 47 s
+				 37 m 46 s
 			</td>
 			<td>
 				36,8 kWh
@@ -1312,10 +1312,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				76%
 			</td>
 			<td>
-				46 kW
+				67 kW
 			</td>
 			<td>
-				 37 m 28 s
+				 38 m 14 s
 			</td>
 			<td>
 				37,2 kWh
@@ -1326,10 +1326,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				77%
 			</td>
 			<td>
-				45 kW
+				60 kW
 			</td>
 			<td>
-				 38 m 10 s
+				 38 m 44 s
 			</td>
 			<td>
 				37,7 kWh
@@ -1340,10 +1340,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				78%
 			</td>
 			<td>
-				44 kW
+				60 kW
 			</td>
 			<td>
-				 38 m 53 s
+				 39 m 16 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1354,10 +1354,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				79%
 			</td>
 			<td>
-				43 kW
+				48 kW
 			</td>
 			<td>
-				 39 m 37 s
+				 39 m 51 s
 			</td>
 			<td>
 				38,7 kWh
@@ -1368,10 +1368,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				80%
 			</td>
 			<td>
-				41 kW
+				48 kW
 			</td>
 			<td>
-				 40 m 22 s
+				 40 m 30 s
 			</td>
 			<td>
 				39,2 kWh
@@ -1382,10 +1382,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				81%
 			</td>
 			<td>
-				40 kW
+				49 kW
 			</td>
 			<td>
-				 41 m 8 s
+				 41 m 9 s
 			</td>
 			<td>
 				39,7 kWh
@@ -1396,10 +1396,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				82%
 			</td>
 			<td>
-				39 kW
+				44 kW
 			</td>
 			<td>
-				 41 m 56 s
+				 41 m 50 s
 			</td>
 			<td>
 				40,2 kWh
@@ -1410,10 +1410,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				83%
 			</td>
 			<td>
-				38 kW
+				44 kW
 			</td>
 			<td>
-				 42 m 45 s
+				 42 m 33 s
 			</td>
 			<td>
 				40,7 kWh
@@ -1424,10 +1424,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				84%
 			</td>
 			<td>
-				37 kW
+				40 kW
 			</td>
 			<td>
-				 43 m 35 s
+				 43 m 18 s
 			</td>
 			<td>
 				41,2 kWh
@@ -1438,10 +1438,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				85%
 			</td>
 			<td>
-				36 kW
+				40 kW
 			</td>
 			<td>
-				 44 m 27 s
+				 44 m 6 s
 			</td>
 			<td>
 				41,6 kWh
@@ -1452,10 +1452,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				86%
 			</td>
 			<td>
-				35 kW
+				31 kW
 			</td>
 			<td>
-				 45 m 20 s
+				 44 m 59 s
 			</td>
 			<td>
 				42,1 kWh
@@ -1466,10 +1466,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				87%
 			</td>
 			<td>
-				34 kW
+				31 kW
 			</td>
 			<td>
-				 46 m 16 s
+				 46 m 1 s
 			</td>
 			<td>
 				42,6 kWh
@@ -1480,10 +1480,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				88%
 			</td>
 			<td>
-				33 kW
+				20 kW
 			</td>
 			<td>
-				 47 m 12 s
+				 47 m 15 s
 			</td>
 			<td>
 				43,1 kWh
@@ -1494,10 +1494,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				89%
 			</td>
 			<td>
-				32 kW
+				20 kW
 			</td>
 			<td>
-				 48 m 11 s
+				 48 m 50 s
 			</td>
 			<td>
 				43,6 kWh
@@ -1508,10 +1508,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				90%
 			</td>
 			<td>
-				31 kW
+				20 kW
 			</td>
 			<td>
-				 49 m 12 s
+				 50 m 25 s
 			</td>
 			<td>
 				44,1 kWh
@@ -1522,10 +1522,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				91%
 			</td>
 			<td>
-				30 kW
+				19 kW
 			</td>
 			<td>
-				 50 m 15 s
+				 52 m 2 s
 			</td>
 			<td>
 				44,6 kWh
@@ -1536,10 +1536,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				92%
 			</td>
 			<td>
-				29 kW
+				18 kW
 			</td>
 			<td>
-				 51 m 20 s
+				 53 m 43 s
 			</td>
 			<td>
 				45,1 kWh
@@ -1550,10 +1550,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				93%
 			</td>
 			<td>
-				28 kW
+				17 kW
 			</td>
 			<td>
-				 52 m 27 s
+				 55 m 30 s
 			</td>
 			<td>
 				45,6 kWh
@@ -1564,10 +1564,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				94%
 			</td>
 			<td>
-				26 kW
+				16 kW
 			</td>
 			<td>
-				 53 m 38 s
+				 57 m 23 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1578,10 +1578,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				95%
 			</td>
 			<td>
-				25 kW
+				16 kW
 			</td>
 			<td>
-				 54 m 51 s
+				 59 m 22 s
 			</td>
 			<td>
 				46,6 kWh
@@ -1592,10 +1592,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				96%
 			</td>
 			<td>
-				24 kW
+				15 kW
 			</td>
 			<td>
-				 56 m 7 s
+				1 h 1 m 28 s
 			</td>
 			<td>
 				47,0 kWh
@@ -1606,10 +1606,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				97%
 			</td>
 			<td>
-				23 kW
+				14 kW
 			</td>
 			<td>
-				 57 m 27 s
+				1 h 3 m 42 s
 			</td>
 			<td>
 				47,5 kWh
@@ -1620,10 +1620,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				98%
 			</td>
 			<td>
-				22 kW
+				13 kW
 			</td>
 			<td>
-				 58 m 51 s
+				1 h 6 m 5 s
 			</td>
 			<td>
 				48,0 kWh
@@ -1634,10 +1634,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				99%
 			</td>
 			<td>
-				21 kW
+				12 kW
 			</td>
 			<td>
-				1 h 0 m 19 s
+				1 h 8 m 38 s
 			</td>
 			<td>
 				48,5 kWh
@@ -1648,10 +1648,10 @@ La curva de carga anterior está en **[condiciones óptimas](../../../../../tech
 				100%
 			</td>
 			<td>
-				20 kW
+				11 kW
 			</td>
 			<td>
-				1 h 1 m 51 s
+				1 h 11 m 24 s
 			</td>
 			<td>
 				49,0 kWh

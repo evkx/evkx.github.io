@@ -129,13 +129,57 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 	<tbody>
 		<tr>
 			<td>
+				90kmh/56mph perfecto estado
+			</td>
+			<td>
+				429km / 267 mi
+			</td>
+			<td>
+				17 kWh/100km / 3,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 kmh/56 mph con calefacción de 2 KW
+			</td>
+			<td>
+				391km /236mi
+			</td>
+			<td>
+				19,2 kWh/100km /3,2 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 kmh perfecto estado
+			</td>
+			<td>
+				332 km / 206 mi
+			</td>
+			<td>
+				22 kWh/100km / 2,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 kmh con calefacción de 2 KW
+			</td>
+			<td>
+				307km / 191mi
+			</td>
+			<td>
+				23,8 kWh/100km / 2,6 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				292 km / 181 mi
+				317 km / 197 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				23 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +187,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				274 km /170mi
+				296 km /184mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				24,7 kWh/100km /2,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

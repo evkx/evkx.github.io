@@ -36,7 +36,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 160 kW. Das Laden von 0% auf 100% dauert etwa 84 Minuten, während ein typischer Ladevorgang von 10% auf 80% 42 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 72 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 5% und 56%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 69 kW, wobei jede Ladesitzung etwa 32 Minuten und 12 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 10 Stunden und 55 Minuten dauern. Diese Reise würde fünf Ladestopps von 6% auf 55% erfordern, mit einer gesamten Ladezeit von 155 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 10 Stunden und 36 Minuten dauern. Diese Reise würde vier Ladestopps von 4% auf 58% erfordern, mit einer gesamten Ladezeit von 137 Minuten.
 
 ### Bordladegerät
 
@@ -178,7 +178,7 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das eingebaute Navigationssystem hilft Ihnen, Ihr Ziel mühelos zu erreichen. Es bietet auch Echtzeit-Verkehrsinformationen, die eine effiziente und stressfreie Reise gewährleisten. Es unterstützt jedoch keine Routenplanung mit Ladestopps, sodass Sie Ihre Ladestopps manuell planen müssen.
 
 ### Telefonspiegelung
 

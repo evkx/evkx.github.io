@@ -36,7 +36,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de 160kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 42 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 56 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 69kW. Chaque session de charge prendrait 32 minutes et 12 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 10 heures et 55 minutes. Ce trajet nécessiterait deux arrêts de recharge de 6% à 55%, avec un temps de recharge total de 155 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 36 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 58%, avec un temps de recharge total de 137 minutes.
 
 ### Chargeur embarqué
 
@@ -178,7 +178,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré vous aide à naviguer jusqu'à votre destination avec facilité. Il fournit également des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress. Cependant, il ne prend pas en charge la planification des itinéraires avec des arrêts de recharge, ce qui vous oblige à planifier vos arrêts de recharge manuellement.
 
 ### Réplication du téléphone
 

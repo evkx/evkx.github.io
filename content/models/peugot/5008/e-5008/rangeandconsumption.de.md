@@ -129,13 +129,57 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 	<tbody>
 		<tr>
 			<td>
+				90 km/h/56 mph perfekte Bedingungen
+			</td>
+			<td>
+				429km / 267 mi
+			</td>
+			<td>
+				17 kWh/100km / 3,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 km/h/56 mph mit 2KW Heizung
+			</td>
+			<td>
+				391km /236mi
+			</td>
+			<td>
+				19,2 kWh/100km /3,2 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h perfekte Bedingungen
+			</td>
+			<td>
+				332 km / 206 mi
+			</td>
+			<td>
+				22 kWh/100km / 2,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h mit 2KW Heizung
+			</td>
+			<td>
+				307km / 191mi
+			</td>
+			<td>
+				23,8 kWh/100km / 2,6 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120 km/h/75 mph perfekte Bedingungen
 			</td>
 			<td>
-				292 km / 181 mi
+				317 km / 197 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				23 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +187,10 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph mit 2KW Heizung
 			</td>
 			<td>
-				274 km /170mi
+				296 km /184mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				24,7 kWh/100km /2,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

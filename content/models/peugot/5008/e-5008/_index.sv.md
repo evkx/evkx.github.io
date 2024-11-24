@@ -36,7 +36,7 @@ Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../g
 
 Maximal DC-laddningshastighet är 160 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 69kW. Varje laddningssession tar 32 minuter och 12 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 55 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 55%, med en total laddningstid på 155 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 58%, med en total laddningstid på 137 minuter.
 
 ### Ombordladdare
 
@@ -178,7 +178,7 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet hjälper dig att navigera till din destination med lätthet. Det ger också realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa. Det stöder dock inte ruttplanering med laddstopp, vilket kräver att du planerar dina laddstopp manuellt.
 
 ### Telefon spegling
 
