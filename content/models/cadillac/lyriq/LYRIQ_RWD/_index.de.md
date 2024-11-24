@@ -72,7 +72,7 @@ Der Cadillac LYRIQ RWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../.
 
 ### Bremsen
 
-Der Cadillac LYRIQ RWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 390 mm, während die hinteren Scheiben 345 mm groß sind.
+Der Cadillac LYRIQ RWD ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 343 mm, während die hinteren Scheiben 345 mm groß sind.
 
 ### Rekuperatives Bremsen
 

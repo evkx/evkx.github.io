@@ -72,7 +72,7 @@ El Cadillac LYRIQ RWD permite al usuario seleccionar diferentes [modos de conduc
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 390 mm y los discos traseros de 345 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 343 mm y los discos traseros de 345 mm.
 
 ### Frenado regenerativo
 

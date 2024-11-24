@@ -72,7 +72,7 @@ Cadillac LYRIQ RWD låter användaren välja olika [drivemodes](../../../../tech
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 390mm och de bakre skivorna är 345mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 343mm och de bakre skivorna är 345mm.
 
 ### Regenerativ bromsning
 

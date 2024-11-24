@@ -72,7 +72,7 @@ Le Cadillac LYRIQ RWD permet à l'utilisateur de sélectionner différents [mode
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 390 mm et les disques arrière mesurent 345 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 343 mm et les disques arrière mesurent 345 mm.
 
 ### Freinage régénératif
 

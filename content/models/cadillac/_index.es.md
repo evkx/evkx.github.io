@@ -62,6 +62,21 @@ Cadillac OPTIQ es un SUV disponible en 1 variantes.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Cadillac VISTIQ</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="vistiq">
+                    <img src="https://media.evkx.net/multimedia/models/cadillac/vistiq/vistiq_awd/main_1_st.jpg" class="img-fluid" alt="Cadillac VISTIQ" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Cadillac VISTIQ es un SUV disponible en 1 variantes.
+</p>
+	<a href="vistiq/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

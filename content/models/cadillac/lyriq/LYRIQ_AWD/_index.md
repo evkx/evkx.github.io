@@ -73,7 +73,7 @@ The Cadillac LYRIQ AWD lets the user select different [drive modes](../../../../
 
 ### Brakes
 
-The Cadillac LYRIQ AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 390 mm, while the rear discs are 345 mm.
+The Cadillac LYRIQ AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 

@@ -281,7 +281,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
-	Cadillac har 3 modeller med i alt 4 varianter.
+	Cadillac har 4 modeller med i alt 5 varianter.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå til Cadillac EV-modeloversigt</a>
 </div>

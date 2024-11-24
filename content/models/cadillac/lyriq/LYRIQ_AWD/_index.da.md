@@ -73,7 +73,7 @@ Cadillac LYRIQ AWD lader brugeren vælge forskellige [drive modes](../../../../t
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 390mm, og de bagerste skiver er 345mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 343mm, og de bagerste skiver er 345mm.
 
 ### Regenerativ bremsning
 

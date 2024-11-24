@@ -281,7 +281,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
-	Cadillac hat 3 Modelle mit insgesamt 4 Varianten.
+	Cadillac hat 4 Modelle mit insgesamt 5 Varianten.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gehe zu Cadillac EV-Modellübersicht</a>
 </div>

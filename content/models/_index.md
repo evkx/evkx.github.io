@@ -302,7 +302,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Cadillac is a luxury brand of General Motors (GM) that produces and sells premium vehicles in North America, China, and other markets. Cadillac is known for its history of innovation, design, and performance, as well as its iconic models such as the Escalade, CTS, and Eldorado. 
 	</p>
 	<p>
-	Cadillac has 3 models with total 4 variants.
+	Cadillac has 4 models with total 5 variants.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Go to Cadillac EV-model overview</a>
 </div>

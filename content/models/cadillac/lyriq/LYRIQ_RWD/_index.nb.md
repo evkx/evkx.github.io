@@ -72,7 +72,7 @@ Cadillac LYRIQ RWD lar brukeren velge forskjellige [kjøremoduser](../../../../t
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 390mm, og de bakre skivene er 345mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 345mm.
 
 ### Regenerativ bremsing
 
