@@ -259,7 +259,7 @@ The built-in navigation system uses detailed maps and offers advanced route plan
 
 While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
 
-- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **Amazon Music**
 
 ### Phone Mirroring
 

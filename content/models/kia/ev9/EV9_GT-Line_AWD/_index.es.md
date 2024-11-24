@@ -205,6 +205,7 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 El Kia EV9 GT-Line AWD incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Volante ajustable eléctricamente**
+- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -249,7 +250,7 @@ El sistema de navegación integrado utiliza mapas detallados y ofrece una planif
 
 Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
 
-- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **Amazon Music**
 
 ### Espejo del teléfono
 

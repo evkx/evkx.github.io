@@ -205,6 +205,7 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 Kia EV9 GT-Line AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
+- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -249,7 +250,7 @@ Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avanc
 
 Även om infotainmentsystemet inte inkluderar en appbutik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. Tillgängliga appar varierar beroende på marknad, men inkluderar populära alternativ som:
 
-- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- **Amazon Music**
 
 ### Telefon spegling
 

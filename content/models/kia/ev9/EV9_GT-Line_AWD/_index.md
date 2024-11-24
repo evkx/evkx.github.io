@@ -205,6 +205,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 The Kia EV9 GT-Line AWD includes several features to enhance comfort and convenience:
 
 - **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -249,7 +250,7 @@ The built-in navigation system uses detailed maps and offers advanced route plan
 
 While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
 
-- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **Amazon Music**
 
 ### Phone Mirroring
 
