@@ -430,6 +430,9 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
+		Kia, un fabricante de automóviles surcoreano fundado en 1944, se ha convertido en un líder global conocido por su innovación y calidad. Con un fuerte enfoque en la movilidad eléctrica, Kia está ampliando su gama de vehículos eléctricos, con el objetivo de la sostenibilidad y la tecnología de vanguardia. El compromiso de la marca con vehículos accesibles y ecológicos la posiciona como un actor clave en el mercado de vehículos eléctricos.
+	</p>
+	<p>
 	Kia tiene 4 modelos con un total de 13 variantes.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Ir a Kia descripción general del modelo EV</a>

@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/kia/ev9/ev9_gt/main_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
+
 Vi har opdelt vores Kia EV9 GT artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
 - [Ydeevne](#ydeevne)
@@ -106,7 +108,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Interiøret i Kia EV9 GT er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer en flydende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed. Du kan vælge mellem flere interiørdesigns.
+Interiøret i Kia EV9 GT er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer en flydende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed.
 
 ### Sæder
 

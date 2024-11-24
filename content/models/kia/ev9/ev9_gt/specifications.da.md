@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/kia/ev9/ev9_gt/main_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000" >}}
 EVKX.net søger at have de mest komplette specifikationer for Kia EV9 GT. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Kia EV9 GT, besøg [chargeinfo](../chargecurve/) for Kia EV9 GT med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 

@@ -496,7 +496,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
-		Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  
+		Kia, a South Korean automaker founded in 1944, has evolved into a global leader known for innovation and quality. With a strong focus on electric mobility, Kia is expanding its EV lineup, aiming for sustainability and cutting-edge technology. The brand's commitment to accessible, eco-friendly vehicles positions it as a key player in the EV market.
 	</p>
 	<p>
 	Kia has 4 models with total 13 variants.

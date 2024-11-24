@@ -1,7 +1,7 @@
 ---
 title: Kia elektriske modeller
 linktitle: "Kia"
-description: "Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  "
+description: "Kia, en sydkoreansk biltillverkare grundad 1944, har utvecklats till en global ledare känd för innovation och kvalitet. Med starkt fokus på elektrisk mobilitet utökar Kia sitt utbud av elbilar, med målet att uppnå hållbarhet och banbrytande teknik. Märkets engagemang för tillgängliga, miljövänliga fordon positionerar det som en nyckelaktör på elbilsmarknaden."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Kia Niro är en crossover tillgänglig i 1 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om varumärket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/kia/company.sv.md" %}}
+</div>
+</div>
+</div>
+</div>

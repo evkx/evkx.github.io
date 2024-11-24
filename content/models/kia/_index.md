@@ -1,7 +1,7 @@
 ---
 title: Kia EV models
 linktitle: "Kia"
-description: "Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  "
+description: "Kia, a South Korean automaker founded in 1944, has evolved into a global leader known for innovation and quality. With a strong focus on electric mobility, Kia is expanding its EV lineup, aiming for sustainability and cutting-edge technology. The brand's commitment to accessible, eco-friendly vehicles positions it as a key player in the EV market."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Kia Niro is a crossover available in 1 variants.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            About the brand
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/kia/company.md" %}}
+</div>
+</div>
+</div>
+</div>

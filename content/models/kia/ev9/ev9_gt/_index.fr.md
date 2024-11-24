@@ -9,6 +9,8 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/kia/ev9/ev9_gt/main_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
+
 Nous avons séparé notre article Kia EV9 GT en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
@@ -106,7 +108,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-L'intérieur du Kia EV9 GT est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Il comprend une console centrale flottante qui crée un espace ouvert entre le passager et le conducteur, offrant des options de rangement pratiques. Le design global privilégie la praticité et la facilité d'utilisation. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'intérieur du Kia EV9 GT est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Il comprend une console centrale flottante qui crée un espace ouvert entre le passager et le conducteur, offrant des options de rangement pratiques. Le design global privilégie la praticité et la facilité d'utilisation.
 
 ### Sièges
 

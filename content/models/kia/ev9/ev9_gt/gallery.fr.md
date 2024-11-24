@@ -144,6 +144,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_gt/main_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_gt/main_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_gt/main_1_xst.jpg" alt="Kia EV9 GT" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_gt/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_gt/rearlights_1.jpg"
 data-pswp-width="3000"

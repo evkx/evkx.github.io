@@ -1,7 +1,7 @@
 ---
 title: Kia modèles de VE
 linktitle: "Kia"
-description: "Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  "
+description: "Kia, un constructeur automobile sud-coréen fondé en 1944, est devenu un leader mondial connu pour son innovation et sa qualité. Avec un fort accent sur la mobilité électrique, Kia élargit sa gamme de véhicules électriques, visant la durabilité et la technologie de pointe. L'engagement de la marque envers des véhicules accessibles et écologiques la positionne comme un acteur clé sur le marché des véhicules électriques."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Kia Niro est un crossover disponible en 1 variantes.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            À propos de la marque
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/kia/company.fr.md" %}}
+</div>
+</div>
+</div>
+</div>
