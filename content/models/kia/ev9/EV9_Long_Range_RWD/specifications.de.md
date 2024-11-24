@@ -411,7 +411,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				2500 kg (5512 lbs)
+				900 kg (1984 lbs)
 			</td>
 		</tr>
 		<tr>

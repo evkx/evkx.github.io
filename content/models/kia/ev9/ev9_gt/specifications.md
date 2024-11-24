@@ -233,7 +233,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport North America
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>

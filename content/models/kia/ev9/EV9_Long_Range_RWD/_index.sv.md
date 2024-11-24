@@ -354,7 +354,7 @@ Bagageutrymmet erbjuder en lastkapacitet på 333 liter. Med baksätena nedfälld
 
 Fordonets maximala vikt är 3190 kg, med en grundvikt på 2637 kg. Detta tillåter en maximal last på 553 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2500 kg, medan för en obromsad släpvagn är den 750 kg.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 900 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/trunk_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 

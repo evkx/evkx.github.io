@@ -233,7 +233,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Nordamerika
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>

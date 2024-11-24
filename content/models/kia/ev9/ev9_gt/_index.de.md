@@ -44,7 +44,7 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt. Dieses Modell verwendet [**NACS**](../../../../technology/charging/connectors/#nacs) für Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) für Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 ### Bidirektionales Laden
 

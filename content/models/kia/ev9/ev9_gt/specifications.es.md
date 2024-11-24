@@ -233,7 +233,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Escriba puerto de carga Norteamérica
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>

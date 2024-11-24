@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2500 kg
+				900 kg
 			</td>
 		</tr>
 		<tr>
