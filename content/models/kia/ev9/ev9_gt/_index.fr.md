@@ -174,6 +174,19 @@ La troisième rangée est dotée d'une banquette à deux places divisée en 50:5
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Rangement Intérieur
+
+Le Kia EV9 GT offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
+
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+- **Rangement sous le plancher :** Le coffre dispose d'un rangement sous le plancher, parfait pour garder les petits objets comme les câbles de recharge bien rangés.
+
+### Éclairage Intérieur
+
+Le Kia EV9 GT offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
+
+- **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur le tableau de bord, les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
+
 ## Système de climatisation
 
 Un système climatique est disponible.

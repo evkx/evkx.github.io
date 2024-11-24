@@ -174,6 +174,19 @@ Die dritte Reihe hat eine Zweiersitzbank mit einer 50:50-Teilung. Auch hier kön
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Innenraumaufbewahrung
+
+Der Kia EV9 GT bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
+
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+- **Unterbodenaufbewahrung:** Der Kofferraumbereich verfügt über eine Unterbodenaufbewahrung, perfekt, um kleinere Gegenstände wie Ladekabel ordentlich zu verstauen.
+
+### Innenbeleuchtung
+
+Der Kia EV9 GT bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
+
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so Ihrem Fahrerlebnis eine persönliche Note verleihen.
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

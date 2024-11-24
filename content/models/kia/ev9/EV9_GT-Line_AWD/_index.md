@@ -132,6 +132,7 @@ The following functionalities are available on the ** Premium Relaxion** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (standard for driver, not available for passenger)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
@@ -177,6 +178,19 @@ The third option is two captain chairs. Additional functionalities include:
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
+
+### Interior Storage
+
+The Kia EV9 GT-Line AWD provides ample interior storage solutions to enhance convenience and organization:
+
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+- **Underfloor Storage:** The trunk area features underfloor storage, perfect for keeping smaller items like charging cables neatly tucked away.
+
+### Interior Lighting
+
+The Kia EV9 GT-Line AWD offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
 
 ## Climate System
 

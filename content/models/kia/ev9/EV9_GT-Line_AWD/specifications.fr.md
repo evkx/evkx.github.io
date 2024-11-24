@@ -708,7 +708,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

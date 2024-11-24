@@ -174,6 +174,19 @@ La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamen
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Almacenamiento Interior
+
+El Kia EV9 GT ofrece amplias soluciones de almacenamiento interior para mejorar la conveniencia y la organización:
+
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+- **Almacenamiento Bajo el Piso:** El área del maletero cuenta con almacenamiento bajo el piso, perfecto para mantener artículos más pequeños como cables de carga ordenadamente guardados.
+
+### Iluminación Interior
+
+El Kia EV9 GT ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

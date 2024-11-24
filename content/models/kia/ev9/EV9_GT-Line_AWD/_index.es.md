@@ -132,6 +132,7 @@ Las siguientes funcionalidades están disponibles en el asiento ** Premium Relax
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
+- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage) (estándar para el conductor, no disponible para el pasajero)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
@@ -177,6 +178,19 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
+
+### Almacenamiento Interior
+
+El Kia EV9 GT-Line AWD ofrece amplias soluciones de almacenamiento interior para mejorar la conveniencia y la organización:
+
+- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+- **Almacenamiento Bajo el Piso:** El área del maletero cuenta con almacenamiento bajo el piso, perfecto para mantener artículos más pequeños como cables de carga ordenadamente guardados.
+
+### Iluminación Interior
+
+El Kia EV9 GT-Line AWD ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
 
 ## Sistema de climatización
 

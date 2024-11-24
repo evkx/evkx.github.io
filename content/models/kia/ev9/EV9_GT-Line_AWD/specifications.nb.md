@@ -708,7 +708,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

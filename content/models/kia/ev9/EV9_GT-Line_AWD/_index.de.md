@@ -132,6 +132,7 @@ Die folgenden Funktionen sind für den ** Premium Relaxion**-Sitz verfügbar:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
@@ -177,6 +178,19 @@ Die third-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 Die dritte Reihe hat eine Zweiersitzbank mit einer 50:50-Teilung. Auch hier können Sie die Sitze bei Nichtgebrauch umklappen, um eine größere Ladekapazität zu schaffen.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
+
+### Innenraumaufbewahrung
+
+Der Kia EV9 GT-Line AWD bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
+
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+- **Unterbodenaufbewahrung:** Der Kofferraumbereich verfügt über eine Unterbodenaufbewahrung, perfekt, um kleinere Gegenstände wie Ladekabel ordentlich zu verstauen.
+
+### Innenbeleuchtung
+
+Der Kia EV9 GT-Line AWD bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
+
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so Ihrem Fahrerlebnis eine persönliche Note verleihen.
 
 ## Klimaanlage
 

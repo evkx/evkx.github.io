@@ -708,7 +708,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>

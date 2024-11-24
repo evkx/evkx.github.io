@@ -708,7 +708,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

@@ -132,6 +132,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ** Premium Relaxio
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (standard pour le conducteur, non disponible pour le passager)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
@@ -177,6 +178,19 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
+
+### Rangement Intérieur
+
+Le Kia EV9 GT-Line AWD offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
+
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+- **Rangement sous le plancher :** Le coffre dispose d'un rangement sous le plancher, parfait pour garder les petits objets comme les câbles de recharge bien rangés.
+
+### Éclairage Intérieur
+
+Le Kia EV9 GT-Line AWD offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
+
+- **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur le tableau de bord, les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
 
 ## Système de climatisation
 

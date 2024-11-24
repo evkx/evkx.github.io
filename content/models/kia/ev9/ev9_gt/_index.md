@@ -174,6 +174,19 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Interior Storage
+
+The Kia EV9 GT provides ample interior storage solutions to enhance convenience and organization:
+
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+- **Underfloor Storage:** The trunk area features underfloor storage, perfect for keeping smaller items like charging cables neatly tucked away.
+
+### Interior Lighting
+
+The Kia EV9 GT offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
+
 ## Climate System
 
 There is one climate system available:

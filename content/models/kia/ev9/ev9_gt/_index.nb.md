@@ -174,6 +174,19 @@ Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge n
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Interiørlagring
+
+Kia EV9 GT gir rikelige interiørlagringsløsninger for å forbedre bekvemmelighet og organisering:
+
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+- **Underfloor Lagring:** Bagasjerommet har underfloor lagring, perfekt for å holde mindre gjenstander som ladekabler pent bortgjemt.
+
+### Interiørbelysning
+
+Kia EV9 GT tilbyr et utvalg av interiørbelysningsalternativer designet for å skape en behagelig atmosfære og forbedre synligheten.
+
+- **Flerfarget Ambient Belysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og gir en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og legge til en personlig touch til kjøreopplevelsen din.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.

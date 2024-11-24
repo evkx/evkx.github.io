@@ -132,6 +132,7 @@ Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgængelig for passager)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
@@ -177,6 +178,19 @@ Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter til
 Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
+
+### Interiøropbevaring
+
+Kia EV9 GT-Line AWD tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
+
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+- **Underfloor Opbevaring:** Bagagerummet har underfloor opbevaring, perfekt til at holde mindre genstande som opladningskabler pænt gemt væk.
+
+### Interiørbelysning
+
+Kia EV9 GT-Line AWD tilbyder en række interiørbelysningsmuligheder designet til at skabe en behagelig atmosfære og forbedre synligheden.
+
+- **Flerfarvet Ambient Belysning:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, hvilket skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer en personlig touch til din køreoplevelse.
 
 ## Klimasystem
 

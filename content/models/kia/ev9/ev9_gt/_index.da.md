@@ -174,6 +174,19 @@ Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Interiøropbevaring
+
+Kia EV9 GT tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
+
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+- **Underfloor Opbevaring:** Bagagerummet har underfloor opbevaring, perfekt til at holde mindre genstande som opladningskabler pænt gemt væk.
+
+### Interiørbelysning
+
+Kia EV9 GT tilbyder en række interiørbelysningsmuligheder designet til at skabe en behagelig atmosfære og forbedre synligheden.
+
+- **Flerfarvet Ambient Belysning:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, hvilket skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer en personlig touch til din køreoplevelse.
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

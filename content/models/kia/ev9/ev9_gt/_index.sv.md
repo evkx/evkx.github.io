@@ -174,6 +174,19 @@ Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
+### Interiör Förvaring
+
+Kia EV9 GT erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
+
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+- **Undergolvsförvaring:** Bagageutrymmet har undergolvsförvaring, perfekt för att hålla mindre föremål som laddkablar prydligt undanlagda.
+
+### Interiör Belysning
+
+Kia EV9 GT erbjuder ett utbud av interiörbelysningsalternativ som är utformade för att skapa en behaglig atmosfär och förbättra synligheten.
+
+- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan, dörrpanelerna och fotutrymmet, vilket skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens, vilket ger en personlig touch till din körupplevelse.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

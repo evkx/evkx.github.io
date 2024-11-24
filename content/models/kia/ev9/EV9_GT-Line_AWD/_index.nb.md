@@ -132,6 +132,7 @@ Følgende funksjoner er tilgjengelige på ** Premium Relaxion** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgjengelig for passasjer)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
@@ -177,6 +178,19 @@ Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgje
 Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
+
+### Interiørlagring
+
+Kia EV9 GT-Line AWD gir rikelige interiørlagringsløsninger for å forbedre bekvemmelighet og organisering:
+
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+- **Underfloor Lagring:** Bagasjerommet har underfloor lagring, perfekt for å holde mindre gjenstander som ladekabler pent bortgjemt.
+
+### Interiørbelysning
+
+Kia EV9 GT-Line AWD tilbyr et utvalg av interiørbelysningsalternativer designet for å skape en behagelig atmosfære og forbedre synligheten.
+
+- **Flerfarget Ambient Belysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og gir en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og legge til en personlig touch til kjøreopplevelsen din.
 
 ## Klimasystem
 
