@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV3 prøvekjørt i Portugal</h3>
+<p>Nybiltester: 23.11.2024</p>
+
+{{< youtube flwOiCwq_Jw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW Kia EV3 review – best new electric SUV?</h3>
 <p>What Car?: 11.11.2024</p>
 

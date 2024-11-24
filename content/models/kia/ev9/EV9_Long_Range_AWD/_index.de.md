@@ -255,6 +255,12 @@ Das Kia EV9 Long Range AWD verfügt über ein maßgeschneidertes Infotainmentsys
 
 Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
+### Vorinstallierte Apps
+
+Obwohl das Infotainmentsystem keinen App-Store enthält, kommt es mit einer Auswahl vorinstallierter Drittanbieter-Apps, die nativ auf dem Bildschirm des Autos laufen, unabhängig von einem verbundenen Telefon. Die verfügbaren Apps variieren je nach Markt, beinhalten jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+
 ### Telefonspiegelung
 
 Der Kia EV9 Long Range AWD unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
