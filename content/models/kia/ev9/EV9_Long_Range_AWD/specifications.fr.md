@@ -585,7 +585,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 ### Sièges avant
 
 
-####  Premium Relaxion
+#### 8 Way
 
 <table class="table table-striped border">
 	<thead>
@@ -676,7 +676,152 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Conducteur standard, non disponible pour le passager
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Premium Relaxion
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				Siège conducteur et passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la profondeur du siège
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la hauteur du siège
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Mémoire
+			</td>
+			<td>
+				Conducteur standard, non disponible pour le passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -821,7 +966,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Ventilation du siège
 			</td>
 			<td>
-				Fonction standard, sièges extérieurs
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -1096,7 +1241,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Caméra 360
 			</td>
 			<td>
-				Oui, équipement standard
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -1265,7 +1410,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Affichage tête haute
 			</td>
 			<td>
-				Oui, équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>

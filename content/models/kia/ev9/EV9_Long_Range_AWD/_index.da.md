@@ -120,9 +120,22 @@ Kia EV9 Long Range AWD fås i en seks- eller syvsæders layout for øget alsidig
 
 #### Første række sæder
 
-Kia EV9 Long Range AWD tilbyder kun én type forreste sæde.
+For første række tilbyder Kia EV9 Long Range AWD to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
-Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet.
+Følgende funktioner er tilgængelige på **8 Way** sædet.
+
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgængelig for passager)
+
+Følgende funktioner er tilgængelige på **Premium Relaxion** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
@@ -147,8 +160,6 @@ Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde h
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for ydre sæder)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
@@ -220,7 +231,7 @@ Vigtige skærmdetaljer:
 - Skærmen touch i den midterste del af den delte ramme er 5,3 tommer stor
 - Skærmen touch i højre del af den delte ramme er 12,3 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -272,7 +283,10 @@ Den Kia EV9 Long Range AWD kommer med sin dedikerede mobilapp, tilgængelig til 
 
 ## Lys
 
-De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
+Du kan vælge mellem to typer forlygter til Kia EV9 Long Range AWD.
+
+- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -339,7 +353,7 @@ Kia EV9 Long Range AWD er udstyret med avancerede sikkerhedsfunktioner for at be
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
+Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
 
 Køretøjets maksimale vægt er 3190 kg, med en basisvægt på 2637 kg. Dette giver en maksimal last på 553 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

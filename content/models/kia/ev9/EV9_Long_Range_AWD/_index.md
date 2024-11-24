@@ -120,9 +120,22 @@ Kia EV9 Long Range AWD is available in a six or seven-seat layout for added vers
 
 #### First Row Seats
 
-The Kia EV9 Long Range AWD offers a single type of front seat.
+The front row offers two seat types to cater to various comfort and style preferences:
 
-The following functionalities are available on the ** Premium Relaxion** seat:
+The following functionalities are available on the **8 Way** seat:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (standard for driver, not available for passenger)
+
+The following functionalities are available on the **Premium Relaxion** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
@@ -147,8 +160,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 The second option is two captain chairs. Additional functionalities include:
@@ -220,7 +231,7 @@ Key screen details:
 - The touch screen at the center part of the shared frame is 5.3 inches large
 - The touch screen at the right part of the shared frame is 12.3 inches large
 
-A head-up display is an optional system that projects speed and other important driver information onto the windshield.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -272,7 +283,10 @@ The Kia EV9 Long Range AWD comes with a dedicated mobile app, available for both
 
 ## Lights
 
-The Kia EV9 Long Range AWD comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+You can choose between two types of headlights for the Kia EV9 Long Range AWD.
+
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -339,7 +353,7 @@ The Kia EV9 Long Range AWD is equipped with advanced security features to protec
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat folded down, this expands to 2393 liters (84.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 52 liters (1.8 CU FT).
+The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat folded down, this expands to 2393 liters (84.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 52 liters (1.8 CU FT).
 
 The vehicle’s maximum weight is 3190 kg (7033 lbs), with a base weight of 2637 kg (5814 lbs). This allows for a maximum load of 553 kg (1219 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

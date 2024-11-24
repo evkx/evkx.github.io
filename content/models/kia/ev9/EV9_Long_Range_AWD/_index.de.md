@@ -120,9 +120,22 @@ Kia EV9 Long Range AWD ist in einer Sechs- oder Siebensitzer-Konfiguration für 
 
 #### Vordersitze
 
-Der Kia EV9 Long Range AWD bietet nur einen Typ von Vordersitz.
+Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
-Die folgenden Funktionen sind für den ** Premium Relaxion**-Sitz verfügbar:
+Die folgenden Funktionen sind für den **8 Way**-Sitz verfügbar:
+
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- Höhenverstellbare Kopfstütze
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (Standard für Fahrer, nicht verfügbar für Beifahrer)
+
+Die folgenden Funktionen sind für den **Premium Relaxion**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
@@ -147,8 +160,6 @@ Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
@@ -220,7 +231,7 @@ Wichtige Bildschirmdetails:
 - Der touch-Bildschirm in der Mitte des gemeinsamen Rahmens ist 5,3 Zoll groß.
 - Der touch-Bildschirm auf der rechten Seite des gemeinsamen Rahmens ist 12,3 Zoll groß.
 
-Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
+Das Modell verfügt nicht über ein Head-up-Display.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -272,7 +283,10 @@ Der Kia EV9 Long Range AWD wird mit einer speziellen mobilen App geliefert, die 
 
 ## Lichter
 
-Der Kia EV9 Long Range AWD ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+Sie können zwischen zwei Scheinwerfertypen für den Kia EV9 Long Range AWD wählen.
+
+- **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
+- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -339,7 +353,7 @@ Der Kia EV9 Long Range AWD ist mit fortschrittlichen Sicherheitsfunktionen ausge
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 333 Litern (11,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2393 Liter (84,5 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 52 Litern (1,8 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 333 Litern (11,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2393 Liter (84,5 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 52 Litern (1,8 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 3190 kg (7033 lbs) bei einem Leergewicht von 2637 kg (5814 lbs). Dies ermöglicht eine maximale Zuladung von 553 kg (1219 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

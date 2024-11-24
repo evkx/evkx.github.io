@@ -120,9 +120,22 @@ Kia EV9 Long Range AWD est disponible en configuration six ou sept sièges pour 
 
 #### Sièges de première rangée
 
-Le Kia EV9 Long Range AWD propose un seul type de siège avant.
+Pour la première rangée, l'Kia EV9 Long Range AWD propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
-Les fonctionnalités suivantes sont disponibles sur le siège ** Premium Relaxion**.
+Les fonctionnalités suivantes sont disponibles sur le siège **8 Way**.
+
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (standard pour le conducteur, non disponible pour le passager)
+
+Les fonctionnalités suivantes sont disponibles sur le siège **Premium Relaxion**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
@@ -147,8 +160,6 @@ L'option standard est une banquette à trois places avec une séparation 60:40 o
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard pour sièges extérieurs)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
@@ -220,7 +231,7 @@ Détails clés de l'écran :
 - L'écran touch dans la partie centrale du cadre partagé mesure 5,3 pouces
 - L'écran touch à droite du cadre partagé mesure 12,3 pouces
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -272,7 +283,10 @@ Le Kia EV9 Long Range AWD est accompagné de son application mobile dédiée, di
 
 ## Lumières
 
-Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
+Vous pouvez choisir entre deux types de phares pour le Kia EV9 Long Range AWD.
+
+- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
@@ -339,7 +353,7 @@ Le Kia EV9 Long Range AWD est équipé de fonctionnalités de sécurité avancé
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 333 litres. Avec les sièges arrière rabattus, cette capacité passe à 2393 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 52 litres.
+Le coffre offre une capacité de chargement de 333 litres. Avec les sièges arrière rabattus, cette capacité passe à 2393 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 52 litres.
 
 Le poids maximum du véhicule est de 3190 kg, avec un poids de base de 2637 kg. Cela permet une charge maximale de 553 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

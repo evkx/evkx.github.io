@@ -120,9 +120,22 @@ Kia EV9 Long Range AWD finns tillgänglig i en sex- eller sjusitsig layout för 
 
 #### Framsäten
 
-Kia EV9 Long Range AWD erbjuder endast en typ av framsäte.
+För första raden erbjuder Kia EV9 Long Range AWD två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
-Följande funktioner är tillgängliga på ** Premium Relaxion** sätet.
+Följande funktioner är tillgängliga på **8 Way** sätet.
+
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (standard för förare, inte tillgänglig för passagerare)
+
+Följande funktioner är tillgängliga på **Premium Relaxion** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
@@ -147,8 +160,6 @@ Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard för yttre säten)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
@@ -220,7 +231,7 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av den delade ramen är 5,3 tum
 - Skärmen touch på höger sida av den delade ramen är 12,3 tum
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -272,7 +283,10 @@ Kia EV9 Long Range AWD kommer med en egen dedikerad mobilapp, tillgänglig för 
 
 ## Ljus
 
-Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
+Du kan välja mellan två typer av strålkastare för Kia EV9 Long Range AWD.
+
+- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
@@ -339,7 +353,7 @@ Kia EV9 Long Range AWD är utrustad med avancerade säkerhetsfunktioner för att
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 333 liter. Med baksätena nedfällda ökar detta till 2393 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 52 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 333 liter. Med baksätena nedfällda ökar detta till 2393 liter. På taket kan du lasta upp till 100 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 52 liter.
 
 Fordonets maximala vikt är 3190 kg, med en grundvikt på 2637 kg. Detta tillåter en maximal last på 553 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

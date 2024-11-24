@@ -185,6 +185,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				552
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -527,6 +535,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ressort hélicoïdal
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -535,6 +559,9 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 Ce modèle est disponible avec une configuration de sièges à six ou sept places.
 
 ### Sièges avant
+
+
+#### 8 Way
 
 <table class="table table-striped border">
 	<thead>
@@ -569,7 +596,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +612,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +668,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +676,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +684,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonction électrique optionnelle
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +692,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Ventilation du siège
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +700,152 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Conducteur standard, non disponible pour le passager
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Premium Relaxion
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				Siège conducteur et passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la profondeur du siège
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la hauteur du siège
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Mémoire
+			</td>
+			<td>
+				Conducteur standard, non disponible pour le passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Conducteur standard, non disponible pour le passager
 			</td>
 		</tr>
 	</tbody>
@@ -714,7 +886,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -722,7 +894,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +950,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -811,7 +983,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -819,7 +991,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -827,7 +999,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -859,7 +1031,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -875,7 +1047,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -883,11 +1055,14 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+#### Manual Captain Seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -913,7 +1088,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +1096,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -929,7 +1104,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -985,7 +1160,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1026,6 +1201,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1041,7 +1217,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Caméra 360
 			</td>
 			<td>
-				Oui, équipement standard
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -1121,6 +1297,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1128,6 +1305,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Avertissement de collision avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1143,6 +1321,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1158,6 +1337,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1206,7 +1386,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Affichage tête haute
 			</td>
 			<td>
-				Oui, équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1214,6 +1394,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Contrôle vocal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1221,6 +1402,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1320,6 +1502,14 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Effet total
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1343,6 +1533,14 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Effet total
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>
