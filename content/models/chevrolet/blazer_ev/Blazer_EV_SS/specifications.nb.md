@@ -150,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				80s3p
+				96s3p
 			</td>
 		</tr>
 		<tr>

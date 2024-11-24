@@ -150,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Packkonfiguration
 			</td>
 			<td>
-				80s3p
+				96s3p
 			</td>
 		</tr>
 		<tr>

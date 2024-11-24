@@ -150,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Configuration du pack
 			</td>
 			<td>
-				80s3p
+				96s3p
 			</td>
 		</tr>
 		<tr>

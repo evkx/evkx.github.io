@@ -150,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Packkonfiguration
 			</td>
 			<td>
-				80s3p
+				96s3p
 			</td>
 		</tr>
 		<tr>

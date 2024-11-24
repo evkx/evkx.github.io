@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maks C-Rate
 			</td>
 			<td>
-				1,68
+				1,64
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig C-rate
 			</td>
 			<td>
-				1,06
+				1,04
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				118,2kW
+				119,3kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				30m30s
+				31m50s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				2 h 59 m 53 s
+				3 h 9 m 35 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				2 h 52 m 40 s
+				3 h 1 m 58 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 32 m 17 s
+				 34 m 1 s
 			</td>
 		</tr>
 	</tbody>
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Rækkevidde per minut 10-80%
 			</td>
 			<td>
-				10,7 km (6,7 mi)
+				10,8 km (6,7 mi)
 			</td>
 			<td>
 				?
@@ -268,10 +268,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				60 kW
 			</td>
 			<td>
-				 1 m 11 s
+				 1 m 15 s
 			</td>
 			<td>
-				1,0 kWh
+				1,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,10 +282,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				70 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 2 m 19 s
 			</td>
 			<td>
-				2,0 kWh
+				2,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				80 kW
 			</td>
 			<td>
-				 3 m 5 s
+				 3 m 15 s
 			</td>
 			<td>
-				3,1 kWh
+				3,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				90 kW
 			</td>
 			<td>
-				 3 m 51 s
+				 4 m 4 s
 			</td>
 			<td>
-				4,1 kWh
+				4,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				100 kW
 			</td>
 			<td>
-				 4 m 33 s
+				 4 m 47 s
 			</td>
 			<td>
-				5,1 kWh
+				5,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				110 kW
 			</td>
 			<td>
-				 5 m 10 s
+				 5 m 27 s
 			</td>
 			<td>
-				6,1 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				120 kW
 			</td>
 			<td>
-				 5 m 45 s
+				 6 m 3 s
 			</td>
 			<td>
-				7,1 kWh
+				7,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				130 kW
 			</td>
 			<td>
-				 6 m 16 s
+				 6 m 37 s
 			</td>
 			<td>
-				8,2 kWh
+				8,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				140 kW
 			</td>
 			<td>
-				 6 m 45 s
+				 7 m 7 s
 			</td>
 			<td>
-				9,2 kWh
+				9,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				150 kW
 			</td>
 			<td>
-				 7 m 13 s
+				 7 m 36 s
 			</td>
 			<td>
-				10,2 kWh
+				10,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				152 kW
 			</td>
 			<td>
-				 7 m 39 s
+				 8 m 4 s
 			</td>
 			<td>
-				11,2 kWh
+				11,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				155 kW
 			</td>
 			<td>
-				 8 m 5 s
+				 8 m 31 s
 			</td>
 			<td>
-				12,2 kWh
+				12,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				157 kW
 			</td>
 			<td>
-				 8 m 30 s
+				 8 m 57 s
 			</td>
 			<td>
-				13,3 kWh
+				14,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				159 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 24 s
 			</td>
 			<td>
-				14,3 kWh
+				15,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				162 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 50 s
 			</td>
 			<td>
-				15,3 kWh
+				16,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				164 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 10 m 15 s
 			</td>
 			<td>
-				16,3 kWh
+				17,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				166 kW
 			</td>
 			<td>
-				 10 m 8 s
+				 10 m 40 s
 			</td>
 			<td>
-				17,3 kWh
+				18,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				169 kW
 			</td>
 			<td>
-				 10 m 31 s
+				 11 m 5 s
 			</td>
 			<td>
-				18,4 kWh
+				19,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				171 kW
 			</td>
 			<td>
-				 10 m 54 s
+				 11 m 30 s
 			</td>
 			<td>
-				19,4 kWh
+				20,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				173 kW
 			</td>
 			<td>
-				 11 m 17 s
+				 11 m 54 s
 			</td>
 			<td>
-				20,4 kWh
+				21,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				176 kW
 			</td>
 			<td>
-				 11 m 40 s
+				 12 m 18 s
 			</td>
 			<td>
-				21,4 kWh
+				22,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				178 kW
 			</td>
 			<td>
-				 12 m 2 s
+				 12 m 41 s
 			</td>
 			<td>
-				22,4 kWh
+				23,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				180 kW
 			</td>
 			<td>
-				 12 m 24 s
+				 13 m 5 s
 			</td>
 			<td>
-				23,5 kWh
+				24,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				183 kW
 			</td>
 			<td>
-				 12 m 46 s
+				 13 m 27 s
 			</td>
 			<td>
-				24,5 kWh
+				25,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				185 kW
 			</td>
 			<td>
-				 13 m 8 s
+				 13 m 50 s
 			</td>
 			<td>
-				25,5 kWh
+				26,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				184 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 14 m 13 s
 			</td>
 			<td>
-				26,5 kWh
+				28,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				184 kW
 			</td>
 			<td>
-				 13 m 50 s
+				 14 m 35 s
 			</td>
 			<td>
-				27,5 kWh
+				29,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				183 kW
 			</td>
 			<td>
-				 14 m 12 s
+				 14 m 58 s
 			</td>
 			<td>
-				28,6 kWh
+				30,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				183 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 15 m 21 s
 			</td>
 			<td>
-				29,6 kWh
+				31,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				182 kW
 			</td>
 			<td>
-				 14 m 55 s
+				 15 m 43 s
 			</td>
 			<td>
-				30,6 kWh
+				32,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				181 kW
 			</td>
 			<td>
-				 15 m 17 s
+				 16 m 6 s
 			</td>
 			<td>
-				31,6 kWh
+				33,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				181 kW
 			</td>
 			<td>
-				 15 m 39 s
+				 16 m 29 s
 			</td>
 			<td>
-				32,6 kWh
+				34,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				180 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 16 m 52 s
 			</td>
 			<td>
-				33,7 kWh
+				35,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				180 kW
 			</td>
 			<td>
-				 16 m 23 s
+				 17 m 16 s
 			</td>
 			<td>
-				34,7 kWh
+				36,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				176 kW
 			</td>
 			<td>
-				 16 m 45 s
+				 17 m 39 s
 			</td>
 			<td>
-				35,7 kWh
+				37,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				172 kW
 			</td>
 			<td>
-				 17 m 7 s
+				 18 m 3 s
 			</td>
 			<td>
-				36,7 kWh
+				38,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				169 kW
 			</td>
 			<td>
-				 17 m 31 s
+				 18 m 27 s
 			</td>
 			<td>
-				37,7 kWh
+				39,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				165 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 18 m 52 s
 			</td>
 			<td>
-				38,8 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				161 kW
 			</td>
 			<td>
-				 18 m 18 s
+				 19 m 18 s
 			</td>
 			<td>
-				39,8 kWh
+				41,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				157 kW
 			</td>
 			<td>
-				 18 m 43 s
+				 19 m 44 s
 			</td>
 			<td>
-				40,8 kWh
+				43,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				154 kW
 			</td>
 			<td>
-				 19 m 9 s
+				 20 m 11 s
 			</td>
 			<td>
-				41,8 kWh
+				44,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				150 kW
 			</td>
 			<td>
-				 19 m 35 s
+				 20 m 38 s
 			</td>
 			<td>
-				42,8 kWh
+				45,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				146 kW
 			</td>
 			<td>
-				 20 m 1 s
+				 21 m 6 s
 			</td>
 			<td>
-				43,9 kWh
+				46,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				144 kW
 			</td>
 			<td>
-				 20 m 29 s
+				 21 m 35 s
 			</td>
 			<td>
-				44,9 kWh
+				47,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				142 kW
 			</td>
 			<td>
-				 20 m 56 s
+				 22 m 4 s
 			</td>
 			<td>
-				45,9 kWh
+				48,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				141 kW
 			</td>
 			<td>
-				 21 m 24 s
+				 22 m 33 s
 			</td>
 			<td>
-				46,9 kWh
+				49,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				139 kW
 			</td>
 			<td>
-				 21 m 52 s
+				 23 m 3 s
 			</td>
 			<td>
-				47,9 kWh
+				50,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				137 kW
 			</td>
 			<td>
-				 22 m 21 s
+				 23 m 33 s
 			</td>
 			<td>
-				49,0 kWh
+				51,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				135 kW
 			</td>
 			<td>
-				 22 m 50 s
+				 24 m 4 s
 			</td>
 			<td>
-				50,0 kWh
+				52,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				134 kW
 			</td>
 			<td>
-				 23 m 19 s
+				 24 m 35 s
 			</td>
 			<td>
-				51,0 kWh
+				53,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 23 m 49 s
+				 25 m 6 s
 			</td>
 			<td>
-				52,0 kWh
+				54,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 24 m 19 s
+				 25 m 37 s
 			</td>
 			<td>
-				53,0 kWh
+				55,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 24 m 48 s
+				 26 m 9 s
 			</td>
 			<td>
-				54,1 kWh
+				57,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 25 m 18 s
+				 26 m 40 s
 			</td>
 			<td>
-				55,1 kWh
+				58,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 25 m 48 s
+				 27 m 11 s
 			</td>
 			<td>
-				56,1 kWh
+				59,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 26 m 17 s
+				 27 m 43 s
 			</td>
 			<td>
-				57,1 kWh
+				60,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 26 m 47 s
+				 28 m 14 s
 			</td>
 			<td>
-				58,1 kWh
+				61,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 27 m 17 s
+				 28 m 45 s
 			</td>
 			<td>
-				59,2 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 27 m 47 s
+				 29 m 16 s
 			</td>
 			<td>
-				60,2 kWh
+				63,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 28 m 16 s
+				 29 m 48 s
 			</td>
 			<td>
-				61,2 kWh
+				64,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 28 m 46 s
+				 30 m 19 s
 			</td>
 			<td>
-				62,2 kWh
+				65,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				133 kW
 			</td>
 			<td>
-				 29 m 16 s
+				 30 m 50 s
 			</td>
 			<td>
-				63,2 kWh
+				66,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				131 kW
 			</td>
 			<td>
-				 29 m 45 s
+				 31 m 22 s
 			</td>
 			<td>
-				64,3 kWh
+				67,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				129 kW
 			</td>
 			<td>
-				 30 m 16 s
+				 31 m 54 s
 			</td>
 			<td>
-				65,3 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				128 kW
 			</td>
 			<td>
-				 30 m 47 s
+				 32 m 26 s
 			</td>
 			<td>
-				66,3 kWh
+				69,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				126 kW
 			</td>
 			<td>
-				 31 m 18 s
+				 32 m 59 s
 			</td>
 			<td>
-				67,3 kWh
+				71,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				124 kW
 			</td>
 			<td>
-				 31 m 49 s
+				 33 m 32 s
 			</td>
 			<td>
-				68,3 kWh
+				72,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				122 kW
 			</td>
 			<td>
-				 32 m 21 s
+				 34 m 6 s
 			</td>
 			<td>
-				69,4 kWh
+				73,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				120 kW
 			</td>
 			<td>
-				 32 m 54 s
+				 34 m 41 s
 			</td>
 			<td>
-				70,4 kWh
+				74,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				118 kW
 			</td>
 			<td>
-				 33 m 27 s
+				 35 m 15 s
 			</td>
 			<td>
-				71,4 kWh
+				75,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				117 kW
 			</td>
 			<td>
-				 34 m 1 s
+				 35 m 51 s
 			</td>
 			<td>
-				72,4 kWh
+				76,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				115 kW
 			</td>
 			<td>
-				 34 m 35 s
+				 36 m 27 s
 			</td>
 			<td>
-				73,4 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				113 kW
 			</td>
 			<td>
-				 35 m 10 s
+				 37 m 4 s
 			</td>
 			<td>
-				74,5 kWh
+				78,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				111 kW
 			</td>
 			<td>
-				 35 m 45 s
+				 37 m 41 s
 			</td>
 			<td>
-				75,5 kWh
+				79,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				109 kW
 			</td>
 			<td>
-				 36 m 21 s
+				 38 m 18 s
 			</td>
 			<td>
-				76,5 kWh
+				80,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				107 kW
 			</td>
 			<td>
-				 36 m 57 s
+				 38 m 57 s
 			</td>
 			<td>
-				77,5 kWh
+				81,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				106 kW
 			</td>
 			<td>
-				 37 m 34 s
+				 39 m 36 s
 			</td>
 			<td>
-				78,5 kWh
+				82,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				104 kW
 			</td>
 			<td>
-				 38 m 12 s
+				 40 m 16 s
 			</td>
 			<td>
-				79,6 kWh
+				83,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				102 kW
 			</td>
 			<td>
-				 38 m 51 s
+				 40 m 56 s
 			</td>
 			<td>
-				80,6 kWh
+				84,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				100 kW
 			</td>
 			<td>
-				 39 m 30 s
+				 41 m 38 s
 			</td>
 			<td>
-				81,6 kWh
+				86,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				44 kW
 			</td>
 			<td>
-				 40 m 25 s
+				 42 m 35 s
 			</td>
 			<td>
-				82,6 kWh
+				87,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				42 kW
 			</td>
 			<td>
-				 41 m 57 s
+				 44 m 12 s
 			</td>
 			<td>
-				83,6 kWh
+				88,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				39 kW
 			</td>
 			<td>
-				 43 m 34 s
+				 45 m 55 s
 			</td>
 			<td>
-				84,7 kWh
+				89,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				37 kW
 			</td>
 			<td>
-				 45 m 18 s
+				 47 m 44 s
 			</td>
 			<td>
-				85,7 kWh
+				90,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				35 kW
 			</td>
 			<td>
-				 47 m 8 s
+				 49 m 40 s
 			</td>
 			<td>
-				86,7 kWh
+				91,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				32 kW
 			</td>
 			<td>
-				 49 m 5 s
+				 51 m 44 s
 			</td>
 			<td>
-				87,7 kWh
+				92,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				30 kW
 			</td>
 			<td>
-				 51 m 11 s
+				 53 m 57 s
 			</td>
 			<td>
-				88,7 kWh
+				93,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				28 kW
 			</td>
 			<td>
-				 53 m 28 s
+				 56 m 21 s
 			</td>
 			<td>
-				89,8 kWh
+				94,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				25 kW
 			</td>
 			<td>
-				 55 m 56 s
+				 58 m 57 s
 			</td>
 			<td>
-				90,8 kWh
+				95,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				23 kW
 			</td>
 			<td>
-				 58 m 38 s
+				1 h 1 m 48 s
 			</td>
 			<td>
-				91,8 kWh
+				96,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				21 kW
 			</td>
 			<td>
-				1 h 1 m 38 s
+				1 h 4 m 57 s
 			</td>
 			<td>
-				92,8 kWh
+				97,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				19 kW
 			</td>
 			<td>
-				1 h 4 m 58 s
+				1 h 8 m 29 s
 			</td>
 			<td>
-				93,8 kWh
+				98,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				16 kW
 			</td>
 			<td>
-				1 h 8 m 46 s
+				1 h 12 m 28 s
 			</td>
 			<td>
-				94,9 kWh
+				100,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				14 kW
 			</td>
 			<td>
-				1 h 13 m 8 s
+				1 h 17 m 5 s
 			</td>
 			<td>
-				95,9 kWh
+				101,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				12 kW
 			</td>
 			<td>
-				1 h 18 m 18 s
+				1 h 22 m 31 s
 			</td>
 			<td>
-				96,9 kWh
+				102,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				9 kW
 			</td>
 			<td>
-				1 h 24 m 37 s
+				1 h 29 m 11 s
 			</td>
 			<td>
-				97,9 kWh
+				103,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				7 kW
 			</td>
 			<td>
-				1 h 32 m 44 s
+				1 h 37 m 44 s
 			</td>
 			<td>
-				98,9 kWh
+				104,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				5 kW
 			</td>
 			<td>
-				1 h 44 m 6 s
+				1 h 49 m 43 s
 			</td>
 			<td>
-				100,0 kWh
+				105,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				2 kW
 			</td>
 			<td>
-				2 h 3 m 3 s
+				2 h 9 m 41 s
 			</td>
 			<td>
-				101,0 kWh
+				106,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Cadillac LYRIQ AWD har batterivärme, vilket gör det lättare att ladda vid opt
 				0 kW
 			</td>
 			<td>
-				2 h 59 m 53 s
+				3 h 9 m 35 s
 			</td>
 			<td>
-				102,0 kWh
+				107,5 kWh
 			</td>
 		</tr>
 	</tbody>

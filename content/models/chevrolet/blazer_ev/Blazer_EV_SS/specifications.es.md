@@ -150,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				80s3p
+				96s3p
 			</td>
 		</tr>
 		<tr>

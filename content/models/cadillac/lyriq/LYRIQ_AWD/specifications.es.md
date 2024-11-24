@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac LYRIQ AWD
 				Potencia máxima
 			</td>
 			<td>
-				373 KW (507 hp)
+				384 KW (522 hp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac LYRIQ AWD
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,23 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				rango EPA
+				Rango EPA de equipamiento básico
+			</td>
+			<td>
+				326 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo EPA de ajuste básico
+			</td>
+			<td>
+				3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gama EPA de acabado superior
 			</td>
 			<td>
 				307 mi
@@ -88,10 +104,10 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Consumo EPA
+				Consumo EPA de ajuste superior
 			</td>
 			<td>
-				3,0 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				110 kWh
+				112,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				102 kWh
+				107,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga CC máxima
+			</td>
+			<td>
+				190 kW
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +174,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				400
+				355,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -263,10 +295,50 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2207 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Distancia entre ejes
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de aproximación
+			</td>
+			<td>
+				18,9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de salida
+			</td>
+			<td>
+				23,4
 			</td>
 		</tr>
 		<tr>
@@ -304,6 +376,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Peso total máximo
+			</td>
+			<td>
+				3200 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga máxima incluido el controlador de peso
+			</td>
+			<td>
+				574 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hace carga en el techo
+			</td>
+			<td>
+				75 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Capacidad del maletero
 			</td>
 			<td>
@@ -315,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1723 litro
+				1722 litro
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +617,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +665,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +673,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -634,7 +730,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -642,7 +738,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -650,7 +746,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -658,7 +754,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -666,7 +762,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -674,7 +770,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -682,7 +778,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -690,7 +786,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +794,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +802,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -747,6 +843,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +859,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámara 360
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +875,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -785,6 +883,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -792,6 +891,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -799,6 +899,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -814,6 +915,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +931,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +939,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +947,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -850,6 +955,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +963,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +979,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -879,6 +987,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +995,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -998,6 +1108,64 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Número de sistemas de sonido disponibles
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Lyric sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### AKG sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				19
 			</td>
 		</tr>
 	</tbody>

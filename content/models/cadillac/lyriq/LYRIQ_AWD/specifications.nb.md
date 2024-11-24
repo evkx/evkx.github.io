@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD.
 				Maks effekt
 			</td>
 			<td>
-				373 KW (507 hk)
+				384 KW (522 hk)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD.
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				EPA-rekkevidde
+				EPA rekkevidde for minimum utstyrsnivå
+			</td>
+			<td>
+				326 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim EPA-forbruk
+			</td>
+			<td>
+				3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt EPA-rekkevidde
 			</td>
 			<td>
 				307 mi
@@ -88,10 +104,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				EPA-forbruk
+				Topputstyrt EPA-forbruk
 			</td>
 			<td>
-				3,0 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				110 kWh
+				112,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				102 kWh
+				107,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				190 kW
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +174,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				400
+				355,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCMA
 			</td>
 		</tr>
 	</tbody>
@@ -263,10 +295,50 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bredde inkludert speil
+			</td>
+			<td>
+				2207 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Akselavstand
 			</td>
 			<td>
 				3094 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1674 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angrepsvinkel
+			</td>
+			<td>
+				18,9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avgangsvinkel
+			</td>
+			<td>
+				23,4
 			</td>
 		</tr>
 		<tr>
@@ -304,6 +376,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Tillatt totalvekt
+			</td>
+			<td>
+				3200 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks nyttelast inkludert vekt fører
+			</td>
+			<td>
+				574 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks taklast
+			</td>
+			<td>
+				75 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Størrelse bagasjerom
 			</td>
 			<td>
@@ -315,7 +411,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1723 liter
+				1722 liter
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +617,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +665,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +673,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -634,7 +730,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -642,7 +738,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -650,7 +746,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -658,7 +754,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -666,7 +762,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -674,7 +770,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -682,7 +778,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -690,7 +786,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +794,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +802,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -747,6 +843,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Døsighetsvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +859,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -778,6 +875,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -785,6 +883,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -792,6 +891,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -799,6 +899,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -814,6 +915,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +931,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Traksjonskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +939,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +947,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -850,6 +955,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +963,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +979,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -879,6 +987,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +995,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -998,6 +1108,64 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Antall tilgjengelige lydsystemer
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Lyric sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### AKG sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				19
 			</td>
 		</tr>
 	</tbody>

@@ -40,10 +40,10 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				</a>
 			</td>
 			<td>
-				494 km / 307 mi
+				525 km / 326 mi
 			</td>
 			<td>
-				20,6 kWh/100km / 3,0 mi/kWh
+				20,5 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				494 km / 307 mi
 			</td>
 			<td>
-				20,6 kWh/100km / 3,0 mi/kWh
+				21,8 kWh/100km / 2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipamiento básico gama EPA con 2KW AC
 			</td>
 			<td>
-				409 km / 254 mi
+				434 km / 270 mi
 			</td>
 			<td>
-				-17,2%
+				-17,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipo superior de gama EPA con 2KW AC
 			</td>
 			<td>
-				409 km / 254 mi
+				413 km / 257 mi
 			</td>
 			<td>
-				-17,2%
+				-16,4%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				408 km / 254 mi
+				430 km / 267 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +143,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				382 km /237mi
+				403 km /250mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

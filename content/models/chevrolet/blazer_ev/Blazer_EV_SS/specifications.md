@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				80s3p
+				96s3p
 			</td>
 		</tr>
 		<tr>
