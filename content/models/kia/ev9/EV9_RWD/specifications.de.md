@@ -303,6 +303,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1702 mm (67,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1714 mm (67,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Luftwiderstandsbeiwert
 			</td>
 			<td>
@@ -311,10 +327,26 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Böschungswinkel vorne
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Böschungswinkel hinten
+			</td>
+			<td>
+				22,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
-				12,3 Meter (484,3")
+				12,4 Meter (488,2")
 			</td>
 		</tr>
 	</tbody>
@@ -403,7 +435,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				2500 kg (5512 lbs)
+				900 kg (1984 lbs)
 			</td>
 		</tr>
 		<tr>

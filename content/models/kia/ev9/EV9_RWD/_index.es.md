@@ -360,7 +360,7 @@ El maletero ofrece una capacidad de carga de 333 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 3190 kg, con un peso base de 2637 kg. Esto permite una carga máxima de 553 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2500 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 900 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/trunk_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 

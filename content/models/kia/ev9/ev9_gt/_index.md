@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Kia EV9 GT delivers a solid performance with a maximum power of 374 kW (509 hp / 502 bhp) and a total torque of 700 Nm (517 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Kia EV9 GT delivers a solid performance with a maximum power of 373 kW (507 hp / 500 bhp) and a total torque of 700 Nm (517 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 

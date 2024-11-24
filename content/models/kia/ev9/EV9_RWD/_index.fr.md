@@ -360,7 +360,7 @@ Le coffre offre une capacité de chargement de 333 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 3190 kg, avec un poids de base de 2637 kg. Cela permet une charge maximale de 553 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 900 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/trunk_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 

@@ -360,7 +360,7 @@ The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 3190 kg (7033 lbs), with a base weight of 2637 kg (5814 lbs). This allows for a maximum load of 553 kg (1219 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2500 kg (5512 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 900 kg (1984 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/trunk_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 

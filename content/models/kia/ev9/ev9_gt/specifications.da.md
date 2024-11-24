@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Kia EV9 GT. Klik p
 				Popeffekt
 			</td>
 			<td>
-				374 KW (508 hk)
+				373 KW (507 hk)
 			</td>
 		</tr>
 		<tr>

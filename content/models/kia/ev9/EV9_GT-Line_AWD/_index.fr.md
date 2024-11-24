@@ -73,8 +73,8 @@ Le Kia EV9 GT-Line AWD permet à l'utilisateur de sélectionner différents [mod
 - Normal: Direction et accélérateur équilibrés.
 - My Drive : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 - Snow: Direction et accélérateur équilibrés.
-- Mud: Direction, accélération et amortissement équilibrés.
-- Sand: Direction, accélération et amortissement équilibrés.
+- Mud: Direction et accélérateur équilibrés.
+- Sand: Direction et accélérateur équilibrés.
 
 ### Freins
 

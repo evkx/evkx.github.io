@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av Kia EV9 GT i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-Kia EV9 GT levererar en solid prestanda med en maximal effekt på 374 kW (509 hk) och ett totalt vridmoment på 700 Nm. Den kan accelerera från 0 till 100 km/h på 4,4 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
+Kia EV9 GT levererar en solid prestanda med en maximal effekt på 373 kW (507 hk) och ett totalt vridmoment på 700 Nm. Den kan accelerera från 0 till 100 km/h på 4,4 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

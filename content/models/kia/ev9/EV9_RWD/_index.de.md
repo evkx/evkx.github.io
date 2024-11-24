@@ -360,7 +360,7 @@ Der Kofferraum bietet ein Ladevolumen von 333 Litern (11,8 CU FT). Mit umgeklapp
 
 Das maximale Gewicht des Fahrzeugs beträgt 3190 kg (7033 lbs) bei einem Leergewicht von 2637 kg (5814 lbs). Dies ermöglicht eine maximale Zuladung von 553 kg (1219 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2500 kg (5512 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 900 kg (1984 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/trunk_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 

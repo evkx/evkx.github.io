@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Peugeot e-5008 range test</h3>
+<p>Bjørn Nyland: 24.11.2024</p>
+
+{{< youtube kn_OWDRsP6s >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Peugeot e-5008 1000 km challenge</h3>
+<p>Bjørn Nyland: 23.11.2024</p>
+
+{{< youtube qMuLE6owMic >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Peugeot e-5008 banana box test</h3>
+<p>Bjørn Nyland: 22.11.2024</p>
+
+{{< youtube yLcPF2zo_mQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE: Peugeot E-5008 - is THIS the perfect family EV???</h3>
 <p>Electrifying: 04.07.2024</p>
 

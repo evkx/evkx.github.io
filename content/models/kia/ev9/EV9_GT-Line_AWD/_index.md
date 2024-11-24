@@ -73,8 +73,8 @@ The Kia EV9 GT-Line AWD lets the user select different [drive modes](../../../..
 - Normal: Balanced steering and throttle.
 - My Drive: User-defined settings for steering and throttle.
 - Snow: Balanced steering and throttle.
-- Mud: Balanced steering, throttle and damping.
-- Sand: Balanced steering, throttle and damping.
+- Mud: Balanced steering and throttle.
+- Sand: Balanced steering and throttle.
 
 ### Brakes
 

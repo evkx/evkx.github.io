@@ -26,7 +26,7 @@ Nous avons séparé notre article Kia EV9 GT en sections. Si vous souhaitez atte
 
 ## Performances
 
-La Kia EV9 GT offre des performances solides avec une puissance maximale de 374 kW (509 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 4,4 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
+La Kia EV9 GT offre des performances solides avec une puissance maximale de 373 kW (507 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 4,4 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

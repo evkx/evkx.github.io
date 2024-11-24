@@ -73,8 +73,8 @@ Kia EV9 GT-Line AWD lar brukeren velge forskjellige [kjøremoduser](../../../../
 - Normal: Balansert styring og gasspedal.
 - My Drive: Brukerdefinerte innstillinger for styring og gasspådrag.
 - Snow: Balansert styring og gasspedal.
-- Mud: Balansert styring, gass og demping.
-- Sand: Balansert styring, gass og demping.
+- Mud: Balansert styring og gasspedal.
+- Sand: Balansert styring og gasspedal.
 
 ### Bremser
 

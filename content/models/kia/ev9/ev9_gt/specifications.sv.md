@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Kia EV9 GT. Klicka på
 				Max effekt
 			</td>
 			<td>
-				374 KW (508 hk)
+				373 KW (507 hk)
 			</td>
 		</tr>
 		<tr>

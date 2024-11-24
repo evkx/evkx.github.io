@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV9 G
 				Puissance de pointe
 			</td>
 			<td>
-				374 KW (508 ch)
+				373 KW (507 ch)
 			</td>
 		</tr>
 		<tr>

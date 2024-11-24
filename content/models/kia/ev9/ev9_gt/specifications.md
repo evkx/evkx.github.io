@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV9 GT. Click on
 				Peak power
 			</td>
 			<td>
-				374 KW (508 hp /502 bhp)
+				373 KW (507 hp /500 bhp)
 			</td>
 		</tr>
 		<tr>

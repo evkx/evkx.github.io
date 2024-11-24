@@ -73,8 +73,8 @@ Der Kia EV9 GT-Line AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../
 - Normal: Ausgewogene Lenkung und Gas.
 - My Drive: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 - Snow: Ausgewogene Lenkung und Gas.
-- Mud: Ausgewogenes Lenken, Gasgeben und Dämpfen.
-- Sand: Ausgewogenes Lenken, Gasgeben und Dämpfen.
+- Mud: Ausgewogene Lenkung und Gas.
+- Sand: Ausgewogene Lenkung und Gas.
 
 ### Bremsen
 

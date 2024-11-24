@@ -303,6 +303,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1702 mm (67,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1714 mm (67,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag coefficient
 			</td>
 			<td>
@@ -311,10 +327,26 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Approach Angle
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Departure Angle
+			</td>
+			<td>
+				22,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
-				12,3 meter (484,3")
+				12,4 meter (488,2")
 			</td>
 		</tr>
 	</tbody>
@@ -403,7 +435,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				2500 kg (5512 lbs)
+				900 kg (1984 lbs)
 			</td>
 		</tr>
 		<tr>
