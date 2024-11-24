@@ -86,7 +86,7 @@ weight: 30
 <h3>Kia EV9 GT</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ev9_gt/"><img src="" class="img-fluid" width="400px" height="0px" alt="EV9 GT" ></a>
+			<a href="ev9_gt/"><img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_gt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EV9 GT" ></a>
 <i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 99,8 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
