@@ -357,7 +357,7 @@ The Kia EV9 GT-Line AWD had its world premiere on 31.03.2023, with deliveries st
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
 - AUD121 000,00 (Australia)
-- AUD121 000,00 (Australia)
+- $73 900,00 (USA)
 
 ## Alternative Models
 

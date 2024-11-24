@@ -366,7 +366,6 @@ Ce modèle a été présenté en première mondiale le 31.03.2023 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- AUD121 000,00 (Australie)
-- AUD121 000,00 (Australie)
+- $59 200,00 (États-Unis)
 
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Plage" >}}

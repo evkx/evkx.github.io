@@ -163,10 +163,26 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Configuración del paquete
+			</td>
+			<td>
+				174s2p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tensión nominal
 			</td>
 			<td>
-				552
+				632
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -511,6 +527,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Resorte helicoidal
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -519,6 +551,9 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 Este modelo está disponible con una configuración de seis o siete asientos.
 
 ### Asientos delanteros
+
+
+#### 8 Way
 
 <table class="table table-striped border">
 	<thead>
@@ -553,7 +588,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +604,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +660,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +668,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +676,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función eléctrica opcional
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +684,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Función opcional
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +692,152 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				Conductor estándar, no disponible para el pasajero
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Premium Relaxion
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				Asiento del conductor y del pasajero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste de la profundidad del asiento
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste de altura del asiento
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del ángulo del respaldo
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memoria
+			</td>
+			<td>
+				Conductor estándar, no disponible para el pasajero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 	</tbody>
@@ -698,7 +878,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +886,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +942,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -795,7 +975,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -803,7 +983,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -811,7 +991,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +1023,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -859,7 +1039,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -867,11 +1047,14 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+#### Manual Captain Seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -897,7 +1080,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -905,7 +1088,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -913,7 +1096,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +1152,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -1010,6 +1193,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1209,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Cámara 360
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -1105,6 +1289,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1112,6 +1297,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1127,6 +1313,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1142,6 +1329,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1190,7 +1378,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Pantalla frontal
 			</td>
 			<td>
-				Sí, equipo opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1198,6 +1386,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Control por voz
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1205,6 +1394,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1304,6 +1494,14 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1327,6 +1525,14 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Efecto total
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>

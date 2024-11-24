@@ -369,7 +369,6 @@ Este modelo tuvo un estreno mundial el 31.03.2023 y las entregas comenzaron en D
 
 Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
 
-- AUD121 000,00 (Australia)
-- AUD121 000,00 (Australia)
+- $63 900,00 (EE.UU.)
 
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Rango" >}}

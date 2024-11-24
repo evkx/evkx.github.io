@@ -369,7 +369,6 @@ Denna modell hade världspremiär 31.03.2023 och leveranserna startade i Decembe
 
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
 
-- AUD121 000,00 (Australien)
-- AUD121 000,00 (Australien)
+- $63 900,00 (USA)
 
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

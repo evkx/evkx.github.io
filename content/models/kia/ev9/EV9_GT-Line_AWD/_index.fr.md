@@ -357,7 +357,7 @@ Ce modèle a été présenté en première mondiale le 31.03.2023 et les livrais
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - AUD121 000,00 (Australie)
-- AUD121 000,00 (Australie)
+- $73 900,00 (États-Unis)
 
 ## Modèles Alternatifs
 

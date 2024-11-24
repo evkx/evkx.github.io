@@ -366,7 +366,6 @@ Der Kia EV9 Long Range RWD feierte seine Weltpremiere am 31.03.2023, mit Lieferu
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
-- AUD121 000,00 (Australien)
-- AUD121 000,00 (Australien)
+- $59 200,00 (USA)
 
 {{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Reichweite" >}}

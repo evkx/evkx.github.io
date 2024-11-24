@@ -163,10 +163,26 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				174s2p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominel spænding
 			</td>
 			<td>
-				552
+				632
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -511,6 +527,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Spiralfjeder
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -519,6 +551,9 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 
 ### Forsæder
+
+
+#### 8 Way
 
 <table class="table table-striped border">
 	<thead>
@@ -553,7 +588,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +604,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +660,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +668,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +676,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Valgfri elektrisk funktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +684,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Valgfri funktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +692,152 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Standard fører, ikke tilgængelig for passager
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Premium Relaxion
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sædetype
+			</td>
+			<td>
+				Fører- og passagersæde
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædedybdejustering
+			</td>
+			<td>
+				Standard elektrisk funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædehøjdejustering
+			</td>
+			<td>
+				Standard elektrisk funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets vinkel
+			</td>
+			<td>
+				Standard elektrisk funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standard elektrisk funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hukommelse
+			</td>
+			<td>
+				Standard fører, ikke tilgængelig for passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Højdejusterbar nakkestøtte
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Længdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af sædehyndes sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fodstøttepassagerer
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassager
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk lændejustering
+			</td>
+			<td>
+				Standard elektrisk funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædeventilation
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Standard fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 	</tbody>
@@ -698,7 +878,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +886,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +942,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -795,7 +975,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -803,7 +983,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -811,7 +991,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +1023,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -859,7 +1039,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -867,11 +1047,14 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+#### Manual Captain Seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -897,7 +1080,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -905,7 +1088,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -913,7 +1096,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +1152,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -1010,6 +1193,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Døsighedsalarm
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1209,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				360 kamera
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1105,6 +1289,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Undgåelse af venstresving
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1112,6 +1297,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1127,6 +1313,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1142,6 +1329,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1190,7 +1378,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Head-up display
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1198,6 +1386,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1205,6 +1394,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1304,6 +1494,14 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				6
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				200
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1327,6 +1525,14 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				680
 			</td>
 		</tr>
 	</tbody>
