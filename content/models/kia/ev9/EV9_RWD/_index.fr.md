@@ -58,7 +58,7 @@ Kia EV9 RWD dispose d'un système de propulsion arrière pris en charge par un m
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Pilotage
 
@@ -68,10 +68,10 @@ La direction dynamique est une fonctionnalité un standard sur le Kia EV9 RWD. L
 
 Le Kia EV9 RWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Eco: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
-- Sport: Direction, suspension et accélérateur dynamiques.
-- Normal: Accélérateur et direction équilibrés, amortissement de suspension confortable.
-- My Drive : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
+- Eco: Direction équilibrée et accélérateur efficace.
+- Sport: Direction et accélérateur dynamiques.
+- Normal: Direction et accélérateur équilibrés.
+- My Drive : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 

@@ -112,7 +112,7 @@ Interiøret i Kia EV9 GT er funktionelt og har materialer af høj kvalitet i fle
 
 ### Sæder
 
-Kia EV9 GT fås i en seks- eller syvsæders layout for øget alsidighed.
+Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
 
 #### Første række sæder
 
@@ -134,20 +134,9 @@ Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/frontseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-#### Sæder på anden række
+#### Sæde på anden række
 
-Du kan vælge tre sædetyper til anden række i Kia EV9 GT.
-
-Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for ydre sæder)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
-
-Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
@@ -155,15 +144,6 @@ Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter ti
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (elektrisk justerbar)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
-
-Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
-
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}

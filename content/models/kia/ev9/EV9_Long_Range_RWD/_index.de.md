@@ -58,7 +58,7 @@ Der Kia EV9 Long Range RWD hat ein Heckantriebssystem, das von einem Motor an de
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
 
 ### Lenkung
 
@@ -68,10 +68,10 @@ Die dynamische Lenkung ist eine standard im Kia EV9 Long Range RWD, wobei das Le
 
 Der Kia EV9 Long Range RWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Eco: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
-- Sport: Dynamisches Lenken, Federung und Gas.
-- Normal: Ausgewogenes Gas und Lenken, komfortable Federungsdämpfung.
-- My Drive: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Normal: Ausgewogene Lenkung und Gas.
+- My Drive: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
 ### Bremsen
 

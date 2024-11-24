@@ -58,7 +58,7 @@ Kia EV9 Long Range RWD tiene un sistema de tracción trasera sostenido por un mo
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 177 mm.
 
 ### Dirección
 
@@ -68,10 +68,10 @@ La dirección dinámica es una característica un estándar en el Kia EV9 Long R
 
 El Kia EV9 Long Range RWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Eco: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
-- Sport: Dirección, suspensión y aceleración dinámicas.
-- Normal: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
-- My Drive: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
+- Eco: Dirección equilibrada y acelerador eficiente.
+- Sport: Dirección y acelerador dinámicos.
+- Normal: Dirección y acelerador equilibrados.
+- My Drive: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
 ### Frenos
 

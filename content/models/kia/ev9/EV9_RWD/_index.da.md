@@ -58,7 +58,7 @@ Kia EV9 RWD har et baghjulstræksystem, der understøttes af en motor på bagaks
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 177 mm.
 
 ### Styring
 
@@ -68,10 +68,10 @@ Dynamisk styring er en standard-funktion på Kia EV9 RWD. Dynamisk styring varie
 
 Kia EV9 RWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
-- Sport: Dynamisk styring, affjedring og speeder.
-- Normal: Afbalanceret speeder og styring, komfortaffjedring.
-- My Drive: Brugerdefinerede indstillinger for styring, speeder og affjedring.
+- Eco: Afbalanceret styring og effektiv speeder.
+- Sport: Dynamisk styring og speeder.
+- Normal: Afbalanceret styring og speeder.
+- My Drive: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 

@@ -112,7 +112,7 @@ The interior of the Kia EV9 GT is functional, featuring high-quality materials i
 
 ### Seats
 
-Kia EV9 GT is available in a six or seven-seat layout for added versatility.
+The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
 
 #### First Row Seats
 
@@ -134,20 +134,9 @@ The following functionalities are available on the ** Premium Relaxion** seat:
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/frontseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-#### Second Row Seats
+#### Second Row Seat
 
-You can choose three seat types for the second row in the Kia EV9 GT.
-
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
-- Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for outer seats)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
-
-The second option is two captain chairs. Additional functionalities include:
+For the second row, this model has two captain chairs. Additional functionalities include:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
@@ -155,15 +144,6 @@ The second option is two captain chairs. Additional functionalities include:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (electrically adjustable)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
-
-The third option is two captain chairs. Additional functionalities include:
-
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
-- Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}

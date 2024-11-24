@@ -58,7 +58,7 @@ Kia EV9 Long Range AWD har et firehjulstræk, der understøttes af to motorer, e
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 177 mm.
 
 ### Styring
 
@@ -68,13 +68,13 @@ Dynamisk styring er en standard-funktion på Kia EV9 Long Range AWD. Dynamisk st
 
 Kia EV9 Long Range AWD lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
 
-- Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
-- Sport: Dynamisk styring, affjedring og speeder.
-- Normal: Afbalanceret speeder og styring, komfortaffjedring.
-- My Drive: Brugerdefinerede indstillinger for styring, speeder og affjedring.
-- Snow: Afbalanceret styring, speeder og dæmpning.
-- Mud: Afbalanceret styring, speeder og dæmpning.
-- Sand: Afbalanceret styring, speeder og dæmpning.
+- Eco: Afbalanceret styring og effektiv speeder.
+- Sport: Dynamisk styring og speeder.
+- Normal: Afbalanceret styring og speeder.
+- My Drive: Brugerdefinerede indstillinger for styring og speeder.
+- Snow: Afbalanceret styring og speeder.
+- Mud: Afbalanceret styring og speeder.
+- Sand: Afbalanceret styring og speeder.
 
 ### Bremser
 

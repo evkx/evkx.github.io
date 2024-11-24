@@ -112,7 +112,7 @@ Das Interieur des Kia EV9 GT ist funktional und verfügt über hochwertige Mater
 
 ### Sitze
 
-Kia EV9 GT ist in einer Sechs- oder Siebensitzer-Konfiguration für zusätzliche Vielseitigkeit erhältlich.
+Die Sitzanordnung besteht aus sechs Sitzen mit zwei vorne, zwei Kapitänssitzen in der zweiten Reihe und einer Zweiersitzbank in der dritten Reihe.
 
 #### Vordersitze
 
@@ -134,20 +134,9 @@ Die folgenden Funktionen sind für den ** Premium Relaxion**-Sitz verfügbar:
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/frontseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-#### Sitze in der zweiten Reihe
+#### Rücksitzreihe
 
-Sie können drei Sitztypen für die zweite Reihe im Kia EV9 GT wählen.
-
-Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
-- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
-- Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für äußere Sitze)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
-
-Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
+Für die zweite Reihe hat dieses Modell zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
@@ -155,15 +144,6 @@ Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (elektrisch verstellbar)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
-
-Die third-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
-- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
-- Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}

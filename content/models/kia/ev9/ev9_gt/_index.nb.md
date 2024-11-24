@@ -112,7 +112,7 @@ Interiøret i Kia EV9 GT er funksjonelt og har materialer av høy kvalitet i fle
 
 ### Seter
 
-Kia EV9 GT er tilgjengelig i en seks- eller sjuseters layout for økt allsidighet.
+Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
 
 #### Forseter
 
@@ -136,18 +136,7 @@ Følgende funksjoner er tilgjengelige på ** Premium Relaxion** setet.
 
 #### Seter på andre rad
 
-Du kan velge tre setetyper for den andre raden i Kia EV9 GT.
-
-Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for ytre seter)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
-
-Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
+For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
@@ -155,15 +144,6 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (elektrisk justerbar)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
-
-Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
-
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}

@@ -58,7 +58,7 @@ Kia EV9 GT-Line AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en p
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Styrning
 
@@ -68,11 +68,11 @@ Dynamisk styrning är standard-funktionen för Kia EV9 GT-Line AWD. Dynamisk sty
 
 Kia EV9 GT-Line AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
 
-- Eco: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
-- Sport: Dynamisk styrning, fjädring och gaspådrag.
-- Normal: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
-- My Drive: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
-- Snow: Balanserad styrning, gas och dämpning.
+- Eco: Balanserad styrning och effektiv gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Normal: Balanserad styrning och gaspedal.
+- My Drive: Användardefinierade inställningar för styrning och gaspådrag.
+- Snow: Balanserad styrning och gaspedal.
 - Mud: Balanserad styrning, gas och dämpning.
 - Sand: Balanserad styrning, gas och dämpning.
 

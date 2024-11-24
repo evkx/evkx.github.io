@@ -58,7 +58,7 @@ The Kia EV9 Long Range AWD features an all-wheel drive system powered by two mot
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Steering
 
@@ -68,13 +68,13 @@ Dynamic steering is a standard on the Kia EV9 Long Range AWD, varying the steeri
 
 The Kia EV9 Long Range AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
-- Eco: Balanced steering, with efficient throttle, and balanced suspension.
-- Sport: Dynamic steering, suspension and throttle.
-- Normal: Balanced throttle and steering, comfort suspension damping.
-- My Drive: User-defined settings for steering, throttle, and suspension.
-- Snow: Balanced steering, throttle and damping.
-- Mud: Balanced steering, throttle and damping.
-- Sand: Balanced steering, throttle and damping.
+- Eco: Balanced steering and efficent throttle.
+- Sport: Dynamic steering and throttle.
+- Normal: Balanced steering and throttle.
+- My Drive: User-defined settings for steering and throttle.
+- Snow: Balanced steering and throttle.
+- Mud: Balanced steering and throttle.
+- Sand: Balanced steering and throttle.
 
 ### Brakes
 

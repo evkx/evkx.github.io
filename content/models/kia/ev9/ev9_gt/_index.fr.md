@@ -112,7 +112,7 @@ L'intérieur du Kia EV9 GT est fonctionnel et comporte des matériaux de haute q
 
 ### Sièges
 
-Kia EV9 GT est disponible en configuration six ou sept sièges pour plus de polyvalence.
+La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
 
 #### Sièges de première rangée
 
@@ -134,20 +134,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège ** Premium Relaxio
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/frontseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-#### Sièges de deuxième rangée
+#### Siège de deuxième rangée
 
-Vous pouvez choisir trois types de sièges pour la deuxième rangée dans le Kia EV9 GT.
-
-L'option standard est une banquette à trois places avec une séparation 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard pour sièges extérieurs)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
-
-L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
+Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
@@ -155,15 +144,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (réglable électriquement)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
-
-L'option third est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
-
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}

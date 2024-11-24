@@ -58,7 +58,7 @@ Kia EV9 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, 
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
 
 ### Styring
 
@@ -68,13 +68,13 @@ Dynamisk styring er en standard-funksjonen på Kia EV9 Long Range AWD. Dynamisk 
 
 Kia EV9 Long Range AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
 
-- Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
-- Sport: Dynamisk styring, fjæring og gasspådrag.
-- Normal: Balansert gasspådrag og styring, komfort fjæringsdemping.
-- My Drive: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
-- Snow: Balansert styring, gass og demping.
-- Mud: Balansert styring, gass og demping.
-- Sand: Balansert styring, gass og demping.
+- Eco: Balansert styring og effektiv gasspedal.
+- Sport: Dynamisk styring og gasspedal.
+- Normal: Balansert styring og gasspedal.
+- My Drive: Brukerdefinerte innstillinger for styring og gasspådrag.
+- Snow: Balansert styring og gasspedal.
+- Mud: Balansert styring og gasspedal.
+- Sand: Balansert styring og gasspedal.
 
 ### Bremser
 

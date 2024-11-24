@@ -58,7 +58,7 @@ Kia EV9 Long Range AWD dispose d'un système de transmission intégrale pris en 
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Pilotage
 
@@ -68,13 +68,13 @@ La direction dynamique est une fonctionnalité un standard sur le Kia EV9 Long R
 
 Le Kia EV9 Long Range AWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
 
-- Eco: Direction équilibrée, avec accélérateur efficace, et suspension équilibrée.
-- Sport: Direction, suspension et accélérateur dynamiques.
-- Normal: Accélérateur et direction équilibrés, amortissement de suspension confortable.
-- My Drive : Paramètres définis par l'utilisateur pour la direction, l'accélérateur et la suspension.
-- Snow: Direction, accélération et amortissement équilibrés.
-- Mud: Direction, accélération et amortissement équilibrés.
-- Sand: Direction, accélération et amortissement équilibrés.
+- Eco: Direction équilibrée et accélérateur efficace.
+- Sport: Direction et accélérateur dynamiques.
+- Normal: Direction et accélérateur équilibrés.
+- My Drive : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
+- Snow: Direction et accélérateur équilibrés.
+- Mud: Direction et accélérateur équilibrés.
+- Sand: Direction et accélérateur équilibrés.
 
 ### Freins
 

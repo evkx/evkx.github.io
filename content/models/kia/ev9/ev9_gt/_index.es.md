@@ -112,7 +112,7 @@ El interior del Kia EV9 GT es funcional y cuenta con materiales de alta calidad 
 
 ### Asientos
 
-Kia EV9 GT está disponible en una configuración de seis o siete asientos para mayor versatilidad.
+La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
 
 #### Asientos de primera fila
 
@@ -134,20 +134,9 @@ Las siguientes funcionalidades están disponibles en el asiento ** Premium Relax
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/frontseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-#### Asientos de la segunda fila
+#### Asiento de segunda fila
 
-Puedes elegir tres tipos de asientos para la segunda fila en el Kia EV9 GT.
-
-La opción standard es un banco de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (estándar para asientos exteriores)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
-
-La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
+Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
@@ -155,15 +144,6 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (ajustable eléctricamente)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
-
-La opción third son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
-
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}
