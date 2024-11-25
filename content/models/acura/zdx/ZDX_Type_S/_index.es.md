@@ -30,17 +30,17 @@ El Acura ZDX Type S ofrece un rendimiento sólido con una potencia máxima de 37
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 110,0 kWh y una capacidad neta utilizable de 102,0 kWh, proporcionando un buffer de 8,0 kWh (7,3%) para la protección de la batería. Con un voltaje nominal de 400 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 112,5 kWh y una capacidad neta utilizable de 107,5 kWh, proporcionando un buffer de 5,0 kWh (4,4%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 463 km con una tasa de consumo de energía de 22,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 463 km con una tasa de consumo de energía de 23,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 180 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 118kW. Cada sesión de carga tardaría 30 minutos y 30 segundos.
+La velocidad máxima de carga de CC es 190kW. Una carga completa del 0 al 100 % tardaría 190 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 119kW. Cada sesión de carga tardaría 31 minutos y 50 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 36 minutos. Este viaje requeriría dos paradas de carga del 8% al 57%, con un tiempo total de carga de 77 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 33 minutos. Este viaje requeriría dos paradas de carga del 6% al 73%, con un tiempo total de carga de 73 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 52 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 20 minutos usando un cargador en casa.
 
 ### Puerto de carga
 
@@ -56,13 +56,19 @@ Acura ZDX Type S tiene un sistema de tracción total sostenido por dos motores, 
 
 La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Acura ZDX Type S. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 396 mm y los discos traseros de 343 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 396 mm y los discos traseros de 345 mm.
 
 ### Frenado regenerativo
 
 [La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
+
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 ## Exterior
 
@@ -81,6 +87,8 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El Acura ZDX Type S cuenta con un interior centrado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en varias áreas en lugar de plástico duro. También incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento conveniente y funcionalidad. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -105,7 +113,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -130,6 +138,8 @@ El Acura ZDX Type S incluye varias características para mejorar la comodidad y 
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
 
 El Acura ZDX Type S tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
@@ -186,15 +196,23 @@ El Acura ZDX Type S incluye varios [sistemas avanzados de asistencia al conducto
 
 ### Sistemas de Seguridad
 
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Acura ZDX Type S, este sistema evita que las ruedas se bloqueen durante el frenado.
+
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Acura ZDX Type S, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Acura ZDX Type S, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
 [**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Acura ZDX Type S, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
 [**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Acura ZDX Type S, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
 
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Acura ZDX Type S, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Acura ZDX Type S, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Acura ZDX Type S, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Acura ZDX Type S, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
@@ -202,6 +220,11 @@ Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de autom
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 ## Tecnologías de seguridad y acceso
 
@@ -218,5 +241,17 @@ El maletero ofrece una capacidad de carga de 793 litros. Con el asiento trasero 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1588 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
+
+## Disponibilidad y precios
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Acura ZDX Type S que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
+- [Mercedes EQE 350 4MATIC SUV](/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
+- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+
+<a href="https://db.evkx.net/evcompare?evs=746d3b%2c1a8daa%2ce0836b%2cb42577" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Acura ZDX" f_url="rangeandconsumption/" f_title="Rango" >}}

@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="zdx_type_s/"><img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/main_1_xst.jpg" class="img-fluid" width="400px" height="234px" alt="ZDX Type S" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 110 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 112,5 kWh <i class="bi bi-ev-station"></i> 190 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

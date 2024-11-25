@@ -43,7 +43,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				463 km / 288 mi
 			</td>
 			<td>
-				22,0 kWh/100km / 2,8 mi/kWh
+				23,2 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				463 km / 288 mi
 			</td>
 			<td>
-				22,0 kWh/100km / 2,8 mi/kWh
+				23,2 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				EPA-seriens grundläggande trimnivå med 2KW AC
 			</td>
 			<td>
-				387 km / 240 mi
+				391 km / 243 mi
 			</td>
 			<td>
-				-16,4%
+				-15,6%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				EPA-räckvidd max trimnivå med 2KW AC
 			</td>
 			<td>
-				387 km / 240 mi
+				391 km / 243 mi
 			</td>
 			<td>
-				-16,4%
+				-15,6%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				120 kmh/75 mph under perfekta förhållanden
 			</td>
 			<td>
-				408 km / 254 mi
+				430 km / 267 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +143,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				120 kmh /75mph med 2KW uppvärmning
 			</td>
 			<td>
-				382 km /237mi
+				403 km /250mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

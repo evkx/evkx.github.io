@@ -30,17 +30,17 @@ Acura ZDX Type S levererar en solid prestanda med en maximal effekt på 373 kW (
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 110,0 kWh och en nettoanvändbar kapacitet på 102,0 kWh, vilket ger en buffert på 8,0 kWh (7,3%) för batteriskydd. Med en nominell spänning på 400 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 112,5 kWh och en nettoanvändbar kapacitet på 107,5 kWh, vilket ger en buffert på 5,0 kWh (4,4%) för batteriskydd. Med en nominell spänning på 355,2 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 463 km med en energiförbrukning på 22,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 463 km med en energiförbrukning på 23,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 180 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 118kW. Varje laddningssession tar 30 minuter och 30 sekunder.
+Maximal DC-laddningshastighet är 190 kW. En full laddning från 0 - 100 % tar 190 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 119kW. Varje laddningssession tar 31 minuter och 50 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 57%, med en total laddningstid på 77 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 33 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 73%, med en total laddningstid på 73 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 52 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 20 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -56,13 +56,19 @@ Acura ZDX Type S har ett fyrhjulsdriftsystem som stöds av två motorer, en på 
 
 Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare.
 
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Acura ZDX Type S. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 396mm och de bakre skivorna är 343mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 396mm och de bakre skivorna är 345mm.
 
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 ## Exteriör
 
@@ -81,6 +87,8 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
+
+Acura ZDX Type S har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. Det inkluderar också en traditionell mittkonsol som separerar föraren och passageraren, och som erbjuder praktisk förvaring och funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -105,7 +113,7 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -130,6 +138,8 @@ Acura ZDX Type S inkluderar flera funktioner för att förbättra komfort och be
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
 
 Acura ZDX Type S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 
@@ -186,15 +196,23 @@ Acura ZDX Type S inkluderar flera [avancerade förarassistanssystem](../../../..
 
 ### Säkerhetssystem
 
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Acura ZDX Type S, detta system förhindrar att hjulen låser sig under bromsning.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Acura ZDX Type S, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX Type S, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
 [**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Acura ZDX Type S, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
 [**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX Type S, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
 
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Acura ZDX Type S, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+
 [**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Acura ZDX Type S, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Acura ZDX Type S, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Acura ZDX Type S, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
 
 ### Körautomatisering
 
@@ -202,6 +220,11 @@ Med standard  nivå 2-systemet får du följande funktioner för körautomatiser
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhets- och åtkomstteknologier
 
@@ -218,5 +241,17 @@ Bagageutrymmet erbjuder en lastkapacitet på 793 liter. Med baksätena nedfälld
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
+
+## Tillgänglighet och pris
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Acura ZDX Type S som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
+- [Mercedes EQE 350 4MATIC SUV](/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
+- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+
+<a href="https://db.evkx.net/evcompare?evs=746d3b%2c1a8daa%2ce0836b%2cb42577" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Acura ZDX" f_url="rangeandconsumption/" f_title="Räckvidd" >}}
