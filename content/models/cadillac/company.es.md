@@ -1,62 +1,62 @@
 ---
-title: Company
-description: Company
+title: Compañía
+description: Compañía
 weight: 1
 hidden: true
 ---
 
-**Cadillac: A Journey from Luxury Pioneer to EV Innovator**
+**Cadillac: Un Viaje desde Pionero del Lujo hasta Innovador en Vehículos Eléctricos**
 
-### **Origins and History of Cadillac**
+### **Orígenes e Historia de Cadillac**
 
-Founded in 1902 in Detroit, Michigan, Cadillac emerged as one of the first American automotive companies, paving the way for luxury vehicles in the United States and globally. The brand was named after Antoine Laumet de La Mothe, sieur de Cadillac, the French explorer who founded Detroit. Known for its attention to detail and commitment to precision engineering, Cadillac quickly gained a reputation for producing reliable, luxurious, and high-quality vehicles.
+Fundada en 1902 en Detroit, Michigan, Cadillac surgió como una de las primeras compañías automotrices estadounidenses, abriendo el camino para los vehículos de lujo en Estados Unidos y globalmente. La marca fue nombrada en honor a Antoine Laumet de La Mothe, sieur de Cadillac, el explorador francés que fundó Detroit. Conocida por su atención al detalle y compromiso con la ingeniería de precisión, Cadillac rápidamente ganó reputación por producir vehículos confiables, lujosos y de alta calidad.
 
-In 1909, Cadillac was acquired by General Motors (GM) and became the corporation's luxury vehicle division. It was the first car manufacturer to mass-produce vehicles using precision manufacturing techniques, and its innovations helped establish the standards for automotive manufacturing worldwide. Cadillac's V8 engine, introduced in 1915, was a major milestone that set a new standard for power and performance in luxury cars.
+En 1909, Cadillac fue adquirida por General Motors (GM) y se convirtió en la división de vehículos de lujo de la corporación. Fue el primer fabricante de automóviles en producir en masa vehículos utilizando técnicas de fabricación de precisión, y sus innovaciones ayudaron a establecer los estándares para la fabricación automotriz mundial. El motor V8 de Cadillac, introducido en 1915, fue un hito importante que estableció un nuevo estándar de potencia y rendimiento en automóviles de lujo.
 
-### **Global Manufacturing Footprint**
+### **Presencia Global de Fabricación**
 
-Cadillac’s manufacturing and production have remained mostly centered in the United States, but the company has expanded its footprint globally:
+La fabricación y producción de Cadillac ha permanecido principalmente centrada en Estados Unidos, pero la compañía ha expandido su presencia globalmente:
 
-- **United States**: Detroit has been the heart of Cadillac’s manufacturing operations. The company’s most iconic production facility is the Detroit-Hamtramck Assembly Plant, now known as **Factory ZERO**, which is being revamped as a center for electric vehicle production.
+- **Estados Unidos**: Detroit ha sido el corazón de las operaciones de fabricación de Cadillac. La instalación de producción más icónica de la compañía es la Planta de Ensamblaje Detroit-Hamtramck, ahora conocida como **Factory ZERO**, que está siendo renovada como centro de producción de vehículos eléctricos.
   
-- **Canada**: GM Canada plays a significant role in Cadillac’s operations, with facilities that contribute to the production of both traditional and electric powertrains.
+- **Canadá**: GM Canadá juega un papel significativo en las operaciones de Cadillac, con instalaciones que contribuyen a la producción de grupos motopropulsores tradicionales y eléctricos.
 
-- **China**: Cadillac has strategically targeted the Chinese market, recognizing the region's rapidly growing demand for luxury cars. The company operates production facilities in China, including in Shanghai, to cater to local demand. China has become Cadillac’s largest market outside the U.S.
+- **China**: Cadillac ha apuntado estratégicamente al mercado chino, reconociendo la demanda rápidamente creciente de la región por automóviles de lujo. La compañía opera instalaciones de producción en China, incluyendo Shanghai, para atender la demanda local. China se ha convertido en el mercado más grande de Cadillac fuera de EE.UU.
 
-While Cadillac's core production base is in North America, its global presence has enabled the brand to adapt to regional demands, especially in the luxury sector.
+Mientras que la base de producción principal de Cadillac está en Norteamérica, su presencia global ha permitido que la marca se adapte a las demandas regionales, especialmente en el sector de lujo.
 
-### **Cadillac’s Electric Vehicle Strategy**
+### **Estrategia de Vehículos Eléctricos de Cadillac**
 
-As part of General Motors' ambitious goal to become a leader in electric mobility, Cadillac is at the forefront of the company's EV transition. Cadillac’s approach to electrification is bold, aiming to phase out combustion engine models in favor of an all-electric lineup. Here’s an in-depth look at Cadillac’s EV goals and initiatives:
+Como parte del ambicioso objetivo de General Motors de convertirse en líder en movilidad eléctrica, Cadillac está a la vanguardia de la transición a vehículos eléctricos de la compañía. El enfoque de Cadillac hacia la electrificación es audaz, apuntando a eliminar gradualmente los modelos de motor de combustión en favor de una línea totalmente eléctrica. Aquí hay una mirada en profundidad a los objetivos e iniciativas de vehículos eléctricos de Cadillac:
 
-#### **EV Goals and Production Targets**
+#### **Objetivos y Metas de Producción de Vehículos Eléctricos**
 
-Cadillac has committed to an **all-electric future by 2030**, aiming to eliminate internal combustion engine vehicles from its lineup. This transformation began with the launch of the Cadillac Lyriq, the brand’s first all-electric SUV, in 2023. Following the Lyriq, Cadillac plans to introduce a range of electric vehicles across various segments, with a target to have multiple electric models by 2025. These targets align with GM’s broader goal of achieving a fully electric light-duty vehicle lineup by 2035.
+Cadillac se ha comprometido a un **futuro totalmente eléctrico para 2030**, con el objetivo de eliminar los vehículos con motor de combustión interna de su línea. Esta transformación comenzó con el lanzamiento del Cadillac Lyriq, el primer SUV totalmente eléctrico de la marca, en 2023. Después del Lyriq, Cadillac planea introducir una gama de vehículos eléctricos en varios segmentos, con el objetivo de tener múltiples modelos eléctricos para 2025. Estos objetivos se alinean con la meta más amplia de GM de lograr una línea de vehículos ligeros totalmente eléctricos para 2035.
 
-Cadillac is leveraging GM's **Ultium battery platform**, a flexible architecture designed to accommodate a wide variety of electric vehicles. This platform not only underpins Cadillac’s EVs but also facilitates shared development across GM's brands, accelerating the transition to electric mobility.
+Cadillac está aprovechando la **plataforma de baterías Ultium** de GM, una arquitectura flexible diseñada para acomodar una amplia variedad de vehículos eléctricos. Esta plataforma no solo sustenta los vehículos eléctricos de Cadillac sino que también facilita el desarrollo compartido entre las marcas de GM, acelerando la transición a la movilidad eléctrica.
 
-#### **Key Initiatives and Technologies**
+#### **Iniciativas y Tecnologías Clave**
 
-Cadillac’s EV strategy focuses on innovative technologies and luxury features that align with the brand's reputation:
+La estrategia de vehículos eléctricos de Cadillac se centra en tecnologías innovadoras y características de lujo que se alinean con la reputación de la marca:
 
-- **Ultium Battery System**: The backbone of Cadillac's electric vehicles, the Ultium platform supports a range of battery sizes, offering flexibility in power, range, and performance. This scalable system allows Cadillac to produce everything from compact EVs to high-performance electric SUVs.
+- **Sistema de Batería Ultium**: La columna vertebral de los vehículos eléctricos de Cadillac, la plataforma Ultium admite una gama de tamaños de batería, ofreciendo flexibilidad en potencia, autonomía y rendimiento. Este sistema escalable permite a Cadillac producir desde vehículos eléctricos compactos hasta SUV eléctricos de alto rendimiento.
 
-- **Super Cruise**: Cadillac's **Super Cruise** is a hands-free driving assistance technology that plays a crucial role in its EV lineup. This system leverages LiDAR mapping, adaptive cruise control, and advanced camera technology to provide a semi-autonomous driving experience, emphasizing safety and convenience.
+- **Super Cruise**: El **Super Cruise** de Cadillac es una tecnología de asistencia a la conducción manos libres que juega un papel crucial en su línea de vehículos eléctricos. Este sistema aprovecha el mapeo LiDAR, el control de crucero adaptativo y la tecnología avanzada de cámaras para proporcionar una experiencia de conducción semi-autónoma, enfatizando la seguridad y la conveniencia.
 
-- **Sustainability Initiatives**: Cadillac is committed to sustainability, focusing on reducing the carbon footprint of its production processes. The use of eco-friendly materials, energy-efficient factories, and sustainable battery technology are central to Cadillac’s approach. For example, **Factory ZERO** is a key component in Cadillac's eco-friendly production, running on renewable energy and serving as a model for sustainable manufacturing practices.
+- **Iniciativas de Sostenibilidad**: Cadillac está comprometida con la sostenibilidad, centrándose en reducir la huella de carbono de sus procesos de producción. El uso de materiales ecológicos, fábricas energéticamente eficientes y tecnología de baterías sostenible son fundamentales para el enfoque de Cadillac. Por ejemplo, **Factory ZERO** es un componente clave en la producción ecológica de Cadillac, funcionando con energía renovable y sirviendo como modelo para prácticas de fabricación sostenible.
 
-### **Upcoming Electric Models and Innovations**
+### **Próximos Modelos Eléctricos e Innovaciones**
 
-Cadillac has several EV models in the pipeline that will shape its electric future:
+Cadillac tiene varios modelos eléctricos en desarrollo que darán forma a su futuro eléctrico:
 
-- **Cadillac Lyriq**: Already launched, the Lyriq sets the stage for Cadillac’s electric transition. It is an all-electric luxury SUV offering over 300 miles of range, advanced infotainment, and a refined, quiet cabin that emphasizes comfort and cutting-edge technology.
+- **Cadillac Lyriq**: Ya lanzado, el Lyriq establece el escenario para la transición eléctrica de Cadillac. Es un SUV de lujo totalmente eléctrico que ofrece más de 300 millas de autonomía, infoentretenimiento avanzado y un habitáculo refinado y silencioso que enfatiza el confort y la tecnología de vanguardia.
 
-- **Cadillac Celestiq**: The Celestiq is poised to be Cadillac's ultra-luxury electric sedan, aiming to redefine high-end electric vehicles. Expected to feature personalized craftsmanship, top-tier materials, and advanced connectivity, the Celestiq is a statement of Cadillac’s dedication to innovation and luxury in the EV era.
+- **Cadillac Celestiq**: El Celestiq está posicionado para ser el sedán eléctrico ultra-lujo de Cadillac, con el objetivo de redefinir los vehículos eléctricos de alta gama. Se espera que presente artesanía personalizada, materiales de primera calidad y conectividad avanzada, el Celestiq es una declaración de la dedicación de Cadillac a la innovación y el lujo en la era de los vehículos eléctricos.
 
-- **Future Models**: Cadillac plans to introduce additional EVs across segments, including crossovers, SUVs, and luxury sedans. These models will cater to a wide audience, from young professionals to established luxury car enthusiasts.
+- **Modelos Futuros**: Cadillac planea introducir vehículos eléctricos adicionales en diversos segmentos, incluyendo crossovers, SUVs y sedanes de lujo. Estos modelos atenderán a una amplia audiencia, desde jóvenes profesionales hasta entusiastas establecidos de automóviles de lujo.
 
-### **Cadillac's Role in the Electric Mobility Transition**
+### **El Papel de Cadillac en la Transición a la Movilidad Eléctrica**
 
-Cadillac is positioned as a key player in GM’s larger vision of an electric future, blending its heritage of luxury with cutting-edge technology. The brand's emphasis on **comfort, safety, and high performance** makes it a strong contender in the premium EV market. Cadillac’s strategy also highlights a balance between innovation and tradition, maintaining the luxurious feel that its loyal customers expect while adopting a modern, sustainable approach.
+Cadillac está posicionada como un actor clave en la visión más amplia de GM de un futuro eléctrico, combinando su herencia de lujo con tecnología de vanguardia. El énfasis de la marca en **confort, seguridad y alto rendimiento** la convierte en un fuerte contendiente en el mercado de vehículos eléctricos premium. La estrategia de Cadillac también destaca un equilibrio entre innovación y tradición, manteniendo la sensación lujosa que sus clientes leales esperan mientras adopta un enfoque moderno y sostenible.
 
-As the automotive industry pivots towards a cleaner, more sustainable future, Cadillac is stepping up with a clear EV roadmap, substantial investments in technology, and a commitment to eliminating emissions without sacrificing the luxury and performance that define the brand.
+A medida que la industria automotriz gira hacia un futuro más limpio y sostenible, Cadillac está dando un paso adelante con una hoja de ruta clara para vehículos eléctricos, inversiones sustanciales en tecnología y un compromiso para eliminar las emisiones sin sacrificar el lujo y el rendimiento que definen la marca.
