@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Cadillac VISTIQ AWD. K
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -1027,7 +1027,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Android Auto Support
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1035,7 +1035,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Apple Carplay Support
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

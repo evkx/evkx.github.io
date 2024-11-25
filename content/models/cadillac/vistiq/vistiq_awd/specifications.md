@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac VISTIQ AWD.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -1027,7 +1027,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1035,7 +1035,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

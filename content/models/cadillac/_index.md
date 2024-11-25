@@ -1,7 +1,7 @@
 ---
 title: Cadillac EV models
 linktitle: "Cadillac"
-description: "Cadillac is a luxury brand of General Motors (GM) that produces and sells premium vehicles in North America, China, and other markets. Cadillac is known for its history of innovation, design, and performance, as well as its iconic models such as the Escalade, CTS, and Eldorado. "
+description: "Cadillac, a pioneer in American luxury cars since 1902, blends heritage with innovation. As General Motors' premium brand, Cadillac is now driving a bold shift towards electrification. With a commitment to an all-electric lineup by 2030, the brand focuses on advanced tech, sustainability, and maintaining its signature luxury appeal."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Cadillac VISTIQ is a SUV available in 1 variants.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            About the brand
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/cadillac/company.md" %}}
+</div>
+</div>
+</div>
+</div>

@@ -26,7 +26,7 @@ Vi har delt vår beskrivelse av Cadillac VISTIQ AWD i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Cadillac VISTIQ AWD imponerer med en imponerende kraft på 458,6 kW (624 hk) og et betydelig dreiemoment på 880 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,7 sekunder og har en toppfart på 210 km/t, noe som gjør den til en markant modell i sin klasse.
+Cadillac VISTIQ AWD imponerer med en imponerende kraft på 458,6 kW (624 hk) og et betydelig dreiemoment på 880 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,7 sekunder og har en toppfart på 210 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
@@ -67,7 +67,7 @@ Dynamisk styring er en standard-funksjonen på Cadillac VISTIQ AWD. Dynamisk sty
 
 Cadillac VISTIQ AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
 
-- Normal: Balansert styring og effektiv gasspedal.
+- Tour: Balansert styring og effektiv gasspedal.
 - Sport: Balansert styring og gasspedal.
 - My Mode: Brukerdefinerte innstillinger for styring og gasspådrag.
 
@@ -208,10 +208,6 @@ Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsap
 
 - **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
 - Waze
-
-### Telefonspeiling
-
-I tillegg støtter Cadillac VISTIQ AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
 ### Lydsystem
 

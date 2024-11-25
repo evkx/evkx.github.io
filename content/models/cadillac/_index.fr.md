@@ -1,7 +1,7 @@
 ---
 title: Cadillac modèles de VE
 linktitle: "Cadillac"
-description: "Cadillac is a luxury brand of General Motors (GM) that produces and sells premium vehicles in North America, China, and other markets. Cadillac is known for its history of innovation, design, and performance, as well as its iconic models such as the Escalade, CTS, and Eldorado. "
+description: "Cadillac, pionnier des voitures de luxe américaines depuis 1902, allie héritage et innovation. En tant que marque premium de General Motors, Cadillac conduit désormais un changement audacieux vers l'électrification. Avec un engagement pour une gamme entièrement électrique d'ici 2030, la marque se concentre sur la technologie avancée, la durabilité et le maintien de son attrait luxueux caractéristique."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Cadillac VISTIQ est un SUV disponible en 1 variantes.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            À propos de la marque
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/cadillac/company.fr.md" %}}
+</div>
+</div>
+</div>
+</div>

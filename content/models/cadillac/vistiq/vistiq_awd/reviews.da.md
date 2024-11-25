@@ -16,10 +16,10 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>2024-2025 Cadillac Lyriq Review | Caddy's Big 2-Row EV Brings Back The Memories</h3>
-<p>Redline Reviews: 02.09.2024</p>
+<h3>My First Look At The New Electric Cadillac VISTIQ! Full Interior & Exterior Tour, Specs, & More</h3>
+<p>Out of Spec Reviews: 12.11.2024</p>
 
-{{< youtube XlcQXqiiCuI >}}
+{{< youtube ndxdqUXg1WA >}}
 
 </div>
 <div class="mt-3 mb-3">

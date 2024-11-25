@@ -1,7 +1,7 @@
 ---
 title: Cadillac elektriske modeller
 linktitle: "Cadillac"
-description: "Cadillac is a luxury brand of General Motors (GM) that produces and sells premium vehicles in North America, China, and other markets. Cadillac is known for its history of innovation, design, and performance, as well as its iconic models such as the Escalade, CTS, and Eldorado. "
+description: "Cadillac, en pionjär inom amerikanska lyxbilar sedan 1902, blandar arv med innovation. Som General Motors premiumvarumärke driver Cadillac nu ett djärvt skifte mot elektrifiering. Med ett åtagande om en helt elektrisk lineup till 2030 fokuserar varumärket på avancerad teknik, hållbarhet och att behålla sin karakteristiska lyxiga attraktionskraft."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -79,4 +79,16 @@ Cadillac VISTIQ är en SUV tillgänglig i 1 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om varumärket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/cadillac/company.sv.md" %}}
+</div>
+</div>
+</div>
+</div>

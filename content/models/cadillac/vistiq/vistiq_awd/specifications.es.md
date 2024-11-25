@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac VISTIQ AW
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -1027,7 +1027,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Soporte Android Auto
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1035,7 +1035,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Soporte Apple Carplay
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>

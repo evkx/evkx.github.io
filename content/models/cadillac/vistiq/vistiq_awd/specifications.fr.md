@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Cadillac 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -1027,7 +1027,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Support Android Auto
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1035,7 +1035,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Support Apple Carplay
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>

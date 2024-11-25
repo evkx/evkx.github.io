@@ -281,6 +281,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
+		Cadillac, en pioner inden for amerikanske luksusbiler siden 1902, blander arv med innovation. Som General Motors' premium mærke driver Cadillac nu et dristigt skift mod elektrificering. Med en forpligtelse til en fuldelektrisk lineup inden 2030 fokuserer mærket på avanceret teknologi, bæredygtighed og opretholdelse af sin karakteristiske luksusappel.
+	</p>
+	<p>
 	Cadillac har 4 modeller med i alt 5 varianter.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå til Cadillac EV-modeloversigt</a>

@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Cadillac VISTIQ AWD bietet eine beeindruckende Leistung mit einer maximalen Leistung von 458,6 kW (624 PS / 615 bhp) und einem beachtlichen Gesamtdrehmoment von 880 Nm (649 lb-ft). Diese Hochleistungsmaschine kann in nur 4,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
+Der Cadillac VISTIQ AWD bietet eine beeindruckende Leistung mit einer maximalen Leistung von 458,6 kW (624 PS / 615 bhp) und einem beachtlichen Gesamtdrehmoment von 880 Nm (649 lb-ft). Diese Hochleistungsmaschine kann in nur 3,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -67,7 +67,7 @@ Die dynamische Lenkung ist eine standard im Cadillac VISTIQ AWD, wobei das Lenkv
 
 Der Cadillac VISTIQ AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
 
-- Normal: Ausgewogene Lenkung und effizientes Gas.
+- Tour: Ausgewogene Lenkung und effizientes Gas.
 - Sport: Ausgewogene Lenkung und Gas.
 - My Mode: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
 
@@ -208,10 +208,6 @@ Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps he
 
 - **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
 - Waze
-
-### Telefonspiegelung
-
-Der Cadillac VISTIQ AWD unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
 
 ### Soundsystem
 

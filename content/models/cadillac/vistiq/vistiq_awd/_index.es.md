@@ -26,7 +26,7 @@ Hemos separado nuestro artículo Cadillac VISTIQ AWD en secciones. Si desea espe
 
 ## Rendimiento
 
-El Cadillac VISTIQ AWD impresiona con una potencia máxima de 458,6 kW (624 hp) y un impresionante par total de 880 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,7 segundos y alcanza una velocidad máxima de 210 km/h, destacándose en su clase.
+El Cadillac VISTIQ AWD impresiona con una potencia máxima de 458,6 kW (624 hp) y un impresionante par total de 880 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,7 segundos y alcanza una velocidad máxima de 210 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 
@@ -67,7 +67,7 @@ La dirección dinámica es una característica un estándar en el Cadillac VISTI
 
 El Cadillac VISTIQ AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
-- Normal: Dirección equilibrada y acelerador eficiente.
+- Tour: Dirección equilibrada y acelerador eficiente.
 - Sport: Dirección y acelerador equilibrados.
 - My Mode: Configuraciones definidas por el usuario para la dirección y el acelerador.
 
@@ -208,10 +208,6 @@ El sistema de infoentretenimiento incluye una App Store donde puedes descargar a
 
 - **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
 - Waze
-
-### Espejo del teléfono
-
-Además, el Cadillac VISTIQ AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
 ### Sistema de sonido
 

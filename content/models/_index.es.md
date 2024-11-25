@@ -281,6 +281,9 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
+		Cadillac, un pionero en autos de lujo americanos desde 1902, combina herencia con innovación. Como la marca premium de General Motors, Cadillac ahora está impulsando un audaz cambio hacia la electrificación. Con un compromiso con una línea totalmente eléctrica para 2030, la marca se enfoca en tecnología avanzada, sostenibilidad y mantener su atractivo de lujo característico.
+	</p>
+	<p>
 	Cadillac tiene 4 modelos con un total de 5 variantes.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Ir a Cadillac descripción general del modelo EV</a>

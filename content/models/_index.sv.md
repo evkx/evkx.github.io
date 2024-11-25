@@ -281,6 +281,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
+		Cadillac, en pionjär inom amerikanska lyxbilar sedan 1902, blandar arv med innovation. Som General Motors premiumvarumärke driver Cadillac nu ett djärvt skifte mot elektrifiering. Med ett åtagande om en helt elektrisk lineup till 2030 fokuserar varumärket på avancerad teknik, hållbarhet och att behålla sin karakteristiska lyxiga attraktionskraft.
+	</p>
+	<p>
 	Cadillac har 4 modell(er) med totalt 5 varianter.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå till Cadillac modellöversikt</a>

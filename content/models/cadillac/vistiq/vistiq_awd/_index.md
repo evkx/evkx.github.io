@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Cadillac VISTIQ AWD packs an impressive punch with a maximum power of 458.6 kW (624 hp / 615 bhp) and a commanding total torque of 880 Nm (649 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 210 km/h (131 mph), making it a standout in its class.
+The Cadillac VISTIQ AWD packs an impressive punch with a maximum power of 458.6 kW (624 hp / 615 bhp) and a commanding total torque of 880 Nm (649 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds, and it reaches a top speed of 210 km/h (131 mph), making it a standout in its class.
 
 ## Battery, Range, and Charging
 
@@ -67,7 +67,7 @@ Dynamic steering is a standard on the Cadillac VISTIQ AWD, varying the steering 
 
 The Cadillac VISTIQ AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
-- Normal: Balanced steering and efficent throttle.
+- Tour: Balanced steering and efficent throttle.
 - Sport: Balanced steering and throttle.
 - My Mode: User-defined settings for steering and throttle.
 
@@ -208,10 +208,6 @@ The infotainment system includes an App Store where you can download third-party
 
 - **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
 - Waze
-
-### Phone Mirroring
-
-The Cadillac VISTIQ AWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
