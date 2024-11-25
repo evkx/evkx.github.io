@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai IONIQ 9 AWD
 				Maks effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai IONIQ 9 AWD
 				Dreiemoment
 			</td>
 			<td>
-				700 nm
+				605 nm
 			</td>
 		</tr>
 		<tr>
@@ -80,50 +80,26 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde
 			</td>
 			<td>
-				600 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-forbruk grunnmodell
-			</td>
-			<td>
-				17,8 kWh/100km
+				570 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk
+			</td>
+			<td>
+				18,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk med ladetap
 			</td>
 			<td>
 				22,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-rekkevidde
-			</td>
-			<td>
-				550 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk
-			</td>
-			<td>
-				19,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk med ladetap
-			</td>
-			<td>
-				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +460,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping foran
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +468,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping bak
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

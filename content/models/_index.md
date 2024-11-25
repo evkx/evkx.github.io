@@ -456,7 +456,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Hyundai Motor Company, founded in 1967 in South Korea, is a global automaker known for affordable, reliable vehicles and a strong commitment to electric vehicles, aiming for carbon neutrality by 2045.
 	</p>
 	<p>
-	Hyundai has 5 models with total 12 variants.
+	Hyundai has 5 models with total 13 variants.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Go to Hyundai EV-model overview</a>
 </div>

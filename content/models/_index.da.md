@@ -399,7 +399,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 		Hyundai Motor Company, grundlagt i 1967 i Sydkorea, er en global bilproducent kendt for overkommelige, pålidelige køretøjer og en stærk forpligtelse til elektriske køretøjer, der sigter mod kulstofneutralitet inden 2045.
 	</p>
 	<p>
-	Hyundai har 5 modeller med i alt 12 varianter.
+	Hyundai har 5 modeller med i alt 13 varianter.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå til Hyundai EV-modeloversigt</a>
 </div>

@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Hyundai IONIQ 9 AW
 				Spitzenleistung
 			</td>
 			<td>
-				320 KW (435 PS /429 bhp)
+				230 KW (313 PS /308 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Hyundai IONIQ 9 AW
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				700 nm (517 lb-ft)
+				605 nm (446 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -80,50 +80,26 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
-				WLTP-Reichweite der Basisausstattung
+				WLTP-Reichweite
 			</td>
 			<td>
-				600 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch der Basisausstattung
-			</td>
-			<td>
-				17,8 kWh/100km
+				570 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
+				WLTP-Verbrauch
+			</td>
+			<td>
+				18,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch mit Ladeverlust
 			</td>
 			<td>
 				22,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Reichweite der Top-Ausstattung
-			</td>
-			<td>
-				550 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch der Top-Ausstattung
-			</td>
-			<td>
-				19,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
-			</td>
-			<td>
-				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +460,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Dämpfung vorne
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +468,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Verstellbare Dämpfung hinten
 			</td>
 			<td>
-				Ja, Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

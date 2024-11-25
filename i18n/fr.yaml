@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-848fafbf
+  translation: Hyundai IONIQ 9 AWD Long Range est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-2428b555
   translation: Cadillac VISTIQ AWD est un SUV entièrement électrique avec une autonomie EPA allant jusqu'à 525 km (326 miles). EVKX.net a tous les détails.
 
@@ -122,7 +125,7 @@
   translation: Porsche Taycan 4 est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 643 km (400 miles). EVKX.net a tous les détails.
 
 - id: frontpage-description-7f4e4d91
-  translation: Hyundai IONIQ 9 AWD Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
+  translation: Hyundai IONIQ 9 AWD Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 570 km (354 miles). EVKX.net a tous les détails.
 
 - id: frontpage-description-0056b1ab
   translation: Porsche Taycan GTS Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 601 km (374 miles). EVKX.net a tous les détails.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-f4b73295
   translation: Audi A6 Avant e-tron est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 598 km (372 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-23cd8de8
-  translation: Audi A6 Avant e-tron quattro est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 685 km (426 miles). EVKX.net a tous les détails.
 

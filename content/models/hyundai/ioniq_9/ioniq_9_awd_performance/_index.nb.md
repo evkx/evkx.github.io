@@ -1,7 +1,7 @@
 ---
 title: Hyundai IONIQ 9 AWD Performance
 linktitle: "IONIQ 9 AWD Performance"
-description: "Hyundai IONIQ 9 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene."
+description: "Hyundai IONIQ 9 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delt vår beskrivelse av Hyundai IONIQ 9 AWD Performance i seksjoner. Hvi
 
 ## Ytelse
 
-Hyundai IONIQ 9 AWD Performance leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 5,2 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Hyundai IONIQ 9 AWD Performance leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 605 Nm. Den kan akselerere fra 0 til 100 km/t på 5,2 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
 Høykapasitetsbatteriet har en brutto kapasitet på 110,3 kWh og en netto brukbar kapasitet på 107,0 kWh, som gir en buffer på 3,3 kWh (3,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 610 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 600 og 550 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 17,8 kWh/100 km for basismodellen og 19,5 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 570 km, med et energiforbruk på 18,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 74 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 153kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder. Denne effektive ladekapasiteten gjør Hyundai IONIQ 9 AWD Performance til et praktisk valg for langdistansereiser.
 
@@ -56,7 +56,7 @@ Hyundai IONIQ 9 AWD Performance har et firehjulsdriftssystem som støttes av to 
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
 
 ### Bremser
 

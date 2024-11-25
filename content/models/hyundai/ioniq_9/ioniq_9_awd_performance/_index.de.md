@@ -1,7 +1,7 @@
 ---
 title: Hyundai IONIQ 9 AWD Performance
 linktitle: "IONIQ 9 AWD Performance"
-description: "Hyundai IONIQ 9 AWD Performance ist ein vollelektrisches SUV mit einer Reichweite von bis zu 600 km (373 Meilen). EVKX.net hat alle Details."
+description: "Hyundai IONIQ 9 AWD Performance ist ein vollelektrisches SUV mit einer Reichweite von bis zu 570 km (354 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Hyundai IONIQ 9 AWD Performance liefert eine solide Leistung mit einer maximalen Leistung von 320 kW (435 PS / 429 bhp) und einem Gesamtdrehmoment von 700 Nm (517 lb-ft). Er beschleunigt in 5,2 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der Hyundai IONIQ 9 AWD Performance liefert eine solide Leistung mit einer maximalen Leistung von 230 kW (313 PS / 308 bhp) und einem Gesamtdrehmoment von 605 Nm (446 lb-ft). Er beschleunigt in 5,2 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 110,3 kWh und eine nutzbare Nettokapazität von 107,0 kWh, was einen Puffer von 3,3 kWh (3,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 610 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 600 und 550 km (373-342 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 17,8 kWh/100 km für das Basismodell und 19,5 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 570 km (354 Meilen) mit einem Energieverbrauch von 18,8 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 233 kW. Das Laden von 0% auf 100% dauert etwa 74 Minuten, während ein typischer Ladevorgang von 10% auf 80% 27 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 169 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 2% und 71%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 153 kW, wobei jede Ladesitzung etwa 29 Minuten und 59 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Hyundai IONIQ 9 AWD Performance zu einer bequemen Option für Langstreckenreisen.
 
@@ -56,7 +56,7 @@ Der Hyundai IONIQ 9 AWD Performance verfügt über ein Allradantriebssystem, das
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 177 mm.
 
 ### Bremsen
 

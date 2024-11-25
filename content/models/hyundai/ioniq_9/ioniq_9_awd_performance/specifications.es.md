@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Hyundai IONIQ 9 AW
 				Potencia máxima
 			</td>
 			<td>
-				320 KW (435 hp)
+				230 KW (313 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Hyundai IONIQ 9 AW
 				Salida de par eléctrico
 			</td>
 			<td>
-				700 nm
+				605 nm
 			</td>
 		</tr>
 		<tr>
@@ -80,50 +80,26 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				Rango WLTP de equipamiento básico
+				Rango WLTP
 			</td>
 			<td>
-				600 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP de ajuste básico
-			</td>
-			<td>
-				17,8 kWh/100km
+				570 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP de ajuste básico con pérdida de carga
+				Consumo WLTP
+			</td>
+			<td>
+				18,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP con pérdida de carga
 			</td>
 			<td>
 				22,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango WLTP de acabado superior
-			</td>
-			<td>
-				550 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP superior
-			</td>
-			<td>
-				19,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP superior con pérdida de carga
-			</td>
-			<td>
-				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +460,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación delantera ajustable
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +468,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación trasera ajustable
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>

@@ -71,7 +71,7 @@ Hyundai Ioniq 6 är en sedan som finns i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai IONIQ 9 är en SUV tillgänglig i 1 varianter.
+Hyundai IONIQ 9 är en SUV tillgänglig i 2 varianter.
 </p>
 	<a href="ioniq_9/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

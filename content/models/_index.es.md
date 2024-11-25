@@ -399,7 +399,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 		Hyundai Motor Company, fundada en 1967 en Corea del Sur, es un fabricante de automóviles global conocido por vehículos asequibles y confiables y un fuerte compromiso con los vehículos eléctricos, con el objetivo de lograr la neutralidad de carbono para 2045.
 	</p>
 	<p>
-	Hyundai tiene 5 modelos con un total de 12 variantes.
+	Hyundai tiene 5 modelos con un total de 13 variantes.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Ir a Hyundai descripción general del modelo EV</a>
 </div>

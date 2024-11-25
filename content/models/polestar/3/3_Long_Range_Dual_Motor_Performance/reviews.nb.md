@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Polestar 3 is Amazing</h3>
+<p>Auto Focus: 25.11.2024</p>
+
+{{< youtube E0EY4dxMAxA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 3! Alyssa's First Look & Driving Review + Final Calibration / Software Issues</h3>
 <p>Out of Spec Reviews: 26.09.2024</p>
 

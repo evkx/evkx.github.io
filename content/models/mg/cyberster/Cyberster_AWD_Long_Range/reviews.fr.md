@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG Cyberster banana box test</h3>
+<p>Bjørn Nyland: 25.11.2024</p>
+
+{{< youtube y5cz25r0iC4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>MG's Electric Sports Car Is Porsche's Nightmare...</h3>
 <p>Fully Charged Show: 16.01.2024</p>
 

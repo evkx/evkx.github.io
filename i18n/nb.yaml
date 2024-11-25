@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-848fafbf
+  translation: Hyundai IONIQ 9 AWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-2428b555
   translation: Cadillac VISTIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 525 km. EVKX.net har alle detaljene.
 
@@ -122,7 +125,7 @@
   translation: Porsche Taycan 4 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 643 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-7f4e4d91
-  translation: Hyundai IONIQ 9 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
+  translation: Hyundai IONIQ 9 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-0056b1ab
   translation: Porsche Taycan GTS Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 601 km. EVKX.net har alle detaljene.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-f4b73295
   translation: Audi A6 Avant e-tron er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 598 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-23cd8de8
-  translation: Audi A6 Avant e-tron quattro er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 685 km. EVKX.net har alle detaljene.
 

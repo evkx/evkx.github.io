@@ -1,7 +1,7 @@
 ---
 title: Hyundai IONIQ 9 AWD Performance
 linktitle: "IONIQ 9 AWD Performance"
-description: "Hyundai IONIQ 9 AWD Performance is an all-electric SUV with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details."
+description: "Hyundai IONIQ 9 AWD Performance is an all-electric SUV with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Hyundai IONIQ 9 AWD Performance delivers a solid performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 700 Nm (517 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.2 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Hyundai IONIQ 9 AWD Performance delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 605 Nm (446 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.2 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 110.3 kWh and a net usable capacity of 107.0 kWh, providing a 3.3 kWh buffer (3.0%) for battery protection. Operating at a nominal voltage of 610 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 600 to 550 km (373-342 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.8 kWh/100 km for the base model and 19.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 18.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 74 minutes, while a more typical scenario from 10% to 80% takes 27 minutes with an average charging speed of 169 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 71%. This results in an effective charging speed, including time lost, of 153 kW, with each charging session taking about 29 minutes and 59 seconds. This efficient charging capability makes the Hyundai IONIQ 9 AWD Performance a convenient option for long-distance travel.
 
@@ -56,7 +56,7 @@ The Hyundai IONIQ 9 AWD Performance features an all-wheel drive system powered b
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Brakes
 

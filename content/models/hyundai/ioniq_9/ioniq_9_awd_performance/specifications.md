@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai IONIQ 9 AWD 
 				Peak power
 			</td>
 			<td>
-				320 KW (435 hp /429 bhp)
+				230 KW (313 hp /308 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai IONIQ 9 AWD 
 				Electrical torque output
 			</td>
 			<td>
-				700 nm (517 lb-ft)
+				605 nm (446 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -80,50 +80,26 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				600 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
-			</td>
-			<td>
-				17,8 kWh/100km
+				570 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
+			</td>
+			<td>
+				18,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				22,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
-			</td>
-			<td>
-				550 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
-			</td>
-			<td>
-				19,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +460,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +468,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

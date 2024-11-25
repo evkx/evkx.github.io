@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Acura ZDX Type-S - It&#39;s about the little things</h3>
+<p>Auto Focus: 20.11.2024</p>
+
+{{< youtube luAJ_Rzg-do >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The 2024 Acura ZDX Type S Is A Handsome Performance SUV That Needs More Acura DNA</h3>
 <p>Redline Reviews: 06.11.2024</p>
 

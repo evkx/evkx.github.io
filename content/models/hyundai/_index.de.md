@@ -71,7 +71,7 @@ Hyundai Ioniq 6 ist eine Limousine, die in 2 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai IONIQ 9 ist ein SUV, der in 1 Varianten erhältlich ist.
+Hyundai IONIQ 9 ist ein SUV, der in 2 Varianten erhältlich ist.
 </p>
 	<a href="ioniq_9/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: Hyundai IONIQ 9 AWD Performance
 linktitle: "IONIQ 9 AWD Performance"
-description: "Hyundai IONIQ 9 AWD Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails."
+description: "Hyundai IONIQ 9 AWD Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 570 km (354 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Nous avons séparé notre article Hyundai IONIQ 9 AWD Performance en sections. S
 
 ## Performances
 
-La Hyundai IONIQ 9 AWD Performance offre des performances solides avec une puissance maximale de 320 kW (435 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 5,2 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
+La Hyundai IONIQ 9 AWD Performance offre des performances solides avec une puissance maximale de 230 kW (313 ch) et un couple total de 605 Nm. Elle peut accélérer de 0 à 100 km/h en 5,2 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 110,3 kWh et une capacité nette utilisable de 107,0 kWh, offrant une réserve de 3,3 kWh (3,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 610 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 600 et 550 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 17,8 kWh/100 km pour le modèle de base et à 19,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 570 km, avec une consommation d'énergie de 18,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 74 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 71 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 153kW. Chaque session de charge prendrait 29 minutes et 59 secondes. Cette capacité de charge efficace fait de l'Hyundai IONIQ 9 AWD Performance une option pratique pour les voyages longue distance.
 
@@ -56,7 +56,7 @@ Hyundai IONIQ 9 AWD Performance dispose d'un système de transmission intégrale
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Freins
 

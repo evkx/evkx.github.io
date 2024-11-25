@@ -1,7 +1,7 @@
 ---
 title: Hyundai IONIQ 9 AWD Performance
 linktitle: "IONIQ 9 AWD Performance"
-description: "Hyundai IONIQ 9 AWD Performance es un SUV totalmente eléctrico con una autonomía WLTP de hasta 600 km (373 millas). EVKX.net tiene todos los detalles."
+description: "Hyundai IONIQ 9 AWD Performance es un SUV totalmente eléctrico con una autonomía WLTP de hasta 570 km (354 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Hemos separado nuestro artículo Hyundai IONIQ 9 AWD Performance en secciones. S
 
 ## Rendimiento
 
-El Hyundai IONIQ 9 AWD Performance ofrece un rendimiento sólido con una potencia máxima de 320 kW (435 hp) y un par total de 700 Nm. Puede acelerar de 0 a 100 km/h en 5,2 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
+El Hyundai IONIQ 9 AWD Performance ofrece un rendimiento sólido con una potencia máxima de 230 kW (313 hp) y un par total de 605 Nm. Puede acelerar de 0 a 100 km/h en 5,2 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
 La batería de alta capacidad tiene una capacidad bruta de 110,3 kWh y una capacidad neta utilizable de 107,0 kWh, proporcionando un buffer de 3,3 kWh (3,0%) para la protección de la batería. Operando a un voltaje nominal de 610 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 600 y 550 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 17,8 kWh/100 km para el modelo base y 19,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 570 km, con una tasa de consumo de energía de 18,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 74 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 153kW. Cada sesión de carga tardaría 29 minutos y 59 segundos. Esta capacidad de carga eficiente hace que el Hyundai IONIQ 9 AWD Performance sea una opción conveniente para viajes de larga distancia.
 
@@ -56,7 +56,7 @@ Hyundai IONIQ 9 AWD Performance tiene un sistema de tracción total sostenido po
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 177 mm.
 
 ### Frenos
 

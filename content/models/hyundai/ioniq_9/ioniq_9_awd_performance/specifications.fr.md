@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai I
 				Puissance de pointe
 			</td>
 			<td>
-				320 KW (435 ch)
+				230 KW (313 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai I
 				Couple de sortie électrique
 			</td>
 			<td>
-				700 nm
+				605 nm
 			</td>
 		</tr>
 		<tr>
@@ -80,50 +80,26 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
-				Gamme WLTP de finition de base
+				Gamme WLTP
 			</td>
 			<td>
-				600 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP du trim de base
-			</td>
-			<td>
-				17,8 kWh/100km
+				570 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Consommation WLTP trim de base avec perte de charge
+				Consommation WLTP
+			</td>
+			<td>
+				18,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP avec perte de charge
 			</td>
 			<td>
 				22,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Gamme WLTP haut de gamme
-			</td>
-			<td>
-				550 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP de la garniture supérieure
-			</td>
-			<td>
-				19,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP de garniture supérieure avec perte de charge
-			</td>
-			<td>
-				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +460,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement réglable avant
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +468,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement arrière réglable
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>

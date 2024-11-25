@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai IONIQ 9 AW
 				Popeffekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai IONIQ 9 AW
 				Elektrisk momentudgang
 			</td>
 			<td>
-				700 nm
+				605 nm
 			</td>
 		</tr>
 		<tr>
@@ -80,50 +80,26 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
-				Basic trim WLTP range
+				WLTP-område
 			</td>
 			<td>
-				600 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Basic trim WLTP-forbrug
-			</td>
-			<td>
-				17,8 kWh/100km
+				570 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Grundlæggende trim WLTP-forbrug med opladningstab
+				WLTP-forbrug
+			</td>
+			<td>
+				18,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug med opladningstab
 			</td>
 			<td>
 				22,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Toptrim WLTP-område
-			</td>
-			<td>
-				550 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Toptrim WLTP-forbrug
-			</td>
-			<td>
-				19,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Toptrimmet WLTP-forbrug med opladningstab
-			</td>
-			<td>
-				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +460,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar dæmpning foran
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +468,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar dæmpning bagtil
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
