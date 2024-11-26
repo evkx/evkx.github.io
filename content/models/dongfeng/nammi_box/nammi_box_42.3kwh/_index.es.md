@@ -187,6 +187,8 @@ Dongfeng Nammi Box 42.3kWh ofrece [automatización de la conducción en nivel 1]
 
 Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
 ## Tecnologías de seguridad y acceso
 
 El Dongfeng Nammi Box 42.3kWh está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:

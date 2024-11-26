@@ -187,6 +187,8 @@ Dongfeng Nammi Box 42.3kWh tilbyder [køreautomatisering på niveau 1](../../../
 
 Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
 ## Sikkerheds- og adgangsteknologier
 
 Dongfeng Nammi Box 42.3kWh er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
