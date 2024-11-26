@@ -36,6 +36,51 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_3.jpg"
+data-pswp-width="1920"
+data-pswp-height="1083" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_3_xst.jpg" alt="Dongfeng Nammi Box 42.3kWh" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_4.jpg"
+data-pswp-width="1920"
+data-pswp-height="1230" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_4_xst.jpg" alt="Dongfeng Nammi Box 42.3kWh" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1.jpg"
+data-pswp-width="2600"
+data-pswp-height="1459" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_xst.jpg" alt="Dongfeng Nammi Box 42.3kWh" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1674" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_2_xst.jpg" alt="Dongfeng Nammi Box 42.3kWh" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1.jpg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_xst.jpg" alt="Dongfeng Nammi Box 42.3kWh" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/dongfeng/nammi_box/nammi_box_42.3kwh/interior_1.jpg"
 data-pswp-width="3000"

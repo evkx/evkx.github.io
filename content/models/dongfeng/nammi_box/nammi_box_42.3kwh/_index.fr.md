@@ -90,12 +90,15 @@ Le Dongfeng Nammi Box 42.3kWh propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
+- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour le conducteur, non disponible pour le passager)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard pour le conducteur, non disponible pour le passager)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 - Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Siège de deuxième rangée
 
@@ -106,6 +109,8 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 ## Système de climatisation
 
 Un système climatique est disponible.
+
+- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -148,13 +153,17 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Un type de système audio est disponible pour le Dongfeng Nammi Box 42.3kWh.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- Avec le DongFeng Sound System, vous obtenez quatre haut-parleurs avec une puissance système maximale de  watts.
+
+Le modèle dispose de 1 connexions USB-A en standard.
 
 ## Lumières
 
 Le Dongfeng Nammi Box 42.3kWh est équipé de phares halogènes standard.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 

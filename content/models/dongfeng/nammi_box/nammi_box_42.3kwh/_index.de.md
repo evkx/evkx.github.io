@@ -90,12 +90,15 @@ Der Dongfeng Nammi Box 42.3kWh bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 
 Verfügbar in:
 
 - Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Rücksitzreihe
 
@@ -106,6 +109,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 100-Split
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
+
+- **1-Zonen-Klimasystem:** Unterstützt nur die Steuerung einer gemeinsamen Zone für das gesamte Auto.
 
 Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
 
@@ -148,13 +153,17 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Der Dongfeng Nammi Box 42.3kWh ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **DongFeng Sound System:** Verfügt über vier Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+
+Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
 ## Lichter
 
 Der Dongfeng Nammi Box 42.3kWh ist mit Standard-Halogenscheinwerfern ausgestattet.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Erweiterte Fahrerassistenzsysteme
 

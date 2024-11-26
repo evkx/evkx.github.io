@@ -90,12 +90,15 @@ The Dongfeng Nammi Box 42.3kWh offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for driver, not available for passenger)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for driver, not available for passenger)
 
 Available in:
 
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Second Row Seat
 
@@ -106,6 +109,8 @@ The second row features a standard three-seat bench with a 100 split, allowing e
 ## Climate System
 
 There is one climate system available:
+
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -148,13 +153,17 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The Dongfeng Nammi Box 42.3kWh comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **DongFeng Sound System:** Features four speakers and delivers a maximum output of  watts.
+
+The model has 1 USB-A connections as standard.
 
 ## Lights
 
 The Dongfeng Nammi Box 42.3kWh comes equipped with standard halogen headlights.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Advanced Driver Assistance Systems
 

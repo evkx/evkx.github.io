@@ -90,12 +90,15 @@ Dongfeng Nammi Box 42.3kWh erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för förare, inte tillgänglig för passagerare)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard för förare, inte tillgänglig för passagerare)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 - Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Säten på andra raden
 
@@ -106,6 +109,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 100-sektion där
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
+
+- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -148,13 +153,17 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 En typ av ljudsystem är tillgänglig för Dongfeng Nammi Box 42.3kWh.
 
-- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+- Med DongFeng Sound System får du fyra högtalare med en maximal systemeffekt på  watt.
+
+Modellen har 1 USB-A-anslutningar som standard.
 
 ## Ljus
 
 Dongfeng Nammi Box 42.3kWh är utrustad med standard halogenstrålkastare.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Avancerade förarassistanssystem
 

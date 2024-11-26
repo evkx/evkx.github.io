@@ -90,12 +90,15 @@ El Dongfeng Nammi Box 42.3kWh ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para el conductor, no disponible para el pasajero)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (estándar para el conductor, no disponible para el pasajero)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 - Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Asiento de segunda fila
 
@@ -106,6 +109,8 @@ La segunda fila tiene un banco estándar de tres asientos con una división 100 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
@@ -148,13 +153,17 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 Un tipo de sistema de sonido está disponible para el Dongfeng Nammi Box 42.3kWh.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- Con el DongFeng Sound System, obtienes cuatro parlantes con una salida máxima del sistema de  vatios.
+
+El modelo tiene 1 conexiones USB-A de serie.
 
 ## Luces
 
 El Dongfeng Nammi Box 42.3kWh viene equipado con faros halógenos estándar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 

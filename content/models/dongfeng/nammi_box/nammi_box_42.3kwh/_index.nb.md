@@ -90,12 +90,15 @@ Dongfeng Nammi Box 42.3kWh Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for fører, ikke tilgjengelig for passasjer)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for fører, ikke tilgjengelig for passasjer)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 - Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Seter på andre rad
 
@@ -106,6 +109,8 @@ Den andre raden har en standard tre-seters benk med en 100-del hvor du kan folde
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -148,13 +153,17 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Én type lydsystem er tilgjengelig for Dongfeng Nammi Box 42.3kWh.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- Med DongFeng Sound System får du fire høyttalere med en maksimal systemeffekt på  watt.
+
+Modellen har 1 USB-A-tilkoblinger som standard.
 
 ## Lys
 
 Dongfeng Nammi Box 42.3kWh er utstyrt med standard halogenfrontlykter.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Avanserte førerassistentsystemer
 

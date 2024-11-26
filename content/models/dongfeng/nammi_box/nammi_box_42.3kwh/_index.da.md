@@ -90,12 +90,15 @@ Dongfeng Nammi Box 42.3kWh tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for fører, ikke tilgængelig for passager)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for fører, ikke tilgængelig for passager)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 - Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
 #### Sæde på anden række
 
@@ -106,6 +109,8 @@ Den anden række har en standard tre-sæders bænk med en 100 del, hvor du kan f
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -148,13 +153,17 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 Én type lydsystem er tilgængelig for Dongfeng Nammi Box 42.3kWh.
 
-- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+- Med DongFeng Sound System får du fire højttalere med en maksimal systemeffekt på  watt.
+
+Modellen har 1 USB-A-forbindelser som standard.
 
 ## Lys
 
 Dongfeng Nammi Box 42.3kWh er udstyret med standard halogenforlygter.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+{{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
 ## Avancerede førerassistentsystemer
 
