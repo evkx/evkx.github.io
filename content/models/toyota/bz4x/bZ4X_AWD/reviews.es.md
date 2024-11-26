@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Updates Improve Toyota bZ4X Road Trip Ability! However It Still Underperforms In Our 10% Challenge</h3>
+<p>Out of Spec Testing: 24.11.2024</p>
+
+{{< youtube RyRS6SYXQgo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Toyota bZ4X charging test after software update</h3>
 <p>Bjørn Nyland: 27.05.2023</p>
 

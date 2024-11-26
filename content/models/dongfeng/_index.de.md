@@ -34,4 +34,16 @@ Dongfeng Nammi Box ist ein günstiger Kleinwagen, der in 1 Varianten erhältlich
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Über die Marke
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/dongfeng/company.de.md" %}}
+</div>
+</div>
+</div>
+</div>

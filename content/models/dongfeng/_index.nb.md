@@ -34,4 +34,16 @@ Dongfeng Nammi Box er en rimelig kombi tilgjengelig i 1 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om merket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/dongfeng/company.nb.md" %}}
+</div>
+</div>
+</div>
+</div>

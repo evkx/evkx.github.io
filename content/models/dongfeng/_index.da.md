@@ -34,4 +34,16 @@ Dongfeng Nammi Box er en budget hatchback tilgængelig i 1 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om mærket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/dongfeng/company.da.md" %}}
+</div>
+</div>
+</div>
+</div>
