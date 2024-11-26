@@ -42,6 +42,8 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 20 Minuten vollständig von 0 auf 100% aufzuladen.
 
+{{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/charging_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2250"  >}}
+
 ### Ladeanschluss
 
 Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technology/charging/connectors/#front-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie seitlich zum Ladegerät parken. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.

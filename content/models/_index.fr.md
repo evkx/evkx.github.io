@@ -49,6 +49,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 			<a href="dacia"><img src="https://media.evkx.net/multimedia/models/dacia/logo_xst.png" alt="Dacia" title="Dacia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="dongfeng"><img src="https://media.evkx.net/multimedia/models/dongfeng/logo_xst.png" alt="Dongfeng" title="Dongfeng" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="ds"><img src="https://media.evkx.net/multimedia/models/ds/logo_xst.png" alt="DS" title="DS" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -319,6 +322,16 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	Dacia a 1 modèles avec un total de 1 variantes.
 	</p>
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Aller à la Dacia présentation du modèle EV</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Dongfeng</h2>
+	<p>
+		Dongfeng Motor Corporation, fondée en 1969, est l'un des plus grands et des plus influents constructeurs automobiles de Chine. Connue pour sa gamme diversifiée de véhicules, y compris les voitures particulières, les camions commerciaux et les véhicules électriques, Dongfeng a une présence significative tant au niveau national qu'international. Avec un fort accent sur l'innovation, l'entreprise a élargi son offre de véhicules électriques, visant à devenir un leader de la mobilité durable.
+	</p>
+	<p>
+	Dongfeng a 1 modèles avec un total de 1 variantes.
+	</p>
+	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Aller à la Dongfeng présentation du modèle EV</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>

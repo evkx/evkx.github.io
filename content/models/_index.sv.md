@@ -49,6 +49,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 			<a href="dacia"><img src="https://media.evkx.net/multimedia/models/dacia/logo_xst.png" alt="Dacia" title="Dacia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="dongfeng"><img src="https://media.evkx.net/multimedia/models/dongfeng/logo_xst.png" alt="Dongfeng" title="Dongfeng" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="ds"><img src="https://media.evkx.net/multimedia/models/ds/logo_xst.png" alt="DS" title="DS" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -319,6 +322,16 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	Dacia har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Gå till Dacia modellöversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Dongfeng</h2>
+	<p>
+		Dongfeng Motor Corporation, etablerad 1969, är en av Kinas största och mest inflytelserika biltillverkare. Känd för sitt breda utbud av fordon, inklusive personbilar, kommersiella lastbilar och elfordon, har Dongfeng en betydande närvaro både nationellt och internationellt. Med starkt fokus på innovation har företaget utökat sitt utbud av elfordon och strävar efter att leda inom hållbar mobilitet.
+	</p>
+	<p>
+	Dongfeng har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Gå till Dongfeng modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>

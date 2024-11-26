@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-4e73e93e
+  translation: Dongfeng Nammi Box 42.3kWh est une citadine électrique économique avec une WLTP autonomie allant jusqu'à 310 km (193 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-848fafbf
   translation: Hyundai IONIQ 9 AWD Long Range est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-db33f944
   translation: Audi A6 Sportback e-tron est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 672 km (418 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-f4b73295
-  translation: Audi A6 Avant e-tron est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 598 km (372 miles). EVKX.net a tous les détails.
 
