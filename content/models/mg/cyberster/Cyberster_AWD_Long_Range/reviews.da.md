@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG Cyberster headlights test</h3>
+<p>Bjørn Nyland: 26.11.2024</p>
+
+{{< youtube oANG1FojUDM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>MG Cyberster banana box test</h3>
 <p>Bjørn Nyland: 25.11.2024</p>
 

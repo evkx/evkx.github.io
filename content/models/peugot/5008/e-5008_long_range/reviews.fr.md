@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Peugeot e-5008 charging test</h3>
+<p>Bjørn Nyland: 26.11.2024</p>
+
+{{< youtube pLXVQz0udiA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE: Peugeot E-5008 - is THIS the perfect family EV???</h3>
 <p>Electrifying: 04.07.2024</p>
 

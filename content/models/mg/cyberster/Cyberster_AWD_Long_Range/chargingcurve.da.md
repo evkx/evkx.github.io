@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 0 - 100 %
 			</td>
 			<td>
-				43,4 kW
+				44,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-100 %
 			</td>
 			<td>
-				41,2 kW
+				42,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-90 %
 			</td>
 			<td>
-				77,1 kW
+				80,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig opladningshastighed 10-80 %
 			</td>
 			<td>
-				94,3 kW
+				92,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Maks C-Rate
 			</td>
 			<td>
-				1,81
+				1,86
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Gennemsnitlig C-rate
 			</td>
 			<td>
-				1,22
+				1,17
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				3% - 58%
+				3% - 50%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal opladningshastighed inkluderet 5 minutters tab
 			</td>
 			<td>
-				98,4kW
+				90,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal opladningsstoptid
 			</td>
 			<td>
-				25m58s
+				23m10s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Opladningstid 0 - 100%
 			</td>
 			<td>
-				1 h 42 m 54 s
+				1 h 40 m 53 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-100%
 			</td>
 			<td>
-				1 h 37 m 31 s
+				1 h 35 m 22 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Opladningstid 10-80%
 			</td>
 			<td>
-				 33 m 7 s
+				 33 m 58 s
 			</td>
 		</tr>
 	</tbody>
@@ -178,7 +178,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				3,4 km (2,1 mi)
+				3,5 km (2,2 mi)
 			</td>
 		</tr>
 		<tr>
@@ -212,7 +212,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				7,5 km (4,7 mi)
+				7,3 km (4,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -265,10 +265,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				1%
 			</td>
 			<td>
-				48 kW
+				55 kW
 			</td>
 			<td>
-				 1 m 25 s
+				 1 m 16 s
 			</td>
 			<td>
 				0,7 kWh
@@ -279,10 +279,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				2%
 			</td>
 			<td>
-				75 kW
+				90 kW
 			</td>
 			<td>
-				 2 m 12 s
+				 1 m 56 s
 			</td>
 			<td>
 				1,5 kWh
@@ -293,10 +293,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				3%
 			</td>
 			<td>
-				103 kW
+				95 kW
 			</td>
 			<td>
-				 2 m 44 s
+				 2 m 27 s
 			</td>
 			<td>
 				2,2 kWh
@@ -307,10 +307,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				4%
 			</td>
 			<td>
-				130 kW
+				100 kW
 			</td>
 			<td>
-				 3 m 9 s
+				 2 m 57 s
 			</td>
 			<td>
 				3,0 kWh
@@ -321,10 +321,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				5%
 			</td>
 			<td>
-				130 kW
+				104 kW
 			</td>
 			<td>
-				 3 m 31 s
+				 3 m 25 s
 			</td>
 			<td>
 				3,7 kWh
@@ -335,10 +335,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				6%
 			</td>
 			<td>
-				130 kW
+				109 kW
 			</td>
 			<td>
-				 3 m 53 s
+				 3 m 52 s
 			</td>
 			<td>
 				4,5 kWh
@@ -349,10 +349,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				7%
 			</td>
 			<td>
-				130 kW
+				113 kW
 			</td>
 			<td>
-				 4 m 16 s
+				 4 m 18 s
 			</td>
 			<td>
 				5,2 kWh
@@ -363,10 +363,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				8%
 			</td>
 			<td>
-				130 kW
+				117 kW
 			</td>
 			<td>
-				 4 m 38 s
+				 4 m 43 s
 			</td>
 			<td>
 				6,0 kWh
@@ -377,10 +377,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				9%
 			</td>
 			<td>
-				130 kW
+				122 kW
 			</td>
 			<td>
-				 5 m 0 s
+				 5 m 7 s
 			</td>
 			<td>
 				6,7 kWh
@@ -391,10 +391,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				10%
 			</td>
 			<td>
-				130 kW
+				126 kW
 			</td>
 			<td>
-				 5 m 22 s
+				 5 m 30 s
 			</td>
 			<td>
 				7,4 kWh
@@ -405,10 +405,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				11%
 			</td>
 			<td>
-				122 kW
+				128 kW
 			</td>
 			<td>
-				 5 m 45 s
+				 5 m 53 s
 			</td>
 			<td>
 				8,2 kWh
@@ -419,10 +419,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				12%
 			</td>
 			<td>
-				130 kW
+				131 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 6 m 15 s
 			</td>
 			<td>
 				8,9 kWh
@@ -433,10 +433,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				13%
 			</td>
 			<td>
-				130 kW
+				135 kW
 			</td>
 			<td>
-				 6 m 30 s
+				 6 m 37 s
 			</td>
 			<td>
 				9,7 kWh
@@ -447,10 +447,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				14%
 			</td>
 			<td>
-				132 kW
+				135 kW
 			</td>
 			<td>
-				 6 m 52 s
+				 6 m 58 s
 			</td>
 			<td>
 				10,4 kWh
@@ -461,10 +461,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				15%
 			</td>
 			<td>
-				132 kW
+				136 kW
 			</td>
 			<td>
-				 7 m 14 s
+				 7 m 19 s
 			</td>
 			<td>
 				11,2 kWh
@@ -475,10 +475,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				16%
 			</td>
 			<td>
-				132 kW
+				136 kW
 			</td>
 			<td>
-				 7 m 35 s
+				 7 m 41 s
 			</td>
 			<td>
 				11,9 kWh
@@ -489,10 +489,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				17%
 			</td>
 			<td>
-				133 kW
+				136 kW
 			</td>
 			<td>
-				 7 m 57 s
+				 8 m 2 s
 			</td>
 			<td>
 				12,6 kWh
@@ -503,10 +503,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				18%
 			</td>
 			<td>
-				133 kW
+				137 kW
 			</td>
 			<td>
-				 8 m 19 s
+				 8 m 23 s
 			</td>
 			<td>
 				13,4 kWh
@@ -517,10 +517,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				19%
 			</td>
 			<td>
-				134 kW
+				139 kW
 			</td>
 			<td>
-				 8 m 40 s
+				 8 m 44 s
 			</td>
 			<td>
 				14,1 kWh
@@ -531,10 +531,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				20%
 			</td>
 			<td>
-				134 kW
+				140 kW
 			</td>
 			<td>
-				 9 m 2 s
+				 9 m 4 s
 			</td>
 			<td>
 				14,9 kWh
@@ -545,10 +545,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				21%
 			</td>
 			<td>
-				134 kW
+				140 kW
 			</td>
 			<td>
-				 9 m 23 s
+				 9 m 25 s
 			</td>
 			<td>
 				15,6 kWh
@@ -559,7 +559,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				22%
 			</td>
 			<td>
-				134 kW
+				141 kW
 			</td>
 			<td>
 				 9 m 45 s
@@ -573,7 +573,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				23%
 			</td>
 			<td>
-				134 kW
+				141 kW
 			</td>
 			<td>
 				 10 m 6 s
@@ -587,10 +587,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				24%
 			</td>
 			<td>
-				134 kW
+				141 kW
 			</td>
 			<td>
-				 10 m 28 s
+				 10 m 26 s
 			</td>
 			<td>
 				17,9 kWh
@@ -601,10 +601,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				25%
 			</td>
 			<td>
-				135 kW
+				142 kW
 			</td>
 			<td>
-				 10 m 49 s
+				 10 m 47 s
 			</td>
 			<td>
 				18,6 kWh
@@ -615,10 +615,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				26%
 			</td>
 			<td>
-				135 kW
+				142 kW
 			</td>
 			<td>
-				 11 m 11 s
+				 11 m 7 s
 			</td>
 			<td>
 				19,3 kWh
@@ -629,10 +629,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				27%
 			</td>
 			<td>
-				135 kW
+				142 kW
 			</td>
 			<td>
-				 11 m 32 s
+				 11 m 27 s
 			</td>
 			<td>
 				20,1 kWh
@@ -643,10 +643,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				28%
 			</td>
 			<td>
-				135 kW
+				142 kW
 			</td>
 			<td>
-				 11 m 53 s
+				 11 m 48 s
 			</td>
 			<td>
 				20,8 kWh
@@ -657,10 +657,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				29%
 			</td>
 			<td>
-				135 kW
+				142 kW
 			</td>
 			<td>
-				 12 m 15 s
+				 12 m 8 s
 			</td>
 			<td>
 				21,6 kWh
@@ -671,10 +671,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				30%
 			</td>
 			<td>
-				135 kW
+				143 kW
 			</td>
 			<td>
-				 12 m 36 s
+				 12 m 28 s
 			</td>
 			<td>
 				22,3 kWh
@@ -685,10 +685,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				31%
 			</td>
 			<td>
-				135 kW
+				143 kW
 			</td>
 			<td>
-				 12 m 57 s
+				 12 m 48 s
 			</td>
 			<td>
 				23,1 kWh
@@ -699,10 +699,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				32%
 			</td>
 			<td>
-				135 kW
+				141 kW
 			</td>
 			<td>
-				 13 m 19 s
+				 13 m 8 s
 			</td>
 			<td>
 				23,8 kWh
@@ -713,10 +713,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				33%
 			</td>
 			<td>
-				135 kW
+				139 kW
 			</td>
 			<td>
-				 13 m 40 s
+				 13 m 29 s
 			</td>
 			<td>
 				24,6 kWh
@@ -727,10 +727,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				34%
 			</td>
 			<td>
-				135 kW
+				136 kW
 			</td>
 			<td>
-				 14 m 1 s
+				 13 m 50 s
 			</td>
 			<td>
 				25,3 kWh
@@ -741,10 +741,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				35%
 			</td>
 			<td>
-				135 kW
+				133 kW
 			</td>
 			<td>
-				 14 m 23 s
+				 14 m 11 s
 			</td>
 			<td>
 				26,0 kWh
@@ -755,10 +755,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				36%
 			</td>
 			<td>
-				135 kW
+				130 kW
 			</td>
 			<td>
-				 14 m 44 s
+				 14 m 33 s
 			</td>
 			<td>
 				26,8 kWh
@@ -769,10 +769,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				37%
 			</td>
 			<td>
-				135 kW
+				127 kW
 			</td>
 			<td>
-				 15 m 5 s
+				 14 m 56 s
 			</td>
 			<td>
 				27,5 kWh
@@ -783,10 +783,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				38%
 			</td>
 			<td>
-				136 kW
+				124 kW
 			</td>
 			<td>
-				 15 m 27 s
+				 15 m 19 s
 			</td>
 			<td>
 				28,3 kWh
@@ -797,10 +797,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				39%
 			</td>
 			<td>
-				137 kW
+				121 kW
 			</td>
 			<td>
-				 15 m 48 s
+				 15 m 42 s
 			</td>
 			<td>
 				29,0 kWh
@@ -811,10 +811,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				40%
 			</td>
 			<td>
-				137 kW
+				118 kW
 			</td>
 			<td>
-				 16 m 9 s
+				 16 m 6 s
 			</td>
 			<td>
 				29,8 kWh
@@ -825,10 +825,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				41%
 			</td>
 			<td>
-				136 kW
+				115 kW
 			</td>
 			<td>
-				 16 m 30 s
+				 16 m 31 s
 			</td>
 			<td>
 				30,5 kWh
@@ -839,10 +839,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				42%
 			</td>
 			<td>
-				136 kW
+				111 kW
 			</td>
 			<td>
-				 16 m 51 s
+				 16 m 56 s
 			</td>
 			<td>
 				31,2 kWh
@@ -853,10 +853,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				43%
 			</td>
 			<td>
-				137 kW
+				109 kW
 			</td>
 			<td>
-				 17 m 12 s
+				 17 m 23 s
 			</td>
 			<td>
 				32,0 kWh
@@ -867,10 +867,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				44%
 			</td>
 			<td>
-				137 kW
+				107 kW
 			</td>
 			<td>
-				 17 m 33 s
+				 17 m 49 s
 			</td>
 			<td>
 				32,7 kWh
@@ -881,10 +881,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				45%
 			</td>
 			<td>
-				137 kW
+				106 kW
 			</td>
 			<td>
-				 17 m 54 s
+				 18 m 16 s
 			</td>
 			<td>
 				33,5 kWh
@@ -895,10 +895,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				46%
 			</td>
 			<td>
-				137 kW
+				104 kW
 			</td>
 			<td>
-				 18 m 15 s
+				 18 m 44 s
 			</td>
 			<td>
 				34,2 kWh
@@ -909,10 +909,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				47%
 			</td>
 			<td>
-				138 kW
+				103 kW
 			</td>
 			<td>
-				 18 m 36 s
+				 19 m 12 s
 			</td>
 			<td>
 				35,0 kWh
@@ -923,10 +923,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				48%
 			</td>
 			<td>
-				138 kW
+				101 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 19 m 40 s
 			</td>
 			<td>
 				35,7 kWh
@@ -937,10 +937,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				49%
 			</td>
 			<td>
-				138 kW
+				100 kW
 			</td>
 			<td>
-				 19 m 18 s
+				 20 m 8 s
 			</td>
 			<td>
 				36,5 kWh
@@ -951,10 +951,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				50%
 			</td>
 			<td>
-				138 kW
+				98 kW
 			</td>
 			<td>
-				 19 m 39 s
+				 20 m 38 s
 			</td>
 			<td>
 				37,2 kWh
@@ -965,10 +965,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				51%
 			</td>
 			<td>
-				138 kW
+				96 kW
 			</td>
 			<td>
-				 20 m 0 s
+				 21 m 7 s
 			</td>
 			<td>
 				37,9 kWh
@@ -979,10 +979,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				52%
 			</td>
 			<td>
-				139 kW
+				95 kW
 			</td>
 			<td>
-				 20 m 20 s
+				 21 m 37 s
 			</td>
 			<td>
 				38,7 kWh
@@ -993,10 +993,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				53%
 			</td>
 			<td>
-				137 kW
+				93 kW
 			</td>
 			<td>
-				 20 m 41 s
+				 22 m 8 s
 			</td>
 			<td>
 				39,4 kWh
@@ -1007,10 +1007,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				54%
 			</td>
 			<td>
-				131 kW
+				91 kW
 			</td>
 			<td>
-				 21 m 3 s
+				 22 m 39 s
 			</td>
 			<td>
 				40,2 kWh
@@ -1021,10 +1021,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				55%
 			</td>
 			<td>
-				123 kW
+				91 kW
 			</td>
 			<td>
-				 21 m 25 s
+				 23 m 11 s
 			</td>
 			<td>
 				40,9 kWh
@@ -1035,10 +1035,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				56%
 			</td>
 			<td>
-				117 kW
+				89 kW
 			</td>
 			<td>
-				 21 m 49 s
+				 23 m 43 s
 			</td>
 			<td>
 				41,7 kWh
@@ -1049,10 +1049,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				57%
 			</td>
 			<td>
-				109 kW
+				88 kW
 			</td>
 			<td>
-				 22 m 15 s
+				 24 m 16 s
 			</td>
 			<td>
 				42,4 kWh
@@ -1063,10 +1063,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				58%
 			</td>
 			<td>
-				103 kW
+				86 kW
 			</td>
 			<td>
-				 22 m 42 s
+				 24 m 49 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1077,10 +1077,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				59%
 			</td>
 			<td>
-				99 kW
+				85 kW
 			</td>
 			<td>
-				 23 m 11 s
+				 25 m 22 s
 			</td>
 			<td>
 				43,9 kWh
@@ -1091,10 +1091,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				60%
 			</td>
 			<td>
-				93 kW
+				84 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 25 m 56 s
 			</td>
 			<td>
 				44,6 kWh
@@ -1105,10 +1105,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				61%
 			</td>
 			<td>
-				85 kW
+				83 kW
 			</td>
 			<td>
-				 24 m 13 s
+				 26 m 31 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1119,10 +1119,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				62%
 			</td>
 			<td>
-				80 kW
+				81 kW
 			</td>
 			<td>
-				 24 m 48 s
+				 27 m 6 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1133,10 +1133,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				63%
 			</td>
 			<td>
-				72 kW
+				80 kW
 			</td>
 			<td>
-				 25 m 26 s
+				 27 m 42 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1147,10 +1147,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				64%
 			</td>
 			<td>
-				70 kW
+				79 kW
 			</td>
 			<td>
-				 26 m 6 s
+				 28 m 18 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1161,10 +1161,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				65%
 			</td>
 			<td>
-				69 kW
+				77 kW
 			</td>
 			<td>
-				 26 m 48 s
+				 28 m 55 s
 			</td>
 			<td>
 				48,4 kWh
@@ -1175,10 +1175,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				66%
 			</td>
 			<td>
-				69 kW
+				76 kW
 			</td>
 			<td>
-				 27 m 29 s
+				 29 m 33 s
 			</td>
 			<td>
 				49,1 kWh
@@ -1189,10 +1189,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				67%
 			</td>
 			<td>
-				68 kW
+				75 kW
 			</td>
 			<td>
-				 28 m 12 s
+				 30 m 11 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1203,10 +1203,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				68%
 			</td>
 			<td>
-				65 kW
+				74 kW
 			</td>
 			<td>
-				 28 m 55 s
+				 30 m 49 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1217,10 +1217,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				69%
 			</td>
 			<td>
-				64 kW
+				73 kW
 			</td>
 			<td>
-				 29 m 39 s
+				 31 m 29 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1231,10 +1231,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				70%
 			</td>
 			<td>
-				64 kW
+				72 kW
 			</td>
 			<td>
-				 30 m 24 s
+				 32 m 8 s
 			</td>
 			<td>
 				52,1 kWh
@@ -1245,10 +1245,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				71%
 			</td>
 			<td>
-				65 kW
+				70 kW
 			</td>
 			<td>
-				 31 m 9 s
+				 32 m 49 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1259,10 +1259,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				72%
 			</td>
 			<td>
-				62 kW
+				69 kW
 			</td>
 			<td>
-				 31 m 54 s
+				 33 m 30 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1273,10 +1273,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				73%
 			</td>
 			<td>
-				62 kW
+				68 kW
 			</td>
 			<td>
-				 32 m 41 s
+				 34 m 12 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1287,10 +1287,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				74%
 			</td>
 			<td>
-				61 kW
+				67 kW
 			</td>
 			<td>
-				 33 m 28 s
+				 34 m 55 s
 			</td>
 			<td>
 				55,1 kWh
@@ -1301,10 +1301,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				75%
 			</td>
 			<td>
-				60 kW
+				66 kW
 			</td>
 			<td>
-				 34 m 15 s
+				 35 m 38 s
 			</td>
 			<td>
 				55,8 kWh
@@ -1315,10 +1315,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				76%
 			</td>
 			<td>
-				59 kW
+				64 kW
 			</td>
 			<td>
-				 35 m 4 s
+				 36 m 23 s
 			</td>
 			<td>
 				56,5 kWh
@@ -1329,10 +1329,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				77%
 			</td>
 			<td>
-				56 kW
+				63 kW
 			</td>
 			<td>
-				 35 m 54 s
+				 37 m 8 s
 			</td>
 			<td>
 				57,3 kWh
@@ -1343,10 +1343,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				78%
 			</td>
 			<td>
-				56 kW
+				62 kW
 			</td>
 			<td>
-				 36 m 45 s
+				 37 m 54 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1357,10 +1357,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				79%
 			</td>
 			<td>
-				55 kW
+				61 kW
 			</td>
 			<td>
-				 37 m 37 s
+				 38 m 41 s
 			</td>
 			<td>
 				58,8 kWh
@@ -1371,10 +1371,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				80%
 			</td>
 			<td>
-				55 kW
+				60 kW
 			</td>
 			<td>
-				 38 m 30 s
+				 39 m 29 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1385,10 +1385,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				81%
 			</td>
 			<td>
-				54 kW
+				58 kW
 			</td>
 			<td>
-				 39 m 22 s
+				 40 m 17 s
 			</td>
 			<td>
 				60,3 kWh
@@ -1399,10 +1399,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				82%
 			</td>
 			<td>
-				53 kW
+				56 kW
 			</td>
 			<td>
-				 40 m 16 s
+				 41 m 8 s
 			</td>
 			<td>
 				61,0 kWh
@@ -1413,10 +1413,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				83%
 			</td>
 			<td>
-				52 kW
+				55 kW
 			</td>
 			<td>
-				 41 m 11 s
+				 42 m 0 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1427,10 +1427,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				84%
 			</td>
 			<td>
-				46 kW
+				54 kW
 			</td>
 			<td>
-				 42 m 10 s
+				 42 m 53 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1441,10 +1441,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				85%
 			</td>
 			<td>
-				35 kW
+				51 kW
 			</td>
 			<td>
-				 43 m 21 s
+				 43 m 47 s
 			</td>
 			<td>
 				63,2 kWh
@@ -1455,10 +1455,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				86%
 			</td>
 			<td>
-				33 kW
+				42 kW
 			</td>
 			<td>
-				 44 m 46 s
+				 44 m 49 s
 			</td>
 			<td>
 				64,0 kWh
@@ -1469,10 +1469,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				87%
 			</td>
 			<td>
-				30 kW
+				40 kW
 			</td>
 			<td>
-				 46 m 17 s
+				 46 m 0 s
 			</td>
 			<td>
 				64,7 kWh
@@ -1483,10 +1483,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				88%
 			</td>
 			<td>
-				27 kW
+				37 kW
 			</td>
 			<td>
-				 47 m 58 s
+				 47 m 14 s
 			</td>
 			<td>
 				65,5 kWh
@@ -1497,10 +1497,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				89%
 			</td>
 			<td>
-				26 kW
+				35 kW
 			</td>
 			<td>
-				 49 m 47 s
+				 48 m 34 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1511,10 +1511,10 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				90%
 			</td>
 			<td>
-				24 kW
+				32 kW
 			</td>
 			<td>
-				 51 m 42 s
+				 50 m 0 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1528,7 +1528,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				21 kW
 			</td>
 			<td>
-				 53 m 50 s
+				 51 m 49 s
 			</td>
 			<td>
 				67,7 kWh
@@ -1542,7 +1542,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				15 kW
 			</td>
 			<td>
-				 56 m 30 s
+				 54 m 29 s
 			</td>
 			<td>
 				68,4 kWh
@@ -1556,7 +1556,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				14 kW
 			</td>
 			<td>
-				 59 m 49 s
+				 57 m 48 s
 			</td>
 			<td>
 				69,2 kWh
@@ -1570,7 +1570,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				9 kW
 			</td>
 			<td>
-				1 h 3 m 59 s
+				1 h 1 m 58 s
 			</td>
 			<td>
 				69,9 kWh
@@ -1584,7 +1584,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				9 kW
 			</td>
 			<td>
-				1 h 9 m 28 s
+				1 h 7 m 27 s
 			</td>
 			<td>
 				70,7 kWh
@@ -1598,7 +1598,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				8 kW
 			</td>
 			<td>
-				1 h 15 m 17 s
+				1 h 13 m 16 s
 			</td>
 			<td>
 				71,4 kWh
@@ -1612,7 +1612,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				8 kW
 			</td>
 			<td>
-				1 h 21 m 29 s
+				1 h 19 m 28 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1626,7 +1626,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				7 kW
 			</td>
 			<td>
-				1 h 28 m 6 s
+				1 h 26 m 5 s
 			</td>
 			<td>
 				72,9 kWh
@@ -1640,7 +1640,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				7 kW
 			</td>
 			<td>
-				1 h 35 m 13 s
+				1 h 33 m 12 s
 			</td>
 			<td>
 				73,7 kWh
@@ -1654,7 +1654,7 @@ MG Cyberster AWD Long Range har batterivärme, vilket gör det lättare att ladd
 				6 kW
 			</td>
 			<td>
-				1 h 42 m 54 s
+				1 h 40 m 53 s
 			</td>
 			<td>
 				74,4 kWh
