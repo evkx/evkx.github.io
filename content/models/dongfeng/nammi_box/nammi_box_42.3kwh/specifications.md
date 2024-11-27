@@ -492,7 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Suspension type rear</a>
 			</td>
 			<td>
-				Multi-link
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>

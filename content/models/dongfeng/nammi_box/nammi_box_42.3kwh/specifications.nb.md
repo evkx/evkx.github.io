@@ -492,7 +492,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hjuloppheng bak
 			</td>
 			<td>
-				Multi-link
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>

@@ -492,7 +492,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de suspension arrière
 			</td>
 			<td>
-				Multi-liens
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>

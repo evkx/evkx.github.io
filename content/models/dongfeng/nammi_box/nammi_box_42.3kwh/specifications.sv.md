@@ -492,7 +492,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Hjulupphängning bak
 			</td>
 			<td>
-				Multi-link
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>

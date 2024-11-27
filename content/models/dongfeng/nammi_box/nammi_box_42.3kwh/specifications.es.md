@@ -492,7 +492,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de suspensión trasera
 			</td>
 			<td>
-				Multienlace
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>
