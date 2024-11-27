@@ -78,7 +78,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 215/55 sur jantes de 17"
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
+La voiture a quatre [portes sans cadre](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle.
 

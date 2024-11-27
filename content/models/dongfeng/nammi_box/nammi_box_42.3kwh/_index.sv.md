@@ -78,7 +78,7 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 - 215/55 däck på 17" fälgar
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fyra [ramlösa dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell.
 

@@ -78,7 +78,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 - Neumáticos 215/55 en llantas de 17
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+El coche tiene cuatro [puertas sin marco](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo.
 

@@ -91,7 +91,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 235/40 Reifen auf 19" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate).
+Das Auto hat vier [rahmenlose Türen](../../../../technology/doors/) und eine [Heckklappe im Hatchback-Stil](../../../../technology/doors/#hatcback-style-liftgate).
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

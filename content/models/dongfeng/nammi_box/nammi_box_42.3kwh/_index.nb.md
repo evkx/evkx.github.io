@@ -78,7 +78,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 215/55 dekk på 17" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [rammeløse dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen.
 

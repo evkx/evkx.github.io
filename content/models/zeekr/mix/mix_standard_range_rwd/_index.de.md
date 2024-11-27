@@ -76,7 +76,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 255/50 Reifen auf 19" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate). Elektrische Türen sind eine eine optionale-Funktion für die Seitentüren.
+Das Auto hat vier [rahmenlose Türen](../../../../technology/doors/) und eine [Heckklappe im Hatchback-Stil](../../../../technology/doors/#hatcback-style-liftgate). Elektrische Türen sind eine eine optionale-Funktion für die Seitentüren.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

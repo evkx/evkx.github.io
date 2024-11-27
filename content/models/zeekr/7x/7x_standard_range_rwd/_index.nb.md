@@ -85,7 +85,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Zeekr 
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er en valgfri funksjon for sidedørene.
+Bilen har fire [rammeløse dører](../../../../technology/doors/) og en [hatchback-stil bakluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er en valgfri funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 

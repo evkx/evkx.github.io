@@ -78,7 +78,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 215/55 Reifen auf 17" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [rahmenlose Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 
 Es gibt nur eine Dachoption für dieses Modell.
 

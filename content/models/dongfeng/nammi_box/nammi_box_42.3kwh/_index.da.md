@@ -78,7 +78,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 - 215/55 dæk on 17" fælge
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [rammeløse døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model.
 

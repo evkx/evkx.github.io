@@ -78,7 +78,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 215/55 tires on 17" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [frameless doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof option for this model.
 

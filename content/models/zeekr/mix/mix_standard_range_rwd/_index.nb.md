@@ -76,7 +76,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 255/50 dekk på 19" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er en valgfri funksjon for sidedørene.
+Bilen har fire [rammeløse dører](../../../../technology/doors/) og en [hatchback-stil bakluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er en valgfri funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 

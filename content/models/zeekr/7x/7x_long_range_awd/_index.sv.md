@@ -83,7 +83,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Zeekr 7X Long Ra
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). Elektriska dörrar är valfritt funktion för sidodörrarna.
+Bilen har fyra [ramlösa dörrar](../../../../technology/doors/) och en [hatchback-stil baklucka](../../../../technology/doors/#hatcback-style-liftgate). Elektriska dörrar är valfritt funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen.
 
