@@ -247,6 +247,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Height
+			</td>
+			<td>
+				1570 mm (61,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Width excluding mirrors
 			</td>
 			<td>

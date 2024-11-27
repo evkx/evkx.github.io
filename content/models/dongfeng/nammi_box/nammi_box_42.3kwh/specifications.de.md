@@ -247,6 +247,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Höhe
+			</td>
+			<td>
+				1570 mm (61,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Breite ohne Spiegel
 			</td>
 			<td>

@@ -247,6 +247,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Høyde
+			</td>
+			<td>
+				1570 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredde uten speil
 			</td>
 			<td>

@@ -72,7 +72,7 @@ Den maximala regenerativa effekten är 50 kW.
 
 ## Exteriör
 
-Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i längd, 1810 mm i bredd och  mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Dongfeng Nammi Box 42.3kWh finns i totalt 4 enfärgade lackfärger.
+Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i längd, 1810 mm i bredd och 1570 mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Dongfeng Nammi Box 42.3kWh finns i totalt 4 enfärgade lackfärger.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Dongfeng Nammi Box 42.3kWh, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -159,6 +159,8 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ## Infotainment
 
+Dongfeng Nammi Box 42.3kWh har ett specialbyggt infotainmentsystem som är utformat för att ge ett gränssnitt med en rad funktioner och funktioner för att förbättra körupplevelsen.
+
 ### Navigationssystem
 
 Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
@@ -225,6 +227,8 @@ Fordonets maximala vikt är 1730 kg, med en grundvikt på 1355 kg. Detta tillåt
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 650 kg.
 
 ## Tillgänglighet och pris
+
+Denna modell hade världspremiär 07.01.2024 och leveranserna startade i November 2024.
 
 ### Prissättning
 

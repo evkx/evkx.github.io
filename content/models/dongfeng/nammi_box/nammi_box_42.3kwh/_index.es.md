@@ -72,7 +72,7 @@ La potencia regenerativa máxima es de 50 kW.
 
 ## Exterior
 
-El Dongfeng Nammi Box 42.3kWh, con dimensiones de 4020 mm de longitud, 1810 mm de anchura y  mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Dongfeng Nammi Box 42.3kWh está disponible en un total de 4 colores de pintura sólidos.
+El Dongfeng Nammi Box 42.3kWh, con dimensiones de 4020 mm de longitud, 1810 mm de anchura y 1570 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Dongfeng Nammi Box 42.3kWh está disponible en un total de 4 colores de pintura sólidos.
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Dongfeng Nammi Box 42.3kWh, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -159,6 +159,8 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ## Infoentretenimiento
 
+El Dongfeng Nammi Box 42.3kWh cuenta con un sistema de infoentretenimiento personalizado diseñado para proporcionar una interfaz con una variedad de características y funciones para mejorar la experiencia de conducción.
+
 ### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
@@ -225,6 +227,8 @@ El peso máximo del vehículo es 1730 kg, con un peso base de 1355 kg. Esto perm
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 650 kg.
 
 ## Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 07.01.2024 y las entregas comenzaron en November 2024.
 
 ### Precios
 

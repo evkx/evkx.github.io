@@ -247,6 +247,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Altura
+			</td>
+			<td>
+				1570 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Ancho excluyendo espejos
 			</td>
 			<td>

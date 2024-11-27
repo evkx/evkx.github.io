@@ -72,7 +72,7 @@ The maximum regenerative power is 50 kW.
 
 ## Exterior
 
-The Dongfeng Nammi Box 42.3kWh, with dimensions of 4020 mm in length, 1810 mm in width, and  mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Dongfeng Nammi Box 42.3kWh is available in a total of 4 solid paint colors.
+The Dongfeng Nammi Box 42.3kWh, with dimensions of 4020 mm in length, 1810 mm in width, and 1570 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Dongfeng Nammi Box 42.3kWh is available in a total of 4 solid paint colors.
 
 You can select from multiple wheel designs, all available in the same size, on the Dongfeng Nammi Box 42.3kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -159,6 +159,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The Dongfeng Nammi Box 42.3kWh features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
+
 ### Navigation System
 
 With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -225,6 +227,8 @@ The vehicle’s maximum weight is 1730 kg (3814 lbs), with a base weight of 1355
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 650 kg (1433 lbs).
 
 ## Availability & Pricing
+
+The Dongfeng Nammi Box 42.3kWh had its world premiere on 07.01.2024, with deliveries starting in November 2024.
 
 ### Pricing
 

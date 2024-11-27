@@ -72,7 +72,7 @@ La puissance régénérative maximale est de 50 kW.
 
 ## Extérieur
 
-La Dongfeng Nammi Box 42.3kWh, avec des dimensions de 4020 mm de longueur, 1810 mm de largeur et  mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. La Dongfeng Nammi Box 42.3kWh est disponible en un total de 4 couleurs de peinture unies.
+La Dongfeng Nammi Box 42.3kWh, avec des dimensions de 4020 mm de longueur, 1810 mm de largeur et 1570 mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. La Dongfeng Nammi Box 42.3kWh est disponible en un total de 4 couleurs de peinture unies.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Dongfeng Nammi Box 42.3kWh, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -159,6 +159,8 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ## Infodivertissement
 
+Le Dongfeng Nammi Box 42.3kWh dispose d'un système d'infodivertissement personnalisé conçu pour fournir une interface avec une gamme de fonctionnalités et de fonctions pour améliorer l'expérience de conduite.
+
 ### Système de navigation
 
 De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
@@ -225,6 +227,8 @@ Le poids maximum du véhicule est de 1730 kg, avec un poids de base de 1355 kg. 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 750 kg, tandis que pour une remorque non freinée, il est de 650 kg.
 
 ## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 07.01.2024 et les livraisons ont commencé en November 2024.
 
 ### Tarification
 

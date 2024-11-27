@@ -72,7 +72,7 @@ Die maximale regenerative Leistung beträgt 50 kW.
 
 ## Exterieur
 
-Der Dongfeng Nammi Box 42.3kWh, mit Abmessungen von 4020 mm Länge, 1810 mm Breite und  mm Höhe, fällt in die B-Segment-Autos, oft als Supermini bezeichnet, ist ein kleines Auto, das typischerweise für das Fahren in der Stadt geeignet ist und eine gute Balance zwischen Effizienz, Größe und Kosten bietet. Der Dongfeng Nammi Box 42.3kWh ist in insgesamt 4 Unilackfarben erhältlich.
+Der Dongfeng Nammi Box 42.3kWh, mit Abmessungen von 4020 mm Länge, 1810 mm Breite und 1570 mm Höhe, fällt in die B-Segment-Autos, oft als Supermini bezeichnet, ist ein kleines Auto, das typischerweise für das Fahren in der Stadt geeignet ist und eine gute Balance zwischen Effizienz, Größe und Kosten bietet. Der Dongfeng Nammi Box 42.3kWh ist in insgesamt 4 Unilackfarben erhältlich.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Dongfeng Nammi Box 42.3kWh erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -159,6 +159,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+Das Dongfeng Nammi Box 42.3kWh verfügt über ein maßgeschneidertes Infotainmentsystem, das eine Schnittstelle mit einer Vielzahl von Funktionen und Funktionen bietet, um das Fahrerlebnis zu verbessern.
+
 ### Navigationssystem
 
 Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
@@ -225,6 +227,8 @@ Das maximale Gewicht des Fahrzeugs beträgt 1730 kg (3814 lbs) bei einem Leergew
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 750 kg (1653 lbs), während es für einen ungebremsten Anhänger 650 kg (1433 lbs) beträgt.
 
 ## Verfügbarkeit & Preise
+
+Der Dongfeng Nammi Box 42.3kWh feierte seine Weltpremiere am 07.01.2024, mit Lieferungen ab November 2024.
 
 ### Preise
 

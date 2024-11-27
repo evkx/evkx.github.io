@@ -247,6 +247,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Höjd
+			</td>
+			<td>
+				1570 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredd exklusive speglar
 			</td>
 			<td>

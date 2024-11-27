@@ -247,6 +247,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Højde
+			</td>
+			<td>
+				1570 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredde ekskl. spejle
 			</td>
 			<td>

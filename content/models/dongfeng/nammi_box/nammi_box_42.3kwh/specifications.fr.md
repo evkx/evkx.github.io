@@ -247,6 +247,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Hauteur
+			</td>
+			<td>
+				1570 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Largeur hors miroirs
 			</td>
 			<td>
