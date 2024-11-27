@@ -153,6 +153,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				70 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 

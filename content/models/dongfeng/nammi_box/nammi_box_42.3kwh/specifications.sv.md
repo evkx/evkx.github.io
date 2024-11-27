@@ -153,6 +153,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				70 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 

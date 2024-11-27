@@ -153,6 +153,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				70 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 

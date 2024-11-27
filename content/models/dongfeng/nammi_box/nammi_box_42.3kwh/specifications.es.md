@@ -153,6 +153,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				70 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 

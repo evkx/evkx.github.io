@@ -30,7 +30,7 @@ Dongfeng Nammi Box 42.3kWh gir grunnleggende ytelse med en maksimal effekt på 7
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 42,3 kWh og en netto brukbar kapasitet på 40,0 kWh, som gir en buffer på 2,3 kWh (5,4%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 42,3 kWh og en netto brukbar kapasitet på 40,0 kWh, som gir en buffer på 2,3 kWh (5,4%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 310 km, med et energiforbruk på 12,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -234,7 +234,8 @@ I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer 
 
 - [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
 - [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [BYD Seagull 38kWh](/models/byd/seagull/seagull_38kwh/)
 
-<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Dongfeng Nammi Box" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -30,7 +30,7 @@ The Dongfeng Nammi Box 42.3kWh kWh provides basic performance with a maximum pow
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 42.3 kWh and a net usable capacity of 40.0 kWh, providing a 2.3 kWh buffer (5.4%) for battery protection.
+The high-capacity battery has a gross capacity of 42.3 kWh and a net usable capacity of 40.0 kWh, providing a 2.3 kWh buffer (5.4%) for battery protection. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 310 km (193 miles), with an energy consumption rate of 12.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -234,7 +234,8 @@ In the rapidly expanding EV market, EVKX.net has identified several alternatives
 
 - [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
 - [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [BYD Seagull 38kWh](/models/byd/seagull/seagull_38kwh/)
 
-<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Dongfeng Nammi Box" f_url="rangeandconsumption/" f_title="Range" >}}

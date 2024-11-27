@@ -30,7 +30,7 @@ Der Dongfeng Nammi Box 42.3kWh kWh bietet eine grundlegende Leistung mit einer m
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 42,3 kWh und eine nutzbare Nettokapazität von 40,0 kWh, was einen Puffer von 2,3 kWh (5,4%) zum Schutz der Batterie bietet.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 42,3 kWh und eine nutzbare Nettokapazität von 40,0 kWh, was einen Puffer von 2,3 kWh (5,4%) zum Schutz der Batterie bietet. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 310 km (193 Meilen) mit einem Energieverbrauch von 12,9 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -234,7 +234,8 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Dongfeng Na
 
 - [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
 - [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [BYD Seagull 38kWh](/models/byd/seagull/seagull_38kwh/)
 
-<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Dongfeng Nammi Box" f_url="rangeandconsumption/" f_title="Reichweite" >}}

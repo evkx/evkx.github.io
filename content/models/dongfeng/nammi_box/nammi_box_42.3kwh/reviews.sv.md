@@ -22,6 +22,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube ivfEd8Hv-5s >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nammi 01: This Might Be The Perfect Cheap EV</h3>
+<p>Wheelsboy: 17.06.2024</p>
+
+{{< youtube X2utqEwFSUQ >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>

@@ -30,7 +30,7 @@ La Dongfeng Nammi Box 42.3kWh kWh offre des performances de base avec une puissa
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 42,3 kWh et une capacité nette utilisable de 40,0 kWh, offrant une réserve de 2,3 kWh (5,4%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 42,3 kWh et une capacité nette utilisable de 40,0 kWh, offrant une réserve de 2,3 kWh (5,4%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 310 km, avec une consommation d'énergie de 12,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -234,7 +234,8 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 
 - [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
 - [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [BYD Seagull 38kWh](/models/byd/seagull/seagull_38kwh/)
 
-<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Dongfeng Nammi Box" f_url="rangeandconsumption/" f_title="Plage" >}}
