@@ -38,9 +38,15 @@ Maksimal DC-ladehastighet er 70 kW. En full lading fra 0 - 100 % vil ta 79 minut
 
 ### Ombordlader
 
+Den standard ombordladeren støtter opptil 6,6 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 3 minutter med en hjemmelader.
+
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.
+
+### Toveis lading
+
+Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 3,6 kW strøm, inkludert lading av andre kjøretøy.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -66,7 +72,7 @@ Dongfeng Nammi Box 42.3kWh, med dimensjoner på 4020 mm i lengde, 1810 mm i bred
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Dongfeng Nammi Box 42.3kWh, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-- 255/55 dekk på 17" felger
+- 215/55 dekk på 17" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -149,6 +155,10 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ## Infotainment
 
+### Navigasjonssystem
+
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
 ### Lydsystem
 
 Én type lydsystem er tilgjengelig for Dongfeng Nammi Box 42.3kWh.
@@ -159,7 +169,7 @@ Modellen har 1 USB-A-tilkoblinger som standard.
 
 ## Lys
 
-Dongfeng Nammi Box 42.3kWh er utstyrt med standard halogenfrontlykter.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -188,6 +198,11 @@ Dongfeng Nammi Box 42.3kWh tilbyr [kjøreautomatisering på nivå 1](../../../..
 Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhets- og tilgangsteknologier
 

@@ -38,9 +38,15 @@ Den maksimale DC-opladningshastighed er 70kW. En fuld opladning fra 0 - 100 % vi
 
 ### Ombordlader
 
+Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 3 minutter ved brug af en hjemmeoplader.
+
 ### Ladeport
 
 Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren.
+
+### Bidirektionel opladning
+
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 3,6 kW effekt, inklusive opladning af andre køretøjer.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -66,7 +72,7 @@ Den Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i længde, 1810 mm i
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Dongfeng Nammi Box 42.3kWh, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-- 255/55 dæk on 17" fælge
+- 215/55 dæk on 17" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -149,6 +155,10 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ## Infotainment
 
+### Navigationssystem
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
 ### Lydsystem
 
 Én type lydsystem er tilgængelig for Dongfeng Nammi Box 42.3kWh.
@@ -159,7 +169,7 @@ Modellen har 1 USB-A-forbindelser som standard.
 
 ## Lys
 
-Dongfeng Nammi Box 42.3kWh er udstyret med standard halogenforlygter.
+**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -188,6 +198,11 @@ Dongfeng Nammi Box 42.3kWh tilbyder [køreautomatisering på niveau 1](../../../
 Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 

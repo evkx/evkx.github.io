@@ -38,9 +38,15 @@ The vehicle supports fast DC charging with a maximum power of 70 kW. Charging fr
 
 ### Onboard Charger
 
+The standard onboard charger supports up to 6.6 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 3 minutes using a home charging setup.
+
 ### Charge Port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger.
+
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.6 kW of power, including the ability to charge other vehicles.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -66,7 +72,7 @@ The Dongfeng Nammi Box 42.3kWh, with dimensions of 4020 mm in length, 1810 mm in
 
 You can select from multiple wheel designs, all available in the same size, on the Dongfeng Nammi Box 42.3kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-- 255/55 tires on 17" rims
+- 215/55 tires on 17" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -149,6 +155,10 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+### Navigation System
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
 ### Sound System
 
 The Dongfeng Nammi Box 42.3kWh comes equipped with one sound system option:
@@ -159,7 +169,7 @@ The model has 1 USB-A connections as standard.
 
 ## Lights
 
-The Dongfeng Nammi Box 42.3kWh comes equipped with standard halogen headlights.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -188,6 +198,11 @@ The Dongfeng Nammi Box 42.3kWh offers [driving automation at level 1](../../../.
 With the  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Security and Access Technologies
 

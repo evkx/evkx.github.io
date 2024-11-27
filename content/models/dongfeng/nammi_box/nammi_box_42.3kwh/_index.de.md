@@ -38,9 +38,15 @@ Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 70
 
 ### Bordladegerät
 
+Das Standard-Bordladegerät unterstützt bis zu 6,6 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 3 Minuten vollständig von 0 auf 100% aufzuladen.
+
 ### Ladeanschluss
 
 Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side), was den Zugang an Ladestationen erleichtert, bei denen Sie parallel zum Ladegerät parken.
+
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,6 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -66,7 +72,7 @@ Der Dongfeng Nammi Box 42.3kWh, mit Abmessungen von 4020 mm Länge, 1810 mm Brei
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Dongfeng Nammi Box 42.3kWh erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 255/55 Reifen auf 17" Felgen
+- 215/55 Reifen auf 17" Felgen
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 
@@ -149,6 +155,10 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+### Navigationssystem
+
+Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+
 ### Soundsystem
 
 Der Dongfeng Nammi Box 42.3kWh ist mit einer Soundsystemoption ausgestattet:
@@ -159,7 +169,7 @@ Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
 ## Lichter
 
-Der Dongfeng Nammi Box 42.3kWh ist mit Standard-Halogenscheinwerfern ausgestattet.
+**Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -188,6 +198,11 @@ Der Dongfeng Nammi Box 42.3kWh bietet [Fahrautomatisierung auf Level 1](../../..
 Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 ## Sicherheits- und Zugangstechnologien
 

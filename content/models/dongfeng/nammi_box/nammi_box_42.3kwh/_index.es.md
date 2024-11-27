@@ -38,9 +38,15 @@ La velocidad máxima de carga de CC es 70kW. Una carga completa del 0 al 100 % t
 
 ### Cargador a bordo
 
+El cargador a bordo estándar soporta hasta 6,6 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 3 minutos usando un cargador en casa.
+
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador.
+
+### Carga bidireccional
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 3,6 kW de potencia, incluida la carga de otros vehículos.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -66,7 +72,7 @@ El Dongfeng Nammi Box 42.3kWh, con dimensiones de 4020 mm de longitud, 1810 mm d
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Dongfeng Nammi Box 42.3kWh, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 255/55 en llantas de 17
+- Neumáticos 215/55 en llantas de 17
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
@@ -149,6 +155,10 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ## Infoentretenimiento
 
+### Sistema de navegación
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
 ### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Dongfeng Nammi Box 42.3kWh.
@@ -159,7 +169,7 @@ El modelo tiene 1 conexiones USB-A de serie.
 
 ## Luces
 
-El Dongfeng Nammi Box 42.3kWh viene equipado con faros halógenos estándar.
+**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
@@ -188,6 +198,11 @@ Dongfeng Nammi Box 42.3kWh ofrece [automatización de la conducción en nivel 1]
 Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 ## Tecnologías de seguridad y acceso
 

@@ -38,9 +38,15 @@ Maximal DC-laddningshastighet är 70 kW. En full laddning från 0 - 100 % tar 79
 
 ### Ombordladdare
 
+Den standard ombordladdaren stöder upp till 6,6 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 3 minuter med en hemmaladdare.
+
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren.
+
+### Bidirektionell laddning
+
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 3,6 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -66,7 +72,7 @@ Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i längd, 1810 mm i bred
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Dongfeng Nammi Box 42.3kWh, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 255/55 däck på 17" fälgar
+- 215/55 däck på 17" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -149,6 +155,10 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ## Infotainment
 
+### Navigationssystem
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
 ### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Dongfeng Nammi Box 42.3kWh.
@@ -159,7 +169,7 @@ Modellen har 1 USB-A-anslutningar som standard.
 
 ## Ljus
 
-Dongfeng Nammi Box 42.3kWh är utrustad med standard halogenstrålkastare.
+**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
@@ -188,6 +198,11 @@ Dongfeng Nammi Box 42.3kWh erbjuder [körautomatisering på nivå 1](../../../..
 Med  nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhets- och åtkomstteknologier
 

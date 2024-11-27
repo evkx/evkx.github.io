@@ -846,7 +846,7 @@ This model is available with a seat configuration with five seats.
 				Hill start assist
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1004,6 +1004,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
