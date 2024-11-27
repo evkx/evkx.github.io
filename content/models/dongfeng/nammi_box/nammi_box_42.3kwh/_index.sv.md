@@ -157,7 +157,7 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
 ### Ljudsystem
 

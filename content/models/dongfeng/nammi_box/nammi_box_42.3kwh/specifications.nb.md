@@ -1012,7 +1012,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				I bilnavigasjon
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>

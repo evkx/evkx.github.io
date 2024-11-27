@@ -157,7 +157,7 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
 ### Lydsystem
 

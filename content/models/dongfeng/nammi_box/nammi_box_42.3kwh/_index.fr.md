@@ -157,7 +157,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
 ### Système audio
 

@@ -1012,7 +1012,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				I bilnavigation
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>

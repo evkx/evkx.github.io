@@ -157,7 +157,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound System
 

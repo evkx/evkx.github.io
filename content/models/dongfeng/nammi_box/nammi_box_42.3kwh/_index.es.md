@@ -157,7 +157,7 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
 
 ### Sistema de sonido
 
