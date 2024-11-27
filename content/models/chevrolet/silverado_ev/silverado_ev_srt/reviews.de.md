@@ -9,10 +9,10 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>The Model S Plaid Flexes Its Capabilities In Our 10% Challenge</h3>
-<p>Out of Spec Testing: 26.11.2024</p>
+<h3>Here&#39;s How Far The Chevy Silverado EV RST Goes In Cold &amp; Windy Conditions At Highway Speeds</h3>
+<p>Out of Spec Testing: 22.11.2024</p>
 
-{{< youtube _rW3TDJjalI >}}
+{{< youtube Sls2N2Ycvvo >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

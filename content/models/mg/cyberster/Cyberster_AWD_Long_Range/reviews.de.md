@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>How efficient is MG Cyberster in -8°C with the roof open?</h3>
+<p>Bjørn Nyland: 27.11.2024</p>
+
+{{< youtube -x-5E5MxFMU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>MG Cyberster headlights test</h3>
 <p>Bjørn Nyland: 26.11.2024</p>
 

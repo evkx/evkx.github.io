@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Ford Capri Premium AWD -  DEL 1</h3>
+<p>Nybiltester: 26.11.2024</p>
+
+{{< youtube uX3zO_nzB0Q >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST LOOK! New Ford Capri. Has Ford finally lost the plot?</h3>
 <p>Electrifying: 10.07.2024</p>
 

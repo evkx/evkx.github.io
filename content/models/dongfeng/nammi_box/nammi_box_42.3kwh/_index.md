@@ -64,6 +64,10 @@ The Dongfeng Nammi Box 42.3kWh is equipped with [cast-iron disc brakes](../../..
 
 ### Regenerative Braking
 
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
+
 The maximum regenerative power is 50 kW.
 
 ## Exterior
