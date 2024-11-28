@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Dongfeng Nammi Box er en rimelig kombi tilgjengelig i 1 varianter.
+Dongfeng Nammi Box er en rimelig kombi tilgjengelig i 2 varianter.
 </p>
 	<a href="nammi_box/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

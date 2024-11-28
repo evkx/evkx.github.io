@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-03e65c3a
+  translation: Dongfeng Nammi Box 31.4kWh es un hatchback económico totalmente eléctrico con una WLTP autonomía de hasta 230 km (143 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-4e73e93e
   translation: Dongfeng Nammi Box 42.3kWh es un hatchback económico totalmente eléctrico con una WLTP autonomía de hasta 310 km (193 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-218d4ea6
   translation: Audi A6 Sportback e-tron quattro es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 716 km (445 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-db33f944
-  translation: Audi A6 Sportback e-tron es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 672 km (418 millas). EVKX.net tiene todos los detalles.
 

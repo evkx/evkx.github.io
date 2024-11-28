@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Dongfeng Nammi Box est une citadine économique disponible en 1 variantes.
+Dongfeng Nammi Box est une citadine économique disponible en 2 variantes.
 </p>
 	<a href="nammi_box/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

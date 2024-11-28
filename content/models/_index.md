@@ -359,7 +359,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Dongfeng Motor Corporation, established in 1969, is one of China’s largest and most influential automotive manufacturers. Known for its diverse range of vehicles, including passenger cars, commercial trucks, and electric vehicles, Dongfeng has a significant presence both domestically and internationally. With a strong focus on innovation, the company has expanded its electric vehicle offerings, aiming to lead in sustainable mobility.
 	</p>
 	<p>
-	Dongfeng has 1 models with total 1 variants.
+	Dongfeng has 1 models with total 2 variants.
 	</p>
 	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Go to Dongfeng EV-model overview</a>
 </div>

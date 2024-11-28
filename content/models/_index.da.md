@@ -329,7 +329,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 		Dongfeng Motor Corporation, etableret i 1969, er en af Kinas største og mest indflydelsesrige bilproducenter. Kendt for sit brede udvalg af køretøjer, herunder personbiler, lastbiler og elbiler, har Dongfeng en betydelig tilstedeværelse både nationalt og internationalt. Med et stærkt fokus på innovation har virksomheden udvidet sit udvalg af elbiler med det mål at lede inden for bæredygtig mobilitet.
 	</p>
 	<p>
-	Dongfeng har 1 modeller med i alt 1 varianter.
+	Dongfeng har 1 modeller med i alt 2 varianter.
 	</p>
 	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Gå til Dongfeng EV-modeloversigt</a>
 </div>

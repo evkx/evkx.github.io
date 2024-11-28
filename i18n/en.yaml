@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-03e65c3a
+  translation: Dongfeng Nammi Box 31.4kWh is an all-electric budget hatchback with a WLTP range of up to 230 km (143 miles). EVKX.net has all the details.
+
 - id: frontpage-description-4e73e93e
   translation: Dongfeng Nammi Box 42.3kWh is an all-electric budget hatchback with a WLTP range of up to 310 km (193 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-218d4ea6
   translation: Audi A6 Sportback e-tron quattro is an all-electric premium sedan with a WLTP range of up to 716 km (445 miles). EVKX.net has all the details.
-
-- id: frontpage-description-db33f944
-  translation: Audi A6 Sportback e-tron is an all-electric premium sedan with a WLTP range of up to 672 km (418 miles). EVKX.net has all the details.
 

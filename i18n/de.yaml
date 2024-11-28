@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-03e65c3a
+  translation: Dongfeng Nammi Box 31.4kWh ist ein vollelektrischer Budget-Hatchback mit einer WLTP Reichweite von bis zu 230 km (143 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-4e73e93e
   translation: Dongfeng Nammi Box 42.3kWh ist ein vollelektrischer Budget-Hatchback mit einer WLTP Reichweite von bis zu 310 km (193 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-218d4ea6
   translation: Audi A6 Sportback e-tron quattro ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 716 km (445 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-db33f944
-  translation: Audi A6 Sportback e-tron ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 672 km (418 Meilen). EVKX.net hat alle Details.
 

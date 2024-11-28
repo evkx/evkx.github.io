@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Dongfeng Nammi Box is a budget hatchback available in 1 variants.
+Dongfeng Nammi Box is a budget hatchback available in 2 variants.
 </p>
 	<a href="nammi_box/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
