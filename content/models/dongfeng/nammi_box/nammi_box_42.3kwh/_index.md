@@ -60,6 +60,13 @@ The Dongfeng Nammi Box 42.3kWh has a front-wheel drive system supported by one m
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
+### Drive Modes
+
+The Dongfeng Nammi Box 42.3kWh lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 2 modes:
+
+- Sport: Dynamic steering and throttle.
+- Comfort: Balanced steering and throttle.
+
 ### Brakes
 
 The Dongfeng Nammi Box 42.3kWh is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 300 mm, while the rear discs are 300 mm.
@@ -211,7 +218,7 @@ With the standard level 1 system, you get the following driving automation featu
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and three [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Safety
 

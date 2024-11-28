@@ -60,6 +60,13 @@ Dongfeng Nammi Box 42.3kWh har et forhjulsdriftssystem støttet av én motor på
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 160 mm.
 
+### Kjøremoduser
+
+Dongfeng Nammi Box 42.3kWh lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 2 moduser:
+
+- Sport: Dynamisk styring og gasspedal.
+- Comfort: Balansert styring og gasspedal.
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 300mm, og de bakre skivene er 300mm.
@@ -211,7 +218,7 @@ Med standard nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 ### Sensorer & Kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og tre [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhet
 

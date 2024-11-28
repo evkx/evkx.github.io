@@ -60,6 +60,13 @@ Dongfeng Nammi Box 42.3kWh tiene un sistema de tracción delantera sostenido por
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Torsion Beam](../../../../technology/suspension/#torsion-beam). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
 
+### Modos de conducción
+
+El Dongfeng Nammi Box 42.3kWh permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 2 modos:
+
+- Sport: Dirección y acelerador dinámicos.
+- Comfort: Dirección y acelerador equilibrados.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 300 mm y los discos traseros de 300 mm.
@@ -211,7 +218,7 @@ Con el sistema standard de nivel 1, obtienes las siguientes funciones de automat
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y tres [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 ## Seguridad
 

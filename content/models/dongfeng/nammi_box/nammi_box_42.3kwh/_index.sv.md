@@ -60,6 +60,13 @@ Dongfeng Nammi Box 42.3kWh har ett framhjulsdriftssystem som stöds av en motor 
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
 
+### Körlägen
+
+Dongfeng Nammi Box 42.3kWh låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 2 lägen:
+
+- Sport: Dynamisk styrning och gaspedal.
+- Comfort: Balanserad styrning och gaspedal.
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 300mm och de bakre skivorna är 300mm.
@@ -211,7 +218,7 @@ Med standard nivå 1-systemet får du följande funktioner för körautomatiseri
 ### Sensorer & Kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
-Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och tre [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhet
 

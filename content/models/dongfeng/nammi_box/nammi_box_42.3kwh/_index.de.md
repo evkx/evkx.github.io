@@ -60,6 +60,13 @@ Der Dongfeng Nammi Box 42.3kWh hat ein Frontantriebssystem, das von einem Motor 
 
 Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Torsionsbalken](../../../../technology/suspension/#torsion-beam). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 160 mm.
 
+### Fahrmodi
+
+Der Dongfeng Nammi Box 42.3kWh ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 2 Modi wählen:
+
+- Sport: Dynamische Lenkung und Gas.
+- Comfort: Ausgewogene Lenkung und Gas.
+
 ### Bremsen
 
 Der Dongfeng Nammi Box 42.3kWh ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 300 mm, während die hinteren Scheiben 300 mm groß sind.
@@ -211,7 +218,7 @@ Mit dem standard Level 1 System erhalten Sie die folgenden Fahrautomatisierungsf
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und drei [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 ## Sicherheit
 
