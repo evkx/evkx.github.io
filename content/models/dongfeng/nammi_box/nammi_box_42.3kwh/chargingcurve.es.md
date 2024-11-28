@@ -178,10 +178,10 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 				3,9 km (2,4 mi)
 			</td>
 			<td>
-				?
+				2,4 km (1,5 mi)
 			</td>
 			<td>
-				?
+				2,2 km (1,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -195,10 +195,10 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 				3,9 km (2,4 mi)
 			</td>
 			<td>
-				?
+				2,4 km (1,5 mi)
 			</td>
 			<td>
-				?
+				2,2 km (1,4 mi)
 			</td>
 		</tr>
 		<tr>
@@ -212,10 +212,10 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 				5,7 km (3,5 mi)
 			</td>
 			<td>
-				?
+				3,5 km (2,2 mi)
 			</td>
 			<td>
-				?
+				3,2 km (2,0 mi)
 			</td>
 		</tr>
 	</tbody>

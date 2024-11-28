@@ -36,6 +36,8 @@ Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonize
 
 Den maksimale DC-opladningshastighed er 70kW. En fuld opladning fra 0 - 100 % ville tage 79 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 43kW. Hver opladningssession ville tage 27 minutter og 27 sekunder.
 
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 12 timer og 48 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 58%, med en samlet opladningstid på 268 minutter
+
 ### Ombordlader
 
 Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 3 minutter ved brug af en hjemmeoplader.
