@@ -64,7 +64,7 @@ Der Dongfeng Nammi Box 42.3kWh ist mit [Gusseisenscheibenbremsen](../../../../te
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
@@ -88,7 +88,7 @@ Es gibt nur eine Dachoption für dieses Modell.
 
 ## Interieur
 
-Das Interieur des Dongfeng Nammi Box 42.3kWh ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die schwebende Mittelkonsole schafft einen offenen Raum zwischen dem Beifahrer und dem Fahrer und bietet praktische Aufbewahrungsmöglichkeiten.
+Das Interieur des Dongfeng Nammi Box 42.3kWh ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die schwebende Mittelkonsole schafft einen offenen Raum zwischen dem Beifahrer und dem Fahrer und bietet praktische Aufbewahrungsmöglichkeiten. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -100,13 +100,18 @@ Der Dongfeng Nammi Box 42.3kWh bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar für Fahrer, manuell verstellbar für Beifahrer)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar für Fahrer, manuell verstellbar für Beifahrer)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar für Fahrer, manuell verstellbar für Beifahrer)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 
 Verfügbar in:
 
-- Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black/White [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black/LightGray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black/Lilac [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
@@ -151,7 +156,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Dongfeng Nammi Box 42.3kWh ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad enthält physische Tasten und Scrollräder, die eine intuitive Steuerung des Infotainmentsystems ermöglichen, sodass Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad hat eine flache Unter- und Oberseite, was ein sportliches Aussehen und Gefühl vermittelt. Es enthält auch physische Tasten und Scrollräder, die eine intuitive Steuerung des Infotainmentsystems ermöglichen, sodass Sie die Lautstärke leicht anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -160,10 +165,6 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 ## Infotainment
 
 Das Dongfeng Nammi Box 42.3kWh verfügt über ein maßgeschneidertes Infotainmentsystem, das eine Schnittstelle mit einer Vielzahl von Funktionen und Funktionen bietet, um das Fahrerlebnis zu verbessern.
-
-### Navigationssystem
-
-Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
 
 ### Soundsystem
 
@@ -201,7 +202,7 @@ Der Dongfeng Nammi Box 42.3kWh verfügt über eine Reihe von standardmäßigen u
 
 Der Dongfeng Nammi Box 42.3kWh bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
 
-Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem standard Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
@@ -209,6 +210,14 @@ Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktione
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Dongfeng Nammi Box 42.3kWh ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
 
 ## Sicherheits- und Zugangstechnologien
 

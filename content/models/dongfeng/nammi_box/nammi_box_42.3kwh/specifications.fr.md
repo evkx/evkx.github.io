@@ -537,7 +537,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Conducteur électrique standard, passager manuel standard
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Conducteur électrique standard, passager manuel standard
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Conducteur électrique standard, passager manuel standard
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +949,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +990,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +1022,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Dans la navigation automobile
 			</td>
 			<td>
-				Oui, équipement en option
+				Non disponible
 			</td>
 		</tr>
 		<tr>

@@ -64,7 +64,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
@@ -88,7 +88,7 @@ Det finns bara ett tak för denna modell.
 
 ## Interiör
 
-Interiören i Dongfeng Nammi Box 42.3kWh är designad med en minimalistisk estetik och har material av medelkvalitet överallt. Den flytande mittkonsolen skapar ett öppet utrymme mellan passageraren och föraren och erbjuder praktiska förvaringsalternativ.
+Interiören i Dongfeng Nammi Box 42.3kWh är designad med en minimalistisk estetik och har material av medelkvalitet överallt. Den flytande mittkonsolen skapar ett öppet utrymme mellan passageraren och föraren och erbjuder praktiska förvaringsalternativ. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -100,13 +100,18 @@ Dongfeng Nammi Box 42.3kWh erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar för förare, manuellt justerbar för passagerare)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar för förare, manuellt justerbar för passagerare)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar för förare, manuellt justerbar för passagerare)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för förare, inte tillgänglig för passagerare)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard för förare, inte tillgänglig för passagerare)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
-- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/White [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/LightGray [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/Lilac [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
@@ -151,7 +156,7 @@ Modellen är inte tillgänglig med head-up display.
 
 Dongfeng Nammi Box 42.3kWh är utrustad med en enda typ av ratt:
 
-- **Cirkulär Ratt:** Denna ratt inkluderar fysiska knappar och rullhjul, vilket ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar och rullhjul, vilket ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ### Speglar
 
@@ -160,10 +165,6 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 ## Infotainment
 
 Dongfeng Nammi Box 42.3kWh har ett specialbyggt infotainmentsystem som är utformat för att ge ett gränssnitt med en rad funktioner och funktioner för att förbättra körupplevelsen.
-
-### Navigationssystem
-
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
 ### Ljudsystem
 
@@ -201,7 +202,7 @@ Dongfeng Nammi Box 42.3kWh inkluderar flera [avancerade förarassistanssystem](.
 
 Dongfeng Nammi Box 42.3kWh erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med standard nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
@@ -209,6 +210,14 @@ Med  nivå 1-systemet får du följande funktioner för körautomatisering.
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+Dongfeng Nammi Box 42.3kWh är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+
+- Främre krockkuddar för föraren och främre passageraren
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för föraren och främre passageraren
 
 ## Säkerhets- och åtkomstteknologier
 

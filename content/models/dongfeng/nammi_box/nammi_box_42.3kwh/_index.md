@@ -64,7 +64,7 @@ The Dongfeng Nammi Box 42.3kWh is equipped with [cast-iron disc brakes](../../..
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
@@ -88,7 +88,7 @@ There is only one roof option for this model.
 
 ## Interior
 
-The interior of the Dongfeng Nammi Box 42.3kWh is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. The floating center console creates an open space between the passenger and driver, offering convenient storage options.
+The interior of the Dongfeng Nammi Box 42.3kWh is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. The floating center console creates an open space between the passenger and driver, offering convenient storage options. You can choose between several interior designs.
 
 ### Seats
 
@@ -100,13 +100,18 @@ The Dongfeng Nammi Box 42.3kWh offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable for driver, manually adjustable for passenger)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable for driver, manually adjustable for passenger)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, manually adjustable for passenger)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for driver, not available for passenger)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for driver, not available for passenger)
 
 Available in:
 
-- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/LightGray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/Lilac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
@@ -151,7 +156,7 @@ The model does not include a head-up display.
 
 The Dongfeng Nammi Box 42.3kWh is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel includes physical buttons and scroll wheels, providing intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also includes physical buttons and scroll wheels, providing intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -160,10 +165,6 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 ## Infotainment
 
 The Dongfeng Nammi Box 42.3kWh features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
-
-### Navigation System
-
-With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound System
 
@@ -201,7 +202,7 @@ The Dongfeng Nammi Box 42.3kWh features a range of standard and optional [advanc
 
 The Dongfeng Nammi Box 42.3kWh offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the  level 1 system, you get the following driving automation features.
+With the standard level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
@@ -209,6 +210,14 @@ With the  level 1 system, you get the following driving automation features.
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Dongfeng Nammi Box 42.3kWh is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
 
 ## Security and Access Technologies
 

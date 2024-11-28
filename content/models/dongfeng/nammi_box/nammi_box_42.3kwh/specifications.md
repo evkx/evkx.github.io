@@ -537,7 +537,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric driver, standard manual passenger
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric driver, standard manual passenger
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard electric driver, standard manual passenger
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +949,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +990,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +1022,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

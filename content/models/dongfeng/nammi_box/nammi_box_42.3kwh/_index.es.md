@@ -64,7 +64,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
 
 Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
@@ -88,7 +88,7 @@ Sólo hay un techo para este modelo.
 
 ## Interior
 
-El interior del Dongfeng Nammi Box 42.3kWh está diseñado con una estética minimalista, con materiales de calidad media en todo el habitáculo. La consola central flotante crea un espacio abierto entre el pasajero y el conductor, ofreciendo opciones de almacenamiento convenientes.
+El interior del Dongfeng Nammi Box 42.3kWh está diseñado con una estética minimalista, con materiales de calidad media en todo el habitáculo. La consola central flotante crea un espacio abierto entre el pasajero y el conductor, ofreciendo opciones de almacenamiento convenientes. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -100,13 +100,18 @@ El Dongfeng Nammi Box 42.3kWh ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente para el conductor, ajustable manualmente para el pasajero)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente para el conductor, ajustable manualmente para el pasajero)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente para el conductor, ajustable manualmente para el pasajero)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para el conductor, no disponible para el pasajero)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (estándar para el conductor, no disponible para el pasajero)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-- Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/LightGray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/Lilac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
@@ -151,7 +156,7 @@ El modelo no tiene head-up display.
 
 El Dongfeng Nammi Box 42.3kWh está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante incluye botones físicos y ruedas de desplazamiento, proporcionando un control intuitivo sobre el sistema de infoentretenimiento, permitiéndole ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
+- **Volante Circular:** Este volante presenta una parte inferior y superior plana, proporcionando un aspecto y sensación deportivos. También incluye botones físicos y ruedas de desplazamiento, proporcionando un control intuitivo sobre el sistema de infoentretenimiento, permitiéndole ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
@@ -160,10 +165,6 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 ## Infoentretenimiento
 
 El Dongfeng Nammi Box 42.3kWh cuenta con un sistema de infoentretenimiento personalizado diseñado para proporcionar una interfaz con una variedad de características y funciones para mejorar la experiencia de conducción.
-
-### Sistema de navegación
-
-Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
 
 ### Sistema de sonido
 
@@ -201,7 +202,7 @@ El Dongfeng Nammi Box 42.3kWh incluye varios [sistemas avanzados de asistencia a
 
 Dongfeng Nammi Box 42.3kWh ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema standard de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
@@ -209,6 +210,14 @@ Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
+## Seguridad
+
+El Dongfeng Nammi Box 42.3kWh está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
 
 ## Tecnologías de seguridad y acceso
 

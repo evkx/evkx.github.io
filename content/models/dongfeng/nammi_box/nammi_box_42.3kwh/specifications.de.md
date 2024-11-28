@@ -537,7 +537,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrischer Fahrer, standard manueller Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrischer Fahrer, standard manueller Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Unbekannt
+				Standard elektrischer Fahrer, standard manueller Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +949,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verkehrszeichenerkennung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +990,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sprachsteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +1022,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				In-Car-Navigation
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

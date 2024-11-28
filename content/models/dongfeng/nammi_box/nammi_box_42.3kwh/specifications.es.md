@@ -537,7 +537,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Conductor eléctrico estándar, pasajero manual estándar
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Conductor eléctrico estándar, pasajero manual estándar
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Conductor eléctrico estándar, pasajero manual estándar
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +949,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +990,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control por voz
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +1022,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				En navegación del coche
 			</td>
 			<td>
-				Sí, equipo opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>
