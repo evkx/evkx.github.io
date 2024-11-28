@@ -110,6 +110,8 @@ Honda e:Ny1 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - højdejusterbar nakkestøtte

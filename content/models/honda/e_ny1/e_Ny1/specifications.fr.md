@@ -500,7 +500,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Conducteur électrique standard, passager manuel standard
 			</td>
 		</tr>
 		<tr>
@@ -516,7 +516,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Conducteur électrique standard, passager manuel standard
 			</td>
 		</tr>
 		<tr>

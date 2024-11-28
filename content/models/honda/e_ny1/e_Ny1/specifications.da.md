@@ -500,7 +500,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk fører, standard manuel passager
 			</td>
 		</tr>
 		<tr>
@@ -516,7 +516,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standard elektrisk fører, standard manuel passager
 			</td>
 		</tr>
 		<tr>

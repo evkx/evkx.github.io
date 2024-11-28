@@ -110,6 +110,8 @@ Honda e:Ny1 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passasjer)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passasjer)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar for fører, ikke tilgjengelig for passasjer)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar for fører, ikke tilgjengelig for passasjer)
 - høydejusterbar hodestøtte
