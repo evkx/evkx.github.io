@@ -537,7 +537,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standard elektrisk fører, standard manuell passasjer
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Standard elektrisk fører, standard manuell passasjer
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Standard elektrisk fører, standard manuell passasjer
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

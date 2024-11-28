@@ -109,9 +109,9 @@ The Dongfeng Nammi Box 31.4kWh offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable for driver, manually adjustable for passenger)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable for driver, manually adjustable for passenger)
-- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, manually adjustable for passenger)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for driver, not available for passenger)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for driver, not available for passenger)

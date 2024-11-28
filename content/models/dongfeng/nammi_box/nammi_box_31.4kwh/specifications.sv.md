@@ -537,7 +537,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering sätesdjup
 			</td>
 			<td>
-				Standard elektrisk förare, standard manuell passagerare
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				Standard elektrisk förare, standard manuell passagerare
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				Standard elektrisk förare, standard manuell passagerare
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

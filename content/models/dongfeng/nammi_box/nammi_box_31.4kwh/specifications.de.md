@@ -537,7 +537,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Standard elektrischer Fahrer, standard manueller Beifahrer
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Standard elektrischer Fahrer, standard manueller Beifahrer
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Standard elektrischer Fahrer, standard manueller Beifahrer
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

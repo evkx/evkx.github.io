@@ -109,9 +109,9 @@ Der Dongfeng Nammi Box 31.4kWh bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
-- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar für Fahrer, manuell verstellbar für Beifahrer)
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar für Fahrer, manuell verstellbar für Beifahrer)
-- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar für Fahrer, manuell verstellbar für Beifahrer)
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (Standard für Fahrer, nicht verfügbar für Beifahrer)
