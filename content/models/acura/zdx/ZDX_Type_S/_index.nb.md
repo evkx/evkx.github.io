@@ -26,7 +26,7 @@ Vi har delt vår beskrivelse av Acura ZDX Type S i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Acura ZDX Type S leverer solid ytelse med en maksimal effekt på 373 kW (507 hk) og et totalt dreiemoment på 737 Nm. Den kan akselerere fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Acura ZDX Type S leverer solid ytelse med en maksimal effekt på 373 kW (507 hk) og et totalt dreiemoment på 738 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
@@ -85,7 +85,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Acura ZDX Type S, med dimensjoner på 5022 mm i lengde, 1956 mm i bredde og 1636 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Acura ZDX Type S er tilgjengelig i totalt 6 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
+Acura ZDX Type S, med dimensjoner på 5022 mm i lengde, 1956 mm i bredde og 1636 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Acura ZDX Type S er tilgjengelig i totalt 6 lakkfarger, alle inkluderer metalliske og perlemorsalternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Acura ZDX Type S, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -162,6 +162,7 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 Acura ZDX Type S inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -220,6 +221,10 @@ I tillegg støtter Acura ZDX Type S Android Auto og Apple CarPlay. Denne funksjo
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
+## Mobilapp
+
+Acura ZDX Type S kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
 ## Lys
 
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
@@ -274,6 +279,8 @@ Acura ZDX Type S er utstyrt med flere kollisjonsputer for å sikre beskyttelse a
 - Sidekollisjonsputer for fører og forsetepassasjer
 - Kne-kollisjonsputer for fører og forsetepassasjer
 
+I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
+
 ## Sikkerhets- og tilgangsteknologier
 
 Acura ZDX Type S er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
@@ -307,10 +314,10 @@ Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfo
 
 I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Acura ZDX Type S som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
-- [Mercedes EQE 350 4MATIC SUV](/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
+- [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/)
+- [Mercedes EQE 500 4MATIC SUV](/models/mercedes/eqe_suv/eqe_500_4matic_suv/)
 - [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
 
-<a href="https://db.evkx.net/evcompare?evs=746d3b%2c1a8daa%2ce0836b%2cb42577" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<a href="https://db.evkx.net/evcompare?evs=746d3b%2c12fe37%2c97f254%2cb42577" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Acura ZDX" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

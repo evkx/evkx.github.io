@@ -26,7 +26,7 @@ Nous avons séparé notre article Acura ZDX Type S en sections. Si vous souhaite
 
 ## Performances
 
-La Acura ZDX Type S offre des performances solides avec une puissance maximale de 373 kW (507 ch) et un couple total de 737 Nm. Elle peut accélérer de 0 à 100 km/h en 4,6 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
+La Acura ZDX Type S offre des performances solides avec une puissance maximale de 373 kW (507 ch) et un couple total de 738 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -85,7 +85,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Acura ZDX Type S, avec des dimensions de 5022 mm de longueur, 1956 mm de largeur et 1636 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Acura ZDX Type S est disponible en un total de 6 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
+La Acura ZDX Type S, avec des dimensions de 5022 mm de longueur, 1956 mm de largeur et 1636 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Acura ZDX Type S est disponible en un total de 6 couleurs de peinture, toutes comprenant des options métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Acura ZDX Type S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -162,6 +162,7 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 L'Acura ZDX Type S comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
@@ -220,6 +221,10 @@ Un type de système audio est disponible pour le Acura ZDX Type S.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
+## Application mobile
+
+Le Acura ZDX Type S est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
 ## Lumières
 
 **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
@@ -274,6 +279,8 @@ Le Acura ZDX Type S est équipé de plusieurs airbags pour assurer la protection
 - Airbags latéraux pour le conducteur et le passager avant
 - Airbags pour les genoux du conducteur et du passager avant
 
+De plus, les ceintures de sécurité des première et deuxième rangées sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
+
 ## Technologies de sécurité et d'accès
 
 Le Acura ZDX Type S est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
@@ -307,10 +314,10 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Acura ZDX Type S qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
 
-- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
-- [Mercedes EQE 350 4MATIC SUV](/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
+- [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/)
+- [Mercedes EQE 500 4MATIC SUV](/models/mercedes/eqe_suv/eqe_500_4matic_suv/)
 - [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
 
-<a href="https://db.evkx.net/evcompare?evs=746d3b%2c1a8daa%2ce0836b%2cb42577" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=746d3b%2c12fe37%2c97f254%2cb42577" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Acura ZDX" f_url="rangeandconsumption/" f_title="Plage" >}}

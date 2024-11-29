@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Acura ZDX Type S. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				737 nm
+				738 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Acura ZDX Type S. 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill DescentAssist
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

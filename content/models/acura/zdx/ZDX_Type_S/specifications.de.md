@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Acura ZDX Type S z
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				737 nm (544 lb-ft)
+				738 nm (545 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Acura ZDX Type S z
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Bergabfahrassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

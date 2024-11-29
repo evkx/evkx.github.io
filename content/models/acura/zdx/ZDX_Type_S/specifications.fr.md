@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX
 				Couple de sortie électrique
 			</td>
 			<td>
-				737 nm
+				738 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à la descente
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

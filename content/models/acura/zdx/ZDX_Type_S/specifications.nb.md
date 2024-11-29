@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Acura ZDX Type S. K
 				Dreiemoment
 			</td>
 			<td>
-				737 nm
+				738 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Acura ZDX Type S. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

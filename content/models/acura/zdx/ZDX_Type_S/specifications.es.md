@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Acura ZDX Type S. 
 				Salida de par eléctrico
 			</td>
 			<td>
-				737 nm
+				738 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Acura ZDX Type S. 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

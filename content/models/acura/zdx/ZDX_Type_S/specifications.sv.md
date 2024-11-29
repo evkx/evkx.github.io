@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Acura ZDX Type S. Klic
 				Vridmoment
 			</td>
 			<td>
-				737 nm
+				738 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Acura ZDX Type S. Klic
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Hill Descent Assist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

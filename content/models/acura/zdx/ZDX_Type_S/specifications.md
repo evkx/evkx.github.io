@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Acura ZDX Type S. Cl
 				Electrical torque output
 			</td>
 			<td>
-				737 nm (544 lb-ft)
+				738 nm (545 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Acura ZDX Type S. Cl
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -830,6 +830,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
