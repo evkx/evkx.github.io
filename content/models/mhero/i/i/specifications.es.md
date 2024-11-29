@@ -1108,7 +1108,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				En navegación del coche
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>

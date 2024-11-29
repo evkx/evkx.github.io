@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>GMC Sierra EV vs Silverado EV - A Justifiable Premium?</h3>
+<p>Auto Focus: 29.11.2024</p>
+
+{{< youtube GzS-xgs5y64 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>GMC Sierra EV Full Tour & First Drive! The King Of EV Pickup Trucks</h3>
 <p>Out of Spec Reviews: 18.10.2024</p>
 

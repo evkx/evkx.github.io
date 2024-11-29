@@ -86,10 +86,6 @@ Der MHERO I ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#di
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
-
-Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem festen Niveau. Dies kann nicht angepasst werden.
-
 Die maximale regenerative Leistung beträgt 100 kW.
 
 ## Exterieur
@@ -204,7 +200,7 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Mit dem eine optionale In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
 
 ### Soundsystem
 

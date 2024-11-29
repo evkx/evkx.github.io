@@ -1108,7 +1108,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Navigation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>

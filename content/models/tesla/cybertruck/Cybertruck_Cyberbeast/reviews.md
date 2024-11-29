@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tug of War! Tesla Cybertruck Beast vs. Rivian R1T Tri!</h3>
+<p>MotorTrend Channel: 29.11.2024</p>
+
+{{< youtube CAL9Pd_kU08 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric Trucks Tow 500mi Over The Rocky Mountains! Cybertruck vs Lightning vs Silverado EV vs R1T</h3>
 <p>Out of Spec Reviews: 27.03.2024</p>
 

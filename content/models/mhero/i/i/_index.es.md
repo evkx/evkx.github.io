@@ -86,10 +86,6 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
-
-Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
-
 La potencia regenerativa máxima es de 100 kW.
 
 ## Exterior
@@ -204,7 +200,7 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
 
 ### Sistema de sonido
 

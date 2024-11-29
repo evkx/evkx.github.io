@@ -86,10 +86,6 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
-
-Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
-
 Den maksimale regenerative effekt er 100 kW.
 
 ## Udvendig
@@ -204,7 +200,7 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
 ### Lydsystem
 

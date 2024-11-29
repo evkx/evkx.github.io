@@ -86,10 +86,6 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
-
-Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte justeras.
-
 Den maximala regenerativa effekten är 100 kW.
 
 ## Exteriör
@@ -204,7 +200,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
 ### Ljudsystem
 

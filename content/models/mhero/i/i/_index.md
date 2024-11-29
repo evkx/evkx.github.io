@@ -86,10 +86,6 @@ The MHERO I is equipped with [cast-iron disc brakes](../../../../technology/brak
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
-
-If you lift away the foot completely the regen is at one fixed level. This can't be adjusted.
-
 The maximum regenerative power is 100 kW.
 
 ## Exterior
@@ -204,7 +200,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound System
 

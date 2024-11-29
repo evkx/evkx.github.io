@@ -86,10 +86,6 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
-
-Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
-
 La puissance régénérative maximale est de 100 kW.
 
 ## Extérieur
@@ -204,7 +200,7 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
 ### Système audio
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Mercedes EQS 450+ Is A Comfortable, Efficient Road Tripper In The 10% Challenge</h3>
+<p>Out of Spec Testing: 29.11.2024</p>
+
+{{< youtube zFKxxbuUOSI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BMW i7 vs Mercedes EQS 70-MPH Highway Range Test! We Ran Them Until They Died</h3>
 <p>Out of Spec Reviews: 09.10.2024</p>
 
