@@ -225,6 +225,12 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 Den Acura ZDX Type S kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
 
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
+- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
+- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
+
 ## Lys
 
 **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.

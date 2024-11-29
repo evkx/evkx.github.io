@@ -247,6 +247,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2211 mm (87,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>

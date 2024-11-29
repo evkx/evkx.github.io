@@ -247,6 +247,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				2211 mm (87,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Radstand
 			</td>
 			<td>

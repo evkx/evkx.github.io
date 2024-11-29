@@ -247,6 +247,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bredd inklusive speglar
+			</td>
+			<td>
+				2211 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Axelavstånd
 			</td>
 			<td>

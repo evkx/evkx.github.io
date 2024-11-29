@@ -247,6 +247,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bredde inklusive spejle
+			</td>
+			<td>
+				2211 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>

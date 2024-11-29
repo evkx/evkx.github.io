@@ -247,6 +247,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2211 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Distancia entre ejes
 			</td>
 			<td>

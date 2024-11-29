@@ -247,6 +247,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bredde inkludert speil
+			</td>
+			<td>
+				2211 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Akselavstand
 			</td>
 			<td>
