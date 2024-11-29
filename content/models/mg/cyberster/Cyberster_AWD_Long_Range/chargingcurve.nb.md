@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 0 - 100%
 			</td>
 			<td>
-				44,2 kW
+				44,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-90%
 			</td>
 			<td>
-				80,2 kW
+				80,3 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig ladehastighet 10-80%
 			</td>
 			<td>
-				92,0 kW
+				92,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Gjennomsnittlig C-Rate
 			</td>
 			<td>
-				1,17
+				1,19
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt ladeområde
 			</td>
 			<td>
-				3% - 50%
+				2% - 49%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal ladehastighet inkludert 5 minutters tap
 			</td>
 			<td>
-				90,5kW
+				93,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal ladestopp tid
 			</td>
 			<td>
-				23m10s
+				23m33s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Ladetid 0-100%
 			</td>
 			<td>
-				1 h 40 m 53 s
+				1 h 40 m 13 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Ladetid 10-100%
 			</td>
 			<td>
-				1 h 35 m 22 s
+				1 h 35 m 19 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Ladetid 10-80%
 			</td>
 			<td>
-				 33 m 58 s
+				 33 m 55 s
 			</td>
 		</tr>
 	</tbody>
@@ -293,10 +293,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				3%
 			</td>
 			<td>
-				95 kW
+				126 kW
 			</td>
 			<td>
-				 2 m 27 s
+				 2 m 23 s
 			</td>
 			<td>
 				2,2 kWh
@@ -307,10 +307,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				4%
 			</td>
 			<td>
-				100 kW
+				131 kW
 			</td>
 			<td>
-				 2 m 57 s
+				 2 m 45 s
 			</td>
 			<td>
 				3,0 kWh
@@ -321,10 +321,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				5%
 			</td>
 			<td>
-				104 kW
+				135 kW
 			</td>
 			<td>
-				 3 m 25 s
+				 3 m 7 s
 			</td>
 			<td>
 				3,7 kWh
@@ -335,10 +335,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				6%
 			</td>
 			<td>
-				109 kW
+				135 kW
 			</td>
 			<td>
-				 3 m 52 s
+				 3 m 28 s
 			</td>
 			<td>
 				4,5 kWh
@@ -349,10 +349,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				7%
 			</td>
 			<td>
-				113 kW
+				135 kW
 			</td>
 			<td>
-				 4 m 18 s
+				 3 m 50 s
 			</td>
 			<td>
 				5,2 kWh
@@ -363,10 +363,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				8%
 			</td>
 			<td>
-				117 kW
+				135 kW
 			</td>
 			<td>
-				 4 m 43 s
+				 4 m 11 s
 			</td>
 			<td>
 				6,0 kWh
@@ -377,10 +377,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				9%
 			</td>
 			<td>
-				122 kW
+				135 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 4 m 32 s
 			</td>
 			<td>
 				6,7 kWh
@@ -391,10 +391,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				10%
 			</td>
 			<td>
-				126 kW
+				135 kW
 			</td>
 			<td>
-				 5 m 30 s
+				 4 m 54 s
 			</td>
 			<td>
 				7,4 kWh
@@ -405,10 +405,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				11%
 			</td>
 			<td>
-				128 kW
+				135 kW
 			</td>
 			<td>
-				 5 m 53 s
+				 5 m 15 s
 			</td>
 			<td>
 				8,2 kWh
@@ -419,10 +419,10 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				12%
 			</td>
 			<td>
-				131 kW
+				135 kW
 			</td>
 			<td>
-				 6 m 15 s
+				 5 m 36 s
 			</td>
 			<td>
 				8,9 kWh
@@ -436,7 +436,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				135 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 5 m 58 s
 			</td>
 			<td>
 				9,7 kWh
@@ -450,7 +450,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				135 kW
 			</td>
 			<td>
-				 6 m 58 s
+				 6 m 19 s
 			</td>
 			<td>
 				10,4 kWh
@@ -464,7 +464,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				136 kW
 			</td>
 			<td>
-				 7 m 19 s
+				 6 m 40 s
 			</td>
 			<td>
 				11,2 kWh
@@ -478,7 +478,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				136 kW
 			</td>
 			<td>
-				 7 m 41 s
+				 7 m 1 s
 			</td>
 			<td>
 				11,9 kWh
@@ -492,7 +492,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				136 kW
 			</td>
 			<td>
-				 8 m 2 s
+				 7 m 22 s
 			</td>
 			<td>
 				12,6 kWh
@@ -506,7 +506,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				137 kW
 			</td>
 			<td>
-				 8 m 23 s
+				 7 m 44 s
 			</td>
 			<td>
 				13,4 kWh
@@ -520,7 +520,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				139 kW
 			</td>
 			<td>
-				 8 m 44 s
+				 8 m 4 s
 			</td>
 			<td>
 				14,1 kWh
@@ -534,7 +534,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				140 kW
 			</td>
 			<td>
-				 9 m 4 s
+				 8 m 25 s
 			</td>
 			<td>
 				14,9 kWh
@@ -548,7 +548,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				140 kW
 			</td>
 			<td>
-				 9 m 25 s
+				 8 m 46 s
 			</td>
 			<td>
 				15,6 kWh
@@ -562,7 +562,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				141 kW
 			</td>
 			<td>
-				 9 m 45 s
+				 9 m 6 s
 			</td>
 			<td>
 				16,4 kWh
@@ -576,7 +576,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				141 kW
 			</td>
 			<td>
-				 10 m 6 s
+				 9 m 27 s
 			</td>
 			<td>
 				17,1 kWh
@@ -590,7 +590,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				141 kW
 			</td>
 			<td>
-				 10 m 26 s
+				 9 m 47 s
 			</td>
 			<td>
 				17,9 kWh
@@ -604,7 +604,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				142 kW
 			</td>
 			<td>
-				 10 m 47 s
+				 10 m 7 s
 			</td>
 			<td>
 				18,6 kWh
@@ -618,7 +618,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				142 kW
 			</td>
 			<td>
-				 11 m 7 s
+				 10 m 28 s
 			</td>
 			<td>
 				19,3 kWh
@@ -632,7 +632,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				142 kW
 			</td>
 			<td>
-				 11 m 27 s
+				 10 m 48 s
 			</td>
 			<td>
 				20,1 kWh
@@ -646,7 +646,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				142 kW
 			</td>
 			<td>
-				 11 m 48 s
+				 11 m 8 s
 			</td>
 			<td>
 				20,8 kWh
@@ -660,7 +660,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				142 kW
 			</td>
 			<td>
-				 12 m 8 s
+				 11 m 28 s
 			</td>
 			<td>
 				21,6 kWh
@@ -674,7 +674,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				143 kW
 			</td>
 			<td>
-				 12 m 28 s
+				 11 m 49 s
 			</td>
 			<td>
 				22,3 kWh
@@ -688,7 +688,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				143 kW
 			</td>
 			<td>
-				 12 m 48 s
+				 12 m 9 s
 			</td>
 			<td>
 				23,1 kWh
@@ -702,7 +702,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				141 kW
 			</td>
 			<td>
-				 13 m 8 s
+				 12 m 29 s
 			</td>
 			<td>
 				23,8 kWh
@@ -716,7 +716,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				139 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 12 m 50 s
 			</td>
 			<td>
 				24,6 kWh
@@ -730,7 +730,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				136 kW
 			</td>
 			<td>
-				 13 m 50 s
+				 13 m 11 s
 			</td>
 			<td>
 				25,3 kWh
@@ -744,7 +744,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				133 kW
 			</td>
 			<td>
-				 14 m 11 s
+				 13 m 32 s
 			</td>
 			<td>
 				26,0 kWh
@@ -758,7 +758,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				130 kW
 			</td>
 			<td>
-				 14 m 33 s
+				 13 m 54 s
 			</td>
 			<td>
 				26,8 kWh
@@ -772,7 +772,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				127 kW
 			</td>
 			<td>
-				 14 m 56 s
+				 14 m 16 s
 			</td>
 			<td>
 				27,5 kWh
@@ -786,7 +786,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				124 kW
 			</td>
 			<td>
-				 15 m 19 s
+				 14 m 39 s
 			</td>
 			<td>
 				28,3 kWh
@@ -800,7 +800,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				121 kW
 			</td>
 			<td>
-				 15 m 42 s
+				 15 m 3 s
 			</td>
 			<td>
 				29,0 kWh
@@ -814,7 +814,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				118 kW
 			</td>
 			<td>
-				 16 m 6 s
+				 15 m 27 s
 			</td>
 			<td>
 				29,8 kWh
@@ -828,7 +828,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				115 kW
 			</td>
 			<td>
-				 16 m 31 s
+				 15 m 52 s
 			</td>
 			<td>
 				30,5 kWh
@@ -842,7 +842,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				111 kW
 			</td>
 			<td>
-				 16 m 56 s
+				 16 m 17 s
 			</td>
 			<td>
 				31,2 kWh
@@ -856,7 +856,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				109 kW
 			</td>
 			<td>
-				 17 m 23 s
+				 16 m 43 s
 			</td>
 			<td>
 				32,0 kWh
@@ -870,7 +870,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				107 kW
 			</td>
 			<td>
-				 17 m 49 s
+				 17 m 10 s
 			</td>
 			<td>
 				32,7 kWh
@@ -884,7 +884,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				106 kW
 			</td>
 			<td>
-				 18 m 16 s
+				 17 m 37 s
 			</td>
 			<td>
 				33,5 kWh
@@ -898,7 +898,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				104 kW
 			</td>
 			<td>
-				 18 m 44 s
+				 18 m 4 s
 			</td>
 			<td>
 				34,2 kWh
@@ -912,7 +912,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				103 kW
 			</td>
 			<td>
-				 19 m 12 s
+				 18 m 32 s
 			</td>
 			<td>
 				35,0 kWh
@@ -926,7 +926,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				101 kW
 			</td>
 			<td>
-				 19 m 40 s
+				 19 m 0 s
 			</td>
 			<td>
 				35,7 kWh
@@ -940,7 +940,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				100 kW
 			</td>
 			<td>
-				 20 m 8 s
+				 19 m 29 s
 			</td>
 			<td>
 				36,5 kWh
@@ -954,7 +954,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				98 kW
 			</td>
 			<td>
-				 20 m 38 s
+				 19 m 58 s
 			</td>
 			<td>
 				37,2 kWh
@@ -968,7 +968,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				96 kW
 			</td>
 			<td>
-				 21 m 7 s
+				 20 m 28 s
 			</td>
 			<td>
 				37,9 kWh
@@ -982,7 +982,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				95 kW
 			</td>
 			<td>
-				 21 m 37 s
+				 20 m 58 s
 			</td>
 			<td>
 				38,7 kWh
@@ -996,7 +996,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				93 kW
 			</td>
 			<td>
-				 22 m 8 s
+				 21 m 29 s
 			</td>
 			<td>
 				39,4 kWh
@@ -1010,7 +1010,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				91 kW
 			</td>
 			<td>
-				 22 m 39 s
+				 22 m 0 s
 			</td>
 			<td>
 				40,2 kWh
@@ -1024,7 +1024,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				91 kW
 			</td>
 			<td>
-				 23 m 11 s
+				 22 m 32 s
 			</td>
 			<td>
 				40,9 kWh
@@ -1038,7 +1038,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				89 kW
 			</td>
 			<td>
-				 23 m 43 s
+				 23 m 4 s
 			</td>
 			<td>
 				41,7 kWh
@@ -1052,7 +1052,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				88 kW
 			</td>
 			<td>
-				 24 m 16 s
+				 23 m 36 s
 			</td>
 			<td>
 				42,4 kWh
@@ -1066,7 +1066,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				86 kW
 			</td>
 			<td>
-				 24 m 49 s
+				 24 m 9 s
 			</td>
 			<td>
 				43,2 kWh
@@ -1080,7 +1080,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				85 kW
 			</td>
 			<td>
-				 25 m 22 s
+				 24 m 43 s
 			</td>
 			<td>
 				43,9 kWh
@@ -1094,7 +1094,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				84 kW
 			</td>
 			<td>
-				 25 m 56 s
+				 25 m 17 s
 			</td>
 			<td>
 				44,6 kWh
@@ -1108,7 +1108,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				83 kW
 			</td>
 			<td>
-				 26 m 31 s
+				 25 m 52 s
 			</td>
 			<td>
 				45,4 kWh
@@ -1122,7 +1122,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				81 kW
 			</td>
 			<td>
-				 27 m 6 s
+				 26 m 27 s
 			</td>
 			<td>
 				46,1 kWh
@@ -1136,7 +1136,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				80 kW
 			</td>
 			<td>
-				 27 m 42 s
+				 27 m 2 s
 			</td>
 			<td>
 				46,9 kWh
@@ -1150,7 +1150,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				79 kW
 			</td>
 			<td>
-				 28 m 18 s
+				 27 m 39 s
 			</td>
 			<td>
 				47,6 kWh
@@ -1164,7 +1164,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				77 kW
 			</td>
 			<td>
-				 28 m 55 s
+				 28 m 16 s
 			</td>
 			<td>
 				48,4 kWh
@@ -1178,7 +1178,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				76 kW
 			</td>
 			<td>
-				 29 m 33 s
+				 28 m 53 s
 			</td>
 			<td>
 				49,1 kWh
@@ -1192,7 +1192,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				75 kW
 			</td>
 			<td>
-				 30 m 11 s
+				 29 m 31 s
 			</td>
 			<td>
 				49,8 kWh
@@ -1206,7 +1206,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				74 kW
 			</td>
 			<td>
-				 30 m 49 s
+				 30 m 10 s
 			</td>
 			<td>
 				50,6 kWh
@@ -1220,7 +1220,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				73 kW
 			</td>
 			<td>
-				 31 m 29 s
+				 30 m 49 s
 			</td>
 			<td>
 				51,3 kWh
@@ -1234,7 +1234,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				72 kW
 			</td>
 			<td>
-				 32 m 8 s
+				 31 m 29 s
 			</td>
 			<td>
 				52,1 kWh
@@ -1248,7 +1248,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				70 kW
 			</td>
 			<td>
-				 32 m 49 s
+				 32 m 10 s
 			</td>
 			<td>
 				52,8 kWh
@@ -1262,7 +1262,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				69 kW
 			</td>
 			<td>
-				 33 m 30 s
+				 32 m 51 s
 			</td>
 			<td>
 				53,6 kWh
@@ -1276,7 +1276,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				68 kW
 			</td>
 			<td>
-				 34 m 12 s
+				 33 m 33 s
 			</td>
 			<td>
 				54,3 kWh
@@ -1290,7 +1290,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				67 kW
 			</td>
 			<td>
-				 34 m 55 s
+				 34 m 16 s
 			</td>
 			<td>
 				55,1 kWh
@@ -1304,7 +1304,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				66 kW
 			</td>
 			<td>
-				 35 m 38 s
+				 34 m 59 s
 			</td>
 			<td>
 				55,8 kWh
@@ -1318,7 +1318,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				64 kW
 			</td>
 			<td>
-				 36 m 23 s
+				 35 m 43 s
 			</td>
 			<td>
 				56,5 kWh
@@ -1332,7 +1332,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				63 kW
 			</td>
 			<td>
-				 37 m 8 s
+				 36 m 29 s
 			</td>
 			<td>
 				57,3 kWh
@@ -1346,7 +1346,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				62 kW
 			</td>
 			<td>
-				 37 m 54 s
+				 37 m 15 s
 			</td>
 			<td>
 				58,0 kWh
@@ -1360,7 +1360,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				61 kW
 			</td>
 			<td>
-				 38 m 41 s
+				 38 m 2 s
 			</td>
 			<td>
 				58,8 kWh
@@ -1374,7 +1374,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				60 kW
 			</td>
 			<td>
-				 39 m 29 s
+				 38 m 49 s
 			</td>
 			<td>
 				59,5 kWh
@@ -1388,7 +1388,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				58 kW
 			</td>
 			<td>
-				 40 m 17 s
+				 39 m 38 s
 			</td>
 			<td>
 				60,3 kWh
@@ -1402,7 +1402,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				56 kW
 			</td>
 			<td>
-				 41 m 8 s
+				 40 m 29 s
 			</td>
 			<td>
 				61,0 kWh
@@ -1416,7 +1416,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				55 kW
 			</td>
 			<td>
-				 42 m 0 s
+				 41 m 20 s
 			</td>
 			<td>
 				61,8 kWh
@@ -1430,7 +1430,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				54 kW
 			</td>
 			<td>
-				 42 m 53 s
+				 42 m 13 s
 			</td>
 			<td>
 				62,5 kWh
@@ -1444,7 +1444,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				51 kW
 			</td>
 			<td>
-				 43 m 47 s
+				 43 m 8 s
 			</td>
 			<td>
 				63,2 kWh
@@ -1458,7 +1458,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				42 kW
 			</td>
 			<td>
-				 44 m 49 s
+				 44 m 10 s
 			</td>
 			<td>
 				64,0 kWh
@@ -1472,7 +1472,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				40 kW
 			</td>
 			<td>
-				 46 m 0 s
+				 45 m 20 s
 			</td>
 			<td>
 				64,7 kWh
@@ -1486,7 +1486,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				37 kW
 			</td>
 			<td>
-				 47 m 14 s
+				 46 m 35 s
 			</td>
 			<td>
 				65,5 kWh
@@ -1500,7 +1500,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				35 kW
 			</td>
 			<td>
-				 48 m 34 s
+				 47 m 55 s
 			</td>
 			<td>
 				66,2 kWh
@@ -1514,7 +1514,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				32 kW
 			</td>
 			<td>
-				 50 m 0 s
+				 49 m 21 s
 			</td>
 			<td>
 				67,0 kWh
@@ -1528,7 +1528,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				21 kW
 			</td>
 			<td>
-				 51 m 49 s
+				 51 m 10 s
 			</td>
 			<td>
 				67,7 kWh
@@ -1542,7 +1542,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				15 kW
 			</td>
 			<td>
-				 54 m 29 s
+				 53 m 50 s
 			</td>
 			<td>
 				68,4 kWh
@@ -1556,7 +1556,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				14 kW
 			</td>
 			<td>
-				 57 m 48 s
+				 57 m 8 s
 			</td>
 			<td>
 				69,2 kWh
@@ -1570,7 +1570,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				9 kW
 			</td>
 			<td>
-				1 h 1 m 58 s
+				1 h 1 m 19 s
 			</td>
 			<td>
 				69,9 kWh
@@ -1584,7 +1584,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				9 kW
 			</td>
 			<td>
-				1 h 7 m 27 s
+				1 h 6 m 48 s
 			</td>
 			<td>
 				70,7 kWh
@@ -1598,7 +1598,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				8 kW
 			</td>
 			<td>
-				1 h 13 m 16 s
+				1 h 12 m 37 s
 			</td>
 			<td>
 				71,4 kWh
@@ -1612,7 +1612,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				8 kW
 			</td>
 			<td>
-				1 h 19 m 28 s
+				1 h 18 m 49 s
 			</td>
 			<td>
 				72,2 kWh
@@ -1626,7 +1626,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				7 kW
 			</td>
 			<td>
-				1 h 26 m 5 s
+				1 h 25 m 26 s
 			</td>
 			<td>
 				72,9 kWh
@@ -1640,7 +1640,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				7 kW
 			</td>
 			<td>
-				1 h 33 m 12 s
+				1 h 32 m 33 s
 			</td>
 			<td>
 				73,7 kWh
@@ -1654,7 +1654,7 @@ MG Cyberster AWD Long Range har batterioppvarming, noe som gjør lading ved en o
 				6 kW
 			</td>
 			<td>
-				1 h 40 m 53 s
+				1 h 40 m 13 s
 			</td>
 			<td>
 				74,4 kWh
