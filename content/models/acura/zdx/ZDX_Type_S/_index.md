@@ -46,7 +46,7 @@ The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC c
 
 ### Charge Port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,15 +56,26 @@ The Acura ZDX Type S features an all-wheel drive system powered by two motors, o
 
 ### Suspension
 
-The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers.
+The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 158 mm, and the maximum is 198 mm.
+
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
 ### Steering
 
 Dynamic steering is a standard on the Acura ZDX Type S, varying the steering ratio based on driving speed for enhanced control and comfort.
 
+### Drive Modes
+
+The Acura ZDX Type S lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Snow: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- Individual: User-defined settings for steering, suspension, and throttle response.
+
 ### Brakes
 
-The Acura ZDX Type S is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 396 mm, while the rear discs are 345 mm.
+The Acura ZDX Type S is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 389 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -80,9 +91,11 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 275/40 tires on 22" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The tailgate is electrically powered.
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
-There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof option for this model. The standard roof has a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/exterior_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
@@ -90,7 +103,7 @@ There are two different roof options to select from. The standard roof has a lar
 
 ## Interior
 
-The Acura ZDX Type S boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
+The Acura ZDX Type S boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -100,17 +113,18 @@ The Acura ZDX Type S accommodates five passengers with two front seats and a thr
 
 The Acura ZDX Type S offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **16-way** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
 
@@ -124,6 +138,16 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- Height adjustable headrest (manually adjustable)
+- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
+### Interior Storage
+
+The Acura ZDX Type S provides ample interior storage solutions to enhance convenience and organization:
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
 
 ## Climate System
 
@@ -136,6 +160,9 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 ## Comfort Features
 
 The Acura ZDX Type S includes several features to enhance comfort and convenience:
+
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -158,7 +185,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Acura ZDX Type S is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -168,9 +195,18 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Acura ZDX Type S features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Acura has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- Waze
 
 ### Phone Mirroring
 
@@ -182,7 +218,7 @@ The Acura ZDX Type S comes equipped with one sound system option:
 
 - **Bang & Olufsen sound system:** Features 18 speakers and delivers a maximum output of  watts.
 
-Additionally, the model includes 5 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 
@@ -218,33 +254,54 @@ The Acura ZDX Type S features a range of standard and optional [advanced driver 
 
 ### Driving Automation
 
-With the standard  level 2 system, you get the following driving automation features.
+With the standard AcuraWatch™ 360+ level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Acura ZDX Type S is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- Knee airbags for the driver and front passenger
 
 ## Security and Access Technologies
 
 The Acura ZDX Type S is equipped with advanced security features to protect you and your vehicle. These include:
 
 - **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
+- **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 793 liters (28.0 CU FT). With the rear seat folded down, this expands to 1723 liters (60.8 CU FT).
+The trunk offers a cargo capacity of 793 liters (28.0 CU FT). With the rear seat folded down, this expands to 1723 liters (60.8 CU FT). On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+
+The vehicle’s maximum weight is 3200 kg (7055 lbs), with a base weight of 2706 kg (5966 lbs). This allows for a maximum load of 494 kg (1089 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 494kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
 ## Availability & Pricing
+
+The Acura ZDX Type S had its world premiere on 18.08.2023, with deliveries starting in March 2024. Please note that this model is available exclusively in North America.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $73 500,00 (USA)
 
 ## Alternative Models
 

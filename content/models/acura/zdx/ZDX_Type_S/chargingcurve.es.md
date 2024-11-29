@@ -175,7 +175,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,5 km (1,6 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -192,7 +192,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,3 km (1,4 mi)
 			</td>
 			<td>
 				2,1 km (1,3 mi)
@@ -209,7 +209,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				9,6 km (6,0 mi)
 			</td>
 			<td>
 				8,8 km (5,5 mi)
@@ -221,6 +221,9 @@ navicon: bi-battery-charging
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+
+
+Acura ZDX Type S tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
 
 
 {{<evkxdisplayaddarticle />}}

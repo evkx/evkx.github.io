@@ -175,7 +175,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,5 km (1,6 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -192,7 +192,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,3 km (1,4 mi)
 			</td>
 			<td>
 				2,1 km (1,3 mi)
@@ -209,7 +209,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				9,6 km (6,0 mi)
 			</td>
 			<td>
 				8,8 km (5,5 mi)
@@ -221,6 +221,9 @@ navicon: bi-battery-charging
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
+
+
+Acura ZDX Type S verfügt über eine Batterieheizung, die das Laden bei optimaler Batterietemperatur erleichtert.
 
 
 {{<evkxdisplayaddarticle />}}

@@ -175,7 +175,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,5 km (1,6 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -192,7 +192,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,3 km (1,4 mi)
 			</td>
 			<td>
 				2,1 km (1,3 mi)
@@ -209,7 +209,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				9,6 km (6,0 mi)
 			</td>
 			<td>
 				8,8 km (5,5 mi)
@@ -221,6 +221,9 @@ navicon: bi-battery-charging
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
+
+
+Acura ZDX Type S have battery heating, making charging at an optimum battery temperature easier.
 
 
 {{<evkxdisplayaddarticle />}}

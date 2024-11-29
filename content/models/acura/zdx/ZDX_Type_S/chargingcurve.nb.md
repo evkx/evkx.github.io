@@ -175,7 +175,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,5 km (1,6 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -192,7 +192,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,3 km (1,4 mi)
 			</td>
 			<td>
 				2,1 km (1,3 mi)
@@ -209,7 +209,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				9,6 km (6,0 mi)
 			</td>
 			<td>
 				8,8 km (5,5 mi)
@@ -221,6 +221,9 @@ navicon: bi-battery-charging
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+
+
+Acura ZDX Type S har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere.
 
 
 {{<evkxdisplayaddarticle />}}

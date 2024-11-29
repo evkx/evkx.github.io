@@ -175,7 +175,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,5 km (1,6 mi)
 			</td>
 			<td>
 				2,3 km (1,4 mi)
@@ -192,7 +192,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				2,3 km (1,4 mi)
 			</td>
 			<td>
 				2,1 km (1,3 mi)
@@ -209,7 +209,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				?
+				9,6 km (6,0 mi)
 			</td>
 			<td>
 				8,8 km (5,5 mi)
@@ -221,6 +221,9 @@ navicon: bi-battery-charging
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+
+
+Acura ZDX Type S dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
