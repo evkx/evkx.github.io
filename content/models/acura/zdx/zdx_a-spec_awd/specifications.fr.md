@@ -366,6 +366,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				750 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Poids maximum de la boule de remorquage
+			</td>
+			<td>
+				159 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 

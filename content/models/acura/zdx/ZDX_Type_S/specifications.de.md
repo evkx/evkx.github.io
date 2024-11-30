@@ -366,6 +366,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				750 kg (1653 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maximale Stützlast
+			</td>
+			<td>
+				159 kg (351 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

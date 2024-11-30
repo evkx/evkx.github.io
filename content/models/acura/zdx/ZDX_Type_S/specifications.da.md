@@ -366,6 +366,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				750 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maksimal trækkuglevægt
+			</td>
+			<td>
+				159 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
