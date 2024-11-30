@@ -228,10 +228,12 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 The Acura ZDX A-Spec RWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
+- **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
 - **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
 - **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
 - **Route Planning:** Plan your route and send it directly to your car's navigation system.
 
 ## Lights

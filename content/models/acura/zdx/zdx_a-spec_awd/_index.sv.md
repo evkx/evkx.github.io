@@ -228,10 +228,12 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 Acura ZDX A-Spec AWD kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
 
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
 - **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
 - **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
 - **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
 - **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
 - **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
 
 ## Ljus
