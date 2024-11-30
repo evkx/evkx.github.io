@@ -150,6 +150,12 @@ El Acura ZDX Type S ofrece amplias soluciones de almacenamiento interior para me
 - **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
 - **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
 
+### Iluminación Interior
+
+El Acura ZDX Type S ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

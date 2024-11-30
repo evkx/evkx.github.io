@@ -150,6 +150,12 @@ Der Acura ZDX Type S bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfo
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
 
+### Innenbeleuchtung
+
+Der Acura ZDX Type S bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
+
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so Ihrem Fahrerlebnis eine persönliche Note verleihen.
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

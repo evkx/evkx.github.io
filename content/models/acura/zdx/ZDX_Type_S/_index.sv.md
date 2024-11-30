@@ -150,6 +150,12 @@ Acura ZDX Type S erbjuder gott om interiörförvaringslösningar för att förb�
 - **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
 
+### Interiör Belysning
+
+Acura ZDX Type S erbjuder ett utbud av interiörbelysningsalternativ som är utformade för att skapa en behaglig atmosfär och förbättra synligheten.
+
+- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan, dörrpanelerna och fotutrymmet, vilket skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens, vilket ger en personlig touch till din körupplevelse.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

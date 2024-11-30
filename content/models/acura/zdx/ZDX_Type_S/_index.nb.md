@@ -150,6 +150,12 @@ Acura ZDX Type S gir rikelige interiørlagringsløsninger for å forbedre bekvem
 - **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
 
+### Interiørbelysning
+
+Acura ZDX Type S tilbyr et utvalg av interiørbelysningsalternativer designet for å skape en behagelig atmosfære og forbedre synligheten.
+
+- **Flerfarget Ambient Belysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og gir en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og legge til en personlig touch til kjøreopplevelsen din.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
