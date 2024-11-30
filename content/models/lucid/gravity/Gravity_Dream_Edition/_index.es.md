@@ -184,7 +184,7 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Un tipo de sistema de sonido está disponible para el Lucid Gravity Dream Edition.
 
-- Con el Surreal Sound Pro System, obtienes 22 parlantes con una salida máxima del sistema de  vatios.
+- **Surreal Sound Pro System:** Cuenta con 22 altavoces.
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

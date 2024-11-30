@@ -180,7 +180,7 @@ Der BYD Seal AWD unterstützt Android Auto und Apple CarPlay, sodass Sie den Bil
 
 Der BYD Seal AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Dynaudio Performance Audio System:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Dynaudio Performance Audio System:** Verfügt über 12 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

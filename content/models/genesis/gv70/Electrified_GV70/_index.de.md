@@ -179,7 +179,7 @@ Der Genesis Electrified GV70 unterstützt Android Auto und Apple CarPlay, sodass
 
 Der Genesis Electrified GV70 ist mit einer Soundsystemoption ausgestattet:
 
-- **Bose Premium Sound System:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bose Premium Sound System:** Verfügt über acht Lautsprecher.
 
 Das Modell verfügt standardmäßig über 4 USB-A-Anschlüsse.
 

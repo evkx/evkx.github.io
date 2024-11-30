@@ -213,7 +213,7 @@ Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsa
 
 Én type lydsystem er tilgængelig for Cadillac VISTIQ AWD.
 
-- Med AKG sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
+- **AKG sound system:** Har 23 højttalere.
 
 Modellen har 5 USB-C-forbindelser som standard.
 

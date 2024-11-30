@@ -220,7 +220,7 @@ I tillegg støtter Acura ZDX A-Spec RWD Android Auto og Apple CarPlay. Denne fun
 
 Én type lydsystem er tilgjengelig for Acura ZDX A-Spec RWD.
 
-- Med Bang & Olufsen sound system får du 18 høyttalere med en maksimal systemeffekt på  watt.
+- **Bang & Olufsen sound system:** Har 18 høyttalere.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

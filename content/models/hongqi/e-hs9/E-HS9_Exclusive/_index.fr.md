@@ -175,7 +175,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le Hongqi E-HS9 Exclusive.
 
-- Avec le Hongqi sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+- **Hongqi sound system:** Comprend 12 haut-parleurs.
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 3 connexions USB-A en standard.
 

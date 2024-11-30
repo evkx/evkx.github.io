@@ -212,7 +212,7 @@ Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsa
 
 Du kan vælge mellem to lydsystemer på Lucid Gravity Grand Touring.
 
-- Med Surreal Sound får du ti højttalere med en maksimal systemeffekt på  watt.
+- **Surreal Sound:** Har ti højttalere.
 - Med Surreal Sound Pro System får du 22 højttalere med en maksimal systemeffekt på 800 watt.
 
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.

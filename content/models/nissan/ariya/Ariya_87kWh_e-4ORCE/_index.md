@@ -176,8 +176,8 @@ The Nissan Ariya 87kWh e-4ORCE supports Android Auto and Apple CarPlay, allowing
 
 You can choose between two sound systems for the Nissan Ariya 87kWh e-4ORCE:
 
-- **DAB Audiosystem:** Features six speakers and delivers a maximum output of  watts.
-- **BOSE Premium Sound System:** Features ten speakers and delivers a maximum output of  watts.
+- **DAB Audiosystem:** Features six speakers.
+- **BOSE Premium Sound System:** Features ten speakers.
 
 ## Lights
 

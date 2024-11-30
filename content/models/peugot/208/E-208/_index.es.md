@@ -163,7 +163,7 @@ Además, el Peugot E-208 es compatible con Android Auto y Apple CarPlay. Esta fu
 
 Un tipo de sistema de sonido está disponible para el Peugot E-208.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con NULL altavoces.
 
 ## Luces
 

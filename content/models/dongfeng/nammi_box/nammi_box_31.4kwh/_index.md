@@ -179,7 +179,7 @@ The Dongfeng Nammi Box 31.4kWh features a custom-built infotainment system desig
 
 The Dongfeng Nammi Box 31.4kWh comes equipped with one sound system option:
 
-- **DongFeng Sound System:** Features four speakers and delivers a maximum output of  watts.
+- **DongFeng Sound System:** Features four speakers.
 
 The model has 1 USB-A connections as standard.
 

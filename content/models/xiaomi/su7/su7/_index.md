@@ -168,8 +168,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 You can choose between two sound systems for the Xiaomi SU7:
 
-- **Xiaomi Soundsystem:** Features ten speakers and delivers a maximum output of  watts.
-- **Xiaomi Soundsystem:** Features 25 speakers and delivers a maximum output of  watts.
+- **Xiaomi Soundsystem:** Features ten speakers.
+- **Xiaomi Soundsystem:** Features 25 speakers.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

@@ -209,8 +209,8 @@ De plus, le Hyundai IONIQ 9 AWD Performance prend en charge Android Auto et Appl
 
 Vous pouvez choisir entre deux systèmes audio sur le Hyundai IONIQ 9 AWD Performance.
 
-- Avec le Standard, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Bose Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+- **Standard:** Comprend huit haut-parleurs.
+- **Bose Premium Sound System:** Comprend 14 haut-parleurs.
 
 Le modèle dispose de 7 connexions USB-C en standard.
 

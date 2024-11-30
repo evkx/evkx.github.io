@@ -168,8 +168,8 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 Du kan välja mellan två ljudsystem på Xiaomi SU7.
 
-- Med Xiaomi Soundsystem får du tio högtalare med en maximal systemeffekt på  watt.
-- Med Xiaomi Soundsystem får du 25 högtalare med en maximal systemeffekt på  watt.
+- **Xiaomi Soundsystem:** Har tio högtalare.
+- **Xiaomi Soundsystem:** Har 25 högtalare.
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

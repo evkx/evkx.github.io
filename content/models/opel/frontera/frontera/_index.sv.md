@@ -190,8 +190,8 @@ Dessutom stöder Opel Frontera Android Auto och Apple CarPlay. Denna funktion g�
 
 Du kan välja mellan två ljudsystem på Opel Frontera.
 
-- Med  får du två högtalare med en maximal systemeffekt på  watt.
-- Med Max Sound system får du två högtalare med en maximal systemeffekt på  watt.
+- **:** Har två högtalare.
+- **Max Sound system:** Har två högtalare.
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

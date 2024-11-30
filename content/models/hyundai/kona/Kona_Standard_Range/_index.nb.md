@@ -178,7 +178,7 @@ I tillegg støtter Hyundai Kona Standard Range Android Auto og Apple CarPlay. De
 
 Én type lydsystem er tilgjengelig for Hyundai Kona Standard Range.
 
-- Med Bose Premium Sound System får du syv høyttalere med en maksimal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har syv høyttalere.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

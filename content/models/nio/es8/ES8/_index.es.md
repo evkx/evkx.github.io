@@ -197,8 +197,8 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Puedes elegir entre dos sistemas de sonido en el Nio ES8.
 
-- Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios.
-- Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+- **Surroundsystem:** Cuenta con siete altavoces.
+- **Premium sound system:** Cuenta con 12 altavoces.
 
 El modelo tiene 3 conexiones USB-A de serie.
 

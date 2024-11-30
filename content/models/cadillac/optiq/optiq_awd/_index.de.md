@@ -176,7 +176,7 @@ Der Cadillac OPTIQ AWD unterstützt Android Auto und Apple CarPlay, sodass Sie d
 
 Der Cadillac OPTIQ AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **AKG sound system:** Verfügt über 19 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **AKG sound system:** Verfügt über 19 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 

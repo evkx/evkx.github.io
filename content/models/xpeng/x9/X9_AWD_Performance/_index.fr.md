@@ -161,7 +161,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Un type de système audio est disponible pour le XPENG X9 AWD Performance.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 ## Lumières
 

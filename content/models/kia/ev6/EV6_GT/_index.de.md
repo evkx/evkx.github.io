@@ -170,8 +170,8 @@ Der Kia EV6 GT unterstützt Android Auto und Apple CarPlay, sodass Sie den Bilds
 
 Sie können zwischen zwei Soundsystemen für den Kia EV6 GT wählen:
 
-- **Standard:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Meridian Premium Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Standard:** Verfügt über sechs Lautsprecher.
+- **Meridian Premium Sound System:** Verfügt über 14 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

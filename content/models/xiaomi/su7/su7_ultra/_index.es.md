@@ -180,7 +180,7 @@ Además, el Xiaomi SU7 Ultra es compatible con Android Auto y Apple CarPlay. Est
 
 Un tipo de sistema de sonido está disponible para el Xiaomi SU7 Ultra.
 
-- Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
+- **Xiaomi Soundsystem:** Cuenta con 25 altavoces.
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

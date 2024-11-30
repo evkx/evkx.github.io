@@ -184,7 +184,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Nio ET7 comes equipped with one sound system option:
 
-- **Premium sound system:** Features 23 speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 23 speakers.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 

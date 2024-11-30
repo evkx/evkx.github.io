@@ -204,7 +204,7 @@ Dessutom stöder Lexus RZ 300e Android Auto och Apple CarPlay. Denna funktion g�
 
 Du kan välja mellan två ljudsystem på Lexus RZ 300e.
 
-- Med Standard får du tio högtalare med en maximal systemeffekt på  watt.
+- **Standard:** Har tio högtalare.
 - Med Mark Levinson Premium Surround Sound får du 13 högtalare med en maximal systemeffekt på 1800 watt.
 
 Modellen har 5 USB-C-anslutningar som standard.

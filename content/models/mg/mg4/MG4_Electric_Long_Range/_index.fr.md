@@ -162,7 +162,7 @@ De plus, le MG MG4 Electric Long Range prend en charge Android Auto et Apple Car
 
 Un type de système audio est disponible pour le MG MG4 Electric Long Range.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

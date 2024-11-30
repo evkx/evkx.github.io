@@ -182,8 +182,8 @@ Yderligere understøtter OMODA E5 Android Auto og Apple CarPlay. Denne funktiona
 
 Du kan vælge mellem to lydsystemer på OMODA E5.
 
-- Med Omoda Sound System får du seks højttalere med en maksimal systemeffekt på  watt.
-- Med Sony Sound System får du otte højttalere med en maksimal systemeffekt på  watt.
+- **Omoda Sound System:** Har seks højttalere.
+- **Sony Sound System:** Har otte højttalere.
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 

@@ -173,7 +173,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Hongqi E-HS9 Comfort comes equipped with one sound system option:
 
-- **Hongqi sound system:** Features eight speakers and delivers a maximum output of  watts.
+- **Hongqi sound system:** Features eight speakers.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 

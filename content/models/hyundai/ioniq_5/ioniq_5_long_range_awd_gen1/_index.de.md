@@ -182,7 +182,7 @@ Der Hyundai Ioniq 5 Long Range AWD (GEN1) unterstützt Android Auto und Apple Ca
 
 Der Hyundai Ioniq 5 Long Range AWD (GEN1) ist mit einer Soundsystemoption ausgestattet:
 
-- **Bose Premium Sound System:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bose Premium Sound System:** Verfügt über acht Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

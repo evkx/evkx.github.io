@@ -174,8 +174,8 @@ Der BYD Han unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschi
 
 Sie können zwischen zwei Soundsystemen für den BYD Han wählen:
 
-- **Surroundsystem:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Premium sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Surroundsystem:** Verfügt über sieben Lautsprecher.
+- **Premium sound system:** Verfügt über 12 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 5 USB-A-Anschlüsse.
 

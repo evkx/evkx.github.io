@@ -181,7 +181,7 @@ Der Hyundai INSTER Long Range unterstützt Android Auto und Apple CarPlay, sodas
 
 Der Hyundai INSTER Long Range ist mit einer Soundsystemoption ausgestattet:
 
-- **Bose Premium Sound System:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bose Premium Sound System:** Verfügt über sieben Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 

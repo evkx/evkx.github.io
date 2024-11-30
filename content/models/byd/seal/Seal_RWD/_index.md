@@ -180,7 +180,7 @@ The BYD Seal RWD supports Android Auto and Apple CarPlay, allowing you to mirror
 
 The BYD Seal RWD comes equipped with one sound system option:
 
-- **Dynaudio Performance Audio System:** Features 12 speakers and delivers a maximum output of  watts.
+- **Dynaudio Performance Audio System:** Features 12 speakers.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

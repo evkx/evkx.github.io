@@ -223,7 +223,7 @@ Yderligere understøtter Acura ZDX Type S Android Auto og Apple CarPlay. Denne f
 
 Én type lydsystem er tilgængelig for Acura ZDX Type S.
 
-- Med Bang & Olufsen sound system får du 18 højttalere med en maksimal systemeffekt på  watt.
+- **Bang & Olufsen sound system:** Har 18 højttalere.
 
 Modellen har 4 USB-C-forbindelser som standard.
 

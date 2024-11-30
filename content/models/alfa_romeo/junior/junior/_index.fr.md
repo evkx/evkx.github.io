@@ -163,7 +163,7 @@ De plus, le Alfa Romeo Junior prend en charge Android Auto et Apple CarPlay. Cet
 
 Un type de système audio est disponible pour le Alfa Romeo Junior.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 ## Lumières
 

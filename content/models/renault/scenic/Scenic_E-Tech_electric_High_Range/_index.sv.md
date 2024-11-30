@@ -177,8 +177,8 @@ Dessutom stöder Renault Scenic E-Tech electric High Range Android Auto och Appl
 
 Du kan välja mellan två ljudsystem på Renault Scenic E-Tech electric High Range.
 
-- Med DAB Audiosystem får du sex högtalare med en maximal systemeffekt på  watt.
-- Med BOSE Premium Sound System får du tio högtalare med en maximal systemeffekt på  watt.
+- **DAB Audiosystem:** Har sex högtalare.
+- **BOSE Premium Sound System:** Har tio högtalare.
 
 Modellen har 6 USB-C-anslutningar som standard.
 

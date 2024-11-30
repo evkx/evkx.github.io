@@ -188,7 +188,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der Nio ET5 ist mit einer Soundsystemoption ausgestattet:
 
-- **Premium sound system:** Verfügt über 23 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Premium sound system:** Verfügt über 23 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

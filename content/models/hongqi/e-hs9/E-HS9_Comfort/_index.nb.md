@@ -173,7 +173,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for Hongqi E-HS9 Comfort.
 
-- Med Hongqi sound system får du åtte høyttalere med en maksimal systemeffekt på  watt.
+- **Hongqi sound system:** Har åtte høyttalere.
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
 

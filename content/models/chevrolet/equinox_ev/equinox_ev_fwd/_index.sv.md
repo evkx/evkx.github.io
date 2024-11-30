@@ -205,8 +205,8 @@ Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsap
 
 Du kan välja mellan två ljudsystem på Chevrolet Equinox EV FWD.
 
-- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
-- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+- **Lyric sound system:** Har sju högtalare.
+- **Lyric sound system:** Har sju högtalare.
 
 Modellen har 4 USB-C-anslutningar som standard.
 

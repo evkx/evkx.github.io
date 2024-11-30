@@ -168,8 +168,8 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 Puedes elegir entre dos sistemas de sonido en el Xiaomi SU7 Pro.
 
-- Con el Xiaomi Soundsystem, obtienes diez parlantes con una salida máxima del sistema de  vatios.
-- Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
+- **Xiaomi Soundsystem:** Cuenta con diez altavoces.
+- **Xiaomi Soundsystem:** Cuenta con 25 altavoces.
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

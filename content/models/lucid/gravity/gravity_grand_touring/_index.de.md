@@ -212,7 +212,7 @@ Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps he
 
 Sie können zwischen zwei Soundsystemen für den Lucid Gravity Grand Touring wählen:
 
-- **Surreal Sound:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Surreal Sound:** Verfügt über zehn Lautsprecher.
 - **Surreal Sound Pro System:** Verfügt über 22 Lautsprecher und liefert eine maximale Ausgangsleistung von 800 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Optional können Sie zusätzliche 2 USB-C-Anschlüsse erhalten.

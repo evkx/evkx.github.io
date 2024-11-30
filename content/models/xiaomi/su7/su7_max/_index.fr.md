@@ -178,7 +178,7 @@ De plus, le Xiaomi SU7 Max prend en charge Android Auto et Apple CarPlay. Cette 
 
 Un type de système audio est disponible pour le Xiaomi SU7 Max.
 
-- Avec le Xiaomi Soundsystem, vous obtenez 25 haut-parleurs avec une puissance système maximale de  watts.
+- **Xiaomi Soundsystem:** Comprend 25 haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

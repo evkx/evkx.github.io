@@ -158,7 +158,7 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 Un tipo de sistema de sonido está disponible para el Aion Hyper GT 710 Supercharged.
 
-- Con el , obtienes 23 parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con 23 altavoces.
 
 El modelo tiene 1 conexiones USB-C de serie.
 

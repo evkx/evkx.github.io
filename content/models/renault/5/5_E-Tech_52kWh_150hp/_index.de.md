@@ -170,8 +170,8 @@ Der Renault 5 E-Tech 52kWh 150hp unterstützt Android Auto und Apple CarPlay, so
 
 Sie können zwischen zwei Soundsystemen für den Renault 5 E-Tech 52kWh 150hp wählen:
 
-- **DAB Audiosystem:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **BOSE Premium Sound System:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **DAB Audiosystem:** Verfügt über sechs Lautsprecher.
+- **BOSE Premium Sound System:** Verfügt über zehn Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 

@@ -167,7 +167,7 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Un tipo de sistema de sonido está disponible para el Seres 5 4WD Premium.
 
-- Con el , obtienes 11 parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con 11 altavoces.
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

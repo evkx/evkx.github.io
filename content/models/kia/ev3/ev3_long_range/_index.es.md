@@ -176,8 +176,8 @@ Además, el Kia EV3 Long Range es compatible con Android Auto y Apple CarPlay. E
 
 Puedes elegir entre dos sistemas de sonido en el Kia EV3 Long Range.
 
-- Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios.
-- Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+- **Standard:** Cuenta con seis altavoces.
+- **Meridian Premium Sound System:** Cuenta con 14 altavoces.
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

@@ -197,8 +197,8 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Du kan velge mellom to lydsystemer på Nio ES8.
 
-- Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt.
-- Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+- **Surroundsystem:** Har syv høyttalere.
+- **Premium sound system:** Har 12 høyttalere.
 
 Modellen har 3 USB-A-tilkoblinger som standard.
 

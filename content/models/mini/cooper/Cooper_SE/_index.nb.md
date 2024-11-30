@@ -149,7 +149,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Én type lydsystem er tilgjengelig for Mini Cooper SE.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL høyttalere.
 
 ## Lys
 

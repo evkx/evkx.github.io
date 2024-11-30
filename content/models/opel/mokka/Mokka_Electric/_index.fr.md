@@ -165,7 +165,7 @@ De plus, le Opel Mokka Electric prend en charge Android Auto et Apple CarPlay. C
 
 Un type de système audio est disponible pour le Opel Mokka Electric.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 ## Lumières
 

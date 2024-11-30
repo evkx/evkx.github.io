@@ -212,8 +212,8 @@ Der Cadillac LYRIQ AWD unterstützt Android Auto und Apple CarPlay, sodass Sie d
 
 Sie können zwischen zwei Soundsystemen für den Cadillac LYRIQ AWD wählen:
 
-- **Lyric sound system:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **AKG sound system:** Verfügt über 19 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Lyric sound system:** Verfügt über sieben Lautsprecher.
+- **AKG sound system:** Verfügt über 19 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 

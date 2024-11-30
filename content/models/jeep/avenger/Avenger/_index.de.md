@@ -160,7 +160,7 @@ Der Jeep Avenger unterstützt Android Auto und Apple CarPlay, sodass Sie den Bil
 
 Der Jeep Avenger ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **:** Verfügt über NULL Lautsprecher.
 
 ## Lichter
 

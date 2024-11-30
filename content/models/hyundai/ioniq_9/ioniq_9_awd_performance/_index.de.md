@@ -209,8 +209,8 @@ Der Hyundai IONIQ 9 AWD Performance unterstützt Android Auto und Apple CarPlay,
 
 Sie können zwischen zwei Soundsystemen für den Hyundai IONIQ 9 AWD Performance wählen:
 
-- **Standard:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Bose Premium Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Standard:** Verfügt über acht Lautsprecher.
+- **Bose Premium Sound System:** Verfügt über 14 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 7 USB-C-Anschlüsse.
 

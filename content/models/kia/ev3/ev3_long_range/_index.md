@@ -176,8 +176,8 @@ The Kia EV3 Long Range supports Android Auto and Apple CarPlay, allowing you to 
 
 You can choose between two sound systems for the Kia EV3 Long Range:
 
-- **Standard:** Features six speakers and delivers a maximum output of  watts.
-- **Meridian Premium Sound System:** Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features six speakers.
+- **Meridian Premium Sound System:** Features 14 speakers.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

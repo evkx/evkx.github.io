@@ -158,7 +158,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The Aion Hyper GT 710 Supercharged comes equipped with one sound system option:
 
-- **:** Features 23 speakers and delivers a maximum output of  watts.
+- **:** Features 23 speakers.
 
 Additionally, the model includes 1 USB-C connections as standard.
 

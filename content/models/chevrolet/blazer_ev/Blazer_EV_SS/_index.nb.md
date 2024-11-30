@@ -200,7 +200,7 @@ Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsap
 
 Én type lydsystem er tilgjengelig for Chevrolet Blazer EV SS.
 
-- Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har åtte høyttalere.
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 

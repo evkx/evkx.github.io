@@ -165,7 +165,7 @@ I tillegg støtter Opel Astra Sports Tourer Electric Android Auto og Apple CarPl
 
 Én type lydsystem er tilgjengelig for Opel Astra Sports Tourer Electric.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL høyttalere.
 
 Modellen har 3 USB-C-tilkoblinger som standard.
 

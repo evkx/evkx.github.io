@@ -160,7 +160,7 @@ Yderligere understøtter Jeep Avenger Android Auto og Apple CarPlay. Denne funkt
 
 Én type lydsystem er tilgængelig for Jeep Avenger.
 
-- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL højttalere.
 
 ## Lys
 

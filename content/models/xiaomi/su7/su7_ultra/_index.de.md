@@ -180,7 +180,7 @@ Der Xiaomi SU7 Ultra unterstützt Android Auto und Apple CarPlay, sodass Sie den
 
 Der Xiaomi SU7 Ultra ist mit einer Soundsystemoption ausgestattet:
 
-- **Xiaomi Soundsystem:** Verfügt über 25 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Xiaomi Soundsystem:** Verfügt über 25 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

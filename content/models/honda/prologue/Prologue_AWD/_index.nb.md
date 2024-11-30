@@ -175,7 +175,7 @@ I tillegg støtter Honda Prologue AWD Android Auto og Apple CarPlay. Denne funks
 
 Én type lydsystem er tilgjengelig for Honda Prologue AWD.
 
-- Med Bose premium audio system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+- **Bose premium audio system:** Har 12 høyttalere.
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 

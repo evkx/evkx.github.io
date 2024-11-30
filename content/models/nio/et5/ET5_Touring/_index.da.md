@@ -188,7 +188,7 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 Én type lydsystem er tilgængelig for Nio ET5 Touring.
 
-- Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
+- **Premium sound system:** Har 23 højttalere.
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

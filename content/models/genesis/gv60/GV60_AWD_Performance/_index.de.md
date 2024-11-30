@@ -179,7 +179,7 @@ Der Genesis GV60 AWD Performance unterstützt Android Auto und Apple CarPlay, so
 
 Der Genesis GV60 AWD Performance ist mit einer Soundsystemoption ausgestattet:
 
-- **Bose Premium Sound System:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bose Premium Sound System:** Verfügt über acht Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

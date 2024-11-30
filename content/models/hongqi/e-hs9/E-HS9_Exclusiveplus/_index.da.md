@@ -176,7 +176,7 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 Én type lydsystem er tilgængelig for Hongqi E-HS9 Exclusive+.
 
-- Med Hongqi sound system får du 16 højttalere med en maksimal systemeffekt på  watt.
+- **Hongqi sound system:** Har 16 højttalere.
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 3 USB-A-forbindelser som standard.
 

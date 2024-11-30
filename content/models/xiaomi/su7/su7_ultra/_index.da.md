@@ -180,7 +180,7 @@ Yderligere understøtter Xiaomi SU7 Ultra Android Auto og Apple CarPlay. Denne f
 
 Én type lydsystem er tilgængelig for Xiaomi SU7 Ultra.
 
-- Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
+- **Xiaomi Soundsystem:** Har 25 højttalere.
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

@@ -179,7 +179,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The BYD Atto 3 comes equipped with one sound system option:
 
-- **Dirac:** Features eight speakers and delivers a maximum output of  watts.
+- **Dirac:** Features eight speakers.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 

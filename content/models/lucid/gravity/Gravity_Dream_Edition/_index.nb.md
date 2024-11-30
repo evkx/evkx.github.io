@@ -184,7 +184,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for Lucid Gravity Dream Edition.
 
-- Med Surreal Sound Pro System får du 22 høyttalere med en maksimal systemeffekt på  watt.
+- **Surreal Sound Pro System:** Har 22 høyttalere.
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

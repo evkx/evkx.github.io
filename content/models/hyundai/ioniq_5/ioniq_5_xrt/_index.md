@@ -175,7 +175,7 @@ The Hyundai Ioniq 5 XRT supports Android Auto and Apple CarPlay, allowing you to
 
 The Hyundai Ioniq 5 XRT comes equipped with one sound system option:
 
-- **Bose Premium Sound System:** Features eight speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features eight speakers.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

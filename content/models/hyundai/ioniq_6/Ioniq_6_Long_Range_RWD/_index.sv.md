@@ -174,7 +174,7 @@ Dessutom stöder Hyundai Ioniq 6 Long Range RWD Android Auto och Apple CarPlay. 
 
 En typ av ljudsystem är tillgänglig för Hyundai Ioniq 6 Long Range RWD.
 
-- Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har åtta högtalare.
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

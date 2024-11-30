@@ -200,7 +200,7 @@ Le système d'infodivertissement comprend un App Store où vous pouvez télécha
 
 Un type de système audio est disponible pour le Chevrolet Blazer EV RS AWD.
 
-- Avec le Chevrolet sound system, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+- **Chevrolet sound system:** Comprend six haut-parleurs.
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

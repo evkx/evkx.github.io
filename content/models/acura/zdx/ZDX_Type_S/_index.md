@@ -223,7 +223,7 @@ The Acura ZDX Type S supports Android Auto and Apple CarPlay, allowing you to mi
 
 The Acura ZDX Type S comes equipped with one sound system option:
 
-- **Bang & Olufsen sound system:** Features 18 speakers and delivers a maximum output of  watts.
+- **Bang & Olufsen sound system:** Features 18 speakers.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

@@ -165,7 +165,7 @@ Además, el MG MG5 Electric Long Range es compatible con Android Auto y Apple Ca
 
 Un tipo de sistema de sonido está disponible para el MG MG5 Electric Long Range.
 
-- Con el , obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con seis altavoces.
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

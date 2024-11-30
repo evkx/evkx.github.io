@@ -174,8 +174,8 @@ Además, el BYD Han es compatible con Android Auto y Apple CarPlay. Esta funcion
 
 Puedes elegir entre dos sistemas de sonido en el BYD Han.
 
-- Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios.
-- Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+- **Surroundsystem:** Cuenta con siete altavoces.
+- **Premium sound system:** Cuenta con 12 altavoces.
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 5 conexiones USB-A de serie.
 

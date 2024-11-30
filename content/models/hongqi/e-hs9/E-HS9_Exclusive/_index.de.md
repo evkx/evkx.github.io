@@ -175,7 +175,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der Hongqi E-HS9 Exclusive ist mit einer Soundsystemoption ausgestattet:
 
-- **Hongqi sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Hongqi sound system:** Verfügt über 12 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 3 USB-A-Anschlüsse.
 

@@ -173,7 +173,7 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Un tipo de sistema de sonido está disponible para el Hongqi E-HS9 Comfort.
 
-- Con el Hongqi sound system, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+- **Hongqi sound system:** Cuenta con ocho altavoces.
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
 

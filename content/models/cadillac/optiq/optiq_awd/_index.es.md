@@ -176,7 +176,7 @@ Además, el Cadillac OPTIQ AWD es compatible con Android Auto y Apple CarPlay. E
 
 Un tipo de sistema de sonido está disponible para el Cadillac OPTIQ AWD.
 
-- Con el AKG sound system, obtienes 19 parlantes con una salida máxima del sistema de  vatios.
+- **AKG sound system:** Cuenta con 19 altavoces.
 
 El modelo tiene 5 conexiones USB-C de serie.
 

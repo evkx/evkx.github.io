@@ -164,7 +164,7 @@ Además, el MG MG4 Electric XPOWER es compatible con Android Auto y Apple CarPla
 
 Un tipo de sistema de sonido está disponible para el MG MG4 Electric XPOWER.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con NULL altavoces.
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

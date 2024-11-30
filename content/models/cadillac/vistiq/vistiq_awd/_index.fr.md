@@ -213,7 +213,7 @@ Le système d'infodivertissement comprend un App Store où vous pouvez télécha
 
 Un type de système audio est disponible pour le Cadillac VISTIQ AWD.
 
-- Avec le AKG sound system, vous obtenez 23 haut-parleurs avec une puissance système maximale de  watts.
+- **AKG sound system:** Comprend 23 haut-parleurs.
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

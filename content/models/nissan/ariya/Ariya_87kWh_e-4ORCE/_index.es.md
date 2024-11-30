@@ -176,8 +176,8 @@ Además, el Nissan Ariya 87kWh e-4ORCE es compatible con Android Auto y Apple Ca
 
 Puedes elegir entre dos sistemas de sonido en el Nissan Ariya 87kWh e-4ORCE.
 
-- Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios.
-- Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+- **DAB Audiosystem:** Cuenta con seis altavoces.
+- **BOSE Premium Sound System:** Cuenta con diez altavoces.
 
 ## Luces
 

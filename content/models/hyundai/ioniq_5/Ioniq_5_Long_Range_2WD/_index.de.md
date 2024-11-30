@@ -182,7 +182,7 @@ Der Hyundai Ioniq 5 Long Range 2WD unterstützt Android Auto und Apple CarPlay, 
 
 Der Hyundai Ioniq 5 Long Range 2WD ist mit einer Soundsystemoption ausgestattet:
 
-- **Bose Premium Sound System:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bose Premium Sound System:** Verfügt über acht Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

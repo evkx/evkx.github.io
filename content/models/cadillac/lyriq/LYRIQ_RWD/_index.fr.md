@@ -211,8 +211,8 @@ De plus, le Cadillac LYRIQ RWD prend en charge Android Auto et Apple CarPlay. Ce
 
 Vous pouvez choisir entre deux systèmes audio sur le Cadillac LYRIQ RWD.
 
-- Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
-- Avec le AKG sound system, vous obtenez 19 haut-parleurs avec une puissance système maximale de  watts.
+- **Lyric sound system:** Comprend sept haut-parleurs.
+- **AKG sound system:** Comprend 19 haut-parleurs.
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

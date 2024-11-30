@@ -165,7 +165,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for BYD Seagull 38kWh.
 
-- Med Dirac får du åtte høyttalere med en maksimal systemeffekt på  watt.
+- **Dirac:** Har åtte høyttalere.
 
 Modellen har 1 USB-A-tilkoblinger som standard.
 

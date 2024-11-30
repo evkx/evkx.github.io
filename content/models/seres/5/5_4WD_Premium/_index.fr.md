@@ -167,7 +167,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le Seres 5 4WD Premium.
 
-- Avec le , vous obtenez 11 haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend 11 haut-parleurs.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

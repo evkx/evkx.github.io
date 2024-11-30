@@ -200,7 +200,7 @@ El sistema de infoentretenimiento incluye una App Store donde puedes descargar a
 
 Un tipo de sistema de sonido está disponible para el Chevrolet Blazer EV SS.
 
-- Con el Bose Premium Sound System, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+- **Bose Premium Sound System:** Cuenta con ocho altavoces.
 
 El modelo tiene 5 conexiones USB-C de serie.
 

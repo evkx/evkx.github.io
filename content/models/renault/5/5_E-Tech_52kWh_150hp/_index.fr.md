@@ -170,8 +170,8 @@ De plus, le Renault 5 E-Tech 52kWh 150hp prend en charge Android Auto et Apple C
 
 Vous pouvez choisir entre deux systèmes audio sur le Renault 5 E-Tech 52kWh 150hp.
 
-- Avec le DAB Audiosystem, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
-- Avec le BOSE Premium Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
+- **DAB Audiosystem:** Comprend six haut-parleurs.
+- **BOSE Premium Sound System:** Comprend dix haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

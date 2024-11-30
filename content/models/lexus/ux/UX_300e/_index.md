@@ -184,8 +184,8 @@ The Lexus UX 300e supports Android Auto and Apple CarPlay, allowing you to mirro
 
 You can choose between two sound systems for the Lexus UX 300e:
 
-- **Standard:** Features 14 speakers and delivers a maximum output of  watts.
-- **Mark Levinson Premium Surround Sound:** Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features 14 speakers.
+- **Mark Levinson Premium Surround Sound:** Features 14 speakers.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

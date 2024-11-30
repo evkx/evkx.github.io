@@ -179,7 +179,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der BYD Atto 3 ist mit einer Soundsystemoption ausgestattet:
 
-- **Dirac:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Dirac:** Verfügt über acht Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
 

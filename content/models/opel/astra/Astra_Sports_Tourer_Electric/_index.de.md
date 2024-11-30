@@ -165,7 +165,7 @@ Der Opel Astra Sports Tourer Electric unterstützt Android Auto und Apple CarPla
 
 Der Opel Astra Sports Tourer Electric ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **:** Verfügt über NULL Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse.
 

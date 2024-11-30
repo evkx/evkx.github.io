@@ -175,8 +175,8 @@ De plus, le Renault Scenic E-Tech electric prend en charge Android Auto et Apple
 
 Vous pouvez choisir entre deux systèmes audio sur le Renault Scenic E-Tech electric.
 
-- Avec le DAB Audiosystem, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
-- Avec le BOSE Premium Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
+- **DAB Audiosystem:** Comprend six haut-parleurs.
+- **BOSE Premium Sound System:** Comprend dix haut-parleurs.
 
 Le modèle dispose de 6 connexions USB-C en standard.
 

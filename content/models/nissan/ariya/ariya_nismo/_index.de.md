@@ -173,8 +173,8 @@ Der Nissan Ariya NISMO unterstützt Android Auto und Apple CarPlay, sodass Sie d
 
 Sie können zwischen zwei Soundsystemen für den Nissan Ariya NISMO wählen:
 
-- **DAB Audiosystem:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **BOSE Premium Sound System:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **DAB Audiosystem:** Verfügt über sechs Lautsprecher.
+- **BOSE Premium Sound System:** Verfügt über zehn Lautsprecher.
 
 ## Mobile App
 

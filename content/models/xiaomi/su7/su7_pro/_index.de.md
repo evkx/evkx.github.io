@@ -168,8 +168,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Sie können zwischen zwei Soundsystemen für den Xiaomi SU7 Pro wählen:
 
-- **Xiaomi Soundsystem:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Xiaomi Soundsystem:** Verfügt über 25 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Xiaomi Soundsystem:** Verfügt über zehn Lautsprecher.
+- **Xiaomi Soundsystem:** Verfügt über 25 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

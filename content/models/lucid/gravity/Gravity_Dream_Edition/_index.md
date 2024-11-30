@@ -184,7 +184,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Lucid Gravity Dream Edition comes equipped with one sound system option:
 
-- **Surreal Sound Pro System:** Features 22 speakers and delivers a maximum output of  watts.
+- **Surreal Sound Pro System:** Features 22 speakers.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

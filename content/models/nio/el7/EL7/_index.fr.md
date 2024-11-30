@@ -192,7 +192,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le Nio EL7.
 
-- Avec le Premium sound system, vous obtenez 23 haut-parleurs avec une puissance système maximale de  watts.
+- **Premium sound system:** Comprend 23 haut-parleurs.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

@@ -197,8 +197,8 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Sie können zwischen zwei Soundsystemen für den Nio ES8 wählen:
 
-- **Surroundsystem:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Premium sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Surroundsystem:** Verfügt über sieben Lautsprecher.
+- **Premium sound system:** Verfügt über 12 Lautsprecher.
 
 Das Modell verfügt standardmäßig über 3 USB-A-Anschlüsse.
 

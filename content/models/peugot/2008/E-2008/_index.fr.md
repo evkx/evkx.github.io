@@ -161,7 +161,7 @@ De plus, le Peugot E-2008 prend en charge Android Auto et Apple CarPlay. Cette f
 
 Un type de système audio est disponible pour le Peugot E-2008.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 ## Lumières
 

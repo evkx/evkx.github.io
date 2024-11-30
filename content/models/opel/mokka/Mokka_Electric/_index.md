@@ -165,7 +165,7 @@ The Opel Mokka Electric supports Android Auto and Apple CarPlay, allowing you to
 
 The Opel Mokka Electric comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers.
 
 ## Lights
 

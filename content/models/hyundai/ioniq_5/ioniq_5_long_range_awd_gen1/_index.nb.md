@@ -182,7 +182,7 @@ I tillegg støtter Hyundai Ioniq 5 Long Range AWD (GEN1) Android Auto og Apple C
 
 Én type lydsystem er tilgjengelig for Hyundai Ioniq 5 Long Range AWD (GEN1).
 
-- Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har åtte høyttalere.
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

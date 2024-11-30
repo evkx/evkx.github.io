@@ -220,7 +220,7 @@ Además, el Acura ZDX A-Spec RWD es compatible con Android Auto y Apple CarPlay.
 
 Un tipo de sistema de sonido está disponible para el Acura ZDX A-Spec RWD.
 
-- Con el Bang & Olufsen sound system, obtienes 18 parlantes con una salida máxima del sistema de  vatios.
+- **Bang & Olufsen sound system:** Cuenta con 18 altavoces.
 
 El modelo tiene 4 conexiones USB-C de serie.
 

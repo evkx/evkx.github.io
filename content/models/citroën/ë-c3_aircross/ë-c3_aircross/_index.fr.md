@@ -200,8 +200,8 @@ De plus, le Citroën ë-C3 Aircross prend en charge Android Auto et Apple CarPla
 
 Vous pouvez choisir entre deux systèmes audio sur le Citroën ë-C3 Aircross.
 
-- Avec le , vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Max Sound system, vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend deux haut-parleurs.
+- **Max Sound system:** Comprend deux haut-parleurs.
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

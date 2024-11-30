@@ -158,7 +158,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Én type lydsystem er tilgjengelig for Aion Hyper GT 710 Supercharged.
 
-- Med  får du 23 høyttalere med en maksimal systemeffekt på  watt.
+- **:** Har 23 høyttalere.
 
 Modellen har 1 USB-C-tilkoblinger som standard.
 

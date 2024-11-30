@@ -150,7 +150,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 En typ av ljudsystem är tillgänglig för XPENG G3i.
 
-- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+- **:** Har NULL högtalare.
 
 Modellen har 4 USB-A-anslutningar som standard.
 

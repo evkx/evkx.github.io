@@ -165,7 +165,7 @@ Der Fiat 600e unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildsc
 
 Der Fiat 600e ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **:** Verfügt über NULL Lautsprecher.
 
 Das Modell verfügt standardmäßig über 3 USB-A-Anschlüsse.
 

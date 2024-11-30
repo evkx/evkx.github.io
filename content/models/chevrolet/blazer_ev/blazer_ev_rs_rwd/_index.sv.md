@@ -200,7 +200,7 @@ Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsap
 
 En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV RS RWD.
 
-- Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har åtta högtalare.
 
 Modellen har 5 USB-C-anslutningar som standard.
 

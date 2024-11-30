@@ -162,7 +162,7 @@ I tillegg støtter MG MG4 Electric Extended Range Android Auto og Apple CarPlay.
 
 Én type lydsystem er tilgjengelig for MG MG4 Electric Extended Range.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL høyttalere.
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

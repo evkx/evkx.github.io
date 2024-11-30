@@ -165,7 +165,7 @@ De plus, le Opel Astra Sports Tourer Electric prend en charge Android Auto et Ap
 
 Un type de système audio est disponible pour le Opel Astra Sports Tourer Electric.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 Le modèle dispose de 3 connexions USB-C en standard.
 

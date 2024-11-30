@@ -200,7 +200,7 @@ The infotainment system includes an App Store where you can download third-party
 
 The Chevrolet Blazer EV RS AWD comes equipped with one sound system option:
 
-- **Chevrolet sound system:** Features six speakers and delivers a maximum output of  watts.
+- **Chevrolet sound system:** Features six speakers.
 
 Additionally, the model includes 5 USB-C connections as standard.
 

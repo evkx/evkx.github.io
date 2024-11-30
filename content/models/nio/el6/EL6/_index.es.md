@@ -192,7 +192,7 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Un tipo de sistema de sonido está disponible para el Nio EL6.
 
-- Con el Premium sound system, obtienes 23 parlantes con una salida máxima del sistema de  vatios.
+- **Premium sound system:** Cuenta con 23 altavoces.
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

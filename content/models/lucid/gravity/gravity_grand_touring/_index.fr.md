@@ -212,7 +212,7 @@ Le système d'infodivertissement comprend un App Store où vous pouvez télécha
 
 Vous pouvez choisir entre deux systèmes audio sur le Lucid Gravity Grand Touring.
 
-- Avec le Surreal Sound, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
+- **Surreal Sound:** Comprend dix haut-parleurs.
 - Avec le Surreal Sound Pro System, vous obtenez 22 haut-parleurs avec une puissance système maximale de 800 watts.
 
 Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.

@@ -205,8 +205,8 @@ Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps he
 
 Sie können zwischen zwei Soundsystemen für den Chevrolet Equinox EV AWD wählen:
 
-- **Lyric sound system:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Lyric sound system:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Lyric sound system:** Verfügt über sieben Lautsprecher.
+- **Lyric sound system:** Verfügt über sieben Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 

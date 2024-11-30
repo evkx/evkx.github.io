@@ -220,7 +220,7 @@ Der Acura ZDX A-Spec AWD unterstützt Android Auto und Apple CarPlay, sodass Sie
 
 Der Acura ZDX A-Spec AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Bang & Olufsen sound system:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bang & Olufsen sound system:** Verfügt über 18 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 

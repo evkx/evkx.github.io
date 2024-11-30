@@ -205,8 +205,8 @@ Le système d'infodivertissement comprend un App Store où vous pouvez télécha
 
 Vous pouvez choisir entre deux systèmes audio sur le Chevrolet Equinox EV AWD.
 
-- Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+- **Lyric sound system:** Comprend sept haut-parleurs.
+- **Lyric sound system:** Comprend sept haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

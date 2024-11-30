@@ -213,7 +213,7 @@ Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps he
 
 Der Cadillac VISTIQ AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **AKG sound system:** Verfügt über 23 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **AKG sound system:** Verfügt über 23 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 

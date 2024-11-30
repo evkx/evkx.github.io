@@ -150,7 +150,7 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 Én type lydsystem er tilgængelig for XPENG G3i.
 
-- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL højttalere.
 
 Modellen har 4 USB-A-forbindelser som standard.
 

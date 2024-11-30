@@ -178,8 +178,8 @@ I tillegg støtter Renault Megane E-Tech Techno Android Auto og Apple CarPlay. D
 
 Du kan velge mellom to lydsystemer på Renault Megane E-Tech Techno.
 
-- Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt.
-- Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt.
+- **DAB Audiosystem:** Har seks høyttalere.
+- **BOSE Premium Sound System:** Har ti høyttalere.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

@@ -192,7 +192,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 En typ av ljudsystem är tillgänglig för Nio EL7.
 
-- Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
+- **Premium sound system:** Har 23 högtalare.
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 

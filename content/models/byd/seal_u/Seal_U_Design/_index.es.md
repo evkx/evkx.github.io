@@ -177,7 +177,7 @@ Además, el BYD Seal U Design es compatible con Android Auto y Apple CarPlay. Es
 
 Un tipo de sistema de sonido está disponible para el BYD Seal U Design.
 
-- Con el Dynaudio Performance Audio System, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+- **Dynaudio Performance Audio System:** Cuenta con 12 altavoces.
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

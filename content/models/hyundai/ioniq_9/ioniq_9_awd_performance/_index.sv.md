@@ -209,8 +209,8 @@ Dessutom stöder Hyundai IONIQ 9 AWD Performance Android Auto och Apple CarPlay.
 
 Du kan välja mellan två ljudsystem på Hyundai IONIQ 9 AWD Performance.
 
-- Med Standard får du åtta högtalare med en maximal systemeffekt på  watt.
-- Med Bose Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+- **Standard:** Har åtta högtalare.
+- **Bose Premium Sound System:** Har 14 högtalare.
 
 Modellen har 7 USB-C-anslutningar som standard.
 

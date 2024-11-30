@@ -182,8 +182,8 @@ Der OMODA E5 unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildsch
 
 Sie können zwischen zwei Soundsystemen für den OMODA E5 wählen:
 
-- **Omoda Sound System:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Sony Sound System:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Omoda Sound System:** Verfügt über sechs Lautsprecher.
+- **Sony Sound System:** Verfügt über acht Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
 

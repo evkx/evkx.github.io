@@ -184,8 +184,8 @@ De plus, le Lexus UX 300e prend en charge Android Auto et Apple CarPlay. Cette f
 
 Vous pouvez choisir entre deux systèmes audio sur le Lexus UX 300e.
 
-- Avec le Standard, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Mark Levinson Premium Surround Sound, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+- **Standard:** Comprend 14 haut-parleurs.
+- **Mark Levinson Premium Surround Sound:** Comprend 14 haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

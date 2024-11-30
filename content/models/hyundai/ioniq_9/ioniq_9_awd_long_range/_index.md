@@ -209,8 +209,8 @@ The Hyundai IONIQ 9 AWD Long Range supports Android Auto and Apple CarPlay, allo
 
 You can choose between two sound systems for the Hyundai IONIQ 9 AWD Long Range:
 
-- **Standard:** Features eight speakers and delivers a maximum output of  watts.
-- **Bose Premium Sound System:** Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features eight speakers.
+- **Bose Premium Sound System:** Features 14 speakers.
 
 Additionally, the model includes 7 USB-C connections as standard.
 

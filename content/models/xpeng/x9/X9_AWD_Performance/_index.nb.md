@@ -161,7 +161,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Én type lydsystem er tilgjengelig for XPENG X9 AWD Performance.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL høyttalere.
 
 ## Lys
 

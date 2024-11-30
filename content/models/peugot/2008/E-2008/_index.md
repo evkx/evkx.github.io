@@ -161,7 +161,7 @@ The Peugot E-2008 supports Android Auto and Apple CarPlay, allowing you to mirro
 
 The Peugot E-2008 comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers.
 
 ## Lights
 

@@ -183,7 +183,7 @@ The VinFast VF8 Plus supports Android Auto and Apple CarPlay, allowing you to mi
 
 The VinFast VF8 Plus comes equipped with one sound system option:
 
-- **:** Features 11 speakers and delivers a maximum output of  watts.
+- **:** Features 11 speakers.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
 

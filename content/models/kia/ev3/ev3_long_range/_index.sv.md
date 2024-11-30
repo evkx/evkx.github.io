@@ -176,8 +176,8 @@ Dessutom stöder Kia EV3 Long Range Android Auto och Apple CarPlay. Denna funkti
 
 Du kan välja mellan två ljudsystem på Kia EV3 Long Range.
 
-- Med Standard får du sex högtalare med en maximal systemeffekt på  watt.
-- Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+- **Standard:** Har sex högtalare.
+- **Meridian Premium Sound System:** Har 14 högtalare.
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

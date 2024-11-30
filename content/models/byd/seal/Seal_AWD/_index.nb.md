@@ -180,7 +180,7 @@ I tillegg støtter BYD Seal AWD Android Auto og Apple CarPlay. Denne funksjonali
 
 Én type lydsystem er tilgjengelig for BYD Seal AWD.
 
-- Med Dynaudio Performance Audio System får du 12 høyttalere med en maksimal systemeffekt på  watt.
+- **Dynaudio Performance Audio System:** Har 12 høyttalere.
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

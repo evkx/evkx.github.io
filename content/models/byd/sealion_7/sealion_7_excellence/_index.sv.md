@@ -194,7 +194,7 @@ Dessutom stöder BYD Sealion 7 Excellence Android Auto och Apple CarPlay. Denna 
 
 En typ av ljudsystem är tillgänglig för BYD Sealion 7 Excellence.
 
-- Med Dynaudio Performance Audio System får du 12 högtalare med en maximal systemeffekt på  watt.
+- **Dynaudio Performance Audio System:** Har 12 högtalare.
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

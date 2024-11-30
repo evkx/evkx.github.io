@@ -149,7 +149,7 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 En typ av ljudsystem är tillgänglig för Mini Cooper SE.
 
-- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+- **:** Har NULL högtalare.
 
 ## Ljus
 

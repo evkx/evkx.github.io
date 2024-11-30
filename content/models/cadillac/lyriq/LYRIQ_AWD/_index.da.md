@@ -212,8 +212,8 @@ Yderligere understøtter Cadillac LYRIQ AWD Android Auto og Apple CarPlay. Denne
 
 Du kan vælge mellem to lydsystemer på Cadillac LYRIQ AWD.
 
-- Med Lyric sound system får du syv højttalere med en maksimal systemeffekt på  watt.
-- Med AKG sound system får du 19 højttalere med en maksimal systemeffekt på  watt.
+- **Lyric sound system:** Har syv højttalere.
+- **AKG sound system:** Har 19 højttalere.
 
 Modellen har 5 USB-C-forbindelser som standard.
 

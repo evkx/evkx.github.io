@@ -179,7 +179,7 @@ Dongfeng Nammi Box 31.4kWh har ett specialbyggt infotainmentsystem som är utfor
 
 En typ av ljudsystem är tillgänglig för Dongfeng Nammi Box 31.4kWh.
 
-- Med DongFeng Sound System får du fyra högtalare med en maximal systemeffekt på  watt.
+- **DongFeng Sound System:** Har fyra högtalare.
 
 Modellen har 1 USB-A-anslutningar som standard.
 

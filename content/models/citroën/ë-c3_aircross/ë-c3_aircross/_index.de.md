@@ -200,8 +200,8 @@ Der Citroën ë-C3 Aircross unterstützt Android Auto und Apple CarPlay, sodass 
 
 Sie können zwischen zwei Soundsystemen für den Citroën ë-C3 Aircross wählen:
 
-- **:** Verfügt über zwei Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **Max Sound system:** Verfügt über zwei Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **:** Verfügt über zwei Lautsprecher.
+- **Max Sound system:** Verfügt über zwei Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Optional können Sie zusätzliche 2 USB-C-Anschlüsse erhalten.
 

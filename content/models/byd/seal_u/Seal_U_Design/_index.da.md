@@ -177,7 +177,7 @@ Yderligere understøtter BYD Seal U Design Android Auto og Apple CarPlay. Denne 
 
 Én type lydsystem er tilgængelig for BYD Seal U Design.
 
-- Med Dynaudio Performance Audio System får du 12 højttalere med en maksimal systemeffekt på  watt.
+- **Dynaudio Performance Audio System:** Har 12 højttalere.
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

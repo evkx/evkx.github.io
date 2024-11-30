@@ -149,7 +149,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Un type de système audio est disponible pour le Mini Cooper SE.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 ## Lumières
 

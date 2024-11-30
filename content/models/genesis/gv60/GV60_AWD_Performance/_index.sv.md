@@ -179,7 +179,7 @@ Dessutom stöder Genesis GV60 AWD Performance Android Auto och Apple CarPlay. De
 
 En typ av ljudsystem är tillgänglig för Genesis GV60 AWD Performance.
 
-- Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har åtta högtalare.
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

@@ -162,7 +162,7 @@ De plus, le MG MG4 Electric Standard prend en charge Android Auto et Apple CarPl
 
 Un type de système audio est disponible pour le MG MG4 Electric Standard.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

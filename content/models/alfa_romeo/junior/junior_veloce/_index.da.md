@@ -163,7 +163,7 @@ Yderligere understøtter Alfa Romeo Junior Veloce Android Auto og Apple CarPlay.
 
 Én type lydsystem er tilgængelig for Alfa Romeo Junior Veloce.
 
-- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+- **:** Har NULL højttalere.
 
 ## Lys
 

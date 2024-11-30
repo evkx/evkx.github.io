@@ -170,7 +170,7 @@ Dessutom stöder Peugot E-308 Android Auto och Apple CarPlay. Denna funktion gö
 
 En typ av ljudsystem är tillgänglig för Peugot E-308.
 
-- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+- **:** Har NULL högtalare.
 
 Modellen har 3 USB-C-anslutningar som standard.
 

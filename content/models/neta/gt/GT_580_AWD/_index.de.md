@@ -147,7 +147,7 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 Der Neta GT 580 AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Neta Sky sound:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Neta Sky sound:** Verfügt über 12 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

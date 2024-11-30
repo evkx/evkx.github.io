@@ -163,7 +163,7 @@ Además, el Alfa Romeo Junior Veloce es compatible con Android Auto y Apple CarP
 
 Un tipo de sistema de sonido está disponible para el Alfa Romeo Junior Veloce.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con NULL altavoces.
 
 ## Luces
 

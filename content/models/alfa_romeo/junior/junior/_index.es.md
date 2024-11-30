@@ -163,7 +163,7 @@ Además, el Alfa Romeo Junior es compatible con Android Auto y Apple CarPlay. Es
 
 Un tipo de sistema de sonido está disponible para el Alfa Romeo Junior.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con NULL altavoces.
 
 ## Luces
 

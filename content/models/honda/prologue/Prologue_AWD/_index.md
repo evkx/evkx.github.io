@@ -175,7 +175,7 @@ The Honda Prologue AWD supports Android Auto and Apple CarPlay, allowing you to 
 
 The Honda Prologue AWD comes equipped with one sound system option:
 
-- **Bose premium audio system:** Features 12 speakers and delivers a maximum output of  watts.
+- **Bose premium audio system:** Features 12 speakers.
 
 Additionally, the model includes 5 USB-C connections as standard.
 

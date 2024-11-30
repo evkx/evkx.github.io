@@ -182,8 +182,8 @@ Además, el OMODA E5 es compatible con Android Auto y Apple CarPlay. Esta funcio
 
 Puedes elegir entre dos sistemas de sonido en el OMODA E5.
 
-- Con el Omoda Sound System, obtienes seis parlantes con una salida máxima del sistema de  vatios.
-- Con el Sony Sound System, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+- **Omoda Sound System:** Cuenta con seis altavoces.
+- **Sony Sound System:** Cuenta con ocho altavoces.
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

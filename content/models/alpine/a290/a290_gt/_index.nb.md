@@ -172,8 +172,8 @@ I tillegg støtter Alpine A290 GT Android Auto og Apple CarPlay. Denne funksjona
 
 Du kan velge mellom to lydsystemer på Alpine A290 GT.
 
-- Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt.
-- Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt.
+- **DAB Audiosystem:** Har seks høyttalere.
+- **BOSE Premium Sound System:** Har ti høyttalere.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

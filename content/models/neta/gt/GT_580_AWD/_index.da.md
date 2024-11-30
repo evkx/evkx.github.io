@@ -147,7 +147,7 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 Én type lydsystem er tilgængelig for Neta GT 580 AWD.
 
-- Med Neta Sky sound får du 12 højttalere med en maksimal systemeffekt på  watt.
+- **Neta Sky sound:** Har 12 højttalere.
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

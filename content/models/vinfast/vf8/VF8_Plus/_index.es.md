@@ -183,7 +183,7 @@ Además, el VinFast VF8 Plus es compatible con Android Auto y Apple CarPlay. Est
 
 Un tipo de sistema de sonido está disponible para el VinFast VF8 Plus.
 
-- Con el , obtienes 11 parlantes con una salida máxima del sistema de  vatios.
+- **:** Cuenta con 11 altavoces.
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 4 conexiones USB-A de serie.
 

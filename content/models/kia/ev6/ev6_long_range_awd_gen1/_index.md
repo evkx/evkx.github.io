@@ -182,8 +182,8 @@ The Kia EV6 Long Range AWD (GEN1) supports Android Auto and Apple CarPlay, allow
 
 You can choose between two sound systems for the Kia EV6 Long Range AWD (GEN1):
 
-- **Standard:** Features six speakers and delivers a maximum output of  watts.
-- **Meridian Premium Sound System:** Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features six speakers.
+- **Meridian Premium Sound System:** Features 14 speakers.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

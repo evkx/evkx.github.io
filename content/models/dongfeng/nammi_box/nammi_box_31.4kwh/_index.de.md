@@ -179,7 +179,7 @@ Das Dongfeng Nammi Box 31.4kWh verfügt über ein maßgeschneidertes Infotainmen
 
 Der Dongfeng Nammi Box 31.4kWh ist mit einer Soundsystemoption ausgestattet:
 
-- **DongFeng Sound System:** Verfügt über vier Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **DongFeng Sound System:** Verfügt über vier Lautsprecher.
 
 Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

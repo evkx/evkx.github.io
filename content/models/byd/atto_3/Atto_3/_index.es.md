@@ -179,7 +179,7 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 Un tipo de sistema de sonido está disponible para el BYD Atto 3.
 
-- Con el Dirac, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+- **Dirac:** Cuenta con ocho altavoces.
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

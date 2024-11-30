@@ -165,7 +165,7 @@ De plus, le Fiat 600e prend en charge Android Auto et Apple CarPlay. Cette fonct
 
 Un type de système audio est disponible pour le Fiat 600e.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 Le modèle dispose de 3 connexions USB-A en standard.
 

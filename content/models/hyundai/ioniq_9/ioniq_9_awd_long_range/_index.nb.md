@@ -209,8 +209,8 @@ I tillegg støtter Hyundai IONIQ 9 AWD Long Range Android Auto og Apple CarPlay.
 
 Du kan velge mellom to lydsystemer på Hyundai IONIQ 9 AWD Long Range.
 
-- Med Standard får du åtte høyttalere med en maksimal systemeffekt på  watt.
-- Med Bose Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt.
+- **Standard:** Har åtte høyttalere.
+- **Bose Premium Sound System:** Har 14 høyttalere.
 
 Modellen har 7 USB-C-tilkoblinger som standard.
 

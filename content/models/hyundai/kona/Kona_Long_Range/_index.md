@@ -178,7 +178,7 @@ The Hyundai Kona Long Range supports Android Auto and Apple CarPlay, allowing yo
 
 The Hyundai Kona Long Range comes equipped with one sound system option:
 
-- **Bose Premium Sound System:** Features seven speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features seven speakers.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

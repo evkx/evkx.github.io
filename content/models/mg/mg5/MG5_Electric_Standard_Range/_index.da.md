@@ -165,7 +165,7 @@ Yderligere understøtter MG MG5 Electric Standard Range Android Auto og Apple Ca
 
 Én type lydsystem er tilgængelig for MG MG5 Electric Standard Range.
 
-- Med  får du seks højttalere med en maksimal systemeffekt på  watt.
+- **:** Har seks højttalere.
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 

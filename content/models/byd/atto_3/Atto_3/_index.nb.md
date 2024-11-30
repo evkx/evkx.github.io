@@ -179,7 +179,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for BYD Atto 3.
 
-- Med Dirac får du åtte høyttalere med en maksimal systemeffekt på  watt.
+- **Dirac:** Har åtte høyttalere.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

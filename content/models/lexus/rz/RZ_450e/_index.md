@@ -204,7 +204,7 @@ The Lexus RZ 450e supports Android Auto and Apple CarPlay, allowing you to mirro
 
 You can choose between two sound systems for the Lexus RZ 450e:
 
-- **Standard:** Features ten speakers and delivers a maximum output of  watts.
+- **Standard:** Features ten speakers.
 - **Mark Levinson Premium Surround Sound:** Features 13 speakers and delivers a maximum output of 1800 watts.
 
 Additionally, the model includes 5 USB-C connections as standard.

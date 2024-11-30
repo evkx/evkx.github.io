@@ -179,7 +179,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le BYD Atto 3.
 
-- Avec le Dirac, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
+- **Dirac:** Comprend huit haut-parleurs.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

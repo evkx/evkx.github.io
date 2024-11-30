@@ -173,7 +173,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 En typ av ljudsystem är tillgänglig för Hongqi E-HS9 Premium.
 
-- Med Hongqi sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+- **Hongqi sound system:** Har 12 högtalare.
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
 

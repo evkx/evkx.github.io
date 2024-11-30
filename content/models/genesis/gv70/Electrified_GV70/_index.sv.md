@@ -179,7 +179,7 @@ Dessutom stöder Genesis Electrified GV70 Android Auto och Apple CarPlay. Denna 
 
 En typ av ljudsystem är tillgänglig för Genesis Electrified GV70.
 
-- Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
+- **Bose Premium Sound System:** Har åtta högtalare.
 
 Modellen har 4 USB-A-anslutningar som standard.
 

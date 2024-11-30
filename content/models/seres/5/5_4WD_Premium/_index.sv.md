@@ -167,7 +167,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 En typ av ljudsystem är tillgänglig för Seres 5 4WD Premium.
 
-- Med  får du 11 högtalare med en maximal systemeffekt på  watt.
+- **:** Har 11 högtalare.
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 

@@ -197,8 +197,8 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Vous pouvez choisir entre deux systèmes audio sur le Nio ES8.
 
-- Avec le Surroundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+- **Surroundsystem:** Comprend sept haut-parleurs.
+- **Premium sound system:** Comprend 12 haut-parleurs.
 
 Le modèle dispose de 3 connexions USB-A en standard.
 

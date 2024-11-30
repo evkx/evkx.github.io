@@ -182,8 +182,8 @@ De plus, le OMODA E5 prend en charge Android Auto et Apple CarPlay. Cette foncti
 
 Vous pouvez choisir entre deux systèmes audio sur le OMODA E5.
 
-- Avec le Omoda Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Sony Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
+- **Omoda Sound System:** Comprend six haut-parleurs.
+- **Sony Sound System:** Comprend huit haut-parleurs.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

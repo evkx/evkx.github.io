@@ -173,8 +173,8 @@ Yderligere understøtter Nissan Ariya NISMO Android Auto og Apple CarPlay. Denne
 
 Du kan vælge mellem to lydsystemer på Nissan Ariya NISMO.
 
-- Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt.
-- Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
+- **DAB Audiosystem:** Har seks højttalere.
+- **BOSE Premium Sound System:** Har ti højttalere.
 
 ## Mobilapp
 

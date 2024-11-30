@@ -168,8 +168,8 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Vous pouvez choisir entre deux systèmes audio sur le Xiaomi SU7 Pro.
 
-- Avec le Xiaomi Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
-- Avec le Xiaomi Soundsystem, vous obtenez 25 haut-parleurs avec une puissance système maximale de  watts.
+- **Xiaomi Soundsystem:** Comprend dix haut-parleurs.
+- **Xiaomi Soundsystem:** Comprend 25 haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

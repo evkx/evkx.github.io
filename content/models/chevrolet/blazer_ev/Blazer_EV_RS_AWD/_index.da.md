@@ -200,7 +200,7 @@ Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsa
 
 Én type lydsystem er tilgængelig for Chevrolet Blazer EV RS AWD.
 
-- Med Chevrolet sound system får du seks højttalere med en maksimal systemeffekt på  watt.
+- **Chevrolet sound system:** Har seks højttalere.
 
 Modellen har 5 USB-C-forbindelser som standard.
 

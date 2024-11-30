@@ -162,7 +162,7 @@ The MG MG4 Electric Long Range supports Android Auto and Apple CarPlay, allowing
 
 The MG MG4 Electric Long Range comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

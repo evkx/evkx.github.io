@@ -179,7 +179,7 @@ Además, el Genesis GV60 AWD Performance es compatible con Android Auto y Apple 
 
 Un tipo de sistema de sonido está disponible para el Genesis GV60 AWD Performance.
 
-- Con el Bose Premium Sound System, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+- **Bose Premium Sound System:** Cuenta con ocho altavoces.
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

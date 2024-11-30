@@ -165,7 +165,7 @@ The MG Marvel R Electric Performance supports Android Auto and Apple CarPlay, al
 
 The MG Marvel R Electric Performance comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers.
 
 The model has 4 USB-A connections as standard.
 

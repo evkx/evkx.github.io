@@ -180,7 +180,7 @@ De plus, le Xiaomi SU7 Ultra prend en charge Android Auto et Apple CarPlay. Cett
 
 Un type de système audio est disponible pour le Xiaomi SU7 Ultra.
 
-- Avec le Xiaomi Soundsystem, vous obtenez 25 haut-parleurs avec une puissance système maximale de  watts.
+- **Xiaomi Soundsystem:** Comprend 25 haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

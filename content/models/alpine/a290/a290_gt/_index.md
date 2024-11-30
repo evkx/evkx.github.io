@@ -172,8 +172,8 @@ The Alpine A290 GT supports Android Auto and Apple CarPlay, allowing you to mirr
 
 You can choose between two sound systems for the Alpine A290 GT:
 
-- **DAB Audiosystem:** Features six speakers and delivers a maximum output of  watts.
-- **BOSE Premium Sound System:** Features ten speakers and delivers a maximum output of  watts.
+- **DAB Audiosystem:** Features six speakers.
+- **BOSE Premium Sound System:** Features ten speakers.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

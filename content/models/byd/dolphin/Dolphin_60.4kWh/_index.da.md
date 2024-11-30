@@ -179,7 +179,7 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 Én type lydsystem er tilgængelig for BYD Dolphin 60.4kWh.
 
-- Med Dirac får du otte højttalere med en maksimal systemeffekt på  watt.
+- **Dirac:** Har otte højttalere.
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

@@ -183,7 +183,7 @@ De plus, le VinFast VF8 Plus prend en charge Android Auto et Apple CarPlay. Cett
 
 Un type de système audio est disponible pour le VinFast VF8 Plus.
 
-- Avec le , vous obtenez 11 haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend 11 haut-parleurs.
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 4 connexions USB-A en standard.
 

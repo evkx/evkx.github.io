@@ -149,7 +149,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The Mini Cooper SE comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers.
 
 ## Lights
 

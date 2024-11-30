@@ -170,8 +170,8 @@ Der MG ZS EV Long Range unterstützt Android Auto und Apple CarPlay, sodass Sie 
 
 Sie können zwischen zwei Soundsystemen für den MG ZS EV Long Range wählen:
 
-- **MG standard system:** Verfügt über vier Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
-- **MG luxury sound system:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **MG standard system:** Verfügt über vier Lautsprecher.
+- **MG luxury sound system:** Verfügt über sechs Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
 

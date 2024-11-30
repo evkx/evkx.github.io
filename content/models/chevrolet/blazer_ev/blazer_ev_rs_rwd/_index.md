@@ -200,7 +200,7 @@ The infotainment system includes an App Store where you can download third-party
 
 The Chevrolet Blazer EV RS RWD comes equipped with one sound system option:
 
-- **Bose Premium Sound System:** Features eight speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features eight speakers.
 
 Additionally, the model includes 5 USB-C connections as standard.
 

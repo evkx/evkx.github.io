@@ -204,7 +204,7 @@ De plus, le Lexus RZ 300e prend en charge Android Auto et Apple CarPlay. Cette f
 
 Vous pouvez choisir entre deux systèmes audio sur le Lexus RZ 300e.
 
-- Avec le Standard, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
+- **Standard:** Comprend dix haut-parleurs.
 - Avec le Mark Levinson Premium Surround Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1800 watts.
 
 Le modèle dispose de 5 connexions USB-C en standard.

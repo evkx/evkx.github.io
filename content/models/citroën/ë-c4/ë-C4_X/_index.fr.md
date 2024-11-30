@@ -158,7 +158,7 @@ De plus, le Citroën ë-C4 X prend en charge Android Auto et Apple CarPlay. Cett
 
 Un type de système audio est disponible pour le Citroën ë-C4 X.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- **:** Comprend NULL haut-parleurs.
 
 ## Lumières
 

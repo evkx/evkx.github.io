@@ -174,7 +174,7 @@ Der Honda Prologue FWD unterstützt Android Auto und Apple CarPlay, sodass Sie d
 
 Der Honda Prologue FWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Bose premium audio system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Bose premium audio system:** Verfügt über 12 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 

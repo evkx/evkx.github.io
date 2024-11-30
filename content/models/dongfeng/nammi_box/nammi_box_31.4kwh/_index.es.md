@@ -179,7 +179,7 @@ El Dongfeng Nammi Box 31.4kWh cuenta con un sistema de infoentretenimiento perso
 
 Un tipo de sistema de sonido está disponible para el Dongfeng Nammi Box 31.4kWh.
 
-- Con el DongFeng Sound System, obtienes cuatro parlantes con una salida máxima del sistema de  vatios.
+- **DongFeng Sound System:** Cuenta con cuatro altavoces.
 
 El modelo tiene 1 conexiones USB-A de serie.
 

@@ -184,8 +184,8 @@ Yderligere understøtter Fiat Grande Panda Android Auto og Apple CarPlay. Denne 
 
 Du kan vælge mellem to lydsystemer på Fiat Grande Panda.
 
-- Med  får du to højttalere med en maksimal systemeffekt på  watt.
-- Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
+- **:** Har to højttalere.
+- **Max Sound system:** Har to højttalere.
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

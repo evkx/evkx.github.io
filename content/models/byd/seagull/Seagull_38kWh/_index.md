@@ -165,7 +165,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The BYD Seagull 38kWh comes equipped with one sound system option:
 
-- **Dirac:** Features eight speakers and delivers a maximum output of  watts.
+- **Dirac:** Features eight speakers.
 
 The model has 1 USB-A connections as standard.
 
