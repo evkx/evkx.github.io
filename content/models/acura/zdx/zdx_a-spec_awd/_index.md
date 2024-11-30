@@ -150,7 +150,7 @@ The Acura ZDX A-Spec AWD provides ample interior storage solutions to enhance co
 
 The Acura ZDX A-Spec AWD offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
 
-- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard and door panels, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience.
 
 ## Climate System
 
@@ -278,7 +278,7 @@ With the AcuraWatch™ 360+ level 1 system, you get the following driving automa
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), two [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Safety
 

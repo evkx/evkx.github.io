@@ -150,7 +150,7 @@ Acura ZDX A-Spec AWD erbjuder gott om interiörförvaringslösningar för att f�
 
 Acura ZDX A-Spec AWD erbjuder ett utbud av interiörbelysningsalternativ som är utformade för att skapa en behaglig atmosfär och förbättra synligheten.
 
-- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan, dörrpanelerna och fotutrymmet, vilket skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens, vilket ger en personlig touch till din körupplevelse.
+- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan och dörrpanelerna och ger en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller din preferens, vilket ger en personlig touch till din körupplevelse.
 
 ## Klimatsystem
 
@@ -278,7 +278,7 @@ Med AcuraWatch™ 360+ nivå 1-systemet får du följande funktioner för körau
 ### Sensorer & Kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
-Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), två [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhet
 
