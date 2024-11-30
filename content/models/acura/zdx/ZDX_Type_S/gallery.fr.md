@@ -180,6 +180,60 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_4.jpg"
+data-pswp-width="2000"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_4_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_5.jpg"
+data-pswp-width="2000"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_5_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_6.jpg"
+data-pswp-width="2000"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_6_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_7.jpg"
+data-pswp-width="2000"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_7_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_8.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_8.jpg"
+data-pswp-width="2000"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_8_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_9.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_9.jpg"
+data-pswp-width="2000"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/interior_9_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/main_1.jpg"
 data-pswp-width="3000"
@@ -198,6 +252,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/mobileapp_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/mobileapp_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/mobileapp_2_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_1.jpg"
 data-pswp-width="3000"
@@ -213,6 +276,33 @@ data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_2_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_3.jpg"
+data-pswp-width="2729"
+data-pswp-height="2046" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_3_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_4_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_5.jpg"
+data-pswp-width="3000"
+data-pswp-height="1595" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/screens_5_xst.jpg" alt="Acura ZDX Type S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">

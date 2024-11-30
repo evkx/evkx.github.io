@@ -72,7 +72,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 - 245/45 dæk på 19" fælge foran og 275/40 dæk på 19" fælge bagpå
 
-Bilen har to [saksedøre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#bagklap) på bagsiden.
+Bilen har to [saksedøre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#bagklap) på bagsiden. Elektriske døre er en standard funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget er en blød top, der kan foldes ned.
 

@@ -130,6 +130,7 @@ Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black/Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -298,7 +299,7 @@ The Acura ZDX Type S is equipped with advanced security features to protect you 
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 793 liters (28.0 CU FT). With the rear seat folded down, this expands to 1723 liters (60.8 CU FT). On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 813 liters (28.7 CU FT). With the rear seat folded down, this expands to 1756 liters (62.0 CU FT). On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3200 kg (7055 lbs), with a base weight of 2706 kg (5966 lbs). This allows for a maximum load of 494 kg (1089 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 494kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 

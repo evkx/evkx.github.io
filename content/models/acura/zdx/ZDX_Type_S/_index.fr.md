@@ -126,10 +126,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **16-way**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Black/Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black/Red [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -298,7 +299,7 @@ Le Acura ZDX Type S est équipé de fonctionnalités de sécurité avancées pou
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 793 litres. Avec les sièges arrière rabattus, cette capacité passe à 1723 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 813 litres. Avec les sièges arrière rabattus, cette capacité passe à 1756 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 3200 kg, avec un poids de base de 2706 kg. Cela permet une charge maximale de 494 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 494 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 

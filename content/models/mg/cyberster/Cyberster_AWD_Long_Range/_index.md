@@ -72,7 +72,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 245/45 tires on 19" rims front and 275/40 tires on 19" rims rear
 
-The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
+The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are a standard function for the side doors.
 
 There is only one roof option for this model. The standard roof is a soft top that can be folded down.
 

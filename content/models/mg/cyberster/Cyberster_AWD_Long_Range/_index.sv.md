@@ -72,7 +72,7 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 - 245/45 däck på 19" fälgar fram och 275/40 däck på 19" fälgar bak
 
-Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom.
+Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp som kan slås ned.
 

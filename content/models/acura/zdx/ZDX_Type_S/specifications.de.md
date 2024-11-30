@@ -339,7 +339,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				793 Liter (28 cu-ft)
+				813 Liter (29 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1723 Liter (61 cu-ft)
+				1756 Liter (62 cu-ft)
 			</td>
 		</tr>
 		<tr>

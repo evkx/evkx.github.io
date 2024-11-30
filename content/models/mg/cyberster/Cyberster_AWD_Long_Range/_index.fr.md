@@ -72,7 +72,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 245/45 sur jantes de 19" à l'avant et pneus 275/40 sur jantes de 19" à l'arrière
 
-La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière.
+La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est une capote souple qui peut être rabattue.
 

@@ -130,6 +130,7 @@ Verfügbar in:
 
 - Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 - Black/Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black/Red [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -298,7 +299,7 @@ Der Acura ZDX Type S ist mit fortschrittlichen Sicherheitsfunktionen ausgestatte
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 793 Litern (28,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1723 Liter (60,8 CU FT). Auf dem Dach können Sie bis zu 70 kg (154,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
+Der Kofferraum bietet ein Ladevolumen von 813 Litern (28,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1756 Liter (62,0 CU FT). Auf dem Dach können Sie bis zu 70 kg (154,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 3200 kg (7055 lbs) bei einem Leergewicht von 2706 kg (5966 lbs). Dies ermöglicht eine maximale Zuladung von 494 kg (1089 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 494 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 

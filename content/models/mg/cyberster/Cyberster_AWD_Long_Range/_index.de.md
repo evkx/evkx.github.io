@@ -72,7 +72,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 245/45 Reifen auf 19" Felgen vorne und 275/40 Reifen auf 19" Felgen hinten
 
-Das Auto hat zwei [Scherentüren](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#bootlid) im Heck.
+Das Auto hat zwei [Scherentüren](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#bootlid) im Heck. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach ist ein Stoffdach, das heruntergeklappt werden kann.
 

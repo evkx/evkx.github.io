@@ -126,10 +126,11 @@ Las siguientes funcionalidades están disponibles en el asiento **16-way**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajustable eléctricamente)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black/Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -298,7 +299,7 @@ El Acura ZDX Type S está equipado con características de seguridad avanzadas p
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 793 litros. Con el asiento trasero plegado, esto se expande a 1723 litros. En el techo, puedes cargar hasta 70 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 813 litros. Con el asiento trasero plegado, esto se expande a 1756 litros. En el techo, puedes cargar hasta 70 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 3200 kg, con un peso base de 2706 kg. Esto permite una carga máxima de 494 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 494 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 

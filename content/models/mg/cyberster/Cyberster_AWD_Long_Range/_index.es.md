@@ -72,7 +72,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 - Neumáticos 245/45 en llantas de 19" delanteras y neumáticos 275/40 en llantas de 19" traseras
 
-El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera.
+El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 
 Sólo hay un techo para este modelo. El techo estándar es una capota blanda que se puede plegar.
 

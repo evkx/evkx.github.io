@@ -72,7 +72,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 245/45 dekk på 19" felger foran og 275/40 dekk på 19" felger bak
 
-Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak.
+Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Elektriske dører er en standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket er et stofftak topp som kan slås ned.
 

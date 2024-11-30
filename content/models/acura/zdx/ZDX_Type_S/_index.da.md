@@ -126,10 +126,11 @@ Følgende funktioner er tilgængelige på **16-way** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Black/Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -298,7 +299,7 @@ Acura ZDX Type S er udstyret med avancerede sikkerhedsfunktioner for at beskytte
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 793 liter. Med det bageste sæde foldet ned, udvides dette til 1723 liter. På taget kan du laste op til 70 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
+Bagagerummet har en lastekapacitet på 813 liter. Med det bageste sæde foldet ned, udvides dette til 1756 liter. På taget kan du laste op til 70 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 3200 kg, med en basisvægt på 2706 kg. Dette giver en maksimal last på 494 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 494 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
