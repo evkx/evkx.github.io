@@ -202,7 +202,7 @@ The built-in navigation system uses detailed maps and offers advanced route plan
 The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
 
 - **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
-- Waze
+- **Waze:** Get real-time traffic updates, navigation, and road information to help you reach your destination quickly and safely.
 
 ### Phone Mirroring
 

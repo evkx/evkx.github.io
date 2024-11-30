@@ -199,7 +199,7 @@ Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret r
 Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
 
 - **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
-- Waze
+- **Waze:** Få opdateringer om trafik i realtid, navigation og vejoplysninger, der hjælper dig med at nå din destination hurtigt og sikkert.
 
 ### Lydsystem
 

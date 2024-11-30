@@ -202,7 +202,7 @@ Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert rute
 Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
 
 - **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
-- Waze
+- **Waze:** Få sanntids trafikkoppdateringer, navigasjon og veiinformasjon for å hjelpe deg med å nå målet ditt raskt og trygt.
 
 ### Telefonspeiling
 

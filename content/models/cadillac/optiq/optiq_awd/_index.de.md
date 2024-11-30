@@ -166,7 +166,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
 
 - **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
-- Waze
+- **Waze:** Erhalten Sie Echtzeit-Verkehrsaktualisierungen, Navigation und Straßeninformationen, um Ihr Ziel schnell und sicher zu erreichen.
 
 ### Telefonspiegelung
 

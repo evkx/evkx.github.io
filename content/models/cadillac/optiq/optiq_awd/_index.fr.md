@@ -166,7 +166,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
 
 - **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
-- Waze
+- **Waze:** Recevez des mises à jour du trafic en temps réel, de la navigation et des informations routières pour vous aider à atteindre votre destination rapidement et en toute sécurité.
 
 ### Réplication du téléphone
 
