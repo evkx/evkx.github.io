@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Acura ZDX er en SUV tilgængelig i 1 varianter.
+Acura ZDX er en SUV tilgængelig i 2 varianter.
 </p>
 	<a href="zdx/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

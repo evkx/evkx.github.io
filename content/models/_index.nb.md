@@ -217,7 +217,7 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="acura/"><img src="https://media.evkx.net/multimedia/models/acura/brandevs_st.jpg" class="img-fluid mb-2" alt="Acura" ></a>
 	<h2>Acura</h2>
 	<p>
-	Acura har 1 modell(er) med totalt 1 varianter.
+	Acura har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="acura/" class="btn btn-outline-primary" role="button">Gå til Acura modelloversikt</a>
 </div>

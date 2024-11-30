@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-a1986bdc
+  translation: Acura ZDX A-Spec AWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 489 km (304 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-03e65c3a
   translation: Dongfeng Nammi Box 31.4kWh es un hatchback económico totalmente eléctrico con una WLTP autonomía de hasta 230 km (143 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-338243b2
   translation: BMW i5 xDrive40 Touring es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 519 km (323 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-218d4ea6
-  translation: Audi A6 Sportback e-tron quattro es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 716 km (445 millas). EVKX.net tiene todos los detalles.
 

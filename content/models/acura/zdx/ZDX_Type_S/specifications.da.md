@@ -588,7 +588,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

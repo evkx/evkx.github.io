@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-a1986bdc
+  translation: Acura ZDX A-Spec AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 489 km (304 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-03e65c3a
   translation: Dongfeng Nammi Box 31.4kWh ist ein vollelektrischer Budget-Hatchback mit einer WLTP Reichweite von bis zu 230 km (143 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-338243b2
   translation: BMW i5 xDrive40 Touring ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 519 km (323 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-218d4ea6
-  translation: Audi A6 Sportback e-tron quattro ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 716 km (445 Meilen). EVKX.net hat alle Details.
 

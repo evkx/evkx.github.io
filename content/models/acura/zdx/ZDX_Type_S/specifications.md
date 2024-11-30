@@ -588,7 +588,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

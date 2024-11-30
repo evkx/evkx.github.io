@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-a1986bdc
+  translation: Acura ZDX A-Spec AWD är en helelektrisk SUV med en EPA räckvidd på upp till 489 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-03e65c3a
   translation: Dongfeng Nammi Box 31.4kWh är en helelektrisk budget-hatchback med en WLTP räckvidd på upp till 230 km (143 miles). EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-338243b2
   translation: BMW i5 xDrive40 Touring är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 519 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-218d4ea6
-  translation: Audi A6 Sportback e-tron quattro är en helelektrisk premium sedan med en WLTP räckvidd på upp till 716 km. EVKX.net har alla detaljer.
 

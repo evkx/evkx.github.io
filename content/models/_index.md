@@ -220,7 +220,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		 Acura is the luxury and performance division of Japanese automaker Honda, based primarily in North America. The brand was launched in 1986, marketing luxury and performance automobiles. Acura sells cars in the United States, Canada, Mexico, Panama, and Kuwait.
 	</p>
 	<p>
-	Acura has 1 models with total 1 variants.
+	Acura has 1 models with total 2 variants.
 	</p>
 	<a href="acura/" class="btn btn-outline-primary" role="button">Go to Acura EV-model overview</a>
 </div>

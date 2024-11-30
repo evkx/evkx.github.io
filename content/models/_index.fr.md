@@ -217,7 +217,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="acura/"><img src="https://media.evkx.net/multimedia/models/acura/brandevs_st.jpg" class="img-fluid mb-2" alt="Acura" ></a>
 	<h2>Acura</h2>
 	<p>
-	Acura a 1 modèles avec un total de 1 variantes.
+	Acura a 1 modèles avec un total de 2 variantes.
 	</p>
 	<a href="acura/" class="btn btn-outline-primary" role="button">Aller à la Acura présentation du modèle EV</a>
 </div>
