@@ -68,10 +68,10 @@ Dynamisk styring er en standard-funktion på Acura ZDX Type S. Dynamisk styring 
 
 Acura ZDX Type S lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
 
-- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Snow: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- Individual: Brugerdefineret styring, affjedring og gasrespons.
+- Normal: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
+- Sport: Dynamisk styring, affjedring og speeder.
+- Snow: Afbalanceret styring, speeder og dæmpning.
+- Individual: Brugerdefinerede indstillinger for styring, speeder og affjedring.
 
 ### Bremser
 
@@ -306,7 +306,7 @@ Acura ZDX Type S er udstyret med avancerede sikkerhedsfunktioner for at beskytte
 
 Bagagerummet har en lastekapacitet på 813 liter. Med det bageste sæde foldet ned, udvides dette til 1756 liter. På taget kan du laste op til 70 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
-Køretøjets maksimale vægt er 3200 kg, med en basisvægt på 2706 kg. Dette giver en maksimal last på 494 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 494 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+Køretøjets maksimale vægt er 3200 kg, med en basisvægt på 2745 kg. Dette giver en maksimal last på 455 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 455 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1588 kg, mens den for en ubremset trailer er 750 kg.
 

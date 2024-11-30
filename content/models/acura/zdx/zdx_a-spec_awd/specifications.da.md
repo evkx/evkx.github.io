@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Acura ZDX A-Spec A
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2639 kg
+				2678 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				511 kg
+				472 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Forsæder
 
 
-#### 16-way
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>

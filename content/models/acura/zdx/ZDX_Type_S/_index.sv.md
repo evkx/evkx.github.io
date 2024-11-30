@@ -68,10 +68,10 @@ Dynamisk styrning är standard-funktionen för Acura ZDX Type S. Dynamisk styrni
 
 Acura ZDX Type S låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Snow: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- Individual: Anpassad styrning, fjädring och gasrespons.
+- Normal: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
+- Sport: Dynamisk styrning, fjädring och gaspådrag.
+- Snow: Balanserad styrning, gas och dämpning.
+- Individual: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 
@@ -306,7 +306,7 @@ Acura ZDX Type S är utrustad med avancerade säkerhetsfunktioner för att skydd
 
 Bagageutrymmet erbjuder en lastkapacitet på 813 liter. Med baksätena nedfällda ökar detta till 1756 liter. På taket kan du lasta upp till 70 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
-Fordonets maximala vikt är 3200 kg, med en grundvikt på 2706 kg. Detta tillåter en maximal last på 494 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 494 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 3200 kg, med en grundvikt på 2745 kg. Detta tillåter en maximal last på 455 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 455 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 

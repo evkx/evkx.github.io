@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av Acura ZDX A-Spec AWD i avsnitt. Om du vill v
 
 ## Prestanda
 
-Acura ZDX A-Spec AWD levererar en solid prestanda med en maximal effekt på 365 kW (496 hk) och ett totalt vridmoment på 592 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
+Acura ZDX A-Spec AWD levererar en solid prestanda med en maximal effekt på 365 kW (496 hk) och ett totalt vridmoment på 592 Nm. Den kan accelerera från 0 till 100 km/h på 6 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
@@ -66,10 +66,10 @@ Dynamisk styrning är standard-funktionen för Acura ZDX A-Spec AWD. Dynamisk st
 
 Acura ZDX A-Spec AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Snow: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- Individual: Anpassad styrning, fjädring och gasrespons.
+- Normal: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
+- Sport: Dynamisk styrning, fjädring och gaspådrag.
+- Snow: Balanserad styrning, gas och dämpning.
+- Individual: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
 
 ### Bromsar
 
@@ -111,7 +111,7 @@ Acura ZDX A-Spec AWD rymmer fem passagerare med två säten fram och en tre-sits
 
 Acura ZDX A-Spec AWD erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **16-way** sätet.
+Följande funktioner är tillgängliga på **12-way** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
@@ -304,7 +304,7 @@ Acura ZDX A-Spec AWD är utrustad med avancerade säkerhetsfunktioner för att s
 
 Bagageutrymmet erbjuder en lastkapacitet på 813 liter. Med baksätena nedfällda ökar detta till 1756 liter. På taket kan du lasta upp till 70 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
-Fordonets maximala vikt är 3150 kg, med en grundvikt på 2639 kg. Detta tillåter en maximal last på 511 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 3150 kg, med en grundvikt på 2678 kg. Detta tillåter en maximal last på 472 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 472 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 

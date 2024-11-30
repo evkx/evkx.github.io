@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 001 AWD range test</h3>
+<p>Bjørn Nyland: 30.11.2024</p>
+
+{{< youtube _qZED84AbiI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Zeekr 001 interior review</h3>
 <p>Bjørn Nyland: 03.07.2023</p>
 

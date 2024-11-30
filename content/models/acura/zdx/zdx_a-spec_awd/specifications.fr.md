@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2639 kg
+				2678 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				511 kg
+				472 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 ### Sièges avant
 
 
-#### 16-way
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>

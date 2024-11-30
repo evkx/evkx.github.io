@@ -26,7 +26,7 @@ Hemos separado nuestro artículo Acura ZDX A-Spec AWD en secciones. Si desea esp
 
 ## Rendimiento
 
-El Acura ZDX A-Spec AWD ofrece un rendimiento sólido con una potencia máxima de 365 kW (496 hp) y un par total de 592 Nm. Puede acelerar de 0 a 100 km/h en 4,5 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
+El Acura ZDX A-Spec AWD ofrece un rendimiento sólido con una potencia máxima de 365 kW (496 hp) y un par total de 592 Nm. Puede acelerar de 0 a 100 km/h en 6 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
@@ -66,10 +66,10 @@ La dirección dinámica es una característica un estándar en el Acura ZDX A-Sp
 
 El Acura ZDX A-Spec AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos.
-- Snow: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
-- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Normal: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Sport: Dirección, suspensión y aceleración dinámicas.
+- Snow: Dirección, aceleración y amortiguación equilibradas.
+- Individual: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
 
 ### Frenos
 
@@ -111,7 +111,7 @@ El Acura ZDX A-Spec AWD tiene capacidad para cinco pasajeros con dos asientos de
 
 El Acura ZDX A-Spec AWD ofrece un único tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **16-way**.
+Las siguientes funcionalidades están disponibles en el asiento **12-way**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
@@ -304,7 +304,7 @@ El Acura ZDX A-Spec AWD está equipado con características de seguridad avanzad
 
 El maletero ofrece una capacidad de carga de 813 litros. Con el asiento trasero plegado, esto se expande a 1756 litros. En el techo, puedes cargar hasta 70 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 3150 kg, con un peso base de 2639 kg. Esto permite una carga máxima de 511 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 3150 kg, con un peso base de 2678 kg. Esto permite una carga máxima de 472 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 472 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1588 kg, mientras que para un tráiler sin freno es de 750 kg.
 

@@ -68,10 +68,10 @@ Die dynamische Lenkung ist eine standard im Acura ZDX Type S, wobei das Lenkverh
 
 Der Acura ZDX Type S ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
 
-- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
-- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
-- Snow: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
-- Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+- Normal: Ausgewogenes Lenken, mit effizientem Gas und ausgewogener Federung.
+- Sport: Dynamisches Lenken, Federung und Gas.
+- Snow: Ausgewogenes Lenken, Gasgeben und Dämpfen.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Gas und Federung.
 
 ### Bremsen
 
@@ -306,7 +306,7 @@ Der Acura ZDX Type S ist mit fortschrittlichen Sicherheitsfunktionen ausgestatte
 
 Der Kofferraum bietet ein Ladevolumen von 813 Litern (28,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1756 Liter (62,0 CU FT). Auf dem Dach können Sie bis zu 70 kg (154,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
-Das maximale Gewicht des Fahrzeugs beträgt 3200 kg (7055 lbs) bei einem Leergewicht von 2706 kg (5966 lbs). Dies ermöglicht eine maximale Zuladung von 494 kg (1089 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 494 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
+Das maximale Gewicht des Fahrzeugs beträgt 3200 kg (7055 lbs) bei einem Leergewicht von 2745 kg (6052 lbs). Dies ermöglicht eine maximale Zuladung von 455 kg (1003 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 455 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1588 kg (3501 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

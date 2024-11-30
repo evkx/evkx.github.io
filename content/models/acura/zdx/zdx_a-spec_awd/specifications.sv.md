@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Acura ZDX A-Spec AWD. 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2639 kg
+				2678 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				511 kg
+				472 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 ### Framsäten
 
 
-#### 16-way
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>

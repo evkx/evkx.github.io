@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Acura ZDX A-Spec AWD
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2639 kg (5818 lbs)
+				2678 kg (5904 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				511 kg (1127 lbs)
+				472 kg (1041 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ This model is available with a seat configuration with five seats.
 ### Front seats
 
 
-#### 16-way
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>

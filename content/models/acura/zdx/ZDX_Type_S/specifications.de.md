@@ -307,7 +307,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2706 kg (5966 lbs)
+				2745 kg (6052 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				494 kg (1089 lbs)
+				455 kg (1003 lbs)
 			</td>
 		</tr>
 		<tr>

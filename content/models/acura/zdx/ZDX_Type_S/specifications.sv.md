@@ -307,7 +307,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2706 kg
+				2745 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				494 kg
+				455 kg
 			</td>
 		</tr>
 		<tr>

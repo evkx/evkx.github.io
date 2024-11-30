@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Acura ZDX A-Spec AWD delivers a solid performance with a maximum power of 365 kW (496 hp / 490 bhp) and a total torque of 592 Nm (437 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+The Acura ZDX A-Spec AWD delivers a solid performance with a maximum power of 365 kW (496 hp / 490 bhp) and a total torque of 592 Nm (437 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -66,10 +66,10 @@ Dynamic steering is a standard on the Acura ZDX A-Spec AWD, varying the steering
 
 The Acura ZDX A-Spec AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
-- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
-- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Snow: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- Individual: User-defined settings for steering, suspension, and throttle response.
+- Normal: Balanced steering, with efficient throttle, and balanced suspension.
+- Sport: Dynamic steering, suspension and throttle.
+- Snow: Balanced steering, throttle and damping.
+- Individual: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 
@@ -111,7 +111,7 @@ The Acura ZDX A-Spec AWD accommodates five passengers with two front seats and a
 
 The Acura ZDX A-Spec AWD offers a single type of front seat.
 
-The following functionalities are available on the **16-way** seat:
+The following functionalities are available on the **12-way** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
@@ -304,7 +304,7 @@ The Acura ZDX A-Spec AWD is equipped with advanced security features to protect 
 
 The trunk offers a cargo capacity of 813 liters (28.7 CU FT). With the rear seat folded down, this expands to 1756 liters (62.0 CU FT). On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
-The vehicle’s maximum weight is 3150 kg (6945 lbs), with a base weight of 2639 kg (5818 lbs). This allows for a maximum load of 511 kg (1127 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 3150 kg (6945 lbs), with a base weight of 2678 kg (5904 lbs). This allows for a maximum load of 472 kg (1041 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 472kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

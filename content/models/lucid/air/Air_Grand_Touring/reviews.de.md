@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lucid Air 3 Month &amp; 15,000mi Review! What We Love &amp; Hate, Testing Results - The Best Luxury EV</h3>
+<p>Out of Spec Reviews: 30.11.2024</p>
+
+{{< youtube Osem1hLfUy4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Lucid Air GT Is An Incredible Road Tripping EV Nearly Topping The Charts In Our 10% Challenge</h3>
 <p>Out of Spec Reviews: 20.10.2024</p>
 

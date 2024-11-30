@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Acura ZDX A-Spec A
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2639 kg (5818 lbs)
+				2678 kg (5904 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				511 kg (1127 lbs)
+				472 kg (1041 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 ### Vordersitze
 
 
-#### 16-way
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>

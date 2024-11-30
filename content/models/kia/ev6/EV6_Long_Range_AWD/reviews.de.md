@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV6 84 kWh facelift acceleration and noise test</h3>
+<p>Bjørn Nyland: 30.11.2024</p>
+
+{{< youtube c_nzpNaqE8M >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 facelift headlights test</h3>
 <p>Bjørn Nyland: 24.11.2024</p>
 
@@ -20,6 +27,13 @@ Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../.
 <p>Bjørn Nyland: 22.11.2024</p>
 
 {{< youtube AhpuMqt0Y60 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2025 Kia EV6 | Small Changes Are A Solid Improvement</h3>
+<p>Auto Buyers Guide | Alex on Autos: 22.11.2024</p>
+
+{{< youtube UnusAbGyYEY >}}
 
 </div>
 <div class="mt-3 mb-3">

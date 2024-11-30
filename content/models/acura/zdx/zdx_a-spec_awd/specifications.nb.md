@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Acura ZDX A-Spec AW
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2639 kg
+				2678 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				511 kg
+				472 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Forseter
 
 
-#### 16-way
+#### 12-way
 
 <table class="table table-striped border">
 	<thead>

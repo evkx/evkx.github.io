@@ -68,10 +68,10 @@ La dirección dinámica es una característica un estándar en el Acura ZDX Type
 
 El Acura ZDX Type S permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Normal: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
-- Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos.
-- Snow: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
-- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Normal: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Sport: Dirección, suspensión y aceleración dinámicas.
+- Snow: Dirección, aceleración y amortiguación equilibradas.
+- Individual: Configuraciones definidas por el usuario para la dirección, el acelerador y la suspensión.
 
 ### Frenos
 
@@ -306,7 +306,7 @@ El Acura ZDX Type S está equipado con características de seguridad avanzadas p
 
 El maletero ofrece una capacidad de carga de 813 litros. Con el asiento trasero plegado, esto se expande a 1756 litros. En el techo, puedes cargar hasta 70 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 3200 kg, con un peso base de 2706 kg. Esto permite una carga máxima de 494 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 494 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+El peso máximo del vehículo es 3200 kg, con un peso base de 2745 kg. Esto permite una carga máxima de 455 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 455 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1588 kg, mientras que para un tráiler sin freno es de 750 kg.
 

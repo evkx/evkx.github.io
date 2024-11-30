@@ -68,10 +68,10 @@ Dynamisk styring er en standard-funksjonen på Acura ZDX Type S. Dynamisk styrin
 
 Acura ZDX Type S lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Snow: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
-- Individual: Egendefinert styring, fjæring og gassrespons.
+- Normal: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Sport: Dynamisk styring, fjæring og gasspådrag.
+- Snow: Balansert styring, gass og demping.
+- Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 
@@ -306,7 +306,7 @@ Acura ZDX Type S er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte d
 
 Bagasjerommet tilbyr en lastekapasitet på 813 liter. Med baksetene nedfelt, utvides dette til 1756 liter. På taket kan du laste opptil 70 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
-Kjøretøyets maksimale vekt er 3200 kg, med en basisvekt på 2706 kg. Dette gir en maksimal lastekapasitet på 494 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 494 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 3200 kg, med en basisvekt på 2745 kg. Dette gir en maksimal lastekapasitet på 455 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 455 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1588 kg, mens for en ubremset tilhenger er det 750 kg.
 
