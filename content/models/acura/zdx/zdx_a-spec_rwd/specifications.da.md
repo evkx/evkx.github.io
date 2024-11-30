@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-område
 			</td>
 			<td>
-				304 mi
+				313 mi
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				2,8 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>

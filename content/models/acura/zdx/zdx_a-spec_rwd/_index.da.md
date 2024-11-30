@@ -1,7 +1,7 @@
 ---
 title: Acura ZDX A-Spec RWD
 linktitle: "ZDX A-Spec RWD"
-description: "Acura ZDX A-Spec RWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 489 km (304 miles). EVKX.net har alle detaljerne."
+description: "Acura ZDX A-Spec RWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 504 km (313 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Acura ZDX A-Spec RWD leverer en solid præstation med en maksimal effekt på 267
 
 Det højkapacitetsbatteri har en bruttokapacitet på 112,5 kWh og en nettoanvendelig kapacitet på 107,5 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355,2 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 489 km med en energiforbrugsrate på 22,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 504 km med en energiforbrugsrate på 21,3 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 190kW. En fuld opladning fra 0 - 100 % ville tage 190 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 119kW. Hver opladningssession ville tage 31 minutter og 50 sekunder.
 

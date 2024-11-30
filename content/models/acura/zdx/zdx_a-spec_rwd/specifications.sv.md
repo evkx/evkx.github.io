@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA räckvidd
 			</td>
 			<td>
-				304 mi
+				313 mi
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				2,8 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>

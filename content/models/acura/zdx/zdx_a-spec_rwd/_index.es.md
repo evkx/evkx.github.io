@@ -1,7 +1,7 @@
 ---
 title: Acura ZDX A-Spec RWD
 linktitle: "ZDX A-Spec RWD"
-description: "Acura ZDX A-Spec RWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 489 km (304 millas). EVKX.net tiene todos los detalles."
+description: "Acura ZDX A-Spec RWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 504 km (313 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ El Acura ZDX A-Spec RWD ofrece un rendimiento sólido con una potencia máxima d
 
 La batería de alta capacidad tiene una capacidad bruta de 112,5 kWh y una capacidad neta utilizable de 107,5 kWh, proporcionando un buffer de 5,0 kWh (4,4%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 489 km con una tasa de consumo de energía de 22,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 504 km con una tasa de consumo de energía de 21,3 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 190kW. Una carga completa del 0 al 100 % tardaría 190 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 119kW. Cada sesión de carga tardaría 31 minutos y 50 segundos.
 

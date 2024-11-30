@@ -1,7 +1,7 @@
 ---
 title: Acura ZDX A-Spec RWD
 linktitle: "ZDX A-Spec RWD"
-description: "Acura ZDX A-Spec RWD är en helelektrisk SUV med en EPA räckvidd på upp till 489 km. EVKX.net har alla detaljer."
+description: "Acura ZDX A-Spec RWD är en helelektrisk SUV med en EPA räckvidd på upp till 504 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Acura ZDX A-Spec RWD levererar en solid prestanda med en maximal effekt på 267 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 112,5 kWh och en nettoanvändbar kapacitet på 107,5 kWh, vilket ger en buffert på 5,0 kWh (4,4%) för batteriskydd. Med en nominell spänning på 355,2 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 489 km med en energiförbrukning på 22,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 504 km med en energiförbrukning på 21,3 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 190 kW. En full laddning från 0 - 100 % tar 190 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 119kW. Varje laddningssession tar 31 minuter och 50 sekunder.
 

@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				rango EPA
 			</td>
 			<td>
-				304 mi
+				313 mi
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo EPA
 			</td>
 			<td>
-				2,8 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>

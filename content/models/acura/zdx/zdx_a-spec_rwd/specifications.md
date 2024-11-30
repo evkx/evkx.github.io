@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				304 mi
+				313 mi
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				2,8 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>

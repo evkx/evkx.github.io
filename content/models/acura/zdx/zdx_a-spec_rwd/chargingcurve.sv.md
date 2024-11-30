@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 0-100%
 			</td>
 			<td>
-				2,6 km (1,6 mi)
+				2,7 km (1,7 mi)
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-100%
 			</td>
 			<td>
-				2,4 km (1,5 mi)
+				2,5 km (1,6 mi)
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-80%
 			</td>
 			<td>
-				10,1 km (6,3 mi)
+				10,4 km (6,5 mi)
 			</td>
 			<td>
 				?

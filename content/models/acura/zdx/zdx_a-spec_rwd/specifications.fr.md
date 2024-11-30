@@ -83,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme EPA
 			</td>
 			<td>
-				304 mi
+				313 mi
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation EPA
 			</td>
 			<td>
-				2,8 mi/kWh
+				2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>

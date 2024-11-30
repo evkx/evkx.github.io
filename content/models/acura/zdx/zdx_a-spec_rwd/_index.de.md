@@ -1,7 +1,7 @@
 ---
 title: Acura ZDX A-Spec RWD
 linktitle: "ZDX A-Spec RWD"
-description: "Acura ZDX A-Spec RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 489 km (304 Meilen). EVKX.net hat alle Details."
+description: "Acura ZDX A-Spec RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 504 km (313 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Der Acura ZDX A-Spec RWD liefert eine solide Leistung mit einer maximalen Leistu
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 112,5 kWh und eine nutzbare Nettokapazität von 107,5 kWh, was einen Puffer von 5,0 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355,2 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 304 Meilen (489 km) mit einem Energieverbrauch von 2,8 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 313 Meilen (504 km) mit einem Energieverbrauch von 2,9 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 190 kW. Das Laden von 0% auf 100% dauert etwa 190 Minuten, während ein typischer Ladevorgang von 10% auf 80% 34 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 133 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 8% und 65%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 119 kW, wobei jede Ladesitzung etwa 31 Minuten und 50 Sekunden dauert.
 

@@ -1,7 +1,7 @@
 ---
 title: Acura ZDX A-Spec RWD
 linktitle: "ZDX A-Spec RWD"
-description: "Acura ZDX A-Spec RWD is an all-electric SUV with a EPA range of up to 489 km (304 miles). EVKX.net has all the details."
+description: "Acura ZDX A-Spec RWD is an all-electric SUV with a EPA range of up to 504 km (313 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ The Acura ZDX A-Spec RWD delivers a solid performance with a maximum power of 26
 
 The high-capacity battery has a gross capacity of 112.5 kWh and a net usable capacity of 107.5 kWh, providing a 5.0 kWh buffer (4.4%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 304 miles (489 km) with an energy consumption rate of 2.8 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 313 miles (504 km) with an energy consumption rate of 2.9 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 190 kW. Charging from 0% to 100% takes approximately 190 minutes, while a more typical scenario from 10% to 80% takes 34 minutes with an average charging speed of 133 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 65%. This results in an effective charging speed, including time lost, of 119 kW, with each charging session taking about 31 minutes and 50 seconds.
 
