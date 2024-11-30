@@ -254,7 +254,7 @@ Der Acura ZDX A-Spec AWD verfügt über eine Reihe von standardmäßigen und opt
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Acura ZDX A-Spec AWD, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Optional im Acura ZDX A-Spec AWD, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard im Acura ZDX A-Spec AWD, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
 
 [**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Acura ZDX A-Spec AWD, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
 
@@ -268,10 +268,11 @@ Der Acura ZDX A-Spec AWD verfügt über eine Reihe von standardmäßigen und opt
 
 ### Fahrautomatisierung
 
-Mit dem standardmäßigen AcuraWatch™ 360+ Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Der Acura ZDX A-Spec AWD bietet [Fahrautomatisierung auf Level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), abhängig vom Ausstattungsniveau.
+
+Mit dem AcuraWatch™ 360+ Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensoren & Kameras
@@ -303,7 +304,7 @@ Der Acura ZDX A-Spec AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgest
 
 Der Kofferraum bietet ein Ladevolumen von 813 Litern (28,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1756 Liter (62,0 CU FT). Auf dem Dach können Sie bis zu 70 kg (154,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
-Das maximale Gewicht des Fahrzeugs beträgt 3200 kg (7055 lbs) bei einem Leergewicht von 2706 kg (5966 lbs). Dies ermöglicht eine maximale Zuladung von 494 kg (1089 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 494 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
+Das maximale Gewicht des Fahrzeugs beträgt 3150 kg (6945 lbs) bei einem Leergewicht von 2639 kg (5818 lbs). Dies ermöglicht eine maximale Zuladung von 511 kg (1127 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1588 kg (3501 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

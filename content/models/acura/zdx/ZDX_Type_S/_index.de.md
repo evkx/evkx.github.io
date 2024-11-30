@@ -257,7 +257,7 @@ Der Acura ZDX Type S verfügt über eine Reihe von standardmäßigen und optiona
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Acura ZDX Type S, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Optional im Acura ZDX Type S, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard im Acura ZDX Type S, dieses Fahrerassistenzsystem hilft Fahrern, den Querverkehr zu erkennen, wenn sie eine Kreuzung überqueren oder von einer stehenden Position nach links oder rechts abbiegen.
 
 [**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Acura ZDX Type S, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
 
@@ -280,7 +280,7 @@ Mit dem standardmäßigen AcuraWatch™ 360+ Level 2 System erhalten Sie die fol
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und acht [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 ## Sicherheit
 

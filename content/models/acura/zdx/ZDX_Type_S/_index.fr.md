@@ -257,7 +257,7 @@ Le Acura ZDX Type S comprend plusieurs [systèmes avancés d'assistance au condu
 
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Acura ZDX Type S, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Facultatif sur le Acura ZDX Type S, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Acura ZDX Type S, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
 
 [**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Acura ZDX Type S, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
 
@@ -280,7 +280,7 @@ Avec le système standard AcuraWatch™ 360+ de niveau 2, vous obtenez les fonct
 ### Capteurs & Caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et huit [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Sécurité
 

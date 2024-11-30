@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2706 kg
+				2639 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				3200 kg
+				3150 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				494 kg
+				511 kg
 			</td>
 		</tr>
 		<tr>
@@ -910,7 +910,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

@@ -254,7 +254,7 @@ The Acura ZDX A-Spec AWD features a range of standard and optional [advanced dri
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Acura ZDX A-Spec AWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Acura ZDX A-Spec AWD, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Acura ZDX A-Spec AWD, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Acura ZDX A-Spec AWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
@@ -268,10 +268,11 @@ The Acura ZDX A-Spec AWD features a range of standard and optional [advanced dri
 
 ### Driving Automation
 
-With the standard AcuraWatch™ 360+ level 2 system, you get the following driving automation features.
+The Acura ZDX A-Spec AWD offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+
+With the AcuraWatch™ 360+ level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensors & Cameras
@@ -303,7 +304,7 @@ The Acura ZDX A-Spec AWD is equipped with advanced security features to protect 
 
 The trunk offers a cargo capacity of 813 liters (28.7 CU FT). With the rear seat folded down, this expands to 1756 liters (62.0 CU FT). On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
-The vehicle’s maximum weight is 3200 kg (7055 lbs), with a base weight of 2706 kg (5966 lbs). This allows for a maximum load of 494 kg (1089 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 494kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 3150 kg (6945 lbs), with a base weight of 2639 kg (5818 lbs). This allows for a maximum load of 511 kg (1127 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

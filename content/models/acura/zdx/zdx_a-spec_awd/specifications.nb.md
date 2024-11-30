@@ -307,7 +307,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2706 kg
+				2639 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				3200 kg
+				3150 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				494 kg
+				511 kg
 			</td>
 		</tr>
 		<tr>
@@ -910,7 +910,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

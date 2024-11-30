@@ -257,7 +257,7 @@ Den Acura ZDX Type S inkluderer flere standard- og valgfri [avancerede førerass
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX Type S, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfrit på Acura ZDX Type S, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Acura ZDX Type S, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX Type S, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
 
@@ -280,7 +280,7 @@ Med standard AcuraWatch™ 360+ niveau 2-systemet får du følgende funktioner t
 ### Sensorer & Kameraer
 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og otte [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerhed
 

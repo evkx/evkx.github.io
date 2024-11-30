@@ -257,7 +257,7 @@ Acura ZDX Type S inkluderar flera [avancerade förarassistanssystem](../../../..
 
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX Type S, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Acura ZDX Type S, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Acura ZDX Type S, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
 [**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX Type S, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
 
@@ -280,7 +280,7 @@ Med standard AcuraWatch™ 360+ nivå 2-systemet får du följande funktioner f�
 ### Sensorer & Kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
-Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhet
 

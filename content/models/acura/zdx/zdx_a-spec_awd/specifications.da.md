@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2706 kg
+				2639 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				3200 kg
+				3150 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				494 kg
+				511 kg
 			</td>
 		</tr>
 		<tr>
@@ -910,7 +910,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

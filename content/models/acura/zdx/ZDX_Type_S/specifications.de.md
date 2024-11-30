@@ -910,7 +910,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Querverkehrsassistent
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

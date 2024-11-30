@@ -254,7 +254,7 @@ El Acura ZDX A-Spec AWD incluye varios [sistemas avanzados de asistencia al cond
 
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Acura ZDX A-Spec AWD, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Acura ZDX A-Spec AWD, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Acura ZDX A-Spec AWD, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
 [**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Acura ZDX A-Spec AWD, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
 
@@ -268,10 +268,11 @@ El Acura ZDX A-Spec AWD incluye varios [sistemas avanzados de asistencia al cond
 
 ### Automatización de la Conducción
 
-Con el sistema estándar AcuraWatch™ 360+ de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Acura ZDX A-Spec AWD ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+
+Con el sistema AcuraWatch™ 360+ de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras
@@ -303,7 +304,7 @@ El Acura ZDX A-Spec AWD está equipado con características de seguridad avanzad
 
 El maletero ofrece una capacidad de carga de 813 litros. Con el asiento trasero plegado, esto se expande a 1756 litros. En el techo, puedes cargar hasta 70 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 3200 kg, con un peso base de 2706 kg. Esto permite una carga máxima de 494 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 494 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+El peso máximo del vehículo es 3150 kg, con un peso base de 2639 kg. Esto permite una carga máxima de 511 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1588 kg, mientras que para un tráiler sin freno es de 750 kg.
 

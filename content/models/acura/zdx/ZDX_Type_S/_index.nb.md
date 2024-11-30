@@ -257,7 +257,7 @@ Acura ZDX Type S inkluderer flere [avanserte førerassistanse systemer](../../..
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX Type S, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Acura ZDX Type S, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Acura ZDX Type S, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
 [**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX Type S, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
@@ -280,7 +280,7 @@ Med standard AcuraWatch™ 360+ nivå 2-system får du følgende kjøreautomatis
 ### Sensorer & Kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og åtte [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhet
 

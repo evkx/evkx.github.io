@@ -910,7 +910,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

@@ -910,7 +910,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

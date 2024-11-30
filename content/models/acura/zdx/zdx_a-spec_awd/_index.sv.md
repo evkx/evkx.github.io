@@ -254,7 +254,7 @@ Acura ZDX A-Spec AWD inkluderar flera [avancerade förarassistanssystem](../../.
 
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX A-Spec AWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Acura ZDX A-Spec AWD, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Acura ZDX A-Spec AWD, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
 [**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX A-Spec AWD, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
 
@@ -268,10 +268,11 @@ Acura ZDX A-Spec AWD inkluderar flera [avancerade förarassistanssystem](../../.
 
 ### Körautomatisering
 
-Med standard AcuraWatch™ 360+ nivå 2-systemet får du följande funktioner för körautomatisering.
+Acura ZDX A-Spec AWD erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+
+Med AcuraWatch™ 360+ nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameror
@@ -303,7 +304,7 @@ Acura ZDX A-Spec AWD är utrustad med avancerade säkerhetsfunktioner för att s
 
 Bagageutrymmet erbjuder en lastkapacitet på 813 liter. Med baksätena nedfällda ökar detta till 1756 liter. På taket kan du lasta upp till 70 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
-Fordonets maximala vikt är 3200 kg, med en grundvikt på 2706 kg. Detta tillåter en maximal last på 494 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 494 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 3150 kg, med en grundvikt på 2639 kg. Detta tillåter en maximal last på 511 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 

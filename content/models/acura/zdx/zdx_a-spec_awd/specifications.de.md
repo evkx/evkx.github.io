@@ -307,7 +307,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2706 kg (5966 lbs)
+				2639 kg (5818 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				3200 kg (7055 lbs)
+				3150 kg (6945 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				494 kg (1089 lbs)
+				511 kg (1127 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -910,7 +910,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Querverkehrsassistent
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

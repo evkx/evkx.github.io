@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2706 kg
+				2639 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				3200 kg
+				3150 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				494 kg
+				511 kg
 			</td>
 		</tr>
 		<tr>
@@ -910,7 +910,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au trafic transversal
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

@@ -257,7 +257,7 @@ The Acura ZDX Type S features a range of standard and optional [advanced driver 
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Acura ZDX Type S, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Acura ZDX Type S, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Acura ZDX Type S, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Acura ZDX Type S, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
@@ -280,7 +280,7 @@ With the standard AcuraWatch™ 360+ level 2 system, you get the following drivi
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Safety
 
