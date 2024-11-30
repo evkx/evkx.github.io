@@ -32,7 +32,7 @@ This model has been replaced by [Porsche Taycan Turbo S Cross Turismo](/models/p
 
 ## Performance
 
-The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 560 kW (761 hp / 751 bhp) when using overboost. Without overboost, it still offers a robust 460 kW (625 hp / 617 bhp). The vehicle generates a maximum torque of 850 Nm (627 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 2.8 seconds and reach a top speed of 260 km/h (162 mph).
+The Porsche Taycan Turbo S Cross Turismo (GEN1) delivers impressive performance with a maximum power of 560 kW (761 hp / 751 bhp) when using overboost. Without overboost, it still offers a robust 460 kW (625 hp / 617 bhp). The vehicle generates a maximum torque of 850 Nm (627 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 2.8 seconds and reach a top speed of 260 km/h (162 mph).
 
 ## Battery, Range, and Charging
 

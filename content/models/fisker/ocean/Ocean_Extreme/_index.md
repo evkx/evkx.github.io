@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 415 kW (564 hp / 557 bhp) when using overboost. Without overboost, it still offers a robust 344 kW (468 hp / 461 bhp). The vehicle generates a maximum torque of 737 Nm (544 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 4 seconds and reach a top speed of 205 km/h (127 mph).
+The Fisker Ocean Extreme delivers impressive performance with a maximum power of 415 kW (564 hp / 557 bhp) when using overboost. Without overboost, it still offers a robust 344 kW (468 hp / 461 bhp). The vehicle generates a maximum torque of 737 Nm (544 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 4 seconds and reach a top speed of 205 km/h (127 mph).
 
 ## Battery, Range, and Charging
 

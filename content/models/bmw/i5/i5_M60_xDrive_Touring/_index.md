@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Porsche Taycan GTS Sport Turismo delivers impressive performance with a maximum power of 442 kW (601 hp / 593 bhp) when using overboost. Without overboost, it still offers a robust 380 kW (517 hp / 510 bhp). The vehicle generates a maximum torque of 820 Nm (605 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds and reach a top speed of 230 km/h (143 mph).
+The BMW i5 M60 xDrive Touring delivers impressive performance with a maximum power of 442 kW (601 hp / 593 bhp) when using overboost. Without overboost, it still offers a robust 380 kW (517 hp / 510 bhp). The vehicle generates a maximum torque of 820 Nm (605 lb-ft), enabling it to accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds and reach a top speed of 230 km/h (143 mph).
 
 ## Battery, Range, and Charging
 
