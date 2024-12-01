@@ -76,7 +76,7 @@ El Audi A6 Sportback e-tron quattro permite al usuario seleccionar diferentes [m
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 350 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
 
 ### Frenado regenerativo
 
@@ -173,8 +173,16 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 ### Almacenamiento Interior
 
+El Audi A6 Sportback e-tron quattro ofrece amplias soluciones de almacenamiento interior para mejorar la conveniencia y la organización:
+
 - **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
 - **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+
+### Iluminación Interior
+
+El Audi A6 Sportback e-tron quattro ofrece una variedad de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores según tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción. Esta característica es opcional.
 
 ## Sistema de climatización
 
@@ -213,7 +221,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Audi A6 Sportback e-tron quattro está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante presenta una parte inferior y superior plana, proporcionando un aspecto y sensación deportivos. También incluye botones físicos, ruedas de desplazamiento y levas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
@@ -322,6 +330,16 @@ Con el sistema opcional Adaptive Cruise Assist de nivel 2, obtienes funciones ad
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
+## Seguridad
+
+El Audi A6 Sportback e-tron quattro está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Airbags laterales para los pasajeros de la segunda fila
+- Un airbag central delantero para evitar que el conductor y el pasajero delantero choquen entre sí durante un impacto lateral
+
 ## Tecnologías de seguridad y acceso
 
 El Audi A6 Sportback e-tron quattro está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
@@ -344,7 +362,13 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en December 2024.
+Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en March 2025.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- 759 000,00 NOK (Noruega)
 
 ## Modelos Alternativos
 

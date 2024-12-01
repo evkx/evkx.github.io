@@ -76,7 +76,7 @@ Audi A6 Sportback e-tron quattro lader brugeren vælge forskellige [drive modes]
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 400mm, og de bagerste skiver er 350mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
 
 ### Regenerativ bremsning
 
@@ -173,8 +173,16 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 ### Interiøropbevaring
 
+Audi A6 Sportback e-tron quattro tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
+
 - **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
 - **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+
+### Interiørbelysning
+
+Audi A6 Sportback e-tron quattro tilbyder en række interiørbelysningsmuligheder designet til at skabe en behagelig atmosfære og forbedre synligheden.
+
+- **Flerfarvet Ambient Belysning:** Denne funktion strækker sig over instrumentbrættet, dørsiderne og fodrummet, hvilket skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer et personligt præg til din køreoplevelse. Denne funktion er valgfri.
 
 ## Klimasystem
 
@@ -213,7 +221,7 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 Audi A6 Sportback e-tron quattro er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært Rat:** Dette rat har en flad bund og top, hvilket giver et sporty udseende og følelse. Det inkluderer også fysiske knapper, rullehjul og skiftepaler, så du kan styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
 
 ### Spejle
 
@@ -322,6 +330,16 @@ Med det valgfrie Adaptive Cruise Assist niveau 2-system får du yderligere funkt
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
+## Sikkerhed
+
+Audi A6 Sportback e-tron quattro er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+
+- Frontairbags til føreren og forsædepassageren
+- Sidegardinairbags til både første og anden række
+- Sideairbags til føreren og forsædepassageren
+- Sideairbags til passagererne i anden række
+- En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+
 ## Sikkerheds- og adgangsteknologier
 
 Audi A6 Sportback e-tron quattro er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
@@ -344,7 +362,13 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at starte om December 2024.
+Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at starte om March 2025.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 759 000,00 NOK (Norge)
 
 ## Alternative Modeller
 

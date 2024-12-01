@@ -30,6 +30,8 @@ The Tesla Model Y Standard Range delivers a solid performance with a maximum pow
 
 ## Battery, Range, and Charging
 
+The Tesla Model Y Standard Range is available with four battery options, each offering different specifications and performance metrics.
+
 ### CATL LFP Europa/China market
 
 The high-capacity battery has a gross capacity of 60.0 kWh and a net usable capacity of 55.0 kWh, providing a 5.0 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.

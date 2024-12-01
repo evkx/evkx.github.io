@@ -191,6 +191,12 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
 - **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
 
+### Éclairage Intérieur
+
+Le Audi Q6 Sportback e-tron quattro offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
+
+- **Éclairage d'Ambiance Multicolore:** Cette fonctionnalité s'étend sur le tableau de bord, les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs en fonction de votre humeur ou de vos préférences, ajoutant une touche personnelle à votre expérience de conduite. Cette fonctionnalité est optionnelle.
+
 ## Système de climatisation
 
 Un système climatique est disponible.
@@ -229,7 +235,7 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Audi Q6 Sportback e-tron quattro est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire:** Ce volant présente un bas et un haut plats, offrant un look et une sensation sportifs. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 

@@ -413,6 +413,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1661 mm (65,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1618 mm (63,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag coefficient
 			</td>
 			<td>

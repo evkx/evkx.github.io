@@ -30,6 +30,8 @@ The Nio ET5 Touring packs an impressive punch with a maximum power of 480 kW (65
 
 ## Battery, Range, and Charging
 
+The Nio ET5 Touring is available with two battery options, each offering different specifications and performance metrics.
+
 ### 100kWh
 
 The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 90.0 kWh, providing a 10.0 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.

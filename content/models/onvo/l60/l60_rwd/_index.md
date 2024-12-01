@@ -30,6 +30,8 @@ The Onvo L60 RWD delivers a solid performance with a maximum power of 240 kW (32
 
 ## Battery, Range, and Charging
 
+The Onvo L60 RWD is available with two battery options, each offering different specifications and performance metrics.
+
 ### 85kWh
 
 The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 792 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).

@@ -76,7 +76,7 @@ The Audi A6 Sportback e-tron quattro lets the user select different [drive modes
 
 ### Brakes
 
-The Audi A6 Sportback e-tron quattro is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 400 mm, while the rear discs are 350 mm.
+The Audi A6 Sportback e-tron quattro is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -173,8 +173,16 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 ### Interior Storage
 
+The Audi A6 Sportback e-tron quattro provides ample interior storage solutions to enhance convenience and organization:
+
 - **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
+### Interior Lighting
+
+The Audi A6 Sportback e-tron quattro offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience. This feature is optional.
 
 ## Climate System
 
@@ -213,7 +221,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Audi A6 Sportback e-tron quattro is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also includes physical buttons, scroll wheels, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -322,6 +330,16 @@ With the optional Adaptive Cruise Assist level 2 system, you get additional driv
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
+## Safety
+
+The Audi A6 Sportback e-tron quattro is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- Side airbags for the second-row passengers
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
 ## Security and Access Technologies
 
 The Audi A6 Sportback e-tron quattro is equipped with advanced security features to protect you and your vehicle. These include:
@@ -344,7 +362,13 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 31.07.2024, with deliveries anticipated to begin in December 2024.
+This model made its world premiere on 31.07.2024, with deliveries anticipated to begin in March 2025.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 759 000,00 NOK (Norway)
 
 ## Alternative Models
 

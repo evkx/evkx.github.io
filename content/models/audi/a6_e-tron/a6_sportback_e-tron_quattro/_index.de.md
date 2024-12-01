@@ -76,7 +76,7 @@ Der Audi A6 Sportback e-tron quattro ermöglicht es dem Benutzer, verschiedene [
 
 ### Bremsen
 
-Der Audi A6 Sportback e-tron quattro ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 400 mm, während die hinteren Scheiben 350 mm groß sind.
+Der Audi A6 Sportback e-tron quattro ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 350 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -173,8 +173,16 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 
 ### Innenraumaufbewahrung
 
+Der Audi A6 Sportback e-tron quattro bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
+
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+
+### Innenbeleuchtung
+
+Der Audi A6 Sportback e-tron quattro bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
+
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so eine persönliche Note in Ihr Fahrerlebnis bringen. Diese Funktion ist optional.
 
 ## Klimaanlage
 
@@ -213,7 +221,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Audi A6 Sportback e-tron quattro ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad hat einen flachen Boden und eine flache Oberseite, was ein sportliches Aussehen und Gefühl vermittelt. Es umfasst auch physische Tasten, Scrollräder und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
 
 ### Spiegel
 
@@ -322,6 +330,16 @@ Mit dem optionalen Adaptive Cruise Assist Level 2 System erhalten Sie zusätzlic
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
+## Sicherheit
+
+Der Audi A6 Sportback e-tron quattro ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Seitenairbags für die Passagiere der zweiten Reihe
+- Ein vorderer Mittelairbag, um zu verhindern, dass Fahrer und Beifahrer bei einem Seitenaufprall miteinander kollidieren
+
 ## Sicherheits- und Zugangstechnologien
 
 Der Audi A6 Sportback e-tron quattro ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
@@ -344,7 +362,13 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Dieses Modell feierte seine Weltpremiere am 31.07.2024, mit erwarteten Lieferungen ab December 2024.
+Dieses Modell feierte seine Weltpremiere am 31.07.2024, mit erwarteten Lieferungen ab March 2025.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 759 000,00 NOK (Norwegen)
 
 ## Alternative Modelle
 

@@ -413,6 +413,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1661 mm (65,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1618 mm (63,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Luftwiderstandsbeiwert
 			</td>
 			<td>

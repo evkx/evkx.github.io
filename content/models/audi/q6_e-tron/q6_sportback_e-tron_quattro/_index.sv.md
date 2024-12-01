@@ -191,6 +191,12 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 - **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
 
+### Interiör Belysning
+
+Audi Q6 Sportback e-tron quattro erbjuder ett utbud av interiörbelysningsalternativ som är utformade för att skapa en behaglig atmosfär och förbättra synligheten.
+
+- **Flerfärgad Ambient Belysning:** Denna funktion sträcker sig över instrumentbrädan, dörrpanelerna och fotutrymmet, vilket ger en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller din preferens, vilket ger en personlig touch till din körupplevelse. Denna funktion är valfri.
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -229,7 +235,7 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 Audi Q6 Sportback e-tron quattro är utrustad med en enda typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar, rullhjul och växelpaddlar, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 

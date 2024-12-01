@@ -191,6 +191,12 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
 
+### Innenbeleuchtung
+
+Der Audi Q6 Sportback e-tron quattro bietet eine Reihe von Innenbeleuchtungsoptionen, die eine angenehme Atmosphäre schaffen und die Sichtbarkeit verbessern.
+
+- **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über das Armaturenbrett, die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so eine persönliche Note in Ihr Fahrerlebnis bringen. Diese Funktion ist optional.
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -229,7 +235,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Audi Q6 Sportback e-tron quattro ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad hat einen flachen Boden und eine flache Oberseite, was ein sportliches Aussehen und Gefühl vermittelt. Es umfasst auch physische Tasten, Scrollräder und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
 
 ### Spiegel
 

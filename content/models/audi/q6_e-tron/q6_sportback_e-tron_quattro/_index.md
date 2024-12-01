@@ -191,6 +191,12 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 - **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
 
+### Interior Lighting
+
+The Audi Q6 Sportback e-tron quattro offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience. This feature is optional.
+
 ## Climate System
 
 There is one climate system available:
@@ -229,7 +235,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Audi Q6 Sportback e-tron quattro is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also includes physical buttons, scroll wheels, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 

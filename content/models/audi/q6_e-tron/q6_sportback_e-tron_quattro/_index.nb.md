@@ -191,6 +191,12 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 - **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
 
+### Interiørbelysning
+
+Audi Q6 Sportback e-tron quattro tilbyr et utvalg av interiørbelysningsalternativer designet for å skape en behagelig atmosfære og forbedre synligheten.
+
+- **Flerfarget Ambient Belysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og gir en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humøret eller preferansen din, og legge til en personlig touch til kjøreopplevelsen din. Denne funksjonen er valgfri.
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -229,7 +235,7 @@ Et head-up display er en valgfri-system som viser hastighet og annen viktig før
 
 Audi Q6 Sportback e-tron quattro er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt:** Dette rattet har en flat bunn og topp, noe som gir et sporty utseende og følelse. Det inkluderer også fysiske knapper, rullehjul og girskiftere, slik at du kan kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet.
 
 ### Speil
 

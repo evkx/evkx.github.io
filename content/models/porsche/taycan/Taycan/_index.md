@@ -32,6 +32,8 @@ With the optional Performance Battery Plus battery, you get other performance nu
 
 ## Battery, Range, and Charging
 
+The Porsche Taycan is available with two battery options, each offering different specifications and performance metrics.
+
 ### Performance Battery
 
 The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 82.3 kWh, providing a 6.7 kWh buffer (7.5%) for battery protection. Operating at a nominal voltage of 618 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
