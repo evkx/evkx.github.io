@@ -32,8 +32,6 @@ With the optional Performance Battery Plus battery, you get other performance nu
 
 ## Battery, Range, and Charging
 
-Porsche Taycan 4S has two battery options with different specifications. Below you see how this affects range and charging.
-
 ### Performance Battery
 
 The high-capacity battery has a gross capacity of 79.2 kWh and a net usable capacity of 71.0 kWh, providing a 8.2 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 615 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
@@ -42,7 +40,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 225 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical scenario from 10% to 80% takes 19 minutes with an average charging speed of 153 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 67%. This results in an effective charging speed, including time lost, of 133 kW, with each charging session taking about 21 minutes and 23 seconds. This efficient charging capability makes the Porsche Taycan 4S a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 27 minutes. This journey would require three charging stops from 0% to 70%, with a total charging time of 67 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 22 kWh/100 km, the trip would take about 9 hours and 27 minutes, requiring three charging stops from 0% to 70%, totaling 67 minutes of charging time.
 
 ### Performance Battery Plus
 
@@ -52,11 +50,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 191 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 64%. This results in an effective charging speed, including time lost, of 162 kW, with each charging session taking about 19 minutes and 52 seconds. This efficient charging capability makes the Porsche Taycan 4S a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 11 minutes. This journey would require three charging stops from 3% to 58%, with a total charging time of 51 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 22 kWh/100 km, the trip would take about 9 hours and 11 minutes, requiring three charging stops from 3% to 58%, totaling 51 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 27 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 3 hours and 13 minutes at home.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 6 hours and 27 minutes using a home setup. An optional 22 kW onboard charger reduces the full charge time to approximately 3 hours and 13 minutes.
 
 ### Charge Port
 

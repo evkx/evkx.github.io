@@ -171,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14,3 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -195,7 +195,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				16,8 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +235,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14,3 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -259,7 +259,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				16,8 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -276,78 +276,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 
 ## Batteri och laddning
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Total batterikapacitet (brutto)
-			</td>
-			<td>
-				105 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Användbar batterikapacitet (netto)
-			</td>
-			<td>
-				97 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max laddningskapacitet
-			</td>
-			<td>
-				320 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Antal moduler
-			</td>
-			<td>
-				33
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Packkonfiguration
-			</td>
-			<td>
-				198s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Nominell spänning
-			</td>
-			<td>
-				729
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Katodmaterial
-			</td>
-			<td>
-				NMC
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 
 <table class="table table-striped border">
 	<thead>
@@ -407,6 +335,78 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				618
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Total batterikapacitet (brutto)
+			</td>
+			<td>
+				105 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Användbar batterikapacitet (netto)
+			</td>
+			<td>
+				97 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max laddningskapacitet
+			</td>
+			<td>
+				320 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				198s2p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spänning
+			</td>
+			<td>
+				729
 			</td>
 		</tr>
 		<tr>

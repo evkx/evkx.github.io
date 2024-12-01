@@ -36,11 +36,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 50 kW. Charging from 0% to 100% takes approximately 208 minutes, while a more typical scenario from 10% to 80% takes 92 minutes with an average charging speed of 29 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 35%. This results in an effective charging speed, including time lost, of 33 kW, with each charging session taking about 37 minutes and 54 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 14 hours and 0 minutes. This journey would require seven charging stops from 3% to 45%, with a total charging time of 341 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 14 hours and 0 minutes, requiring seven charging stops from 3% to 45%, totaling 341 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 8 minutes using a home charging setup.
+The standard onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 9 hours and 8 minutes using a home setup.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 

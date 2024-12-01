@@ -171,7 +171,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14,3 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -195,7 +195,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,8 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +235,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14,3 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -259,7 +259,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,8 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -276,78 +276,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 ## Battery & Charging
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/battery/buffer/">Battery gross</a>
-			</td>
-			<td>
-				105 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/buffer/">Battery net</a>
-			</td>
-			<td>
-				97 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/charging/">Max DC charging</a>
-			</td>
-			<td>
-				320 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Number of modules
-			</td>
-			<td>
-				33
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/batterypack/">Pack Configuration</a>
-			</td>
-			<td>
-				198s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/batterypack/">Nominal voltage</a>
-			</td>
-			<td>
-				729
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
-			</td>
-			<td>
-				NMC
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 
 <table class="table table-striped border">
 	<thead>
@@ -407,6 +335,78 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				618
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/battery/buffer/">Battery gross</a>
+			</td>
+			<td>
+				105 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/buffer/">Battery net</a>
+			</td>
+			<td>
+				97 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/charging/">Max DC charging</a>
+			</td>
+			<td>
+				320 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Number of modules
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+			</td>
+			<td>
+				198s2p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				729
 			</td>
 		</tr>
 		<tr>

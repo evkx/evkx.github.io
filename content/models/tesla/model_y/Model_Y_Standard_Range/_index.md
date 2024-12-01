@@ -30,8 +30,6 @@ The Tesla Model Y Standard Range delivers a solid performance with a maximum pow
 
 ## Battery, Range, and Charging
 
-Tesla Model Y Standard Range has four battery options with different specifications. Below you see how this affects range and charging.
-
 ### CATL LFP Europa/China market
 
 The high-capacity battery has a gross capacity of 60.0 kWh and a net usable capacity of 55.0 kWh, providing a 5.0 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
@@ -40,7 +38,7 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 82 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 87 kW, with each charging session taking about 18 minutes and 46 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 56 minutes. This journey would require five charging stops from 0% to 51%, with a total charging time of 97 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 19.5 kWh/100 km, the trip would take about 9 hours and 56 minutes, requiring five charging stops from 0% to 51%, totaling 97 minutes of charging time.
 
 ### BYD LFP Europa/China market
 
@@ -50,7 +48,7 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 126 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 63%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 19 minutes and 46 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 36 minutes. This journey would require four charging stops from 0% to 64%, with a total charging time of 76 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 19.5 kWh/100 km, the trip would take about 9 hours and 36 minutes, requiring four charging stops from 0% to 64%, totaling 76 minutes of charging time.
 
 ### NMC 4850 US Market
 
@@ -60,7 +58,7 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 86 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 35%. This results in an effective charging speed, including time lost, of 81 kW, with each charging session taking about 18 minutes and 46 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 53 minutes. This journey would require five charging stops from 0% to 37%, with a total charging time of 94 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 19.5 kWh/100 km, the trip would take about 9 hours and 53 minutes, requiring five charging stops from 0% to 37%, totaling 94 minutes of charging time.
 
 ### NMC 21700 US Market Software locked
 
@@ -70,11 +68,11 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical scenario from 10% to 80% takes 24 minutes with an average charging speed of 120 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 59%. This results in an effective charging speed, including time lost, of 109 kW, with each charging session taking about 22 minutes and 11 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 30 minutes. This journey would require three charging stops from 0% to 62%, with a total charging time of 70 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 19.5 kWh/100 km, the trip would take about 9 hours and 30 minutes, requiring three charging stops from 0% to 62%, totaling 70 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 0 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 5 hours and 0 minutes using a home setup.
 
 ### Charge Port
 

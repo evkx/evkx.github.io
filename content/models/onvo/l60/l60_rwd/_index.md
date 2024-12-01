@@ -30,8 +30,6 @@ The Onvo L60 RWD delivers a solid performance with a maximum power of 240 kW (32
 
 ## Battery, Range, and Charging
 
-Onvo L60 RWD has two battery options with different specifications. Below you see how this affects range and charging.
-
 ### 85kWh
 
 The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 792 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
@@ -50,7 +48,7 @@ The vehicle supports fast DC charging with a maximum power of 150 kW. Charging f
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 8 hours and 10 minutes using a home setup.
 
 ### Charge Port
 

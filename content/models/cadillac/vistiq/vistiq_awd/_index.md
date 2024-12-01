@@ -37,11 +37,11 @@ The energy consumption rates are 3.0 mi/kWh for the base model and 2.9 mi/kWh fo
 
 The vehicle supports fast DC charging with a maximum power of 190 kW. Charging from 0% to 100% takes approximately 190 minutes, while a more typical scenario from 10% to 80% takes 34 minutes with an average charging speed of 133 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 65%. This results in an effective charging speed, including time lost, of 119 kW, with each charging session taking about 31 minutes and 50 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 33 minutes. This journey would require two charging stops from 6% to 73%, with a total charging time of 73 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 9 hours and 33 minutes, requiring two charging stops from 6% to 73%, totaling 73 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 20 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 19.2 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 5 hours and 35 minutes at home.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 9 hours and 20 minutes using a home setup. An optional 19.2 kW onboard charger reduces the full charge time to approximately 5 hours and 35 minutes.
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/charging_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="1928"  >}}
 

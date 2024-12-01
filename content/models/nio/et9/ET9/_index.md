@@ -36,11 +36,11 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 600 kW. Charging from 0% to 100% takes approximately 32 minutes, while a more typical scenario from 10% to 80% takes 14 minutes with an average charging speed of 325 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 63%. This results in an effective charging speed, including time lost, of 262 kW, with each charging session taking about 15 minutes and 53 seconds. This exceptionally fast charging capability makes the Nio ET9 one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 8 hours and 45 minutes. This journey would require two charging stops from 6% to 55%, with a total charging time of 26 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 22 kWh/100 km, the trip would take about 8 hours and 45 minutes, requiring two charging stops from 6% to 55%, totaling 26 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 10 hours and 10 minutes using a home setup.
 
 ### Charge Port
 

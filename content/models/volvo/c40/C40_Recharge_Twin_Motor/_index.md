@@ -42,11 +42,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical scenario from 10% to 80% takes 29 minutes with an average charging speed of 116 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 50%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 20 minutes and 45 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 28 kWh/100 km, the trip would take approximately 10 hours and 2 minutes. This journey would require five charging stops from 1% to 52%, with a total charging time of 103 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 28 kWh/100 km, the trip would take about 10 hours and 2 minutes, requiring five charging stops from 1% to 52%, totaling 103 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 7 hours and 10 minutes using a home setup.
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/charging_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 

@@ -36,11 +36,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 39 minutes, while a more typical scenario from 10% to 80% takes 17 minutes with an average charging speed of 188 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 149 kW, with each charging session taking about 22 minutes and 20 seconds. This efficient charging capability makes the Hyundai Ioniq 5 Long Range AWD (GEN1) a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 9 hours and 27 minutes. This journey would require three charging stops from 1% to 76%, with a total charging time of 67 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 24 kWh/100 km, the trip would take about 9 hours and 27 minutes, requiring three charging stops from 1% to 76%, totaling 67 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 43 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 6 hours and 43 minutes using a home setup.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 

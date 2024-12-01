@@ -30,8 +30,6 @@ The Nio ET5 Touring packs an impressive punch with a maximum power of 480 kW (65
 
 ## Battery, Range, and Charging
 
-Nio ET5 Touring has two battery options with different specifications. Below you see how this affects range and charging.
-
 ### 100kWh
 
 The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 90.0 kWh, providing a 10.0 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
@@ -40,7 +38,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 180 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical scenario from 10% to 80% takes 42 minutes with an average charging speed of 89 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 43%. This results in an effective charging speed, including time lost, of 84 kW, with each charging session taking about 27 minutes and 52 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 59 minutes. This journey would require four charging stops from 1% to 40%, with a total charging time of 100 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 23 kWh/100 km, the trip would take about 9 hours and 59 minutes, requiring four charging stops from 1% to 40%, totaling 100 minutes of charging time.
 
 ### 75kWh
 
@@ -50,11 +48,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 74%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 38 minutes and 39 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 29 minutes. This journey would require four charging stops from 8% to 65%, with a total charging time of 129 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 23 kWh/100 km, the trip would take about 10 hours and 29 minutes, requiring four charging stops from 8% to 65%, totaling 129 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 8 hours and 10 minutes using a home setup.
 
 ### Charge Port
 

@@ -36,11 +36,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 57 minutes, while a more typical scenario from 10% to 80% takes 29 minutes with an average charging speed of 129 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 63%. This results in an effective charging speed, including time lost, of 119 kW, with each charging session taking about 28 minutes and 50 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 20.0 kWh/100 km, the trip would take approximately 9 hours and 15 minutes. This journey would require two charging stops from 2% to 63%, with a total charging time of 56 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 20.0 kWh/100 km, the trip would take about 9 hours and 15 minutes, requiring two charging stops from 2% to 63%, totaling 56 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 7 minutes using a home charging setup.
+The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 4 hours and 7 minutes using a home setup.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/charging_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 

@@ -36,11 +36,11 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 130 kW. Charging from 0% to 100% takes approximately 74 minutes, while a more typical scenario from 10% to 80% takes 38 minutes with an average charging speed of 67 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 43%. This results in an effective charging speed, including time lost, of 71 kW, with each charging session taking about 21 minutes and 9 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.9 kWh/100 km, the trip would take approximately 10 hours and 18 minutes. This journey would require six charging stops from 1% to 40%, with a total charging time of 118 minutes.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 19.9 kWh/100 km, the trip would take about 10 hours and 18 minutes, requiring six charging stops from 1% to 40%, totaling 118 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 7.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 20 minutes using a home charging setup.
+The standard onboard charger supports up to 7.2 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 8 hours and 20 minutes using a home setup.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}
 
