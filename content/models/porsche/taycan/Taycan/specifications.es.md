@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima
 			</td>
 			<td>
-				320 KW (435 hp)
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima con impulso
 			</td>
 			<td>
-				320 KW (435 hp)
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Salida de par eléctrico
 			</td>
 			<td>
-				420 nm
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				420 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima
 			</td>
 			<td>
-				300 KW (408 hp)
+				320 KW (435 hp)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 KW (408 hp)
+				320 KW (435 hp)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Salida de par eléctrico
 			</td>
 			<td>
-				410 nm
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +119,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				410 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt med boost
 			</td>
 			<td>
-				320 KW (435 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Vridmoment
 			</td>
 			<td>
-				420 nm
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Vridmoment med boost
 			</td>
 			<td>
-				420 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt
 			</td>
 			<td>
-				300 KW (408 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt med boost
 			</td>
 			<td>
-				300 KW (408 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Vridmoment
 			</td>
 			<td>
-				410 nm
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +119,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Vridmoment med boost
 			</td>
 			<td>
-				410 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>

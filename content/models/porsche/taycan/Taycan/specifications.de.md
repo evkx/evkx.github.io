@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Spitzenleistung
 			</td>
 			<td>
-				320 KW (435 PS /429 bhp)
+				300 KW (408 PS /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Spitzenleistung mit Boost
 			</td>
 			<td>
-				320 KW (435 PS /429 bhp)
+				300 KW (408 PS /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				420 nm (310 lb-ft)
+				410 nm (303 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Elektrisches Drehmoment mit Boost
 			</td>
 			<td>
-				420 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Spitzenleistung
 			</td>
 			<td>
-				300 KW (408 PS /402 bhp)
+				320 KW (435 PS /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Spitzenleistung mit Boost
 			</td>
 			<td>
-				300 KW (408 PS /402 bhp)
+				320 KW (435 PS /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				410 nm (303 lb-ft)
+				420 nm (310 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +119,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Porsche Taycan zu 
 				Elektrisches Drehmoment mit Boost
 			</td>
 			<td>
-				410 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>

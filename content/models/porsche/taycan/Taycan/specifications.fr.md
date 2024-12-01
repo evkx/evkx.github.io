@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				320 KW (435 ch)
+				300 KW (408 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				320 KW (435 ch)
+				300 KW (408 ch)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Couple de sortie électrique
 			</td>
 			<td>
-				420 nm
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				420 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				300 KW (408 ch)
+				320 KW (435 ch)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				300 KW (408 ch)
+				320 KW (435 ch)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Couple de sortie électrique
 			</td>
 			<td>
-				410 nm
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +119,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				410 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>

@@ -26,7 +26,9 @@ Vi har delt vår beskrivelse av Porsche Taycan i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan en maksimal effekt på 320 kW (435 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 420 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse. Med overboost når Porsche Taycan en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 300 kW (408 hk). Maksimalt dreiemoment er 410 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
+Med overboost når Porsche Taycan en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 300 kW (408 hk). Maksimalt dreiemoment er 410 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
+
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan en maksimal effekt på 320 kW (435 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 420 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 
@@ -68,7 +70,7 @@ Porsche Taycan har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
 ### Hjuloppheng
 
-Du kan bestille Porsche Taycan med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 126 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 126 mm.
 
 Du kan bestille Porsche Taycan med en alternativ Porsche Active Ride hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 128 mm.
 
@@ -457,7 +459,10 @@ Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfo
 I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Porsche Taycan som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Audi A6 Sportback e-tron performance](/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
+- [BMW i4 eDrive40](/models/bmw/i4/i4_edrive40/)
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
 
-<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847%2ca84ddc%2cbfed6e%2c4bf8f9" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

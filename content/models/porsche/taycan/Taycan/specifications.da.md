@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				320 KW (435 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				420 nm
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				420 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				300 KW (408 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				300 KW (408 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				410 nm
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +119,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				410 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>

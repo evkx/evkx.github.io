@@ -26,7 +26,9 @@ Vi har delat in vår beskrivning av Porsche Taycan i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost når Porsche Taycan en maximal effekt på 320 kW (435 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 420 Nm. Den kan accelerera från 0 till 100 km/h på 4,8 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda. Med overboost når Porsche Taycan en maximal effekt på 300 kW (408 hk). Utan overboost levererar den 300 kW (408 hk). Det maximala vridmomentet är 410 Nm. Den kan accelerera från 0 till 100 km/h på 4,8 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda.
+Med overboost når Porsche Taycan en maximal effekt på 300 kW (408 hk). Utan overboost levererar den 300 kW (408 hk). Det maximala vridmomentet är 410 Nm. Den kan accelerera från 0 till 100 km/h på 4,8 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda.
+
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost når Porsche Taycan en maximal effekt på 320 kW (435 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 420 Nm. Den kan accelerera från 0 till 100 km/h på 4,8 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda.
 
 ## Batteri, räckvidd och laddning
 
@@ -68,7 +70,7 @@ Porsche Taycan har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
 ### Hjulupphängning
 
-Du kan beställa Porsche Taycan med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 126 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 126 mm.
 
 Du kan beställa Porsche Taycan med en alternativ Porsche Active Ride-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 128 mm.
 
@@ -457,7 +459,10 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Porsche Taycan som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
 
 - [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Audi A6 Sportback e-tron performance](/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
+- [BMW i4 eDrive40](/models/bmw/i4/i4_edrive40/)
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
 
-<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847%2ca84ddc%2cbfed6e%2c4bf8f9" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

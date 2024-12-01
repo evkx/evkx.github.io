@@ -26,7 +26,9 @@ Nous avons séparé notre article Porsche Taycan en sections. Si vous souhaitez 
 
 ## Performances
 
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, l'Porsche Taycan atteint une puissance maximale de  320 kW (435 ch). Sans overboost, elle délivre 320 kW (435 ch). Le couple maximal est de 420 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides. Avec overboost, l'Porsche Taycan atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 300 kW (408 ch). Le couple maximal est de 410 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
+Avec overboost, l'Porsche Taycan atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 300 kW (408 ch). Le couple maximal est de 410 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
+
+Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, l'Porsche Taycan atteint une puissance maximale de  320 kW (435 ch). Sans overboost, elle délivre 320 kW (435 ch). Le couple maximal est de 420 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
 
 ## Batterie, autonomie et charge
 
@@ -68,7 +70,7 @@ Porsche Taycan dispose d'un système de propulsion arrière pris en charge par u
 
 ### Suspension
 
-Vous pouvez commander Porsche Taycan avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 126 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 126 mm.
 
 Vous pouvez commander Porsche Taycan avec une suspension alternative Porsche Active Ride. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 128 mm.
 
@@ -457,7 +459,10 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Porsche Taycan qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
 
 - [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Audi A6 Sportback e-tron performance](/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
+- [BMW i4 eDrive40](/models/bmw/i4/i4_edrive40/)
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
 
-<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847%2ca84ddc%2cbfed6e%2c4bf8f9" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Plage" >}}

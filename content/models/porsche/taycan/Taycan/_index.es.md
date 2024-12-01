@@ -26,7 +26,9 @@ Hemos separado nuestro artículo Porsche Taycan en secciones. Si desea esperar p
 
 ## Rendimiento
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan alcanza una potencia máxima de 320 kW (435 hp). Sin overboost, entrega 320 kW (435 hp). El par máximo es de 420 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 230 km/h, demostrando su sólido rendimiento. Con overboost, el Porsche Taycan alcanza una potencia máxima de 300 kW (408 hp). Sin overboost, entrega 300 kW (408 hp). El par máximo es de 410 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 230 km/h, demostrando su sólido rendimiento.
+Con overboost, el Porsche Taycan alcanza una potencia máxima de 300 kW (408 hp). Sin overboost, entrega 300 kW (408 hp). El par máximo es de 410 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 230 km/h, demostrando su sólido rendimiento.
+
+Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan alcanza una potencia máxima de 320 kW (435 hp). Sin overboost, entrega 320 kW (435 hp). El par máximo es de 420 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 230 km/h, demostrando su sólido rendimiento.
 
 ## Batería, autonomía y carga
 
@@ -68,7 +70,7 @@ Porsche Taycan tiene un sistema de tracción trasera sostenido por un motor en e
 
 ### Suspensión
 
-Puedes pedir Porsche Taycan con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 126 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 126 mm.
 
 Puedes pedir Porsche Taycan con una suspensión alternativa Porsche Active Ride. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 128 mm.
 
@@ -457,7 +459,10 @@ Los precios pueden variar según las condiciones locales, los incentivos y las p
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Porsche Taycan que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
 
 - [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Audi A6 Sportback e-tron performance](/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
+- [BMW i4 eDrive40](/models/bmw/i4/i4_edrive40/)
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
 
-<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Explora una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847%2ca84ddc%2cbfed6e%2c4bf8f9" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}}

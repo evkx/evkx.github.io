@@ -26,7 +26,9 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Mit der optionalen Performance Battery Plus Batterie erhalten Sie andere Leistungswerte. Mit Overboost erreicht der Porsche Taycan eine maximale Leistung von 320 kW (435 PS / 429 bhp). Ohne Overboost liefert er 320 kW (435 PS / 429 bhp). Das maximale Drehmoment beträgt 420 Nm (310 lb-ft). Er beschleunigt in 4,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 230 km/h (143 mph), was seine solide Leistung demonstriert. Mit Overboost erreicht der Porsche Taycan eine maximale Leistung von 300 kW (408 PS / 402 bhp). Ohne Overboost liefert er 300 kW (408 PS / 402 bhp). Das maximale Drehmoment beträgt 410 Nm (303 lb-ft). Er beschleunigt in 4,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 230 km/h (143 mph), was seine solide Leistung demonstriert.
+Mit Overboost erreicht der Porsche Taycan eine maximale Leistung von 300 kW (408 PS / 402 bhp). Ohne Overboost liefert er 300 kW (408 PS / 402 bhp). Das maximale Drehmoment beträgt 410 Nm (303 lb-ft). Er beschleunigt in 4,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 230 km/h (143 mph), was seine solide Leistung demonstriert.
+
+Mit der optionalen Performance Battery Plus Batterie erhalten Sie andere Leistungswerte. Mit Overboost erreicht der Porsche Taycan eine maximale Leistung von 320 kW (435 PS / 429 bhp). Ohne Overboost liefert er 320 kW (435 PS / 429 bhp). Das maximale Drehmoment beträgt 420 Nm (310 lb-ft). Er beschleunigt in 4,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 230 km/h (143 mph), was seine solide Leistung demonstriert.
 
 ## Batterie, Reichweite und Laden
 
@@ -68,7 +70,7 @@ Der Porsche Taycan hat ein Heckantriebssystem, das von einem Motor an der Hinter
 
 ### Federung
 
-Sie können Porsche Taycan mit einer alternativen Adaptive Air Suspension Federung bestellen. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 103 mm und die maximale 126 mm.
+Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 103 mm und die maximale 126 mm.
 
 Sie können Porsche Taycan mit einer alternativen Porsche Active Ride Federung bestellen. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 103 mm und die maximale 128 mm.
 
@@ -457,7 +459,10 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Porsche Taycan identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
 - [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Audi A6 Sportback e-tron performance](/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
+- [BMW i4 eDrive40](/models/bmw/i4/i4_edrive40/)
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
 
-<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847%2ca84ddc%2cbfed6e%2c4bf8f9" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Reichweite" >}}
