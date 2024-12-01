@@ -124,6 +124,8 @@ second-alternativet er et [executive sete kombinert med en to-seters benk](../..
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for ytre seter)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for ytre seter)
 
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/secondrowseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
+
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -242,4 +244,7 @@ Bagasjerommet tilbyr en lastekapasitet på 500 liter.
 Kjøretøyets maksimale vekt er 3250 kg, med en basisvekt på 2640 kg. Dette gir en maksimal lastekapasitet på 610 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
+
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/trunk_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2002"  >}}
+
 {{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

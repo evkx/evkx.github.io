@@ -124,6 +124,8 @@ Die second-Option ist ein [Executive-Sitz kombiniert mit einer Zwei-Sitz-Bank](.
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für äußere Sitze)
 - [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für äußere Sitze)
 
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/secondrowseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
@@ -242,4 +244,7 @@ Der Kofferraum bietet ein Ladevolumen von 500 Litern (17,7 CU FT).
 Das maximale Gewicht des Fahrzeugs beträgt 3250 kg (7165 lbs) bei einem Leergewicht von 2640 kg (5820 lbs). Dies ermöglicht eine maximale Zuladung von 610 kg (1345 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2000 kg (4409 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/trunk_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2002"  >}}
+
 {{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Reichweite" >}}

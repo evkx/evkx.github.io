@@ -124,6 +124,8 @@ Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for ydre sæder)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest) (standard for ydre sæder)
 
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/secondrowseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
+
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -242,4 +244,7 @@ Bagagerummet har en lastekapacitet på 500 liter.
 Køretøjets maksimale vægt er 3250 kg, med en basisvægt på 2640 kg. Dette giver en maksimal last på 610 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2000 kg, mens den for en ubremset trailer er 750 kg.
+
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/trunk_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2002"  >}}
+
 {{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Range" >}}

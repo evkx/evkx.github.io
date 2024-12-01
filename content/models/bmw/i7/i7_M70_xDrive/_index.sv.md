@@ -124,6 +124,8 @@ Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../.
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support) (standard för yttre säten)
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd) (standard för yttre säten)
 
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/secondrowseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -242,4 +244,7 @@ Bagageutrymmet erbjuder en lastkapacitet på 500 liter.
 Fordonets maximala vikt är 3250 kg, med en grundvikt på 2640 kg. Detta tillåter en maximal last på 610 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
+
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/trunk_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2002"  >}}
+
 {{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

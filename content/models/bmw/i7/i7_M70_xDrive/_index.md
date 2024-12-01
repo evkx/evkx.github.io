@@ -124,6 +124,8 @@ The second option is an [executive seat combined with a two-seat bench](../../..
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for outer seats)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest) (standard for outer seats)
 
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/secondrowseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
+
 ## Climate System
 
 Two climate system options are available:
@@ -242,4 +244,7 @@ The trunk offers a cargo capacity of 500 liters (17.7 CU FT).
 The vehicle’s maximum weight is 3250 kg (7165 lbs), with a base weight of 2640 kg (5820 lbs). This allows for a maximum load of 610 kg (1345 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+{{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/trunk_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2002"  >}}
+
 {{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Range" >}}
