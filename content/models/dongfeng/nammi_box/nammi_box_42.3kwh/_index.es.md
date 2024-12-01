@@ -62,10 +62,11 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ### Modos de conducción
 
-El Dongfeng Nammi Box 42.3kWh permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 2 modos:
+El Dongfeng Nammi Box 42.3kWh permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
 
 - Sport: Dirección y acelerador dinámicos.
 - Comfort: Dirección y acelerador equilibrados.
+- Eco: Dirección equilibrada y acelerador eficiente.
 
 ### Frenos
 
@@ -75,7 +76,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 [**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 La potencia regenerativa máxima es de 50 kW.
 
@@ -114,6 +115,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente para el conductor, ajustable manualmente para el pasajero)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para el conductor, no disponible para el pasajero)
+- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (estándar para el conductor, no disponible para el pasajero)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
@@ -170,6 +172,8 @@ El Dongfeng Nammi Box 42.3kWh está equipado con un solo tipo de volante:
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
 

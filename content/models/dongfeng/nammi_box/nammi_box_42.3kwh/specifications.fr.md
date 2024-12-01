@@ -569,7 +569,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Mémoire
 			</td>
 			<td>
-				Non disponible
+				Conducteur standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -990,7 +990,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

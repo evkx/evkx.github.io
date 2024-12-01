@@ -569,7 +569,7 @@ This model is available with a seat configuration with five seats.
 				Memory
 			</td>
 			<td>
-				Not Available
+				Standard driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -990,7 +990,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

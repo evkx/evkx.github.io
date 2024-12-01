@@ -569,7 +569,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Memoria
 			</td>
 			<td>
-				No disponible
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -990,7 +990,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control por voz
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
