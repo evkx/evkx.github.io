@@ -217,6 +217,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="acura/"><img src="https://media.evkx.net/multimedia/models/acura/brandevs_st.jpg" class="img-fluid mb-2" alt="Acura" ></a>
 	<h2>Acura</h2>
 	<p>
+		Acura est la division luxe et performance du constructeur automobile japonais Honda, basée principalement en Amérique du Nord. La marque a été lancée en 1986, commercialisant des automobiles de luxe et de performance. Acura vend des voitures aux États-Unis, au Canada, au Mexique, au Panama et au Koweït.
+	</p>
+	<p>
 	Acura a 1 modèles avec un total de 3 variantes.
 	</p>
 	<a href="acura/" class="btn btn-outline-primary" role="button">Aller à la Acura présentation du modèle EV</a>

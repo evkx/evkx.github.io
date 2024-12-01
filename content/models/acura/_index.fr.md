@@ -1,7 +1,7 @@
 ---
 title: Acura modèles de VE
 linktitle: "Acura"
-description: " Acura is the luxury and performance division of Japanese automaker Honda, based primarily in North America. The brand was launched in 1986, marketing luxury and performance automobiles. Acura sells cars in the United States, Canada, Mexico, Panama, and Kuwait."
+description: "Acura est la division luxe et performance du constructeur automobile japonais Honda, basée principalement en Amérique du Nord. La marque a été lancée en 1986, commercialisant des automobiles de luxe et de performance. Acura vend des voitures aux États-Unis, au Canada, au Mexique, au Panama et au Koweït."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

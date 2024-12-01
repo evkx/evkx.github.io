@@ -1,7 +1,7 @@
 ---
 title: Acura EV-Modelle
 linktitle: "Acura"
-description: " Acura is the luxury and performance division of Japanese automaker Honda, based primarily in North America. The brand was launched in 1986, marketing luxury and performance automobiles. Acura sells cars in the United States, Canada, Mexico, Panama, and Kuwait."
+description: "Acura ist die Luxus- und Leistungsabteilung des japanischen Automobilherstellers Honda, die hauptsächlich in Nordamerika ansässig ist. Die Marke wurde 1986 eingeführt und vermarktet Luxus- und Leistungsfahrzeuge. Acura verkauft Autos in den Vereinigten Staaten, Kanada, Mexiko, Panama und Kuwait."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

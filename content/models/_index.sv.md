@@ -217,6 +217,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="acura/"><img src="https://media.evkx.net/multimedia/models/acura/brandevs_st.jpg" class="img-fluid mb-2" alt="Acura" ></a>
 	<h2>Acura</h2>
 	<p>
+		Acura är lyx- och prestandadivisionen av den japanska biltillverkaren Honda, främst baserad i Nordamerika. Märket lanserades 1986 och marknadsför lyx- och prestandabilar. Acura säljer bilar i USA, Kanada, Mexiko, Panama och Kuwait.
+	</p>
+	<p>
 	Acura har 1 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="acura/" class="btn btn-outline-primary" role="button">Gå till Acura modellöversikt</a>

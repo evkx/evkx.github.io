@@ -217,6 +217,9 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="acura/"><img src="https://media.evkx.net/multimedia/models/acura/brandevs_st.jpg" class="img-fluid mb-2" alt="Acura" ></a>
 	<h2>Acura</h2>
 	<p>
+		Acura er luksus- og ytelsesdivisjonen til den japanske bilprodusenten Honda, hovedsakelig basert i Nord-Amerika. Merket ble lansert i 1986 og markedsfører luksus- og ytelsesbiler. Acura selger biler i USA, Canada, Mexico, Panama og Kuwait.
+	</p>
+	<p>
 	Acura har 1 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="acura/" class="btn btn-outline-primary" role="button">Gå til Acura modelloversikt</a>

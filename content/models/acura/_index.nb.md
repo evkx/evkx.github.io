@@ -1,7 +1,7 @@
 ---
 title: Acura elektriske modeller
 linktitle: "Acura"
-description: " Acura is the luxury and performance division of Japanese automaker Honda, based primarily in North America. The brand was launched in 1986, marketing luxury and performance automobiles. Acura sells cars in the United States, Canada, Mexico, Panama, and Kuwait."
+description: "Acura er luksus- og ytelsesdivisjonen til den japanske bilprodusenten Honda, hovedsakelig basert i Nord-Amerika. Merket ble lansert i 1986 og markedsfører luksus- og ytelsesbiler. Acura selger biler i USA, Canada, Mexico, Panama og Kuwait."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
