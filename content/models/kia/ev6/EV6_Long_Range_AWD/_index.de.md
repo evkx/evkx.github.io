@@ -62,7 +62,7 @@ Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser F
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
 
-Die maximale regenerative Leistung beträgt 150 kW.
+Die maximale regenerative Leistung beträgt 277 kW.
 
 ## Exterieur
 

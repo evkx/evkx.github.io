@@ -62,7 +62,7 @@ Kia EV6 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, 
 
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere.
 
-Den maksimale regenerative effekten er 150 kW.
+Den maksimale regenerative effekten er 277 kW.
 
 ## Eksteriør
 

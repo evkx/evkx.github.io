@@ -62,7 +62,7 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 
 [Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
 
-La puissance régénérative maximale est de 150 kW.
+La puissance régénérative maximale est de 277 kW.
 
 ## Extérieur
 

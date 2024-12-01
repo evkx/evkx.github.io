@@ -62,7 +62,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 [La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
 
-La potencia regenerativa máxima es de 150 kW.
+La potencia regenerativa máxima es de 277 kW.
 
 ## Exterior
 

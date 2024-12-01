@@ -62,7 +62,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
 
-Den maximala regenerativa effekten är 150 kW.
+Den maximala regenerativa effekten är 277 kW.
 
 ## Exteriör
 
