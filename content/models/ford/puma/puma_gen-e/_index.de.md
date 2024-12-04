@@ -65,6 +65,8 @@ Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heck
 
 Es gibt nur eine Dachoption für dieses Modell.
 
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
+
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/exterior_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -72,6 +74,8 @@ Es gibt nur eine Dachoption für dieses Modell.
 ## Interieur
 
 ### Sitze
+
+Der Ford Puma Gen-E bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 
@@ -81,11 +85,15 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
 Verfügbar in:
 
+-  [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+
 #### Rücksitzreihe
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
 Verfügbar in:
+
+-  [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 ## Klimaanlage
 
@@ -99,8 +107,12 @@ Der Ford Puma Gen-E umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu
 
 ## Benutzeroberfläche und Steuerung
 
+Der Ford Puma Gen-E hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und in der Mittelkonsole gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) oben in der Mittelkonsole.
+
 Wichtige Bildschirmdetails:
 
+- Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 12,0 Zoll groß.
+- Der touch-Bildschirm oben in der Mittelkonsole ist 12,8 Zoll groß.
 
 Das Modell verfügt nicht über ein Head-up-Display.
 
@@ -110,7 +122,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Ford Puma Gen-E ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- uicontrols.steeringwheel.infotainment
+- **Rundes Lenkrad:** Dieses Lenkrad hat eine flache Unter- und Oberseite, was ein sportliches Aussehen und Gefühl vermittelt. Es enthält auch physische Tasten und Kippschalter, die eine intuitive Steuerung des Infotainmentsystems ermöglichen, sodass Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -118,15 +130,20 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+### Navigationssystem
+
+Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+
 ### Telefonspiegelung
 
 Der Ford Puma Gen-E unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
 
 ### Soundsystem
 
-Der Ford Puma Gen-E ist mit einer Soundsystemoption ausgestattet:
+Sie können zwischen zwei Soundsystemen für den Ford Puma Gen-E wählen:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **Ford Sound System:** Verfügt über sechs Lautsprecher.
+- ** B&O Premium Audio System:** Verfügt über zehn Lautsprecher.
 
 ## Lichter
 
@@ -163,7 +180,9 @@ Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
 
 ## Sicherheits- und Zugangstechnologien
 
-Der Ford Puma Gen-E ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+Der Ford Puma Gen-E ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
+
+- **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
 

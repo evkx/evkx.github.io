@@ -476,6 +476,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Innenraum
 
+Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 
 ### Vordersitze
 
@@ -974,6 +975,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				In-Car-Navigation
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -989,7 +991,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Digitales Fahrerdisplay
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 12
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +999,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Infotainment-Bildschirm
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, 12,8"
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1016,64 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Anzahl der verfügbaren Soundsysteme
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Ford Sound System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Anzahl der Lautsprecher
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+###  B&O Premium Audio System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Anzahl der Lautsprecher
+			</td>
+			<td>
+				10
 			</td>
 		</tr>
 	</tbody>

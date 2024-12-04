@@ -476,6 +476,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Intérieur
 
+Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
@@ -974,6 +975,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Dans la navigation automobile
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -989,7 +991,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Affichage numérique du pilote
 			</td>
 			<td>
-				Non disponible
+				Oui, 12
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +999,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Non disponible
+				Oui, 12,8"
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1016,64 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Nombre de systèmes audio disponibles
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Ford Sound System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Nombre de haut-parleurs
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+###  B&O Premium Audio System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Nombre de haut-parleurs
+			</td>
+			<td>
+				10
 			</td>
 		</tr>
 	</tbody>

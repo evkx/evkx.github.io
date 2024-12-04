@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 3 vs Porsche Macan vs Audi Q6 E-Tron | RANGE TEST 120KPH / 75MPH | WINTER TEST</h3>
+<p>Kris Rifa: 04.12.2024</p>
+
+{{< youtube dTyV9dck7xY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 3 LR DM | The Best EV on Sale. Period.</h3>
 <p>Kris Rifa: 30.11.2024</p>
 

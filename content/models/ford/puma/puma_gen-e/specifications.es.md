@@ -476,6 +476,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -974,6 +975,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				En navegación del coche
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -989,7 +991,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla del controlador digital
 			</td>
 			<td>
-				No disponible
+				Sí, 12
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +999,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				No disponible
+				Sí, 12,8"
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1016,64 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Número de sistemas de sonido disponibles
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Ford Sound System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+###  B&O Premium Audio System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				10
 			</td>
 		</tr>
 	</tbody>

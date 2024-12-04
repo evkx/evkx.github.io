@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 3 vs Porsche Macan vs Audi Q6 E-Tron | RANGE TEST 120KPH / 75MPH | WINTER TEST</h3>
+<p>Kris Rifa: 04.12.2024</p>
+
+{{< youtube dTyV9dck7xY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q6 E-Tron Quattro | 610km (381 mile) Long Trip Test</h3>
 <p>Kris Rifa: 21.09.2024</p>
 

@@ -65,6 +65,8 @@ Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [bakluck
 
 Det finns bara ett tak för denna modell.
 
+B-stolpen och vyerna bak är tonade.
+
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/exterior_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -72,6 +74,8 @@ Det finns bara ett tak för denna modell.
 ## Interiör
 
 ### Säten
+
+Ford Puma Gen-E rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
 
 #### Framsäten
 
@@ -81,11 +85,15 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
+-  [tygklädsel](../../../../technology/seats/materials/#fabric)
+
 #### Säten på andra raden
 
 Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
+-  [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 ## Klimatsystem
 
@@ -99,8 +107,12 @@ Ford Puma Gen-E inkluderar flera funktioner för att förbättra komfort och bek
 
 ## Användargränssnitt och kontroll
 
+Ford Puma Gen-E har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
 Viktiga skärmdetaljer:
 
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum
+- Skärmen touch översta mittkonsolen är 12,8 tum
 
 Modellen är inte tillgänglig med head-up display.
 
@@ -110,7 +122,7 @@ Modellen är inte tillgänglig med head-up display.
 
 Ford Puma Gen-E är utrustad med en enda typ av ratt:
 
-- uicontrols.steeringwheel.infotainment
+- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar och vippströmbrytare, vilket ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ### Speglar
 
@@ -118,15 +130,20 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ## Infotainment
 
+### Navigationssystem
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
 ### Telefon spegling
 
 Dessutom stöder Ford Puma Gen-E Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Ford Puma Gen-E.
+Du kan välja mellan två ljudsystem på Ford Puma Gen-E.
 
-- **:** Har NULL högtalare.
+- **Ford Sound System:** Har sex högtalare.
+- ** B&O Premium Audio System:** Har tio högtalare.
 
 ## Ljus
 
@@ -163,7 +180,9 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 ## Säkerhets- och åtkomstteknologier
 
-Ford Puma Gen-E är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+Ford Puma Gen-E är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
