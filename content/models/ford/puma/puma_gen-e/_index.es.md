@@ -107,6 +107,8 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -114,6 +116,8 @@ Hay un sistema climático disponible.
 ## Características de confort
 
 El Ford Puma Gen-E incluye varias características para mejorar la comodidad y conveniencia:
+
+- **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
 

@@ -107,6 +107,8 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -114,6 +116,8 @@ Es gibt ein Klimasystem verfügbar:
 ## Komfortfunktionen
 
 Der Ford Puma Gen-E umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
+
+- **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 

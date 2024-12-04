@@ -107,6 +107,8 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -114,6 +116,8 @@ Det finns ett tillgängligt klimatsystem.
 ## Komfortfunktioner
 
 Ford Puma Gen-E inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+
+- **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
 

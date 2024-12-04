@@ -107,6 +107,8 @@ Available in:
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
 ## Climate System
 
 There is one climate system available:
@@ -114,6 +116,8 @@ There is one climate system available:
 ## Comfort Features
 
 The Ford Puma Gen-E includes several features to enhance comfort and convenience:
+
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 

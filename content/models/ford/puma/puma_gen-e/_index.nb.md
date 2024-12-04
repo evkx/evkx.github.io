@@ -107,6 +107,8 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -114,6 +116,8 @@ Det er ett tilgjengelig klimasystem.
 ## Komfortfunksjoner
 
 Ford Puma Gen-E inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
+- **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
