@@ -59,7 +59,15 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 ## Exterieur
 
-Der Ford Puma Gen-E, mit Abmessungen von 4214 mm Länge, 1805 mm Breite und  mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Sie können zwischen 1 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Ford Puma Gen-E, mit Abmessungen von 4214 mm Länge, 1805 mm Breite und  mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der Ford Puma Gen-E ist in insgesamt 6 Unilackfarben erhältlich.
+
+Der Ford Puma Gen-E bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+
+- 215/55 Reifen auf 17" Felgen
+- 215/50 Reifen auf 18" Felgen
+- 225/40 Reifen auf 19" Felgen
+
+Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#boot-lid) für den Kofferraum.
 
@@ -83,17 +91,18 @@ Der Ford Puma Gen-E bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- Höhenverstellbare Kopfstütze (manuell verstellbar)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (manuell verstellbar)
+
 Verfügbar in:
 
 -  [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 #### Rücksitzreihe
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
-Verfügbar in:
-
--  [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
+Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 ## Klimaanlage
 
@@ -176,7 +185,21 @@ Der Ford Puma Gen-E verfügt über eine Reihe von standardmäßigen und optional
 
 ### Fahrautomatisierung
 
-Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
+Der Ford Puma Gen-E bietet [Fahrautomatisierung
+
+Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+
+- Geschwindigkeitsregelung.
+
+Mit dem optionalen  Level 2 System erhalten Sie zusätzliche Fahrautomatisierungsfunktionen zu den oben aufgeführten:
+
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu drei [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und sechs [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 ## Sicherheits- und Zugangstechnologien
 

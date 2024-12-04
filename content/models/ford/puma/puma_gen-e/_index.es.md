@@ -59,7 +59,15 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ## Exterior
 
-El Ford Puma Gen-E, con dimensiones de 4214 mm de longitud, 1805 mm de anchura y  mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
+El Ford Puma Gen-E, con dimensiones de 4214 mm de longitud, 1805 mm de anchura y  mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Ford Puma Gen-E está disponible en un total de 6 colores de pintura sólidos.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Ford Puma Gen-E, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/55 en llantas de 17
+- Neumáticos 215/50 en llantas de 18
+- Neumáticos 225/40 en llantas de 19
+
+Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 
@@ -83,17 +91,18 @@ El Ford Puma Gen-E ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+- reposacabezas ajustable en altura (ajustable manualmente)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable manualmente)
+
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 -  [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 #### Asiento de segunda fila
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
--  [tapizado de tela](../../../../technology/seats/materials/#fabric)
+La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 ## Sistema de climatización
 
@@ -176,7 +185,21 @@ El Ford Puma Gen-E incluye varios [sistemas avanzados de asistencia al conductor
 
 ### Automatización de la Conducción
 
-Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+Ford Puma Gen-E ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+
+Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
+- Control de crucero.
+
+Con el sistema opcional  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y seis [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 ## Tecnologías de seguridad y acceso
 

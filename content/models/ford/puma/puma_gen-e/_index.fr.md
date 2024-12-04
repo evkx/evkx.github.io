@@ -59,7 +59,15 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Extérieur
 
-La Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
+La Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Ford Puma Gen-E est disponible en un total de 6 couleurs de peinture unies.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford Puma Gen-E, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 215/55 sur jantes de 17"
+- Pneus 215/50 sur jantes de 18"
+- Pneus 225/40 sur jantes de 19"
+
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 
@@ -83,17 +91,18 @@ Le Ford Puma Gen-E propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- appui-tête réglable en hauteur (réglable manuellement)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable manuellement)
+
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 -  [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 #### Siège de deuxième rangée
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
-
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
--  [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 ## Système de climatisation
 
@@ -176,7 +185,21 @@ Le Ford Puma Gen-E comprend plusieurs [systèmes avancés d'assistance au conduc
 
 ### Automatisation de la Conduite
 
-Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+Ford Puma Gen-E offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+
+Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
+- Régulateur de vitesse.
+
+Avec le système optionnel  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+
+- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et six [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 

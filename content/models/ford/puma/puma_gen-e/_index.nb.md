@@ -59,7 +59,15 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Ford Puma Gen-E, med dimensjoner på 4214 mm i lengde, 1805 mm i bredde og  mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+Ford Puma Gen-E, med dimensjoner på 4214 mm i lengde, 1805 mm i bredde og  mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Ford Puma Gen-E er tilgjengelig i totalt 6 ensfargede lakkfarger.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Ford Puma Gen-E, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/55 dekk på 17" felger
+- 215/50 dekk på 18" felger
+- 225/40 dekk på 19" felger
+
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
@@ -83,17 +91,18 @@ Ford Puma Gen-E Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- høydejusterbar hodestøtte (manuelt justerbar)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (manuelt justerbar)
+
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 -  [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 #### Seter på andre rad
 
-Følgende funksjoner er tilgjengelige på **** setet.
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
--  [stoffpolstring](../../../../technology/seats/materials/#fabric)
+Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 ## Klimasystem
 
@@ -176,7 +185,21 @@ Ford Puma Gen-E inkluderer flere [avanserte førerassistanse systemer](../../../
 
 ### Kjøreautomatisering
 
-Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+Ford Puma Gen-E tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
+
+Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
+- Fartsbegrenser.
+
+Med det valgfrie  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
+
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og seks [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhets- og tilgangsteknologier
 

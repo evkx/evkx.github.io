@@ -59,7 +59,15 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Ford Puma Gen-E, med dimensioner på 4214 mm i längd, 1805 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
+Ford Puma Gen-E, med dimensioner på 4214 mm i längd, 1805 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Ford Puma Gen-E finns i totalt 6 enfärgade lackfärger.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Puma Gen-E, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/55 däck på 17" fälgar
+- 215/50 däck på 18" fälgar
+- 225/40 däck på 19" fälgar
+
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
@@ -83,17 +91,18 @@ Ford Puma Gen-E erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- höjdjusterbart nackstöd (manuellt justerbar)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (manuellt justerbar)
+
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 -  [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 #### Säten på andra raden
 
-Följande funktioner är tillgängliga på **** sätet.
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
--  [tygklädsel](../../../../technology/seats/materials/#fabric)
+Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 ## Klimatsystem
 
@@ -176,7 +185,21 @@ Ford Puma Gen-E inkluderar flera [avancerade förarassistanssystem](../../../../
 
 ### Körautomatisering
 
-Med standardutrustningen erbjuder modellen ingen körautomatisering.
+Ford Puma Gen-E erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+
+Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+
+- Farthållare.
+
+Med det valfria  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och sex [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 ## Säkerhets- och åtkomstteknologier
 
