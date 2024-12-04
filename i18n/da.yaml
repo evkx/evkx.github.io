@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-c559d2d4
+  translation: Ford Puma Gen-E er en fuldelektrisk crossover med en WLTP rækkevidde på op til 376 km (234 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-d2bb4c99
   translation: Acura ZDX A-Spec RWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 504 km (313 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ec69525c
   translation: Alpine A290 GT er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-9c3ba335
-  translation: Xiaomi SU7 Ultra er en fuldelektrisk sedan med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne.
 

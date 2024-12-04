@@ -9,6 +9,34 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 001 AWD 1000 km challenge part 2</h3>
+<p>Bjørn Nyland: 04.12.2024</p>
+
+{{< youtube UrjrG0GfetU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 001 AWD acceleration and noise test</h3>
+<p>Bjørn Nyland: 04.12.2024</p>
+
+{{< youtube -__B_-gNH84 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 001 AWD 1000 km challenge part 1</h3>
+<p>Bjørn Nyland: 03.12.2024</p>
+
+{{< youtube lxIhDg36bjE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 001 AWD banana box test</h3>
+<p>Bjørn Nyland: 02.12.2024</p>
+
+{{< youtube uDiqBZ4Jqi0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Zeekr 001 AWD range test</h3>
 <p>Bjørn Nyland: 30.11.2024</p>
 

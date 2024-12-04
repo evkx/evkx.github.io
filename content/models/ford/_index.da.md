@@ -77,6 +77,21 @@ Ford Mustang Mach-E er en Coupe SUV tilgængelig i 5 varianter.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Ford Puma</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="puma">
+                    <img src="https://media.evkx.net/multimedia/models/ford/puma/puma_gen-e/main_1_st.jpg" class="img-fluid" alt="Ford Puma" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Ford Puma er en crossover tilgængelig i 1 varianter.
+</p>
+	<a href="puma/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

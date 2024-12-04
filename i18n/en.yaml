@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-c559d2d4
+  translation: Ford Puma Gen-E is an all-electric crossover with a WLTP range of up to 376 km (234 miles). EVKX.net has all the details.
+
 - id: frontpage-description-d2bb4c99
   translation: Acura ZDX A-Spec RWD is an all-electric SUV with a EPA range of up to 504 km (313 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ec69525c
   translation: Alpine A290 GT is an all-electric hatchback with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details.
-
-- id: frontpage-description-9c3ba335
-  translation: Xiaomi SU7 Ultra is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
 

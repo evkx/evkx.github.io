@@ -77,6 +77,21 @@ Ford Mustang Mach-E ist ein Coupé-SUV, das in 5 Varianten erhältlich ist.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Ford Puma</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="puma">
+                    <img src="https://media.evkx.net/multimedia/models/ford/puma/puma_gen-e/main_1_st.jpg" class="img-fluid" alt="Ford Puma" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Ford Puma ist ein Crossover, das in 1 Varianten erhältlich ist.
+</p>
+	<a href="puma/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

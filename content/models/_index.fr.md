@@ -364,7 +364,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
-	Ford a 4 modèles avec un total de 12 variantes.
+	Ford a 5 modèles avec un total de 13 variantes.
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Aller à la Ford présentation du modèle EV</a>
 </div>

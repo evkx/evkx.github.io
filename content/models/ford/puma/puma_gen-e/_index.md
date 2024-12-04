@@ -1,0 +1,183 @@
+---
+title: Ford Puma Gen-E
+linktitle: "Puma Gen-E"
+description: "Ford Puma Gen-E is an all-electric crossover with a WLTP range of up to 376 km (234 miles). EVKX.net has all the details."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+{{< sitefiguresized thumb="models/ford/puma/puma_gen-e/main_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
+
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
+
+- [Performance](#performance)
+- [Battery, Range, and Charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+
+## Performance
+
+The Ford Puma Gen-E offers modest performance with a maximum power of 123.5 kW (168 hp / 166 bhp) and a total torque of 290 Nm (214 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+
+## Battery, Range, and Charging
+
+The high-capacity battery has a gross capacity of 43.0 kWh and a net usable capacity of 40.0 kWh, providing a 3.0 kWh buffer (7.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 376 km (234 miles), with an energy consumption rate of 10.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 57 minutes, while a more typical scenario from 10% to 80% takes 22 minutes with an average charging speed of 77 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 67%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 22 minutes and 11 seconds.
+
+### Onboard Charger
+
+### Charge Port
+
+Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
+{{<evkxdisplayaddarticle />}}
+
+## Drivetrain
+
+The Ford Puma Gen-E has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+### Suspension
+
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 129 mm.
+
+### Brakes
+
+### Regenerative Braking
+
+
+## Exterior
+
+The Ford Puma Gen-E, with dimensions of 4214 mm in length, 1805 mm in width, and  mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 1 different paint colors when ordering this model.
+
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
+
+There is only one roof option for this model.
+
+{{< sitefiguresized thumb="models/ford/puma/puma_gen-e/exterior_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
+
+{{<evkxdisplayaddarticle />}}
+
+## Interior
+
+### Seats
+
+#### First Row Seats
+
+The Ford Puma Gen-E offers a single type of front seat.
+
+The following functionalities are available on the **** seat:
+
+Available in:
+
+#### Second Row Seat
+
+The following functionalities are available on the **** seat:
+
+Available in:
+
+## Climate System
+
+There is one climate system available:
+
+## Comfort Features
+
+The Ford Puma Gen-E includes several features to enhance comfort and convenience:
+
+{{<evkxdisplayaddarticle />}}
+
+## User Interface and Control
+
+Key screen details:
+
+
+The model does not include a head-up display.
+
+{{< sitefiguresized thumb="models/ford/puma/puma_gen-e/screens_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2200"  >}}
+
+### Steering Wheel
+
+The Ford Puma Gen-E is equipped with a single type of steering wheel:
+
+- uicontrols.steeringwheel.infotainment
+
+### Mirrors
+
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+## Infotainment
+
+### Phone Mirroring
+
+The Ford Puma Gen-E supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
+
+### Sound System
+
+The Ford Puma Gen-E comes equipped with one sound system option:
+
+- **:** Features NULL speakers.
+
+## Lights
+
+You can choose between two types of headlights for the Ford Puma Gen-E.
+
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+{{< sitefiguresized thumb="models/ford/puma/puma_gen-e/headlights_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
+
+## Advanced Driver Assistance Systems
+
+The Ford Puma Gen-E features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
+
+### Safety Systems
+
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Ford Puma Gen-E, this system prevents the wheels from locking during braking.
+
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Ford Puma Gen-E, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Ford Puma Gen-E, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Ford Puma Gen-E, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Ford Puma Gen-E, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Ford Puma Gen-E, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+### Driving Automation
+
+With the standard system the model offers no driving automation.
+
+## Security and Access Technologies
+
+The Ford Puma Gen-E is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
+{{<evkxdisplayaddarticle />}}
+
+## Cargo Capacity and Towing Ability
+
+The trunk offers a cargo capacity of 574 liters (20.3 CU FT). With the rear seat folded down, this expands to 1283 liters (45.3 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 43 liters (1.5 CU FT).
+
+The vehicle’s maximum weight is 2015 kg (4442 lbs), with a base weight of 1563 kg (3446 lbs). This allows for a maximum load of 452 kg (996 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+{{< sitefiguresized thumb="models/ford/puma/puma_gen-e/trunk_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2086"  >}}
+
+## Availability & Pricing
+
+This model made its world premiere on 03.12.2024, with deliveries anticipated to begin in April 2025.
+{{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-c559d2d4
+  translation: Ford Puma Gen-E es un crossover totalmente eléctrico con un WLTP alcance de hasta 376 km (234 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-d2bb4c99
   translation: Acura ZDX A-Spec RWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 504 km (313 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ec69525c
   translation: Alpine A290 GT es un hatchback totalmente eléctrico con un WLTP alcance de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-9c3ba335
-  translation: Xiaomi SU7 Ultra es un sedán totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
 
