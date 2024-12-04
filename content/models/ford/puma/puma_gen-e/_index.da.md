@@ -81,6 +81,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+Interiøret i Ford Puma Gen-E er funktionelt og har materialer af middel kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
+
 ### Sæder
 
 Ford Puma Gen-E har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -96,9 +98,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 - højdejusterbar nakkestøtte (manuelt justerbar)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (manuelt justerbar)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
--  [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black/Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 #### Sæde på anden række
 

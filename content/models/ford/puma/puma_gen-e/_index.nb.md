@@ -81,6 +81,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+Interiøret i Ford Puma Gen-E er funksjonelt, med materialer av middels kvalitet brukt gjennomgående. Den delt nivå midtkonsollen skiller fører og passasjer, og tilbyr praktiske lagringsalternativer og forbedret funksjonalitet. Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+
 ### Seter
 
 Ford Puma Gen-E har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
@@ -96,9 +98,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - høydejusterbar hodestøtte (manuelt justerbar)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (manuelt justerbar)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
--  [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black/Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 #### Seter på andre rad
 

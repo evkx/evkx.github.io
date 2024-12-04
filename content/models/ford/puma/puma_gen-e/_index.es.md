@@ -81,6 +81,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El interior del Ford Puma Gen-E es funcional, con materiales de calidad media utilizados en todo el vehículo. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada. Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
+
 ### Asientos
 
 El Ford Puma Gen-E tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -96,9 +98,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - reposacabezas ajustable en altura (ajustable manualmente)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable manualmente)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
--  [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black/Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 #### Asiento de segunda fila
 

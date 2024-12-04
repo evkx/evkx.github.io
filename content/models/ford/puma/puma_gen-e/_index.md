@@ -81,6 +81,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The interior of the Ford Puma Gen-E is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
+
 ### Seats
 
 The Ford Puma Gen-E accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -98,7 +100,8 @@ The following functionalities are available on the **** seat:
 
 Available in:
 
--  [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black/Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 #### Second Row Seat
 
