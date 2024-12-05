@@ -52,10 +52,22 @@ Ford Puma Gen-E har et forhjulsdriftssystem støttet av én motor på forakselen
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 129 mm.
 
+### Kjøremoduser
+
+Ford Puma Gen-E lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
+
+- Normal: Balansert styring og gasspedal.
+- Eco: Balansert styring og effektiv gasspedal.
+- Sport: Dynamisk styring og gasspedal.
+- Slippery: Balansert styring og gasspedal.
+
 ### Bremser
 
 ### Regenerativ bremsing
 
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stopper bilen helt ved hjelp av friksjonsbremser.
+
+Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
 
 ## Eksteriør
 
@@ -113,6 +125,8 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 Det er ett tilgjengelig klimasystem.
 
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
+
 ## Komfortfunksjoner
 
 Ford Puma Gen-E inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -148,7 +162,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
 ### Telefonspeiling
 
@@ -160,6 +174,8 @@ Du kan velge mellom to lydsystemer på Ford Puma Gen-E.
 
 - **Ford Sound System:** Har seks høyttalere.
 - ** B&O Premium Audio System:** Har ti høyttalere.
+
+Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 

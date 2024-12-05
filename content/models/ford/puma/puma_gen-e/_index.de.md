@@ -52,10 +52,22 @@ Der Ford Puma Gen-E hat ein Frontantriebssystem, das von einem Motor an der Vord
 
 Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 129 mm.
 
+### Fahrmodi
+
+Der Ford Puma Gen-E ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Normal: Ausgewogene Lenkung und Gas.
+- Eco: Ausgewogene Lenkung und effizientes Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Slippery: Ausgewogene Lenkung und Gas.
+
 ### Bremsen
 
 ### Rekuperatives Bremsen
 
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+
+Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem festen Niveau. Dies kann nicht angepasst werden.
 
 ## Exterieur
 
@@ -113,6 +125,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 Es gibt ein Klimasystem verfügbar:
 
+- **1-Zonen-Klimasystem:** Unterstützt nur die Steuerung einer gemeinsamen Zone für das gesamte Auto.
+
 ## Komfortfunktionen
 
 Der Ford Puma Gen-E umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -148,7 +162,7 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
 ### Telefonspiegelung
 
@@ -160,6 +174,8 @@ Sie können zwischen zwei Soundsystemen für den Ford Puma Gen-E wählen:
 
 - **Ford Sound System:** Verfügt über sechs Lautsprecher.
 - ** B&O Premium Audio System:** Verfügt über zehn Lautsprecher.
+
+Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 
 ## Lichter
 

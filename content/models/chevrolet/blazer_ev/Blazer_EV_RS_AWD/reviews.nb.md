@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Chevy Blazer EV AWD Needs A Bigger Battery! 70-MPH Highway Range Test In The Lowest Range Variant</h3>
+<p>Out of Spec Testing: 05.12.2024</p>
+
+{{< youtube ez52LYnxjQU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Redline Reviews</h3>
 <p>The 2024 Chevy Blazer EV RS AWD Is A Well-Rounded Blend Of Style & Technology: 20.07.2024</p>
 

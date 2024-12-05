@@ -52,10 +52,22 @@ Ford Puma Gen-E dispose d'un système de traction avant pris en charge par un mo
 
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 129 mm.
 
+### Modes de conduite
+
+Le Ford Puma Gen-E permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
+
+- Normal: Direction et accélérateur équilibrés.
+- Eco: Direction équilibrée et accélérateur efficace.
+- Sport: Direction et accélérateur dynamiques.
+- Slippery: Direction et accélérateur équilibrés.
+
 ### Freins
 
 ### Freinage régénératif
 
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Le système arrête complètement la voiture en utilisant les freins à friction.
+
+Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
 
 ## Extérieur
 
@@ -113,6 +125,8 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Un système climatique est disponible.
 
+- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+
 ## Caractéristiques de confort
 
 L'Ford Puma Gen-E comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -148,7 +162,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### Réplication du téléphone
 
@@ -160,6 +174,8 @@ Vous pouvez choisir entre deux systèmes audio sur le Ford Puma Gen-E.
 
 - **Ford Sound System:** Comprend six haut-parleurs.
 - ** B&O Premium Audio System:** Comprend dix haut-parleurs.
+
+Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 

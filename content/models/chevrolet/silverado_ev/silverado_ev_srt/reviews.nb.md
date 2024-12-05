@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Chevrolet Silverado EV DC Fast Charging Analysis. How Fast Does It Charge?</h3>
+<p>State Of Charge: 05.12.2024</p>
+
+{{< youtube fW7GjqI72oY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Here&#39;s How Far The Chevy Silverado EV RST Goes In Cold &amp; Windy Conditions At Highway Speeds</h3>
 <p>Out of Spec Testing: 22.11.2024</p>
 

@@ -52,10 +52,22 @@ The Ford Puma Gen-E has a front-wheel drive system supported by one motor on the
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 129 mm.
 
+### Drive Modes
+
+The Ford Puma Gen-E lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Normal: Balanced steering and throttle.
+- Eco: Balanced steering and efficent throttle.
+- Sport: Dynamic steering and throttle.
+- Slippery: Balanced steering and throttle.
+
 ### Brakes
 
 ### Regenerative Braking
 
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). The system stops the car completely using friction brakes.
+
+If you lift away the foot completely the regen is at one fixed level. This can't be adjusted.
 
 ## Exterior
 
@@ -113,6 +125,8 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 There is one climate system available:
 
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
+
 ## Comfort Features
 
 The Ford Puma Gen-E includes several features to enhance comfort and convenience:
@@ -148,7 +162,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 
@@ -160,6 +174,8 @@ You can choose between two sound systems for the Ford Puma Gen-E:
 
 - **Ford Sound System:** Features six speakers.
 - ** B&O Premium Audio System:** Features ten speakers.
+
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

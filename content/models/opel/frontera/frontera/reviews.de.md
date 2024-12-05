@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Vauxhall Frontera - The £23k family electric SUV. Too good to be true? | Electrifying</h3>
+<p>Electrifying: 05.12.2024</p>
+
+{{< youtube gNy8hd6sNtY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST LOOK: New Vauxhall Frontera all-electric SUV</h3>
 <p>Electrifying: 14.05.2024</p>
 
