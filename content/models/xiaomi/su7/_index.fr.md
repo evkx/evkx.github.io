@@ -1,7 +1,7 @@
 ---
 title: Xiaomi SU7
 linktitle: "SU7"
-description: "Voir ci-dessous pour plus de détails sur les différentes variantes de Xiaomi SU7"
+description: "Voir ci-dessous pour les détails des différentes variantes de Xiaomi SU7"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,11 +16,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="su7/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -35,11 +35,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="su7_max/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7_max/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7_max/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_max/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_max/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_max/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7_max/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7_max/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -54,11 +54,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="su7_pro/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -73,11 +73,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="su7_ultra/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7_ultra/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7_ultra/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_ultra/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_ultra/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="su7_ultra/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="su7_ultra/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="su7_ultra/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>

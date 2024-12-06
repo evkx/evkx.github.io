@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV
 linktitle: "Silverado EV"
-description: "Voir ci-dessous pour plus de détails sur les différentes variantes de Chevrolet Silverado EV"
+description: "Voir ci-dessous pour les détails des différentes variantes de Chevrolet Silverado EV"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,11 +16,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_3wt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -35,11 +35,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -54,11 +54,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_srt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>

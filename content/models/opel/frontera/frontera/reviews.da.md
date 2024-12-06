@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The German Dacia Duster? All-new Opel Frontera / Vauxhall Frontera driving REVIEW</h3>
+<p>Autogefühl: 06.12.2024</p>
+
+{{< youtube 1AtCQuDEpKo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE: Vauxhall Frontera - The £23k family electric SUV. Too good to be true? | Electrifying</h3>
 <p>Electrifying: 05.12.2024</p>
 

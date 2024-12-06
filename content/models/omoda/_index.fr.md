@@ -1,5 +1,5 @@
 ---
-title: OMODA modèles de VE
+title: Modèles EV de OMODA
 linktitle: "OMODA"
 description: "Omoda est une marque automobile relativement nouvelle qui a émergé de Chery, l'un des plus grands fabricants automobiles chinois. Lancée officiellement en 2022, Omoda représente la tentative de Chery de répondre aux besoins des consommateurs jeunes et technophiles en mettant l'accent sur un design de pointe, une technologie avancée et la durabilité. La marque met l'accent sur les options de véhicules électriques et hybrides, en accord avec les tendances mondiales vers des solutions de transport plus vertes et plus respectueuses de l'environnement."
 weight: 30

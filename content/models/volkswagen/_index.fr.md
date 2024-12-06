@@ -1,5 +1,5 @@
 ---
-title: Volkswagen modèles de VE
+title: Modèles EV de Volkswagen
 linktitle: "Volkswagen"
 description: "Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID. Buzz est un monospace disponible en 4 variantes.
+Volkswagen ID. Buzz est un MPV disponible en 4 variantes.
 </p>
 	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -56,7 +56,7 @@ Volkswagen Id. UNYX est un SUV coupé disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 est un hayon disponible en 5 variantes.
+Volkswagen ID.3 est une citadine disponible en 5 variantes.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -101,7 +101,7 @@ Volkswagen ID.5 est un SUV coupé disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.7 est une berline/break disponible en 6 variantes.
+Volkswagen ID.7 est une berline / break disponible en 6 variantes.
 </p>
 	<a href="id.7/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

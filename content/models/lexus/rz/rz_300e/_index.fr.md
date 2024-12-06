@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ 300e
 linktitle: "RZ 300e"
-description: "Lexus RZ 300e est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 480 km (298 miles). EVKX.net a tous les détails."
+description: "Lexus RZ 300e est un SUV entièrement électrique avec une autonomie de WLTP allant jusqu'à 480 km (298 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,93 +11,93 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/main_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
-Nous avons séparé notre article Lexus RZ 300e en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-L'Lexus RZ 300e offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 266 Nm. Il accélère de 0 à 100 km/h en 8 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+Le Lexus RZ 300e offre des performances modestes avec une puissance maximale de 150 kW (204 ch / 201 bhp) et un couple total de 266 Nm (196 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 8 secondes et atteint une vitesse maximale de 160 km/h (99 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 71,4 kWh et une capacité nette utilisable de 64,0 kWh, offrant une réserve de 7,4 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 355,2 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 71,4 kWh et une capacité nette utilisable de 64,0 kWh, offrant une marge de sécurité de 7,4 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 355,2 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 480 et 430 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,3 kWh/100 km pour le modèle de base et à 14,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 480 et 430 km (298-267 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,3 kWh/100 km pour le modèle de base et à 14,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 147kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 38 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 48 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 78kW. Chaque session de charge prendrait 22 minutes et 33 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 147 kW. La charge de 0% à 100% prend environ 84 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 38 minutes avec une vitesse de charge moyenne de 70 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 4% à 48%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 78 kW, chaque session de charge prenant environ 22 minutes et 33 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22,5 kWh/100 km, le voyage prendrait environ 10 heures et 23 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 47%, avec un temps de recharge total de 123 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 22,5 kWh/100 km, le voyage prendrait environ 10 heures et 23 minutes, nécessitant six arrêts de charge de 5% à 47%, totalisant 123 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 49 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 5 heures et 49 minutes avec une installation domestique.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/charging_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Lexus RZ 300e dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Lexus RZ 300e dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension Standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 200 mm.
+La suspension du Standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 200 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Lexus RZ 300e. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+La direction dynamique est un standard sur le Lexus RZ 300e, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
 
-### Modes de conduite
+### Modes de Conduite
 
-Le Lexus RZ 300e permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
+Le Lexus RZ 300e permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Normal: Direction et accélérateur équilibrés.
-- Sport: Direction et accélérateur dynamiques.
-- Eco: Direction équilibrée et accélérateur efficace.
-- Range: Direction équilibrée et accélérateur efficace.
+- Normal : Direction et accélérateur équilibrés.
+- Sport : Direction et accélérateur dynamiques.
+- Eco : Direction et accélérateur efficaces équilibrés.
+- Range : Direction et accélérateur efficaces équilibrés.
 - Custom : Paramètres définis par l'utilisateur pour la direction et l'accélérateur.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 328 mm et les disques arrière mesurent 317 mm.
+Le Lexus RZ 300e est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 328 mm, tandis que les disques arrière sont de 317 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle offre plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse si nécessaire. <br /><br />**La régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage intègre les freins physiques uniquement lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving) où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonctionnalité souvent appelée **conduite à une pédale**. Cependant, ce n'est pas considéré comme une véritable conduite à une pédale car, à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
-De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a quatre niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a quatre niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 ## Extérieur
 
-La Lexus RZ 300e, avec des dimensions de 4805 mm de longueur, 1895 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Lexus RZ 300e est disponible en un total de 9 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et le capot sont peints dans une couleur différente, offrant un look distinctif et élégant.
+Le Lexus RZ 300e, avec des dimensions de 4805 mm de longueur, 1895 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne, offrant un mélange d'espace, de confort, de performance et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Le Lexus RZ 300e est disponible en un total de 9 couleurs de peinture, y compris des options unies et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et le capot sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lexus RZ 300e, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Lexus RZ 300e offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 235/60 sur jantes de 18" à l'avant et pneus 255/55 sur jantes de 18" à l'arrière
-- Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
+- 235/60 pneus sur des jantes de 18" à l'avant et 255/55 pneus sur des jantes de 18" à l'arrière
+- 235/50 pneus sur des jantes de 20" à l'avant et 255/45 pneus sur des jantes de 20" à l'arrière
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon de style hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. L'un au-dessus de la première rangée et l'autre au-dessus de la deuxième rangée. Ce verre donne à l'intérieur de la voiture une sensation de plus d'espace et de luminosité, ce qui peut améliorer l'humeur et le confort des occupants. Le verre a une fonction électrochromique qui vous permet de teinter le verre pour vous protéger du soleil.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un sur la première et la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Le verre a une fonction électrochromique qui vous permet de teinter le verre pour vous protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/exterior_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -105,27 +105,27 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Le Lexus RZ 300e dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+Le Lexus RZ 300e dispose d'un intérieur centré sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de sièges et styles d'intérieur. Vous pouvez choisir entre plusieurs designs d'intérieur.
 
 ### Sièges
 
-Le Lexus RZ 300e peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Lexus RZ 300e peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Lexus RZ 300e propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement en option)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement en option)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - DarkGray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - DarkGray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
@@ -134,46 +134,46 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/frontseats_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 40:60, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- appui-tête réglable en hauteur
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+- Appuie-tête réglable en hauteur
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/secondrowseats_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
-L'Lexus RZ 300e comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Lexus RZ 300e comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
-- **Recharge sans fil pour téléphone**
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
+L'interface de contrôle du Lexus RZ 300e combine des boutons, des manettes et des écrans pour une expérience fluide et conviviale.
 
-Le Lexus RZ 300e possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+Le Lexus RZ 300e dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran touch derrière le volant intégré au tableau de bord mesure 7,0 pouces
-- L'écran touch en haut de la console centrale mesure 14,0 pouces
+- L'écran touch derrière le volant intégré dans le tableau de bord mesure 7,0 pouces.
+- L'écran touch en haut de la console centrale mesure 14,0 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/screens_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
@@ -181,133 +181,133 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Vous pouvez choisir parmi plusieurs volants.
 
-- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
-- **Volant Yoke:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Yoke :** Ce volant dispose d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-Le système de navigation intégré vous aide à naviguer jusqu'à votre destination avec facilité. Il fournit également des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress. Cependant, il ne prend pas en charge la planification des itinéraires avec des arrêts de recharge, ce qui vous oblige à planifier vos arrêts de recharge manuellement.
+Le système de navigation intégré vous aide à naviguer jusqu'à votre destination avec facilité. Il fournit également des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress. Cependant, il ne prend pas en charge la planification d'itinéraires avec des arrêts de recharge, vous obligeant à planifier vos arrêts de recharge manuellement.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Lexus RZ 300e prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Lexus RZ 300e prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Lexus RZ 300e.
+Vous pouvez choisir entre deux systèmes audio pour le Lexus RZ 300e :
 
-- **Standard:** Comprend dix haut-parleurs.
-- Avec le Mark Levinson Premium Surround Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1800 watts.
+- **Standard :** Dispose de dix haut-parleurs.
+- **Mark Levinson Premium Surround Sound :** Dispose de 13 haut-parleurs et délivre une puissance maximale de 1800 watts.
 
-Le modèle dispose de 5 connexions USB-C en standard.
+De plus, le modèle comprend 5 connexions USB-C de série.
 
-## Application mobile
+## Application Mobile
 
-Le Lexus RZ 300e est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+Le Lexus RZ 300e est livré avec une application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
 
-- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
-- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
-- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
-- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
-- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
+- **Stationnement à distance :** Contrôlez facilement votre voiture pour la garer ou sortir d'une place de stationnement à distance.
+- **Verrouiller & Déverrouiller :** Verrouillez ou déverrouillez les portes de votre voiture en un seul clic.
+- **Planification de la charge :** Planifiez et programmez des sessions de charge avant vos trajets.
+- **Trouver votre voiture :** Activez le klaxon ou les lumières pour retrouver votre voiture dans les zones bondées.
 
-## Lumières
+## Éclairage
 
 Vous pouvez choisir entre deux types de phares pour le Lexus RZ 300e.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
+- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
+- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement des zones spécifiques pour éviter d'éblouir le trafic venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/headlights_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Lexus RZ 300e comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Lexus RZ 300e dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Lexus RZ 300e, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Lexus RZ 300e, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Lexus RZ 300e, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Lexus RZ 300e, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Lexus RZ 300e, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Lexus RZ 300e, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le Lexus RZ 300e, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Lexus RZ 300e, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Lexus RZ 300e, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lexus RZ 300e, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lexus RZ 300e, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lexus RZ 300e, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lexus RZ 300e, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Lexus RZ 300e, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Lexus RZ 300e, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Lexus RZ 300e, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Lexus RZ 300e, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+[**Avertissement de sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Lexus RZ 300e, ce système avertit les occupants contre l'ouverture des portes s'il y a un risque de heurter quelque chose.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard Lane Tracing Assist de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Lane Tracing Assist niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
-- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Changement de voie automatique (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
 Le Lexus RZ 300e est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 - **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
-- **Fonctionnalité téléphone comme clé :** La technologie téléphone comme clé en option vous permet d'utiliser votre smartphone comme clé numérique, ajoutant commodité et flexibilité pour déverrouiller et démarrer le véhicule.
-- **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les tentatives de sabotage, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
+- **Fonctionnalité Téléphone comme Clé :** La technologie téléphone comme clé en option vous permet d'utiliser votre smartphone comme clé numérique, ajoutant commodité et flexibilité pour déverrouiller et démarrer le véhicule.
+- **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les manipulations, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 522 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 1451 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 522 litres (18,4 CU FT). Avec le siège de la troisième rangée rabattu, cela s'étend à 1451 litres (51,2 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont de série pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
-Le poids maximum du véhicule est de 2520 kg, avec un poids de base de 1960 kg. Cela permet une charge maximale de 560 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2520 kg (5556 lbs), avec un poids de base de 1960 kg (4321 lbs). Cela permet une charge maximale de 560 kg (1235 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 750 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 750 kg (1653 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/trunk_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 20.05.2024 et les livraisons ont commencé en June 2024.
+Le Lexus RZ 300e a eu sa première mondiale le 20.05.2024, avec des livraisons commençant en June 2024.
 
 ### Tarification
 
-Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - 492 400,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 
-Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Lexus RZ 300e qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Lexus RZ 300e qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
 - [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
 - [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
 - [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
 
-<a href="https://db.evkx.net/evcompare?evs=1a39ee%2c7a651b%2cfcf585%2c224873" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=1a39ee%2c7a651b%2cfcf585%2c224873" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 
-{{< pagenavigation b_url="../" b_title="Lexus RZ" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="Lexus RZ" f_url="rangeandconsumption/" f_title="Autonomie" >}}

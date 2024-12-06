@@ -1,5 +1,5 @@
 ---
-title: BYD modèles de VE
+title: Modèles EV de BYD
 linktitle: "BYD"
 description: "BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. "
 weight: 30
@@ -71,7 +71,7 @@ BYD Han est une berline disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Seagull est un hayon disponible en 1 variantes.
+BYD Seagull est une citadine disponible en 1 variantes.
 </p>
 	<a href="seagull/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

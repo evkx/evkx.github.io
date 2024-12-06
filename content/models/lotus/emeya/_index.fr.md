@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya
 linktitle: "Emeya"
-description: "Voir ci-dessous pour plus de détails sur les différentes variantes de Lotus Emeya"
+description: "Voir ci-dessous pour les détails des différentes variantes de Lotus Emeya"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,11 +16,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="emeya/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="emeya/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="emeya/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="emeya/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="emeya/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -35,11 +35,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="emeya_r/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="emeya_r/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="emeya_r/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya_r/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya_r/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya_r/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="emeya_r/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="emeya_r/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -54,11 +54,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="emeya_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="emeya_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="emeya_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="emeya_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="emeya_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="emeya_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>

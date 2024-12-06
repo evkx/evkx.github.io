@@ -1,5 +1,5 @@
 ---
-title: Ford modèles de VE
+title: Modèles EV de Ford
 linktitle: "Ford"
 description: "Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience."
 weight: 30
@@ -56,7 +56,7 @@ Ford Explorer est un crossover disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford F150 Lightning est une camionnette disponible en 2 variantes.
+Ford F150 Lightning est un pickup disponible en 2 variantes.
 </p>
 	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

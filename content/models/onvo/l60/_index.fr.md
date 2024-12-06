@@ -1,7 +1,7 @@
 ---
 title: Onvo L60
 linktitle: "L60"
-description: "Voir ci-dessous pour plus de détails sur les différentes variantes de Onvo L60"
+description: "Voir ci-dessous pour les détails des différentes variantes de Onvo L60"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,11 +16,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="l60_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="l60_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="l60_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="l60_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="l60_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="l60_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="l60_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="l60_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -35,11 +35,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="l60_rwd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="l60_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="l60_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="l60_rwd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="l60_rwd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="l60_rwd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="l60_rwd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="l60_rwd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>

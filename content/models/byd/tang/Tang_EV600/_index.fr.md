@@ -1,7 +1,7 @@
 ---
 title: BYD Tang EV600
 linktitle: "Tang EV600"
-description: "BYD Tang EV600 est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 400 km (249 miles). EVKX.net a tous les détails."
+description: "BYD Tang EV600 est un SUV entièrement électrique avec une autonomie de WLTP allant jusqu'à 400 km (249 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,91 +11,91 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/main_1_st.jpg" title="BYD Tang EV600" width="1680" height="960"  >}}
 
-Nous avons séparé notre article BYD Tang EV600 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-La BYD Tang EV600 offre des performances solides avec une puissance maximale de 380 kW (517 ch) et un couple total de 680 Nm. Elle peut accélérer de 0 à 100 km/h en 4,6 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
+Le BYD Tang EV600 offre des performances solides avec une puissance maximale de 380 kW (517 ch / 510 bhp) et un couple total de 680 Nm (502 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 4,6 secondes et atteint une vitesse maximale de 180 km/h (112 mph), le rendant compétitif dans sa catégorie.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 86,4 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 1,4 kWh (1,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 640 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 86,4 kWh et une capacité nette utilisable de 85,0 kWh, offrant une marge de sécurité de 1,4 kWh (1,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 640 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offrant à la fois des avantages et des inconvénients par rapport aux batteries typiques NCA/NMC.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km, avec une consommation d'énergie de 21,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km (249 miles), avec un taux de consommation d'énergie de 21,3 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 110kW. Une charge complète de 0 à 100 % prendrait 68 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 37 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 91kW. Chaque session de charge prendrait 31 minutes et 44 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 110 kW. La charge de 0% à 100% prend environ 68 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 37 minutes avec une vitesse de charge moyenne de 98 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 4% à 59%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 91 kW, chaque session de charge prenant environ 31 minutes et 44 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 31,7 kWh/100 km, le voyage prendrait environ 10 heures et 53 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 59%, avec un temps de recharge total de 154 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 31,7 kWh/100 km, le voyage prendrait environ 10 heures et 53 minutes, nécessitant cinq arrêts de charge de 4% à 59%, totalisant 154 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 11 heures et 29 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 11 heures et 29 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
-### Recharge bidirectionnelle
+### Charge bidirectionnelle
 
-Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 2 kW de puissance, y compris charger d'autres véhicules.
+Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter des équipements électriques nécessitant jusqu'à 2 kW de puissance, y compris la possibilité de charger d'autres véhicules.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-BYD Tang EV600 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le BYD Tang EV600 dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le BYD Tang EV600. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+La direction dynamique est un standard sur le BYD Tang EV600, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
 
-### Modes de conduite
+### Modes de Conduite
 
-Le BYD Tang EV600 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 2 modes :
+Le BYD Tang EV600 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 2 modes :
 
 - Sport : Accélérateur dynamique.
 - eco : Accélérateur efficace.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 320 mm et les disques arrière mesurent 320 mm.
+Le BYD Tang EV600 est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 320 mm, tandis que les disques arrière sont de 320 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec les [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Cependant, ce n'est pas considéré comme une véritable conduite à une pédale car, à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
-De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 La puissance régénérative maximale est de 200 kW.
 
 ## Extérieur
 
-La BYD Tang EV600, avec des dimensions de 4870 mm de longueur, 1950 mm de largeur et 1725 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La BYD Tang EV600 est disponible en un total de 5 couleurs de peinture unies.
+Le BYD Tang EV600, avec des dimensions de 4870 mm de longueur, 1950 mm de largeur et 1725 mm de hauteur, appartient aux SUV de taille moyenne, offrant un mélange d'espace, de confort, de performance et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Le BYD Tang EV600 est disponible en un total de 5 couleurs de peinture unies.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Tang EV600, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur le BYD Tang EV600, vous permettant de personnaliser votre véhicule pour correspondre à votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 265/40 sur jantes de 22"
+- 265/40 pneus sur des jantes de 22"
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). Le hayon est motorisé et dispose d'un capteur de coup de pied de série.
 
-Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard a un toit panoramique. Le verre s'étend sur la majeure partie du toit, et les occupants peuvent ouvrir la partie avant. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-Les vitres du montant B et de l'arrière sont teintées.
+Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/exterior_1_st.jpg" title="BYD Tang EV600" width="1680" height="920"  >}}
 
@@ -103,82 +103,82 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Le BYD Tang EV600 dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Il comprend également une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement pratique et une fonctionnalité.
+Le BYD Tang EV600 dispose d'un intérieur centré sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. Il comprend également une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement pratique et une fonctionnalité.
 
 ### Sièges
 
-La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
+La disposition des sièges est de sept sièges avec deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le BYD Tang EV600 propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- appui-tête réglable en longueur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- Appuie-tête réglable en hauteur
+- Appuie-tête réglable en longueur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/frontseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="2001"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 
-#### Sièges de troisième rangée
+#### Sièges de Troisième Rangée
 
-La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
+La troisième rangée dispose d'une banquette deux places avec une répartition 50:50. Vous pouvez également rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
-Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
+Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
 
 ## Caractéristiques de confort
 
-L'BYD Tang EV600 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le BYD Tang EV600 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
-- **Recharge sans fil pour téléphone**
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
+L'interface de contrôle du BYD Tang EV600 est principalement axée sur l'interaction avec l'écran, avec une fonctionnalité limitée disponible via des boutons physiques et des manettes. Ce design peut entraîner une expérience utilisateur et une convivialité moins idéales pour certains utilisateurs.
 
-Le BYD Tang EV600 dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le BYD Tang EV600 dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces
-- L'écran touch au centre du tableau de bord mesure 12,8 pouces
+- L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces.
+- L'écran touch au centre du tableau de bord mesure 12,8 pouces.
 
-Le modèle n'a pas d'affichage tête haute.
+Le modèle n'inclut pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 
@@ -186,84 +186,84 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le BYD Tang EV600 est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 ## Infodivertissement
 
-Le BYD Tang EV600 dispose d'un système d'infodivertissement appelé BYD DiLink, basé sur Android. Ce système est conçu pour offrir une interface conviviale avec une gamme de fonctionnalités et de fonctions pour améliorer l'expérience de conduite. Il comprend diverses applications et services, tels que la navigation, la diffusion de musique et les réglages du véhicule, tous accessibles via l'écran tactile. Le système prend également en charge les mises à jour par voie hertzienne, garantissant que le véhicule reste à jour avec les dernières fonctionnalités et améliorations.
+Le BYD Tang EV600 dispose d'un système d'infodivertissement appelé BYD DiLink, basé sur Android. Ce système est conçu pour offrir une interface conviviale avec une gamme de fonctionnalités et de fonctions pour améliorer l'expérience de conduite. Il comprend diverses applications et services, tels que la navigation, la diffusion de musique et les paramètres du véhicule, tous accessibles via l'écran tactile. Le système prend également en charge les mises à jour par voie hertzienne, garantissant que le véhicule reste à jour avec les dernières fonctionnalités et améliorations.
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
 ### Applications Préinstallées
 
-Bien que le système d'infodivertissement ne comprenne pas de boutique d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+Bien que le système d'infodivertissement ne comprenne pas de magasin d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
 
-- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **Spotify :** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant des options de divertissement infinies pour votre trajet.
 
-### Système audio
+### Système Audio
 
-Un type de système audio est disponible pour le BYD Tang EV600.
+Le BYD Tang EV600 est équipé d'une seule option de système audio :
 
-- Avec le Dirac sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 200 watts.
+- **Dirac sound system :** Dispose de 12 haut-parleurs et délivre une puissance maximale de 200 watts.
 
-Le modèle dispose de 4 connexions USB-A en standard.
+Le modèle dispose de 4 connexions USB-A de série.
 
-## Application mobile
+## Application Mobile
 
-Le BYD Tang EV600 est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+Le BYD Tang EV600 est livré avec une application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
 
-- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
-- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
-- **Contrôle des fenêtres** : Ouvrez et fermez les fenêtres depuis n'importe où.
-- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
+- **Verrouiller & Déverrouiller :** Verrouillez ou déverrouillez les portes de votre voiture en un seul clic.
+- **Contrôle des fenêtres :** Ouvrez et fermez les fenêtres de n'importe où.
+- **Trouver votre voiture :** Activez le klaxon ou les lumières pour retrouver votre voiture dans les zones bondées.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le BYD Tang EV600 comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le BYD Tang EV600 dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le BYD Tang EV600, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le BYD Tang EV600, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le BYD Tang EV600, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le BYD Tang EV600, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le BYD Tang EV600, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le BYD Tang EV600, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le BYD Tang EV600, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le BYD Tang EV600, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le BYD Tang EV600, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le BYD Tang EV600, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le BYD Tang EV600, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le BYD Tang EV600, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le BYD Tang EV600, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le BYD Tang EV600, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le BYD Tang EV600, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le BYD Tang EV600, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+[**Avertissement de sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le BYD Tang EV600, ce système avertit les occupants contre l'ouverture des portes s'il y a un risque de heurter quelque chose.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard Intelligent Cruise Control de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Intelligent Cruise Control niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et huit [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et huit [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
@@ -273,32 +273,32 @@ Le BYD Tang EV600 est équipé de fonctionnalités de sécurité avancées pour 
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 192 litres. Avec les sièges arrière rabattus, cette capacité passe à 1655 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 192 litres (6,8 CU FT). Avec le siège arrière rabattu, cela s'étend à 1655 litres (58,4 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont de série pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
-Le poids maximum du véhicule est de 3060 kg, avec un poids de base de 2489 kg. Cela permet une charge maximale de 571 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 3060 kg (6746 lbs), avec un poids de base de 2489 kg (5487 lbs). Cela permet une charge maximale de 571 kg (1259 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg (3307 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/trunk_1_st.jpg" title="BYD Tang EV600" width="2000" height="1333"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 16.11.2018 et les livraisons ont commencé en April 2019. Ce modèle a maintenant été abandonné.
+Ce modèle a eu sa première mondiale le 16.11.2018, et les livraisons ont commencé en April 2019. Ce modèle a maintenant été discontinué.
 
 ### Tarification
 
-Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - 599 900,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 
-Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BYD Tang EV600 qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BYD Tang EV600 qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
 - [Nio ES8](/models/nio/es8/es8/)
 
-<a href="https://db.evkx.net/evcompare?evs=821dca%2ccc43c9" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=821dca%2ccc43c9" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 
-{{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Autonomie" >}}

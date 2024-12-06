@@ -1,5 +1,5 @@
 ---
-title: Zeekr modèles de VE
+title: Modèles EV de Zeekr
 linktitle: "Zeekr"
 description: "Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience."
 weight: 30
@@ -56,7 +56,7 @@ Zeekr 007 est une berline disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 009 est un monospace premium disponible en 1 variantes.
+Zeekr 009 est un MPV premium disponible en 1 variantes.
 </p>
 	<a href="009/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -86,7 +86,7 @@ Zeekr 7X est un SUV disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr MIX est un monospace disponible en 1 variantes.
+Zeekr MIX est un MPV disponible en 1 variantes.
 </p>
 	<a href="mix/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

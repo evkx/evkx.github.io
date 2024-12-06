@@ -1,5 +1,5 @@
 ---
-title: Maserati Grecale Folgore courbe de charge et performances
+title: Courbe de charge et performance de Maserati Grecale Folgore
 linktitle: "Courbe de charge"
 description: "Ci-dessous se trouve la courbe de charge pour Maserati Grecale Folgore, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				1,43
@@ -66,7 +66,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				1,08
@@ -74,7 +74,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				2% - 61%
@@ -82,7 +82,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				109,9kW
@@ -90,7 +90,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				31m55s
@@ -115,7 +115,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				1 h 5 m 15 s
@@ -220,7 +220,7 @@ navicon: bi-battery-charging
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -229,13 +229,13 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -1662,4 +1662,4 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomie" f_url="../specifications/" f_title="Spécifications" >}}

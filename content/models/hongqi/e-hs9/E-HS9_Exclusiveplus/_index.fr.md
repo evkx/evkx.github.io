@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Exclusive+
 linktitle: "E-HS9 Exclusive+"
-description: "Hongqi E-HS9 Exclusive+ est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 515 km (320 miles). EVKX.net a tous les détails."
+description: "Hongqi E-HS9 Exclusive+ est un SUV entièrement électrique avec une autonomie de WLTP allant jusqu'à 515 km (320 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,77 +11,77 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="2050"  >}}
 
-Nous avons séparé notre article Hongqi E-HS9 Exclusive+ en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-La Hongqi E-HS9 Exclusive+ impressionne avec une puissance maximale de 405 kW (551 ch) et un couple total impressionnant de 670 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,9 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
+Le Hongqi E-HS9 Exclusive+ offre des performances impressionnantes avec une puissance maximale de 405 kW (551 ch / 543 bhp) et un couple total de 670 Nm (494 lb-pi). Cette machine haute performance peut passer de 0 à 100 km/h (0 à 62 mph) en seulement 4,9 secondes et atteindre une vitesse maximale de 200 km/h (124 mph), en faisant un modèle remarquable dans sa catégorie.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 120,0 kWh et une capacité nette utilisable de 110,0 kWh, offrant une réserve de 10,0 kWh (8,3%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 120,0 kWh et une capacité nette utilisable de 110,0 kWh, offrant une marge de sécurité de 10,0 kWh (8,3%) pour la protection de la batterie.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 515 km, avec une consommation d'énergie de 21,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 515 km (320 miles), avec un taux de consommation d'énergie de 21,4 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 117 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 64 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 39 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 85kW. Chaque session de charge prendrait 30 minutes et 6 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 135 kW. La charge de 0% à 100% prend environ 117 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 64 minutes avec une vitesse de charge moyenne de 72 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 0% à 39%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 85 kW, chaque session de charge prenant environ 30 minutes et 6 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 32 kWh/100 km, le voyage prendrait environ 10 heures et 49 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 33%, avec un temps de recharge total de 149 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 32 kWh/100 km, le voyage prendrait environ 10 heures et 49 minutes, nécessitant six arrêts de charge de 1% à 33%, totalisant 149 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 10 heures et 0 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 10 heures et 0 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Hongqi E-HS9 Exclusive+ dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Hongqi E-HS9 Exclusive+ dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 170 mm et la garde au sol maximale est de 260 mm.
+La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 170 mm, et la maximale est de 260 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Hongqi E-HS9 Exclusive+. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+La direction dynamique est un standard sur le Hongqi E-HS9 Exclusive+, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
+Le Hongqi E-HS9 Exclusive+ est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici.
+Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici.
 
 ## Extérieur
 
-La Hongqi E-HS9 Exclusive+, avec des dimensions de 5209 mm de longueur, 2010 mm de largeur et 1713 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Hongqi E-HS9 Exclusive+ est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le Hongqi E-HS9 Exclusive+, avec des dimensions de 5209 mm de longueur, 2010 mm de largeur et 1713 mm de hauteur, appartient aux SUV de grande taille, offrant le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un ensemble spécifique de conducteurs aux besoins uniques. Le Hongqi E-HS9 Exclusive+ est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques frappantes.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hongqi E-HS9 Exclusive+, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Hongqi E-HS9 Exclusive+ offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 265/45 sur jantes de 21"
-- Pneus 275/40 sur jantes de 22"
+- 265/45 pneus sur des jantes de 21"
+- 275/40 pneus sur des jantes de 22"
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un standard pour les portes latérales. Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). La fermeture douce est un standard fonction pour les portes latérales. Le hayon est motorisé et dispose d'un capteur de coup de pied de série.
 
-Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard a un toit panoramique. Le verre s'étend sur la majeure partie du toit, et les occupants peuvent ouvrir la partie avant. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1757"  >}}
 
@@ -91,66 +91,66 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 ### Sièges
 
-La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
+La disposition des sièges est de six sièges avec deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette deux places dans la troisième rangée.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Hongqi E-HS9 Exclusive+ propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
+Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. Fonctionnalités supplémentaires :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-#### Sièges de troisième rangée
+#### Sièges de Troisième Rangée
 
-La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
+La troisième rangée dispose d'une banquette deux places avec une répartition 50:50. Vous pouvez également rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 6 zones** : Prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
+- **Système de climatisation à 6 zones :** Permet des températures différentes dans six zones : Le conducteur, le passager, deux zones dans la 2e rangée et deux zones dans la 3e rangée.
 
 ## Caractéristiques de confort
 
-L'Hongqi E-HS9 Exclusive+ comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Hongqi E-HS9 Exclusive+ comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le Hongqi E-HS9 Exclusive+ possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). Au centre du le tableau de bord est un écran d'infodivertissement, et dans la console centrale se trouve un écran pour le système de climatisation. Pour le passager, il y a un écran d'infodivertissement.
+Le Hongqi E-HS9 Exclusive+ dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments). Au centre du tableau de bord se trouve un écran d'infodivertissement, et dans la console centrale se trouve un écran pour le système de climatisation. Pour le passager, il y a un écran d'infodivertissement.
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 16,2 pouces
-- L'écran touch au centre du tableau de bord mesure 16,2 pouces
-- L'écran touch devant le passager dans le tableau de bord mesure 16,2 pouces
-- L'écran touch au milieu de la console centrale mesure 10,2 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 16,2 pouces.
+- L'écran touch au centre du tableau de bord mesure 16,2 pouces.
+- L'écran touch devant le passager dans le tableau de bord mesure 16,2 pouces.
+- L'écran touch au milieu de la console centrale mesure 10,2 pouces.
 
-Le modèle n'a pas d'affichage tête haute.
+Le modèle n'inclut pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
 
@@ -158,66 +158,66 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Hongqi E-HS9 Exclusive+ est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités par des commandes vocales.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Système audio
+### Système Audio
 
-Un type de système audio est disponible pour le Hongqi E-HS9 Exclusive+.
+Le Hongqi E-HS9 Exclusive+ est équipé d'une seule option de système audio :
 
-- **Hongqi sound system:** Comprend 16 haut-parleurs.
+- **Hongqi sound system :** Dispose de 16 haut-parleurs.
 
-Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 3 connexions USB-A en standard.
+De plus, le modèle comprend 1 connexions USB-C de série. Le modèle dispose de 3 connexions USB-A de série.
 
-## Lumières
+## Éclairage
 
-Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
+Le Hongqi E-HS9 Exclusive+ est équipé de phares à LED Matrix avancés. Ce système adaptatif divise le faisceau de phare traditionnel en plusieurs petits rayons, permettant au contrôleur de lumière de les allumer et éteindre sélectivement pour éviter d'éblouir les autres conducteurs. Pour une sécurité accrue, les phares comprennent également des feux de virage qui éclairent le côté lors des virages.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/headlights_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="851" height="686"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Hongqi E-HS9 Exclusive+ comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Hongqi E-HS9 Exclusive+ dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Hongqi E-HS9 Exclusive+, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Hongqi E-HS9 Exclusive+, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Hongqi E-HS9 Exclusive+, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Hongqi E-HS9 Exclusive+, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Hongqi E-HS9 Exclusive+, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Facultatif sur le Hongqi E-HS9 Exclusive+, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optionnel sur le Hongqi E-HS9 Exclusive+, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Hongqi E-HS9 Exclusive+, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Hongqi E-HS9 Exclusive+, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Facultatif sur le Hongqi E-HS9 Exclusive+, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optionnel sur le Hongqi E-HS9 Exclusive+, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Hongqi E-HS9 Exclusive+, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Hongqi E-HS9 Exclusive+, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Facultatif sur le Hongqi E-HS9 Exclusive+, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
+[**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optionnel sur le Hongqi E-HS9 Exclusive+, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Hongqi E-HS9 Exclusive+, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Hongqi E-HS9 Exclusive+, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 ## Technologies de sécurité et d'accès
@@ -228,11 +228,11 @@ Le Hongqi E-HS9 Exclusive+ est équipé de fonctionnalités de sécurité avanc�
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 225 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 622 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 225 litres (7,9 CU FT). Avec le siège de la troisième rangée rabattu, cela s'étend à 622 litres (22,0 CU FT). Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Des rails de toit en option sont disponibles pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
-Le poids maximum du véhicule est de 3180 kg, avec un poids de base de 2630 kg. Cela permet une charge maximale de 550 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 3180 kg (7011 lbs), avec un poids de base de 2630 kg (5798 lbs). Cela permet une charge maximale de 550 kg (1213 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
-{{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Plage" >}}
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg (3307 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
+{{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Autonomie" >}}

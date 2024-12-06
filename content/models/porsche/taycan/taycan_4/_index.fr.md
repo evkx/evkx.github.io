@@ -11,118 +11,118 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4/main_1_st.jpg" title="Porsche Taycan 4" width="3000" height="1687"  >}}
 
-Nous avons séparé notre article Porsche Taycan 4 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, l'Porsche Taycan 4 atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 300 kW (408 ch). Le couple maximal est de 420 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides. Avec overboost, l'Porsche Taycan 4 atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 300 kW (408 ch). Le couple maximal est de 410 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
+Avec la batterie optionnelle Performance Battery Plus, vous obtenez d'autres chiffres de performance. Avec la suralimentation, le Porsche Taycan 4 atteint une puissance maximale de 300 kW (408 ch / 402 bhp). Sans suralimentation, il délivre 300 kW (408 ch / 402 bhp). Le couple maximal est de 420 Nm (310 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 4,8 secondes et atteint une vitesse maximale de 230 km/h (143 mph), démontrant ses solides performances. Avec la suralimentation, le Porsche Taycan 4 atteint une puissance maximale de 300 kW (408 ch / 402 bhp). Sans suralimentation, il délivre 300 kW (408 ch / 402 bhp). Le couple maximal est de 410 Nm (303 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 4,8 secondes et atteint une vitesse maximale de 230 km/h (143 mph), démontrant ses solides performances.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-Porsche Taycan 4 propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
+Le Porsche Taycan 4 est disponible avec deux options de batterie, chacune offrant des spécifications et des performances différentes.
 
 ### Performance Battery Plus
 
-La batterie haute capacité a une capacité brute de 105,0 kWh et une capacité nette utilisable de 97,0 kWh, offrant une réserve de 8,0 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 729 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 105,0 kWh et une capacité nette utilisable de 97,0 kWh, offrant une marge de sécurité de 8,0 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 729 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 643 et 555 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,1 kWh/100 km pour le modèle de base et à 17,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 643 et 555 km (400-345 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,1 kWh/100 km pour le modèle de base et à 17,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 47 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 16 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 209kW. Chaque session de charge prendrait 18 minutes et 48 secondes. Cette capacité de charge exceptionnellement rapide fait de la Porsche Taycan 4 l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 320 kW. La charge de 0% à 100% prend environ 47 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 16 minutes avec une vitesse de charge moyenne de 260 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 1% à 65%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 209 kW, chaque session de charge prenant environ 18 minutes et 48 secondes. Cette capacité de charge exceptionnellement rapide fait du Porsche Taycan 4 l'un des VE les plus efficaces et pratiques pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 8 heures et 55 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 65%, avec un temps de recharge total de 36 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 22 kWh/100 km, le voyage prendrait environ 8 heures et 55 minutes, nécessitant deux arrêts de charge de 1% à 65%, totalisant 36 minutes de temps de charge.
 
 ### Performance Battery
 
-La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 82,3 kWh, offrant une réserve de 6,7 kWh (7,5%) pour la protection de la batterie. Fonctionnant à une tension nominale de 618 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 89,0 kWh et une capacité nette utilisable de 82,3 kWh, offrant une marge de sécurité de 6,7 kWh (7,5%) pour la protection de la batterie. Fonctionnant à une tension nominale de 618 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 559 et 478 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,1 kWh/100 km pour le modèle de base et à 17,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 559 et 478 km (347-297 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,1 kWh/100 km pour le modèle de base et à 17,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 51 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 162kW. Chaque session de charge prendrait 19 minutes et 57 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan 4 une option pratique pour les voyages longue distance.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 270 kW. La charge de 0% à 100% prend environ 51 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 18 minutes avec une vitesse de charge moyenne de 191 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 3% à 65%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 162 kW, chaque session de charge prenant environ 19 minutes et 57 secondes. Cette capacité de charge efficace fait du Porsche Taycan 4 une option pratique pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 9 heures et 11 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 59%, avec un temps de recharge total de 52 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 22 kWh/100 km, le voyage prendrait environ 9 heures et 11 minutes, nécessitant trois arrêts de charge de 3% à 59%, totalisant 52 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 24 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 8 heures et 49 minutes avec une installation domestique. Un chargeur embarqué optionnel de 22 kW réduit le temps de charge complet à environ 4 heures et 24 minutes.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/# j1772) pour l'Amérique du Nord et l'Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Voir les spécifications complètes pour tous les marchés.
+Le port de charge est situé sur le [côté avant droit](../../../../technology/charging/connectors/#front-side), facilitant l'accès aux stations de charge où vous vous garez parallèlement au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes. De plus, un deuxième port sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side) offre une plus grande flexibilité pour la charge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/#j1772) pour l'Amérique du Nord et [**TYPE2**](../../../../technology/charging/connectors/#type-2) pour l'Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Porsche Taycan 4 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Porsche Taycan 4 dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-Vous pouvez commander Porsche Taycan 4 avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 126 mm.
+Vous pouvez commander le Porsche Taycan 4 avec une suspension alternative Adaptive Air Suspension. La suspension avant est à [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 103 mm, et la maximale est de 126 mm.
 
-Vous pouvez commander Porsche Taycan 4 avec une suspension alternative Porsche Active Ride. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 128 mm.
+Vous pouvez commander le Porsche Taycan 4 avec une suspension alternative Porsche Active Ride. La suspension avant est à [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 103 mm, et la maximale est de 128 mm.
 
 La suspension active maintient la carrosserie de la voiture presque horizontale lors du freinage dynamique, de la direction et de l'accélération, améliorant ainsi la réponse précise de la direction et le contrôle du conducteur.
 
-Normalement, les voitures s'inclinent vers l'extérieur dans les virages. Cependant, la dynamique de virage active peut contrer cette inclinaison ou même la surcompenser, faisant en sorte que la voiture s'incline dans les virages comme une moto.
+Normalement, les voitures penchent vers l'extérieur dans les virages. Cependant, les dynamiques de virage actives peuvent contrer ce roulis, voire surcompenser, faisant pencher la voiture dans les virages comme une moto.
 
-La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
+La fonction Easy Entry soulève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan 4. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un facultatif. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
+La direction dynamique est un standard sur le Porsche Taycan 4, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus. De plus, la direction des roues arrière est disponible en tant que une option fonctionnalité. La direction des roues arrière réduit le cercle de braquage à basse vitesse.
 
-### Modes de conduite
+### Modes de Conduite
 
-Le Porsche Taycan 4 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
+Le Porsche Taycan 4 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 5 modes :
 
-- Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
-- Normal : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
-- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
-- Sport Plus : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
-- Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Range : Direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Normal : Direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Sport : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Sport Plus : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Individual : Paramètres définis par l'utilisateur pour la direction, la suspension et la réponse de l'accélérateur.
 
 ### Freins
 
-Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option standard utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option standard utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
+Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte](../../../../technology/brakes/#disc-brakes) réguliers. Les disques avant mesurent 360 mm, tandis que les disques arrière sont de 358 mm. Les freins de l'option standard utilisent un [disque en fonte revêtu de carbure de tungstène](../../../../technology/brakes/#carbid-brakes). Il ne rouille pas et produit très peu de poussière de frein. Les disques avant mesurent 410 mm, tandis que les disques arrière sont de 365 mm. Les freins de l'option standard utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm, tandis que les disques arrière sont de 410 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle offre plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse si nécessaire. <br /><br />**La régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage intègre les freins physiques uniquement lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving) où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonctionnalité souvent appelée **conduite à une pédale**. Cependant, ce n'est pas considéré comme une véritable conduite à une pédale car, à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
-Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
+Si vous retirez complètement le pied, la régénération est à un niveau fixe. Cela ne peut pas être ajusté.
 
 La puissance régénérative maximale est de 265 kW.
 
 ## Extérieur
 
-La Porsche Taycan 4, avec des dimensions de 4963 mm de longueur, 1966 mm de largeur et 1395 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Porsche Taycan 4 est disponible en un total de 17 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+Le Porsche Taycan 4, avec des dimensions de 4963 mm de longueur, 1966 mm de largeur et 1395 mm de hauteur, appartient aux voitures du segment E, également appelées voitures exécutives, qui sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un ensemble spécifique de conducteurs. Le Porsche Taycan 4 est disponible en un total de 17 couleurs de peinture, y compris des options unies et métalliques.
 
-Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
+Vous pouvez également choisir parmi plusieurs options de style pour rendre votre voiture plus unique.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Porsche Taycan 4, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Porsche Taycan 4 offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 225/55 sur jantes de 19" à l'avant et pneus 275/45 sur jantes de 19" à l'arrière
-- Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
-- Pneus 265/35 sur jantes de 21" à l'avant et pneus 305/30 sur jantes de 21" à l'arrière
+- 225/55 pneus sur des jantes de 19" à l'avant et 275/45 pneus sur des jantes de 19" à l'arrière
+- 245/45 pneus sur des jantes de 20" à l'avant et 285/40 pneus sur des jantes de 20" à l'arrière
+- 265/35 pneus sur des jantes de 21" à l'avant et 305/30 pneus sur des jantes de 21" à l'arrière
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline. Le hayon électrique est doté d'un capteur de coup de pied en option, permettant de l'ouvrir d'un simple coup de pied sous le hayon.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un coffre traditionnel, surtout pour une berline. Le hayon motorisé dispose d'un capteur de coup de pied en option, ce qui permet de l'ouvrir simplement en donnant un coup de pied sous le hayon.
 
-Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
+Il y a trois options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Le verre est teinté pour se protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Le verre a une fonction électrochromique qui vous permet de teinter le verre pour vous protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4/exterior_1_st.jpg" title="Porsche Taycan 4" width="3000" height="1687"  >}}
 
@@ -130,28 +130,28 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Le Porsche Taycan 4 dispose d'un intérieur axé sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+Le Porsche Taycan 4 dispose d'un intérieur centré sur le conducteur avec une sensation de luxe, utilisant des matériaux de haute qualité partout. La console centrale traditionnelle sépare le conducteur et le passager, offrant un rangement pratique et une fonctionnalité. Vous pouvez choisir entre différents types de sièges, matériaux de sièges et styles d'intérieur. Vous pouvez choisir entre plusieurs designs d'intérieur.
 
 ### Sièges
 
-Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+Ce modèle offre une disposition à quatre sièges ou une disposition optionnelle 4+1.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
-Pour la première rangée, l'Porsche Taycan 4 propose trois types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
+La première rangée offre trois types de sièges pour répondre à diverses préférences de confort et de style :
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Comfort** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 
-Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
-- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
-- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Gray [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -160,28 +160,28 @@ Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de si�
 - Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en longueur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- Appuie-tête réglable en longueur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
-- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
-Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
-- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
-- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Gray [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -190,31 +190,31 @@ Vous pouvez choisir parmi 13 différents matériaux/couleurs pour ce type de si�
 - Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en longueur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- Appuie-tête réglable en longueur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
-- Gray [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
-- Black [revêtement en microfibre/cuir synthétique/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
+- Gray [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
+- Black [revêtement en microfibre/similicuir/tissu](../../../../technology/seats/materials/#microfiber)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -223,184 +223,184 @@ Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de si�
 - Beige/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Red/Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Beige/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Black/Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Beige [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-#### Sièges de deuxième rangée
+#### Sièges de la deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan 4.
 
-L'option standard consiste en deux sièges intégrés dans la deuxième rangée. De plus, les fonctionnalités suivantes sont disponibles.
+L'option standard est deux sièges intégrés dans la deuxième rangée. Fonctionnalités supplémentaires :
 
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
-L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
+L'option second est deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit au milieu. Fonctionnalités supplémentaires :
 
-- appui-tête réglable en hauteur
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+- Appuie-tête réglable en hauteur
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
-### Rangement Intérieur
+### Rangement intérieur
 
 Le Porsche Taycan 4 offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
 
 - **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
-- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
 
-### Éclairage Intérieur
+### Éclairage intérieur
 
 Le Porsche Taycan 4 offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
 
-- **Éclairage d'Ambiance Multicolore:** Cette fonctionnalité s'étend sur les panneaux de porte et le repose-pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs en fonction de votre humeur ou de vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
+- **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur les panneaux de porte et le puits de pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+- **Système de climatisation à 3 zones :** Permet des températures différentes dans trois zones pour le conducteur, le passager et les sièges arrière.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
-L'Porsche Taycan 4 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Porsche Taycan 4 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
-- **Recharge sans fil pour téléphone**
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
+L'interface de contrôle du Porsche Taycan 4 combine des boutons, des manettes et des écrans pour une expérience fluide et conviviale.
 
-Le Porsche Taycan 4 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
+Le Porsche Taycan 4 dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) en option.
 
 Détails clés de l'écran :
 
-- L'écran touch derrière le volant intégré au tableau de bord mesure 16,8 pouces
-- L'écran touch en haut de la console centrale mesure 10,9 pouces
-- L'écran touch en bas de la console centrale mesure 8,4 pouces
-- L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
+- L'écran touch derrière le volant intégré dans le tableau de bord mesure 16,8 pouces.
+- L'écran touch en haut de la console centrale mesure 10,9 pouces.
+- L'écran touch en bas de la console centrale mesure 8,4 pouces.
+- L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 ### Volant
 
 Vous pouvez choisir parmi plusieurs volants.
 
-- **Volant Circulaire:** Ce volant comprend des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
-- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
-- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
-- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes de défilement et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Circulaire :** Ce volant comprend des boutons physiques, des molettes et des palettes de changement de vitesse, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des molettes et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
 ## Infodivertissement
 
-Le Porsche Taycan 4 est équipé du système d'infodivertissement Porsche Communication Management (PCM), conçu pour offrir une expérience utilisateur fluide et intuitive. Le système PCM intègre diverses fonctions, notamment la navigation, les médias, la communication et les réglages du véhicule, dans une interface centrale pour un accès facile. Le système est équipé d'un écran tactile haute résolution qui permet un contrôle rapide et pratique des fonctionnalités du véhicule. De plus, le système PCM prend en charge l'intégration des smartphones, le contrôle vocal et les mises à jour par liaison radio pour garantir que les dernières améliorations et fonctionnalités logicielles sont toujours disponibles pour le conducteur.
+Le Porsche Taycan 4 dispose du système d'infodivertissement Porsche Communication Management (PCM), conçu pour offrir une expérience utilisateur fluide et intuitive. Le système PCM intègre diverses fonctions, y compris la navigation, les médias, la communication et les paramètres du véhicule, dans une interface centrale pour un accès facile. Le système est équipé d'un écran tactile haute résolution qui permet un contrôle rapide et pratique des fonctionnalités du véhicule. De plus, le système PCM prend en charge l'intégration des smartphones, la commande vocale et les mises à jour par voie hertzienne pour garantir que les dernières améliorations logicielles et fonctionnalités sont toujours disponibles pour le conducteur.
 
-### Système de navigation
+### Système de Navigation
 
-Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel et des cartes satellites garantissant un voyage efficace et sans stress.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel et des cartes satellites, garantissant un voyage efficace et sans stress.
 
 ### Applications Préinstallées
 
-Bien que le système d'infodivertissement ne comprenne pas de boutique d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+Bien que le système d'infodivertissement ne comprenne pas de magasin d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
 
-- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **Spotify :** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant des options de divertissement infinies pour votre trajet.
 - **Apple Music**
 - **Tidal**
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Porsche Taycan 4 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Porsche Taycan 4 prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan 4.
+Vous pouvez choisir entre trois systèmes audio pour le Porsche Taycan 4 :
 
-- Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts.
-- Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts.
-- Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
+- **Porsche Sound system :** Dispose de dix haut-parleurs et délivre une puissance maximale de 150 watts.
+- ** BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
+- ** Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1455 watts.
 
-Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+De plus, le modèle comprend 2 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.
 
-## Application mobile
+## Application Mobile
 
-Le Porsche Taycan 4 est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+Le Porsche Taycan 4 est livré avec une application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
 
-- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
-- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
-- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
-- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
-- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
-- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
-- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
-- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
-- **Historique de conduite** : Consultez les détails de vos trajets précédents.
+- **Localiser votre véhicule :** Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
+- **Stationnement à distance :** Contrôlez facilement votre voiture pour la garer ou sortir d'une place de stationnement à distance.
+- **Verrouiller & Déverrouiller :** Verrouillez ou déverrouillez les portes de votre voiture en un seul clic.
+- **Planification de la charge :** Planifiez et programmez des sessions de charge avant vos trajets.
+- **Ajuster la cible de charge :** Définissez votre niveau de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture :** Activez le klaxon ou les lumières pour retrouver votre voiture dans les zones bondées.
+- **Planification d'itinéraire :** Planifiez votre itinéraire et envoyez-le directement au système de navigation de votre voiture.
+- **Historique de conduite :** Consultez les détails de vos trajets passés.
 
-## Lumières
+## Éclairage
 
 Vous pouvez choisir entre deux types de phares pour le Porsche Taycan 4.
 
-- Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
+- Le Porsche Taycan 4 est équipé de phares à LED Matrix avancés. Ce système adaptatif divise le faisceau de phare traditionnel en plusieurs petits rayons, permettant au contrôleur de lumière de les allumer et éteindre sélectivement pour éviter d'éblouir les autres conducteurs. Pour une sécurité accrue, les phares comprennent également des feux de virage qui éclairent le côté lors des virages.
+- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement des zones spécifiques pour éviter d'éblouir le trafic venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Porsche Taycan 4 comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Porsche Taycan 4 dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-[**Assistance à l'Efficacité**](../../../../technology/driverassistance/efficencyassist/): Une fonction Standard qui aide les conducteurs à anticiper les conditions de conduite et à économiser de l'énergie.
+[**Assistance à l'efficacité**](../../../../technology/driverassistance/efficencyassist/): Une fonctionnalité Standard qui aide les conducteurs à anticiper les conditions de conduite et à économiser de l'énergie.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Porsche Taycan 4, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Porsche Taycan 4, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Porsche Taycan 4, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Porsche Taycan 4, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Porsche Taycan 4, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Facultatif sur le Porsche Taycan 4, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optionnel sur le Porsche Taycan 4, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Facultatif sur le Porsche Taycan 4, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Optionnel sur le Porsche Taycan 4, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Facultatif sur le Porsche Taycan 4, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optionnel sur le Porsche Taycan 4, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Porsche Taycan 4, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Porsche Taycan 4, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Porsche Taycan 4, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Porsche Taycan 4, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optionnel sur le Porsche Taycan 4, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Facultatif sur le Porsche Taycan 4, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+[**Avertissement de sortie**](../../../../technology/driverassistance/exitwarning/): Optionnel sur le Porsche Taycan 4, ce système avertit les occupants contre l'ouverture des portes s'il y a un risque de heurter quelque chose.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Porsche Taycan 4 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+Le Porsche Taycan 4 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-Avec le système Adaptive Cruise Control de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Adaptive Cruise Control niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (optionnel)
 
-Avec le système optionnel Porsche InnoDrive de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+Avec le système optionnel Porsche InnoDrive niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Sécurité
 
@@ -409,45 +409,45 @@ Le Porsche Taycan 4 est équipé de plusieurs airbags pour assurer la protection
 - Airbags frontaux pour le conducteur et le passager avant
 - Airbags rideaux latéraux pour les première et deuxième rangées
 - Airbags latéraux pour le conducteur et le passager avant
-- Airbags pour les genoux du conducteur et du passager avant
+- Airbags genoux pour le conducteur et le passager avant
 - Airbags latéraux pour les passagers de la deuxième rangée
 
-De plus, les ceintures de sécurité des première et deuxième rangées sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
+De plus, les ceintures de sécurité avant et de la deuxième rangée sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
 
 ## Technologies de sécurité et d'accès
 
 Le Porsche Taycan 4 est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
-- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
-- **Caméra de bord intégrée :** La caméra de bord intégrée en option enregistre des séquences vidéo de vos trajets, capturant des détails clés pour offrir une sécurité accrue, une responsabilité et une tranquillité d'esprit.
-- **Surveillance de stationnement :** Grâce à sa suite de caméras, le véhicule surveille activement les environs lorsqu'il est stationné, offrant une protection accrue grâce à une surveillance continue.
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé de série et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans faille sans retirer la clé de votre poche ou de votre sac.
+- **Dashcam intégrée :** La dashcam intégrée en option enregistre des séquences vidéo de vos trajets, capturant des détails clés pour fournir une sécurité accrue, une responsabilité et une tranquillité d'esprit.
+- **Surveillance de stationnement :** En utilisant sa suite de caméras, le véhicule surveille activement les environs pendant qu'il est garé, offrant une protection accrue grâce à une surveillance continue.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 407 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 84 litres.
+Le coffre offre une capacité de chargement de 407 litres (14,4 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 84 litres (3,0 CU FT).
 
-Le poids maximum du véhicule est de 2880 kg, avec un poids de base de 2170 kg. Cela permet une charge maximale de 710 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2880 kg (6349 lbs), avec un poids de base de 2170 kg (4784 lbs). Cela permet une charge maximale de 710 kg (1565 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer une remorque, vous devez regarder d'autres modèles.
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 11.12.2024 et les livraisons ont commencé en March 2025.
+Le Porsche Taycan 4 a eu sa première mondiale le 11.12.2024, avec des livraisons commençant en March 2025.
 
 ### Tarification
 
-Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - 1 092 511,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 
-Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Porsche Taycan 4 qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Porsche Taycan 4 qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
 - [Lucid Air Pure](/models/lucid/air/air_pure/)
 
-<a href="https://db.evkx.net/evcompare?evs=40dc9c%2cc21847" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=40dc9c%2cc21847" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 
-{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Autonomie" >}}

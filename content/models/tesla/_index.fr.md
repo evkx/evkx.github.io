@@ -1,5 +1,5 @@
 ---
-title: Tesla modèles de VE
+title: Modèles EV de Tesla
 linktitle: "Tesla"
 description: "Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Cybertruck est une camionnette disponible en 2 variantes.
+Tesla Cybertruck est un pickup disponible en 2 variantes.
 </p>
 	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

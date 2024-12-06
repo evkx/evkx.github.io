@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range
 linktitle: "MG5 Electric Long Range"
-description: "MG MG5 Electric Long Range est un break tout électrique avec une autonomie de WLTP allant jusqu'à 400 km (249 miles). EVKX.net a tous les détails."
+description: "MG MG5 Electric Long Range est un break entièrement électrique avec une autonomie de WLTP allant jusqu'à 400 km (249 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,68 +11,68 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639"  >}}
 
-Nous avons séparé notre article MG MG5 Electric Long Range en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-L'MG MG5 Electric Long Range offre des performances modestes avec une puissance maximale de 115 kW (156 ch) et un couple total de 280 Nm. Il accélère de 0 à 100 km/h en 8,3 secondes et atteint une vitesse maximale de 185 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+Le MG MG5 Electric Long Range offre des performances modestes avec une puissance maximale de 115 kW (156 ch / 154 bhp) et un couple total de 280 Nm (207 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 8,3 secondes et atteint une vitesse maximale de 185 km/h (115 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 61,1 kWh et une capacité nette utilisable de 57,4 kWh, offrant une réserve de 3,7 kWh (6,1%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 61,1 kWh et une capacité nette utilisable de 57,4 kWh, offrant une marge de sécurité de 3,7 kWh (6,1%) pour la protection de la batterie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 400 et 380 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,4 kWh/100 km pour le modèle de base et à 15,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 400 et 380 km (249-236 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,4 kWh/100 km pour le modèle de base et à 15,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 87kW. Une charge complète de 0 à 100 % prendrait 77 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 58 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 66kW. Chaque session de charge prendrait 26 minutes et 16 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 87 kW. La charge de 0% à 100% prend environ 77 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 34 minutes avec une vitesse de charge moyenne de 72 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 8% à 58%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 66 kW, chaque session de charge prenant environ 26 minutes et 16 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 11 heures et 0 minutes. Ce trajet nécessiterait deux arrêts de recharge de 9% à 52%, avec un temps de recharge total de 160 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 23 kWh/100 km, le voyage prendrait environ 11 heures et 0 minutes, nécessitant sept arrêts de charge de 9% à 52%, totalisant 160 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 13 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 5 heures et 13 minutes avec une installation domestique.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/charging_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2001"  >}}
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur [avant](../../../../technology/charging/connectors/#front). Cet emplacement le rend des bornes de recharge faciles à utiliser où il faut se garer avec l'avant vers l'intérieur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est à l'[avant](../../../../technology/charging/connectors/#front). Cet emplacement facilite l'utilisation des stations de charge où vous devez vous garer avec l'avant. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-MG MG5 Electric Long Range dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le MG MG5 Electric Long Range dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 115 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 115 mm.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
+Le MG MG5 Electric Long Range est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
+Le [freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
 
 ## Extérieur
 
-La MG MG5 Electric Long Range, avec des dimensions de 4600 mm de longueur, 1818 mm de largeur et 1543 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La MG MG5 Electric Long Range est disponible en un total de 4 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le MG MG5 Electric Long Range, avec des dimensions de 4600 mm de longueur, 1818 mm de largeur et 1543 mm de hauteur, appartient aux voitures du segment D, également appelées voitures de taille moyenne ou familiales, offrant plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Le MG MG5 Electric Long Range est disponible en un total de 4 couleurs de peinture, y compris plusieurs options métalliques frappantes.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'MG MG5 Electric Long Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le MG MG5 Electric Long Range offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-Il n'y a qu'un seul toit pour ce modèle.
+Il n'y a qu'une seule option de toit pour ce modèle.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1707"  >}}
 
@@ -80,23 +80,23 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
+Il y a un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
 
-Le MG MG5 Electric Long Range peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le MG MG5 Electric Long Range peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le MG MG5 Electric Long Range propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
@@ -104,38 +104,38 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/frontseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2005"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2004"  >}}
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 1 zone :** Permet de contrôler une seule zone partagée pour toute la voiture.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
-L'MG MG5 Electric Long Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le MG MG5 Electric Long Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le MG MG5 Electric Long Range possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+Le MG MG5 Electric Long Range dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 7,0 pouces
-- L'écran touch en haut de la console centrale mesure 10,3 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 7,0 pouces.
+- L'écran touch en haut de la console centrale mesure 10,3 pouces.
 
-Le modèle n'a pas d'affichage tête haute.
+Le modèle n'inclut pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}
 
@@ -143,52 +143,52 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le MG MG5 Electric Long Range est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le MG MG5 Electric Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le MG MG5 Electric Long Range prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Un type de système audio est disponible pour le MG MG5 Electric Long Range.
+Le MG MG5 Electric Long Range est équipé d'une seule option de système audio :
 
-- **:** Comprend six haut-parleurs.
+- ** :** Dispose de six haut-parleurs.
 
-Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
+De plus, le modèle comprend 2 connexions USB-C de série. Le modèle dispose de 2 connexions USB-A de série.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le MG MG5 Electric Long Range comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le MG MG5 Electric Long Range dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le MG MG5 Electric Long Range, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le MG MG5 Electric Long Range, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
 ## Technologies de sécurité et d'accès
 
@@ -196,14 +196,14 @@ Le MG MG5 Electric Long Range est équipé de fonctionnalités de sécurité ess
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 479 litres. Avec les sièges arrière rabattus, cette capacité passe à 1367 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
+Le coffre offre une capacité de chargement de 479 litres (16,9 CU FT). Avec le siège arrière rabattu, cela s'étend à 1367 litres (48,3 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs).
 
-Le poids maximum du véhicule est de 2017 kg, avec un poids de base de 1562 kg. Cela permet une charge maximale de 455 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2017 kg (4447 lbs), avec un poids de base de 1562 kg (3444 lbs). Cela permet une charge maximale de 455 kg (1003 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 500 kg, tandis que pour une remorque non freinée, il est de 500 kg.
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 500 kg (1102 lbs), tandis que pour une remorque non freinée, il est de 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="1996"  >}}
 
-{{< pagenavigation b_url="../" b_title="MG MG5" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="MG MG5" f_url="rangeandconsumption/" f_title="Autonomie" >}}

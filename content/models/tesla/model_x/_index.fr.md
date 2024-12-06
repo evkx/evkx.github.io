@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X
 linktitle: "Model X"
-description: "Voir ci-dessous pour plus de détails sur les différentes variantes de Tesla Model X"
+description: "Voir ci-dessous pour les détails des différentes variantes de Tesla Model X"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,11 +16,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_x/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_x/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_x/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_x/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_x/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -35,11 +35,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_x_plaid/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>
@@ -56,11 +56,11 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Plage</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomie</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Courbe de charge</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spécifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galerie</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Avis</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_x_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Critiques</a></li>
 			</ul>
 		</div>
 	</div>

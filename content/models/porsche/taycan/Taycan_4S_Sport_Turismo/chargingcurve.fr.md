@@ -1,5 +1,5 @@
 ---
-title: Porsche Taycan 4S Sport Turismo courbe de charge et performances
+title: Courbe de charge et performance de Porsche Taycan 4S Sport Turismo
 linktitle: "Courbe de charge"
 description: "Ci-dessous se trouve la courbe de charge pour Porsche Taycan 4S Sport Turismo, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
@@ -8,7 +8,7 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances des différents packs de batteries.
+Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances pour les différents packs de batteries.
 
 ### 89 kWh Performance Battery
 
@@ -62,7 +62,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				2,98
@@ -70,7 +70,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				2,03
@@ -78,7 +78,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				3% - 64%
@@ -86,7 +86,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				162,3kW
@@ -94,7 +94,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				19m51s
@@ -119,7 +119,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				 51 m 26 s
@@ -224,10 +224,10 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,13 +236,13 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -1720,7 +1720,7 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				3,16
@@ -1728,7 +1728,7 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				2,32
@@ -1736,7 +1736,7 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				1% - 65%
@@ -1744,7 +1744,7 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				209,3kW
@@ -1752,7 +1752,7 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				18m48s
@@ -1777,7 +1777,7 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				 47 m 4 s
@@ -1882,10 +1882,10 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,13 +1894,13 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -3327,4 +3327,4 @@ Porsche Taycan 4S Sport Turismo dispose d'un chauffage de batterie, ce qui facil
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomie" f_url="../specifications/" f_title="Spécifications" >}}

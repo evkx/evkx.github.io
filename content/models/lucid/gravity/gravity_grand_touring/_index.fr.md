@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring est un SUV entièrement électrique avec une autonomie EPA allant jusqu'à 708 km (440 miles). EVKX.net a tous les détails."
+description: "Lucid Gravity Grand Touring est un SUV entièrement électrique avec une autonomie de EPA allant jusqu'à 708 km (440 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,84 +11,84 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/main_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2007"  >}}
 
-Nous avons séparé notre article Lucid Gravity Grand Touring en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-La Lucid Gravity Grand Touring délivre une puissance maximale impressionnante de 618 kW (840 ch) et un couple massif de 1000 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 3,5 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 250 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
+Le Lucid Gravity Grand Touring délivre une puissance maximale impressionnante de 618 kW (840 ch / 829 bhp) et un couple total massif de 1000 Nm (738 lb-pi). Cette bête peut passer de 0 à 100 km/h (0 à 62 mph) en seulement 3,5 secondes, démontrant son accélération époustouflante. De plus, il atteint une vitesse maximale de 250 km/h (155 mph), en faisant une véritable merveille d'ingénierie et de performance.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 119,0 kWh et une capacité nette utilisable de 118,0 kWh, offrant une réserve de 1,0 kWh (0,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 119,0 kWh et une capacité nette utilisable de 118,0 kWh, offrant une marge de sécurité de 1,0 kWh (0,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 708 km avec un taux de consommation d'énergie de 16,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 440 miles (708 km) avec un taux de consommation d'énergie de 3,7 miles par kWh. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 74 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 29 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 175kW. Chaque session de charge prendrait 18 minutes et 12 secondes. Cette capacité de charge efficace fait de l'Lucid Gravity Grand Touring une option pratique pour les voyages longue distance.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de  kW. La charge de 0% à 100% prend environ 74 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 29 minutes avec une vitesse de charge moyenne de 171 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 0% à 45%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 175 kW, chaque session de charge prenant environ 18 minutes et 12 secondes. Cette capacité de charge efficace fait du Lucid Gravity Grand Touring une option pratique pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 8 heures et 51 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 39%, avec un temps de recharge total de 32 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 21 kWh/100 km, le voyage prendrait environ 8 heures et 51 minutes, nécessitant deux arrêts de charge de 0% à 39%, totalisant 32 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 21 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 5 heures et 21 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/#nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
-### Recharge bidirectionnelle
+### Charge bidirectionnelle
 
-Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 1,8 kW de puissance, y compris charger d'autres véhicules.
+Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter des équipements électriques nécessitant jusqu'à 1,8 kW de puissance, y compris la possibilité de charger d'autres véhicules.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Lucid Gravity Grand Touring dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Lucid Gravity Grand Touring dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 155 mm.
+La suspension avant utilise un design à [double triangulation](../../../../technology/suspension/#double-wishbone), tandis que l'arrière utilise une configuration [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  dispose de ressorts en acier avec une hauteur fixe, mais vous pouvez ajuster l'amortissement pour s'adapter à votre style de conduite ou aux conditions de la route. La garde au sol avec cette suspension est de 155 mm.
 
-Vous pouvez commander Lucid Gravity Grand Touring avec une suspension alternative . La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 155 mm et la garde au sol maximale est de 220 mm.
+Vous pouvez commander le Lucid Gravity Grand Touring avec une suspension alternative . La suspension avant est à [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 155 mm, et la maximale est de 220 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Lucid Gravity Grand Touring. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un facultatif. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
+La direction dynamique est un standard sur le Lucid Gravity Grand Touring, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus. De plus, la direction des roues arrière est disponible en tant que une option fonctionnalité. La direction des roues arrière réduit le cercle de braquage à basse vitesse.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 386 mm et les disques arrière mesurent 381 mm.
+Le Lucid Gravity Grand Touring est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 386 mm, tandis que les disques arrière sont de 381 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Le système arrête complètement la voiture en utilisant les freins à friction.
+Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici. Le système arrête complètement la voiture en utilisant les freins à friction.
 
 ## Extérieur
 
-La Lucid Gravity Grand Touring, avec des dimensions de 5034 mm de longueur, 1999 mm de largeur et 1656 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Lucid Gravity Grand Touring est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+Le Lucid Gravity Grand Touring, avec des dimensions de 5034 mm de longueur, 1999 mm de largeur et 1656 mm de hauteur, appartient aux SUV de grande taille, offrant le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un ensemble spécifique de conducteurs aux besoins uniques. Le Lucid Gravity Grand Touring est disponible en un total de 6 couleurs de peinture, y compris des options unies et métalliques.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lucid Gravity Grand Touring, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Lucid Gravity Grand Touring offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 265/50 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 21" à l'arrière
-- Pneus 265/45 sur jantes de 21" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
-- Pneus 265/40 sur jantes de 21" à l'avant et pneus 285/35 sur jantes de 23" à l'arrière
+- 265/50 pneus sur des jantes de 20" à l'avant et 285/45 pneus sur des jantes de 21" à l'arrière
+- 265/45 pneus sur des jantes de 21" à l'avant et 285/40 pneus sur des jantes de 22" à l'arrière
+- 265/40 pneus sur des jantes de 21" à l'avant et 285/35 pneus sur des jantes de 23" à l'arrière
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un standard pour les portes latérales. Le hayon est alimenté électriquement.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). La fermeture douce est un standard fonction pour les portes latérales. Le hayon est électriquement motorisé.
 
-Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
+Il n'y a qu'une seule option de toit pour ce modèle. Le pare-brise est panoramique et s'étend sur la première rangée. De plus, il y a un panneau de verre sur la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Le verre est teinté pour se protéger de la chaleur du soleil. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/exterior_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1687"  >}}
 
@@ -96,86 +96,86 @@ Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remon
 
 ## Intérieur
 
-L'intérieur du Lucid Gravity Grand Touring est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité supérieure. Il comprend également une console centrale traditionnelle qui sépare le conducteur et le passager, offrant des solutions de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'intérieur du Lucid Gravity Grand Touring est conçu avec une esthétique minimaliste, avec des matériaux de qualité supérieure partout. Il comprend également une console centrale traditionnelle qui sépare le conducteur et le passager, offrant des solutions de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de sièges, matériaux de sièges et styles d'intérieur. Vous pouvez choisir entre plusieurs designs d'intérieur.
 
 ### Sièges
 
-De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
+Le Lucid Gravity Grand Touring est disponible en configuration standard à cinq sièges, avec une disposition optionnelle à sept sièges pour plus de polyvalence.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
-Pour la première rangée, l'Lucid Gravity Grand Touring propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
+La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
-Les fonctionnalités suivantes sont disponibles sur le siège **12-way**.
-
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
-- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-
-Les fonctionnalités suivantes sont disponibles sur le siège **18-way**.
+Les fonctionnalités suivantes sont disponibles sur le siège **12-way** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (réglable électriquement)
-- [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+
+Les fonctionnalités suivantes sont disponibles sur le siège **18-way** :
+
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (réglable électriquement)
+- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (réglable électriquement)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/frontseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
-- appui-tête réglable en hauteur (standard pour sièges extérieurs)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+- Appuie-tête réglable en hauteur (standard pour les sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
-#### Sièges de troisième rangée
+#### Sièges de Troisième Rangée
 
-La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
+La troisième rangée dispose d'une banquette deux places optionnelle avec une répartition 50:50. Vous pouvez également rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+- **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
 
-Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
+Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
 
 ## Caractéristiques de confort
 
-L'Lucid Gravity Grand Touring comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Lucid Gravity Grand Touring comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
-- **Recharge sans fil pour téléphone**
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
+L'interface de contrôle du Lucid Gravity Grand Touring est principalement axée sur l'interaction avec l'écran, avec une fonctionnalité limitée disponible via des boutons physiques et des manettes. Ce design peut entraîner une expérience utilisateur et une convivialité moins idéales pour certains utilisateurs.
 
 Détails clés de l'écran :
 
-- L'écran touch derrière le volant en face du centre du tableau de bord mesure 34,0 pouces
-- L'écran touch au milieu de la console centrale mesure 12,0 pouces
+- L'écran touch derrière le volant au centre du tableau de bord mesure 34,0 pouces.
+- L'écran touch au milieu de la console centrale mesure 12,0 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/screens_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
@@ -183,105 +183,105 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Lucid Gravity Grand Touring est équipé d'un seul type de volant :
 
-- **Volant Ovale:** Ce volant dispose d'un chauffage intégré en option pour plus de confort par temps froid. Il comprend également des boutons haptiques, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
+- **Volant Ovale :** Ce volant dispose d'un chauffage intégré en option pour plus de confort par temps froid. Il comprend également des boutons haptiques, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
 ## Infodivertissement
 
-Le Lucid Gravity Grand Touring dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Lucid a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres complets du véhicule et bien plus encore.
+Le Lucid Gravity Grand Touring dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Lucid a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres de voiture complets et bien plus encore.
 
-### Système de navigation
+### Système de Navigation
 
-Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel et des cartes satellites garantissant un voyage efficace et sans stress.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel et des cartes satellites, garantissant un voyage efficace et sans stress.
 
-### App store
+### App Store
 
 Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
 
-- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **Spotify :** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant des options de divertissement infinies pour votre trajet.
 - Tidal
-- **TuneIn** Accédez à des stations de radio en direct, des podcasts et des actualités du monde entier.
+- **TuneIn :** Accédez à des stations de radio en direct, des podcasts et des actualités du monde entier.
 - Alexa
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Lucid Gravity Grand Touring.
+Vous pouvez choisir entre deux systèmes audio pour le Lucid Gravity Grand Touring :
 
-- **Surreal Sound:** Comprend dix haut-parleurs.
-- Avec le Surreal Sound Pro System, vous obtenez 22 haut-parleurs avec une puissance système maximale de 800 watts.
+- **Surreal Sound :** Dispose de dix haut-parleurs.
+- **Surreal Sound Pro System :** Dispose de 22 haut-parleurs et délivre une puissance maximale de 800 watts.
 
-Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+De plus, le modèle comprend 4 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.
 
-## Application mobile
+## Application Mobile
 
-Le Lucid Gravity Grand Touring est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+Le Lucid Gravity Grand Touring est livré avec une application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
 
-- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
-- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
-- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
-- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
-- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
-- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+- **Localiser votre véhicule :** Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
+- **Verrouiller & Déverrouiller :** Verrouillez ou déverrouillez les portes de votre voiture en un seul clic.
+- **Ajuster la cible de charge :** Définissez votre niveau de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture :** Activez le klaxon ou les lumières pour retrouver votre voiture dans les zones bondées.
+- **Planification d'itinéraire :** Planifiez votre itinéraire et envoyez-le directement au système de navigation de votre voiture.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/headlights_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1999"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Lucid Gravity Grand Touring comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Lucid Gravity Grand Touring dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Lucid Gravity Grand Touring, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Lucid Gravity Grand Touring, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Lucid Gravity Grand Touring, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Lucid Gravity Grand Touring, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Lucid Gravity Grand Touring, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Lucid Gravity Grand Touring, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le Lucid Gravity Grand Touring, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lucid Gravity Grand Touring, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lucid Gravity Grand Touring, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lucid Gravity Grand Touring, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lucid Gravity Grand Touring, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Lucid Gravity Grand Touring, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Lucid Gravity Grand Touring, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Lucid Gravity Grand Touring, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Lucid Gravity Grand Touring, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+[**Avertissement de sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Lucid Gravity Grand Touring, ce système avertit les occupants contre l'ouverture des portes s'il y a un risque de heurter quelque chose.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Lucid Gravity Grand Touring offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+Le Lucid Gravity Grand Touring offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-Avec le système DreamDrive de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système DreamDrive niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Avec le système DreamDrive Premium de niveau 1, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+Avec le système DreamDrive Premium niveau 1, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
-- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Changement de voie automatique (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Avec le système optionnel DreamDrive Pro de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+Avec le système optionnel DreamDrive Pro niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
-- Contrôle des feux de circulation - suit les feux de circulation.
+- Contrôle des feux de circulation - suivre les feux de circulation.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
-Ce modèle utilise des caméras, des radars, des capteurs LiDAR et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à quatre [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent l'environnement du véhicule.
+Ce modèle utilise des caméras, des radars, des LiDAR et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à quatre [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Sécurité
 
@@ -298,38 +298,38 @@ Le Lucid Gravity Grand Touring est équipé de plusieurs airbags pour assurer la
 Le Lucid Gravity Grand Touring est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 - **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
-- **Fonctionnalité téléphone comme clé :** Avec la technologie téléphone comme clé, vous pouvez utiliser votre smartphone comme clé numérique pour déverrouiller et démarrer le véhicule, offrant une couche supplémentaire de commodité et de flexibilité.
+- **Fonctionnalité Téléphone comme Clé :** Avec la technologie téléphone comme clé, vous pouvez utiliser votre smartphone comme clé numérique pour déverrouiller et démarrer le véhicule, offrant une couche supplémentaire de commodité et de flexibilité.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 700 litres. Avec les sièges arrière rabattus, cette capacité passe à 3170 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 226 litres.
+Le coffre offre une capacité de chargement de 700 litres (24,7 CU FT). Avec le siège arrière rabattu, cela s'étend à 3170 litres (111,9 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 226 litres (8,0 CU FT).
 
-Le poids maximum du véhicule est de 3280 kg, avec un poids de base de 2500 kg. Cela permet une charge maximale de 780 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 3280 kg (7231 lbs), avec un poids de base de 2500 kg (5512 lbs). Cela permet une charge maximale de 780 kg (1720 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2721 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2721 kg (5999 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/trunk_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2000"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 16.11.2023 et les livraisons devraient commencer en March 2025. Ce modèle est uniquement disponible en Amérique du Nord.
+Ce modèle a fait sa première mondiale le 16.11.2023, avec des livraisons prévues pour commencer en March 2025. Veuillez noter que ce modèle est disponible exclusivement en Amérique du Nord.
 
 ### Tarification
 
-Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - $94 900,00 (États-Unis)
 
 ## Modèles Alternatifs
 
-Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Lucid Gravity Grand Touring qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Lucid Gravity Grand Touring qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
 - [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
 - [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
 - [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
 
-<a href="https://db.evkx.net/evcompare?evs=a31c10%2c45dd09%2cb8df50%2caba51d" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=a31c10%2c45dd09%2cb8df50%2caba51d" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 
-{{< pagenavigation b_url="../" b_title="Lucid Gravity" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="Lucid Gravity" f_url="rangeandconsumption/" f_title="Autonomie" >}}

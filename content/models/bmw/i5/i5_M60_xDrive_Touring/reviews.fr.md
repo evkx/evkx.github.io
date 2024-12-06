@@ -1,20 +1,13 @@
 ---
-title: BMW i5 M60 xDrive Touring avis
-linktitle: "Avis"
-description: "EVKX.net vous aide à trouver le meilleur avis pour ce modèle."
+title: Critiques de BMW i5 M60 xDrive Touring
+linktitle: "Critiques"
+description: "EVKX.net vous aide à trouver la meilleure critique pour ce modèle."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
+Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>The BMW i5 Touring M60 Is the Coolest EV You CAN&#39;T Have</h3>
-<p>InsideEVs: 04.12.2024</p>
-
-{{< youtube N4drJ7CW8QY >}}
-
-</div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW BMW i5 Touring Review: BMW Back To Its Best? | 4K</h3>
 <p>AutoTrader: 25.05.2024</p>

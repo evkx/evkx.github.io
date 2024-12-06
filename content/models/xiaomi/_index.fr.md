@@ -1,5 +1,5 @@
 ---
-title: Xiaomi modèles de VE
+title: Modèles EV de Xiaomi
 linktitle: "Xiaomi"
 description: "Xiaomi, the Chinese tech giant known for its smartphones, has entered the electric vehicle (EV) market with the launch of its first EV, the Xiaomi SU7. The company has positioned the SU7 as a 'full-size high-performance eco-technology sedan' and has set an aggressive pricing strategy to compete in the highly saturated EV market"
 weight: 30

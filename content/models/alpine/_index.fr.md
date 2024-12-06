@@ -1,5 +1,5 @@
 ---
-title: Alpine modèles de VE
+title: Modèles EV de Alpine
 linktitle: "Alpine"
 description: "Alpine est une marque française de voitures de sport, fondée en 1955 par Jean Rédélé, spécialisée initialement dans les voitures de sport légères et agiles. Connue pour son association avec Renault, Alpine a gagné en notoriété dans les années 1960 et 1970 avec son A110 Berlinette victorieuse en rallye, célébrée pour sa maniabilité agile et son succès en sport automobile, notamment dans des événements comme le Rallye de Monte-Carlo."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Alpine A290 est un hayon disponible en 1 variantes.
+Alpine A290 est une citadine disponible en 1 variantes.
 </p>
 	<a href="a290/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

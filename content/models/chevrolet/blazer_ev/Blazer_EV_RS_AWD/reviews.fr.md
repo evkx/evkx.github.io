@@ -1,12 +1,12 @@
 ---
-title: Chevrolet Blazer EV RS AWD avis
-linktitle: "Avis"
-description: "EVKX.net vous aide à trouver le meilleur avis pour ce modèle."
+title: Critiques de Chevrolet Blazer EV RS AWD
+linktitle: "Critiques"
+description: "EVKX.net vous aide à trouver la meilleure critique pour ce modèle."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
+Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Chevy Blazer EV AWD Needs A Bigger Battery! 70-MPH Highway Range Test In The Lowest Range Variant</h3>

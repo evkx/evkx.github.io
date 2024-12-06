@@ -1,12 +1,12 @@
 ---
-title: Lexus UX 300e avis
-linktitle: "Avis"
-description: "EVKX.net vous aide à trouver le meilleur avis pour ce modèle."
+title: Critiques de Lexus UX 300e
+linktitle: "Critiques"
+description: "EVKX.net vous aide à trouver la meilleure critique pour ce modèle."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
+Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nye Lexus UX 300e med 40% større batteri testet i minus 29 grader</h3>

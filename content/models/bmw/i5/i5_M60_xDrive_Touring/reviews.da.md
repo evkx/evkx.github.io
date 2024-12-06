@@ -9,13 +9,6 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>The BMW i5 Touring M60 Is the Coolest EV You CAN&#39;T Have</h3>
-<p>InsideEVs: 04.12.2024</p>
-
-{{< youtube N4drJ7CW8QY >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW BMW i5 Touring Review: BMW Back To Its Best? | 4K</h3>
 <p>AutoTrader: 25.05.2024</p>
 

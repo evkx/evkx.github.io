@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Kia EV6 GT Lacks Highway Range But Makes Up For It With Fast Charging! 10% Road Trip Challenge</h3>
+<p>Out of Spec Testing: 06.12.2024</p>
+
+{{< youtube qbD1UIjTIHw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Can Kia's EV6 Drive Europe's Longest Road? The FULL Challenge</h3>
 <p>Fifth Gear: 04.02.2024</p>
 

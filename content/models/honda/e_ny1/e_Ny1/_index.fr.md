@@ -11,86 +11,86 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-Nous avons séparé notre article Honda e:Ny1 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-L'Honda e:Ny1 offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 310 Nm. Il accélère de 0 à 100 km/h en 7,7 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+Le Honda e:Ny1 offre des performances modestes avec une puissance maximale de 150 kW (204 ch / 201 bhp) et un couple total de 310 Nm (229 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 7,7 secondes et atteint une vitesse maximale de 160 km/h (99 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 68,8 kWh et une capacité nette utilisable de 61,9 kWh, offrant une réserve de 6,9 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 68,8 kWh et une capacité nette utilisable de 61,9 kWh, offrant une marge de sécurité de 6,9 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 412 km, avec une consommation d'énergie de 15,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 412 km (256 miles), avec un taux de consommation d'énergie de 15,0 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 78kW. Une charge complète de 0 à 100 % prendrait 125 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 44 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 55 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 56kW. Chaque session de charge prendrait 34 minutes et 48 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 78 kW. La charge de 0% à 100% prend environ 125 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 44 minutes avec une vitesse de charge moyenne de 59 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 4% à 55%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 56 kW, chaque session de charge prenant environ 34 minutes et 48 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 24,5 kWh/100 km, le voyage prendrait environ 11 heures et 38 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 55%, avec un temps de recharge total de 199 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 24,5 kWh/100 km, le voyage prendrait environ 11 heures et 38 minutes, nécessitant six arrêts de charge de 5% à 55%, totalisant 199 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 37 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 5 heures et 37 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur [avant](../../../../technology/charging/connectors/#front). Cet emplacement le rend des bornes de recharge faciles à utiliser où il faut se garer avec l'avant vers l'intérieur. Denne modellen bruker [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) kontakten for ladeporten.
+L'emplacement du port de charge est à l'[avant](../../../../technology/charging/connectors/#front). Cet emplacement facilite l'utilisation des stations de charge où vous devez vous garer avec l'avant. Ce modèle utilise le connecteur [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour le port de charge.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Honda e:Ny1 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Honda e:Ny1 dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 135 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 135 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Honda e:Ny1. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+La direction dynamique est un standard sur le Honda e:Ny1, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
 
-### Modes de conduite
+### Modes de Conduite
 
-Le Honda e:Ny1 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 3 modes :
+Le Honda e:Ny1 permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 3 modes :
 
-- Sport: Direction et accélérateur dynamiques.
-- Normal: Direction et accélérateur équilibrés.
-- eco: Direction équilibrée et accélérateur efficace.
+- Sport : Direction et accélérateur dynamiques.
+- Normal : Direction et accélérateur équilibrés.
+- eco : Direction et accélérateur efficaces équilibrés.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 300 mm et les disques arrière mesurent 300 mm.
+Le Honda e:Ny1 est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 300 mm, tandis que les disques arrière sont de 300 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
+Le [freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement.
 
-De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 ## Extérieur
 
-La Honda e:Ny1, avec des dimensions de 4387 mm de longueur, 1790 mm de largeur et 1584 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Honda e:Ny1 est disponible en un total de 5 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
+Le Honda e:Ny1, avec des dimensions de 4387 mm de longueur, 1790 mm de largeur et 1584 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Honda e:Ny1 est disponible en un total de 5 couleurs de peinture, toutes incluant des options métalliques et nacrées.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Honda e:Ny1, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur le Honda e:Ny1, vous permettant de personnaliser votre véhicule pour correspondre à votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 225/50 sur jantes de 18"
+- 225/50 pneus sur des jantes de 18"
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Vous pouvez choisir une option pour que le hayon soit alimenté électriquement. Vous pouvez également avoir le hayon avec un capteur de coup de pied, permettant de l'ouvrir en donnant simplement un coup de pied sous le hayon.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). Vous pouvez choisir une option pour avoir le hayon électriquement motorisé. Vous pouvez également avoir le hayon avec un capteur de coup de pied, ce qui permet de l'ouvrir simplement en donnant un coup de pied sous le hayon.
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un au-dessus de la première et de la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau manuel que les occupants peuvent utiliser pour se protéger du soleil.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un sur la première et la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau manuel que les occupants peuvent utiliser pour se protéger du soleil.
 
-Les vitres du montant B et de l'arrière sont teintées.
+Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
@@ -98,64 +98,64 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-L'intérieur du Honda e:Ny1 est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'intérieur du Honda e:Ny1 est fonctionnel, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement pratique et une fonctionnalité. Vous pouvez choisir entre plusieurs designs d'intérieur.
 
 ### Sièges
 
-Le Honda e:Ny1 peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Honda e:Ny1 peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Honda e:Ny1 propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement pour le conducteur, réglable manuellement pour le passager)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement pour le conducteur, réglable manuellement pour le passager)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
-Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
+Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
 
 ## Caractéristiques de confort
 
-L'Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
+L'interface de contrôle du Honda e:Ny1 est principalement axée sur l'interaction avec l'écran, avec une fonctionnalité limitée disponible via des boutons physiques et des manettes. Ce design peut entraîner une expérience utilisateur et une convivialité moins idéales pour certains utilisateurs.
 
-Le Honda e:Ny1 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+Le Honda e:Ny1 dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 10,2 pouces
-- L'écran touch en haut de la console centrale mesure 15,2 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 10,2 pouces.
+- L'écran touch en haut de la console centrale mesure 15,2 pouces.
 
-Le modèle n'a pas d'affichage tête haute.
+Le modèle n'inclut pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
@@ -163,79 +163,79 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Honda e:Ny1 est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré en option pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 ## Infodivertissement
 
-Le Honda e:Ny1 dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Honda a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres complets du véhicule et bien plus encore.
+Le Honda e:Ny1 dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Honda a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres de voiture complets et bien plus encore.
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Honda e:Ny1 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Honda e:Ny1 prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Un type de système audio est disponible pour le Honda e:Ny1.
+Le Honda e:Ny1 est équipé d'une seule option de système audio :
 
-- Avec le Honda Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 180 watts.
+- **Honda Sound System :** Dispose de six haut-parleurs et délivre une puissance maximale de 180 watts.
 
-Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+De plus, le modèle comprend 3 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
 
-## Application mobile
+## Application Mobile
 
-Le Honda e:Ny1 est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+Le Honda e:Ny1 est livré avec une application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
 
-- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Honda e:Ny1 comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Honda e:Ny1 dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Honda e:Ny1, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Honda e:Ny1, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Honda e:Ny1, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Honda e:Ny1, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Honda e:Ny1, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Honda e:Ny1, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Honda e:Ny1, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Honda e:Ny1, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Honda e:Ny1, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Honda e:Ny1, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Honda e:Ny1, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Honda e:Ny1, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Honda e:Ny1, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Honda e:Ny1, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard Honda Sensing de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard Honda Sensing niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
@@ -245,29 +245,29 @@ Le Honda e:Ny1 est équipé de fonctionnalités de sécurité avancées pour vou
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 344 litres. Avec les sièges arrière rabattus, cette capacité passe à 1136 litres.
+Le coffre offre une capacité de chargement de 344 litres (12,1 CU FT). Avec le siège arrière rabattu, cela s'étend à 1136 litres (40,1 CU FT).
 
-Le poids maximum du véhicule est de 2080 kg, avec un poids de base de 1677 kg. Cela permet une charge maximale de 403 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2080 kg (4586 lbs), avec un poids de base de 1677 kg (3697 lbs). Cela permet une charge maximale de 403 kg (888 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer une remorque, vous devez regarder d'autres modèles.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 11.05.2023 et les livraisons ont commencé en October 2023. Ce modèle est uniquement disponible en Europe.
+Le Honda e:Ny1 a eu sa première mondiale le 11.05.2023, avec des livraisons commençant en October 2023. Veuillez noter que ce modèle est disponible exclusivement en Europe.
 
 ### Tarification
 
-Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - 299 000,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 
-Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Honda e:Ny1 qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Honda e:Ny1 qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
 - [Hyundai Kona Standard Range](/models/hyundai/kona/kona_standard_range/)
 - [Kia Niro EV](/models/kia/niro/niro_ev/)
@@ -275,6 +275,6 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 - [MG ZS EV Standard Range](/models/mg/zs/zs_ev_standard_range/)
 - [Nissan Ariya 63kWh](/models/nissan/ariya/ariya_63kwh/)
 
-<a href="https://db.evkx.net/evcompare?evs=2a0309%2c6caa5c%2cc5cbaf%2c9991fd%2c0c7e63%2cc6e526" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=2a0309%2c6caa5c%2cc5cbaf%2c9991fd%2c0c7e63%2cc6e526" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 
-{{< pagenavigation b_url="../" b_title="Honda e:Ny1" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="Honda e:Ny1" f_url="rangeandconsumption/" f_title="Autonomie" >}}

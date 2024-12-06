@@ -1,5 +1,5 @@
 ---
-title: Opel modèles de VE
+title: Modèles EV de Opel
 linktitle: "Opel"
 description: "Opel is a German automobile manufacturer that has been a subsidiary of Stellantis since 2021. It was previously owned by General Motors and PSA Group. Opel produces passenger cars, light commercial vehicles, and vehicle parts, and sells them under the Opel and Vauxhall brands in Europe and other regions."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Opel Astra est un break / break disponible en 2 variantes.
+Opel Astra est une citadine / break disponible en 2 variantes.
 </p>
 	<a href="astra/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

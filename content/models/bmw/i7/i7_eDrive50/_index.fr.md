@@ -11,78 +11,78 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/main_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
-Nous avons séparé notre article BMW i7 eDrive50 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-La BMW i7 eDrive50 offre des performances solides avec une puissance maximale de 335 kW (456 ch) et un couple total de 650 Nm. Elle peut accélérer de 0 à 100 km/h en 5,5 secondes et atteindre une vitesse maximale de 205 km/h, ce qui la rend compétitive dans sa catégorie.
+Le BMW i7 eDrive50 offre des performances solides avec une puissance maximale de 335 kW (456 ch / 449 bhp) et un couple total de 650 Nm (480 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 5,5 secondes et atteint une vitesse maximale de 205 km/h (127 mph), le rendant compétitif dans sa catégorie.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 105,7 kWh et une capacité nette utilisable de 101,7 kWh, offrant une réserve de 4,0 kWh (3,8%) pour la protection de la batterie. Avec une tension nominale de 376,4 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 105,7 kWh et une capacité nette utilisable de 101,7 kWh, offrant une marge de sécurité de 4,0 kWh (3,8%) pour la protection de la batterie. Avec une tension nominale de 376,4 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 611 et 575 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,6 kWh/100 km pour le modèle de base et à 17,7 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 611 et 575 km (380-357 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,6 kWh/100 km pour le modèle de base et à 17,7 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 195kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 53 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 133kW. Chaque session de charge prendrait 23 minutes et 28 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 195 kW. La charge de 0% à 100% prend environ 57 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 31 minutes avec une vitesse de charge moyenne de 138 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 2% à 53%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 133 kW, chaque session de charge prenant environ 23 minutes et 28 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 9 heures et 14 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 61%, avec un temps de recharge total de 55 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 22 kWh/100 km, le voyage prendrait environ 9 heures et 14 minutes, nécessitant deux arrêts de charge de 2% à 61%, totalisant 55 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 14 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 9 heures et 14 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-BMW i7 eDrive50 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+Le BMW i7 eDrive50 dispose d'un système de traction arrière soutenu par un moteur sur l'essieu arrière. Le moteur utilisé est un [moteur synchrone à rotor bobiné](../../../../technology/motors/wrsm/).
 
 ### Suspension
 
-La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 193 mm et la garde au sol maximale est de 223 mm.
+La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 193 mm, et la maximale est de 223 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le BMW i7 eDrive50. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
+La direction dynamique est un standard sur le BMW i7 eDrive50, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus. De plus, la direction des roues arrière est disponible en tant que un standard fonctionnalité. La direction des roues arrière réduit le cercle de braquage à basse vitesse.
 
 ### Freins
 
-### Freinage régénératif
+### Freinage Régénératif
 
-Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. **Le mode Hold** arrête complètement le véhicule en utilisant les freins à friction, et **le mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle offre plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse si nécessaire. <br /><br />**La régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage intègre les freins physiques uniquement lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving) où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonctionnalité souvent appelée **conduite à une pédale**. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. Le **mode Hold** arrête complètement le véhicule en utilisant les freins à friction, et le **mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement.
 
 ## Extérieur
 
-La BMW i7 eDrive50, avec des dimensions de 5391 mm de longueur, 1950 mm de largeur et 1544 mm de hauteur, appartient au segment F des voitures, également connu sous le nom de voitures de luxe ou voitures de luxe de taille complète. Elles représentent le summum du luxe automobile, de la performance et de la technologie. Elles sont généralement de grandes berlines ou limousines conçues pour offrir le meilleur en termes de confort, de prestige et de fonctionnalités avancées. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
+Le BMW i7 eDrive50, avec des dimensions de 5391 mm de longueur, 1950 mm de largeur et 1544 mm de hauteur, appartient aux voitures du segment F, également appelées voitures de luxe ou voitures de luxe de grande taille, représentant le summum du luxe automobile, des performances et de la technologie. Elles sont généralement de grandes berlines ou limousines et sont conçues pour offrir le plus grand confort, prestige et fonctionnalités avancées. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i7 eDrive50, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le BMW i7 eDrive50 offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 245/50 sur jantes de 19"
-- Pneus 255/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
-- Pneus 255/40 sur jantes de 21" à l'avant et pneus 285/35 sur jantes de 21" à l'arrière
+- 245/50 pneus sur des jantes de 19"
+- 255/45 pneus sur des jantes de 20" à l'avant et 285/40 pneus sur des jantes de 20" à l'arrière
+- 255/40 pneus sur des jantes de 21" à l'avant et 285/35 pneus sur des jantes de 21" à l'arrière
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre. La fermeture douce est la fonction un facultatif pour les portes latérales.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre. La fermeture douce est une option fonction pour les portes latérales.
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
@@ -90,29 +90,29 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
+Il y a un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
 
-Le BMW i7 eDrive50 peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le BMW i7 eDrive50 peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le BMW i7 eDrive50 propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
-- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
+- [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
-Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black/Burgundy [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Mocha [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
@@ -130,47 +130,47 @@ Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de si�
 - Truffle [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Smoke [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
-#### Sièges de deuxième rangée
+#### Sièges de la deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le BMW i7 eDrive50.
 
-L'option standard est une banquette à trois places avec une séparation  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+L'option standard est une banquette trois places avec une répartition  où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
-L'option second est un [siège exécutif combiné à une banquette à deux places](../../../../technology/seats/types/#executive-siège--banquette-deux-places). De plus, les fonctionnalités suivantes sont disponibles.
+L'option second est un [siège exécutif combiné avec une banquette deux places](../../../../technology/seats/types/#executive-seat--two-seat-bench). Fonctionnalités supplémentaires :
 
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour sièges extérieurs)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest) (standard pour sièges extérieurs)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour les sièges extérieurs)
+- [Repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
-## Système de climatisation
+## Système de Climatisation
 
 Deux options de système de climatisation sont disponibles :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-- **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
+- **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
 
 ## Caractéristiques de confort
 
-L'BMW i7 eDrive50 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le BMW i7 eDrive50 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le BMW i7 eDrive50 dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le BMW i7 eDrive50 dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces
-- L'écran touch à droite du cadre partagé mesure 14,9 pouces
+- L'écran  derrière le volant sur le côté gauche du cadre mesure 12,3 pouces.
+- L'écran touch sur la partie droite du cadre partagé mesure 14,9 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/screens_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
@@ -178,89 +178,89 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le BMW i7 eDrive50 est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré en option pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le BMW i7 eDrive50 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le BMW i7 eDrive50 prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le BMW i7 eDrive50.
+Vous pouvez choisir entre deux systèmes audio pour le BMW i7 eDrive50 :
 
-- Avec le Harman Kardon Surround Sound system, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
-- Avec le Bowers & Wilkins Diamond surround sound system, vous obtenez 30 haut-parleurs avec une puissance système maximale de 1615 watts.
+- **Harman Kardon Surround Sound system :** Dispose de 18 haut-parleurs et délivre une puissance maximale de 655 watts.
+- **Bowers & Wilkins Diamond surround sound system :** Dispose de 30 haut-parleurs et délivre une puissance maximale de 1615 watts.
 
-Le modèle dispose de 6 connexions USB-C en standard.
+De plus, le modèle comprend 6 connexions USB-C de série.
 
-## Lumières
+## Éclairage
 
 Vous pouvez choisir entre deux types de phares pour le BMW i7 eDrive50.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix avec technologie laser :** Également disponibles en option, ces phares combinent les caractéristiques adaptatives du système LED Matrix avec la technologie laser pour une luminosité et une portée améliorées, offrant une illumination et une sécurité supérieures.
+- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
+- **Phares à LED Matrix avec technologie laser :** Également disponibles en option, ces phares combinent les fonctionnalités adaptatives du système LED Matrix avec la technologie laser pour une luminosité et une portée améliorées, offrant une illumination et une sécurité supérieures.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/headlights_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le BMW i7 eDrive50 comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le BMW i7 eDrive50 dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le BMW i7 eDrive50, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le BMW i7 eDrive50, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le BMW i7 eDrive50, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le BMW i7 eDrive50, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le BMW i7 eDrive50, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Facultatif sur le BMW i7 eDrive50, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Optionnel sur le BMW i7 eDrive50, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Facultatif sur le BMW i7 eDrive50, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optionnel sur le BMW i7 eDrive50, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le BMW i7 eDrive50, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le BMW i7 eDrive50, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Facultatif sur le BMW i7 eDrive50, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
+[**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optionnel sur le BMW i7 eDrive50, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-BMW i7 eDrive50 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+Le BMW i7 eDrive50 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-Avec le système Driving Assistant de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Driving Assistant niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
 - Régulateur de vitesse.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (optionnel)
 
-Avec le système optionnel Driving Assistant Professional de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+Avec le système optionnel Driving Assistant Professional niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
 ## Technologies de sécurité et d'accès
 
 Le BMW i7 eDrive50 est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
-- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé de série et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans faille sans retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 500 litres.
+Le coffre offre une capacité de chargement de 500 litres (17,7 CU FT).
 
-Le poids maximum du véhicule est de 3130 kg, avec un poids de base de 2520 kg. Cela permet une charge maximale de 610 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 3130 kg (6900 lbs), avec un poids de base de 2520 kg (5556 lbs). Cela permet une charge maximale de 610 kg (1345 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
-{{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Plage" >}}
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2000 kg (4409 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
+{{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Autonomie" >}}

@@ -1,5 +1,5 @@
 ---
-title: Lucid modèles de VE
+title: Modèles EV de Lucid
 linktitle: "Lucid"
 description: "Lucid Motors, fondée en 2007, est un constructeur américain de véhicules électriques connu pour ses véhicules électriques de luxe, en particulier la berline Lucid Air. Il combine technologie avancée, haute performance et designs éco-responsables, en se concentrant sur l'innovation."
 weight: 30

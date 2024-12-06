@@ -1,12 +1,12 @@
 ---
-title: Peugot E-2008 avis
-linktitle: "Avis"
-description: "EVKX.net vous aide à trouver le meilleur avis pour ce modèle."
+title: Critiques de Peugot E-2008
+linktitle: "Critiques"
+description: "EVKX.net vous aide à trouver la meilleure critique pour ce modèle."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
+Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>ALL NEW JEEP AVENGER: the new superhero of small electric cars?</h3>

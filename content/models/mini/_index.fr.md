@@ -1,5 +1,5 @@
 ---
-title: Mini modèles de VE
+title: Modèles EV de Mini
 linktitle: "Mini"
 description: "Mini is a British car brand that is owned by BMW Group. It is known for its iconic small cars that combine style, performance, and fun. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mini Cooper est une berline premium disponible en 1 variantes.
+Mini Cooper est une citadine premium disponible en 1 variantes.
 </p>
 	<a href="cooper/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

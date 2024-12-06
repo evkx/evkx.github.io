@@ -11,18 +11,18 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/main_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-Nous avons séparé notre article Audi e-tron S en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
 <div class="alert alert-secondary" role="alert">
 
@@ -30,82 +30,82 @@ Ce modèle a été remplacé par [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-
 
 </div>
 
-## Performances
+## Performance
 
-Avec overboost, l'Audi e-tron S atteint une puissance maximale de  370 kW (503 ch). Sans overboost, elle délivre 320 kW (435 ch). Le couple maximal est de 973 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteint une vitesse maximale de 200 km/h, démontrant ses performances solides.
+Avec la suralimentation, le Audi e-tron S atteint une puissance maximale de 370 kW (503 ch / 496 bhp). Sans suralimentation, il délivre 320 kW (435 ch / 429 bhp). Le couple maximal est de 973 Nm (718 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 4,5 secondes et atteint une vitesse maximale de 200 km/h (124 mph), démontrant ses solides performances.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 95,0 kWh et une capacité nette utilisable de 86,0 kWh, offrant une réserve de 9,0 kWh (9,5%) pour la protection de la batterie. Avec une tension nominale de 396 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 95,0 kWh et une capacité nette utilisable de 86,0 kWh, offrant une marge de sécurité de 9,0 kWh (9,5%) pour la protection de la batterie. Avec une tension nominale de 396 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 374 et 344 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 23,0 kWh/100 km pour le modèle de base et à 25,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 374 et 344 km (232-214 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 23,0 kWh/100 km pour le modèle de base et à 25,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 150kW. Une charge complète de 0 à 100 % prendrait 45 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 81 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 115kW. Chaque session de charge prendrait 35 minutes et 51 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 150 kW. La charge de 0% à 100% prend environ 45 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 27 minutes avec une vitesse de charge moyenne de 136 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 3% à 81%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 115 kW, chaque session de charge prenant environ 35 minutes et 51 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 29 kWh/100 km, le voyage prendrait environ 10 heures et 7 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 82%, avec un temps de recharge total de 108 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 29 kWh/100 km, le voyage prendrait environ 10 heures et 7 minutes, nécessitant trois arrêts de charge de 2% à 82%, totalisant 108 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 3 heures et 54 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 7 heures et 49 minutes avec une installation domestique. Un chargeur embarqué optionnel de 22 kW réduit le temps de charge complet à environ 3 heures et 54 minutes.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/# j1772) pour l'Amérique du Nord et l'Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes. Un deuxième port est situé sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la charge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/#j1772) pour l'Amérique du Nord et [**TYPE2**](../../../../technology/charging/connectors/#type-2) pour l'Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Audi e-tron S dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+Le Audi e-tron S dispose d'un système de traction intégrale soutenu par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [moteurs à induction](../../../../technology/motors/asm/).
 
 ### Suspension
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 152 mm et la garde au sol maximale est de 248 mm.
+La suspension avant est à [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 152 mm, et la maximale est de 248 mm.
 
-Vous pouvez commander Audi e-tron S avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 152 mm et la garde au sol maximale est de 248 mm.
+Vous pouvez commander le Audi e-tron S avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant est à [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être ajustés manuellement et automatiquement. La garde au sol minimale est de 152 mm, et la maximale est de 248 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Audi e-tron S. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+La direction dynamique est un standard sur le Audi e-tron S, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
 
-### Modes de conduite
+### Modes de Conduite
 
-Le Audi e-tron S permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
+Le Audi e-tron S permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 7 modes :
 
-- Dynamic : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
-- Efficiency : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
-- Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Dynamic : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Efficiency : Direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Comfort : Direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
 - Allroad : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
 - Offroad : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
-- Auto : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
-- Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Auto : Direction équilibrée, hauteur de suspension adaptive avec accélérateur équilibré et amortissement de suspension adaptive.
+- Custom : Paramètres définis par l'utilisateur pour la direction, la suspension et la réponse de l'accélérateur.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
+Le Audi e-tron S est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 375 mm, tandis que les disques arrière sont de 350 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle offre plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse si nécessaire. <br /><br />**La régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage intègre les freins physiques uniquement lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving) où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonctionnalité souvent appelée **conduite à une pédale**. Cependant, ce n'est pas considéré comme une véritable conduite à une pédale car, à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
-De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 ## Extérieur
 
-La Audi e-tron S, avec des dimensions de 4901 mm de longueur, 1935 mm de largeur et 1629 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Audi e-tron S est disponible en un total de 61 couleurs de peinture, comprenant des options solides, métalliques et nacrées. En plus de la palette standard, certaines couleurs proviennent de la palette exclusive 'Audi exclusive'.
+Le Audi e-tron S, avec des dimensions de 4901 mm de longueur, 1935 mm de largeur et 1629 mm de hauteur, appartient aux SUV de taille moyenne, offrant un mélange d'espace, de confort, de performance et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Le Audi e-tron S est disponible en un total de 61 couleurs de peinture, y compris des options unies, métalliques et nacrées. En plus de la palette standard, certaines couleurs proviennent de la palette exclusive 'Audi exclusive'.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi e-tron S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Audi e-tron S offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 285/45 sur jantes de 20"
-- Pneus 285/40 sur jantes de 21"
+- 285/45 pneus sur des jantes de 20"
+- 285/40 pneus sur des jantes de 21"
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon de style hatchback](../../../../technology/doors/#hatcback-style-liftgate). La fermeture douce est une option fonction pour les portes latérales.
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre s'étend sur la majeure partie du toit, et les occupants peuvent ouvrir la partie avant. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/exterior_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
@@ -115,199 +115,199 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ### Sièges
 
-Le Audi e-tron S peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Audi e-tron S peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
-Pour la première rangée, l'Audi e-tron S propose trois types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
+La première rangée offre trois types de sièges pour répondre à diverses préférences de confort et de style :
 
-Les fonctionnalités suivantes sont disponibles sur le siège **s-line sport**.
-
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
-- appui-tête réglable en hauteur
-- appui-tête réglable en longueur (optionnel)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
-
-Les fonctionnalités suivantes sont disponibles sur le siège **s sport**.
+Les fonctionnalités suivantes sont disponibles sur le siège **s-line sport** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- Appuie-tête réglable en hauteur
+- Appuie-tête réglable en longueur (optionnel)
+- [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
-Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
+Les fonctionnalités suivantes sont disponibles sur le siège **s sport** :
+
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+
+Disponible en :
+
+Les fonctionnalités suivantes sont disponibles sur le siège **multicontour** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- appui-tête réglable en longueur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- Appuie-tête réglable en hauteur
+- Appuie-tête réglable en longueur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
-- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
+- [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
-Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 40:20:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
-- appui-tête réglable en hauteur
+- Appuie-tête réglable en hauteur
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-### Rangement Intérieur
+### Rangement intérieur
 
 - **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
-- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les objets essentiels.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
 
-## Système de climatisation
+## Système de Climatisation
 
 Deux options de système de climatisation sont disponibles :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-- **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
+- **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
-L'Audi e-tron S comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Audi e-tron S comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
-- **Recharge sans fil pour téléphone**
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le Audi e-tron S possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le Audi e-tron S dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) différents.
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
-- L'écran touch en haut de la console centrale mesure 10,1 pouces
-- L'écran touch en bas de la console centrale mesure 8,6 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 12,3 pouces.
+- L'écran touch en haut de la console centrale mesure 10,1 pouces.
+- L'écran touch en bas de la console centrale mesure 8,6 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 ### Volant
 
 Le Audi e-tron S est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Pour les rétroviseurs extérieurs, vous pouvez choisir entre des rétroviseurs à caméra avec écrans intérieurs ou des rétroviseurs traditionnels. Le rétroviseur intérieur est un rétroviseur standard.
+Pour les rétroviseurs extérieurs, vous pouvez choisir entre des rétroviseurs basés sur des caméras avec des écrans intérieurs ou des rétroviseurs traditionnels. Le rétroviseur intérieur est un miroir standard.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Audi e-tron S prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Audi e-tron S prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Audi e-tron S.
+Vous pouvez choisir entre deux systèmes audio pour le Audi e-tron S :
 
-- Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts.
-- Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
+- **Audi Sound system :** Dispose de dix haut-parleurs et délivre une puissance maximale de 180 watts.
+- **Bang & Olufsen Sound System :** Dispose de 16 haut-parleurs et délivre une puissance maximale de 700 watts.
 
-Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+De plus, le modèle comprend 2 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.
 
-## Lumières
+## Éclairage
 
 Vous pouvez choisir entre trois types de phares pour le Audi e-tron S.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
+- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant l'éclairage en désactivant des zones spécifiques devant.
 - Les phares basés sur la technologie LED Digital Matrix sont disponibles en option.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/headlights_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Audi e-tron S comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Audi e-tron S dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-[**Assistance à l'Efficacité**](../../../../technology/driverassistance/efficencyassist/): Une fonction Standard qui aide les conducteurs à anticiper les conditions de conduite et à économiser de l'énergie.
+[**Assistance à l'efficacité**](../../../../technology/driverassistance/efficencyassist/): Une fonctionnalité Standard qui aide les conducteurs à anticiper les conditions de conduite et à économiser de l'énergie.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Audi e-tron S, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Audi e-tron S, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Audi e-tron S, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Audi e-tron S, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Audi e-tron S, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Facultatif sur le Audi e-tron S, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optionnel sur le Audi e-tron S, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Facultatif sur le Audi e-tron S, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Optionnel sur le Audi e-tron S, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Facultatif sur le Audi e-tron S, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optionnel sur le Audi e-tron S, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Audi e-tron S, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Audi e-tron S, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Facultatif sur le Audi e-tron S, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
+[**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optionnel sur le Audi e-tron S, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Audi e-tron S, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optionnel sur le Audi e-tron S, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Audi e-tron S offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+Le Audi e-tron S offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système  niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
 - Régulateur de vitesse.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (optionnel)
 
-Avec le système optionnel Assistantpackage Tour de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+Avec le système optionnel Assistantpackage Tour niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
 Le Audi e-tron S est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
-- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé de série et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans faille sans retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 555 litres. Avec les sièges arrière rabattus, cette capacité passe à 1594 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
+Le coffre offre une capacité de chargement de 555 litres (19,6 CU FT). Avec le siège arrière rabattu, cela s'étend à 1594 litres (56,3 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs).
 
-Le poids maximum du véhicule est de 3280 kg, avec un poids de base de 2655 kg. Cela permet une charge maximale de 625 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 3280 kg (7231 lbs), avec un poids de base de 2655 kg (5853 lbs). Cela permet une charge maximale de 625 kg (1378 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg (3968 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/trunk_1_st.jpg" title="Audi e-tron S" width="3000" height="2250"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 19.11.2019 et les livraisons ont commencé en May 2020. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).
-{{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Plage" >}}
+Ce modèle a eu sa première mondiale le 19.11.2019, et les livraisons ont commencé en May 2020. Ce modèle a maintenant été discontinué. Ce modèle a été remplacé par [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).
+{{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Autonomie" >}}

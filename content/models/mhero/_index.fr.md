@@ -1,5 +1,5 @@
 ---
-title: MHERO modèles de VE
+title: Modèles EV de MHERO
 linktitle: "MHERO"
 description: "La marque MHERO est une ligne de véhicules tout-terrain électriques de luxe lancée par la Dongfeng Motor Corporation de Chine via sa filiale Mengshi. Ciblant les marchés de véhicules électriques haut de gamme, MHERO, introduit en Europe en 2023, présente une ingénierie avancée adaptée aux terrains accidentés et à la mobilité durable."
 weight: 30

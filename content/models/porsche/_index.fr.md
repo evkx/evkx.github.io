@@ -1,5 +1,5 @@
 ---
-title: Porsche modèles de VE
+title: Modèles EV de Porsche
 linktitle: "Porsche"
 description: "Porsche, réputé pour son héritage de performance et de luxe, est passé sans heurts à l'ère électrique. En combinant une technologie de pointe avec un design emblématique, les modèles électriques de Porsche, comme la Taycan, offrent une vitesse exaltante, une maniabilité précise et une innovation durable, établissant de nouvelles normes pour les voitures de sport électriques."
 weight: 30
@@ -41,7 +41,7 @@ Porsche Macan est un SUV coupé premium disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan est une berline/break de luxe disponible en 28 variantes.
+Porsche Taycan est une berline / break de luxe disponible en 28 variantes.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

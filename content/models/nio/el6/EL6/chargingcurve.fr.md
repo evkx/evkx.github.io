@@ -1,5 +1,5 @@
 ---
-title: Nio EL6 courbe de charge et performances
+title: Courbe de charge et performance de Nio EL6
 linktitle: "Courbe de charge"
 description: "Ci-dessous se trouve la courbe de charge pour Nio EL6, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
@@ -8,7 +8,7 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances des différents packs de batteries.
+Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances pour les différents packs de batteries.
 
 ### 100 kWh 100kWh
 
@@ -62,7 +62,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				1,27
@@ -70,7 +70,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				0,90
@@ -78,7 +78,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				1% - 43%
@@ -86,7 +86,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				84,4kW
@@ -94,7 +94,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				27m52s
@@ -119,7 +119,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				1 h 16 m 57 s
@@ -224,7 +224,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -233,13 +233,13 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -1717,7 +1717,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				1,45
@@ -1725,7 +1725,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				1,08
@@ -1733,7 +1733,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				7% - 74%
@@ -1741,7 +1741,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				75,3kW
@@ -1749,7 +1749,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				38m39s
@@ -1774,7 +1774,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				1 h 6 m 7 s
@@ -1879,7 +1879,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1888,13 +1888,13 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -3321,4 +3321,4 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomie" f_url="../specifications/" f_title="Spécifications" >}}

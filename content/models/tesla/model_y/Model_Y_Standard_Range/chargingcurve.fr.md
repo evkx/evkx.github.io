@@ -1,5 +1,5 @@
 ---
-title: Tesla Model Y Standard Range courbe de charge et performances
+title: Courbe de charge et performance de Tesla Model Y Standard Range
 linktitle: "Courbe de charge"
 description: "Ci-dessous se trouve la courbe de charge pour Tesla Model Y Standard Range, illustrant la vitesse de charge à différents niveaux de batterie. De plus, des graphiques pour l'autonomie et le temps fournissent des détails complets sur les performances de charge."
 weight: 3
@@ -8,7 +8,7 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances des différents packs de batteries.
+Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances pour les différents packs de batteries.
 
 ### 60 kWh CATL LFP Europa/China market
 
@@ -62,7 +62,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				2,88
@@ -70,7 +70,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				1,55
@@ -78,7 +78,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				0% - 47%
@@ -86,7 +86,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				87,3kW
@@ -94,7 +94,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				18m46s
@@ -119,7 +119,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				 52 m 49 s
@@ -224,10 +224,10 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Tesla Model Y Standard Range dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,13 +236,13 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -1720,7 +1720,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				2,95
@@ -1728,7 +1728,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				2,12
@@ -1736,7 +1736,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				0% - 63%
@@ -1744,7 +1744,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				110,8kW
@@ -1752,7 +1752,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				19m46s
@@ -1777,7 +1777,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				 37 m 37 s
@@ -1882,10 +1882,10 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Tesla Model Y Standard Range dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,13 +1894,13 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -3378,7 +3378,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				3,16
@@ -3386,7 +3386,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				1,17
@@ -3394,7 +3394,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				0% - 35%
@@ -3402,7 +3402,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				81,0kW
@@ -3410,7 +3410,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				18m46s
@@ -3435,7 +3435,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				1 h 25 m 55 s
@@ -3540,10 +3540,10 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Tesla Model Y Standard Range dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -3552,13 +3552,13 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -5036,7 +5036,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Taux C maximum
+				Taux de charge maximal
 			</td>
 			<td>
 				2,3
@@ -5044,7 +5044,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Taux C moyen
+				Taux de charge moyen
 			</td>
 			<td>
 				1,76
@@ -5052,7 +5052,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Zone de chargement optimale
+				Zone de charge optimale
 			</td>
 			<td>
 				0% - 59%
@@ -5060,7 +5060,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Vitesse de charge optimale incluant 5 minutes de perte
+				Vitesse de charge optimale incluant une perte de 5 minutes
 			</td>
 			<td>
 				109,3kW
@@ -5068,7 +5068,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 		</tr>
 		<tr>
 			<td>
-				Durée d'arrêt de charge optimale
+				Temps d'arrêt de charge optimal
 			</td>
 			<td>
 				22m11s
@@ -5093,7 +5093,7 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<tbody>
 		<tr>
 			<td>
-				Temps de charge 0-100%
+				Temps de charge 0 - 100%
 			</td>
 			<td>
 				 41 m 1 s
@@ -5198,10 +5198,10 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 </div>
 
 
-La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+Tesla Model Y Standard Range dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -5210,13 +5210,13 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 	<thead>
 		<tr>
 			<th>
-				SOC
+				État de charge
 			</th>
 			<th>
 				Vitesse
 			</th>
 			<th>
-				Heure
+				Temps
 			</th>
 			<th>
 				Énergie chargée
@@ -6643,4 +6643,4 @@ Tesla Model Y Standard Range dispose d'un chauffage de batterie, ce qui facilite
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomie" f_url="../specifications/" f_title="Spécifications" >}}

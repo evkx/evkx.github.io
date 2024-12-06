@@ -1,5 +1,5 @@
 ---
-title: Dongfeng modèles de VE
+title: Modèles EV de Dongfeng
 linktitle: "Dongfeng"
 description: "Dongfeng Motor Corporation, fondée en 1969, est l'un des plus grands et des plus influents constructeurs automobiles de Chine. Connue pour sa gamme diversifiée de véhicules, y compris les voitures particulières, les camions commerciaux et les véhicules électriques, Dongfeng a une présence significative tant au niveau national qu'international. Avec un fort accent sur l'innovation, l'entreprise a élargi son offre de véhicules électriques, visant à devenir un leader de la mobilité durable."
 weight: 30

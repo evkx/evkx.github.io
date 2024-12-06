@@ -1,5 +1,5 @@
 ---
-title: Leapmotor modèles de VE
+title: Modèles EV de Leapmotor
 linktitle: "Leapmotor"
 description: "Leapmotor est un fabricant chinois de véhicules électriques (EV), fondé en 2015. Connu pour ses voitures abordables et technologiques comme la citadine T03 et le SUV C11, Leapmotor met l'accent sur le développement interne des technologies EV de base, y compris les groupes motopropulseurs et la conduite autonome, ciblant le marché croissant des EV en Chine."
 weight: 30

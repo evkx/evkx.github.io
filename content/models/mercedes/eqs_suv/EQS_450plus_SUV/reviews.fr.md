@@ -1,12 +1,12 @@
 ---
-title: Mercedes-EQ EQS 450+ SUV avis
-linktitle: "Avis"
-description: "EVKX.net vous aide à trouver le meilleur avis pour ce modèle."
+title: Critiques de Mercedes-EQ EQS 450+ SUV
+linktitle: "Critiques"
+description: "EVKX.net vous aide à trouver la meilleure critique pour ce modèle."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
+Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
 <div class="mt-3 mb-3">

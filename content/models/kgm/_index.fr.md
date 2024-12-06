@@ -1,5 +1,5 @@
 ---
-title: KGM modèles de VE
+title: Modèles EV de KGM
 linktitle: "KGM"
 description: "Korean Global Motors (KGM) est un constructeur automobile basé en Corée du Sud. Connu pour sa gamme diversifiée de véhicules, y compris les modèles électriques et hybrides, KGM a apporté des contributions notables au marché automobile mondial. L'entreprise met l'accent sur le design innovant et l'ingénierie avancée, en phase avec les tendances de l'industrie vers la durabilité et l'intégration technologique. KGM continue d'être une présence significative dans le secteur automobile, tant au niveau national qu'international."
 weight: 30

@@ -1,7 +1,7 @@
 ---
 title: Neta GT 580 AWD
 linktitle: "GT 580 AWD"
-description: "Neta GT 580 AWD est un coupé entièrement électrique avec une autonomie CLTC allant jusqu'à 580 km (361 miles). EVKX.net a tous les détails."
+description: "Neta GT 580 AWD est un coupé entièrement électrique avec une autonomie de CLTC allant jusqu'à 580 km (361 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,66 +11,66 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/main_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="1484"  >}}
 
-Nous avons séparé notre article Neta GT 580 AWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-La Neta GT 580 AWD offre des performances solides avec une puissance maximale de 340 kW (462 ch) et un couple total de 620 Nm. Elle peut accélérer de 0 à 100 km/h en 3,7 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
+Le Neta GT 580 AWD offre des performances solides avec une puissance maximale de 340 kW (462 ch / 456 bhp) et un couple total de 620 Nm (458 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 3,7 secondes et atteint une vitesse maximale de 190 km/h (118 mph), le rendant compétitif dans sa catégorie.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 78,0 kWh et une capacité nette utilisable de 75,0 kWh, offrant une réserve de 3,0 kWh (3,8%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 78,0 kWh et une capacité nette utilisable de 75,0 kWh, offrant une marge de sécurité de 3,0 kWh (3,8%) pour la protection de la batterie.
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 580 km (361 miles). La consommation est de 12,9kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+L'autonomie du véhicule, selon la norme [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle), est de 580 km (361 miles). La consommation d'énergie est de 12,9 kWh/100 km selon le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 120kW. Une charge complète de 0 à 100 % prendrait 63 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 88kW. Chaque session de charge prendrait 37 minutes et 46 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 120 kW. La charge de 0% à 100% prend environ 63 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 32 minutes avec une vitesse de charge moyenne de 100 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 4% à 76%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 88 kW, chaque session de charge prenant environ 37 minutes et 46 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 10 heures et 5 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 74%, avec un temps de recharge total de 106 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 23 kWh/100 km, le voyage prendrait environ 10 heures et 5 minutes, nécessitant trois arrêts de charge de 5% à 74%, totalisant 106 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 49 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 6 heures et 49 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Neta GT 580 AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Neta GT 580 AWD dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
+La suspension avant utilise un design à [double triangulation](../../../../technology/suspension/#double-wishbone), tandis que l'arrière utilise une configuration [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
 
 ### Freins
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. **Le mode Hold** arrête complètement le véhicule en utilisant les freins à friction et **le mode Creep** fait avancer la voiture à basse vitesse.
+Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. Le **mode Hold** arrête complètement le véhicule en utilisant les freins à friction et le **mode Creep** fait avancer la voiture à basse vitesse.
 
 ## Extérieur
 
-La Neta GT 580 AWD, avec des dimensions de 4715 mm de longueur, 1979 mm de largeur et 1415 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La Neta GT 580 AWD est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le Neta GT 580 AWD, avec des dimensions de 4715 mm de longueur, 1979 mm de largeur et 1415 mm de hauteur, appartient aux voitures du segment D, également appelées voitures de taille moyenne ou familiales, offrant plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Le Neta GT 580 AWD est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques frappantes.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Neta GT 580 AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur le Neta GT 580 AWD, vous permettant de personnaliser votre véhicule pour correspondre à votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 245/45 sur jantes de 19"
+- 245/45 pneus sur des jantes de 19"
 
-Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
+Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, ce qui améliore l'humeur et le confort des occupants. Ce verre est teinté pour se protéger de la chaleur du soleil.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
@@ -80,52 +80,52 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 ### Sièges
 
-La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
+La disposition des sièges est de deux sièges à l'avant et deux sièges à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Neta GT 580 AWD propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **** :
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
 ## Caractéristiques de confort
 
-L'Neta GT 580 AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Neta GT 580 AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le Neta GT 580 AWD possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+Le Neta GT 580 AWD dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 10,3 pouces
-- L'écran touch en haut de la console centrale mesure 17,6 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 10,3 pouces.
+- L'écran touch en haut de la console centrale mesure 17,6 pouces.
 
-Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système un standard qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 
@@ -133,59 +133,59 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 Le Neta GT 580 AWD est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
 ## Infodivertissement
 
-### Système audio
+### Système Audio
 
-Un type de système audio est disponible pour le Neta GT 580 AWD.
+Le Neta GT 580 AWD est équipé d'une seule option de système audio :
 
-- **Neta Sky sound:** Comprend 12 haut-parleurs.
+- **Neta Sky sound :** Dispose de 12 haut-parleurs.
 
-Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+De plus, le modèle comprend 1 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Neta GT 580 AWD comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Neta GT 580 AWD dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Neta GT 580 AWD, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Neta GT 580 AWD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Neta GT 580 AWD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Neta GT 580 AWD, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Neta GT 580 AWD, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Neta GT 580 AWD, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le Neta GT 580 AWD, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Neta GT 580 AWD, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Neta GT 580 AWD, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Neta GT 580 AWD, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Neta GT 580 AWD, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Neta GT 580 AWD, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Neta GT 580 AWD, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Neta GT 580 AWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Neta GT 580 AWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Neta GT 580 AWD, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+[**Avertissement de sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Neta GT 580 AWD, ce système avertit les occupants contre l'ouverture des portes s'il y a un risque de heurter quelque chose.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 ## Technologies de sécurité et d'accès
@@ -196,13 +196,13 @@ Le Neta GT 580 AWD est équipé de fonctionnalités de sécurité avancées pour
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 297 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 50 litres.
+Le coffre offre une capacité de chargement de 297 litres (10,5 CU FT). De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 50 litres (1,8 CU FT).
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer une remorque, vous devez regarder d'autres modèles.
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 13.07.2023 et les livraisons ont commencé en December 2023. Ce modèle est uniquement disponible en Chine.
-{{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Plage" >}}
+Le Neta GT 580 AWD a eu sa première mondiale le 13.07.2023, avec des livraisons commençant en December 2023. Veuillez noter que ce modèle est disponible exclusivement en Chine.
+{{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Autonomie" >}}

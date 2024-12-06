@@ -1,7 +1,7 @@
 ---
-title: Modèles VE
-linktitle: "Modèles VE"
-description: "L'avenir est électrique, et EVKX.net vous donne un aperçu complet des marques, modèles et variantes du marché des véhicules électriques."
+title: Modèles EV
+linktitle: "Modèles EV"
+description: "L'avenir est électrique, et EVKX.net vous offre une vue d'ensemble complète des marques, modèles et variantes du marché des véhicules électriques."
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
@@ -222,7 +222,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Acura a 1 modèles avec un total de 3 variantes.
 	</p>
-	<a href="acura/" class="btn btn-outline-primary" role="button">Aller à la Acura présentation du modèle EV</a>
+	<a href="acura/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Acura</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="aion/"><img src="https://media.evkx.net/multimedia/models/aion/brandevs_st.jpg" class="img-fluid mb-2" alt="Aion" ></a>
@@ -230,14 +230,14 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Aion a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="aion/" class="btn btn-outline-primary" role="button">Aller à la Aion présentation du modèle EV</a>
+	<a href="aion/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Aion</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alfa Romeo</h2>
 	<p>
 	Alfa Romeo a 1 modèles avec un total de 2 variantes.
 	</p>
-	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Aller à la Alfa Romeo présentation du modèle EV</a>
+	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Alfa Romeo</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alpine</h2>
@@ -247,7 +247,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Alpine a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="alpine/" class="btn btn-outline-primary" role="button">Aller à la Alpine présentation du modèle EV</a>
+	<a href="alpine/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Alpine</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
@@ -258,14 +258,14 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Audi a 6 modèles avec un total de 50 variantes.
 	</p>
-	<a href="audi/" class="btn btn-outline-primary" role="button">Aller à la Audi présentation du modèle EV</a>
+	<a href="audi/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Audi</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Automobili Pininfarina</h2>
 	<p>
 	Automobili Pininfarina a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="automobili pininfarina/" class="btn btn-outline-primary" role="button">Aller à la Automobili Pininfarina présentation du modèle EV</a>
+	<a href="automobili pininfarina/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Automobili Pininfarina</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
@@ -273,7 +273,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	BMW a 7 modèles avec un total de 20 variantes.
 	</p>
-	<a href="bmw/" class="btn btn-outline-primary" role="button">Aller à la BMW présentation du modèle EV</a>
+	<a href="bmw/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de BMW</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
@@ -281,7 +281,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	BYD a 8 modèles avec un total de 10 variantes.
 	</p>
-	<a href="byd/" class="btn btn-outline-primary" role="button">Aller à la BYD présentation du modèle EV</a>
+	<a href="byd/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de BYD</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
@@ -292,7 +292,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Cadillac a 4 modèles avec un total de 5 variantes.
 	</p>
-	<a href="cadillac/" class="btn btn-outline-primary" role="button">Aller à la Cadillac présentation du modèle EV</a>
+	<a href="cadillac/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Cadillac</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="chevrolet/"><img src="https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg" class="img-fluid mb-2" alt="Chevrolet" ></a>
@@ -300,7 +300,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Chevrolet a 3 modèles avec un total de 8 variantes.
 	</p>
-	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Aller à la Chevrolet présentation du modèle EV</a>
+	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Chevrolet</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
@@ -308,7 +308,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Citroën a 3 modèles avec un total de 3 variantes.
 	</p>
-	<a href="citroën/" class="btn btn-outline-primary" role="button">Aller à la Citroën présentation du modèle EV</a>
+	<a href="citroën/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Citroën</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="cupra/"><img src="https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg" class="img-fluid mb-2" alt="CUPRA" ></a>
@@ -316,7 +316,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	CUPRA a 2 modèles avec un total de 6 variantes.
 	</p>
-	<a href="cupra/" class="btn btn-outline-primary" role="button">Aller à la CUPRA présentation du modèle EV</a>
+	<a href="cupra/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de CUPRA</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="dacia/"><img src="https://media.evkx.net/multimedia/models/dacia/brandevs_st.jpg" class="img-fluid mb-2" alt="Dacia" ></a>
@@ -324,7 +324,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Dacia a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="dacia/" class="btn btn-outline-primary" role="button">Aller à la Dacia présentation du modèle EV</a>
+	<a href="dacia/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Dacia</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Dongfeng</h2>
@@ -334,7 +334,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Dongfeng a 1 modèles avec un total de 2 variantes.
 	</p>
-	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Aller à la Dongfeng présentation du modèle EV</a>
+	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Dongfeng</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>
@@ -342,7 +342,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	DS a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="ds/" class="btn btn-outline-primary" role="button">Aller à la DS présentation du modèle EV</a>
+	<a href="ds/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de DS</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
@@ -350,7 +350,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Fiat a 2 modèles avec un total de 2 variantes.
 	</p>
-	<a href="fiat/" class="btn btn-outline-primary" role="button">Aller à la Fiat présentation du modèle EV</a>
+	<a href="fiat/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Fiat</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="fisker/"><img src="https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg" class="img-fluid mb-2" alt="Fisker" ></a>
@@ -358,7 +358,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Fisker a 1 modèles avec un total de 3 variantes.
 	</p>
-	<a href="fisker/" class="btn btn-outline-primary" role="button">Aller à la Fisker présentation du modèle EV</a>
+	<a href="fisker/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Fisker</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
@@ -366,7 +366,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Ford a 5 modèles avec un total de 13 variantes.
 	</p>
-	<a href="ford/" class="btn btn-outline-primary" role="button">Aller à la Ford présentation du modèle EV</a>
+	<a href="ford/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Ford</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid mb-2" alt="Genesis" ></a>
@@ -374,7 +374,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Genesis a 2 modèles avec un total de 4 variantes.
 	</p>
-	<a href="genesis/" class="btn btn-outline-primary" role="button">Aller à la Genesis présentation du modèle EV</a>
+	<a href="genesis/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Genesis</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
@@ -382,7 +382,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	GMC a 2 modèles avec un total de 4 variantes.
 	</p>
-	<a href="gmc/" class="btn btn-outline-primary" role="button">Aller à la GMC présentation du modèle EV</a>
+	<a href="gmc/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de GMC</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hiphi/"><img src="https://media.evkx.net/multimedia/models/hiphi/brandevs_st.jpg" class="img-fluid mb-2" alt="HiPhi" ></a>
@@ -390,7 +390,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	HiPhi a 3 modèles avec un total de 5 variantes.
 	</p>
-	<a href="hiphi/" class="btn btn-outline-primary" role="button">Aller à la HiPhi présentation du modèle EV</a>
+	<a href="hiphi/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de HiPhi</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="honda/"><img src="https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg" class="img-fluid mb-2" alt="Honda" ></a>
@@ -398,7 +398,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Honda a 2 modèles avec un total de 3 variantes.
 	</p>
-	<a href="honda/" class="btn btn-outline-primary" role="button">Aller à la Honda présentation du modèle EV</a>
+	<a href="honda/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Honda</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hongqi/"><img src="https://media.evkx.net/multimedia/models/hongqi/brandevs_st.jpg" class="img-fluid mb-2" alt="Hongqi" ></a>
@@ -406,7 +406,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Hongqi a 1 modèles avec un total de 4 variantes.
 	</p>
-	<a href="hongqi/" class="btn btn-outline-primary" role="button">Aller à la Hongqi présentation du modèle EV</a>
+	<a href="hongqi/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Hongqi</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
@@ -417,7 +417,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Hyundai a 5 modèles avec un total de 13 variantes.
 	</p>
-	<a href="hyundai/" class="btn btn-outline-primary" role="button">Aller à la Hyundai présentation du modèle EV</a>
+	<a href="hyundai/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Hyundai</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="jaguar/"><img src="https://media.evkx.net/multimedia/models/jaguar/brandevs_st.jpg" class="img-fluid mb-2" alt="Jaguar" ></a>
@@ -425,7 +425,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Jaguar a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="jaguar/" class="btn btn-outline-primary" role="button">Aller à la Jaguar présentation du modèle EV</a>
+	<a href="jaguar/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Jaguar</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="jeep/"><img src="https://media.evkx.net/multimedia/models/jeep/brandevs_st.jpg" class="img-fluid mb-2" alt="Jeep" ></a>
@@ -433,7 +433,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Jeep a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="jeep/" class="btn btn-outline-primary" role="button">Aller à la Jeep présentation du modèle EV</a>
+	<a href="jeep/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Jeep</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>KGM</h2>
@@ -443,7 +443,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	KGM a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="kgm/" class="btn btn-outline-primary" role="button">Aller à la KGM présentation du modèle EV</a>
+	<a href="kgm/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de KGM</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
@@ -454,7 +454,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Kia a 4 modèles avec un total de 13 variantes.
 	</p>
-	<a href="kia/" class="btn btn-outline-primary" role="button">Aller à la Kia présentation du modèle EV</a>
+	<a href="kia/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Kia</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lancia/"><img src="https://media.evkx.net/multimedia/models/lancia/brandevs_st.jpg" class="img-fluid mb-2" alt="Lancia" ></a>
@@ -462,7 +462,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Lancia a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="lancia/" class="btn btn-outline-primary" role="button">Aller à la Lancia présentation du modèle EV</a>
+	<a href="lancia/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Lancia</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Leapmotor</h2>
@@ -472,7 +472,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Leapmotor a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="leapmotor/" class="btn btn-outline-primary" role="button">Aller à la Leapmotor présentation du modèle EV</a>
+	<a href="leapmotor/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Leapmotor</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
@@ -480,14 +480,14 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Lexus a 2 modèles avec un total de 3 variantes.
 	</p>
-	<a href="lexus/" class="btn btn-outline-primary" role="button">Aller à la Lexus présentation du modèle EV</a>
+	<a href="lexus/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Lexus</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Li Auto</h2>
 	<p>
 	Li Auto a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="li auto/" class="btn btn-outline-primary" role="button">Aller à la Li Auto présentation du modèle EV</a>
+	<a href="li auto/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Li Auto</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
@@ -495,7 +495,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Lotus a 2 modèles avec un total de 6 variantes.
 	</p>
-	<a href="lotus/" class="btn btn-outline-primary" role="button">Aller à la Lotus présentation du modèle EV</a>
+	<a href="lotus/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Lotus</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
@@ -506,21 +506,21 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Lucid a 2 modèles avec un total de 7 variantes.
 	</p>
-	<a href="lucid/" class="btn btn-outline-primary" role="button">Aller à la Lucid présentation du modèle EV</a>
+	<a href="lucid/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Lucid</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Lynk & Co</h2>
 	<p>
 	Lynk & Co a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Aller à la Lynk & Co présentation du modèle EV</a>
+	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Lynk & Co</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>
 	<p>
 	Maserati a 2 modèles avec un total de 2 variantes.
 	</p>
-	<a href="maserati/" class="btn btn-outline-primary" role="button">Aller à la Maserati présentation du modèle EV</a>
+	<a href="maserati/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Maserati</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
@@ -528,7 +528,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Mercedes a 8 modèles avec un total de 32 variantes.
 	</p>
-	<a href="mercedes/" class="btn btn-outline-primary" role="button">Aller à la Mercedes présentation du modèle EV</a>
+	<a href="mercedes/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Mercedes</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mg/"><img src="https://media.evkx.net/multimedia/models/mg/brandevs_st.jpg" class="img-fluid mb-2" alt="MG" ></a>
@@ -536,7 +536,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	MG a 5 modèles avec un total de 11 variantes.
 	</p>
-	<a href="mg/" class="btn btn-outline-primary" role="button">Aller à la MG présentation du modèle EV</a>
+	<a href="mg/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de MG</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>MHERO</h2>
@@ -546,14 +546,14 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	MHERO a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="mhero/" class="btn btn-outline-primary" role="button">Aller à la MHERO présentation du modèle EV</a>
+	<a href="mhero/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de MHERO</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
 	Mini a 2 modèles avec un total de 2 variantes.
 	</p>
-	<a href="mini/" class="btn btn-outline-primary" role="button">Aller à la Mini présentation du modèle EV</a>
+	<a href="mini/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Mini</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="neta/"><img src="https://media.evkx.net/multimedia/models/neta/brandevs_st.jpg" class="img-fluid mb-2" alt="Neta" ></a>
@@ -561,7 +561,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Neta a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="neta/" class="btn btn-outline-primary" role="button">Aller à la Neta présentation du modèle EV</a>
+	<a href="neta/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Neta</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
@@ -569,7 +569,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Nio a 7 modèles avec un total de 8 variantes.
 	</p>
-	<a href="nio/" class="btn btn-outline-primary" role="button">Aller à la Nio présentation du modèle EV</a>
+	<a href="nio/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Nio</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nissan/"><img src="https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg" class="img-fluid mb-2" alt="Nissan" ></a>
@@ -577,7 +577,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Nissan a 1 modèles avec un total de 5 variantes.
 	</p>
-	<a href="nissan/" class="btn btn-outline-primary" role="button">Aller à la Nissan présentation du modèle EV</a>
+	<a href="nissan/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Nissan</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>OMODA</h2>
@@ -587,7 +587,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	OMODA a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="omoda/" class="btn btn-outline-primary" role="button">Aller à la OMODA présentation du modèle EV</a>
+	<a href="omoda/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de OMODA</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
@@ -597,7 +597,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Onvo a 1 modèles avec un total de 2 variantes.
 	</p>
-	<a href="onvo/" class="btn btn-outline-primary" role="button">Aller à la Onvo présentation du modèle EV</a>
+	<a href="onvo/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Onvo</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
@@ -605,7 +605,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Opel a 4 modèles avec un total de 5 variantes.
 	</p>
-	<a href="opel/" class="btn btn-outline-primary" role="button">Aller à la Opel présentation du modèle EV</a>
+	<a href="opel/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Opel</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
@@ -613,7 +613,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Peugot a 5 modèles avec un total de 8 variantes.
 	</p>
-	<a href="peugot/" class="btn btn-outline-primary" role="button">Aller à la Peugot présentation du modèle EV</a>
+	<a href="peugot/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Peugot</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
@@ -621,7 +621,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Polestar a 3 modèles avec un total de 8 variantes.
 	</p>
-	<a href="polestar/" class="btn btn-outline-primary" role="button">Aller à la Polestar présentation du modèle EV</a>
+	<a href="polestar/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Polestar</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
@@ -632,7 +632,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Porsche a 2 modèles avec un total de 32 variantes.
 	</p>
-	<a href="porsche/" class="btn btn-outline-primary" role="button">Aller à la Porsche présentation du modèle EV</a>
+	<a href="porsche/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Porsche</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
@@ -640,7 +640,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Renault a 3 modèles avec un total de 4 variantes.
 	</p>
-	<a href="renault/" class="btn btn-outline-primary" role="button">Aller à la Renault présentation du modèle EV</a>
+	<a href="renault/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Renault</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rimac/"><img src="https://media.evkx.net/multimedia/models/rimac/brandevs_st.jpg" class="img-fluid mb-2" alt="Rimac" ></a>
@@ -648,7 +648,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Rimac a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="rimac/" class="btn btn-outline-primary" role="button">Aller à la Rimac présentation du modèle EV</a>
+	<a href="rimac/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Rimac</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
@@ -656,7 +656,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Rivian a 1 modèles avec un total de 8 variantes.
 	</p>
-	<a href="rivian/" class="btn btn-outline-primary" role="button">Aller à la Rivian présentation du modèle EV</a>
+	<a href="rivian/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Rivian</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid mb-2" alt="Rolls-Royce" ></a>
@@ -664,7 +664,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Rolls-Royce a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Aller à la Rolls-Royce présentation du modèle EV</a>
+	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Rolls-Royce</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="seres/"><img src="https://media.evkx.net/multimedia/models/seres/brandevs_st.jpg" class="img-fluid mb-2" alt="Seres" ></a>
@@ -672,7 +672,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Seres a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="seres/" class="btn btn-outline-primary" role="button">Aller à la Seres présentation du modèle EV</a>
+	<a href="seres/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Seres</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
@@ -683,7 +683,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Skoda a 2 modèles avec un total de 16 variantes.
 	</p>
-	<a href="skoda/" class="btn btn-outline-primary" role="button">Aller à la Skoda présentation du modèle EV</a>
+	<a href="skoda/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Skoda</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="smart/"><img src="https://media.evkx.net/multimedia/models/smart/brandevs_st.jpg" class="img-fluid mb-2" alt="Smart" ></a>
@@ -691,7 +691,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Smart a 2 modèles avec un total de 4 variantes.
 	</p>
-	<a href="smart/" class="btn btn-outline-primary" role="button">Aller à la Smart présentation du modèle EV</a>
+	<a href="smart/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Smart</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="subaru/"><img src="https://media.evkx.net/multimedia/models/subaru/brandevs_st.jpeg" class="img-fluid mb-2" alt="Subaru" ></a>
@@ -699,7 +699,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Subaru a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="subaru/" class="btn btn-outline-primary" role="button">Aller à la Subaru présentation du modèle EV</a>
+	<a href="subaru/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Subaru</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid mb-2" alt="Tesla" ></a>
@@ -707,7 +707,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Tesla a 5 modèles avec un total de 19 variantes.
 	</p>
-	<a href="tesla/" class="btn btn-outline-primary" role="button">Aller à la Tesla présentation du modèle EV</a>
+	<a href="tesla/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Tesla</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="toyota/"><img src="https://media.evkx.net/multimedia/models/toyota/brandevs_st.jpg" class="img-fluid mb-2" alt="Toyota" ></a>
@@ -715,7 +715,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Toyota a 1 modèles avec un total de 2 variantes.
 	</p>
-	<a href="toyota/" class="btn btn-outline-primary" role="button">Aller à la Toyota présentation du modèle EV</a>
+	<a href="toyota/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Toyota</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="vinfast/"><img src="https://media.evkx.net/multimedia/models/vinfast/brandevs_st.jpg" class="img-fluid mb-2" alt="VinFast" ></a>
@@ -723,7 +723,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	VinFast a 1 modèles avec un total de 2 variantes.
 	</p>
-	<a href="vinfast/" class="btn btn-outline-primary" role="button">Aller à la VinFast présentation du modèle EV</a>
+	<a href="vinfast/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de VinFast</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
@@ -731,7 +731,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Volkswagen a 6 modèles avec un total de 28 variantes.
 	</p>
-	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Aller à la Volkswagen présentation du modèle EV</a>
+	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Volkswagen</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volvo/"><img src="https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg" class="img-fluid mb-2" alt="Volvo" ></a>
@@ -739,7 +739,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Volvo a 7 modèles avec un total de 18 variantes.
 	</p>
-	<a href="volvo/" class="btn btn-outline-primary" role="button">Aller à la Volvo présentation du modèle EV</a>
+	<a href="volvo/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Volvo</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
@@ -747,7 +747,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	VOYAH a 2 modèles avec un total de 2 variantes.
 	</p>
-	<a href="voyah/" class="btn btn-outline-primary" role="button">Aller à la VOYAH présentation du modèle EV</a>
+	<a href="voyah/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de VOYAH</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
@@ -755,7 +755,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Xiaomi a 1 modèles avec un total de 4 variantes.
 	</p>
-	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Aller à la Xiaomi présentation du modèle EV</a>
+	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Xiaomi</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
@@ -763,7 +763,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	XPENG a 6 modèles avec un total de 10 variantes.
 	</p>
-	<a href="xpeng/" class="btn btn-outline-primary" role="button">Aller à la XPENG présentation du modèle EV</a>
+	<a href="xpeng/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de XPENG</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="yangwang/"><img src="https://media.evkx.net/multimedia/models/yangwang/brandevs_st.jpg" class="img-fluid mb-2" alt="YangWang" ></a>
@@ -771,7 +771,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	YangWang a 1 modèles avec un total de 1 variantes.
 	</p>
-	<a href="yangwang/" class="btn btn-outline-primary" role="button">Aller à la YangWang présentation du modèle EV</a>
+	<a href="yangwang/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de YangWang</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
@@ -779,7 +779,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<p>
 	Zeekr a 6 modèles avec un total de 11 variantes.
 	</p>
-	<a href="zeekr/" class="btn btn-outline-primary" role="button">Aller à la Zeekr présentation du modèle EV</a>
+	<a href="zeekr/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Zeekr</a>
 </div>
 
 

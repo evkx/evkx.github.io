@@ -1,5 +1,5 @@
 ---
-title: Alfa Romeo modèles de VE
+title: Modèles EV de Alfa Romeo
 linktitle: "Alfa Romeo"
 description: " Alfa Romeo, the Italian luxury car manufacturer, is embracing electrification with a clear strategy. By 2027, Alfa Romeo plans to transform its lineup to be fully electric."
 weight: 30

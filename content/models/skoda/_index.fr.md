@@ -1,5 +1,5 @@
 ---
-title: Skoda modèles de VE
+title: Modèles EV de Skoda
 linktitle: "Skoda"
 description: "Škoda Auto, un constructeur automobile tchèque fondé en 1895, est connu pour ses véhicules fiables et abordables. Désormais filiale du groupe Volkswagen, Škoda allie ingénierie pratique et design innovant."
 weight: 30
@@ -41,7 +41,7 @@ SKODA Elroq est un SUV coupé disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Enyaq iV est un SUV/SUV Coupé disponible en 12 variantes.
+SKODA Enyaq iV est un SUV/Coupé disponible en 12 variantes.
 </p>
 	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

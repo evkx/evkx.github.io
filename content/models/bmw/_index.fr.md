@@ -1,5 +1,5 @@
 ---
-title: BMW modèles de VE
+title: Modèles EV de BMW
 linktitle: "BMW"
 description: "Electric drivetrains are a prerequisite for climate-neutral mobility of the future. This is why the BMW Group is consistently expanding its range of electric vehicles. As early as 2023, the Group will offer at least one fully electric model in virtually all key segments. "
 weight: 30
@@ -41,7 +41,7 @@ BMW i4 est une berline premium disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 est une berline/break premium disponible en 6 variantes.
+BMW i5 est une berline / break premium disponible en 6 variantes.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

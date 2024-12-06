@@ -1,5 +1,5 @@
 ---
-title: HiPhi modèles de VE
+title: Modèles EV de HiPhi
 linktitle: "HiPhi"
 description: "HiPhi is a premium electric vehicle brand of Human Horizons, a Chinese technology and mobility company."
 weight: 30

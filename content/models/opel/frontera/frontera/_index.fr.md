@@ -11,81 +11,81 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/opel/frontera/main_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
-Nous avons séparé notre article Opel Frontera en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-La Opel Frontera kWh offre des performances de base avec une puissance maximale de 83 kW (113 ch) et un couple total de 120 Nm. Elle accélère de 0 à 100 km/h en 11 secondes et atteint une vitesse maximale de 135 km/h, ce qui est plus comparable aux modèles d'entrée de gamme des véhicules à moteur à combustion interne traditionnels.
+Le Opel Frontera kWh offre des performances de base avec une puissance maximale de 83 kW (113 ch / 111 bhp) et un couple total de 120 Nm (89 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 11 secondes et atteint une vitesse maximale de 135 km/h (84 mph), ce qui est plus comparable aux véhicules à moteur à combustion interne d'entrée de gamme.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 45,0 kWh et une capacité nette utilisable de 44,0 kWh, offrant une réserve de 1,0 kWh (2,2%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 45,0 kWh et une capacité nette utilisable de 44,0 kWh, offrant une marge de sécurité de 1,0 kWh (2,2%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offrant à la fois des avantages et des inconvénients par rapport aux batteries typiques NCA/NMC.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 306 km, avec une consommation d'énergie de 14,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 306 km (190 miles), avec un taux de consommation d'énergie de 14,4 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 100kW. Une charge complète de 0 à 100 % prendrait 67 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 26 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 13 % et 68 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 63kW. Chaque session de charge prendrait 23 minutes et 57 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 100 kW. La charge de 0% à 100% prend environ 67 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 26 minutes avec une vitesse de charge moyenne de 72 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 13% à 68%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 63 kW, chaque session de charge prenant environ 23 minutes et 57 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 24 kWh/100 km, le voyage prendrait environ 11 heures et 26 minutes. Ce trajet nécessiterait deux arrêts de recharge de 13% à 69%, avec un temps de recharge total de 187 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 24 kWh/100 km, le voyage prendrait environ 11 heures et 26 minutes, nécessitant huit arrêts de charge de 13% à 69%, totalisant 187 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 56 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 5 heures et 56 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+Le port de charge est situé sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side), facilitant l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Opel Frontera dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
+Le Opel Frontera dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant.
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 163 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 163 mm.
 
-### Pilotage
+### Direction
 
-La direction dynamique est une fonctionnalité un standard sur le Opel Frontera. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+La direction dynamique est un standard sur le Opel Frontera, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
+Le Opel Frontera est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
+Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement.
 
-De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 ## Extérieur
 
-La Opel Frontera, avec des dimensions de 4385 mm de longueur, 1795 mm de largeur et 1635 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Opel Frontera est disponible en un total de 12 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit est peint dans une couleur différente, offrant un look distinctif et élégant.
+Le Opel Frontera, avec des dimensions de 4385 mm de longueur, 1795 mm de largeur et 1635 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Opel Frontera est disponible en un total de 12 couleurs de peinture, y compris des options unies et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit est peint dans une couleur différente, offrant un look distinctif et élégant.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Opel Frontera, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Opel Frontera offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 205/55 sur jantes de 16"
-- Pneus 205/50 sur jantes de 17"
+- 205/55 pneus sur des jantes de 16"
+- 205/50 pneus sur des jantes de 17"
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate).
 
-Il n'y a qu'un seul toit pour ce modèle.
+Il n'y a qu'une seule option de toit pour ce modèle.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -95,72 +95,72 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ### Sièges
 
-Le Opel Frontera peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Opel Frontera peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
-Pour la première rangée, l'Opel Frontera propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
+La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
-- appui-tête réglable en hauteur
+- Appuie-tête réglable en hauteur
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-#### Sièges de deuxième rangée
+#### Sièges de la deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Opel Frontera.
 
-L'option standard est une banquette à trois places avec une séparation 100 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+L'option standard est une banquette trois places avec une répartition 100 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
-- appui-tête réglable en hauteur
+- Appuie-tête réglable en hauteur
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort** :
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 1 zone :** Permet de contrôler une seule zone partagée pour toute la voiture.
 
-Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
+Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
 
 ## Caractéristiques de confort
 
-L'Opel Frontera comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Opel Frontera comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le Opel Frontera dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le Opel Frontera dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant à gauche du cadre mesure 10,0 pouces
-- L'écran touch à droite du cadre partagé mesure 10,0 pouces
+- L'écran  derrière le volant sur le côté gauche du cadre mesure 10,0 pouces.
+- L'écran touch sur la partie droite du cadre partagé mesure 10,0 pouces.
 
-Le modèle n'a pas d'affichage tête haute.
+Le modèle n'inclut pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
 
@@ -168,81 +168,81 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Opel Frontera est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
-Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué une option, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Opel Frontera prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Opel Frontera prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Opel Frontera.
+Vous pouvez choisir entre deux systèmes audio pour le Opel Frontera :
 
-- **:** Comprend deux haut-parleurs.
-- **Max Sound system:** Comprend deux haut-parleurs.
+- ** :** Dispose de deux haut-parleurs.
+- **Max Sound system :** Dispose de deux haut-parleurs.
 
-Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+De plus, le modèle comprend 2 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/opel/frontera/headlights_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Opel Frontera comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Opel Frontera dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Opel Frontera, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Opel Frontera, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Opel Frontera, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Opel Frontera, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Opel Frontera, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
 - Régulateur de vitesse.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [caméras](../../../../technology/sensorsandcameras/cameras/) et quatre [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [caméras](../../../../technology/sensorsandcameras/cameras/), et quatre [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
 Le Opel Frontera est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
 
-- **Accès manuel par clé :** Le véhicule utilise un système de clé traditionnel, vous permettant de déverrouiller et de démarrer la voiture manuellement avec facilité.
+- **Accès avec clé manuelle :** Le véhicule utilise un système de clé traditionnel, vous permettant de déverrouiller et de démarrer la voiture manuellement avec facilité.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 460 litres. Avec les sièges arrière rabattus, cette capacité passe à 1594 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 460 litres (16,2 CU FT). Avec le siège arrière rabattu, cela s'étend à 1594 litres (56,3 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Des rails de toit en option sont disponibles pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
-Le poids maximum du véhicule est de 2030 kg, avec un poids de base de 1439 kg. Cela permet une charge maximale de 591 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2030 kg (4475 lbs), avec un poids de base de 1439 kg (3172 lbs). Cela permet une charge maximale de 591 kg (1303 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 15.05.2024 et les livraisons devraient commencer en September 2024.
-{{< pagenavigation b_url="../" b_title="Opel Frontera" f_url="rangeandconsumption/" f_title="Plage" >}}
+Ce modèle a fait sa première mondiale le 15.05.2024, avec des livraisons prévues pour commencer en September 2024.
+{{< pagenavigation b_url="../" b_title="Opel Frontera" f_url="rangeandconsumption/" f_title="Autonomie" >}}

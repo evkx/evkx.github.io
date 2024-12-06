@@ -1,5 +1,5 @@
 ---
-title: Maserati modèles de VE
+title: Modèles EV de Maserati
 linktitle: "Maserati"
 description: "Maserati, the iconic Italian luxury car brand, has a comprehensive EV strategy as part of its commitment to electrification and sustainable growth. The brand has confirmed its dedication to a 100% Engineered and Made in Italy strategic plan, which is focused on bold electrification. Maserati is the first Italian luxury brand to develop and produce all-electric vehicles, and it's driving through a sustainable long-term profitable growth plan centered on consistent brand and product evolution."
 weight: 30

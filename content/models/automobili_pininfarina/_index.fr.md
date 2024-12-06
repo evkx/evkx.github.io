@@ -1,5 +1,5 @@
 ---
-title: Automobili Pininfarina modèles de VE
+title: Modèles EV de Automobili Pininfarina
 linktitle: "Automobili Pininfarina"
 description: "Automobili Pininfarina is based in operational headquarters in Munich, Germany, with a team of experienced automotive executives from luxury and premium car brands."
 weight: 30

@@ -11,81 +11,81 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/main_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
-Nous avons séparé notre article Ford Puma Gen-E en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-L'Ford Puma Gen-E offre des performances modestes avec une puissance maximale de 123,5 kW (168 ch) et un couple total de 290 Nm. Il accélère de 0 à 100 km/h en 8 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+Le Ford Puma Gen-E offre des performances modestes avec une puissance maximale de 123,5 kW (168 ch / 166 bhp) et un couple total de 290 Nm (214 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 8 secondes et atteint une vitesse maximale de 160 km/h (99 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 43,0 kWh et une capacité nette utilisable de 40,0 kWh, offrant une réserve de 3,0 kWh (7,0%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 43,0 kWh et une capacité nette utilisable de 40,0 kWh, offrant une marge de sécurité de 3,0 kWh (7,0%) pour la protection de la batterie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 376 km, avec une consommation d'énergie de 10,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 376 km (234 miles), avec un taux de consommation d'énergie de 10,6 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 100kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 22 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 67 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 65kW. Chaque session de charge prendrait 22 minutes et 11 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 100 kW. La charge de 0% à 100% prend environ 57 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 22 minutes avec une vitesse de charge moyenne de 77 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 7% à 67%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 65 kW, chaque session de charge prenant environ 22 minutes et 11 secondes.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-### Port de recharge
+### Port de Charge
 
-Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Ford Puma Gen-E dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Ford Puma Gen-E dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 129 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 129 mm.
 
-### Modes de conduite
+### Modes de Conduite
 
-Le Ford Puma Gen-E permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
+Le Ford Puma Gen-E permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 4 modes :
 
-- Normal: Direction et accélérateur équilibrés.
-- Eco: Direction équilibrée et accélérateur efficace.
-- Sport: Direction et accélérateur dynamiques.
-- Slippery: Direction et accélérateur équilibrés.
+- Normal : Direction et accélérateur équilibrés.
+- Eco : Direction et accélérateur efficaces équilibrés.
+- Sport : Direction et accélérateur dynamiques.
+- Slippery : Direction et accélérateur équilibrés.
 
 ### Freins
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Le système arrête complètement la voiture en utilisant les freins à friction.
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec les [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Le système arrête complètement la voiture en utilisant les freins à friction.
 
-Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
+Si vous retirez complètement le pied, la régénération est à un niveau fixe. Cela ne peut pas être ajusté.
 
 ## Extérieur
 
-La Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Ford Puma Gen-E est disponible en un total de 6 couleurs de peinture unies.
+Le Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Ford Puma Gen-E est disponible en un total de 6 couleurs de peinture unies.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford Puma Gen-E, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Ford Puma Gen-E offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 215/55 sur jantes de 17"
-- Pneus 215/50 sur jantes de 18"
-- Pneus 225/40 sur jantes de 19"
+- 215/55 pneus sur des jantes de 17"
+- 215/50 pneus sur des jantes de 18"
+- 225/40 pneus sur des jantes de 19"
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 
-Il n'y a qu'un seul toit pour ce modèle.
+Il n'y a qu'une seule option de toit pour ce modèle.
 
-Les vitres du montant B et de l'arrière sont teintées.
+Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/exterior_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
@@ -93,58 +93,58 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-L'intérieur de la Ford Puma Gen-E est fonctionnel, avec des matériaux de qualité moyenne utilisés dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'intérieur du Ford Puma Gen-E est fonctionnel, avec des matériaux de qualité moyenne dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de sièges et styles d'intérieur. Vous pouvez choisir entre plusieurs designs d'intérieur.
 
 ### Sièges
 
-Le Ford Puma Gen-E peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Ford Puma Gen-E peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Ford Puma Gen-E propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- appui-tête réglable en hauteur (réglable manuellement)
+- Appuie-tête réglable en hauteur (réglable manuellement)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable manuellement)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black/Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 1 zone :** Permet de contrôler une seule zone partagée pour toute la voiture.
 
 ## Caractéristiques de confort
 
-L'Ford Puma Gen-E comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Ford Puma Gen-E comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
-Le Ford Puma Gen-E possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+Le Ford Puma Gen-E dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces
-- L'écran touch en haut de la console centrale mesure 12,8 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 12,0 pouces.
+- L'écran touch en haut de la console centrale mesure 12,8 pouces.
 
-Le modèle n'a pas d'affichage tête haute.
+Le modèle n'inclut pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/screens_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2200"  >}}
 
@@ -152,97 +152,97 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le Ford Puma Gen-E est équipé d'un seul type de volant :
 
-- **Volant Circulaire:** Ce volant présente un bas et un haut plats, offrant un look et une sensation sportifs. Il comprend également des boutons physiques et des interrupteurs à bascule, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
+- **Volant Circulaire :** Ce volant dispose d'un fond et d'un sommet plats, offrant un look et une sensation sportive. Il comprend également des boutons physiques et des interrupteurs à bascule, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
 Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Ford Puma Gen-E prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Ford Puma Gen-E prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Ford Puma Gen-E.
+Vous pouvez choisir entre deux systèmes audio pour le Ford Puma Gen-E :
 
-- **Ford Sound System:** Comprend six haut-parleurs.
-- ** B&O Premium Audio System:** Comprend dix haut-parleurs.
+- **Ford Sound System :** Dispose de six haut-parleurs.
+- ** B&O Premium Audio System :** Dispose de dix haut-parleurs.
 
-Le modèle dispose de 4 connexions USB-C en standard.
+De plus, le modèle comprend 4 connexions USB-C de série.
 
-## Lumières
+## Éclairage
 
 Vous pouvez choisir entre deux types de phares pour le Ford Puma Gen-E.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
+- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant l'éclairage en désactivant des zones spécifiques devant.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/headlights_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Ford Puma Gen-E comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Ford Puma Gen-E dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Ford Puma Gen-E, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Ford Puma Gen-E, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Ford Puma Gen-E, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Ford Puma Gen-E, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Ford Puma Gen-E, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Ford Puma Gen-E, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le Ford Puma Gen-E, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Ford Puma Gen-E, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Ford Puma Gen-E, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Ford Puma Gen-E, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Ford Puma Gen-E, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Ford Puma Gen-E offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
+Le Ford Puma Gen-E offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-Avec le système  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système  niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
 - Régulateur de vitesse.
 
-Avec le système optionnel  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus:
+Avec le système optionnel  niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
-### Capteurs & Caméras
+### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et six [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et six [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
 Le Ford Puma Gen-E est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
-- **Entrée et démarrage sans clé :** Avec le démarrage sans clé standard et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans effort sans retirer la clé de votre poche ou de votre sac.
+- **Entrée et démarrage sans clé :** Avec le démarrage sans clé de série et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans faille sans retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 574 litres. Avec les sièges arrière rabattus, cette capacité passe à 1283 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 43 litres.
+Le coffre offre une capacité de chargement de 574 litres (20,3 CU FT). Avec le siège arrière rabattu, cela s'étend à 1283 litres (45,3 CU FT). De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 43 litres (1,5 CU FT).
 
-Le poids maximum du véhicule est de 2015 kg, avec un poids de base de 1563 kg. Cela permet une charge maximale de 452 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2015 kg (4442 lbs), avec un poids de base de 1563 kg (3446 lbs). Cela permet une charge maximale de 452 kg (996 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 750 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 750 kg (1653 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/trunk_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2086"  >}}
 
-## Disponibilité et prix
+## Disponibilité et Tarification
 
-Ce modèle a été présenté en première mondiale le 03.12.2024 et les livraisons devraient commencer en April 2025.
-{{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Plage" >}}
+Ce modèle a fait sa première mondiale le 03.12.2024, avec des livraisons prévues pour commencer en April 2025.
+{{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Autonomie" >}}

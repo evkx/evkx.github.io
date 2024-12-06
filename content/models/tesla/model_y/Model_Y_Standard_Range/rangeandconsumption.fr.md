@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Standard Range plage et consommation
-linktitle: "Plage"
+title: Autonomie et consommation de Tesla Model Y Standard Range
+linktitle: "Autonomie"
 description: "Vous trouverez ici tous les détails sur l'autonomie et la consommation pour Tesla Model Y Standard Range."
 weight: 2
 hidden: true
@@ -9,14 +9,14 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-L'autonomie variera en fonction de plusieurs facteurs. Comme la vitesse à laquelle vous conduisez, la température, la route mouillée ou sèche, et l'équipement équipé. Sur cette page, vous trouverez un schéma et des tableaux avec les résultats du cycle de test standard comme WLTP et EPA et autonomie réelle estimée dans différents environnements.
+L'autonomie variera en fonction de plusieurs facteurs, tels que la vitesse de conduite, la température, la route mouillée ou sèche, et l'équipement installé. Sur cette page, vous trouverez un diagramme et des tableaux avec les résultats des cycles de test standard comme WLTP et EPA, ainsi que des estimations de l'autonomie réelle dans différents environnements.
 
 <img class="img-fluid" alt="Charge curve" src="/images//models/tesla/model_y/model_y_standard_range/range.svg"/>
 <a href="/images/models/tesla/model_y/model_y_standard_range/range.svg">Full screen</a>
 
-### Résultats officiels du cycle de test
+### Résultats des cycles de test officiels
 
-Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont effectués avec le chauffage/la climatisation éteints. Cliquez sur les liens dans le tableau pour plus de détails sur les procédures de test.
+Vous trouverez ci-dessous les autonomies officiellement évaluées. Les tests sont effectués avec le chauffage/la climatisation éteints. Cliquez sur les liens dans le tableau pour plus de détails sur les procédures de test.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -36,7 +36,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					Garniture de base de la gamme WLTP
+					Autonomie WLTP version de base
 				</a>
 			</td>
 			<td>
@@ -49,7 +49,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					Garniture haut de gamme WLTP
+					Autonomie WLTP version haut de gamme
 				</a>
 			</td>
 			<td>
@@ -62,7 +62,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/epa/ ">
-					Trim minimum de la gamme EPA
+					Autonomie EPA version de base
 				</a>
 			</td>
 			<td>
@@ -75,7 +75,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/epa/ ">
-					Garniture supérieure de gamme EPA
+					Autonomie EPA version haut de gamme
 				</a>
 			</td>
 			<td>
@@ -88,7 +88,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
-					Gamme CLTC
+					Autonomie CLTC
 				</a>
 			</td>
 			<td>
@@ -102,9 +102,9 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 </table>
 </div>
 
-### Résultats officiels du cycle de test avec chauffage ajouté
+### Résultats des cycles de test officiels avec chauffage ajouté
 
-Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement par temps froid/chaud affecte l'autonomie officielle.
+Le tableau ci-dessous montre comment l'activation du chauffage/de la climatisation par une journée froide/chaude affecte l'autonomie officielle.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -116,14 +116,14 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Autonomie
 			</th>
 			<th>
-				Réduction d'autonomie
+				Réduction de l'autonomie
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Garniture de base de la gamme WLTP avec 2KW AC
+				Autonomie WLTP version de base avec climatisation 2 kW
 			</td>
 			<td>
 				 325km / 202 mi 
@@ -134,7 +134,7 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 		</tr>
 		<tr>
 			<td>
-				Garniture supérieure de gamme WLTP avec 2KW AC
+				Autonomie WLTP version haut de gamme avec climatisation 2 kW
 			</td>
 			<td>
 				325 km / 202 mi
@@ -145,7 +145,7 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 		</tr>
 		<tr>
 			<td>
-				Garniture de base de la gamme EPA avec 2KW AC
+				Autonomie EPA version de base avec climatisation 2 kW
 			</td>
 			<td>
 				323 km / 201 mi
@@ -156,7 +156,7 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 		</tr>
 		<tr>
 			<td>
-				Garniture supérieure de gamme EPA avec 2KW AC
+				Autonomie EPA version haut de gamme avec climatisation 2 kW
 			</td>
 			<td>
 				300 km / 186 mi
@@ -169,9 +169,9 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 </table>
 </div>
 
-### Estimations de l'autonomie réelle
+### Estimations de l'autonomie en conditions réelles
 
-Le tableau ci-dessous montre quelques exemples réels estimés en parfait état et dans des conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide de gamme](../../../../../guides/understandingrange/) pour voir comment la portée est affectée dans le monde réel.
+Le tableau ci-dessous montre quelques exemples estimés en conditions réelles en conditions parfaites et en conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide sur l'autonomie](../../../../../guides/understandingrange/) pour voir comment l'autonomie est affectée dans le monde réel.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -190,7 +190,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 	<tbody>
 		<tr>
 			<td>
-				90kmh/56mph parfait état
+				90 km/h / 56 mph en conditions parfaites
 			</td>
 			<td>
 				411km / 255 mi
@@ -201,7 +201,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 		</tr>
 		<tr>
 			<td>
-				90kmh/56mph avec chauffage 2KW
+				90 km/h / 56 mph avec chauffage 2 kW
 			</td>
 			<td>
 				367km /221mi
@@ -212,7 +212,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 		</tr>
 		<tr>
 			<td>
-				120kmh/75mph parfait état
+				120 km/h / 75 mph en conditions parfaites
 			</td>
 			<td>
 				295 km / 183 mi
@@ -223,7 +223,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 		</tr>
 		<tr>
 			<td>
-				120kmh/75mph avec chauffage 2KW
+				120 km/h / 75 mph avec chauffage 2 kW
 			</td>
 			<td>
 				272 km /169mi

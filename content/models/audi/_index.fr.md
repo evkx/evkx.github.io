@@ -1,5 +1,5 @@
 ---
-title: Audi modèles de VE
+title: Modèles EV de Audi
 linktitle: "Audi"
 description: "Audi est un constructeur automobile allemand qui fait partie du groupe Volkswagen. Elle est connue pour ses véhicules haut de gamme et sportifs, ainsi que pour son slogan « Vorsprung durch Technik », qui signifie « Le progrès grâce à la technologie »."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi A6 e-tron est une berline/break premium disponible en 8 variantes.
+Audi A6 e-tron est une berline / break premium disponible en 8 variantes.
 </p>
 	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -41,7 +41,7 @@ Audi A6 e-tron est une berline/break premium disponible en 8 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi e-tron est un SUV/SUV Coupé de luxe disponible en 6 variantes.
+Audi e-tron est un SUV/Coupé de luxe disponible en 6 variantes.
 </p>
 	<a href="e-tron/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -71,7 +71,7 @@ Audi e-tron GT est une berline de luxe disponible en 5 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q4 e-tron est un SUV/SUV Coupé premium disponible en 15 variantes.
+Audi Q4 e-tron est un SUV/Coupé premium disponible en 15 variantes.
 </p>
 	<a href="q4_e-tron/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -86,7 +86,7 @@ Audi Q4 e-tron est un SUV/SUV Coupé premium disponible en 15 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q6 e-tron est un SUV/SUV Coupé premium disponible en 9 variantes.
+Audi Q6 e-tron est un SUV/Coupé premium disponible en 9 variantes.
 </p>
 	<a href="q6_e-tron/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
@@ -101,7 +101,7 @@ Audi Q6 e-tron est un SUV/SUV Coupé premium disponible en 9 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q8 e-tron est un SUV/SUV Coupé de luxe disponible en 7 variantes.
+Audi Q8 e-tron est un SUV/Coupé de luxe disponible en 7 variantes.
 </p>
 	<a href="q8_e-tron/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

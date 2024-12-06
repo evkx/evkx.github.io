@@ -1,5 +1,5 @@
 ---
-title: Hyundai modèles de VE
+title: Modèles EV de Hyundai
 linktitle: "Hyundai"
 description: "Hyundai Motor Company, fondée en 1967 en Corée du Sud, est un constructeur automobile mondial connu pour ses véhicules abordables et fiables et son fort engagement envers les véhicules électriques, visant la neutralité carbone d'ici 2045."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai INSTER est un hayon disponible en 2 variantes.
+Hyundai INSTER est une citadine disponible en 2 variantes.
 </p>
 	<a href="inster/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

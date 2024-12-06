@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 2WD
 linktitle: "GV60 2WD"
-description: "Genesis GV60 2WD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 517 km (321 miles). EVKX.net a tous les détails."
+description: "Genesis GV60 2WD est un SUV entièrement électrique avec une autonomie de WLTP allant jusqu'à 517 km (321 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,75 +11,75 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/main_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1688"  >}}
 
-Nous avons séparé notre article Genesis GV60 2WD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-L'Genesis GV60 2WD offre des performances modestes avec une puissance maximale de 168 kW (228 ch) et un couple total de 350 Nm. Il accélère de 0 à 100 km/h en 5,5 secondes et atteint une vitesse maximale de 185 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+Le Genesis GV60 2WD offre des performances modestes avec une puissance maximale de 168 kW (228 ch / 225 bhp) et un couple total de 350 Nm (258 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 5,5 secondes et atteint une vitesse maximale de 185 km/h (115 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74,0 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74,0 kWh, offrant une marge de sécurité de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 517 km, avec une consommation d'énergie de 14,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 517 km (321 miles), avec un taux de consommation d'énergie de 14,3 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 39 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 17 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 149kW. Chaque session de charge prendrait 22 minutes et 20 secondes. Cette capacité de charge efficace fait de l'Genesis GV60 2WD une option pratique pour les voyages longue distance.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 233 kW. La charge de 0% à 100% prend environ 39 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 17 minutes avec une vitesse de charge moyenne de 188 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 1% à 76%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 149 kW, chaque session de charge prenant environ 22 minutes et 20 secondes. Cette capacité de charge efficace fait du Genesis GV60 2WD une option pratique pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 24 kWh/100 km, le voyage prendrait environ 9 heures et 27 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 76%, avec un temps de recharge total de 67 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 24 kWh/100 km, le voyage prendrait environ 9 heures et 27 minutes, nécessitant trois arrêts de charge de 1% à 76%, totalisant 67 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 43 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 6 heures et 43 minutes avec une installation domestique.
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Genesis GV60 2WD dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Genesis GV60 2WD dispose d'un système de traction arrière soutenu par un moteur sur l'essieu arrière. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 161 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 161 mm.
 
 ### Freins
 
-### Freinage régénératif
+### Freinage Régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
+Le [freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
 
 La puissance régénérative maximale est de 150 kW.
 
 ## Extérieur
 
-La Genesis GV60 2WD, avec des dimensions de 4515 mm de longueur, 1890 mm de largeur et 1580 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Genesis GV60 2WD est disponible en un total de 10 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le Genesis GV60 2WD, avec des dimensions de 4515 mm de longueur, 1890 mm de largeur et 1580 mm de hauteur, appartient à la catégorie des SUV compacts, également appelés C-SUV. Ceux-ci offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Le Genesis GV60 2WD est disponible en un total de 10 couleurs de peinture, y compris plusieurs options métalliques frappantes.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Genesis GV60 2WD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Genesis GV60 2WD offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 235/55 sur jantes de 19"
-- Pneus 255/45 sur jantes de 20"
+- 235/55 pneus sur des jantes de 19"
+- 255/45 pneus sur des jantes de 20"
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon de style hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/exterior_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="2121"  >}}
 
@@ -87,27 +87,27 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
+Il y a un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
 
-Le Genesis GV60 2WD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Genesis GV60 2WD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Genesis GV60 2WD propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
-Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -118,40 +118,40 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
+- [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
-L'Genesis GV60 2WD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Genesis GV60 2WD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
-- **Recharge sans fil pour téléphone**
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
 Détails clés de l'écran :
 
-- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
-- L'écran touch au centre du tableau de bord mesure 14,9 pouces
-- L'écran touch en bas de la console centrale mesure 7,6 pouces
+- L'écran  derrière le volant intégré dans le tableau de bord mesure 12,3 pouces.
+- L'écran touch au centre du tableau de bord mesure 14,9 pouces.
+- L'écran touch en bas de la console centrale mesure 7,6 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/screens_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1796"  >}}
 
@@ -159,67 +159,67 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Genesis GV60 2WD est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant dispose d'un chauffage intégré en option pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Genesis GV60 2WD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Genesis GV60 2WD prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Un type de système audio est disponible pour le Genesis GV60 2WD.
+Le Genesis GV60 2WD est équipé d'une seule option de système audio :
 
-- **Bose Premium Sound System:** Comprend huit haut-parleurs.
+- **Bose Premium Sound System :** Dispose de huit haut-parleurs.
 
-Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+De plus, le modèle comprend 4 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
 
-## Lumières
+## Éclairage
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+**Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Genesis GV60 2WD comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Genesis GV60 2WD dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Genesis GV60 2WD, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Genesis GV60 2WD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Genesis GV60 2WD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Genesis GV60 2WD, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Genesis GV60 2WD, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le Genesis GV60 2WD, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le Genesis GV60 2WD, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
-[**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Genesis GV60 2WD, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
+[**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Genesis GV60 2WD, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Genesis GV60 2WD, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Genesis GV60 2WD, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Genesis GV60 2WD, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Genesis GV60 2WD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Genesis GV60 2WD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
-Avec le système standard  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système standard  niveau 2, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
-- [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
+- [**Changement de voie automatique (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ## Technologies de sécurité et d'accès
 
@@ -229,11 +229,11 @@ Le Genesis GV60 2WD est équipé de fonctionnalités de sécurité avancées pou
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 432 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 432 litres (15,3 CU FT). Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont de série pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
-Le poids maximum du véhicule est de 2610 kg, avec un poids de base de 2020 kg. Cela permet une charge maximale de 590 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2610 kg (5754 lbs), avec un poids de base de 2020 kg (4453 lbs). Cela permet une charge maximale de 590 kg (1301 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg, tandis que pour une remorque non freinée, il est de 750 kg.
-{{< pagenavigation b_url="../" b_title="Genesis GV60" f_url="rangeandconsumption/" f_title="Plage" >}}
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg (3527 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
+{{< pagenavigation b_url="../" b_title="Genesis GV60" f_url="rangeandconsumption/" f_title="Autonomie" >}}

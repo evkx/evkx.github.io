@@ -1,5 +1,5 @@
 ---
-title: Renault modèles de VE
+title: Modèles EV de Renault
 linktitle: "Renault"
 description: "Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Renault 5 est un hayon disponible en 1 variantes.
+Renault 5 est une citadine disponible en 1 variantes.
 </p>
 	<a href="5/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

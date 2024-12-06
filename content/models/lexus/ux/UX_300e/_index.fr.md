@@ -11,77 +11,77 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/main_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
-Nous avons séparé notre article Lexus UX 300e en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performances](#performance)
-- [Batterie, autonomie et charge](#battery-range-and-chargement)
-- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Performance](#performance)
+- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
+- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
 - [Extérieur (couleurs de peinture, roues ++)](#exterior)
 - [Intérieur (sièges++)](#interior)
 - [Interface utilisateur et contrôle](#user-interface-and-control)
 - [Infodivertissement](#infotainment)
-- [Lumières](#lights)
+- [Éclairage](#lights)
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
 
-## Performances
+## Performance
 
-L'Lexus UX 300e offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 300 Nm. Il accélère de 0 à 100 km/h en 7,5 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+Le Lexus UX 300e offre des performances modestes avec une puissance maximale de 150 kW (204 ch / 201 bhp) et un couple total de 300 Nm (221 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 7,5 secondes et atteint une vitesse maximale de 160 km/h (99 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
 
-## Batterie, autonomie et charge
+## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 71,4 kWh et une capacité nette utilisable de 64,0 kWh, offrant une réserve de 7,4 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 355,2 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 71,4 kWh et une capacité nette utilisable de 64,0 kWh, offrant une marge de sécurité de 7,4 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 355,2 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 450 et 440 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,2 kWh/100 km pour le modèle de base et à 14,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 450 et 440 km (280-274 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,2 kWh/100 km pour le modèle de base et à 14,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-La vitesse de charge DC maximale est de 50kW. Une charge complète de 0 à 100 % prendrait 208 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 92 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 35 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 33kW. Chaque session de charge prendrait 37 minutes et 54 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 50 kW. La charge de 0% à 100% prend environ 208 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 92 minutes avec une vitesse de charge moyenne de 29 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 3% à 35%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 33 kW, chaque session de charge prenant environ 37 minutes et 54 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 14 heures et 0 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 45%, avec un temps de recharge total de 341 minutes.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 25 kWh/100 km, le voyage prendrait environ 14 heures et 0 minutes, nécessitant sept arrêts de charge de 3% à 45%, totalisant 341 minutes de temps de charge.
 
-### Chargeur embarqué
+### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 8 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 9 heures et 8 minutes avec une installation domestique.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
-### Port de recharge
+### Port de Charge
 
-L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+Le port de charge est situé sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side), facilitant l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes. De plus, un deuxième port sur le [côté arrière droit](../../../../technology/charging/connectors/#front-side) offre une plus grande flexibilité pour la charge AC. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
 
-## Transmission
+## Groupe Motopropulseur
 
-Lexus UX 300e dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
+Le Lexus UX 300e dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant.
 
 ### Suspension
 
-La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
+La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 305 mm et les disques arrière mesurent 317 mm.
+Le Lexus UX 300e est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 305 mm, tandis que les disques arrière sont de 317 mm.
 
-### Freinage régénératif
+### Freinage Régénératif
 
-Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle offre plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse si nécessaire. <br /><br />**La régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage intègre les freins physiques uniquement lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving) où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonctionnalité souvent appelée **conduite à une pédale**. Cependant, ce n'est pas considéré comme une véritable conduite à une pédale car, à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
 
 ## Extérieur
 
-La Lexus UX 300e, avec des dimensions de 4495 mm de longueur, 1840 mm de largeur et 1545 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Lexus UX 300e est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+Le Lexus UX 300e, avec des dimensions de 4495 mm de longueur, 1840 mm de largeur et 1545 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Lexus UX 300e est disponible en un total de 10 couleurs de peinture, y compris des options unies et métalliques.
 
-Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lexus UX 300e, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Le Lexus UX 300e offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- Pneus 215/60 sur jantes de 17"
-- Pneus 225/50 sur jantes de 18"
+- 215/60 pneus sur des jantes de 17"
+- 225/50 pneus sur des jantes de 18"
 
-Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon de style hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée. Cette vitre embellit l'intérieur de la voiture. se sentir plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Les deux panneaux de verre sont dotés d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un sur la première et la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
@@ -91,72 +91,72 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ### Sièges
 
-Le Lexus UX 300e peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+Le Lexus UX 300e peut accueillir cinq passagers avec deux sièges à l'avant et une banquette trois places à l'arrière.
 
-#### Sièges de première rangée
+#### Sièges de Première Rangée
 
 Le Lexus UX 300e propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- Appuie-tête réglable en hauteur
+- [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+Disponible en :
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de Deuxième Rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée dispose d'une banquette trois places standard avec une répartition 40:60, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
+- [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
-## Système de climatisation
+## Système de Climatisation
 
-Un système climatique est disponible.
+Il y a un système de climatisation disponible :
 
-- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+- **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
-Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Ce modèle a une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur peut économiser une énergie significative utilisée pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
-L'Lexus UX 300e comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+Le Lexus UX 300e comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Volant réglable électriquement**
-- **Recharge sans fil pour téléphone**
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interface utilisateur et contrôle
+## Interface Utilisateur et Contrôle
 
 Deux configurations d'écran différentes sont disponibles sur le Lexus UX 300e.
 
-La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+La configuration standard a la configuration suivante. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran touch derrière le volant intégré au tableau de bord mesure 7,0 pouces
-- L'écran touch en haut de la console centrale mesure 7,0 pouces
+- L'écran touch derrière le volant intégré dans le tableau de bord mesure 7,0 pouces.
+- L'écran touch en haut de la console centrale mesure 7,0 pouces.
 
-La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+La configuration optionnelle  a la configuration suivante. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
 
-- L'écran touch derrière le volant intégré au tableau de bord mesure 8,0 pouces
-- L'écran touch en haut de la console centrale mesure 12,3 pouces
+- L'écran touch derrière le volant intégré dans le tableau de bord mesure 8,0 pouces.
+- L'écran touch en haut de la console centrale mesure 12,3 pouces.
 
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système une option qui projette la vitesse et d'autres informations importantes pour le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/screens_1_st.jpg" title="Lexus UX 300e" width="2451" height="1510"  >}}
 
@@ -164,67 +164,67 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 Le Lexus UX 300e est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 ## Infodivertissement
 
-### Système de navigation
+### Système de Navigation
 
-De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Avec le système de navigation embarqué une option, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
-### Réplication du téléphone
+### Miroir de Téléphone
 
-De plus, le Lexus UX 300e prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+Le Lexus UX 300e prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
 
-### Système audio
+### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Lexus UX 300e.
+Vous pouvez choisir entre deux systèmes audio pour le Lexus UX 300e :
 
-- **Standard:** Comprend 14 haut-parleurs.
-- **Mark Levinson Premium Surround Sound:** Comprend 14 haut-parleurs.
+- **Standard :** Dispose de 14 haut-parleurs.
+- **Mark Levinson Premium Surround Sound :** Dispose de 14 haut-parleurs.
 
-Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+De plus, le modèle comprend 4 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
 
-## Lumières
+## Éclairage
 
 Vous pouvez choisir entre deux types de phares pour le Lexus UX 300e.
 
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
+- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant l'éclairage en désactivant des zones spécifiques devant.
 
-Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/headlights_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
-## Systèmes avancés d'aide à la conduite
+## Systèmes Avancés d'Aide à la Conduite
 
-Le Lexus UX 300e comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
+Le Lexus UX 300e dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
 
-### Systèmes de Sécurité
+### Systèmes de sécurité
 
 [**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Lexus UX 300e, ce système empêche les roues de se bloquer lors du freinage.
 
-[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Lexus UX 300e, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
+[**Contrôle électronique de la stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Lexus UX 300e, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou sur des routes glissantes.
 
-[**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Lexus UX 300e, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
+[**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Lexus UX 300e, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lexus UX 300e, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Lexus UX 300e, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
 
-[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lexus UX 300e, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Lexus UX 300e, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Lexus UX 300e, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Lexus UX 300e, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optionnel sur le Lexus UX 300e, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-### Automatisation de la Conduite
+### Automatisation de la conduite
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
-- [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 ## Technologies de sécurité et d'accès
 
@@ -234,12 +234,12 @@ Le Lexus UX 300e est équipé de fonctionnalités de sécurité avancées pour v
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacité de chargement et capacité de remorquage
+## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 367 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 1451 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 367 litres (13,0 CU FT). Avec le siège de la troisième rangée rabattu, cela s'étend à 1451 litres (51,2 CU FT). Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Des rails de toit en option sont disponibles pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
-Le poids maximum du véhicule est de 2245 kg, avec un poids de base de 1810 kg. Cela permet une charge maximale de 435 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximal du véhicule est de 2245 kg (4949 lbs), avec un poids de base de 1810 kg (3990 lbs). Cela permet une charge maximale de 435 kg (959 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 
-{{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Plage" >}}
+{{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Autonomie" >}}

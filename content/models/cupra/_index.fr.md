@@ -1,5 +1,5 @@
 ---
-title: CUPRA modèles de VE
+title: Modèles EV de CUPRA
 linktitle: "CUPRA"
 description: "Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2018 as a spin-off of SEAT's performance division. Cupra stands for Cup Racing and reflects the brand's passion for racing and powerful car."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-CUPRA BORN est un hayon disponible en 4 variantes.
+CUPRA BORN est une citadine disponible en 4 variantes.
 </p>
 	<a href="born/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
