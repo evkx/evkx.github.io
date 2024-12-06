@@ -1,7 +1,7 @@
 ---
 title: Polestar 2
 linktitle: "2"
-description: "Consulta a continuación los detalles de las diferentes variantes de Polestar 2"
+description: "Vea a continuación los detalles de las diferentes variantes de Polestar 2"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,7 +16,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -35,7 +35,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -54,7 +54,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>

@@ -1,5 +1,5 @@
 ---
-title: Peugot E-5008 Long Range reseñas
+title: Reseñas de Peugot E-5008 Long Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

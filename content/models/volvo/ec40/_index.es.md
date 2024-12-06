@@ -1,7 +1,7 @@
 ---
 title: Volvo EC40
 linktitle: "EC40"
-description: "Consulta a continuación los detalles de las diferentes variantes de Volvo EC40"
+description: "Vea a continuación los detalles de las diferentes variantes de Volvo EC40"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,7 +16,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -35,7 +35,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor_er/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor_er/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor_er/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor_er/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor_er/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_single_motor_er/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -54,7 +54,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>

@@ -1,7 +1,7 @@
 ---
-title: Ford Mustang Mach-E GT galería
+title: Galería de Ford Mustang Mach-E GT
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Ford Mustang Mach-E GT. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Ford Mustang Mach-E GT. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

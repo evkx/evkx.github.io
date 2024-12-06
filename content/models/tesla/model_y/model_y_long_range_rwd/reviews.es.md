@@ -1,5 +1,5 @@
 ---
-title: Tesla Model Y Long Range RWD reseñas
+title: Reseñas de Tesla Model Y Long Range RWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

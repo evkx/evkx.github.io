@@ -1,7 +1,7 @@
 ---
-title: Ford Capri Extended Range AWD galería
+title: Galería de Ford Capri Extended Range AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Ford Capri Extended Range AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Ford Capri Extended Range AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

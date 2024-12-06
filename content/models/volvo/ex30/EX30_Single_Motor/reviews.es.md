@@ -1,5 +1,5 @@
 ---
-title: Volvo EX30 Single Motor reseñas
+title: Reseñas de Volvo EX30 Single Motor
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

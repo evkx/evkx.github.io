@@ -1,5 +1,5 @@
 ---
-title: Audi S6 Avant e-tron reseñas
+title: Reseñas de Audi S6 Avant e-tron
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

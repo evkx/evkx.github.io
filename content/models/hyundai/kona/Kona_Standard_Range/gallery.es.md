@@ -1,7 +1,7 @@
 ---
-title: Hyundai Kona Standard Range galería
+title: Galería de Hyundai Kona Standard Range
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Hyundai Kona Standard Range. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Hyundai Kona Standard Range. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

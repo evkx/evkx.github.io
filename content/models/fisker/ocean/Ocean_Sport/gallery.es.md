@@ -1,7 +1,7 @@
 ---
-title: Fisker Ocean Sport galería
+title: Galería de Fisker Ocean Sport
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Fisker Ocean Sport. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Fisker Ocean Sport. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

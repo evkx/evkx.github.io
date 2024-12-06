@@ -1,7 +1,7 @@
 ---
-title: BMW iX1 xDrive30 galería
+title: Galería de BMW iX1 xDrive30
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BMW iX1 xDrive30. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BMW iX1 xDrive30. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

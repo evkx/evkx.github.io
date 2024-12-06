@@ -1,5 +1,5 @@
 ---
-title: CUPRA BORN VZ reseñas
+title: Reseñas de CUPRA BORN VZ
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

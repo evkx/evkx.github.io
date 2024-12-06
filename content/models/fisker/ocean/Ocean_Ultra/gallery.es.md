@@ -1,7 +1,7 @@
 ---
-title: Fisker Ocean Ultra galería
+title: Galería de Fisker Ocean Ultra
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Fisker Ocean Ultra. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Fisker Ocean Ultra. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

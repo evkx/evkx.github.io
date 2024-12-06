@@ -1,14 +1,14 @@
 ---
-title: Tesla Model Y Standard Range curva de carga y rendimiento
+title: Curva de carga y rendimiento de Tesla Model Y Standard Range
 linktitle: "Curva de carga"
-description: "A continuación se muestra la curva de carga para Tesla Model Y Standard Range, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
+description: "A continuación se muestra la curva de carga para Tesla Model Y Standard Range, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de rango y tiempo proporcionan detalles completos sobre el rendimiento de carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Este modelo está disponible con varias baterías. A continuación encontrará el rendimiento de los diferentes paquetes de baterías.
+Este modelo está disponible con múltiples baterías. A continuación, encontrará el rendimiento de los diferentes paquetes de baterías.
 
 ### 60 kWh CATL LFP Europa/China market
 
@@ -62,7 +62,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				2,88
@@ -86,7 +86,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				87,3kW
@@ -119,7 +119,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				 52 m 49 s
@@ -170,7 +170,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				7,1 km (4,4 mi)
@@ -187,7 +187,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				6,7 km (4,2 mi)
@@ -204,7 +204,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				9,4 km (5,8 mi)
@@ -224,7 +224,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -242,7 +242,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -1720,7 +1720,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				2,95
@@ -1744,7 +1744,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				110,8kW
@@ -1777,7 +1777,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				 37 m 37 s
@@ -1828,7 +1828,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				10,0 km (6,2 mi)
@@ -1845,7 +1845,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				9,6 km (6,0 mi)
@@ -1862,7 +1862,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				14,4 km (8,9 mi)
@@ -1882,7 +1882,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -1900,7 +1900,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -3378,7 +3378,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				3,16
@@ -3402,7 +3402,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				81,0kW
@@ -3435,7 +3435,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				1 h 25 m 55 s
@@ -3486,7 +3486,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				5,5 km (3,4 mi)
@@ -3503,7 +3503,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				5,1 km (3,2 mi)
@@ -3520,7 +3520,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				7,9 km (4,9 mi)
@@ -3540,7 +3540,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -3558,7 +3558,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -5036,7 +5036,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				2,3
@@ -5060,7 +5060,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				109,3kW
@@ -5093,7 +5093,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				 41 m 1 s
@@ -5144,7 +5144,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				11,4 km (7,1 mi)
@@ -5161,7 +5161,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				11,0 km (6,8 mi)
@@ -5178,7 +5178,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				13,7 km (8,5 mi)
@@ -5198,7 +5198,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -5216,7 +5216,7 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -6643,4 +6643,4 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomía" f_url="../specifications/" f_title="Especificaciones" >}}

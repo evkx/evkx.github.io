@@ -1,7 +1,7 @@
 ---
-title: Citroën ë-C4 X galería
+title: Galería de Citroën ë-C4 X
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Citroën ë-C4 X. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Citroën ë-C4 X. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

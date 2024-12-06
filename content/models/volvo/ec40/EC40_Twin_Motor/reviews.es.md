@@ -1,5 +1,5 @@
 ---
-title: Volvo EC40 Twin Motor reseñas
+title: Reseñas de Volvo EC40 Twin Motor
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

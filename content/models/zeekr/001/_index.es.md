@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001
 linktitle: "001"
-description: "Consulta a continuación los detalles de las diferentes variantes de Zeekr 001"
+description: "Vea a continuación los detalles de las diferentes variantes de Zeekr 001"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,7 +16,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="001_fr/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="001_fr/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="001_fr/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_fr/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_fr/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_fr/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -35,7 +35,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="001_long_range_rwd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="001_long_range_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="001_long_range_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_long_range_rwd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_long_range_rwd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_long_range_rwd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -54,7 +54,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="001_performance_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="001_performance_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="001_performance_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_performance_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_performance_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_performance_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -73,7 +73,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="001_privilege_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="001_privilege_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="001_privilege_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_privilege_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_privilege_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="001_privilege_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>

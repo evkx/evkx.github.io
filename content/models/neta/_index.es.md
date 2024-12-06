@@ -1,5 +1,5 @@
 ---
-title: Neta modelos de vehículos eléctricos
+title: Modelos EV de Neta
 linktitle: "Neta"
 description: "Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Neta GT es un Coupé disponible en 1 variantes.
+Neta GT es un cupé disponible en 1 variantes.
 </p>
 	<a href="gt/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
-title: BYD Seal AWD galería
+title: Galería de BYD Seal AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BYD Seal AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BYD Seal AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

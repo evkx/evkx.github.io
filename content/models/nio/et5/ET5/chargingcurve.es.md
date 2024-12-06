@@ -1,14 +1,14 @@
 ---
-title: Nio ET5 curva de carga y rendimiento
+title: Curva de carga y rendimiento de Nio ET5
 linktitle: "Curva de carga"
-description: "A continuación se muestra la curva de carga para Nio ET5, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
+description: "A continuación se muestra la curva de carga para Nio ET5, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de rango y tiempo proporcionan detalles completos sobre el rendimiento de carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Este modelo está disponible con varias baterías. A continuación encontrará el rendimiento de los diferentes paquetes de baterías.
+Este modelo está disponible con múltiples baterías. A continuación, encontrará el rendimiento de los diferentes paquetes de baterías.
 
 ### 100 kWh 100kWh
 
@@ -62,7 +62,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				1,27
@@ -86,7 +86,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				84,4kW
@@ -119,7 +119,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				1 h 16 m 57 s
@@ -170,7 +170,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				?
@@ -187,7 +187,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				?
@@ -204,7 +204,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				?
@@ -224,7 +224,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -242,7 +242,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -1720,7 +1720,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				1,45
@@ -1744,7 +1744,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				75,3kW
@@ -1777,7 +1777,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				1 h 6 m 7 s
@@ -1828,7 +1828,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				?
@@ -1845,7 +1845,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				?
@@ -1862,7 +1862,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				?
@@ -1882,7 +1882,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -1900,7 +1900,7 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -3327,4 +3327,4 @@ Nio ET5 tiene calefacción de batería, lo que facilita la carga a una temperatu
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomía" f_url="../specifications/" f_title="Especificaciones" >}}

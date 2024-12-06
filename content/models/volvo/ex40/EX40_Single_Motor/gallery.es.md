@@ -1,7 +1,7 @@
 ---
-title: Volvo EX40 Single Motor galería
+title: Galería de Volvo EX40 Single Motor
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volvo EX40 Single Motor. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volvo EX40 Single Motor. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

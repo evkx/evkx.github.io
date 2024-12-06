@@ -1,7 +1,7 @@
 ---
-title: Volvo EC40 Twin Motor galería
+title: Galería de Volvo EC40 Twin Motor
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volvo EC40 Twin Motor. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volvo EC40 Twin Motor. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

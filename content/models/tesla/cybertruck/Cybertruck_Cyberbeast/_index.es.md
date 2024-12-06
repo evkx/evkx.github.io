@@ -1,7 +1,7 @@
 ---
 title: Tesla Cybertruck Cyberbeast
 linktitle: "Cybertruck Cyberbeast"
-description: "Tesla Cybertruck Cyberbeast es una camioneta totalmente eléctrica con un EPA alcance de hasta 515 km (320 millas). EVKX.net tiene todos los detalles."
+description: "Tesla Cybertruck Cyberbeast es una camioneta pickup eléctrica con una autonomía EPA de hasta 515 km (320 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,80 +11,80 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-Hemos separado nuestro artículo Tesla Cybertruck Cyberbeast en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Tesla Cybertruck Cyberbeast entrega una impresionante potencia máxima de 630 kW (857 hp) y un enorme torque de 930 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,7 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 209 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
+El Tesla Cybertruck Cyberbeast ofrece una impresionante potencia máxima de 630 kW (857 hp / 845 bhp) y un par total de 930 Nm (686 lb-ft). Este potente vehículo puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 2,7 segundos, mostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 209 km/h (130 mph), lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 123,0 kWh y una capacidad neta utilizable de 122,5 kWh, proporcionando un buffer de 0,5 kWh (0,4%) para la protección de la batería. Operando a un voltaje nominal de 710 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 123,0 kWh y una capacidad neta utilizable de 122,5 kWh, proporcionando un buffer de 0,5 kWh (0,4%) para la protección de la batería. Operando a un voltaje nominal de 710 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 515 km con una tasa de consumo de energía de 23,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 320 millas (515 km) con una tasa de consumo de energía de 2,6 millas por kWh. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 78 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 37%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 154kW. Cada sesión de carga tardaría 18 minutos y 38 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 250 kW. Cargar del 0% al 100% toma aproximadamente 78 minutos, mientras que un escenario más típico del 10% al 80% toma 42 minutos con una velocidad de carga promedio de 121 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 0% al 37%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 154 kW, con cada sesión de carga tomando aproximadamente 18 minutos y 38 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30,0 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 30 minutos. Este viaje requeriría dos paradas de carga del 0% al 37%, con un tiempo total de carga de 71 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 30,0 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 30 minutos, requiriendo cuatro paradas de carga del 0% al 37%, totalizando 71 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 11 horas y 8 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 11 horas y 8 minutos usando una configuración doméstica.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en la [esquina trasera izquierda](../../../../technology/charging/connectors/#rear-corner). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**NACS**](../../../../technology/charging/connectors/#nacs) para Norteamérica y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) para Europa. Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está convenientemente ubicado en la [esquina trasera izquierda](../../../../technology/charging/connectors/#rear-corner) del vehículo, facilitando el acceso cuando se retrocede en las estaciones de carga. Los tipos de conectores varían entre diferentes mercados. Este modelo utiliza [**NACS**](../../../../technology/charging/connectors/#nacs) para América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) para Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Tesla Cybertruck Cyberbeast tiene un sistema de tracción total sostenido por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/) en el eje delantero y [Motores de inducción] (../../../../technology/motors/asm/) en el eje trasero.
+El Tesla Cybertruck Cyberbeast tiene un sistema de tracción en las cuatro ruedas soportado por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/) en el eje delantero y [Motores de Inducción](../../../../technology/motors/asm/) en el eje trasero.
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 138 mm y la máxima es 442 mm.
+La suspensión delantera es de [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es completamente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar manual y automáticamente. La distancia mínima al suelo es de 138 mm, y la máxima es de 442 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Tesla Cybertruck Cyberbeast. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La dirección dinámica es una característica estándar en el Tesla Cybertruck Cyberbeast, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados. Además, la dirección en las ruedas traseras está disponible como una característica una característica estándar. La dirección en las ruedas traseras reduce el círculo de giro cuando se va despacio.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
+El Tesla Cybertruck Cyberbeast está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 355 mm, mientras que los discos traseros son de 355 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Este modelo ofrece tres modos de parada para la conducción con un solo pedal: <ul><li>**El modo Hold** detiene completamente el vehículo utilizando frenos de fricción</li><li>**El modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural</li><li>**El modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
+El [frenado regenerativo](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o el deslizamiento no están disponibles aquí. Este modelo ofrece tres modos de parada para la conducción con un solo pedal: <ul><li>**Modo Hold** detiene el vehículo completamente utilizando frenos de fricción</li><li>**Modo Roll** permite que el vehículo ruede hasta detenerse naturalmente</li><li>**Modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Tesla Cybertruck Cyberbeast, con dimensiones de 5682 mm de largo, 2199 mm de ancho y 1790 mm de alto, destaca en la categoría de camionetas de tamaño completo, ofreciendo un espacio, potencia y capacidad excepcionales. El Tesla Cybertruck Cyberbeast está disponible en un total de 3 colores de pintura sólidos.
+El Tesla Cybertruck Cyberbeast, con dimensiones de 5682 mm de longitud, 2199 mm de ancho y 1790 mm de altura, se destaca en la categoría de camionetas de tamaño completo, ofreciendo un espacio, potencia y capacidad excepcionales. El Tesla Cybertruck Cyberbeast está disponible en un total de 3 colores de pintura sólidos.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Tesla Cybertruck Cyberbeast, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el Tesla Cybertruck Cyberbeast, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 285/65 en llantas de 20
+- 285/65 neumáticos en llantas de 20"
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
-Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
+Solo hay una opción de techo para este modelo. El techo estándar incluye un gran techo panorámico de vidrio que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
-Las ventanas del pilar B y la parte trasera están tintadas.
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/exterior_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2001"  >}}
 
@@ -94,59 +94,59 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ### Asientos
 
-El Tesla Cybertruck Cyberbeast tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Tesla Cybertruck Cyberbeast acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Tesla Cybertruck Cyberbeast ofrece un único tipo de asiento delantero.
+El Tesla Cybertruck Cyberbeast ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
-- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zona:** Soporta el control de una sola zona compartida para todo el coche.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Tesla Cybertruck Cyberbeast incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Función de Entrada Fácil:** Mueve el asiento del conductor para facilitar la entrada al automóvil.
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Tesla Cybertruck Cyberbeast tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+El Tesla Cybertruck Cyberbeast tiene una sola pantalla para el conductor. El centro del tablero tiene una sola [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) que sirve como la pantalla principal para la información del vehículo y las funciones de infoentretenimiento.
 
 Detalles clave de la pantalla:
 
-- La touch pantalla en el centro del tablero mide 18,5 pulgadas de tamaño
+- La pantalla touch en el centro del tablero mide 18,5 pulgadas.
 
-El modelo no tiene head-up display.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
@@ -154,93 +154,93 @@ El modelo no tiene head-up display.
 
 El Tesla Cybertruck Cyberbeast está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el Tesla Cybertruck Cyberbeast.
+El Tesla Cybertruck Cyberbeast viene equipado con una opción de sistema de sonido:
 
-- Con el Tesla Premium Sound, obtienes 17 parlantes con una salida máxima del sistema de 560 vatios.
+- **Tesla Premium Sound:** Cuenta con 17 altavoces y ofrece una potencia máxima de 560 vatios.
 
 ## Luces
 
-Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
+El Tesla Cybertruck Cyberbeast viene equipado con faros LED Matrix avanzados. Este sistema adaptativo divide el haz de luz tradicional en múltiples rayos más pequeños, permitiendo que el controlador de luz los encienda y apague selectivamente para evitar deslumbrar a otros conductores. Para mayor seguridad, los faros también incluyen luces de giro que iluminan el lateral al girar.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/headlights_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Tesla Cybertruck Cyberbeast incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Tesla Cybertruck Cyberbeast cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Tesla Cybertruck Cyberbeast, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Tesla Cybertruck Cyberbeast, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
 ### Automatización de la Conducción
 
-Tesla Cybertruck Cyberbeast ofrece [automatización de la conducción en niveles 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El Tesla Cybertruck Cyberbeast ofrece [automatización de la conducción en niveles 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema estándar Basic Autopilot de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Basic Autopilot de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-Con el sistema opcional Enhanced Autopilot de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional Enhanced Autopilot de nivel 2, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/).
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Con el sistema opcional Full Self-Driving Capability de nivel 3, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional Full Self-Driving Capability de nivel 3, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
 - Control de semáforos - sigue los semáforos.
-- Control de señales de stop: sigue las señales de stop.
+- Control de señales de stop - sigue las señales de stop.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Tesla Cybertruck Cyberbeast está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Tesla Cybertruck Cyberbeast está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-La caja del camión ofrece una capacidad de carga de 1897,23 litros. Tiene un ancho de 1295 mm  y una longitud de 1849 mm, con un peso máximo de carga de 1134 kg. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 201 litros.
+La caja de la camioneta ofrece una capacidad de carga de 1897,23 litros (67,0 pies cúbicos). Tiene un ancho de 1295 mm (51,0 pulgadas) y una longitud de 1849 mm (72,8 pulgadas), con un peso máximo de carga de 1134 kg (2500,0 libras). En el techo, puede cargar hasta 100 kg (220,5 libras). Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 201 litros (7,1 pies cúbicos).
 
-El peso máximo del vehículo es 4159 kg, con un peso base de 3104 kg. Esto permite una carga máxima de 1055 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 4159 kg (9169 libras), con un peso base de 3104 kg (6843 libras). Esto permite una carga máxima de 1055 kg (2326 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Un enganche es equipo estándar en este modelo. El peso máximo total en un tráiler con freno es de 4990, y en uno sin freno es de 750 kg.
+Un enganche de remolque es equipo estándar en este modelo. El peso máximo total en un remolque con freno es de 4990 kg, y en un remolque sin freno, es de 750 kg (11000/1653 lbs).
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 30.11.2023 y las entregas comenzaron en November 2023. Este modelo sólo está disponible en Norteamérica.
-{{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Rango" >}}
+El Tesla Cybertruck Cyberbeast tuvo su estreno mundial el 30.11.2023, con entregas comenzando en November 2023. Tenga en cuenta que este modelo está disponible exclusivamente en América del Norte.
+{{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Autonomía" >}}

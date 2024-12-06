@@ -1,7 +1,7 @@
 ---
-title: Hongqi E-HS9 Exclusive+ galería
+title: Galería de Hongqi E-HS9 Exclusive+
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Hongqi E-HS9 Exclusive+. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Hongqi E-HS9 Exclusive+. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

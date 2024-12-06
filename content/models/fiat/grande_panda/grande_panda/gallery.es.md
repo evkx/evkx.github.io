@@ -1,7 +1,7 @@
 ---
-title: Fiat Grande Panda galería
+title: Galería de Fiat Grande Panda
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Fiat Grande Panda. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Fiat Grande Panda. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

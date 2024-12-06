@@ -1,5 +1,5 @@
 ---
-title: Audi RS e-tron GT performance reseñas
+title: Reseñas de Audi RS e-tron GT performance
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

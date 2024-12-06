@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: "Spectre"
-description: "Rolls-Royce Spectre es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 530 km (329 millas). EVKX.net tiene todos los detalles."
+description: "Rolls-Royce Spectre es un sedán eléctrico de lujo con una autonomía WLTP de hasta 530 km (329 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,74 +11,74 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1999"  >}}
 
-Hemos separado nuestro artículo Rolls-Royce Spectre en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Rolls-Royce Spectre impresiona con una potencia máxima de 430 kW (585 hp) y un impresionante par total de 900 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,5 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
+El Rolls-Royce Spectre ofrece una impresionante potencia máxima de 430 kW (585 hp / 577 bhp) y un par total de 900 Nm (664 lb-ft). Este vehículo de alto rendimiento puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 4,5 segundos y alcanza una velocidad máxima de 250 km/h (155 mph), destacándose en su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
 La batería de alta capacidad tiene una capacidad bruta de 105,7 kWh y una capacidad neta utilizable de 102,0 kWh, proporcionando un buffer de 3,7 kWh (3,5%) para la protección de la batería. Con un voltaje nominal de 376,4 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 530 km, con una tasa de consumo de energía de 19,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 530 km (329 millas), con una tasa de consumo de energía de 19,2 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 205kW. Una carga completa del 0 al 100 % tardaría 73 minutos, mientras que un escenario más común del 10 al 80 % tardaría 37 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 130kW. Cada sesión de carga tardaría 21 minutos y 15 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 205 kW. Cargar del 0% al 100% toma aproximadamente 73 minutos, mientras que un escenario más típico del 10% al 80% toma 37 minutos con una velocidad de carga promedio de 116 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 0% al 45%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 130 kW, con cada sesión de carga tomando aproximadamente 21 minutos y 15 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 26 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 34 minutos. Este viaje requeriría dos paradas de carga del 1% al 40%, con un tiempo total de carga de 74 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 26 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 34 minutos, requiriendo cuatro paradas de carga del 1% al 40%, totalizando 74 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 16 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 9 horas y 16 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Rolls-Royce Spectre tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+El Rolls-Royce Spectre cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores Síncronos de Rotor Bobinado](../../../../technology/motors/wrsm/).
 
 ### Suspensión
 
-La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 193 mm y la máxima es 223 mm.
+La suspensión es completamente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar manual y automáticamente. La distancia mínima al suelo es de 193 mm, y la máxima es de 223 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Rolls-Royce Spectre. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La dirección dinámica es una característica estándar en el Rolls-Royce Spectre, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados. Además, la dirección en las ruedas traseras está disponible como una característica una característica estándar. La dirección en las ruedas traseras reduce el círculo de giro cuando se va despacio.
 
 ### Frenos
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene el coche completamente utilizando frenos de fricción.
 
 ## Exterior
 
-El Rolls-Royce Spectre, con dimensiones de 5475 mm de longitud, 2017 mm de anchura y 1573 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Rolls-Royce Spectre, con dimensiones de 5475 mm de longitud, 2017 mm de ancho y 1573 mm de altura, pertenece al segmento de coches F, también conocidos como coches de lujo o coches de lujo de tamaño completo, que representan el pináculo del lujo automotriz, el rendimiento y la tecnología. Son típicamente sedanes grandes o limusinas y están diseñados para ofrecer el máximo en comodidad, prestigio y características avanzadas. Puede elegir entre 8 colores de pintura diferentes al ordenar este modelo.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Rolls-Royce Spectre, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el Rolls-Royce Spectre, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 255/50 en llantas de 23" delanteras y neumáticos 275/40 en llantas de 23" traseras
+- 255/50 neumáticos en llantas de 23" delanteras y 275/40 neumáticos en llantas de 23" traseras
 
-El auto tiene dos [puertas suicidas](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera. El cierre suave es la función un estándar para las puertas laterales. Las puertas eléctricas tienen un estándar función para las puertas laterales.
+El automóvil tiene dos [puertas suicidas](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera. El cierre suave es una función una característica estándar para las puertas laterales. Las puertas laterales tienen una función de apertura eléctrica una característica estándar.
 
-Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
+Solo hay una opción de techo para este modelo. El estándar es solo un techo regular.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -88,73 +88,73 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
-La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
+La disposición de asientos consiste en dos asientos delanteros y dos asientos traseros.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Rolls-Royce Spectre ofrece un único tipo de asiento delantero.
+El Rolls-Royce Spectre ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [Masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
-Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
--  [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
--  [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+-  [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+-  [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Beige [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Red [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../../technology/seats/types/#twin-executive- asientos). Además, las siguientes funcionalidades están disponibles.
+Para la segunda fila, este modelo tiene dos [asientos ejecutivos](../../../../technology/seats/types/#twin-executive-seats). Las funcionalidades adicionales incluyen:
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
+- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-## Características de confort
+## Características de Confort
 
 El Rolls-Royce Spectre incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Rolls-Royce Spectre tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+El Rolls-Royce Spectre tiene múltiples pantallas integradas. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 10,1 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 12,3 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 10,1 pulgadas.
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
@@ -162,87 +162,87 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Rolls-Royce Spectre está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Rolls-Royce Spectre es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Rolls-Royce Spectre es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Rolls-Royce Spectre.
+Puede elegir entre dos sistemas de sonido para el Rolls-Royce Spectre:
 
-- Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios.
-- Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
+- **Harman Kardon Surround Sound system:** Cuenta con 18 altavoces y ofrece una potencia máxima de 655 vatios.
+- **Bowers & Wilkins Diamond surround sound system:** Cuenta con 30 altavoces y ofrece una potencia máxima de 1615 vatios.
 
-El modelo tiene 6 conexiones USB-C de serie.
+Además, el modelo incluye 6 conexiones USB-C como estándar.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Rolls-Royce Spectre.
+Puede elegir entre dos tipos de faros delanteros para el Rolls-Royce Spectre.
 
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix con tecnología láser:** También disponibles como una opción, estos faros combinan las características adaptativas del sistema LED Matrix con la tecnología láser para una mayor iluminación y alcance, ofreciendo una iluminación superior y seguridad.
+- **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+- **Faros LED Matrix con Tecnología Láser:** También disponibles como opción, estos faros combinan las características adaptativas del sistema LED Matrix con tecnología láser para mayor brillo y alcance, ofreciendo una iluminación y seguridad superiores.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Rolls-Royce Spectre incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Rolls-Royce Spectre cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Rolls-Royce Spectre, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Rolls-Royce Spectre, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Rolls-Royce Spectre, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Rolls-Royce Spectre, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Rolls-Royce Spectre, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Opcional en el Rolls-Royce Spectre, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Opcional en el Rolls-Royce Spectre, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Rolls-Royce Spectre, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Rolls-Royce Spectre, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Rolls-Royce Spectre, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Rolls-Royce Spectre, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Rolls-Royce Spectre, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Rolls-Royce Spectre, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar Driving Assistant Professional de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Driving Assistant Professional de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Rolls-Royce Spectre está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Rolls-Royce Spectre está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 500 litros.
+El maletero ofrece una capacidad de carga de 500 litros (17,7 pies cúbicos).
 
-El peso máximo del vehículo es 3400 kg, con un peso base de 2890 kg. Esto permite una carga máxima de 510 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 3400 kg (7496 libras), con un peso base de 2890 kg (6371 libras). Esto permite una carga máxima de 510 kg (1124 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 18.10.2022 y las entregas comenzaron en December 2023.
-{{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Rango" >}}
+El Rolls-Royce Spectre tuvo su estreno mundial el 18.10.2022, con entregas comenzando en December 2023.
+{{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Autonomía" >}}

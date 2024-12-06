@@ -1,5 +1,5 @@
 ---
-title: Genesis GV60 AWD reseñas
+title: Reseñas de Genesis GV60 AWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

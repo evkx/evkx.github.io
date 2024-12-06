@@ -1,7 +1,7 @@
 ---
-title: Alpine A290 GT galería
+title: Galería de Alpine A290 GT
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Alpine A290 GT. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Alpine A290 GT. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

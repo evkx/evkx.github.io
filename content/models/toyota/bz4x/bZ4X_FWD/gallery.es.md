@@ -1,7 +1,7 @@
 ---
-title: Toyota bZ4X FWD galería
+title: Galería de Toyota bZ4X FWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Toyota bZ4X FWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Toyota bZ4X FWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

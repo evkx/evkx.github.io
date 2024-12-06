@@ -1,7 +1,7 @@
 ---
-title: BMW iX2 eDrive20 galería
+title: Galería de BMW iX2 eDrive20
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BMW iX2 eDrive20. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BMW iX2 eDrive20. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

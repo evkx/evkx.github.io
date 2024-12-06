@@ -1,7 +1,7 @@
 ---
-title: Lucid Gravity Grand Touring galería
+title: Galería de Lucid Gravity Grand Touring
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Lucid Gravity Grand Touring. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Lucid Gravity Grand Touring. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

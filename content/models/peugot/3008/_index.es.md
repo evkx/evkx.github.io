@@ -1,7 +1,7 @@
 ---
 title: Peugot 3008
 linktitle: "3008"
-description: "Consulta a continuación los detalles de las diferentes variantes de Peugot 3008"
+description: "Vea a continuación los detalles de las diferentes variantes de Peugot 3008"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,7 +16,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="e-3008_long_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="e-3008_long_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-3008_long_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-3008_long_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-3008_long_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-3008_long_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -35,7 +35,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="e-3008/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="e-3008/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-3008/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-3008/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-3008/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-3008/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>

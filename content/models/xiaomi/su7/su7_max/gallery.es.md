@@ -1,7 +1,7 @@
 ---
-title: Xiaomi SU7 Max galería
+title: Galería de Xiaomi SU7 Max
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Xiaomi SU7 Max. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Xiaomi SU7 Max. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

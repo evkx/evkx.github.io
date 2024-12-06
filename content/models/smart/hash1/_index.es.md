@@ -1,7 +1,7 @@
 ---
 title: Smart #1
 linktitle: "#1"
-description: "Consulta a continuación los detalles de las diferentes variantes de Smart #1"
+description: "Vea a continuación los detalles de las diferentes variantes de Smart #1"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,7 +16,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="hash1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="hash1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -35,7 +35,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
@@ -54,7 +54,7 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
-				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Autonomía</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
 				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>

@@ -1,5 +1,5 @@
 ---
-title: SKODA Enyaq iV80 reseñas
+title: Reseñas de SKODA Enyaq iV80
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

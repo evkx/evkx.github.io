@@ -1,5 +1,5 @@
 ---
-title: Kia EV9 GT reseñas
+title: Reseñas de Kia EV9 GT
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

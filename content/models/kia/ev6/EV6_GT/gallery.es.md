@@ -1,7 +1,7 @@
 ---
-title: Kia EV6 GT galería
+title: Galería de Kia EV6 GT
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Kia EV6 GT. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Kia EV6 GT. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

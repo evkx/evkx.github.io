@@ -1,5 +1,5 @@
 ---
-title: BMW i5 xDrive40 reseñas
+title: Reseñas de BMW i5 xDrive40
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

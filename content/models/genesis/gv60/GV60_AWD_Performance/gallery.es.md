@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 AWD Performance galería
+title: Galería de Genesis GV60 AWD Performance
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Genesis GV60 AWD Performance. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Genesis GV60 AWD Performance. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

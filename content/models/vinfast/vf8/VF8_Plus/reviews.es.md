@@ -1,5 +1,5 @@
 ---
-title: VinFast VF8 Plus reseñas
+title: Reseñas de VinFast VF8 Plus
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

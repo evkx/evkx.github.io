@@ -1,5 +1,5 @@
 ---
-title: GMC Hummer EV Edition 1 Pickup reseñas
+title: Reseñas de GMC Hummer EV Edition 1 Pickup
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

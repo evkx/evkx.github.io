@@ -1,5 +1,5 @@
 ---
-title: BYD Dolphin 60.4kWh reseñas
+title: Reseñas de BYD Dolphin 60.4kWh
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

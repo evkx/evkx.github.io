@@ -1,7 +1,7 @@
 ---
-title: Tesla Cybertruck Cyberbeast galería
+title: Galería de Tesla Cybertruck Cyberbeast
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Tesla Cybertruck Cyberbeast. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Tesla Cybertruck Cyberbeast. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

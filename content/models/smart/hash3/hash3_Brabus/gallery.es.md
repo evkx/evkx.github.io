@@ -1,7 +1,7 @@
 ---
-title: Smart #3 Brabus galería
+title: Galería de Smart #3 Brabus
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Smart #3 Brabus. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Smart #3 Brabus. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

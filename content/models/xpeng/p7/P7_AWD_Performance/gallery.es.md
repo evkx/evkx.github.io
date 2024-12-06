@@ -1,7 +1,7 @@
 ---
-title: XPENG P7 AWD Performance galería
+title: Galería de XPENG P7 AWD Performance
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes XPENG P7 AWD Performance. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de XPENG P7 AWD Performance. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

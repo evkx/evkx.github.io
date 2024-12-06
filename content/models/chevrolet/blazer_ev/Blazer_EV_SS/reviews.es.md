@@ -1,5 +1,5 @@
 ---
-title: Chevrolet Blazer EV SS reseñas
+title: Reseñas de Chevrolet Blazer EV SS
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

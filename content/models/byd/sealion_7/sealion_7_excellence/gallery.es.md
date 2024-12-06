@@ -1,7 +1,7 @@
 ---
-title: BYD Sealion 7 Excellence galería
+title: Galería de BYD Sealion 7 Excellence
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BYD Sealion 7 Excellence. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BYD Sealion 7 Excellence. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

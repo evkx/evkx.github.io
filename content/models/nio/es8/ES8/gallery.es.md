@@ -1,7 +1,7 @@
 ---
-title: Nio ES8 galería
+title: Galería de Nio ES8
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Nio ES8. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Nio ES8. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

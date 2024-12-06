@@ -1,5 +1,5 @@
 ---
-title: GMC Sierra EV Denali Edition 1 reseñas
+title: Reseñas de GMC Sierra EV Denali Edition 1
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

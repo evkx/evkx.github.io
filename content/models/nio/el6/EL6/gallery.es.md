@@ -1,7 +1,7 @@
 ---
-title: Nio EL6 galería
+title: Galería de Nio EL6
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Nio EL6. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Nio EL6. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

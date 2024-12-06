@@ -1,5 +1,5 @@
 ---
-title: Li Auto modelos de vehículos eléctricos
+title: Modelos EV de Li Auto
 linktitle: "Li Auto"
 description: "Li Auto Inc., a prominent player in China’s electric vehicle (EV) market, has an exciting roadmap for the future. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Li Auto MEGA es un monovolumen premium disponible en 1 variantes.
+Li Auto MEGA es un MPV premium disponible en 1 variantes.
 </p>
 	<a href="mega/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

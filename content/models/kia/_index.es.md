@@ -1,5 +1,5 @@
 ---
-title: Kia modelos de vehículos eléctricos
+title: Modelos EV de Kia
 linktitle: "Kia"
 description: "Kia, un fabricante de automóviles surcoreano fundado en 1944, se ha convertido en un líder global conocido por su innovación y calidad. Con un fuerte enfoque en la movilidad eléctrica, Kia está ampliando su gama de vehículos eléctricos, con el objetivo de la sostenibilidad y la tecnología de vanguardia. El compromiso de la marca con vehículos accesibles y ecológicos la posiciona como un actor clave en el mercado de vehículos eléctricos."
 weight: 30
@@ -41,7 +41,7 @@ Kia EV3 es un crossover disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV6 es un SUV Coupé disponible en 6 variantes.
+Kia EV6 es un SUV cupé disponible en 6 variantes.
 </p>
 	<a href="ev6/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

@@ -1,5 +1,5 @@
 ---
-title: Porsche Taycan GTS Sport Turismo reseñas
+title: Reseñas de Porsche Taycan GTS Sport Turismo
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

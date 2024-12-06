@@ -1,7 +1,7 @@
 ---
-title: VinFast VF8 Plus galería
+title: Galería de VinFast VF8 Plus
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes VinFast VF8 Plus. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de VinFast VF8 Plus. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ EQC 400 4MATIC reseñas
+title: Reseñas de Mercedes-EQ EQC 400 4MATIC
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

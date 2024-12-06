@@ -1,7 +1,7 @@
 ---
-title: SKODA Enyaq iV80 galería
+title: Galería de SKODA Enyaq iV80
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes SKODA Enyaq iV80. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de SKODA Enyaq iV80. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

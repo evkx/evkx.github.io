@@ -1,5 +1,5 @@
 ---
-title: Porsche Taycan GTS (GEN1) reseñas
+title: Reseñas de Porsche Taycan GTS (GEN1)
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

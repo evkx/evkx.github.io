@@ -1,5 +1,5 @@
 ---
-title: Lucid Air Dream Edition Range reseñas
+title: Reseñas de Lucid Air Dream Edition Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

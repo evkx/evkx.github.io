@@ -1,5 +1,5 @@
 ---
-title: SKODA Elroq 50 reseñas
+title: Reseñas de SKODA Elroq 50
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

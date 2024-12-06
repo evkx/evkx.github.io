@@ -1,5 +1,5 @@
 ---
-title: Renault 5 E-Tech 52kWh 150hp reseñas
+title: Reseñas de Renault 5 E-Tech 52kWh 150hp
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

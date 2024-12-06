@@ -1,7 +1,7 @@
 ---
-title: Cadillac VISTIQ AWD curva de carga y rendimiento
+title: Curva de carga y rendimiento de Cadillac VISTIQ AWD
 linktitle: "Curva de carga"
-description: "A continuación se muestra la curva de carga para Cadillac VISTIQ AWD, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
+description: "A continuación se muestra la curva de carga para Cadillac VISTIQ AWD, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de rango y tiempo proporcionan detalles completos sobre el rendimiento de carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				1,64
@@ -82,7 +82,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				119,3kW
@@ -115,7 +115,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				3 h 9 m 35 s
@@ -166,7 +166,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				2,8 km (1,7 mi)
@@ -183,7 +183,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				2,6 km (1,6 mi)
@@ -200,7 +200,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				10,8 km (6,7 mi)
@@ -220,7 +220,7 @@ navicon: bi-battery-charging
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Cadillac VISTIQ AWD tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -238,7 +238,7 @@ Cadillac VISTIQ AWD tiene calefacción de batería, lo que facilita la carga a u
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -1665,4 +1665,4 @@ Cadillac VISTIQ AWD tiene calefacción de batería, lo que facilita la carga a u
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomía" f_url="../specifications/" f_title="Especificaciones" >}}

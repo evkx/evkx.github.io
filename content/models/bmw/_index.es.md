@@ -1,5 +1,5 @@
 ---
-title: BMW modelos de vehículos eléctricos
+title: Modelos EV de BMW
 linktitle: "BMW"
 description: "Electric drivetrains are a prerequisite for climate-neutral mobility of the future. This is why the BMW Group is consistently expanding its range of electric vehicles. As early as 2023, the Group will offer at least one fully electric model in virtually all key segments. "
 weight: 30
@@ -41,7 +41,7 @@ BMW i4 es un sedán premium disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 es un sedán/camioneta premium disponible en 6 variantes.
+BMW i5 es un sedán/familiar premium disponible en 6 variantes.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -101,7 +101,7 @@ BMW iX1 es un SUV premium disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW iX2 es un SUV Coupé premium disponible en 2 variantes.
+BMW iX2 es un SUV cupé premium disponible en 2 variantes.
 </p>
 	<a href="ix2/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

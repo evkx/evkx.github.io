@@ -1,7 +1,7 @@
 ---
-title: Volkswagen ID. Buzz Pro LWB galería
+title: Galería de Volkswagen ID. Buzz Pro LWB
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volkswagen ID. Buzz Pro LWB. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volkswagen ID. Buzz Pro LWB. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

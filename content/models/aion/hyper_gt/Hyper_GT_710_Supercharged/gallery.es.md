@@ -1,7 +1,7 @@
 ---
-title: Aion Hyper GT 710 Supercharged galería
+title: Galería de Aion Hyper GT 710 Supercharged
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Aion Hyper GT 710 Supercharged. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Aion Hyper GT 710 Supercharged. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

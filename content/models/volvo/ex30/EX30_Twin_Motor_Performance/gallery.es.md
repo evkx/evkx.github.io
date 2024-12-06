@@ -1,7 +1,7 @@
 ---
-title: Volvo EX30 Twin Motor Performance galería
+title: Galería de Volvo EX30 Twin Motor Performance
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volvo EX30 Twin Motor Performance. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volvo EX30 Twin Motor Performance. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

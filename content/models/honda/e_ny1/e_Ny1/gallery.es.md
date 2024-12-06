@@ -1,7 +1,7 @@
 ---
-title: Honda e:Ny1 galería
+title: Galería de Honda e:Ny1
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Honda e:Ny1. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Honda e:Ny1. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID. Buzz Pro LWB reseñas
+title: Reseñas de Volkswagen ID. Buzz Pro LWB
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

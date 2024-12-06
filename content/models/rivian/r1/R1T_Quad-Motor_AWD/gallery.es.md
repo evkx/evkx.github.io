@@ -1,7 +1,7 @@
 ---
-title: Rivian R1T Quad-Motor AWD galería
+title: Galería de Rivian R1T Quad-Motor AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Rivian R1T Quad-Motor AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Rivian R1T Quad-Motor AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

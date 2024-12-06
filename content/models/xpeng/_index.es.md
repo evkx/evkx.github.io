@@ -1,5 +1,5 @@
 ---
-title: XPENG modelos de vehículos eléctricos
+title: Modelos EV de XPENG
 linktitle: "XPENG"
 description: "XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. "
 weight: 30
@@ -101,7 +101,7 @@ XPENG P7 es un sedán disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG X9 es un monovolumen disponible en 1 variantes.
+XPENG X9 es un MPV disponible en 1 variantes.
 </p>
 	<a href="x9/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

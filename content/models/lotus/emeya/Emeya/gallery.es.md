@@ -1,7 +1,7 @@
 ---
-title: Lotus Emeya galería
+title: Galería de Lotus Emeya
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Lotus Emeya. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Lotus Emeya. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

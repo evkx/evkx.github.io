@@ -1,5 +1,5 @@
 ---
-title: Mini Cooper SE reseñas
+title: Reseñas de Mini Cooper SE
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

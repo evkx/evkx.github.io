@@ -1,7 +1,7 @@
 ---
-title: Seres 5 4WD Premium galería
+title: Galería de Seres 5 4WD Premium
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Seres 5 4WD Premium. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Seres 5 4WD Premium. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

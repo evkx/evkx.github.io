@@ -1,5 +1,5 @@
 ---
-title: Chevrolet modelos de vehículos eléctricos
+title: Modelos EV de Chevrolet
 linktitle: "Chevrolet"
 description: "Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences."
 weight: 30
@@ -56,7 +56,7 @@ Chevrolet Equinox EV es un SUV disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Silverado EV es una camioneta disponible en 3 variantes.
+Chevrolet Silverado EV es una camioneta pickup disponible en 3 variantes.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

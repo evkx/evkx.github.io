@@ -1,5 +1,5 @@
 ---
-title: Porsche modelos de vehículos eléctricos
+title: Modelos EV de Porsche
 linktitle: "Porsche"
 description: "Porsche, conocido por su legado de rendimiento y lujo, ha hecho una transición perfecta a la era eléctrica. Combinando tecnología de vanguardia con diseño icónico, los modelos eléctricos de Porsche, como el Taycan, ofrecen una velocidad emocionante, manejo preciso e innovación sostenible, estableciendo nuevos estándares para los autos deportivos eléctricos."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Macan es un SUV Coupé premium disponible en 4 variantes.
+Porsche Macan es un SUV cupé premium disponible en 4 variantes.
 </p>
 	<a href="macan/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -41,7 +41,7 @@ Porsche Macan es un SUV Coupé premium disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan es un sedán/camioneta de lujo disponible en 28 variantes.
+Porsche Taycan es un sedán/familiar de lujo disponible en 28 variantes.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
-title: Tesla Cybertruck AWD galería
+title: Galería de Tesla Cybertruck AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Tesla Cybertruck AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Tesla Cybertruck AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

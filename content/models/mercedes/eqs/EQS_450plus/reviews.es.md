@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ EQS 450+ reseñas
+title: Reseñas de Mercedes-EQ EQS 450+
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

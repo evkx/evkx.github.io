@@ -1,5 +1,5 @@
 ---
-title: Tesla modelos de vehículos eléctricos
+title: Modelos EV de Tesla
 linktitle: "Tesla"
 description: "Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Cybertruck es una camioneta disponible en 2 variantes.
+Tesla Cybertruck es una camioneta pickup disponible en 2 variantes.
 </p>
 	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -86,7 +86,7 @@ Tesla Model X es un SUV disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model Y es un SUV Coupé disponible en 4 variantes.
+Tesla Model Y es un SUV cupé disponible en 4 variantes.
 </p>
 	<a href="model_y/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

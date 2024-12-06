@@ -1,5 +1,5 @@
 ---
-title: Hyundai modelos de vehículos eléctricos
+title: Modelos EV de Hyundai
 linktitle: "Hyundai"
 description: "Hyundai Motor Company, fundada en 1967 en Corea del Sur, es un fabricante de automóviles global conocido por vehículos asequibles y confiables y un fuerte compromiso con los vehículos eléctricos, con el objetivo de lograr la neutralidad de carbono para 2045."
 weight: 30

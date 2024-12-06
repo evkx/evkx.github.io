@@ -1,5 +1,5 @@
 ---
-title: VOYAH Courage AWD reseñas
+title: Reseñas de VOYAH Courage AWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

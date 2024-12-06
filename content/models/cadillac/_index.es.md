@@ -1,5 +1,5 @@
 ---
-title: Cadillac modelos de vehículos eléctricos
+title: Modelos EV de Cadillac
 linktitle: "Cadillac"
 description: "Cadillac, un pionero en autos de lujo americanos desde 1902, combina herencia con innovación. Como la marca premium de General Motors, Cadillac ahora está impulsando un audaz cambio hacia la electrificación. Con un compromiso con una línea totalmente eléctrica para 2030, la marca se enfoca en tecnología avanzada, sostenibilidad y mantener su atractivo de lujo característico."
 weight: 30

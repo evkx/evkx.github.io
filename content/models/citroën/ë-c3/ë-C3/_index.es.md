@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 es un crossover totalmente eléctrico con un WLTP alcance de hasta 326 km (203 millas). EVKX.net tiene todos los detalles."
+description: "Citroën ë-C3 es un crossover eléctrico con una autonomía WLTP de hasta 326 km (203 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,83 +11,83 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/main_1_st.jpg" title="Citroën ë-C3" width="3000" height="1500"  >}}
 
-Hemos separado nuestro artículo Citroën ë-C3 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Citroën ë-C3 kWh ofrece un rendimiento básico con una potencia máxima de 83 kW (113 hp) y un par total de 120 Nm. Acelera de 0 a 100 km/h en 11 segundos y alcanza una velocidad máxima de 135 km/h, lo que es más comparable a los modelos de entrada de vehículos tradicionales de motor de combustión interna.
+El Citroën ë-C3 kWh ofrece un rendimiento básico con una potencia máxima de 83 kW (113 hp / 111 bhp) y un par total de 120 Nm (89 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 11 segundos y alcanza una velocidad máxima de 135 km/h (84 mph), comparable a los vehículos tradicionales de motor de combustión interna de nivel básico.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 45,0 kWh y una capacidad neta utilizable de 44,0 kWh, proporcionando un buffer de 1,0 kWh (2,2%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 45,0 kWh y una capacidad neta utilizable de 44,0 kWh, proporcionando un buffer de 1,0 kWh (2,2%) para la protección de la batería. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 326 km, con una tasa de consumo de energía de 13,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 326 km (203 millas), con una tasa de consumo de energía de 13,5 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 67 minutos, mientras que un escenario más común del 10 al 80 % tardaría 26 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 13% al 68%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 63kW. Cada sesión de carga tardaría 23 minutos y 57 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 100 kW. Cargar del 0% al 100% toma aproximadamente 67 minutos, mientras que un escenario más típico del 10% al 80% toma 26 minutos con una velocidad de carga promedio de 72 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 13% al 68%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 63 kW, con cada sesión de carga tomando aproximadamente 23 minutos y 57 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 26 minutos. Este viaje requeriría dos paradas de carga del 13% al 69%, con un tiempo total de carga de 187 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 24 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 26 minutos, requiriendo ocho paradas de carga del 13% al 69%, totalizando 187 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 56 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 5 horas y 56 minutos usando una configuración doméstica.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está ubicado en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side), lo que facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Citroën ë-C3 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
+El Citroën ë-C3 tiene un sistema de tracción delantera soportado por un motor en el eje delantero.
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 163 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 163 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Citroën ë-C3. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una característica estándar en el Citroën ë-C3, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+El Citroën ë-C3 está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
+El [frenado regenerativo](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o el deslizamiento no están disponibles aquí. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Citroën ë-C3, con dimensiones de 4015 mm de longitud, 1755 mm de anchura y 1577 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Citroën ë-C3 está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Citroën ë-C3, con dimensiones de 4015 mm de longitud, 1755 mm de ancho y 1577 mm de altura, pertenece al segmento de coches B-SUV, también conocidos como SUV subcompactos o crossovers, que ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Citroën ë-C3 está disponible en un total de 5 colores de pintura, incluidos tanto colores sólidos como metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Citroën ë-C3, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Citroën ë-C3 ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 205/55 en llantas de 16
-- Neumáticos 205/50 en llantas de 17
+- 205/55 neumáticos en llantas de 16"
+- 205/50 neumáticos en llantas de 17"
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate).
 
-Sólo hay un techo para este modelo.
+Solo hay una opción de techo para este modelo.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
 
@@ -97,78 +97,78 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
-El Citroën ë-C3 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Citroën ë-C3 acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-Para la primera fila, el Citroën ë-C3 ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
-Las siguientes funcionalidades están disponibles en el asiento **Start**.
+Las siguientes funcionalidades están disponibles en el asiento **Start**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
-Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
+Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
-- reposacabezas ajustable en altura
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
+- Reposacabezas ajustable en altura
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [tapicería de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
-#### Asientos de la segunda fila
+#### Asientos de la Segunda Fila
 
-Puedes elegir dos tipos de asientos para la segunda fila en el Citroën ë-C3.
+Puede elegir entre dos tipos de asientos para la segunda fila en el Citroën ë-C3.
 
-Las siguientes funcionalidades están disponibles en el asiento **Standard**.
+Las siguientes funcionalidades están disponibles en el asiento **Standard**:
 
-- reposacabezas ajustable en altura
+- Reposacabezas ajustable en altura
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
-Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
+Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**:
 
-- reposacabezas ajustable en altura
+- Reposacabezas ajustable en altura
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [tapicería de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
-- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zona:** Soporta el control de una sola zona compartida para todo el coche.
 
-Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Este modelo no tiene una [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en clima frío en comparación con los modelos con bomba de calor.
 
-## Características de confort
+## Características de Confort
 
 El Citroën ë-C3 incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Citroën ë-C3 tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+El Citroën ë-C3 tiene múltiples pantallas integradas. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 5,0 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 10,3 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 5,0 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 10,3 pulgadas.
 
-El modelo no tiene head-up display.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
@@ -176,52 +176,52 @@ El modelo no tiene head-up display.
 
 El Citroën ë-C3 está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una opción, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Citroën ë-C3 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Citroën ë-C3 es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Citroën ë-C3.
+Puede elegir entre dos sistemas de sonido para el Citroën ë-C3:
 
 - **:** Cuenta con dos altavoces.
 - **Max Sound system:** Cuenta con dos altavoces.
 
-El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+Además, el modelo incluye 2 conexiones USB-C como estándar. Como opción, puede obtener 2 conexiones USB-C adicionales.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/headlights_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Citroën ë-C3 incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Citroën ë-C3 cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Citroën ë-C3, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Citroën ë-C3, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Citroën ë-C3, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Citroën ë-C3, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Citroën ë-C3, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 ### Automatización de la Conducción
 
@@ -232,25 +232,25 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [cámaras](../../../../technology/sensorsandcameras/cameras/) y cuatro [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [cámaras](../../../../technology/sensorsandcameras/cameras/) y cuatro [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Citroën ë-C3 está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estos incluyen:
+El Citroën ë-C3 está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estas incluyen:
 
-- **Acceso manual con llave:** El vehículo utiliza un sistema de llave tradicional, lo que le permite desbloquear y arrancar el coche manualmente con facilidad.
+- **Acceso con Llave Manual:** El vehículo utiliza un sistema de llave tradicional, permitiéndole desbloquear y arrancar el coche manualmente con facilidad.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 310 litros. Con el asiento trasero plegado, esto se expande a 1200 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 310 litros (10,9 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1200 litros (42,4 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras).
 
-El peso máximo del vehículo es 1910 kg, con un peso base de 1416 kg. Esto permite una carga máxima de 494 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 1910 kg (4211 libras), con un peso base de 1416 kg (3122 libras). Esto permite una carga máxima de 494 kg (1089 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 17.10.2023 y se espera que las entregas comiencen en May 2024.
-{{< pagenavigation b_url="../" b_title="Citroën ë-C3" f_url="rangeandconsumption/" f_title="Rango" >}}
+Este modelo hizo su estreno mundial el 17.10.2023, con entregas anticipadas para comenzar en May 2024.
+{{< pagenavigation b_url="../" b_title="Citroën ë-C3" f_url="rangeandconsumption/" f_title="Autonomía" >}}

@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ EQA 250 reseñas
+title: Reseñas de Mercedes-EQ EQA 250
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

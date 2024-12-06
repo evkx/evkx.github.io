@@ -1,5 +1,5 @@
 ---
-title: Lucid Gravity Grand Touring reseñas
+title: Reseñas de Lucid Gravity Grand Touring
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

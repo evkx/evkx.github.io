@@ -1,5 +1,5 @@
 ---
-title: Ford Explorer Extended Range AWD reseñas
+title: Reseñas de Ford Explorer Extended Range AWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

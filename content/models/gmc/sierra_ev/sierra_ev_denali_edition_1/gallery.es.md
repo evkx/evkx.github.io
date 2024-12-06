@@ -1,7 +1,7 @@
 ---
-title: GMC Sierra EV Denali Edition 1 galería
+title: Galería de GMC Sierra EV Denali Edition 1
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes GMC Sierra EV Denali Edition 1. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de GMC Sierra EV Denali Edition 1. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

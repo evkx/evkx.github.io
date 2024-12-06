@@ -1,5 +1,5 @@
 ---
-title: HiPhi Y Performance reseñas
+title: Reseñas de HiPhi Y Performance
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

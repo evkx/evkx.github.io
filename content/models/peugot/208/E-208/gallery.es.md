@@ -1,7 +1,7 @@
 ---
-title: Peugot E-208 galería
+title: Galería de Peugot E-208
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Peugot E-208. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Peugot E-208. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

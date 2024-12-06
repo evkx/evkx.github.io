@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive40
 linktitle: "i4 eDrive40"
-description: "BMW i4 eDrive40 es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 590 km (367 millas). EVKX.net tiene todos los detalles."
+description: "BMW i4 eDrive40 es un sedán eléctrico premium con una autonomía WLTP de hasta 590 km (367 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,84 +11,84 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/main_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="1999"  >}}
 
-Hemos separado nuestro artículo BMW i4 eDrive40 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El BMW i4 eDrive40 ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 430 Nm. Puede acelerar de 0 a 100 km/h en 5,7 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
+El BMW i4 eDrive40 ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp / 335 bhp) y un par total de 430 Nm (317 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 5,7 segundos y alcanza una velocidad máxima de 190 km/h (118 mph), siendo competitivo dentro de su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
 La batería de alta capacidad tiene una capacidad bruta de 83,9 kWh y una capacidad neta utilizable de 80,7 kWh, proporcionando un buffer de 3,2 kWh (3,8%) para la protección de la batería. Con un voltaje nominal de 399 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 590 y 493 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,7 kWh/100 km para el modelo base y 16,4 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 590 a 493 km (367-306 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 13,7 kWh/100 km para el modelo base y 16,4 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 50%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 116kW. Cada sesión de carga tardaría 20 minutos y 39 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de  kW. Cargar del 0% al 100% toma aproximadamente 57 minutos, mientras que un escenario más típico del 10% al 80% toma 30 minutos con una velocidad de carga promedio de 114 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 3% al 50%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 116 kW, con cada sesión de carga tomando aproximadamente 20 minutos y 39 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 18 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 12 minutos. Este viaje requeriría dos paradas de carga del 3% al 45%, con un tiempo total de carga de 53 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 18 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 12 minutos, requiriendo tres paradas de carga del 3% al 45%, totalizando 53 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 20 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 20 minutos usando una configuración doméstica.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2001"  >}}
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-BMW i4 eDrive40 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+El BMW i4 eDrive40 tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Rotor Bobinado](../../../../technology/motors/wrsm/).
 
 ### Suspensión
 
-La suspensión Standard tiene suspensión neumática en el eje trasero que mantiene automáticamente el auto nivelado dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm. La suspensión Adaptive M Suspension tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm.
+La suspensión del Standard tiene suspensión neumática en el eje trasero que mantiene automáticamente el coche nivelado dependiendo del peso de la carga. La distancia al suelo con esta suspensión es de 125 mm. La suspensión del Adaptive M Suspension tiene amortiguación adaptativa en el eje delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el coche nivelado dependiendo del peso de la carga. La distancia al suelo con esta suspensión es de 125 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el BMW i4 eDrive40. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La dirección dinámica es una característica estándar en el BMW i4 eDrive40, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados. Además, la dirección en las ruedas traseras está disponible como una característica una característica estándar. La dirección en las ruedas traseras reduce el círculo de giro cuando se va despacio.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+El BMW i4 eDrive40 está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza cuando es posible y emplea el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos combina frenos físicos solo cuando es necesario. <br /><br/> Otra opción es el modo [**Regeneración en el Pedal del Acelerador**](../../../../technology/regen/#one-pedal-driving) donde el frenado regenerativo se activa cuando el conductor levanta el pie del pedal del acelerador. Este sistema permite que el vehículo disminuya la velocidad y recupere energía sin que el conductor necesite presionar el pedal del freno, una característica a menudo denominada **conducción con un solo pedal**. Puede elegir entre dos modos de parada para la conducción con un solo pedal. El **modo Hold** detiene el vehículo completamente utilizando frenos de fricción, y el **modo Roll** permite que el vehículo ruede hasta detenerse naturalmente.
 
-La potencia regenerativa máxima es de 116 kW.
+La potencia máxima de regeneración es de 116 kW.
 
 ## Exterior
 
-El BMW i4 eDrive40, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BMW i4 eDrive40 está disponible en un total de 11 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El BMW i4 eDrive40, con dimensiones de 4783 mm de longitud, 1852 mm de ancho y 1448 mm de altura, pertenece al segmento de coches D, también conocidos como coches de tamaño medio o familiares, que ofrecen más espacio, comodidad y características que los segmentos más pequeños, haciéndolos adecuados para una variedad de conductores. El BMW i4 eDrive40 está disponible en un total de 11 colores de pintura, incluidos varios llamativos colores metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i4 eDrive40, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El BMW i4 eDrive40 ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 245/45 en llantas de 18" delanteras y neumáticos 255/45 en llantas de 18" traseras
-- Neumáticos 245/40 en llantas de 19" delanteras y neumáticos 255/40 en llantas de 19" traseras
-- Neumáticos 245/35 en llantas de 20" delanteras y neumáticos 255/35 en llantas de 20" traseras
+- 245/45 neumáticos en llantas de 18" delanteras y 255/45 neumáticos en llantas de 18" traseras
+- 245/40 neumáticos en llantas de 19" delanteras y 255/40 neumáticos en llantas de 19" traseras
+- 245/35 neumáticos en llantas de 20" delanteras y 255/35 neumáticos en llantas de 20" traseras
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El coche tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate), lo que hace que el maletero sea mucho más utilizable en comparación con una tapa de maletero tradicional, especialmente para un sedán. El cierre suave es la función un opcional para las puertas laterales. La puerta trasera funciona eléctricamente.
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate), lo que hace que el maletero sea mucho más utilizable en comparación con un portón trasero tradicional, especialmente para un sedán. El cierre suave es una función una opción para las puertas laterales. El portón trasero es de apertura eléctrica.
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El cristal se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este cristal aporta una sensación de interior al coche. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo solar. El vidrio se extiende solo sobre la fila delantera y los ocupantes pueden abrirlo. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2255"  >}}
 
@@ -98,30 +98,30 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
-El BMW i4 eDrive40 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El BMW i4 eDrive40 acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-Para la primera fila, el BMW i4 eDrive40 ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente como opción)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico opcional)
+- [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 
-Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Cognac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Beige [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Red [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Cognac [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 - Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 - Mocha [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Oyster [tapicería de cuero](../../../../technology/seats/materials/#leather)
@@ -137,23 +137,23 @@ Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 - Blue [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-Las siguientes funcionalidades están disponibles en el asiento **M Sport**.
+Las siguientes funcionalidades están disponibles en el asiento **M Sport**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente como opción)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico opcional)
+- [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Cognac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Beige [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Red [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Cognac [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 - Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 - Mocha [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Oyster [tapicería de cuero](../../../../technology/seats/materials/#leather)
@@ -171,125 +171,125 @@ Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 40:20:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay dos opciones de sistema de climatización disponibles:
+Hay dos opciones de sistemas de climatización disponibles:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-## Características de confort
+## Características de Confort
 
 El BMW i4 eDrive40 incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El BMW i4 eDrive40 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+El BMW i4 eDrive40 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño
-- La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño
+- La pantalla  detrás del volante en el lado izquierdo del marco mide 12,3 pulgadas.
+- La pantalla touch en la parte derecha del marco compartido mide 14,9 pulgadas.
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 ### Volante
 
 El BMW i4 eDrive40 está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el BMW i4 eDrive40 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El BMW i4 eDrive40 es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el BMW i4 eDrive40.
+Puede elegir entre dos sistemas de sonido para el BMW i4 eDrive40:
 
-- Con el Hifi Sound system, obtienes diez parlantes con una salida máxima del sistema de 200 vatios.
-- Con el Harman Kardon Surround Sound system, obtienes 17 parlantes con una salida máxima del sistema de 445 vatios.
+- **Hifi Sound system:** Cuenta con diez altavoces y ofrece una potencia máxima de 200 vatios.
+- **Harman Kardon Surround Sound system:** Cuenta con 17 altavoces y ofrece una potencia máxima de 445 vatios.
 
-El modelo tiene 4 conexiones USB-C de serie.
+Además, el modelo incluye 4 conexiones USB-C como estándar.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el BMW i4 eDrive40.
+Puede elegir entre dos tipos de faros delanteros para el BMW i4 eDrive40.
 
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix con tecnología láser:** También disponibles como una opción, estos faros combinan las características adaptativas del sistema LED Matrix con la tecnología láser para una mayor iluminación y alcance, ofreciendo una iluminación superior y seguridad.
+- **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+- **Faros LED Matrix con Tecnología Láser:** También disponibles como opción, estos faros combinan las características adaptativas del sistema LED Matrix con tecnología láser para mayor brillo y alcance, ofreciendo una iluminación y seguridad superiores.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El BMW i4 eDrive40 incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El BMW i4 eDrive40 cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el BMW i4 eDrive40, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el BMW i4 eDrive40, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el BMW i4 eDrive40, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el BMW i4 eDrive40, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el BMW i4 eDrive40, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Opcional en el BMW i4 eDrive40, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Opcional en el BMW i4 eDrive40, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el BMW i4 eDrive40, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el BMW i4 eDrive40, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el BMW i4 eDrive40, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el BMW i4 eDrive40, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el BMW i4 eDrive40, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el BMW i4 eDrive40, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
 ### Automatización de la Conducción
 
-BMW i4 eDrive40 ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El BMW i4 eDrive40 ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Driving Assistant de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Driving Assistant de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - Control de crucero.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema opcional Driving Assistant Professional de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional Driving Assistant Professional de nivel 2, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El BMW i4 eDrive40 está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El BMW i4 eDrive40 está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 470 litros. Con el asiento trasero plegado, esto se expande a 1290 litros. En el techo, puedes cargar hasta 75 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 470 litros (16,6 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1290 litros (45,6 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Los rieles del techo opcionales están disponibles para facilitar el montaje de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 2605 kg, con un peso base de 2050 kg. Esto permite una carga máxima de 555 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 2605 kg (5743 libras), con un peso base de 2050 kg (4519 libras). Esto permite una carga máxima de 555 kg (1224 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1600 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1600 kg (3527 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
-{{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Rango" >}}
+{{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Autonomía" >}}

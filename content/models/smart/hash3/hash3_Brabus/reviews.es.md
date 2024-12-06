@@ -1,5 +1,5 @@
 ---
-title: Smart #3 Brabus reseñas
+title: Reseñas de Smart #3 Brabus
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

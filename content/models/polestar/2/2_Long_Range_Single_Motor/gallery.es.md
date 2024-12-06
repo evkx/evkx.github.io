@@ -1,7 +1,7 @@
 ---
-title: Polestar 2 Long Range Single Motor galería
+title: Galería de Polestar 2 Long Range Single Motor
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Polestar 2 Long Range Single Motor. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Polestar 2 Long Range Single Motor. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

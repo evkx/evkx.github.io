@@ -1,5 +1,5 @@
 ---
-title: Nissan modelos de vehículos eléctricos
+title: Modelos EV de Nissan
 linktitle: "Nissan"
 description: "Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nissan Ariya es un SUV Coupé disponible en 5 variantes.
+Nissan Ariya es un SUV cupé disponible en 5 variantes.
 </p>
 	<a href="ariya/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

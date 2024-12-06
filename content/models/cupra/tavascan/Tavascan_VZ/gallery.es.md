@@ -1,7 +1,7 @@
 ---
-title: CUPRA Tavascan VZ galería
+title: Galería de CUPRA Tavascan VZ
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes CUPRA Tavascan VZ. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de CUPRA Tavascan VZ. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
 title: Mini Cooper SE
 linktitle: "Cooper SE"
-description: "Mini Cooper SE es un hatchback premium totalmente eléctrico con un WLTP alcance de hasta 402 km (250 millas). EVKX.net tiene todos los detalles."
+description: "Mini Cooper SE es un hatchback eléctrico premium con una autonomía WLTP de hasta 402 km (250 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,69 +11,69 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/main_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-Hemos separado nuestro artículo Mini Cooper SE en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Mini Cooper SE ofrece un rendimiento modesto con una potencia máxima de 160 kW (218 hp) y un par total de 330 Nm. Acelera de 0 a 100 km/h en 6,7 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Mini Cooper SE ofrece un rendimiento modesto con una potencia máxima de 160 kW (218 hp / 215 bhp) y un par total de 330 Nm (244 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 6,7 segundos y alcanza una velocidad máxima de 170 km/h (106 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
 La batería de alta capacidad tiene una capacidad bruta de 54,2 kWh y una capacidad neta utilizable de 49,0 kWh, proporcionando un buffer de 5,2 kWh (9,6%) para la protección de la batería.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 402 y 377 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,2 kWh/100 km para el modelo base y 13,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 402 a 377 km (250-234 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 12,2 kWh/100 km para el modelo base y 13,0 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 95kW. Una carga completa del 0 al 100 % tardaría 71 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 59kW. Cada sesión de carga tardaría 34 minutos y 51 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 95 kW. Cargar del 0% al 100% toma aproximadamente 71 minutos, mientras que un escenario más típico del 10% al 80% toma 30 minutos con una velocidad de carga promedio de 68 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 8% al 76%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 59 kW, con cada sesión de carga tomando aproximadamente 34 minutos y 51 segundos.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 27 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 4 horas y 27 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Mini Cooper SE tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
+El Mini Cooper SE tiene un sistema de tracción delantera soportado por un motor en el eje delantero.
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 128 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 128 mm.
 
 ### Frenos
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
 
 ## Exterior
 
-El Mini Cooper SE, con dimensiones de 3900 mm de longitud, 1750 mm de anchura y 1450 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Mini Cooper SE está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Mini Cooper SE, con dimensiones de 3900 mm de longitud, 1750 mm de ancho y 1450 mm de altura, pertenece al segmento de coches B, a menudo conocido como supermini, es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Mini Cooper SE está disponible en un total de 10 colores de pintura, incluidos tanto colores sólidos como metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mini Cooper SE, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Mini Cooper SE ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 215/55 en llantas de 16
-- Neumáticos 205/50 en llantas de 17
-- Neumáticos 225/40 en llantas de 18
+- 215/55 neumáticos en llantas de 16"
+- 205/50 neumáticos en llantas de 17"
+- 225/40 neumáticos en llantas de 18"
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -83,53 +83,53 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
-La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
+La disposición de asientos consiste en dos asientos delanteros y dos asientos traseros.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Mini Cooper SE ofrece un único tipo de asiento delantero.
+El Mini Cooper SE ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente como opción)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico opcional)
+- [Masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
+- Black [tapicería de tela/cuero sintético](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento ****:
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
+- Black [tapicería de tela/cuero sintético](../../../../technology/seats/materials/#fabric)
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
-## Características de confort
+## Características de Confort
 
 El Mini Cooper SE incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
 Detalles clave de la pantalla:
 
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -137,35 +137,35 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Mini Cooper SE está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el Mini Cooper SE.
+El Mini Cooper SE viene equipado con una opción de sistema de sonido:
 
 - **:** Cuenta con NULL altavoces.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Mini Cooper SE incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Mini Cooper SE cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Mini Cooper SE, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Mini Cooper SE, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
 ### Automatización de la Conducción
 
@@ -173,21 +173,21 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Mini Cooper SE está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Mini Cooper SE está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 200 litros. Con el asiento trasero plegado, esto se expande a 800 litros.
+El maletero ofrece una capacidad de carga de 200 litros (7,1 pies cúbicos). Con el asiento trasero abatido, esto se expande a 800 litros (28,3 pies cúbicos).
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
 
-{{< pagenavigation b_url="../" b_title="Mini Cooper" f_url="rangeandconsumption/" f_title="Rango" >}}
+{{< pagenavigation b_url="../" b_title="Mini Cooper" f_url="rangeandconsumption/" f_title="Autonomía" >}}

@@ -1,5 +1,5 @@
 ---
-title: Hyundai Ioniq 6 Long Range RWD reseñas
+title: Reseñas de Hyundai Ioniq 6 Long Range RWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,5 +1,5 @@
 ---
-title: Peugot E-308 SW reseñas
+title: Reseñas de Peugot E-308 SW
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

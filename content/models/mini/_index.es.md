@@ -1,5 +1,5 @@
 ---
-title: Mini modelos de vehículos eléctricos
+title: Modelos EV de Mini
 linktitle: "Mini"
 description: "Mini is a British car brand that is owned by BMW Group. It is known for its iconic small cars that combine style, performance, and fun. "
 weight: 30

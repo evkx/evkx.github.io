@@ -1,5 +1,5 @@
 ---
-title: Alpine modelos de vehículos eléctricos
+title: Modelos EV de Alpine
 linktitle: "Alpine"
 description: "Alpine es una marca francesa de coches deportivos, fundada en 1955 por Jean Rédélé, inicialmente especializada en coches deportivos ligeros y ágiles. Conocida por su asociación con Renault, Alpine ganó fama en las décadas de 1960 y 1970 con su A110 Berlinette ganadora de rallies, celebrada por su manejo ágil y éxito en el automovilismo, especialmente en eventos como el Rally de Monte Carlo."
 weight: 30

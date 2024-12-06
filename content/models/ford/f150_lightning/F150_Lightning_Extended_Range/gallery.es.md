@@ -1,7 +1,7 @@
 ---
-title: Ford F150 Lightning Extended Range galería
+title: Galería de Ford F150 Lightning Extended Range
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Ford F150 Lightning Extended Range. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Ford F150 Lightning Extended Range. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

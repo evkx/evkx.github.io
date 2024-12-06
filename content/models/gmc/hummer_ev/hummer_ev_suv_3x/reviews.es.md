@@ -1,5 +1,5 @@
 ---
-title: GMC Hummer EV SUV 3x reseñas
+title: Reseñas de GMC Hummer EV SUV 3x
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

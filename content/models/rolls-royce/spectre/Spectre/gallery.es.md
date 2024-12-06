@@ -1,7 +1,7 @@
 ---
-title: Rolls-Royce Spectre galería
+title: Galería de Rolls-Royce Spectre
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Rolls-Royce Spectre. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Rolls-Royce Spectre. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

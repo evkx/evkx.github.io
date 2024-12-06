@@ -1,5 +1,5 @@
 ---
-title: Leapmotor modelos de vehículos eléctricos
+title: Modelos EV de Leapmotor
 linktitle: "Leapmotor"
 description: "Leapmotor es un fabricante chino de vehículos eléctricos (EV), fundado en 2015. Conocido por sus coches asequibles y tecnológicamente avanzados como el coche urbano T03 y el SUV C11, Leapmotor enfatiza el desarrollo interno de tecnologías clave de EV, incluyendo trenes motrices y conducción autónoma, apuntando al creciente mercado de EV en China."
 weight: 30

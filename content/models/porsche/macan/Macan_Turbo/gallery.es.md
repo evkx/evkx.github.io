@@ -1,7 +1,7 @@
 ---
-title: Porsche Macan Turbo galería
+title: Galería de Porsche Macan Turbo
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Porsche Macan Turbo. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Porsche Macan Turbo. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

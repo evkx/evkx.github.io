@@ -1,5 +1,5 @@
 ---
-title: SKODA ENYAQ COUPÉ RS iV reseñas
+title: Reseñas de SKODA ENYAQ COUPÉ RS iV
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

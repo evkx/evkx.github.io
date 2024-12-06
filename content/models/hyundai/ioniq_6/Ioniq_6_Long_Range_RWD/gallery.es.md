@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 6 Long Range RWD galería
+title: Galería de Hyundai Ioniq 6 Long Range RWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Hyundai Ioniq 6 Long Range RWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Hyundai Ioniq 6 Long Range RWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

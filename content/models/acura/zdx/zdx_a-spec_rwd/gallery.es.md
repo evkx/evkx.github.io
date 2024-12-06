@@ -1,7 +1,7 @@
 ---
-title: Acura ZDX A-Spec RWD galería
+title: Galería de Acura ZDX A-Spec RWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Acura ZDX A-Spec RWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Acura ZDX A-Spec RWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

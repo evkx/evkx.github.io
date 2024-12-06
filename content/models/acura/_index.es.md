@@ -1,5 +1,5 @@
 ---
-title: Acura modelos de vehículos eléctricos
+title: Modelos EV de Acura
 linktitle: "Acura"
 description: "Acura es la división de lujo y rendimiento del fabricante de automóviles japonés Honda, con sede principalmente en América del Norte. La marca se lanzó en 1986, comercializando automóviles de lujo y rendimiento. Acura vende coches en Estados Unidos, Canadá, México, Panamá y Kuwait."
 weight: 30

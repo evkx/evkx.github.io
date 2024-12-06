@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ EQE 500 4MATIC SUV reseñas
+title: Reseñas de Mercedes-EQ EQE 500 4MATIC SUV
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

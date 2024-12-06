@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric XPOWER
 linktitle: "MG4 Electric XPOWER"
-description: "MG MG4 Electric XPOWER es un crossover totalmente eléctrico con un WLTP alcance de hasta 435 km (270 millas). EVKX.net tiene todos los detalles."
+description: "MG MG4 Electric XPOWER es un crossover eléctrico con una autonomía WLTP de hasta 435 km (270 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,70 +11,70 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2172"  >}}
 
-Hemos separado nuestro artículo MG MG4 Electric XPOWER en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El MG MG4 Electric XPOWER ofrece un rendimiento sólido con una potencia máxima de 320 kW (435 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 3,8 segundos y alcanza una velocidad máxima de 160 km/h, lo que lo hace competitivo en su clase.
+El MG MG4 Electric XPOWER ofrece un rendimiento sólido con una potencia máxima de 320 kW (435 hp / 429 bhp) y un par total de 600 Nm (443 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 3,8 segundos y alcanza una velocidad máxima de 160 km/h (99 mph), siendo competitivo dentro de su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 64,0 kWh y una capacidad neta utilizable de 61,7 kWh, proporcionando un buffer de 2,3 kWh (3,6%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 64,0 kWh y una capacidad neta utilizable de 61,7 kWh, proporcionando un buffer de 2,3 kWh (3,6%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 435 km, con una tasa de consumo de energía de 14,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 435 km (270 millas), con una tasa de consumo de energía de 14,2 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 85 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 94kW. Cada sesión de carga tardaría 22 minutos y 33 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 135 kW. Cargar del 0% al 100% toma aproximadamente 85 minutos, mientras que un escenario más típico del 10% al 80% toma 27 minutos con una velocidad de carga promedio de 94 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 3% al 58%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 94 kW, con cada sesión de carga tomando aproximadamente 22 minutos y 33 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 57 minutos. Este viaje requeriría dos paradas de carga del 2% al 63%, con un tiempo total de carga de 97 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 57 minutos, requiriendo cuatro paradas de carga del 2% al 63%, totalizando 97 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 36 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 5 horas y 36 minutos usando una configuración doméstica.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/charging_2_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está ubicado en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side), lo que facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-MG MG4 Electric XPOWER tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
+El MG MG4 Electric XPOWER cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje.
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 150 mm.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 345 mm y los discos traseros de 345 mm.
+El MG MG4 Electric XPOWER está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 345 mm, mientras que los discos traseros son de 345 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza cuando es posible y emplea el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos combina frenos físicos solo cuando es necesario. <br /><br/> Otra opción es el modo [**Regeneración en el Pedal del Acelerador**](../../../../technology/regen/#one-pedal-driving) donde el frenado regenerativo se activa cuando el conductor levanta el pie del pedal del acelerador. Este sistema permite que el vehículo disminuya la velocidad y recupere energía sin que el conductor necesite presionar el pedal del freno, una característica a menudo denominada **conducción con un solo pedal**.
 
 ## Exterior
 
-El MG MG4 Electric XPOWER, con dimensiones de 4287 mm de longitud, 1836 mm de anchura y 1504 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El MG MG4 Electric XPOWER está disponible en un total de 7 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El MG MG4 Electric XPOWER, con dimensiones de 4287 mm de longitud, 1836 mm de ancho y 1504 mm de altura, pertenece al segmento de coches B-SUV, también conocidos como SUV subcompactos o crossovers, que ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El MG MG4 Electric XPOWER está disponible en un total de 7 colores de pintura, incluidos tanto colores sólidos como metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el MG MG4 Electric XPOWER, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El MG MG4 Electric XPOWER ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate).
 
-Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Solo hay una opción de techo para este modelo. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/exterior_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="1687"  >}}
 
@@ -82,59 +82,59 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+Hay un tipo de asiento que puede seleccionar en diferentes materiales.
 
 ### Asientos
 
-El MG MG4 Electric XPOWER tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El MG MG4 Electric XPOWER acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El MG MG4 Electric XPOWER ofrece un único tipo de asiento delantero.
+El MG MG4 Electric XPOWER ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapicería de tela/cuero sintético](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/frontseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2000"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división , que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/secondrowseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
-- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zona:** Soporta el control de una sola zona compartida para todo el coche.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El MG MG4 Electric XPOWER incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante montado en el tablero mide 7,0 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 10,2 pulgadas de tamaño
+- La pantalla  detrás del volante montado en el tablero mide 7,0 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 10,2 pulgadas.
 
-El modelo no tiene head-up display.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/screens_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
@@ -142,87 +142,87 @@ El modelo no tiene head-up display.
 
 El MG MG4 Electric XPOWER está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el MG MG4 Electric XPOWER es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El MG MG4 Electric XPOWER es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el MG MG4 Electric XPOWER.
+El MG MG4 Electric XPOWER viene equipado con una opción de sistema de sonido:
 
 - **:** Cuenta con NULL altavoces.
 
-El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+Además, el modelo incluye 1 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El MG MG4 Electric XPOWER incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El MG MG4 Electric XPOWER cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el MG MG4 Electric XPOWER, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el MG MG4 Electric XPOWER, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el MG MG4 Electric XPOWER, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el MG MG4 Electric XPOWER, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el MG MG4 Electric XPOWER, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el MG MG4 Electric XPOWER, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el MG MG4 Electric XPOWER, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el MG MG4 Electric XPOWER, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el MG MG4 Electric XPOWER, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el MG MG4 Electric XPOWER, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el MG MG4 Electric XPOWER, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el MG MG4 Electric XPOWER, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el MG MG4 Electric XPOWER, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
-[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el MG MG4 Electric XPOWER, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el MG MG4 Electric XPOWER, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar  de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El MG MG4 Electric XPOWER está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El MG MG4 Electric XPOWER está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El peso máximo del vehículo es 2133 kg, con un peso base de 1715 kg. Esto permite una carga máxima de 418 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 2133 kg (4702 libras), con un peso base de 1715 kg (3781 libras). Esto permite una carga máxima de 418 kg (922 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 500 kg, mientras que para un tráiler sin freno es de 500 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 500 kg (1102 lbs), mientras que para un remolque sin freno, es de 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
 ### Precios
 
-Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+Los precios pueden variar según las condiciones locales, incentivos y promociones. A continuación se muestran los precios iniciales para países seleccionados:
 
 - 387 000,00 NOK (Noruega)
 
-{{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Rango" >}}
+{{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Autonomía" >}}

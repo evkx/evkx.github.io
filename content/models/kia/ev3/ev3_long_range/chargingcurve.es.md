@@ -1,7 +1,7 @@
 ---
-title: Kia EV3 Long Range curva de carga y rendimiento
+title: Curva de carga y rendimiento de Kia EV3 Long Range
 linktitle: "Curva de carga"
-description: "A continuación se muestra la curva de carga para Kia EV3 Long Range, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de autonomía y tiempo proporcionan detalles completos sobre el rendimiento de la carga."
+description: "A continuación se muestra la curva de carga para Kia EV3 Long Range, que ilustra la velocidad de carga en varios niveles de batería. Además, los gráficos de rango y tiempo proporcionan detalles completos sobre el rendimiento de carga."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -14,7 +14,7 @@ navicon: bi-battery-charging
 
 
 <div class="alert alert-primary" role="alert">
-La curva de carga de este modelo se deriva de los datos del fabricante y de conocimientos sobre el rendimiento de carga de paquetes de baterías similares.
+La curva de carga para este modelo se deriva de datos del fabricante y conocimientos sobre el rendimiento de carga de paquetes de baterías similares.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -61,7 +61,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 		</tr>
 		<tr>
 			<td>
-				Velocidad C máxima
+				Tasa C máxima
 			</td>
 			<td>
 				1,54
@@ -85,7 +85,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 		</tr>
 		<tr>
 			<td>
-				La velocidad de carga óptima incluye una pérdida de 5 minutos
+				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
 				94,8kW
@@ -118,7 +118,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 	<tbody>
 		<tr>
 			<td>
-				Tiempo de carga 0-100%
+				Tiempo de carga 0 - 100%
 			</td>
 			<td>
 				1 h 9 m 49 s
@@ -169,7 +169,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 	<tbody>
 		<tr>
 			<td>
-				Rango por minuto 0-100%
+				Autonomía por minuto 0-100%
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-100%
+				Autonomía por minuto 10-100%
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 		</tr>
 		<tr>
 			<td>
-				Rango por minuto 10-80%
+				Autonomía por minuto 10-80%
 			</td>
 			<td>
 				?
@@ -223,7 +223,7 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 </div>
 
 
-La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
+La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
 Kia EV3 Long Range tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
@@ -241,7 +241,7 @@ Kia EV3 Long Range tiene calefacción de batería, lo que facilita la carga a un
 				Velocidad
 			</th>
 			<th>
-				Hora
+				Tiempo
 			</th>
 			<th>
 				Energía cargada
@@ -1668,4 +1668,4 @@ Kia EV3 Long Range tiene calefacción de batería, lo que facilita la carga a un
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Autonomía" f_url="../specifications/" f_title="Especificaciones" >}}

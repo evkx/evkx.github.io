@@ -1,5 +1,5 @@
 ---
-title: Chevrolet Equinox EV FWD reseñas
+title: Reseñas de Chevrolet Equinox EV FWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,7 +1,7 @@
 ---
-title: Lexus RZ 300e galería
+title: Galería de Lexus RZ 300e
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Lexus RZ 300e. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Lexus RZ 300e. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

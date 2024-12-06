@@ -1,5 +1,5 @@
 ---
-title: Volvo modelos de vehículos eléctricos
+title: Modelos EV de Volvo
 linktitle: "Volvo"
 description: "Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability."
 weight: 30
@@ -56,7 +56,7 @@ Volvo EC40 es un crossover disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volvo EM90 es un monovolumen premium disponible en 1 variantes.
+Volvo EM90 es un MPV premium disponible en 1 variantes.
 </p>
 	<a href="em90/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

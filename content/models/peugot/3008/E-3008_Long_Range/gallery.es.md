@@ -1,7 +1,7 @@
 ---
-title: Peugot E-3008 Long Range galería
+title: Galería de Peugot E-3008 Long Range
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Peugot E-3008 Long Range. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Peugot E-3008 Long Range. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 45 e-tron quattro (GEN1) galería
+title: Galería de Audi Q4 45 e-tron quattro (GEN1)
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Audi Q4 45 e-tron quattro (GEN1). Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Audi Q4 45 e-tron quattro (GEN1). Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

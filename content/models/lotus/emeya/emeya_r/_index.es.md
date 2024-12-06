@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya R
 linktitle: "Emeya R"
-description: "Lotus Emeya R es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 535 km (333 millas). EVKX.net tiene todos los detalles."
+description: "Lotus Emeya R es un sedán eléctrico de lujo con una autonomía WLTP de hasta 535 km (333 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,81 +11,81 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/main_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
-Hemos separado nuestro artículo Lotus Emeya R en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Lotus Emeya R entrega una impresionante potencia máxima de 675 kW (918 hp) y un enorme torque de 985 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,78 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 256 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
+El Lotus Emeya R ofrece una impresionante potencia máxima de 675 kW (918 hp / 905 bhp) y un par total de 985 Nm (727 lb-ft). Este potente vehículo puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 2,78 segundos, mostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 256 km/h (159 mph), lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
 La batería de alta capacidad tiene una capacidad bruta de 102,0 kWh y una capacidad neta utilizable de 100,0 kWh, proporcionando un buffer de 2,0 kWh (2,0%) para la protección de la batería.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 535 y 490 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 18,7 kWh/100 km para el modelo base y 20,4 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 535 a 490 km (333-305 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 18,7 kWh/100 km para el modelo base y 20,4 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 400kW. Una carga completa del 0 al 100 % tardaría 41 minutos, mientras que un escenario más común del 10 al 80 % tardaría 14 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 72%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 228kW. Cada sesión de carga tardaría 18 minutos y 9 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Lotus Emeya R sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
+El vehículo admite carga rápida DC con una potencia máxima de 400 kW. Cargar del 0% al 100% toma aproximadamente 41 minutos, mientras que un escenario más típico del 10% al 80% toma 14 minutos con una velocidad de carga promedio de 298 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 3% al 72%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 228 kW, con cada sesión de carga tomando aproximadamente 18 minutos y 9 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Lotus Emeya R sea uno de los EV más eficientes y convenientes para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 27 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 5 minutos. Este viaje requeriría dos paradas de carga del 4% al 61%, con un tiempo total de carga de 46 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 27 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 5 minutos, requiriendo tres paradas de carga del 4% al 61%, totalizando 46 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 32 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 22 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 4 horas y 32 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado delantero izquierdo](../../../../technology/charging/connectors/#front-side). Esta ubicación facilita el uso de estaciones de carga donde estaciona de lado hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Lotus Emeya R tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El Lotus Emeya R cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 162 mm y la máxima es 212 mm.
+La suspensión delantera y trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es completamente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar manual y automáticamente. La distancia mínima al suelo es de 162 mm, y la máxima es de 212 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Lotus Emeya R. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La dirección dinámica es una característica estándar en el Lotus Emeya R, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados. Además, la dirección en las ruedas traseras está disponible como una característica una característica estándar. La dirección en las ruedas traseras reduce el círculo de giro cuando se va despacio.
 
 ### Frenos
 
-Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 412 mm y los discos traseros de 397 mm. Los frenos de opción second utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 412 mm y los discos traseros de 397 mm.
+Puede elegir entre diferentes sistemas de frenos. La opción de frenos standard utiliza un disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid-brakes). No se oxida y produce casi nada de polvo de freno. Los discos delanteros miden 412 mm, mientras que los discos traseros son de 397 mm. La opción de frenos second utiliza discos de [cerámica](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros miden 412 mm, mientras que los discos traseros son de 397 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Lotus Emeya R, con dimensiones de 5139 mm de longitud, 2005 mm de anchura y 1464 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Lotus Emeya R está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
+El Lotus Emeya R, con dimensiones de 5139 mm de longitud, 2005 mm de ancho y 1464 mm de altura, pertenece al segmento de coches F, también conocidos como coches de lujo o coches de lujo de tamaño completo, que representan el pináculo del lujo automotriz, el rendimiento y la tecnología. Son típicamente sedanes grandes o limusinas y están diseñados para ofrecer el máximo en comodidad, prestigio y características avanzadas. El Lotus Emeya R está disponible en un total de 6 colores de pintura, incluidos varios llamativos colores metálicos. Algunas de estas opciones de pintura incluyen pinturas de dos tonos donde el techo y la parte superior del cuerpo están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lotus Emeya R, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Lotus Emeya R ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 305/35 en llantas de 21" traseras
-- Neumáticos 265/35 en llantas de 22" delanteras y neumáticos 305/30 en llantas de 22" traseras
+- 265/40 neumáticos en llantas de 21" delanteras y 305/35 neumáticos en llantas de 21" traseras
+- 265/35 neumáticos en llantas de 22" delanteras y 305/30 neumáticos en llantas de 22" traseras
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite combinar el vidrio en múltiples niveles para proteger contra el sol
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite ajustar el vidrio en múltiples niveles para protegerse del sol.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/exterior_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
@@ -93,73 +93,73 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+Hay un tipo de asiento que puede seleccionar en diferentes materiales.
 
 ### Asientos
 
-Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+Este modelo ofrece una disposición de cuatro asientos o una disposición opcional 4+1.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Lotus Emeya R ofrece un único tipo de asiento delantero.
+El Lotus Emeya R ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
 
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
-- Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
-- Gray/Yellow [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
-- Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
+- Red/Black [tapicería de microfibra/cuero Nappa](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Gray [tapicería de microfibra/cuero Nappa](../../../../technology/seats/materials/#nappaleather)
+- Gray/Yellow [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [tapicería de microfibra/cuero Nappa](../../../../technology/seats/materials/#nappaleather)
+- Red/Black [tapicería de microfibra/cuero Nappa](../../../../technology/seats/materials/#nappaleather)
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/frontseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
-#### Asientos de la segunda fila
+#### Asientos de la Segunda Fila
 
-Puedes elegir dos tipos de asientos para la segunda fila en el Lotus Emeya R.
+Puede elegir entre dos tipos de asientos para la segunda fila en el Lotus Emeya R.
 
-La opción standard es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La opción standard es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
-La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
+La opción second es dos [asientos ejecutivos](../../../../technology/seats/types/#twin-executive-seats). Las funcionalidades adicionales incluyen:
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/secondrowseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Lotus Emeya R incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
-- La touch pantalla en el centro del tablero mide 15,1 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 12,3 pulgadas.
+- La pantalla touch en el centro del tablero mide 15,1 pulgadas.
 
-Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una característica estándar que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/screens_1_st.jpg" title="Lotus Emeya R" width="3000" height="1285"  >}}
 
@@ -167,91 +167,91 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 El Lotus Emeya R está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Lotus Emeya R es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Lotus Emeya R es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Lotus Emeya R.
+Puede elegir entre dos sistemas de sonido para el Lotus Emeya R:
 
-- Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios.
-- Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
+- **KEF Premium Audio system:** Cuenta con 15 altavoces y ofrece una potencia máxima de 1380 vatios.
+- **KEF Reference Audio system:** Cuenta con 23 altavoces y ofrece una potencia máxima de 2160 vatios.
 
-El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 
 ## Luces
 
-Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
+El Lotus Emeya R viene equipado con faros LED Matrix avanzados. Este sistema adaptativo divide el haz de luz tradicional en múltiples rayos más pequeños, permitiendo que el controlador de luz los encienda y apague selectivamente para evitar deslumbrar a otros conductores. Para mayor seguridad, los faros también incluyen luces de giro que iluminan el lateral al girar.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Lotus Emeya R incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Lotus Emeya R cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Lotus Emeya R, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Lotus Emeya R, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Lotus Emeya R, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Lotus Emeya R, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Lotus Emeya R, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Lotus Emeya R, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Lotus Emeya R, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Lotus Emeya R, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Lotus Emeya R, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Lotus Emeya R, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Lotus Emeya R, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Lotus Emeya R, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Lotus Emeya R, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Lotus Emeya R, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Lotus Emeya R, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Lotus Emeya R, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Lotus Emeya R, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
-[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Lotus Emeya R, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Lotus Emeya R, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar  de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/).
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Lotus Emeya R está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Lotus Emeya R está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 688 litros. Con el asiento trasero plegado, esto se expande a 1532 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 46 litros.
+El maletero ofrece una capacidad de carga de 688 litros (24,3 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1532 litros (54,1 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 46 litros (1,6 pies cúbicos).
 
-El peso máximo del vehículo es 3100 kg, con un peso base de 2565 kg. Esto permite una carga máxima de 535 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 3100 kg (6834 libras), con un peso base de 2565 kg (5655 libras). Esto permite una carga máxima de 535 kg (1179 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1225 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1225 kg (2701 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 12.10.2023 y se espera que las entregas comiencen en March 2024.
-{{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Rango" >}}
+Este modelo hizo su estreno mundial el 12.10.2023, con entregas anticipadas para comenzar en March 2024.
+{{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Autonomía" >}}

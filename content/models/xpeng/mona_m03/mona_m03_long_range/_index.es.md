@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range es un sedán totalmente eléctrico con un CLTC alcance de hasta 618 km (384 millas). EVKX.net tiene todos los detalles."
+description: "XPENG Mona M03 Long Range es un sedán eléctrico con una autonomía CLTC de hasta 618 km (384 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,91 +11,91 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/main_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2250"  >}}
 
-Hemos separado nuestro artículo XPENG Mona M03 Long Range en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El XPENG Mona M03 Long Range ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 440 Nm. Puede acelerar de 0 a 100 km/h en 7,4 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
+El XPENG Mona M03 Long Range ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp / 282 bhp) y un par total de 440 Nm (325 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 7,4 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), siendo competitivo dentro de su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 62,2 kWh y una capacidad neta utilizable de 61,0 kWh, proporcionando un buffer de 1,2 kWh (1,9%) para la protección de la batería. Con un voltaje nominal de 473 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 62,2 kWh y una capacidad neta utilizable de 61,0 kWh, proporcionando un buffer de 1,2 kWh (1,9%) para la protección de la batería. Con un voltaje nominal de 473 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 618 km (384 millas). El consumo es de 9,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+La autonomía del vehículo, según el estándar [CLTC](../../../../guides/understandingrange/cltc/) (Ciclo de Prueba de Vehículos Ligeros de China), es de 618 km (384 millas). El consumo de energía es de 9,9 kWh/100 km según la prueba estándar CLTC. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 92kW. Una carga completa del 0 al 100 % tardaría 99 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 61kW. Cada sesión de carga tardaría 30 minutos y 31 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 92 kW. Cargar del 0% al 100% toma aproximadamente 99 minutos, mientras que un escenario más típico del 10% al 80% toma 42 minutos con una velocidad de carga promedio de 61 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 6% al 55%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 61 kW, con cada sesión de carga tomando aproximadamente 30 minutos y 31 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 59 minutos. Este viaje requeriría dos paradas de carga del 7% al 51%, con un tiempo total de carga de 159 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 22 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 59 minutos, requiriendo seis paradas de carga del 7% al 51%, totalizando 159 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 32 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 5 horas y 32 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
-### Carga bidireccional
+### Carga Bidireccional
 
-Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 3,3 kW de potencia, incluida la carga de otros vehículos.
+Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos eléctricos que requieren hasta 3,3 kW de potencia, incluida la capacidad de cargar otros vehículos.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-XPENG Mona M03 Long Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El XPENG Mona M03 Long Range tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 160 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el XPENG Mona M03 Long Range. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una característica estándar en el XPENG Mona M03 Long Range, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
-### Modos de conducción
+### Modos de Conducción
 
 El XPENG Mona M03 Long Range permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
 
-- Comfort: Dirección en modo Comfort y acelerador eficiente.
-- Standard: Dirección y acelerador equilibrados.
-- Sport: Dirección y acelerador dinámicos.
-- Individual: Configuraciones definidas por el usuario para la dirección y el acelerador.
+- Comfort: Dirección cómoda y aceleración eficiente.
+- Standard: Dirección y aceleración equilibradas.
+- Sport: Dirección y aceleración dinámicas.
+- Individual: Configuraciones definidas por el usuario para dirección y acelerador.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+El XPENG Mona M03 Long Range está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Puede elegir entre dos modos de parada para la conducción con un solo pedal. El **modo Hold** detiene el vehículo completamente utilizando frenos de fricción, y el **modo Roll** permite que el vehículo ruede hasta detenerse naturalmente.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El XPENG Mona M03 Long Range, con dimensiones de 4780 mm de longitud, 1896 mm de anchura y 1445 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El XPENG Mona M03 Long Range está disponible en un total de 5 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El XPENG Mona M03 Long Range, con dimensiones de 4780 mm de longitud, 1896 mm de ancho y 1445 mm de altura, pertenece al segmento de coches D, también conocidos como coches de tamaño medio o familiares, que ofrecen más espacio, comodidad y características que los segmentos más pequeños, haciéndolos adecuados para una variedad de conductores. El XPENG Mona M03 Long Range está disponible en un total de 5 colores de pintura, incluidos varios llamativos colores metálicos.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el XPENG Mona M03 Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el XPENG Mona M03 Long Range, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 235/40 en llantas de 19
+- 235/40 neumáticos en llantas de 19"
 
 El coche tiene cuatro [puertas sin marco](../../../../technology/doors/) y un [portón trasero estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
+Solo hay una opción de techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tintado para proteger contra el calor del sol.
 
-Las ventanas del pilar B y la parte trasera están tintadas.
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/exterior_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2000"  >}}
 
@@ -103,70 +103,70 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-El interior del XPENG Mona M03 Long Range está diseñado con una estética minimalista, con materiales de calidad media en todo el habitáculo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Puedes elegir entre varios diseños de interiores.
+El interior del XPENG Mona M03 Long Range está diseñado con una estética minimalista, con materiales de calidad media en todo el vehículo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Puede elegir entre varios diseños de interiores.
 
 ### Asientos
 
-El XPENG Mona M03 Long Range tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El XPENG Mona M03 Long Range acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El XPENG Mona M03 Long Range ofrece un único tipo de asiento delantero.
+El XPENG Mona M03 Long Range ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asiento del pasajero)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Soporte para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para el asiento del pasajero)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 40:60, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- reposacabezas ajustable en altura
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- Reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/secondrowseats_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Este modelo no tiene una [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en clima frío en comparación con los modelos con bomba de calor.
 
-## Características de confort
+## Características de Confort
 
 El XPENG Mona M03 Long Range incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
-- **Carga inalámbrica de teléfono**
+- **Función de Entrada Fácil:** Mueve el asiento del conductor para facilitar la entrada al automóvil.
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-La interfaz de control de este modelo de vehículo eléctrico está centrada en la interacción con la pantalla y solo tiene una funcionalidad limitada disponible en botones y palancas. Para algunos, esto puede resultar en una experiencia de usuario y usabilidad menos que ideal.
+La interfaz de control del XPENG Mona M03 Long Range se centra principalmente en la interacción con la pantalla, con funcionalidad limitada disponible a través de botones físicos y palancas. Este diseño puede resultar en una experiencia de usuario y usabilidad menos que ideal para algunos usuarios.
 
-El XPENG Mona M03 Long Range tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+El XPENG Mona M03 Long Range tiene una sola pantalla para el conductor. El centro del tablero tiene una sola [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) que sirve como la pantalla principal para la información del vehículo y las funciones de infoentretenimiento.
 
 Detalles clave de la pantalla:
 
-- La touch pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
+- La pantalla touch en el centro del tablero mide 15,6 pulgadas.
 
-El modelo no tiene head-up display.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/screens_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2000"  >}}
 
@@ -174,117 +174,117 @@ El modelo no tiene head-up display.
 
 El XPENG Mona M03 Long Range está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También incluye botones físicos y ruedas de desplazamiento, que te permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También incluye botones físicos y ruedas de desplazamiento, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-El XPENG Mona M03 Long Range cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, XPENG ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.
+El XPENG Mona M03 Long Range cuenta con un avanzado sistema de información y entretenimiento basado en Android Automotive OS, una plataforma de Google diseñada específicamente para los tableros de los vehículos. Mejorando este robusto sistema, XPENG ha integrado su propia suite de aplicaciones, proporcionando una navegación sin interrupciones, configuraciones completas del coche y mucho más.
 
-### Sistema de navegación
+### Sistema de Navegación
 
-El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+El sistema de navegación integrado utiliza mapas detallados y ofrece planificación avanzada de rutas. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
-### App Store
+### Tienda de Aplicaciones
 
-El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+El sistema de información y entretenimiento incluye una Tienda de Aplicaciones donde puede descargar aplicaciones de terceros para ejecutarlas de forma nativa en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
 
-- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **Spotify:** Transmita millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de su coche, proporcionando infinitas opciones de entretenimiento para su viaje.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el XPENG Mona M03 Long Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El XPENG Mona M03 Long Range es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el XPENG Mona M03 Long Range.
+El XPENG Mona M03 Long Range viene equipado con una opción de sistema de sonido:
 
-- Con el , obtienes 18 parlantes con una salida máxima del sistema de 1200 vatios.
+- **:** Cuenta con 18 altavoces y ofrece una potencia máxima de 1200 vatios.
 
-El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 
-## Aplicación móvil
+## Aplicación Móvil
 
-El XPENG Mona M03 Long Range viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+El XPENG Mona M03 Long Range viene con una aplicación móvil dedicada, disponible tanto para dispositivos Android como iOS, que le permite gestionar y monitorear su vehículo de forma remota. La aplicación ofrece una amplia gama de características diseñadas para mejorar su experiencia de conducción:
 
-- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
-- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
-- **Estacionamiento remoto**: Controla tu coche de forma remota para estacionar o salir de un espacio de estacionamiento.
-- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
-- **Control de ventanas**: Abre y cierra las ventanas desde cualquier lugar.
-- **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
-- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
+- **Localizar Su Vehículo:** Compruebe fácilmente la ubicación actual de su coche.
+- **Preacondicionamiento:** Precaliente o enfríe su coche antes de comenzar su viaje para un confort óptimo.
+- **Estacionamiento Remoto:** Controle sin esfuerzo su coche para estacionar o salir de un espacio de estacionamiento de forma remota.
+- **Bloquear y Desbloquear:** Bloquee o desbloquee de forma segura las puertas de su coche con un toque.
+- **Control de Ventanas:** Abra y cierre las ventanas desde cualquier lugar.
+- **Encontrar su Coche:** Active la bocina o las luces para ayudar a encontrar su coche en áreas concurridas.
+- **Planificación de Ruta:** Planifique su ruta y envíela directamente al sistema de navegación de su coche.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/headlights_1_st.jpeg" title="XPENG Mona M03 Long Range" width="3000" height="1997"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El XPENG Mona M03 Long Range incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El XPENG Mona M03 Long Range cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el XPENG Mona M03 Long Range, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el XPENG Mona M03 Long Range, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el XPENG Mona M03 Long Range, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el XPENG Mona M03 Long Range, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el XPENG Mona M03 Long Range, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el XPENG Mona M03 Long Range, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el XPENG Mona M03 Long Range, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el XPENG Mona M03 Long Range, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el XPENG Mona M03 Long Range, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el XPENG Mona M03 Long Range, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el XPENG Mona M03 Long Range, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el XPENG Mona M03 Long Range, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el XPENG Mona M03 Long Range, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el XPENG Mona M03 Long Range, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el XPENG Mona M03 Long Range, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
-[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el XPENG Mona M03 Long Range, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el XPENG Mona M03 Long Range, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar XPENG Pilot de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar XPENG Pilot de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/).
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El XPENG Mona M03 Long Range está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El XPENG Mona M03 Long Range está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
-- **Funcionalidad de teléfono como llave:** Con la tecnología de teléfono como llave, puede usar su teléfono inteligente como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
-- **Sistema de alarma:** Un sistema de alarma integrado monitorea la entrada no autorizada o la manipulación, proporcionando alertas para ayudar a disuadir las intrusiones y mantener su vehículo seguro.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Funcionalidad de Teléfono como Llave:** Con la tecnología de teléfono como llave, puede usar su smartphone como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
+- **Sistema de Alarma:** Un sistema de alarma integrado monitorea entradas no autorizadas o manipulaciones, proporcionando alertas para ayudar a disuadir intrusiones y mantener su vehículo seguro.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 571 litros (20,2 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1374 litros (48,5 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras).
 
-El peso máximo del vehículo es 2114 kg, con un peso base de 1739 kg. Esto permite una carga máxima de 375 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 2114 kg (4661 libras), con un peso base de 1739 kg (3834 libras). Esto permite una carga máxima de 375 kg (827 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/trunk_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 29.06.2023 y las entregas comenzaron en January 2024.
-{{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Rango" >}}
+El XPENG Mona M03 Long Range tuvo su estreno mundial el 29.06.2023, con entregas comenzando en January 2024.
+{{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Autonomía" >}}

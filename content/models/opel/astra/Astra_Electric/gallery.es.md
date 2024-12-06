@@ -1,7 +1,7 @@
 ---
-title: Opel Astra Electric galería
+title: Galería de Opel Astra Electric
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Opel Astra Electric. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Opel Astra Electric. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

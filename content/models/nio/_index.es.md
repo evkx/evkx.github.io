@@ -1,5 +1,5 @@
 ---
-title: Nio modelos de vehículos eléctricos
+title: Modelos EV de Nio
 linktitle: "Nio"
 description: "Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. "
 weight: 30
@@ -86,7 +86,7 @@ Nio ES8 es un SUV disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nio ET5 es un sedán/camioneta disponible en 2 variantes.
+Nio ET5 es un sedán/familiar disponible en 2 variantes.
 </p>
 	<a href="et5/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

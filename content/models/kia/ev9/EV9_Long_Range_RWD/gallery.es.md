@@ -1,7 +1,7 @@
 ---
-title: Kia EV9 Long Range RWD galería
+title: Galería de Kia EV9 Long Range RWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Kia EV9 Long Range RWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Kia EV9 Long Range RWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

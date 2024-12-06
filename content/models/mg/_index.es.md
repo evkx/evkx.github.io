@@ -1,5 +1,5 @@
 ---
-title: MG modelos de vehículos eléctricos
+title: Modelos EV de MG
 linktitle: "MG"
 description: "MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. "
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG Cyberster es un Convertible disponible en 1 variantes.
+MG Cyberster es un convertible disponible en 1 variantes.
 </p>
 	<a href="cyberster/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -71,7 +71,7 @@ MG MG4 es un crossover disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG MG5 es una camioneta disponible en 2 variantes.
+MG MG5 es un familiar disponible en 2 variantes.
 </p>
 	<a href="mg5/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

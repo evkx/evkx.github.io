@@ -1,5 +1,5 @@
 ---
-title: BYD Tang 4x4 Long Range reseñas
+title: Reseñas de BYD Tang 4x4 Long Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

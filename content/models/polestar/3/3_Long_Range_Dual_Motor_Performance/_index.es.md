@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: "3 Long Range Dual Motor Performance"
-description: "Polestar 3 Long Range Dual Motor Performance es un SUV totalmente eléctrico con una autonomía WLTP de hasta 561 km (349 millas). EVKX.net tiene todos los detalles."
+description: "Polestar 3 Long Range Dual Motor Performance es un SUV eléctrico con una autonomía WLTP de hasta 561 km (349 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,72 +11,72 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
-Hemos separado nuestro artículo Polestar 3 Long Range Dual Motor Performance en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Polestar 3 Long Range Dual Motor Performance ofrece un rendimiento sólido con una potencia máxima de 380 kW (517 hp) y un par total de 910 Nm. Puede acelerar de 0 a 100 km/h en 4,7 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
+El Polestar 3 Long Range Dual Motor Performance ofrece un rendimiento sólido con una potencia máxima de 380 kW (517 hp / 510 bhp) y un par total de 910 Nm (672 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 4,7 segundos y alcanza una velocidad máxima de 210 km/h (131 mph), siendo competitivo dentro de su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 111,0 kWh y una capacidad neta utilizable de 107,0 kWh, proporcionando un buffer de 4,0 kWh (3,6%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 111,0 kWh y una capacidad neta utilizable de 107,0 kWh, proporcionando un buffer de 4,0 kWh (3,6%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 561 y 552 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 19,1 kWh/100 km para el modelo base y 19,4 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 561 a 552 km (349-343 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 19,1 kWh/100 km para el modelo base y 19,4 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 70 minutos, mientras que un escenario más común del 10 al 80 % tardaría 33 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 134kW. Cada sesión de carga tardaría 23 minutos y 57 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 250 kW. Cargar del 0% al 100% toma aproximadamente 70 minutos, mientras que un escenario más típico del 10% al 80% toma 33 minutos con una velocidad de carga promedio de 137 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 5% al 53%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 134 kW, con cada sesión de carga tomando aproximadamente 23 minutos y 57 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 10 minutos. Este viaje requeriría dos paradas de carga del 3% al 56%, con un tiempo total de carga de 51 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 10 minutos, requiriendo dos paradas de carga del 3% al 56%, totalizando 51 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 43 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 9 horas y 43 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está ubicado en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side), lo que facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Polestar 3 Long Range Dual Motor Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
+El Polestar 3 Long Range Dual Motor Performance cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje.
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 181 mm y la máxima es 241 mm.
+La suspensión delantera es de [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es completamente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar manual y automáticamente. La distancia mínima al suelo es de 181 mm, y la máxima es de 241 mm.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 390 mm.
+El Polestar 3 Long Range Dual Motor Performance está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 400 mm, mientras que los discos traseros son de 390 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción y **el modo Creep** mueve el coche hacia adelante a baja velocidad.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Puede elegir entre dos modos de parada para la conducción con un solo pedal. El **modo Hold** detiene el vehículo completamente utilizando frenos de fricción y el **modo Creep** mueve el coche hacia adelante a baja velocidad.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Polestar 3 Long Range Dual Motor Performance, con dimensiones de 4900 mm de longitud, 1968 mm de anchura y 1614 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Polestar 3 Long Range Dual Motor Performance está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El Polestar 3 Long Range Dual Motor Performance, con dimensiones de 4900 mm de longitud, 1968 mm de ancho y 1614 mm de altura, pertenece a los SUVs de tamaño medio que ofrecen una combinación de espacio, comodidad, rendimiento y versatilidad, haciéndolos adecuados para una amplia gama de conductores con diversas necesidades. El Polestar 3 Long Range Dual Motor Performance está disponible en un total de 6 colores de pintura, incluidos varios llamativos colores metálicos.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Polestar 3 Long Range Dual Motor Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el Polestar 3 Long Range Dual Motor Performance, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 295/40 en llantas de 22" traseras
+- 265/40 neumáticos en llantas de 22" delanteras y 295/40 neumáticos en llantas de 22" traseras
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
+Hay dos opciones de techo diferentes para elegir. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tintado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/exterior_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
@@ -84,70 +84,70 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+Hay un tipo de asiento que puede seleccionar en diferentes materiales.
 
 ### Asientos
 
-El Polestar 3 Long Range Dual Motor Performance tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Polestar 3 Long Range Dual Motor Performance acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Polestar 3 Long Range Dual Motor Performance ofrece un único tipo de asiento delantero.
+El Polestar 3 Long Range Dual Motor Performance ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapicería de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2249"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 40:60, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2248"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Polestar 3 Long Range Dual Motor Performance incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Polestar 3 Long Range Dual Motor Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+El Polestar 3 Long Range Dual Motor Performance tiene múltiples pantallas integradas. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 9,0 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 14,5 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 9,0 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 14,5 pulgadas.
 
-Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una característica estándar que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
 
@@ -155,72 +155,72 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 El Polestar 3 Long Range Dual Motor Performance está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Polestar 3 Long Range Dual Motor Performance.
+Puede elegir entre dos sistemas de sonido para el Polestar 3 Long Range Dual Motor Performance:
 
-- Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
-- Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
+- **High Performance:** Cuenta con ocho altavoces y ofrece una potencia máxima de 200 vatios.
+- **Bowers & Wilkins:** Cuenta con 25 altavoces y ofrece una potencia máxima de 1610 vatios.
 
-El modelo tiene 4 conexiones USB-C de serie.
+Además, el modelo incluye 4 conexiones USB-C como estándar.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Polestar 3 Long Range Dual Motor Performance.
+Puede elegir entre dos tipos de faros delanteros para el Polestar 3 Long Range Dual Motor Performance.
 
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+- **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como opción, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al apagar áreas específicas pequeñas al frente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Polestar 3 Long Range Dual Motor Performance incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Polestar 3 Long Range Dual Motor Performance cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
-[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una función Estándar que ayuda a los conductores a anticipar las condiciones de manejo y conservar energía.
+[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una característica Estándar que ayuda a los conductores a anticipar las condiciones de conducción y conservar energía.
 
 ### Sistemas de Seguridad
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Polestar 3 Long Range Dual Motor Performance, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar Pilot Assist de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Pilot Assist de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Polestar 3 Long Range Dual Motor Performance está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Polestar 3 Long Range Dual Motor Performance está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 484 litros. Con el asiento trasero plegado, esto se expande a 1411 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros.
+El maletero ofrece una capacidad de carga de 484 litros (17,1 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1411 litros (49,8 pies cúbicos). En el techo, puede cargar hasta 100 kg (220,5 libras). Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros (1,1 pies cúbicos).
 
-El peso máximo del vehículo es 3080 kg, con un peso base de 2600 kg. Esto permite una carga máxima de 480 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 480 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+El peso máximo del vehículo es de 3080 kg (6790 libras), con un peso base de 2600 kg (5732 libras). Esto permite una carga máxima de 480 kg (1058 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 480 kg se considera bajo para este tipo de coche y podría restringir la cantidad de cosas que puede llevar además de los pasajeros.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2200 kg, mientras que para un tráiler sin freno es de 750 kg.
-{{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Rango" >}}
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 2200 kg (4850 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
+{{< pagenavigation b_url="../" b_title="Polestar 3" f_url="rangeandconsumption/" f_title="Autonomía" >}}

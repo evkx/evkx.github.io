@@ -1,7 +1,7 @@
 ---
-title: Rimac Nevera galería
+title: Galería de Rimac Nevera
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Rimac Nevera. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Rimac Nevera. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

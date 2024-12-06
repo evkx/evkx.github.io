@@ -1,5 +1,5 @@
 ---
-title: Tesla Model Y Standard Range reseñas
+title: Reseñas de Tesla Model Y Standard Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

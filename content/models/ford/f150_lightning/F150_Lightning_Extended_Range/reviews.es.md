@@ -1,5 +1,5 @@
 ---
-title: Ford F150 Lightning Extended Range reseñas
+title: Reseñas de Ford F150 Lightning Extended Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

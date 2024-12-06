@@ -1,5 +1,5 @@
 ---
-title: Automobili Pininfarina Battista reseñas
+title: Reseñas de Automobili Pininfarina Battista
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

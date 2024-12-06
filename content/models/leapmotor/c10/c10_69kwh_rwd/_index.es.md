@@ -1,7 +1,7 @@
 ---
 title: Leapmotor C10 69kWh RWD
 linktitle: "C10 69kWh RWD"
-description: "Leapmotor C10 69kWh RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 420 km (261 millas). EVKX.net tiene todos los detalles."
+description: "Leapmotor C10 69kWh RWD es un SUV eléctrico con una autonomía WLTP de hasta 420 km (261 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,81 +11,81 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/main_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1687"  >}}
 
-Hemos separado nuestro artículo Leapmotor C10 69kWh RWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Leapmotor C10 69kWh RWD ofrece un rendimiento modesto con una potencia máxima de 170 kW (231 hp) y un par total de 320 Nm. Acelera de 0 a 100 km/h en 7,29 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Leapmotor C10 69kWh RWD ofrece un rendimiento modesto con una potencia máxima de 170 kW (231 hp / 228 bhp) y un par total de 320 Nm (236 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 7,29 segundos y alcanza una velocidad máxima de 170 km/h (106 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 69,9 kWh y una capacidad neta utilizable de 67,0 kWh, proporcionando un buffer de 2,9 kWh (4,1%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 69,9 kWh y una capacidad neta utilizable de 67,0 kWh, proporcionando un buffer de 2,9 kWh (4,1%) para la protección de la batería. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 420 km, con una tasa de consumo de energía de 16,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 420 km (261 millas), con una tasa de consumo de energía de 16,0 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 80kW. Una carga completa del 0 al 100 % tardaría 109 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 16% al 80%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 63kW. Cada sesión de carga tardaría 41 minutos y 50 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 80 kW. Cargar del 0% al 100% toma aproximadamente 109 minutos, mientras que un escenario más típico del 10% al 80% toma 41 minutos con una velocidad de carga promedio de 69 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 16% al 80%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 63 kW, con cada sesión de carga tomando aproximadamente 41 minutos y 50 segundos.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 6,7 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 10 horas y 0 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 6,7 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 10 horas y 0 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
-### Carga bidireccional
+### Carga Bidireccional
 
-Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 3,3 kW de potencia, incluida la carga de otros vehículos.
+Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos eléctricos que requieren hasta 3,3 kW de potencia, incluida la capacidad de cargar otros vehículos.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Leapmotor C10 69kWh RWD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El Leapmotor C10 69kWh RWD tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 180 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 180 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Leapmotor C10 69kWh RWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una característica estándar en el Leapmotor C10 69kWh RWD, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+El Leapmotor C10 69kWh RWD está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
 
 ## Exterior
 
-El Leapmotor C10 69kWh RWD, con dimensiones de 4739 mm de longitud, 1900 mm de anchura y 1680 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Leapmotor C10 69kWh RWD está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Leapmotor C10 69kWh RWD, con dimensiones de 4739 mm de longitud, 1900 mm de ancho y 1680 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. El Leapmotor C10 69kWh RWD está disponible en un total de 6 colores de pintura, incluidos tanto colores sólidos como metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Leapmotor C10 69kWh RWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Leapmotor C10 69kWh RWD ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 235/55 en llantas de 18
-- Neumáticos 245/45 en llantas de 20
+- 235/55 neumáticos en llantas de 18"
+- 245/45 neumáticos en llantas de 20"
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate).
 
-Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Solo hay una opción de techo para este modelo. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
-Las ventanas del pilar B y la parte trasera están tintadas.
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/exterior_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
@@ -93,67 +93,67 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-El interior del Leapmotor C10 69kWh RWD es minimalista, con materiales de alta calidad en varias áreas en lugar de plástico duro. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Puedes elegir entre varios diseños de interiores.
+El interior del Leapmotor C10 69kWh RWD es minimalista, con materiales de alta calidad en varias áreas en lugar de plástico duro. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Puede elegir entre varios diseños de interiores.
 
 ### Asientos
 
-El Leapmotor C10 69kWh RWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Leapmotor C10 69kWh RWD acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Leapmotor C10 69kWh RWD ofrece un único tipo de asiento delantero.
+El Leapmotor C10 69kWh RWD ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente para el conductor, no disponible para el pasajero)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico para el conductor, no disponible para el pasajero)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Purple [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Orange [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Purple [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Orange [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/frontseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1999"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment)
-- reposacabezas ajustable en altura
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+- Reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/secondrowseats_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Leapmotor C10 69kWh RWD incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-La interfaz de control de este modelo de vehículo eléctrico está centrada en la interacción con la pantalla y solo tiene una funcionalidad limitada disponible en botones y palancas. Para algunos, esto puede resultar en una experiencia de usuario y usabilidad menos que ideal.
+La interfaz de control del Leapmotor C10 69kWh RWD se centra principalmente en la interacción con la pantalla, con funcionalidad limitada disponible a través de botones físicos y palancas. Este diseño puede resultar en una experiencia de usuario y usabilidad menos que ideal para algunos usuarios.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante montado en el tablero mide 10,3 pulgadas de tamaño
-- La touch pantalla en el medio de la consola central mide 14,6 pulgadas de tamaño
+- La pantalla  detrás del volante montado en el tablero mide 10,3 pulgadas.
+- La pantalla touch en el medio de la consola central mide 14,6 pulgadas.
 
-El modelo no tiene head-up display.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/screens_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
@@ -161,84 +161,84 @@ El modelo no tiene head-up display.
 
 El Leapmotor C10 69kWh RWD está equipado con un solo tipo de volante:
 
-- **Volante Ovalado:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También incluye dos ruedas de desplazamiento multifuncionales, que te permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
+- **Volante Ovalado:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También incluye dos ruedas de desplazamiento multifuncionales, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el Leapmotor C10 69kWh RWD.
+El Leapmotor C10 69kWh RWD viene equipado con una opción de sistema de sonido:
 
-- Con el Leapmotor sound system, obtienes 12 parlantes con una salida máxima del sistema de 840 vatios.
+- **Leapmotor sound system:** Cuenta con 12 altavoces y ofrece una potencia máxima de 840 vatios.
 
-El modelo tiene 1 conexiones USB-C de serie. Como opción, puedes obtener 1 conexiones USB-C adicionales. El modelo tiene 1 conexiones USB-A de serie. Como opción, puedes obtener 1 conexiones USB-C adicionales.
+Además, el modelo incluye 1 conexiones USB-C como estándar. Como opción, puede obtener 1 conexiones USB-C adicionales. El modelo tiene 1 conexiones USB-A como estándar. Como opción, puede obtener 1 conexiones USB-C adicionales.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/headlights_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Leapmotor C10 69kWh RWD incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Leapmotor C10 69kWh RWD cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Leapmotor C10 69kWh RWD, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Leapmotor C10 69kWh RWD, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Leapmotor C10 69kWh RWD, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Leapmotor C10 69kWh RWD, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Leapmotor C10 69kWh RWD, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Leapmotor C10 69kWh RWD, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Leapmotor C10 69kWh RWD, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Leapmotor C10 69kWh RWD, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Opcional en el Leapmotor C10 69kWh RWD, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
-[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Leapmotor C10 69kWh RWD, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Leapmotor C10 69kWh RWD, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar Leapmotor Pilot  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Leapmotor Pilot  de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), siete [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean el entorno del vehículo.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), siete [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Leapmotor C10 69kWh RWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Leapmotor C10 69kWh RWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
-- **Funcionalidad de teléfono como llave:** Con la tecnología de teléfono como llave, puede usar su teléfono inteligente como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Funcionalidad de Teléfono como Llave:** Con la tecnología de teléfono como llave, puede usar su smartphone como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 425 litros. Con el asiento trasero plegado, esto se expande a 1410 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 425 litros (15,0 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1410 litros (49,8 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Los rieles del techo son estándar para facilitar el montaje de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 2315 kg, con un peso base de 1940 kg. Esto permite una carga máxima de 375 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 375 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+El peso máximo del vehículo es de 2315 kg (5104 libras), con un peso base de 1940 kg (4277 libras). Esto permite una carga máxima de 375 kg (827 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 375 kg se considera bajo para este tipo de coche y podría restringir la cantidad de cosas que puede llevar además de los pasajeros.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
 
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/trunk_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="2000"  >}}
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 19.09.2024 y las entregas comenzaron en November 2024.
-{{< pagenavigation b_url="../" b_title="Leapmotor C10" f_url="rangeandconsumption/" f_title="Rango" >}}
+El Leapmotor C10 69kWh RWD tuvo su estreno mundial el 19.09.2024, con entregas comenzando en November 2024.
+{{< pagenavigation b_url="../" b_title="Leapmotor C10" f_url="rangeandconsumption/" f_title="Autonomía" >}}

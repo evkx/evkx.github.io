@@ -1,5 +1,5 @@
 ---
-title: BYD Sealion 7 Excellence reseñas
+title: Reseñas de BYD Sealion 7 Excellence
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

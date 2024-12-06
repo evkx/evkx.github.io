@@ -1,7 +1,7 @@
 ---
-title: Renault Scenic E-Tech electric High Range galería
+title: Galería de Renault Scenic E-Tech electric High Range
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Renault Scenic E-Tech electric High Range. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Renault Scenic E-Tech electric High Range. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

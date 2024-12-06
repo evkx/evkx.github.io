@@ -1,5 +1,5 @@
 ---
-title: Kia EV6 Long Range AWD (GEN1) reseñas
+title: Reseñas de Kia EV6 Long Range AWD (GEN1)
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

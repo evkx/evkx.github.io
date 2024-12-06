@@ -1,7 +1,7 @@
 ---
-title: GMC Hummer EV SUV 3x galería
+title: Galería de GMC Hummer EV SUV 3x
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes GMC Hummer EV SUV 3x. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de GMC Hummer EV SUV 3x. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

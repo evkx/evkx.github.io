@@ -1,5 +1,5 @@
 ---
-title: Leapmotor C10 69kWh RWD reseñas
+title: Reseñas de Leapmotor C10 69kWh RWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

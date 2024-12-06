@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID.5 Pro Performance reseñas
+title: Reseñas de Volkswagen ID.5 Pro Performance
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

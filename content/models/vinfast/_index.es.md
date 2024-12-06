@@ -1,5 +1,5 @@
 ---
-title: VinFast modelos de vehículos eléctricos
+title: Modelos EV de VinFast
 linktitle: "VinFast"
 description: "VinFast is a Vietnamese car company that is part of Vingroup, one of the largest private corporations in Vietnam. VinFast was founded in 2017 and is the first Vietnamese car brand to expand into global markets."
 weight: 30

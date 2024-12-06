@@ -1,5 +1,5 @@
 ---
-title: BYD modelos de vehículos eléctricos
+title: Modelos EV de BYD
 linktitle: "BYD"
 description: "BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. "
 weight: 30
@@ -116,7 +116,7 @@ BYD Seal U es un SUV disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Sealion 7 es un SUV Coupé disponible en 1 variantes.
+BYD Sealion 7 es un SUV cupé disponible en 1 variantes.
 </p>
 	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

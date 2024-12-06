@@ -1,5 +1,5 @@
 ---
-title: MG Marvel R Electric reseñas
+title: Reseñas de MG Marvel R Electric
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

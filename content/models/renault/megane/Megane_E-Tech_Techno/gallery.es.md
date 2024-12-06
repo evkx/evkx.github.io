@@ -1,7 +1,7 @@
 ---
-title: Renault Megane E-Tech Techno galería
+title: Galería de Renault Megane E-Tech Techno
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Renault Megane E-Tech Techno. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Renault Megane E-Tech Techno. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

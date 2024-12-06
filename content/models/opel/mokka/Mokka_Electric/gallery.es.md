@@ -1,7 +1,7 @@
 ---
-title: Opel Mokka Electric galería
+title: Galería de Opel Mokka Electric
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Opel Mokka Electric. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Opel Mokka Electric. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

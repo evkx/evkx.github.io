@@ -1,5 +1,5 @@
 ---
-title: Ford modelos de vehículos eléctricos
+title: Modelos EV de Ford
 linktitle: "Ford"
 description: "Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Capri es un SUV Coupé disponible en 2 variantes.
+Ford Capri es un SUV cupé disponible en 2 variantes.
 </p>
 	<a href="capri/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -56,7 +56,7 @@ Ford Explorer es un crossover disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford F150 Lightning es una camioneta disponible en 2 variantes.
+Ford F150 Lightning es una camioneta pickup disponible en 2 variantes.
 </p>
 	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -71,7 +71,7 @@ Ford F150 Lightning es una camioneta disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Mustang Mach-E es un SUV Coupé disponible en 5 variantes.
+Ford Mustang Mach-E es un SUV cupé disponible en 5 variantes.
 </p>
 	<a href="mustang_mach-e/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

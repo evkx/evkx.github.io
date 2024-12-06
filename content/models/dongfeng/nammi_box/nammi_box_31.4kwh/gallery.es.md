@@ -1,7 +1,7 @@
 ---
-title: Dongfeng Nammi Box 31.4kWh galería
+title: Galería de Dongfeng Nammi Box 31.4kWh
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Dongfeng Nammi Box 31.4kWh. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Dongfeng Nammi Box 31.4kWh. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

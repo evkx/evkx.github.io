@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron 50 galería
+title: Galería de Audi e-tron 50
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Audi e-tron 50. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Audi e-tron 50. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

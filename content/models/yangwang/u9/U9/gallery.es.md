@@ -1,7 +1,7 @@
 ---
-title: YangWang U9 galería
+title: Galería de YangWang U9
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes YangWang U9. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de YangWang U9. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

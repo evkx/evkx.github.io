@@ -1,5 +1,5 @@
 ---
-title: Ford Explorer Standard Range RWD reseñas
+title: Reseñas de Ford Explorer Standard Range RWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

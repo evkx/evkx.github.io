@@ -1,7 +1,7 @@
 ---
 title: BYD Seagull 38kWh
 linktitle: "Seagull 38kWh"
-description: "BYD Seagull 38kWh es un hatchback totalmente eléctrico con un CLTC alcance de hasta 405 km (252 millas). EVKX.net tiene todos los detalles."
+description: "BYD Seagull 38kWh es un hatchback eléctrico con una autonomía CLTC de hasta 405 km (252 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,78 +11,78 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
-Hemos separado nuestro artículo BYD Seagull 38kWh en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El BYD Seagull 38kWh kWh ofrece un rendimiento básico con una potencia máxima de 55 kW (75 hp) y un par total de 135 Nm. Acelera de 0 a 100 km/h en 13 segundos y alcanza una velocidad máxima de 130 km/h, lo que es más comparable a los modelos de entrada de vehículos tradicionales de motor de combustión interna.
+El BYD Seagull 38kWh kWh ofrece un rendimiento básico con una potencia máxima de 55 kW (75 hp / 74 bhp) y un par total de 135 Nm (100 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 13 segundos y alcanza una velocidad máxima de 130 km/h (81 mph), comparable a los vehículos tradicionales de motor de combustión interna de nivel básico.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 38,8 kWh y una capacidad neta utilizable de 37,0 kWh, proporcionando un buffer de 1,8 kWh (4,6%) para la protección de la batería. Con un voltaje nominal de 403 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 38,8 kWh y una capacidad neta utilizable de 37,0 kWh, proporcionando un buffer de 1,8 kWh (4,6%) para la protección de la batería. Con un voltaje nominal de 403 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 405 km (252 millas). El consumo es de 9,1kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+La autonomía del vehículo, según el estándar [CLTC](../../../../guides/understandingrange/cltc/) (Ciclo de Prueba de Vehículos Ligeros de China), es de 405 km (252 millas). El consumo de energía es de 9,1 kWh/100 km según la prueba estándar CLTC. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 40kW. Una carga completa del 0 al 100 % tardaría 86 minutos, mientras que un escenario más común del 10 al 80 % tardaría 43 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 13% al 75%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 33kW. Cada sesión de carga tardaría 42 minutos y 16 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 40 kW. Cargar del 0% al 100% toma aproximadamente 86 minutos, mientras que un escenario más típico del 10% al 80% toma 43 minutos con una velocidad de carga promedio de 36 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 13% al 75%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 33 kW, con cada sesión de carga tomando aproximadamente 42 minutos y 16 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19 kWh/100 km, el viaje tomaría aproximadamente 13 horas y 4 minutos. Este viaje requeriría dos paradas de carga del 10% al 79%, con un tiempo total de carga de 284 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 19 kWh/100 km, el viaje tomaría aproximadamente 13 horas y 4 minutos, requiriendo seis paradas de carga del 10% al 79%, totalizando 284 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 6,6 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 36 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 6,6 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 5 horas y 36 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está convenientemente ubicado en el [lado delantero derecho](../../../../technology/charging/connectors/#front-side), facilitando el acceso en estaciones de carga donde estaciona paralelo al cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-BYD Seagull 38kWh tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
+El BYD Seagull 38kWh tiene un sistema de tracción delantera soportado por un motor en el eje delantero. El motor utilizado es un [Motor de Inducción](../../../../technology/motors/asm/).
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 150 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el BYD Seagull 38kWh. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una característica estándar en el BYD Seagull 38kWh, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+El BYD Seagull 38kWh está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
-La potencia regenerativa máxima es de 200 kW.
+La potencia máxima de regeneración es de 200 kW.
 
 ## Exterior
 
-El BYD Seagull 38kWh, con dimensiones de 3780 mm de longitud, 1715 mm de anchura y 1540 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. El BYD Seagull 38kWh está disponible en un total de 4 colores de pintura sólidos.
+El BYD Seagull 38kWh, con dimensiones de 3780 mm de longitud, 1715 mm de ancho y 1540 mm de altura, pertenece al segmento de coches Mini, a menudo conocidos como coches de ciudad o coches del segmento A, que son la clase más pequeña de coches. Están diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. El BYD Seagull 38kWh está disponible en un total de 4 colores de pintura sólidos.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Seagull 38kWh, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Seagull 38kWh, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 235/50 en llantas de 17
+- 235/50 neumáticos en llantas de 17"
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate).
 
-Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
+Solo hay una opción de techo para este modelo. El estándar es solo un techo regular.
 
-Las ventanas del pilar B y la parte trasera están tintadas.
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
@@ -92,56 +92,56 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ### Asientos
 
-La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
+La disposición de asientos consiste en dos asientos delanteros y dos asientos traseros.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El BYD Seagull 38kWh ofrece un único tipo de asiento delantero.
+El BYD Seagull 38kWh ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (opcional)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
-- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zona:** Soporta el control de una sola zona compartida para todo el coche.
 
-Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Este modelo no tiene una [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en clima frío en comparación con los modelos con bomba de calor.
 
-## Características de confort
+## Características de Confort
 
 El BYD Seagull 38kWh incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El BYD Seagull 38kWh tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+El BYD Seagull 38kWh tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante montado en el tablero mide 7,0 pulgadas de tamaño
-- La touch pantalla en el centro del tablero mide 10,1 pulgadas de tamaño
+- La pantalla  detrás del volante montado en el tablero mide 7,0 pulgadas.
+- La pantalla touch en el centro del tablero mide 10,1 pulgadas.
 
-El modelo no tiene head-up display.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 
@@ -149,69 +149,69 @@ El modelo no tiene head-up display.
 
 El BYD Seagull 38kWh está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el BYD Seagull 38kWh.
+El BYD Seagull 38kWh viene equipado con una opción de sistema de sonido:
 
 - **Dirac:** Cuenta con ocho altavoces.
 
-El modelo tiene 1 conexiones USB-A de serie.
+El modelo tiene 1 conexiones USB-A como estándar.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El BYD Seagull 38kWh incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El BYD Seagull 38kWh cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el BYD Seagull 38kWh, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el BYD Seagull 38kWh, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el BYD Seagull 38kWh, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el BYD Seagull 38kWh, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el BYD Seagull 38kWh, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el BYD Seagull 38kWh, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el BYD Seagull 38kWh, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Opcional en el BYD Seagull 38kWh, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Opcional en el BYD Seagull 38kWh, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 ### Automatización de la Conducción
 
-BYD Seagull 38kWh ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El BYD Seagull 38kWh ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El BYD Seagull 38kWh está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El BYD Seagull 38kWh está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 300 litros. Con el asiento trasero plegado, esto se expande a 900 litros.
+El maletero ofrece una capacidad de carga de 300 litros (10,6 pies cúbicos). Con el asiento trasero abatido, esto se expande a 900 litros (31,8 pies cúbicos).
 
-El peso máximo del vehículo es 1550 kg, con un peso base de 1240 kg. Esto permite una carga máxima de 310 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 1550 kg (3417 libras), con un peso base de 1240 kg (2734 libras). Esto permite una carga máxima de 310 kg (683 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
-{{< pagenavigation b_url="../" b_title="BYD Seagull" f_url="rangeandconsumption/" f_title="Rango" >}}
+Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
+{{< pagenavigation b_url="../" b_title="BYD Seagull" f_url="rangeandconsumption/" f_title="Autonomía" >}}

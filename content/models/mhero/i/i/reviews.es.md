@@ -1,5 +1,5 @@
 ---
-title: MHERO I reseñas
+title: Reseñas de MHERO I
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

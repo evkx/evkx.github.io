@@ -1,7 +1,7 @@
 ---
 title: Seres 5 4WD Premium
 linktitle: "5 4WD Premium"
-description: "Seres 5 4WD Premium es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 483 km (300 millas). EVKX.net tiene todos los detalles."
+description: "Seres 5 4WD Premium es un SUV cupé eléctrico con una autonomía WLTP de hasta 483 km (300 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,77 +11,77 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-Hemos separado nuestro artículo Seres 5 4WD Premium en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Seres 5 4WD Premium impresiona con una potencia máxima de 430 kW (585 hp) y un impresionante par total de 940 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
+El Seres 5 4WD Premium ofrece una impresionante potencia máxima de 430 kW (585 hp / 577 bhp) y un par total de 940 Nm (694 lb-ft). Este vehículo de alto rendimiento puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 4 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), destacándose en su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 80,0 kWh y una capacidad neta utilizable de 78,0 kWh, proporcionando un buffer de 2,0 kWh (2,5%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 80,0 kWh y una capacidad neta utilizable de 78,0 kWh, proporcionando un buffer de 2,0 kWh (2,5%) para la protección de la batería. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 483 km, con una tasa de consumo de energía de 16,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 483 km (300 millas), con una tasa de consumo de energía de 16,1 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 93 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 32 minutos y 26 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 100 kW. Cargar del 0% al 100% toma aproximadamente 93 minutos, mientras que un escenario más típico del 10% al 80% toma 42 minutos con una velocidad de carga promedio de 78 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 7% al 61%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 78 kW, con cada sesión de carga tomando aproximadamente 32 minutos y 26 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 34 minutos. Este viaje requeriría dos paradas de carga del 6% al 62%, con un tiempo total de carga de 135 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 34 minutos, requiriendo cuatro paradas de carga del 6% al 62%, totalizando 135 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 5 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 5 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está ubicado en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side), lo que facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Seres 5 4WD Premium tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
+El Seres 5 4WD Premium cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores de Inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/) en el eje trasero.
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 185 mm.
+La suspensión delantera emplea un diseño de [doble horquilla](../../../../technology/suspension/#double-wishbone), mientras que la trasera utiliza una configuración [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 185 mm.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+El Seres 5 4WD Premium está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Seres 5 4WD Premium, con dimensiones de 4710 mm de longitud, 1930 mm de anchura y 1620 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Seres 5 4WD Premium está disponible en un total de 8 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El Seres 5 4WD Premium, con dimensiones de 4710 mm de longitud, 1930 mm de ancho y 1620 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. El Seres 5 4WD Premium está disponible en un total de 8 colores de pintura, incluidos varios llamativos colores metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Seres 5 4WD Premium, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Seres 5 4WD Premium ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 255/50 en llantas de 19
-- Neumáticos 255/45 en llantas de 20
+- 255/50 neumáticos en llantas de 19"
+- 255/45 neumáticos en llantas de 20"
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tintado para proteger contra el calor del sol.
 
-Las ventanas del pilar B y la parte trasera están tintadas.
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
 
@@ -89,61 +89,61 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Puedes elegir entre varios diseños de interiores.
+Puede elegir entre varios diseños de interiores.
 
 ### Asientos
 
-El Seres 5 4WD Premium tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Seres 5 4WD Premium acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Seres 5 4WD Premium ofrece un único tipo de asiento delantero.
+El Seres 5 4WD Premium ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Beige [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Red [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-## Características de confort
+## Características de Confort
 
 El Seres 5 4WD Premium incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
-- La  pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 12,3 pulgadas.
+- La pantalla  en el centro del tablero mide 15,6 pulgadas.
 
-Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una característica estándar que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
@@ -151,71 +151,71 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 El Seres 5 4WD Premium está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el Seres 5 4WD Premium.
+El Seres 5 4WD Premium viene equipado con una opción de sistema de sonido:
 
 - **:** Cuenta con 11 altavoces.
 
-El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
+Además, el modelo incluye 2 conexiones USB-C como estándar. El modelo tiene 2 conexiones USB-A como estándar.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Seres 5 4WD Premium incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Seres 5 4WD Premium cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Seres 5 4WD Premium, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Seres 5 4WD Premium, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Seres 5 4WD Premium, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Seres 5 4WD Premium, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Seres 5 4WD Premium, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Seres 5 4WD Premium, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Seres 5 4WD Premium, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Seres 5 4WD Premium, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Seres 5 4WD Premium, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Seres 5 4WD Premium, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Seres 5 4WD Premium, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar  de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Seres 5 4WD Premium está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Seres 5 4WD Premium está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 367 litros. Con el asiento trasero plegado, esto se expande a 723 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 67 litros.
+El maletero ofrece una capacidad de carga de 367 litros (13,0 pies cúbicos). Con el asiento trasero abatido, esto se expande a 723 litros (25,5 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 67 litros (2,4 pies cúbicos).
 
-El peso máximo del vehículo es 2735 kg, con un peso base de 2360 kg. Esto permite una carga máxima de 375 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 375 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+El peso máximo del vehículo es de 2735 kg (6030 libras), con un peso base de 2360 kg (5203 libras). Esto permite una carga máxima de 375 kg (827 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 375 kg se considera bajo para este tipo de coche y podría restringir la cantidad de cosas que puede llevar además de los pasajeros.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
-{{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Rango" >}}
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1500 kg (3307 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
+{{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Autonomía" >}}

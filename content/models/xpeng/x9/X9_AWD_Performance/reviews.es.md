@@ -1,5 +1,5 @@
 ---
-title: XPENG X9 AWD Performance reseñas
+title: Reseñas de XPENG X9 AWD Performance
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

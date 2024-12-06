@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 450 4MATIC
 linktitle: "EQS 450 4MATIC"
-description: "Mercedes-EQ EQS 450 4MATIC es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 696 km (433 millas). EVKX.net tiene todos los detalles."
+description: "Mercedes-EQ EQS 450 4MATIC es un sedán eléctrico de lujo con una autonomía WLTP de hasta 696 km (433 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,85 +11,85 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2000"  >}}
 
-Hemos separado nuestro artículo Mercedes-EQ EQS 450 4MATIC en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Mercedes-EQ EQS 450 4MATIC ofrece un rendimiento sólido con una potencia máxima de 265 kW (360 hp) y un par total de 800 Nm. Puede acelerar de 0 a 100 km/h en 5,6 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
+El Mercedes-EQ EQS 450 4MATIC ofrece un rendimiento sólido con una potencia máxima de 265 kW (360 hp / 355 bhp) y un par total de 800 Nm (590 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 5,6 segundos y alcanza una velocidad máxima de 210 km/h (131 mph), siendo competitivo dentro de su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 120,0 kWh y una capacidad neta utilizable de 108,4 kWh, proporcionando un buffer de 11,6 kWh (9,7%) para la protección de la batería. Con un voltaje nominal de 396 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 120,0 kWh y una capacidad neta utilizable de 108,4 kWh, proporcionando un buffer de 11,6 kWh (9,7%) para la protección de la batería. Con un voltaje nominal de 396 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 696 y 582 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,6 kWh/100 km para el modelo base y 18,6 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 696 a 582 km (433-362 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 15,6 kWh/100 km para el modelo base y 18,6 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 210kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 56%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 139kW. Cada sesión de carga tardaría 26 minutos y 39 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 210 kW. Cargar del 0% al 100% toma aproximadamente 84 minutos, mientras que un escenario más típico del 10% al 80% toma 30 minutos con una velocidad de carga promedio de 150 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 56%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 139 kW, con cada sesión de carga tomando aproximadamente 26 minutos y 39 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 8 minutos. Este viaje requeriría dos paradas de carga del 1% al 53%, con un tiempo total de carga de 49 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 8 minutos, requiriendo dos paradas de carga del 1% al 53%, totalizando 49 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 55 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 22 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 4 horas y 55 minutos usando una configuración doméstica.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1687"  >}}
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Mercedes-EQ EQS 450 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El Mercedes-EQ EQS 450 4MATIC cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 82 mm y la máxima es 127 mm.
+La suspensión es completamente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar manual y automáticamente. La distancia mínima al suelo es de 82 mm, y la máxima es de 127 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Mercedes-EQ EQS 450 4MATIC. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La dirección dinámica es una característica estándar en el Mercedes-EQ EQS 450 4MATIC, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados. Además, la dirección en las ruedas traseras está disponible como una característica una característica estándar. La dirección en las ruedas traseras reduce el círculo de giro cuando se va despacio.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 415 mm y los discos traseros de 378 mm.
+El Mercedes-EQ EQS 450 4MATIC está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 415 mm, mientras que los discos traseros son de 378 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza cuando es posible y emplea el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos combina frenos físicos solo cuando es necesario. <br /><br/> Otra opción es el modo [**Regeneración en el Pedal del Acelerador**](../../../../technology/regen/#one-pedal-driving) donde el frenado regenerativo se activa cuando el conductor levanta el pie del pedal del acelerador. Este sistema permite que el vehículo disminuya la velocidad y recupere energía sin que el conductor necesite presionar el pedal del freno, una característica a menudo denominada **conducción con un solo pedal**. Puede elegir entre dos modos de parada para la conducción con un solo pedal. El **modo Hold** detiene el vehículo completamente utilizando frenos de fricción, y el **modo Roll** permite que el vehículo ruede hasta detenerse naturalmente.
 
-La potencia regenerativa máxima es de 300 kW.
+La potencia máxima de regeneración es de 300 kW.
 
 ## Exterior
 
-El Mercedes-EQ EQS 450 4MATIC, con dimensiones de 5216 mm de longitud, 1926 mm de anchura y 1512 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Mercedes-EQ EQS 450 4MATIC ofrece una selección de 11 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'MANUFAKTUR'.
+El Mercedes-EQ EQS 450 4MATIC, con dimensiones de 5216 mm de longitud, 1926 mm de ancho y 1512 mm de altura, pertenece al segmento de coches F, también conocidos como coches de lujo o coches de lujo de tamaño completo, que representan el pináculo del lujo automotriz, el rendimiento y la tecnología. Son típicamente sedanes grandes o limusinas y están diseñados para ofrecer el máximo en comodidad, prestigio y características avanzadas. El Mercedes-EQ EQS 450 4MATIC ofrece una selección de 11 colores de pintura, con opciones sólidas, metálicas y mate. Junto con la paleta estándar, hay colores exclusivos disponibles de la paleta 'MANUFAKTUR'.
 
-También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
+También puedes elegir entre varias opciones de estilo para hacer tu automóvil más único.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQS 450 4MATIC, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Mercedes-EQ EQS 450 4MATIC ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 235/55 en llantas de 19
-- Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
-- Neumáticos 265/40 en llantas de 20" delanteras y neumáticos 295/35 en llantas de 20" traseras
-- Neumáticos 265/35 en llantas de 22" delanteras y neumáticos 295/30 en llantas de 22" traseras
+- 235/55 neumáticos en llantas de 19"
+- 265/40 neumáticos en llantas de 21" delanteras y 295/35 neumáticos en llantas de 21" traseras
+- 265/40 neumáticos en llantas de 20" delanteras y 295/35 neumáticos en llantas de 20" traseras
+- 265/35 neumáticos en llantas de 22" delanteras y 295/30 neumáticos en llantas de 22" traseras
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El coche tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate), lo que hace que el maletero sea mucho más utilizable en comparación con una tapa de maletero tradicional, especialmente para un sedán. La puerta levadiza es eléctrica y tiene un sensor de patada de serie.
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate), lo que hace que el maletero sea mucho más utilizable en comparación con un portón trasero tradicional, especialmente para un sedán. El portón trasero es de apertura eléctrica y tiene un sensor de patada como estándar.
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo panorámico. El vidrio tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de vidrio tienen una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -97,92 +97,92 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ### Asientos
 
-El Mercedes-EQ EQS 450 4MATIC tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Mercedes-EQ EQS 450 4MATIC acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-Para la primera fila, el Mercedes-EQ EQS 450 4MATIC ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente como opción)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico opcional)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 
-Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-Las siguientes funcionalidades están disponibles en el asiento **multicontour**.
+Las siguientes funcionalidades están disponibles en el asiento **multicontour**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
-- reposacabezas de longitud ajustable
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- Reposacabezas ajustable en altura
+- Reposacabezas ajustable en longitud
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="4085"  >}}
 
-#### Asientos de la segunda fila
+#### Asientos de la Segunda Fila
 
-Puedes elegir dos tipos de asientos para la segunda fila en el Mercedes-EQ EQS 450 4MATIC.
+Puede elegir entre dos tipos de asientos para la segunda fila en el Mercedes-EQ EQS 450 4MATIC.
 
-La opción standard es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La opción standard es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- reposacabezas ajustable en altura
+- Reposacabezas ajustable en altura
 
-La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La opción second es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- reposacabezas ajustable en altura
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- Reposacabezas ajustable en altura
+- [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2250"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay dos opciones de sistema de climatización disponibles:
+Hay dos opciones de sistemas de climatización disponibles:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-## Características de confort
+## Características de Confort
 
 El Mercedes-EQ EQS 450 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-Hay dos configuraciones de pantalla diferentes disponibles en Mercedes-EQ EQS 450 4MATIC.
+Hay dos configuraciones de pantalla diferentes disponibles en el Mercedes-EQ EQS 450 4MATIC.
 
-El diseño estándar tiene la siguiente configuración.
-
-Detalles clave de la pantalla:
-
-- La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño
-- La touch pantalla en el medio de la consola central mide 12,8 pulgadas de tamaño
-
-El diseño opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+La configuración estándar tiene la siguiente configuración.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 17,7 pulgadas de tamaño
-- La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
+- La pantalla  detrás del volante montado en el tablero mide 12,3 pulgadas.
+- La pantalla touch en el medio de la consola central mide 12,8 pulgadas.
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+La configuración opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) frente al asiento del pasajero.
+
+Detalles clave de la pantalla:
+
+- La pantalla  detrás del volante integrado en el tablero mide 12,3 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 17,7 pulgadas.
+- La pantalla  en frente del pasajero en el tablero mide 12,3 pulgadas.
+
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1875"  >}}
 
@@ -190,97 +190,97 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Mercedes-EQ EQS 450 4MATIC está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
+Este modelo tiene un sistema de control por voz opcional. El control por voz le permite controlar algunas funciones a través de comandos de voz.
 
-Este modelo también tiene un sistema de control de gestos opcional que te permite controlar funciones específicas.
+Este modelo también tiene un sistema de control por gestos opcional que le permite controlar funciones específicas.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Mercedes-EQ EQS 450 4MATIC es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Mercedes-EQ EQS 450 4MATIC es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQS 450 4MATIC.
+Puede elegir entre dos sistemas de sonido para el Mercedes-EQ EQS 450 4MATIC:
 
-- Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
-- Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+- **Advanced Soundsystem:** Cuenta con nueve altavoces y ofrece una potencia máxima de 225 vatios.
+- **Burmester Surround Soundsystem:** Cuenta con 13 altavoces y ofrece una potencia máxima de 590 vatios.
 
-El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+Además, el modelo incluye 4 conexiones USB-C como estándar. Como opción, puede obtener 2 conexiones USB-C adicionales.
 
 ## Luces
 
-Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
+El Mercedes-EQ EQS 450 4MATIC viene equipado con faros LED Matrix avanzados. Este sistema adaptativo divide el haz de luz tradicional en múltiples rayos más pequeños, permitiendo que el controlador de luz los encienda y apague selectivamente para evitar deslumbrar a otros conductores. Para mayor seguridad, los faros también incluyen luces de giro que iluminan el lateral al girar.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Mercedes-EQ EQS 450 4MATIC incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Mercedes-EQ EQS 450 4MATIC cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Mercedes-EQ EQS 450 4MATIC, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Opcional en el Mercedes-EQ EQS 450 4MATIC, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
 ### Automatización de la Conducción
 
-Mercedes-EQ EQS 450 4MATIC ofrece [automatización de la conducción en niveles 1, 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El Mercedes-EQ EQS 450 4MATIC ofrece [automatización de la conducción en niveles 1, 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Driver Assistance Package de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema opcional Driver Assistance Package Plus de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional Driver Assistance Package Plus de nivel 2, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-Con el sistema opcional DRIVE PILOT de nivel 3, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional DRIVE PILOT de nivel 3, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
-- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Mercedes-EQ EQS 450 4MATIC está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Mercedes-EQ EQS 450 4MATIC está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 610 litros. Con el asiento trasero plegado, esto se expande a 1770 litros. En el techo, puedes cargar hasta 100 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 610 litros (21,5 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1770 litros (62,5 pies cúbicos). En el techo, puede cargar hasta 100 kg (220,5 libras). Los rieles del techo opcionales están disponibles para facilitar el montaje de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 3060 kg, con un peso base de 2540 kg. Esto permite una carga máxima de 520 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 3060 kg (6746 libras), con un peso base de 2540 kg (5600 libras). Esto permite una carga máxima de 520 kg (1146 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 750 kg (1653 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2000"  >}}
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 15.04.2021 y las entregas comenzaron en September 2021. Este modelo ahora ha sido descontinuado.
-{{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Rango" >}}
+Este modelo tuvo su estreno mundial el 15.04.2021, y las entregas comenzaron en September 2021. Este modelo ha sido descontinuado.
+{{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Autonomía" >}}

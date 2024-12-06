@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ G 580 EQ galería
+title: Galería de Mercedes-EQ G 580 EQ
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Mercedes-EQ G 580 EQ. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Mercedes-EQ G 580 EQ. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

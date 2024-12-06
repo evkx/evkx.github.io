@@ -1,7 +1,7 @@
 ---
-title: MG MG5 Electric Long Range galería
+title: Galería de MG MG5 Electric Long Range
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes MG MG5 Electric Long Range. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de MG MG5 Electric Long Range. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

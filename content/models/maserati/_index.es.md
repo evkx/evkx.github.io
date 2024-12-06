@@ -1,5 +1,5 @@
 ---
-title: Maserati modelos de vehículos eléctricos
+title: Modelos EV de Maserati
 linktitle: "Maserati"
 description: "Maserati, the iconic Italian luxury car brand, has a comprehensive EV strategy as part of its commitment to electrification and sustainable growth. The brand has confirmed its dedication to a 100% Engineered and Made in Italy strategic plan, which is focused on bold electrification. Maserati is the first Italian luxury brand to develop and produce all-electric vehicles, and it's driving through a sustainable long-term profitable growth plan centered on consistent brand and product evolution."
 weight: 30
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Maserati GranCabrio es un Convertible de lujo disponible en 1 variantes.
+Maserati GranCabrio es un convertible de lujo disponible en 1 variantes.
 </p>
 	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

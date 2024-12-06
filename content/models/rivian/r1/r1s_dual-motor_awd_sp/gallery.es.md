@@ -1,7 +1,7 @@
 ---
-title: Rivian R1S Dual-Motor AWD SP galería
+title: Galería de Rivian R1S Dual-Motor AWD SP
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Rivian R1S Dual-Motor AWD SP. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Rivian R1S Dual-Motor AWD SP. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

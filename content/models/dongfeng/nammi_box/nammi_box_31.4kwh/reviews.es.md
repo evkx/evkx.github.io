@@ -1,5 +1,5 @@
 ---
-title: Dongfeng Nammi Box 31.4kWh reseñas
+title: Reseñas de Dongfeng Nammi Box 31.4kWh
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

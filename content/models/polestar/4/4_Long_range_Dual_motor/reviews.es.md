@@ -1,5 +1,5 @@
 ---
-title: Polestar 4 Long range Dual motor reseñas
+title: Reseñas de Polestar 4 Long range Dual motor
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

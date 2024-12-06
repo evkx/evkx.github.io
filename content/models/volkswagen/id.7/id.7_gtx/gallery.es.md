@@ -1,7 +1,7 @@
 ---
-title: Volkswagen ID.7 GTX galería
+title: Galería de Volkswagen ID.7 GTX
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volkswagen ID.7 GTX. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volkswagen ID.7 GTX. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

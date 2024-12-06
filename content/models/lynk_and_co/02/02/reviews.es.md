@@ -1,5 +1,5 @@
 ---
-title: Lynk & Co 02 reseñas
+title: Reseñas de Lynk & Co 02
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

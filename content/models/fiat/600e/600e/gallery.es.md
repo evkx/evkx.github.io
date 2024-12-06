@@ -1,7 +1,7 @@
 ---
-title: Fiat 600e galería
+title: Galería de Fiat 600e
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Fiat 600e. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Fiat 600e. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

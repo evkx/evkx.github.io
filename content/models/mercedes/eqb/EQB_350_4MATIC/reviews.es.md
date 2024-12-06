@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ EQB 350 4MATIC reseñas
+title: Reseñas de Mercedes-EQ EQB 350 4MATIC
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID.7 GTX Tourer reseñas
+title: Reseñas de Volkswagen ID.7 GTX Tourer
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

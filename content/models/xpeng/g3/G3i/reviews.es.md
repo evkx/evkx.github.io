@@ -1,5 +1,5 @@
 ---
-title: XPENG G3i reseñas
+title: Reseñas de XPENG G3i
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

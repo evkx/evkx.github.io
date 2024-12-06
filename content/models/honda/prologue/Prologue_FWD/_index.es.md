@@ -1,7 +1,7 @@
 ---
 title: Honda Prologue FWD
 linktitle: "Prologue FWD"
-description: "Honda Prologue FWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 476 km (296 millas). EVKX.net tiene todos los detalles."
+description: "Honda Prologue FWD es un SUV eléctrico con una autonomía EPA de hasta 476 km (296 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,74 +11,74 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/main_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2018"  >}}
 
-Hemos separado nuestro artículo Honda Prologue FWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Honda Prologue FWD ofrece un rendimiento modesto con una potencia máxima de 158 kW (215 hp) y un par total de 320 Nm. Acelera de 0 a 100 km/h en 7,5 segundos y tiene una velocidad máxima 182 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Honda Prologue FWD ofrece un rendimiento modesto con una potencia máxima de 158 kW (215 hp / 212 bhp) y un par total de 320 Nm (236 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 7,5 segundos y alcanza una velocidad máxima de 182 km/h (113 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
 La batería de alta capacidad tiene una capacidad bruta de 89,0 kWh y una capacidad neta utilizable de 85,0 kWh, proporcionando un buffer de 4,0 kWh (4,5%) para la protección de la batería.
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 476 km con una tasa de consumo de energía de 17,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 296 millas (476 km) con una tasa de consumo de energía de 3,5 millas por kWh. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 68 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 56%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 25 minutos y 21 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 150 kW. Cargar del 0% al 100% toma aproximadamente 68 minutos, mientras que un escenario más típico del 10% al 80% toma 32 minutos con una velocidad de carga promedio de 111 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 6% al 56%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 101 kW, con cada sesión de carga tomando aproximadamente 25 minutos y 21 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 59 minutos. Este viaje requeriría dos paradas de carga del 6% al 55%, con un tiempo total de carga de 99 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 59 minutos, requiriendo cuatro paradas de carga del 6% al 55%, totalizando 99 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 23 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 23 minutos usando una configuración doméstica.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado delantero izquierdo](../../../../technology/charging/connectors/#front-side). Esta ubicación facilita el uso de estaciones de carga donde estaciona de lado hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Honda Prologue FWD tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El Honda Prologue FWD tiene un sistema de tracción delantera soportado por un motor en el eje delantero. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
+La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 178 mm.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 396 mm y los discos traseros de 343 mm.
+El Honda Prologue FWD está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 396 mm, mientras que los discos traseros son de 343 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene el coche completamente utilizando frenos de fricción.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Honda Prologue FWD, con dimensiones de 4877 mm de longitud, 1989 mm de anchura y 1634 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Honda Prologue FWD está disponible en un total de 7 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
+El Honda Prologue FWD, con dimensiones de 4877 mm de longitud, 1989 mm de ancho y 1634 mm de altura, pertenece a los SUVs de tamaño medio que ofrecen una combinación de espacio, comodidad, rendimiento y versatilidad, haciéndolos adecuados para una amplia gama de conductores con diversas necesidades. El Honda Prologue FWD está disponible en un total de 7 colores de pintura, incluidos colores sólidos, metálicos y perlados.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Honda Prologue FWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el Honda Prologue FWD, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 275/45 en llantas de 21
+- 275/45 neumáticos en llantas de 21"
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). La puerta levadiza eléctrica tiene un sensor de patada como equipo opcional, lo que permite abrirla simplemente moviendo el pie debajo de la puerta trasera.
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate). El portón trasero de apertura eléctrica tiene un sensor de patada como equipo opcional, lo que permite abrirlo simplemente pateando el pie debajo del portón trasero.
 
-Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol. Como opción, puedes pedir este modelo con techo panorámico que se puede abrir. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol. Como opción, puede pedir este modelo con un techo panorámico que se puede abrir. El vidrio tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/exterior_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2000"  >}}
 
@@ -86,65 +86,65 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 ## Interior
 
-Puedes elegir entre varios diseños de interiores.
+Puede elegir entre varios diseños de interiores.
 
 ### Asientos
 
-El Honda Prologue FWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Honda Prologue FWD acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Honda Prologue FWD ofrece un único tipo de asiento delantero.
+El Honda Prologue FWD ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
-Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Gray [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Brown [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Honda Prologue FWD incluye varias características para mejorar la comodidad y conveniencia:
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Honda Prologue FWD tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+El Honda Prologue FWD tiene múltiples pantallas integradas. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 11,0 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 11,3 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 11,0 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 11,3 pulgadas.
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/screens_1_st.jpg" title="Honda Prologue FWD" width="1600" height="900"  >}}
 
@@ -152,82 +152,82 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Honda Prologue FWD está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Honda Prologue FWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Honda Prologue FWD es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el Honda Prologue FWD.
+El Honda Prologue FWD viene equipado con una opción de sistema de sonido:
 
 - **Bose premium audio system:** Cuenta con 12 altavoces.
 
-El modelo tiene 5 conexiones USB-C de serie.
+Además, el modelo incluye 5 conexiones USB-C como estándar.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Honda Prologue FWD incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Honda Prologue FWD cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Honda Prologue FWD, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Honda Prologue FWD, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Honda Prologue FWD, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Honda Prologue FWD, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Honda Prologue FWD, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Honda Prologue FWD, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Honda Prologue FWD, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Honda Prologue FWD, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Honda Prologue FWD, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Honda Prologue FWD, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Honda Prologue FWD, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Honda Prologue FWD, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Honda Prologue FWD, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Honda Prologue FWD, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Honda Prologue FWD, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
 ### Automatización de la Conducción
 
-Honda Prologue FWD ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El Honda Prologue FWD ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Honda Prologue FWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Honda Prologue FWD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 793 litros. Con el asiento trasero plegado, esto se expande a 1723 litros.
+El maletero ofrece una capacidad de carga de 793 litros (28,0 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1723 litros (60,8 pies cúbicos).
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 680 kg, mientras que para un tráiler sin freno es de 680 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 680 kg (1499 lbs), mientras que para un remolque sin freno, es de 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}
 
-{{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Rango" >}}
+{{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Autonomía" >}}

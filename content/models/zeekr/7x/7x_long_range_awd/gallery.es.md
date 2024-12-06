@@ -1,7 +1,7 @@
 ---
-title: Zeekr 7X Long Range AWD galería
+title: Galería de Zeekr 7X Long Range AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Zeekr 7X Long Range AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Zeekr 7X Long Range AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

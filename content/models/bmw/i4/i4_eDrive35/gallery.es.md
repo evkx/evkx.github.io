@@ -1,7 +1,7 @@
 ---
-title: BMW i4 eDrive35 galería
+title: Galería de BMW i4 eDrive35
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BMW i4 eDrive35. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BMW i4 eDrive35. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
-title: Lucid Air Dream Edition Performance galería
+title: Galería de Lucid Air Dream Edition Performance
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Lucid Air Dream Edition Performance. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Lucid Air Dream Edition Performance. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

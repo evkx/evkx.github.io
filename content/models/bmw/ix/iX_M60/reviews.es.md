@@ -1,5 +1,5 @@
 ---
-title: BMW iX M60 reseñas
+title: Reseñas de BMW iX M60
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

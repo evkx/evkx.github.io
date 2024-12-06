@@ -1,5 +1,5 @@
 ---
-title: DS 3 E-Tense reseñas
+title: Reseñas de DS 3 E-Tense
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,7 +1,7 @@
 ---
-title: CUPRA BORN 58 galería
+title: Galería de CUPRA BORN 58
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes CUPRA BORN 58. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de CUPRA BORN 58. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

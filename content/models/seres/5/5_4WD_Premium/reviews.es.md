@@ -1,5 +1,5 @@
 ---
-title: Seres 5 4WD Premium reseñas
+title: Reseñas de Seres 5 4WD Premium
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,5 +1,5 @@
 ---
-title: Zeekr MIX Standard Range RWD reseñas
+title: Reseñas de Zeekr MIX Standard Range RWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

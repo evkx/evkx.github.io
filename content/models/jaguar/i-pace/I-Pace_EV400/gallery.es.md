@@ -1,7 +1,7 @@
 ---
-title: Jaguar I-Pace EV400 galería
+title: Galería de Jaguar I-Pace EV400
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Jaguar I-Pace EV400. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Jaguar I-Pace EV400. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

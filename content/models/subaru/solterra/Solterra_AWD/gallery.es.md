@@ -1,7 +1,7 @@
 ---
-title: Subaru Solterra AWD galería
+title: Galería de Subaru Solterra AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Subaru Solterra AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Subaru Solterra AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,5 +1,5 @@
 ---
-title: YangWang modelos de vehículos eléctricos
+title: Modelos EV de YangWang
 linktitle: "YangWang"
 description: "Yangwang is a Chinese luxury electric car brand owned by BYD Auto and marketed by Shenzhen Yangwang Auto Sales Co., Ltd. The brand was introduced in January 2023 and targets the high-end market segment with its innovative technology and design."
 weight: 30

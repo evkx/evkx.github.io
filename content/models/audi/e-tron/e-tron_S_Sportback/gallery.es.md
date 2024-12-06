@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron S Sportback galería
+title: Galería de Audi e-tron S Sportback
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Audi e-tron S Sportback. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Audi e-tron S Sportback. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

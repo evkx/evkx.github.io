@@ -1,5 +1,5 @@
 ---
-title: Xiaomi SU7 Pro reseñas
+title: Reseñas de Xiaomi SU7 Pro
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

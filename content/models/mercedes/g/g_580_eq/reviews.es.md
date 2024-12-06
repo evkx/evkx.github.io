@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ G 580 EQ reseñas
+title: Reseñas de Mercedes-EQ G 580 EQ
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

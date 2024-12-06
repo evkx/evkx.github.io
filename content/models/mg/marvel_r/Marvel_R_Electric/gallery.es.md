@@ -1,7 +1,7 @@
 ---
-title: MG Marvel R Electric galería
+title: Galería de MG Marvel R Electric
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes MG Marvel R Electric. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de MG Marvel R Electric. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

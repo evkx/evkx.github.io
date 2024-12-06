@@ -1,7 +1,7 @@
 ---
-title: BYD Dolphin 60.4kWh galería
+title: Galería de BYD Dolphin 60.4kWh
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BYD Dolphin 60.4kWh. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BYD Dolphin 60.4kWh. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

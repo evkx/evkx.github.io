@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS 450 4MATIC SUV galería
+title: Galería de Mercedes-EQ EQS 450 4MATIC SUV
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Mercedes-EQ EQS 450 4MATIC SUV. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Mercedes-EQ EQS 450 4MATIC SUV. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

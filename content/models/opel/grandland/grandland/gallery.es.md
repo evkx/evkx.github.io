@@ -1,7 +1,7 @@
 ---
-title: Opel Grandland galería
+title: Galería de Opel Grandland
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Opel Grandland. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Opel Grandland. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

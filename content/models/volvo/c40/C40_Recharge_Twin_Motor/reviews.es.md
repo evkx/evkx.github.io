@@ -1,5 +1,5 @@
 ---
-title: Volvo C40 Recharge Twin Motor reseñas
+title: Reseñas de Volvo C40 Recharge Twin Motor
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

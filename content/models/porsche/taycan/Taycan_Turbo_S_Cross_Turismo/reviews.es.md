@@ -1,5 +1,5 @@
 ---
-title: Porsche Taycan Turbo S Cross Turismo reseñas
+title: Reseñas de Porsche Taycan Turbo S Cross Turismo
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

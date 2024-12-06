@@ -1,5 +1,5 @@
 ---
-title: Opel Astra Sports Tourer Electric reseñas
+title: Reseñas de Opel Astra Sports Tourer Electric
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,7 +1,7 @@
 ---
-title: BMW i5 M60 xDrive galería
+title: Galería de BMW i5 M60 xDrive
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BMW i5 M60 xDrive. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BMW i5 M60 xDrive. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

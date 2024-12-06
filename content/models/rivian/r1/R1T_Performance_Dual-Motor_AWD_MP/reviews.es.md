@@ -1,5 +1,5 @@
 ---
-title: Rivian R1T Performance Dual-Motor AWD MP reseñas
+title: Reseñas de Rivian R1T Performance Dual-Motor AWD MP
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

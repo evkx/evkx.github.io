@@ -1,5 +1,5 @@
 ---
-title: Lancia modelos de vehículos eléctricos
+title: Modelos EV de Lancia
 linktitle: "Lancia"
 description: "Lancia is a historic Italian car brand that is owned by Stellantis, the world's fourth-largest automaker. Lancia is known for its stylish and innovative cars, such as the Stratos, the Delta, and the Ypsilon."
 weight: 30

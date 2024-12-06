@@ -1,5 +1,5 @@
 ---
-title: Lucid modelos de vehículos eléctricos
+title: Modelos EV de Lucid
 linktitle: "Lucid"
 description: "Lucid Motors, fundada en 2007, es un fabricante estadounidense de vehículos eléctricos conocido por sus EVs de lujo, especialmente el sedán Lucid Air. Combina tecnología avanzada, alto rendimiento y diseños ecológicos, centrándose en la innovación."
 weight: 30

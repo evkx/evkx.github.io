@@ -1,5 +1,5 @@
 ---
-title: Fisker Ocean Extreme reseñas
+title: Reseñas de Fisker Ocean Extreme
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

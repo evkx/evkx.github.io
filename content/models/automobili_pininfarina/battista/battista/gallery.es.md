@@ -1,7 +1,7 @@
 ---
-title: Automobili Pininfarina Battista galería
+title: Galería de Automobili Pininfarina Battista
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Automobili Pininfarina Battista. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Automobili Pininfarina Battista. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

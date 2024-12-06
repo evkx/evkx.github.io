@@ -1,5 +1,5 @@
 ---
-title: Cadillac LYRIQ AWD reseñas
+title: Reseñas de Cadillac LYRIQ AWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

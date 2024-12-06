@@ -1,5 +1,5 @@
 ---
-title: Tesla Model S Plaid reseñas
+title: Reseñas de Tesla Model S Plaid
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

@@ -1,7 +1,7 @@
 ---
-title: Zeekr 009 ME Edition alcance y consumo
-linktitle: "Rango"
-description: "Aquí encontrarás todos los detalles sobre la autonomía y el consumo de Zeekr 009 ME Edition."
+title: Autonomía y consumo de Zeekr 009 ME Edition
+linktitle: "Autonomía"
+description: "Aquí encontrarás todos los detalles sobre la autonomía y el consumo del Zeekr 009 ME Edition."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -9,14 +9,14 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-La autonomía variará dependiendo de varios factores. Como la velocidad a la que conduces, la temperatura, la carretera mojada o seca y el equipo equipado. En esta página encontrarás un diagrama y tablas con los resultados de ciclos de prueba estándar como WLTP y EPA y alcance estimado en el mundo real en diferentes entornos.
+La autonomía variará dependiendo de varios factores, como la velocidad a la que conduces, la temperatura, si la carretera está mojada o seca y el equipo instalado. En esta página encontrarás un diagrama y tablas con los resultados del ciclo de prueba estándar como WLTP y EPA y la autonomía estimada en el mundo real en diferentes entornos.
 
 <img class="img-fluid" alt="Charge curve" src="/images//models/zeekr/009/009_me_edition/range.svg"/>
 <a href="/images/models/zeekr/009/009_me_edition/range.svg">Full screen</a>
 
-### Resultados oficiales del ciclo de prueba
+### Resultados del ciclo de prueba oficial
 
-A continuación se muestran los rangos clasificados oficialmente. Las pruebas se realizan con la calefacción/aire acondicionado apagado. Haga clic en los enlaces de la tabla para obtener más detalles sobre los procedimientos de prueba.
+A continuación se muestran las autonomías oficialmente calificadas. Las pruebas se realizan con la calefacción/AC apagados. Haz clic en los enlaces de la tabla para obtener más detalles sobre los procedimientos de prueba.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -25,7 +25,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 			<th>
 			</th>
 			<th>
-				Alcance
+				Autonomía
 			</th>
 			<th>
 				Consumo
@@ -36,7 +36,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
-					rango CLTC
+					Autonomía CLTC
 				</a>
 			</td>
 			<td>
@@ -50,9 +50,9 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 </table>
 </div>
 
-### Resultados oficiales del ciclo de prueba con calefacción adicional
+### Resultados del ciclo de prueba oficial con calefacción añadida
 
-La siguiente tabla muestra cómo encender la calefacción/refrigeración en un día frío/caliente afecta la autonomía oficial.
+La tabla a continuación muestra cómo afecta la autonomía oficial encender la calefacción/enfriamiento en un día frío/caluroso.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -61,10 +61,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 			<th>
 			</th>
 			<th>
-				Alcance
+				Autonomía
 			</th>
 			<th>
-				Reducción de alcance
+				Reducción de autonomía
 			</th>
 		</tr>
 	</thead>
@@ -75,7 +75,7 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 
 ### Estimaciones de autonomía en el mundo real
 
-La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfectas condiciones y en condiciones que necesitan aire acondicionado para calentar o enfriar vehículos. Consulte nuestra [guía de rango](../../../../../guides/understandingrange/) para ver cómo se ve afectado el rango en el mundo real.
+La tabla a continuación muestra algunos ejemplos estimados del mundo real en condiciones perfectas y en condiciones que requieren A/C para calentar o enfriar el vehículo. Consulta nuestra [guía de autonomía](../../../../../guides/understandingrange/) para ver cómo se ve afectada la autonomía en el mundo real.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -84,7 +84,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 			<th>
 			</th>
 			<th>
-				Alcance
+				Autonomía
 			</th>
 			<th>
 				Consumo
@@ -94,7 +94,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 	<tbody>
 		<tr>
 			<td>
-				120kmh/75mph perfecto estado
+				120 km/h (75 mph) en condiciones perfectas
 			</td>
 			<td>
 				479 km / 298 mi
@@ -105,7 +105,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 		</tr>
 		<tr>
 			<td>
-				120 kmh/75 mph con calefacción de 2 KW
+				120 km/h (75 mph) con calefacción de 2KW
 			</td>
 			<td>
 				452 km /281mi

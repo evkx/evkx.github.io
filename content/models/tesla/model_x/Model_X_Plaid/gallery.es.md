@@ -1,7 +1,7 @@
 ---
-title: Tesla Model X Plaid galería
+title: Galería de Tesla Model X Plaid
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Tesla Model X Plaid. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Tesla Model X Plaid. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

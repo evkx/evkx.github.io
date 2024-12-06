@@ -1,5 +1,5 @@
 ---
-title: Hyundai Kona Long Range reseñas
+title: Reseñas de Hyundai Kona Long Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

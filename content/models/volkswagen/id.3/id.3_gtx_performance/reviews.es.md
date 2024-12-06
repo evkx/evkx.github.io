@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID.3 GTX Performance reseñas
+title: Reseñas de Volkswagen ID.3 GTX Performance
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

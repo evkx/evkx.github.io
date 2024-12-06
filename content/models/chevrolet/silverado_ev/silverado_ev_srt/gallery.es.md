@@ -1,7 +1,7 @@
 ---
-title: Chevrolet Silverado EV SRT galería
+title: Galería de Chevrolet Silverado EV SRT
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Chevrolet Silverado EV SRT. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Chevrolet Silverado EV SRT. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
-title: Volkswagen Id. UNYX galería
+title: Galería de Volkswagen Id. UNYX
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volkswagen Id. UNYX. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volkswagen Id. UNYX. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
-title: Volvo EM90 galería
+title: Galería de Volvo EM90
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Volvo EM90. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Volvo EM90. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

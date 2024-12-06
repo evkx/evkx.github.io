@@ -1,7 +1,7 @@
 ---
-title: Ford Puma Gen-E galería
+title: Galería de Ford Puma Gen-E
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Ford Puma Gen-E. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Ford Puma Gen-E. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

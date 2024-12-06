@@ -1,5 +1,5 @@
 ---
-title: Hyundai IONIQ 9 AWD Long Range reseñas
+title: Reseñas de Hyundai IONIQ 9 AWD Long Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

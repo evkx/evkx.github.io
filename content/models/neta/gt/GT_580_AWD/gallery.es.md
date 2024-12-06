@@ -1,7 +1,7 @@
 ---
-title: Neta GT 580 AWD galería
+title: Galería de Neta GT 580 AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Neta GT 580 AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Neta GT 580 AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

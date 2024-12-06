@@ -1,5 +1,5 @@
 ---
-title: Peugot modelos de vehículos eléctricos
+title: Modelos EV de Peugot
 linktitle: "Peugot"
 description: "Peugeot is a French brand of automobiles that was founded in 1810 as a steel foundry that later produced hand tools, kitchen equipment, bicycles and cars. Peugeot is known for its lion logo, which was registered in 1858 by Émile Peugeot. Peugeot is part of the Stellantis group, which was formed in 2021 by the merger of PSA Peugeot Citroën and Fiat Chrysler Automobiles."
 weight: 30
@@ -56,7 +56,7 @@ Peugot 208 es un crossover disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 3008 es un SUV Coupé disponible en 2 variantes.
+Peugot 3008 es un SUV cupé disponible en 2 variantes.
 </p>
 	<a href="3008/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
@@ -71,7 +71,7 @@ Peugot 3008 es un SUV Coupé disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 308 es un hatchback/camioneta disponible en 2 variantes.
+Peugot 308 es un hatchback / familiar disponible en 2 variantes.
 </p>
 	<a href="308/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

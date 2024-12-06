@@ -1,7 +1,7 @@
 ---
-title: BYD Tang EV600 galería
+title: Galería de BYD Tang EV600
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes BYD Tang EV600. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de BYD Tang EV600. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

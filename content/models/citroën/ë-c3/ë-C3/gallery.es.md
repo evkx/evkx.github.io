@@ -1,7 +1,7 @@
 ---
-title: Citroën ë-C3 galería
+title: Galería de Citroën ë-C3
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Citroën ë-C3. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Citroën ë-C3. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

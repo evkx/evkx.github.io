@@ -1,5 +1,5 @@
 ---
-title: KGM Torres EVX reseñas
+title: Reseñas de KGM Torres EVX
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

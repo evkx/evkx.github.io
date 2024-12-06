@@ -1,7 +1,7 @@
 ---
-title: Mercedes-AMG EQE 43 4MATIC galería
+title: Galería de Mercedes-AMG EQE 43 4MATIC
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Mercedes-AMG EQE 43 4MATIC. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Mercedes-AMG EQE 43 4MATIC. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

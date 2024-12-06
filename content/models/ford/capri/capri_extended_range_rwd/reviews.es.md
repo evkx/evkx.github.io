@@ -1,5 +1,5 @@
 ---
-title: Ford Capri Extended Range RWD reseñas
+title: Reseñas de Ford Capri Extended Range RWD
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

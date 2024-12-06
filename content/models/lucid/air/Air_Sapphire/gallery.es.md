@@ -1,7 +1,7 @@
 ---
-title: Lucid Air Sapphire galería
+title: Galería de Lucid Air Sapphire
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Lucid Air Sapphire. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Lucid Air Sapphire. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

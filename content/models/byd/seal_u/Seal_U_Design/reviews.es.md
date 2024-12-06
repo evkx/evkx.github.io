@@ -1,5 +1,5 @@
 ---
-title: BYD Seal U Design reseñas
+title: Reseñas de BYD Seal U Design
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

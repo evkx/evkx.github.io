@@ -1,7 +1,7 @@
 ---
-title: Porsche Macan galería
+title: Galería de Porsche Macan
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Porsche Macan. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Porsche Macan. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

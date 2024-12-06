@@ -1,7 +1,7 @@
 ---
-title: SKODA ENYAQ 85x galería
+title: Galería de SKODA ENYAQ 85x
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes SKODA ENYAQ 85x. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de SKODA ENYAQ 85x. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

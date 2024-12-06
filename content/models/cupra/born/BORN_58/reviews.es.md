@@ -1,5 +1,5 @@
 ---
-title: CUPRA BORN 58 reseñas
+title: Reseñas de CUPRA BORN 58
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

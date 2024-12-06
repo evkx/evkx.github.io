@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "Volvo EM90 es un monovolumen premium totalmente eléctrico con una CLTC autonomía de hasta 738 km (459 millas). EVKX.net tiene todos los detalles."
+description: "Volvo EM90 es un MPV eléctrico premium con una autonomía CLTC de hasta 738 km (459 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,75 +11,75 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/main_1_st.jpg" title="Volvo EM90" width="2000" height="1503"  >}}
 
-Hemos separado nuestro artículo Volvo EM90 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Volvo EM90 ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 686 Nm. Acelera de 0 a 100 km/h en 8,3 segundos y tiene una velocidad máxima 190 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Volvo EM90 ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp / 268 bhp) y un par total de 686 Nm (506 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 8,3 segundos y alcanza una velocidad máxima de 190 km/h (118 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 116,0 kWh y una capacidad neta utilizable de 110,0 kWh, proporcionando un buffer de 6,0 kWh (5,2%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 116,0 kWh y una capacidad neta utilizable de 110,0 kWh, proporcionando un buffer de 6,0 kWh (5,2%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 738 km (459 millas). El consumo es de 14,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+La autonomía del vehículo, según el estándar [CLTC](../../../../guides/understandingrange/cltc/) (Ciclo de Prueba de Vehículos Ligeros de China), es de 738 km (459 millas). El consumo de energía es de 14,9 kWh/100 km según la prueba estándar CLTC. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 68 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 136kW. Cada sesión de carga tardaría 24 minutos y 12 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 200 kW. Cargar del 0% al 100% toma aproximadamente 68 minutos, mientras que un escenario más típico del 10% al 80% toma 32 minutos con una velocidad de carga promedio de 144 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 5% al 55%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 136 kW, con cada sesión de carga tomando aproximadamente 24 minutos y 12 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 35 minutos. Este viaje requeriría dos paradas de carga del 4% al 56%, con un tiempo total de carga de 76 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 28 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 35 minutos, requiriendo tres paradas de carga del 4% al 56%, totalizando 76 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 10 horas y 0 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 10 horas y 0 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+El puerto de carga está ubicado en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side), lo que facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Volvo EM90 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El Volvo EM90 tiene un sistema de tracción trasera soportado por un motor en el eje trasero. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 162 mm y la máxima es 192 mm.
+La suspensión delantera es de [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es completamente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar manual y automáticamente. La distancia mínima al suelo es de 162 mm, y la máxima es de 192 mm.
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 533 mm y los discos traseros de 457 mm.
+El Volvo EM90 está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 533 mm, mientras que los discos traseros son de 457 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 ## Exterior
 
-El Volvo EM90 está disponible en un total de 3 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El Volvo EM90 está disponible en un total de 3 colores de pintura, incluidos varios llamativos colores metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volvo EM90, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Volvo EM90 ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 255/50 en llantas de 19
-- Neumáticos 255/45 en llantas de 20
+- 255/50 neumáticos en llantas de 19"
+- 255/45 neumáticos en llantas de 20"
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales. La puerta trasera funciona eléctricamente.
+El coche tiene dos [puertas regulares](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas laterales tienen una función de apertura eléctrica una característica estándar. El portón trasero es de apertura eléctrica.
 
-Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
+Solo hay una opción de techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tintado para proteger contra el calor del sol.
 
-Las ventanas del pilar B y la parte trasera están tintadas.
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -87,80 +87,80 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+Hay un tipo de asiento que puede seleccionar en diferentes materiales.
 
 ### Asientos
 
-La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
+La disposición de asientos es de seis plazas con dos asientos delanteros, dos asientos tipo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-El Volvo EM90 ofrece un único tipo de asiento delantero.
+El Volvo EM90 ofrece un solo tipo de asiento delantero.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapicería de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
+Para la segunda fila, este modelo tiene dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
-#### Asientos de tercera fila
+#### Asientos de la Tercera Fila
 
-La tercera fila tiene un banco de dos asientos con una división 40:60. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
+La tercera fila tiene un banco de dos asientos con división 40:60. También puede plegar los asientos cuando no se usan para crear un mayor espacio de carga.
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay un sistema climático disponible.
+Hay un sistema de climatización disponible:
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Volvo EM90 incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Volvo EM90 tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+El Volvo EM90 tiene múltiples pantallas integradas. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 10,2 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 15,4 pulgadas de tamaño
-Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
-El modelo no tiene head-up display.
+- La pantalla  detrás del volante integrado en el tablero mide 10,2 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 15,4 pulgadas.
+Para los pasajeros del asiento trasero, hay una pantalla de infoentretenimiento en el techo detrás de los asientos de la primera fila.
+El modelo no incluye una pantalla frontal.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
@@ -168,82 +168,82 @@ El modelo no tiene head-up display.
 
 El Volvo EM90 está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Volvo EM90 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Volvo EM90 es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Un tipo de sistema de sonido está disponible para el Volvo EM90.
+El Volvo EM90 viene equipado con una opción de sistema de sonido:
 
-- Con el Bowers & Wilkins Sound System, obtienes 21 parlantes con una salida máxima del sistema de 500 vatios.
+- **Bowers & Wilkins Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 500 vatios.
 
-El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Volvo EM90 incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Volvo EM90 cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
-[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una función Estándar que ayuda a los conductores a anticipar las condiciones de manejo y conservar energía.
+[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una característica Estándar que ayuda a los conductores a anticipar las condiciones de conducción y conservar energía.
 
 ### Sistemas de Seguridad
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Volvo EM90, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Volvo EM90, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Volvo EM90, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Volvo EM90, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Volvo EM90, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Volvo EM90, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Volvo EM90, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Volvo EM90, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Volvo EM90, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Volvo EM90, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar Pilot Assist de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema estándar Pilot Assist de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Volvo EM90 está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Volvo EM90 está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin problemas, lo que le permite desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 376 litros. Con el asiento de la tercera fila plegado, esto se expande a 2979 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros.
+El maletero ofrece una capacidad de carga de 376 litros (13,3 pies cúbicos). Con el asiento de la tercera fila abatido, esto se expande a 2979 litros (105,2 pies cúbicos). En el techo, puede cargar hasta 100 kg (220,5 libras). Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros (1,1 pies cúbicos).
 
-El peso máximo del vehículo es 3400 kg, con un peso base de 2763 kg. Esto permite una carga máxima de 637 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 3400 kg (7496 libras), con un peso base de 2763 kg (6091 libras). Esto permite una carga máxima de 637 kg (1404 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 12.11.2023 y se espera que las entregas comiencen en March 2025. Este modelo sólo está disponible en China.
-{{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Rango" >}}
+Este modelo hizo su estreno mundial el 12.11.2023, con entregas anticipadas para comenzar en March 2025. Tenga en cuenta que este modelo está disponible exclusivamente en China.
+{{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Autonomía" >}}

@@ -1,7 +1,7 @@
 ---
-title: Lancia Ypsilon galería
+title: Galería de Lancia Ypsilon
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Lancia Ypsilon. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Lancia Ypsilon. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

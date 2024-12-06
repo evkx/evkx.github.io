@@ -1,7 +1,7 @@
 ---
-title: Tesla Model 3 Performance (GEN1) galería
+title: Galería de Tesla Model 3 Performance (GEN1)
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Tesla Model 3 Performance (GEN1). Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Tesla Model 3 Performance (GEN1). Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

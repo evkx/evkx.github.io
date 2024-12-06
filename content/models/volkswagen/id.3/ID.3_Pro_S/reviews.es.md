@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID.3 Pro S reseñas
+title: Reseñas de Volkswagen ID.3 Pro S
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

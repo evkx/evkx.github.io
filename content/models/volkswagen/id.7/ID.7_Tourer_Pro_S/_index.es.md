@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro S
 linktitle: "ID.7 Tourer Pro S"
-description: "Volkswagen ID.7 Tourer Pro S es una camioneta totalmente eléctrica con una WLTP autonomía de hasta 685 km (426 millas). EVKX.net tiene todos los detalles."
+description: "Volkswagen ID.7 Tourer Pro S es una station wagon eléctrica con una autonomía WLTP de hasta 685 km (426 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,82 +11,82 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/main_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
-Hemos separado nuestro artículo Volkswagen ID.7 Tourer Pro S en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-El Volkswagen ID.7 Tourer Pro S ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 550 Nm. Puede acelerar de 0 a 100 km/h en 6,5 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
+El Volkswagen ID.7 Tourer Pro S ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp / 282 bhp) y un par total de 550 Nm (406 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 6,5 segundos y alcanza una velocidad máxima de 180 km/h (112 mph), siendo competitivo dentro de su clase.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 91,0 kWh y una capacidad neta utilizable de 86,0 kWh, proporcionando un buffer de 5,0 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 383 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 91,0 kWh y una capacidad neta utilizable de 86,0 kWh, proporcionando un buffer de 5,0 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 383 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 685 y 622 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,6 kWh/100 km para el modelo base y 13,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 685 a 622 km (426-387 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 12,6 kWh/100 km para el modelo base y 13,8 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 47 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 121kW. Cada sesión de carga tardaría 24 minutos y 17 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 200 kW. Cargar del 0% al 100% toma aproximadamente 47 minutos, mientras que un escenario más típico del 10% al 80% toma 28 minutos con una velocidad de carga promedio de 131 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 58%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 121 kW, con cada sesión de carga tomando aproximadamente 24 minutos y 17 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 12 minutos. Este viaje requeriría dos paradas de carga del 1% al 62%, con un tiempo total de carga de 52 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 19 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 12 minutos, requiriendo dos paradas de carga del 1% al 62%, totalizando 52 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 49 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 49 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Volkswagen ID.7 Tourer Pro S tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+El Volkswagen ID.7 Tourer Pro S tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 149 mm.
+La suspensión delantera emplea un diseño de [doble horquilla](../../../../technology/suspension/#double-wishbone), mientras que la trasera utiliza una configuración [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del standard tiene resortes de acero con una altura fija pero una amortiguación ajustable opcional. La distancia al suelo con esta suspensión es de 149 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un opcional en el Volkswagen ID.7 Tourer Pro S. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una opción en el Volkswagen ID.7 Tourer Pro S, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
 ### Frenos
 
-El Volkswagen ID.7 Tourer Pro S utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
+El Volkswagen ID.7 Tourer Pro S utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/brakes/#drum-brakes) en la parte trasera para eficiencia de costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación asegura un rendimiento de frenado óptimo y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros son de 358 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza cuando es posible y emplea el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos combina frenos físicos solo cuando es necesario. <br /><br/> Otra opción es el modo [**Regeneración en el Pedal del Acelerador**](../../../../technology/regen/#one-pedal-driving) donde el frenado regenerativo se activa cuando el conductor levanta el pie del pedal del acelerador. Este sistema permite que el vehículo disminuya la velocidad y recupere energía sin que el conductor necesite presionar el pedal del freno, una característica a menudo denominada **conducción con un solo pedal**. Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
 
 Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
 ## Exterior
 
-El Volkswagen ID.7 Tourer Pro S, con dimensiones de 4961 mm de longitud, 1862 mm de anchura y 1532 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Volkswagen ID.7 Tourer Pro S está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Volkswagen ID.7 Tourer Pro S, con dimensiones de 4961 mm de longitud, 1862 mm de ancho y 1532 mm de altura, pertenece al segmento de coches E, también conocidos como coches ejecutivos, que son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer una comodidad superior, tecnología avanzada y alto rendimiento, haciéndolos adecuados para un conjunto específico de conductores. El Volkswagen ID.7 Tourer Pro S está disponible en un total de 10 colores de pintura, incluidos tanto colores sólidos como metálicos.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.7 Tourer Pro S, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Volkswagen ID.7 Tourer Pro S ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
-- Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
-- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
+- 235/55 neumáticos en llantas de 19" delanteras y 255/50 neumáticos en llantas de 19" traseras
+- 235/50 neumáticos en llantas de 20" delanteras y 255/45 neumáticos en llantas de 20" traseras
+- 235/45 neumáticos en llantas de 21" delanteras y 255/40 neumáticos en llantas de 21" traseras
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Puedes elegir una opción para que la puerta levadiza funcione eléctricamente. También puedes tener la puerta levadiza con un sensor de patada, lo que permite abrirla con solo patear el pie debajo de la puerta trasera.
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate). Puede elegir una opción para tener el portón trasero con apertura eléctrica. También puede tener el portón trasero con un sensor de patada, lo que permite abrirlo simplemente pateando el pie debajo del portón trasero.
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo panorámico grande que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/exterior_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
@@ -94,82 +94,82 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-El Volkswagen ID.7 Tourer Pro S cuenta con un interior enfocado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en todas las áreas clave. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
+El Volkswagen ID.7 Tourer Pro S presenta un interior centrado en el conductor, diseñado para mejorar la sensación de cabina con materiales premium en todo el vehículo. Un aspecto destacado es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
 
 ### Asientos
 
-El Volkswagen ID.7 Tourer Pro S tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Volkswagen ID.7 Tourer Pro S acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-Para la primera fila, el Volkswagen ID.7 Tourer Pro S ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para el asiento del pasajero)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-Las siguientes funcionalidades están disponibles en el asiento **ergoActive**.
+Las siguientes funcionalidades están disponibles en el asiento **ergoActive**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support)
+- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [Masaje](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para el asiento del pasajero)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la Segunda Fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-- reposacabezas ajustable en altura
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+- Reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay dos opciones de sistema de climatización disponibles:
+Hay dos opciones de sistemas de climatización disponibles:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
+Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Volkswagen ID.7 Tourer Pro S incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Carga inalámbrica de teléfono**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
+La interfaz de control del Volkswagen ID.7 Tourer Pro S combina botones, palancas y pantallas para una experiencia fluida y fácil de usar.
 
-El Volkswagen ID.7 Tourer Pro S tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+El Volkswagen ID.7 Tourer Pro S tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna de dirección, y en la parte superior del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
 
-- La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño
-- La touch pantalla en el centro del tablero mide 15,0 pulgadas de tamaño
+- La pantalla  en la columna de dirección mide 5,0 pulgadas.
+- La pantalla touch en el centro del tablero mide 15,0 pulgadas.
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/screens_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
@@ -177,110 +177,110 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Volkswagen ID.7 Tourer Pro S está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-El Volkswagen ID.7 Tourer Pro S cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, Volkswagen ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.
+El Volkswagen ID.7 Tourer Pro S cuenta con un avanzado sistema de información y entretenimiento basado en Android Automotive OS, una plataforma de Google diseñada específicamente para los tableros de los vehículos. Mejorando este robusto sistema, Volkswagen ha integrado su propia suite de aplicaciones, proporcionando una navegación sin interrupciones, configuraciones completas del coche y mucho más.
 
-### Sistema de navegación
+### Sistema de Navegación
 
-El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+El sistema de navegación integrado utiliza mapas detallados y ofrece planificación avanzada de rutas, lo que le permite definir el nivel de carga objetivo en su destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Aplicaciones Preinstaladas
 
 Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
 
-- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **Spotify:** Transmita millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de su coche, proporcionando infinitas opciones de entretenimiento para su viaje.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Volkswagen ID.7 Tourer Pro S es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Volkswagen ID.7 Tourer Pro S es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.7 Tourer Pro S.
+Puede elegir entre dos sistemas de sonido para el Volkswagen ID.7 Tourer Pro S:
 
-- Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios.
-- Con el Harman Kardon Soundsystem, obtienes 12 parlantes con una salida máxima del sistema de 700 vatios.
+- **Sound system:** Cuenta con seis altavoces y ofrece una potencia máxima de 140 vatios.
+- **Harman Kardon Soundsystem:** Cuenta con 12 altavoces y ofrece una potencia máxima de 700 vatios.
 
-El modelo tiene 4 conexiones USB-C de serie.
+Además, el modelo incluye 4 conexiones USB-C como estándar.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Volkswagen ID.7 Tourer Pro S.
+Puede elegir entre dos tipos de faros delanteros para el Volkswagen ID.7 Tourer Pro S.
 
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico en sentido contrario. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
+- **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico que se aproxima. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
-Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Volkswagen ID.7 Tourer Pro S incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Volkswagen ID.7 Tourer Pro S cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
-[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una función Estándar que ayuda a los conductores a anticipar las condiciones de manejo y conservar energía.
+[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una característica Estándar que ayuda a los conductores a anticipar las condiciones de conducción y conservar energía.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+[**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
-[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Volkswagen ID.7 Tourer Pro S ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El Volkswagen ID.7 Tourer Pro S ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Con el sistema opcional Assistantpackage plus de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional Assistantpackage plus de nivel 2, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Volkswagen ID.7 Tourer Pro S está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Volkswagen ID.7 Tourer Pro S está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 605 litros. Con el asiento trasero plegado, esto se expande a 1714 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 605 litros (21,4 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1714 litros (60,5 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Los rieles del techo son estándar para facilitar el montaje de una caja o portaequipajes en el techo.
 
-El peso máximo del vehículo es 2630 kg, con un peso base de 2197 kg. Esto permite una carga máxima de 433 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 2630 kg (5798 libras), con un peso base de 2197 kg (4844 libras). Esto permite una carga máxima de 433 kg (955 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1000 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1000 kg (2205 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/trunk_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
-{{< pagenavigation b_url="../" b_title="Volkswagen ID.7" f_url="rangeandconsumption/" f_title="Rango" >}}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.7" f_url="rangeandconsumption/" f_title="Autonomía" >}}

@@ -1,7 +1,7 @@
 ---
-title: Cadillac OPTIQ AWD galería
+title: Galería de Cadillac OPTIQ AWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Cadillac OPTIQ AWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Cadillac OPTIQ AWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

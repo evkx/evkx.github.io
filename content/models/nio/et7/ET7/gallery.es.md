@@ -1,7 +1,7 @@
 ---
-title: Nio ET7 galería
+title: Galería de Nio ET7
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Nio ET7. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Nio ET7. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

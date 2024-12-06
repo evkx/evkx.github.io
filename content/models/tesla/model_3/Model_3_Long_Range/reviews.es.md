@@ -1,5 +1,5 @@
 ---
-title: Tesla Model 3 Long Range reseñas
+title: Reseñas de Tesla Model 3 Long Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

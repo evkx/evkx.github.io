@@ -1,5 +1,5 @@
 ---
-title: Volvo XC40 Recharge Single Motor reseñas
+title: Reseñas de Volvo XC40 Recharge Single Motor
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6

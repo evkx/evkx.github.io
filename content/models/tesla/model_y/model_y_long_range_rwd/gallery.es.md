@@ -1,7 +1,7 @@
 ---
-title: Tesla Model Y Long Range RWD galería
+title: Galería de Tesla Model Y Long Range RWD
 linktitle: "Galería"
-description: "Vea a continuación nuestra gran galería de imágenes Tesla Model Y Long Range RWD. Haga clic en las imágenes para ver las versiones de alta resolución."
+description: "Vea a continuación nuestra gran galería de imágenes de Tesla Model Y Long Range RWD. Haga clic en las imágenes para versiones en alta resolución."
 weight: 5
 hidden: true
 navicon: bi-images

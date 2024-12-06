@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 50 e-tron quattro
 linktitle: "Q4 50 e-tron quattro"
-description: "Audi Q4 50 e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 491 km (305 millas). EVKX.net tiene todos los detalles."
+description: "Audi Q4 50 e-tron quattro es un SUV eléctrico premium con una autonomía WLTP de hasta 491 km (305 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,88 +11,88 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1998"  >}}
 
-Hemos separado nuestro artículo Audi Q4 50 e-tron quattro en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#batería-autonomía-y-carga)
-- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Rendimiento](#performance)
+- [Batería, Autonomía y Carga](#battery-range-and-charging)
+- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
-- [Infoentretenimiento](#infoentretenimiento)
-- [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
-- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+- [Interfaz de usuario y control](#user-interface-and-control)
+- [Infoentretenimiento](#infotainment)
+- [Luces](#lights)
+- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
+- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
 
 ## Rendimiento
 
-Con overboost, el Audi Q4 50 e-tron quattro alcanza una potencia máxima de 220 kW (299 hp). Sin overboost, entrega 195 kW (265 hp). El par máximo es de 460 Nm. Puede acelerar de 0 a 100 km/h en 6,2 segundos y alcanza una velocidad máxima de 180 km/h, demostrando su sólido rendimiento.
+Con sobrealimentación, el Audi Q4 50 e-tron quattro alcanza una potencia máxima de 220 kW (299 hp / 295 bhp). Sin sobrealimentación, ofrece 195 kW (265 hp / 262 bhp). El par máximo es de 460 Nm (339 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 6,2 segundos y alcanza una velocidad máxima de 180 km/h (112 mph), demostrando su sólido rendimiento.
 
-## Batería, autonomía y carga
+## Batería, Autonomía y Carga
 
 La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 76,6 kWh, proporcionando un buffer de 5,4 kWh (6,6%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 491 y 409 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,6 kWh/100 km para el modelo base y 18,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 491 a 409 km (305-254 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 15,6 kWh/100 km para el modelo base y 18,7 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 170kW. Una carga completa del 0 al 100 % tardaría 67 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 88kW. Cada sesión de carga tardaría 25 minutos y 36 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 170 kW. Cargar del 0% al 100% toma aproximadamente 67 minutos, mientras que un escenario más típico del 10% al 80% toma 36 minutos con una velocidad de carga promedio de 88 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 6% al 53%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 88 kW, con cada sesión de carga tomando aproximadamente 25 minutos y 36 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 7 minutos. Este viaje requeriría dos paradas de carga del 6% al 57%, con un tiempo total de carga de 107 minutos.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 23 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 7 minutos, requiriendo cuatro paradas de carga del 6% al 57%, totalizando 107 minutos de tiempo de carga.
 
-### Cargador a bordo
+### Cargador a Bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 57 minutos usando un cargador en casa.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 6 horas y 57 minutos usando una configuración doméstica.
 
-### Puerto de carga
+### Puerto de Carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
-## Tren de transmisión
+## Tren Motriz
 
-Audi Q4 50 e-tron quattro tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
+El Audi Q4 50 e-tron quattro cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores de Inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/) en el eje trasero.
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 180 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del standard tiene resortes de acero con una altura fija pero una amortiguación ajustable opcional. La distancia al suelo con esta suspensión es de 180 mm.
 
-Puedes pedir Audi Q4 50 e-tron quattro con una suspensión alternativa sport. La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión sport tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 165 mm.
+Puede pedir el Audi Q4 50 e-tron quattro con una suspensión sport alternativa. La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del sport tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 165 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un opcional en el Audi Q4 50 e-tron quattro. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una opción en el Audi Q4 50 e-tron quattro, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
 ### Frenos
 
-El Audi Q4 50 e-tron quattro utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
+El Audi Q4 50 e-tron quattro utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/brakes/#drum-brakes) en la parte trasera para eficiencia de costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación asegura un rendimiento de frenado óptimo y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros son de 358 mm.
 
-### Frenado regenerativo
+### Frenado Regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza cuando es posible y emplea el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos combina frenos físicos solo cuando es necesario. <br /><br/> Otra opción es el modo [**Regeneración en el Pedal del Acelerador**](../../../../technology/regen/#one-pedal-driving) donde el frenado regenerativo se activa cuando el conductor levanta el pie del pedal del acelerador. Este sistema permite que el vehículo disminuya la velocidad y recupere energía sin que el conductor necesite presionar el pedal del freno, una característica a menudo denominada **conducción con un solo pedal**. Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
 
-Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 ## Exterior
 
-El Audi Q4 50 e-tron quattro, con dimensiones de 4588 mm de longitud, 1865 mm de anchura y 1632 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Audi Q4 50 e-tron quattro, con dimensiones de 4588 mm de longitud, 1865 mm de ancho y 1632 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. Puede elegir entre 8 colores de pintura diferentes al ordenar este modelo.
 
-También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
+También puedes elegir entre varias opciones de estilo para hacer tu automóvil más único.
 
-Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi Q4 50 e-tron quattro, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+El Audi Q4 50 e-tron quattro ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
-- Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
-- Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
-- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
+- 235/55 neumáticos en llantas de 19" delanteras y 255/50 neumáticos en llantas de 19" traseras
+- 235/50 neumáticos en llantas de 20" delanteras y 255/45 neumáticos en llantas de 20" traseras
+- 235/45 neumáticos en llantas de 21" delanteras y 255/40 neumáticos en llantas de 21" traseras
 
-Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Puedes elegir una opción para que la puerta levadiza funcione eléctricamente. También puedes tener la puerta levadiza con un sensor de patada, lo que permite abrirla con solo patear el pie debajo de la puerta trasera.
+El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate). Puede elegir una opción para tener el portón trasero con apertura eléctrica. También puede tener el portón trasero con un sensor de patada, lo que permite abrirlo simplemente pateando el pie debajo del portón trasero.
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo panorámico. El vidrio se extiende sobre la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
-Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2250"  >}}
 
@@ -102,78 +102,78 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ### Asientos
 
-El Audi Q4 50 e-tron quattro tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+El Audi Q4 50 e-tron quattro acomoda cinco pasajeros con dos asientos delanteros y un banco de tres asientos en la parte trasera.
 
-#### Asientos de primera fila
+#### Asientos de la Primera Fila
 
-Para la primera fila, el Audi Q4 50 e-tron quattro ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- Reposacabezas ajustable en altura
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
 
-Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
-Las siguientes funcionalidades están disponibles en el asiento **sport**.
+Las siguientes funcionalidades están disponibles en el asiento **sport**:
 
-- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+Disponible en:
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1998"  >}}
 
-#### Asientos de la segunda fila
+#### Asientos de la Segunda Fila
 
-Puedes elegir dos tipos de asientos para la segunda fila en el Audi Q4 50 e-tron quattro.
+Puede elegir entre dos tipos de asientos para la segunda fila en el Audi Q4 50 e-tron quattro.
 
-La opción standard es un banco de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La opción standard es un banco de tres asientos con una división 60:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
-La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La opción second es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2000"  >}}
 
 ### Almacenamiento Interior
 
-- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con otros dos adicionales en el reposabrazos trasero.
-- **Guantera:** Una espaciosa guantera está situada en el tablero frente al pasajero, ideal para guardar artículos esenciales.
+- **Portavasos:** Hay dos portavasos ubicados en la consola central delantera, y dos adicionales en el reposabrazos trasero.
+- **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
 
-## Sistema de climatización
+## Sistema de Climatización
 
-Hay dos opciones de sistema de climatización disponibles:
+Hay dos opciones de sistemas de climatización disponibles:
 
-- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zona:** Soporta el control de una sola zona compartida para todo el coche.
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía utilizada para la calefacción en clima frío.
 
-## Características de confort
+## Características de Confort
 
 El Audi Q4 50 e-tron quattro incluye varias características para mejorar la comodidad y conveniencia:
 
-- **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
+- **Volante Ajustable Eléctricamente**
+- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
-## Interfaz de usuario y control
+## Interfaz de Usuario y Control
 
-El Audi Q4 50 e-tron quattro tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+El Audi Q4 50 e-tron quattro tiene múltiples pantallas integradas. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante integrado en el salpicadero mide 10,2 pulgadas de tamaño
-- La touch pantalla en la parte superior de la consola central mide 10,1 pulgadas de tamaño
+- La pantalla  detrás del volante integrado en el tablero mide 10,2 pulgadas.
+- La pantalla touch en la parte superior de la consola central mide 10,1 pulgadas.
 
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1686"  >}}
 
@@ -181,115 +181,115 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 El Audi Q4 50 e-tron quattro está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
-## Infoentretenimiento
+## Sistema de Información y Entretenimiento
 
-### Sistema de navegación
+### Sistema de Navegación
 
-Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+Con el sistema de navegación en el coche una opción, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
-### Espejo del teléfono
+### Espejo de Teléfono
 
-Además, el Audi Q4 50 e-tron quattro es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+El Audi Q4 50 e-tron quattro es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
 
-### Sistema de sonido
+### Sistema de Sonido
 
-Puedes elegir entre dos sistemas de sonido en el Audi Q4 50 e-tron quattro.
+Puede elegir entre dos sistemas de sonido para el Audi Q4 50 e-tron quattro:
 
-- Con el Audi Sound system, obtienes ocho parlantes con una salida máxima del sistema de 180 vatios.
-- Con el Sonos Sound System, obtienes diez parlantes con una salida máxima del sistema de 580 vatios.
+- **Audi Sound system:** Cuenta con ocho altavoces y ofrece una potencia máxima de 180 vatios.
+- **Sonos Sound System:** Cuenta con diez altavoces y ofrece una potencia máxima de 580 vatios.
 
-El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+Además, el modelo incluye 2 conexiones USB-C como estándar. Como opción, puede obtener 2 conexiones USB-C adicionales.
 
-## Aplicación móvil
+## Aplicación Móvil
 
-El Audi Q4 50 e-tron quattro viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+El Audi Q4 50 e-tron quattro viene con una aplicación móvil dedicada, disponible tanto para dispositivos Android como iOS, que le permite gestionar y monitorear su vehículo de forma remota. La aplicación ofrece una amplia gama de características diseñadas para mejorar su experiencia de conducción:
 
-- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
-- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
-- **Programar carga**: Planifica y programa sesiones de carga antes de tus viajes.
-- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
-- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
-- **Historial de conducción**: Revisa los detalles de tus viajes anteriores.
+- **Localizar Su Vehículo:** Compruebe fácilmente la ubicación actual de su coche.
+- **Preacondicionamiento:** Precaliente o enfríe su coche antes de comenzar su viaje para un confort óptimo.
+- **Programación de Carga:** Planifique y programe sesiones de carga antes de sus viajes.
+- **Ajustar Objetivo de Carga:** Establezca su nivel de carga deseado para iniciar o detener la carga según sea necesario.
+- **Planificación de Ruta:** Planifique su ruta y envíela directamente al sistema de navegación de su coche.
+- **Historial de Conducción:** Revise los detalles de sus viajes anteriores.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Audi Q4 50 e-tron quattro.
+Puede elegir entre dos tipos de faros delanteros para el Audi Q4 50 e-tron quattro.
 
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+- **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como opción, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al apagar áreas específicas pequeñas al frente.
 
-Además, tienes dos opciones para las luces traseras:
+Además, tiene dos opciones para las luces traseras:
 
-- Las luces traseras opcionales usan tecnología LED.
-- Las luces traseras opcionales usan tecnología LED.
+- Las luces traseras opcionales utilizan tecnología LED.
+- Las luces traseras opcionales utilizan tecnología LED.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2003"  >}}
 
-## Sistemas avanzados de asistencia al conductor
+## Sistemas Avanzados de Asistencia al Conductor
 
-El Audi Q4 50 e-tron quattro incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
+El Audi Q4 50 e-tron quattro cuenta con una gama de sistemas [avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales diseñados para mejorar la seguridad y la comodidad.
 
-[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una función Estándar que ayuda a los conductores a anticipar las condiciones de manejo y conservar energía.
+[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una característica Estándar que ayuda a los conductores a anticipar las condiciones de conducción y conservar energía.
 
 ### Sistemas de Seguridad
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Audi Q4 50 e-tron quattro, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Audi Q4 50 e-tron quattro, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Audi Q4 50 e-tron quattro, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladiza.
 
-[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Audi Q4 50 e-tron quattro, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+[**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Audi Q4 50 e-tron quattro, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Audi Q4 50 e-tron quattro, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el Audi Q4 50 e-tron quattro, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
-[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Audi Q4 50 e-tron quattro, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Opcional en el Audi Q4 50 e-tron quattro, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
 
-[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Audi Q4 50 e-tron quattro, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+[**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Audi Q4 50 e-tron quattro, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Audi Q4 50 e-tron quattro, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+[**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el Audi Q4 50 e-tron quattro, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Audi Q4 50 e-tron quattro, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Opcional en el Audi Q4 50 e-tron quattro, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
-[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Audi Q4 50 e-tron quattro, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Audi Q4 50 e-tron quattro, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Audi Q4 50 e-tron quattro ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
+El Audi Q4 50 e-tron quattro ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema  de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - Control de crucero.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-Con el sistema opcional Assistantpackage Tour de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente:
+Con el sistema opcional Assistantpackage Tour de nivel 2, obtienes características adicionales de automatización de la conducción a las enumeradas anteriormente:
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
-## Tecnologías de seguridad y acceso
+## Tecnologías de Seguridad y Acceso
 
-El Audi Q4 50 e-tron quattro está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estos incluyen:
+El Audi Q4 50 e-tron quattro está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
-- **Entrada y arranque sin llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin problemas sin sacar la llave de su bolsillo o bolso.
+- **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
 
-## Capacidad de carga y capacidad de remolque
+## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 520 litros. Con el asiento trasero plegado, esto se expande a 1490 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 520 litros (18,4 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1490 litros (52,6 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras).
 
-El peso máximo del vehículo es 2720 kg, con un peso base de 2135 kg. Esto permite una carga máxima de 585 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 2720 kg (5997 libras), con un peso base de 2135 kg (4707 libras). Esto permite una carga máxima de 585 kg (1290 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1200 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1200 kg (2646 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2249"  >}}
 
-## Disponibilidad y precios
+## Disponibilidad y Precios
 
-Este modelo tuvo un estreno mundial el 14.04.2021 y las entregas comenzaron en January 2022. Este modelo ahora ha sido descontinuado.
-{{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rango" >}}
+Este modelo tuvo su estreno mundial el 14.04.2021, y las entregas comenzaron en January 2022. Este modelo ha sido descontinuado.
+{{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Autonomía" >}}

@@ -1,5 +1,5 @@
 ---
-title: Renault Scenic E-Tech electric High Range reseñas
+title: Reseñas de Renault Scenic E-Tech electric High Range
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6
