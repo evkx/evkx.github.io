@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#leistung)
-- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
-- [Exterieur (Lackfarben, Räder ++)](#exterieur)
-- [Interieur (Sitze++)](#interieur)
-- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
-- [Infotainment](#infotainment)
-- [Lichter](#lichter)
-- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
-- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
+- [Leistung](#section-performance)
+- [Batterie, Reichweite und Laden](#section-battery)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#section-drivetrain)
+- [Exterieur (Lackfarben, Räder ++)](#section-exterior)
+- [Interieur (Sitze++)](#section-interior)
+- [Benutzeroberfläche und Steuerung](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lichter](#section-lights)
+- [Erweiterte Fahrerassistenzsysteme](#section-adas)
+- [Ladekapazität und Anhängelast](#section-transportation)
 
 <div class="alert alert-secondary" role="alert">
 
